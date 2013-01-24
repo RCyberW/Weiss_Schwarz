@@ -1,0 +1,2318 @@
+決意の江漣 001
+PT/W07-001 RR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【A】When this card is placed on stage from hand, choose 1 of your other characters, during this turn, it gets +1500 Power.
+【A】At the start of your Encore Step, if 「風の記憶」 is in your climax slot, you may return this card to hand.
+自】このカードが手札から舞台に置かれたとき、あなたは他の自分のキャラ１枚を選び、そのターン中、パワーを＋1500。
+【自】アンコールステップのはじめに、あなたのクライマックス置場に「風の記憶」があるなら、あなたはこのカードを手札に戻してよい。
+Flavor Text:
+……私の命は……あなたを守るためだけに、ある……
+
+==========================
+
+ファントムの助手キャル 002
+PT/W07-002 RR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Clock 時計,
+Card Text/Abilities:
+【C】All your other characters with 「ファントム」 in the name get +500 Power, +1 Soul.
+【A】［①］When 「報酬」 is placed into your climax slot, you may pay the cost. If you do, choose 1 of your opponent's back row cost 0 or below characters, place it in waiting room.が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手の後列のコスト0以下のキャラを1枚選び、ストック置場に置く。
+【永】他のあなたのカード名に「ファントム」を含むキャラすべてに、パワーを＋500し、ソウルを＋1。
+【自】［①］あなたのクライマックス置場に「報酬」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手の後列のコスト0以下のキャラを1枚選び、ストック置場に置く。
+Flavor Text:
+ここにある服ぜんぶ、同じくらい欲しいんだもん
+
+==========================
+
+デート中のアイン003
+PT/W07-003 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【S】[①Put this card to REST]Choose 1 of your opponent's front row cost 0 or below characters, return it to hand.
+【S】[Place this card in clock]Choose 1 of your characters, during this turn, it gets +2000 Power, +1 Soul.
+【起】[①このカードをレストする]あなたは相手の前列のコスト0以下のキャラを1枚選び、手札に戻す。
+【起】[このカードをクロック置き場に置く]あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+お待たせ
+
+==========================
+
+ツヴァイの教官アイン004
+PT/W07-004 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【C】If you have 2 or less stock, this card gets +1500 Power.
+【永】あなたのストックが2枚以下なら、このカードのパワーを＋1500。
+Flavor Text:
+ほら、早くする。時間には限りがあるんだからね
+
+==========================
+
+湯上りキャル005
+PT/W07-005 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Clock 時計,
+Card Text/Abilities:
+【A】When this card is placed on stage from hand, look at the top 2 cards of your opponent's deck, place them on top of the deck in any order.
+自】このカードが手札から舞台に置かれた時、あなたは相手の山札を上から2枚まで見て、山札の上に元の順番で置く。
+Flavor Text:
+……ねえ、玲二……家族とか、いる？
+
+==========================
+
+羊の中の狼アイン 006
+PT/W07-006 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【S】[②]Choose 1 of your characters, during this turn, this card gets +1 Soul.
+【起】[②]あなたは他の自分のキャラを1枚選び、そのターン中、ソウルを＋1し、このカードのソウルを＋1。
+Flavor Text:
+羊の皮を被っても、狼の嗅覚は忘れない
+
+==========================
+
+一心同体のパートナー キャル007
+PT/W07-007 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Clock 時計,
+Card Text/Abilities:
+【C】During your turn, all your other characters with 「ファントム」 in the name get +500 Power.
+【C】 SUPPORT All the characters in front of this card get +500 Power.
+【永】あなたのターン中、他のあなたのカード名に「ファントム」を含むキャラすべてに、パワーを＋500。
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+あなたとあたしはこれからパートナーよ！
+
+==========================
+
+生きた証 江漣008
+PT/W07-008 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【A】 CHANGE ［Put this card in clock］At the start of your climax phase, you may pay the cost. If you do, choose 1 of your 「羊の中の狼アイン」 from the waiting room, place it on this card's previous slot.
+【自】 チェンジ  ［このカードをクロック置場に置く］あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「羊の中の狼アイン」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+あなたは、キャルと戦うべきじゃない
+
+==========================
+
+キャル・ディヴェンス009
+PT/W07-009 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Clock 時計,
+Card Text/Abilities:
+Flavor Text:
+あたし、きっと役に立つよ！
+
+==========================
+
+自らの意志エレン010
+PT/W07-010 U
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【A】［②］When this card attacks, if 「笑顔」 is in your climax slot, you may pay the cost. If you do, choose 1 of your opponent's front row Level 3 or below characters, place it in stock.
+【自】［②］このカードがアタックした時、クライマックス置場に「笑顔」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル3以下のキャラを1枚選び、ストック置場に置く。
+Flavor Text:
+私はエレン……そう望まれ、そう生きる……
+
+==========================
+
+虹を見る 江漣＆玲二011
+PT/W07-011 U
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【C】The character facing this card gets -1 Soul.
+【A】When this card is placed on stage from hand, if your hand is less than your opponent's, you may place the top card of your deck into stock.
+【永】このカードの正面のキャラのソウルを－1。
+【自】このカードが手札から舞台に置かれた時、あなたの手札が相手の手札より少ないなら、あなたは自分の山札の上から1枚を、ストック置き場に置いてよい。
+Flavor Text:
+江漣「……気づかないところだったわ」
+玲二「当たり前の景色だからな。案外、そういうもんだよ」
+
+==========================
+
+はらぺこキャル012
+PT/W07-012 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Clock 時計,
+Card Text/Abilities:
+【A】When another of your characters is place in clock from stage, during this turn, this card gets +1000 Power, +1 Soul.
+【自】他のあなたのキャラが舞台からクロック置場に置かれた時、そのターン中、このカードのパワーを＋1000し、ソウルを＋1。
+Flavor Text:
+あたし、昔から夢だったんだよね～
+
+==========================
+
+玲二の妹 江漣013
+PT/W07-013 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+Flavor Text:
+行ってらっしゃい、兄さん
+
+==========================
+
+おめかしキャル014
+PT/W07-014 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 1500
+Soul: 1
+Traits:: Clock 時計,
+Card Text/Abilities:
+【A】 CHANGE ［② Place this card in clock］At the beginning of your Climax phase, you may pay the cost. If you do, choose 1 「練習中のキャル」 from your Waiting Room, place it into this card's previous slot.
+【S】● ASSIST 2000 Level 1 ［① Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +2000 Power)
+【自】 チェンジ ［② このカードをクロック置場に置く］あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「練習中のキャル」を1枚選び、このカードがいた枠に置く。
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000)
+Flavor Text:
+離れたくないの！ずっとレイジのそばにいたい！
+
+==========================
+
+曖昧な記憶エレン 015
+PT/W07-015 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 3000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【C】 SUPPORT All your Level 2 and Above characters in front of this card get +1000 Power.
+【A】When another of your characters is placed in clock from stage, you may choose 1 of your characters, during this turn it gets +1000 Power, +1 Soul.
+【永】 応援  このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。
+【自】他のあなたのキャラが舞台からクロック置き場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000し、ソウルを＋1。
+Flavor Text:
+そう。それが、あなたがあなたである証……
+
+==========================
+
+水着のアイン016
+PT/W07-016 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Weapon 武器,_Swimsuit 水着
+Card Text/Abilities:
+【A】When the character battling another of your characters becomes REVERSE, during this turn, this card gets +1000 Power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【自】他のあなたのキャラとバトル中のキャラがリバースした時、そのターン中、このカードのパワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+どう……？
+
+==========================
+
+セーラー服の江漣017
+PT/W07-017 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+Flavor Text:
+バァンッ！
+
+==========================
+
+練習中のキャル 018
+PT/W07-018 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Weapon 武器,_Clock 時計
+Card Text/Abilities:
+【A】When this card is placed on stage from waiting room, you may choose 1 of your opponent's Back Row Cost 0 or Below characters, return it to hand.
+【自】このカードが控え室から舞台に置かれた時、あなたは相手の後列のコスト0以下のキャラを1枚選び、手札に戻してよい。
+Flavor Text:
+俺に用か？　どうなんだ？　俺に用か？
+
+==========================
+
+約束019
+PT/W07-019 R
+Type: Event
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your characters with 「キャル」 in the name, return it to hand. If you do, search your deck for up to 1 character with 「ドライ」 in the name, show it to your opponent and place it into your hand. Shuffle your deck afterwards.
+あなたは自分のカード名に「キャル」を含むキャラを1枚選び、手札に戻す。そうしたら、あなたは自分の山札を見てカード名に「ドライ」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+だって、玲二が！　玲二が！
+
+==========================
+
+コルト＝パイソン020
+PT/W07-020 U
+Type: Event
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+If you have 2 or less yellow characters, this card cannot be played from hand. Choose 1 of your opponent's Level 1 or below characters, place it in stock.
+このカードは、あなたの黄のキャラが2枚以下なら、手札からプレイできない。あなたは相手のレベル1以下のキャラを1枚選び、ストック置き場に置く。
+Flavor Text:
+アイン「ここが照門、ここが照星。
+照門の谷間から照星を見るようにして狙うの」
+
+==========================
+
+告悔 021
+PT/W07-021 U
+Type: Event
+Level: 3
+Color: Yellow
+Cost: 3
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose up to 2 of your cards in waiting room, return them to deck. Shuffle your deck afterwards.
+Place this card in memory.
+あなたは自分の控え室のカードを2枚まで選び、山札に戻す。その山札をシャッフルする。このカードを思い出にする。
+Flavor Text:
+……神様に、直接……いつかは、会えるはずだから……
+
+==========================
+
+訓練 022
+PT/W07-022 C
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+●Choose 1 《武器》 character, during this turn, it gets +2000 Power, +1 Soul.
+●あなたは自分の《武器》のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+アイン「持ち方は……こう。
+トリガーには指を掛けないで」
+
+==========================
+
+笑顔023
+PT/W07-023 CR
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1W
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+(Wind：When this card is Triggered, you may choose 1 of your opponent's Characters, return to his/her hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(風：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+……この空に、見覚えがある……
+何度も夢に、見たことがある……
+
+==========================
+
+風の記憶024
+PT/W07-024 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+眩しいくらい明るくて……それで、風が吹いてる。すごく強い風が
+
+==========================
+
+報酬025
+PT/W07-025 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card comes to Stage from hand, draw 1 card. Choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+……大事にするね。ずっと……！
+
+==========================
+
+陰謀家クロウディア026
+PT/W07-026 RR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Gangster 暗黒街,
+Card Text/Abilities:
+【C】 SUPPORT All the characters in front of this card get +500 Power.
+【S】［Place 1 of your 「二番目の男ツヴァイ」 in clock from stage］ Choose 1 「“ファントムを継ぎし者”ツヴァイ」 from your clock, place it on stage in any slot.
+【永】 応援  このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】［あなたの舞台の「二番目の男ツヴァイ」を1枚クロック置場に置く］ あなたは自分のクロック置場の「“ファントムを継ぎし者”ツヴァイ」を1枚選び、舞台の好きな枠に置く。
+Flavor Text:
+本当の君が……過去が……ここにある
+
+==========================
+
+二番目の男ツヴァイ027
+PT/W07-027 RR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Gangster 暗黒街,_Weapon 武器
+Card Text/Abilities:
+【A】When this card is placed on stage from hand, during this turn, it gets +1500 Power.
+【自】このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。
+Flavor Text:
+アイン「あなたは二番目の男、ツヴァイ」
+
+==========================
+
+野心家クロウディア 028
+PT/W07-028 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Gangster 暗黒街,_Weapon 武器
+Card Text/Abilities:
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【S】[Put 2 of your characters to REST]During this turn, this card gets +2000 Power.
+【自】アンコール[手札のキャラを１枚控え室に置く]（このカードが舞台から控え室に置かれた時、あなたはコストを払ってもよい。そうしたら、このカードがいた枠にレストして置く）
+【起】[あなたのキャラを２枚レストする]そのターンの中、このカードのパワーを+2000。
+Flavor Text:
+……これがインフェルノ流の”落とし前”です……
+
+==========================
+
+レイモンド・マグワイア029
+PT/W07-029 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 4500
+Soul: 1
+Traits:: Gangster 暗黒街,
+Card Text/Abilities:
+【C】Treat all your other characters with 「ツヴァイ」 in the name as 「ファントム」.
+【C】 SUPPORT All the characters in front of this card get +X Power. X is equal to the character's Level x 500.
+【S】［Place 1 「“ファントムを継ぎし者”ツヴァイ」 in clock from stage］ Choose 1 「“ファントムの力”ツヴァイ」 from clock, place it on stage in any slot.
+【永】他のあなたのカード名に「ツヴァイ」を含むキャラすべてのカード名は「ファントム」としても扱う。
+【永】】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。
+【起】［あなたの舞台の「“ファントムを継ぎし者”ツヴァイ」を1枚クロック置場に置く］ あなたは自分のクロック置場の「“ファントムの力”ツヴァイ」を1枚選び、舞台の好きな枠に置く。
+Flavor Text:
+破壊と創造、この国の全てが変わる、我々の時代、インフェルノの時代に
+
+==========================
+
+リズィ・ガーランド030
+PT/W07-030 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Gangster 暗黒街,_Weapon 武器
+Card Text/Abilities:
+【A】When this card attacks, if 「仁義」 is in the climax slot, choose up to 1 of your characters, place it in stock, then choose 1 of your characters, during this turn, it gets +4000 Power.
+【自】このカードがアタックした時、クライマックス置場に「仁義」があるなら、あなたは自分のキャラを1枚まで選び、ストック置場に置き、自分のキャラを1枚選び、そのターン中、パワーを＋4000。
+Flavor Text:
+おら、蛇野郎！　撃ってきやがれ！
+
+==========================
+
+“インフェルノのファントム”ツヴァイ031
+PT/W07-031 R
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Gangster 暗黒街,_Weapon 武器
+Card Text/Abilities:
+【C】The character facing this card gets -1 Soul.
+【A】［③］When the character battling this card becomes REVERSE, you may pay the cost. If you do, place that character in clock.
+【A】ENCORE [Discard 1 Climax to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【永】このカードの正面のキャラのソウルを－1。
+【自】［③］このカードとバトル中のキャラがリバースした時、あなたはコストを払ってよい。そうしたら、あなたはそのキャラをクロック置場に置く。
+【自】 アンコール ［手札のクライマックスを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+マグワイヤ「今、この瞬間から、君は、インフェルノのファントムだ」
+
+==========================
+
+サポート役リズィ032
+PT/W07-032 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Gangster 暗黒街,_Weapon 武器
+Card Text/Abilities:
+【C】All your other 《暗黒街》 characters get +500 power.
+【S】[②]Choose 1 of your opponent's front row characters, during this turn, it gets -2500 Power.
+【永】他のあなたの《暗黒街》のキャラすべてに、パワーを＋500
+【起】[②]あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－2500
+Flavor Text:
+忠告くらいさせなよ。趣味なんだからさ
+
+==========================
+
+裏切り者クロウディア033
+PT/W07-033 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Gangster 暗黒街,
+Card Text/Abilities:
+【C】 ALARM If this card is at the top of your clock, all your 《暗黒街》 characters gain the following ability. 『【A】[①]When this card attacks, you may pay the cost. If you do, look at the top card of your opponent's deck, place it on top or at the bottom of the deck.』
+【永】 アラーム  このカードがクロックの1番上にあるなら、あなたの《暗黒街》のキャラすべてに、次の能力を与える。『【自】[①]このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは相手の山札を上から1枚見て、山札の上か下に置く。』
+Flavor Text:
+時間にルーズな男は……嫌われるわよ。玲二
+
+==========================
+
+食えない女クロウディア034
+PT/W07-034 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 3500
+Soul: 1
+Traits:: Gangster 暗黒街,
+Card Text/Abilities:
+【C】All your other characters with ｢ファントム｣ in the name get +1000 Power.
+【A】 CHANGE ［① Place this card in clock］At the beginning of your climax phase, you may pay the cost. If you do, choose 1 「ファントムの主クロウディア」 from your waiting room, place it in this card's previous slot.
+【永】他のあなたのカード名に｢ファントム｣を含むキャラすべてに、パワーを＋1000。
+【自】 チェンジ ［① このカードをクロック置き場に置く］あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ファントムの主クロウディア」を 1枚選び、このカードがいた枠に置く。
+Flavor Text:
+では、すべて私の予定通りに進めさせていただきます
+
+==========================
+
+譲れねぇ仁義リズィ035
+PT/W07-035 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Gangster 暗黒街,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+……裏切り者も、カタギに手を出す野郎も、
+アタシは絶対に許さない
+
+==========================
+
+ファントムの主クロウディア036
+PT/W07-036 U
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Gangster 暗黒街,
+Card Text/Abilities:
+【A】［④］When this card is front attacked, you may pay the cost. If you do, choose 1 character facing this card, during this turn, it gets +6 Soul.
+【自】［④］このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたはこのカードの正面のキャラを1枚選び、そのターン中、ソウルを＋6。
+Flavor Text:
+……あなたはステキよ…
+
+==========================
+
+インフェルノの女幹部クロウディア037
+PT/W07-037 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Gangster 暗黒街,
+Card Text/Abilities:
+【S】［①］Choose 1 of your 《暗黒街》 characters, during this turn, it gets +2000 Power.
+【起】［①］あなたは自分の《暗黒街》のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+ファントムの力は、絶対なの
+
+==========================
+
+女狐と飼い犬 クロウ＆ツヴァイ038
+PT/W07-038 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Gangster 暗黒街,_Weapon 武器
+Card Text/Abilities:
+【A】When another of your characters is placed in clock from stage, choose 1 of your characters, during this turn it gets +3000 Power.
+【自】他のあなたのキャラが舞台からクロック置き場に置かれた時、あなたは自分のキャラを１枚選び、そのターン中、パワーを＋3000。
+Flavor Text:
+クロウディア「あなたが必要なのよ。
+玲二･･････　私だけのファントム･･････」
+
+==========================
+
+女狐クロウディア039
+PT/W07-039 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Gangster 暗黒街,
+Card Text/Abilities:
+Flavor Text:
+このスピードで駆け上がったときだけ、見える景色があったのよ
+
+==========================
+
+クロウディア・マッキェネン040
+PT/W07-040 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Gangster 暗黒街,
+Card Text/Abilities:
+【A】［Place 1 of your characters into waiting room from stage］When 「過去」 is placed into your climax slot, you may pay the cost. If you do, search your deck for up to 1 《暗黒街》 character with Level 1 or lower, place in on stage in any slot. Shuffle your deck afterwards.
+【自】［あなたの舞台のキャラを1枚控え室に置く］あなたのクライマックス置場に「過去」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以下の《暗黒街》のキャラを1枚まで選び、舞台の好きな枠に置く。その山札をシャッフルする。
+Flavor Text:
+力さえあればどんな夢だって見られる世界よ
+
+==========================
+
+ブラディーズの頭目ワイズメル 041
+PT/W07-041 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Gangster 暗黒街,
+Card Text/Abilities:
+【S】● ASSIST 2000 Level 1 ［① Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +2000 Power)
+【起】●助太刀2000 レベル1［① 手札のこのカードを控え室に置く］(あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋2000)
+Flavor Text:
+ほォ……燃えてるじゃねぇか
+
+==========================
+
+“ファントムを継ぎし者”ツヴァイ042
+PT/W07-042 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Gangster 暗黒街,_Weapon 武器
+Card Text/Abilities:
+【A】When this card attacks, if 「ファントム＝アソシネート」 is in the climax slot, choose 1 of your opponent's characters, during this turn, it gets -500 Power.
+【A】 CHANGE ［② Place this card in clock］At the beginning of your climax phase, you may pay the cost. If you do, choose 1 「”ファントムの力”ツヴァイ」 from your waiting room, place it in this card's previous slot.
+【自】このカードがアタックした時、クライマックス置場に「ファントム＝アソシネート」があるなら、あなたは相手のキャラを1枚選び、そのターン中、パワーを-500。
+【自】 チェンジ ［②このカードをクロック置場に置く］あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「”ファントムの力”ツヴァイ」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+マグワイヤ「以前のファントムにも舌を巻いたが、
+あの少年は輪をかけて優秀だな」
+
+==========================
+
+“ファントムの力”ツヴァイ043
+PT/W07-043 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Gangster 暗黒街,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+殺しの報酬は見積もってやる。話は明日だ
+
+==========================
+
+暗殺 044
+PT/W07-044 R
+Type: Event
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+If you have 2 or less green characters, this card cannot be played from hand.
+During this turn, all your opponent's characters get -1500 Power.
+このカードは、あなたの緑のキャラが2枚以下なら、手札からプレイできない。
+相手のキャラ全てに、そのターン中、パワーを-1500。
+Flavor Text:
+了解……フェイズ2、開始
+
+==========================
+
+500万ドル045
+PT/W07-045 U
+Type: Event
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your characters, place it in clock. If you do, choose up to 2 of your characters, during this turn, they get +3500 Power.
+あなたは自分のキャラを1枚選び、クロック置き場に置く。 そうしたら、あなたは自分のキャラを2枚まで選び、そのターン中、パワーを+3500。
+Flavor Text:
+
+==========================
+
+ベレッタM92FS046
+PT/W07-046 U
+Type: Event
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your opponent's characters, during this turn, it gets -3000 Power.
+あなたは相手のキャラを1枚選び、そのターン中、パワーを-3000。
+Flavor Text:
+玲二「弾室に1発、弾倉に15発。ここにいる全員を殺して釣りがくる計算だ」
+
+==========================
+
+フェラーリF40047
+PT/W07-047 C
+Type: Event
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+●Choose up to 1 of your characters, during this turn, it gets +3000 Power.
+Place this card in clock.
+●あなたは自分のキャラを１枚まで選び、そのターン中、パワーを+3000。このカードをクロック置き場に置く。
+Flavor Text:
+何処までも行けそうな気がするでしょ。世界の覇者にでもなった感じがしない？
+
+==========================
+
+過去048
+PT/W07-048 CR
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card comes to Stage from hand, draw 1 card. Choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+これは、ほんの始まり……そうよね……ロメロ
+
+==========================
+
+ファントム＝アソシネート049
+PT/W07-049 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+インフェルノの……ファントムだ
+
+==========================
+
+仁義050
+PT/W07-050 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: S
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Bag： When this card is Triggered, you may take the top card of your deck and place it in Stock.)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(袋：このカードがトリガーした時、あなたは自分の山札から1枚を、ストック置場に置いてよい)
+Flavor Text:
+クロウディア「……最後まで、ごめんね」
+
+==========================
+
+狂気に満ちたドライ051
+PT/W07-051 RR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Weapon 武器,_Clock 時計
+Card Text/Abilities:
+【A】［②］When this card is placed on stage from hand, you may pay the cost. If you do, search your deck for up to 1 character with 「ファントム」 in the name, show it to your opponent and place it into your hand. Shuffle your deck afterwards.
+【A】When this card becomes REVERSE, if the character battling this card is Level 0 or below, you may put that character to REVERSE.
+【自】［②］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てカード名に「ファントム」を含むキャラを1 枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+【自】このカードがリバースした時、このカードとバトル中のキャラのレベルが0以下なら、あなたはそのキャラをリバースしてよい。
+Flavor Text:
+曲が終わったら、撃ちな
+
+==========================
+
+最大の恐怖アイン052
+PT/W07-052 RR
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 5500
+Soul: 2
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【A】When this card attacks, if 「名前」 is in the climax slot, choose 1 of your characters from waiting room, return it to hand.
+【A】When this card becomes REVERSE, if the character battling this card is Level 2 or Below, you may put that character to REVERSE.
+【自】このカードがアタックした時、クライマックス置場に「名前」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+【自】このカードがリバースした時、このカードとバトル中のキャラのレベルが2以下なら、あなたはそのキャラをリバースしてよい。
+Flavor Text:
+死は全ての終わり。その後に何を付け足そうと、意味はない
+
+==========================
+
+江漣＆ドライ053
+PT/W07-053 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Weapon 武器,_Clock 時計
+Card Text/Abilities:
+【C】This card cannot side attack.
+【S】［①］Choose 1 of your opponent's Front Row Level 0 or Below characters, place it in waiting room.
+【永】このカードはサイドアタックできない。
+【起】［①］あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置く。
+Flavor Text:
+アイン……ツヴァイ……ドライ……。
+説明は要らないだろう？
+
+==========================
+
+最大の信頼アイン054
+PT/W07-054 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【A】CHANGE［② Place this card in clock］At the beginning of your climax phase, you may pay the cost. If you do, choose 1 「“最強の暗殺者ファントム”アイン」 from your waiting room, place it in this card's previous slot.
+【S】● ASSIST 1500 Level 1 ［Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +1500 Power)
+【自】チェンジ［② このカードをクロック置場に置く］あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“最強の暗殺者ファントム”アイン」を1枚選び、このカードがいた枠に置く。
+【起】●助太刀1500 レベル1［手札のこのカードを控え室に置く］（あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）
+Flavor Text:
+クロウディア「彼女の存在は、
+抵抗する組織には最大の恐怖を与えるわ」
+
+==========================
+
+“第三のファントム”ドライ055
+PT/W07-055 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Weapon 武器,_Clock 時計
+Card Text/Abilities:
+【A】CHANGE［② Put this card in clock］At the beginning of your climax phase, you may pay the cost. If you do, choose 1 「“無敵のファントム”ドライ」 from your waiting room, place it in this card's previous slot.
+【自】チェンジ［② このカードをクロック置場に置く］あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“無敵のファントム”ドライ」を 1枚選び、このカードがいた枠に置く。
+Flavor Text:
+なんで撃てなくなっちまったのさ…………アンタ
+
+==========================
+
+“無敵のファントム”ドライ056
+PT/W07-056 R
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Weapon 武器,_Clock 時計
+Card Text/Abilities:
+【A】When this card is placed on stage from hand or by 『CHANGE』, you may place the top card of your clock into the waiting room.
+【A】［④ Place this card in memory］When the damage dealt by this card is canceled, if 「決着」 is in your climax slot, you may pay the cost. If you do, choose 1 character from your waiting room, place it in this card's previous slot. (Battle does not occur)
+【自】このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】［④ このカードを思い出にする］アタックしているこのカードの与えたダメージがキャンセルされた時、あなたのクライマックス置場に「決着」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、このカードがいた枠に置く。（バトルは発生しない）
+Flavor Text:
+あたしは無敵のファントムだ！
+
+==========================
+
+完璧な素材アイン057
+PT/W07-057 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【S】［Put 1 of your 《武器》 characters to REST］During this turn, this character gets +1000 Power.
+【起】［あなたの《武器》のキャラを1枚レストする］そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+サイス「らしくないな、アイン。
+痛みなど精神力で克服したまえ」
+
+==========================
+
+メイド服のアイン058
+PT/W07-058 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Weapon 武器,_Maid メイド
+Card Text/Abilities:
+【C】 SUPPORT All the characters in front of this card get +500 Power.
+【S】［① Put this card to REST］When another of your characters is placed in clock from stage, if this card is in STAND, you may pay the cost. If you do, choose 1 of your characters from waiting room, return it to hand.
+【永】 応援  このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】［① このカードをレストする］他のあなたのキャラが舞台からクロック置場に置かれた時、このカードがスタンドしているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+お帰りなさいませ、ご主人様
+
+==========================
+
+玲二を狙うドライ059
+PT/W07-059 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Weapon 武器,_Clock 時計
+Card Text/Abilities:
+【A】When another of your characters become REVERSE in battle, choose 1 of your characters, during this turn, it gets +1000 Power.
+【A】[① Put this card to REST]When another of your characters is placed in clock from stage, if this card is in STAND, you may pay the cost. If you do, deal 1 damage to the opponent.
+【自】他のあなたのバトル中のキャラがリバースしたとき、あなたは自分のキャラを1枚選び、そのターン中パワーを+1000。
+【自】[①このカードをレストする]他のあなたのキャラが舞台からクロック置場に置かれた時、このカードがスタンドしているなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）
+Flavor Text:
+･･････次はあんたの番だよ、玲二･･････
+
+==========================
+
+華麗なるガンプレイ ドライ060
+PT/W07-060 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Weapon 武器,_Clock 時計
+Card Text/Abilities:
+【A】［③］When this card attacks, if 「憤怒」 is in the climax slot, you may pay the cost. If you do, deal 2 damage to the opponent.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【自】［③］このカードがアタックした時、クライマックス置場に「憤怒」があるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。 (ダメージキャンセルは発生する)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+サイス「彼女なら１０秒でやれるということです」
+
+==========================
+
+“最強の暗殺者ファントム”アイン061
+PT/W07-061 U
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【C】During battle, if the character battling this card has 『【A】ENCORE［Discard 1 character to waiting room from hand］』, this card gets +2000 Power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【永】このカードのバトル中、このカードとバトル中のキャラが『【自】アンコール［手札のキャラを1枚控え室に置く］』を持つなら、このカードのパワーを＋2000。
+【自】アンコール［手札のキャラを1枚控え室に置く］（このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く）
+Flavor Text:
+そのうちあなたも何も感じなくなる。
+この生き方に耐える方法は、他にないから
+
+==========================
+
+“最高傑作”アイン062
+PT/W07-062 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【C】All your other 《武器》 characters get +500 Power.
+【S】［Place this card in clock］During this turn, all your characters get +1000 power.
+【永】他のあなたの《武器》のキャラすべてに、パワーを＋500。
+【起】［このカードをクロック置き場に置く］あなたのキャラすべてに、そのターン中、パワーを＋1000。
+Flavor Text:
+私たちは機能しさえすれば良い
+余計な事を考えてはダメ
+
+==========================
+
+一番目の女アイン063
+PT/W07-063 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【S】If you have 2 or less characters, all your other characters get +500 Power.
+【永】他のあなたのキャラが2枚以下なら、他のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+私は一番目の女、アイン
+
+==========================
+
+新たなファントム ドライ064
+PT/W07-064 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Weapon 武器,_Clock 時計
+Card Text/Abilities:
+Flavor Text:
+……日本のヤクザなんて知ったこっちゃないね
+
+==========================
+
+暴走するドライ065
+PT/W07-065 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Weapon 武器,_Clock 時計
+Card Text/Abilities:
+【A】When this card attacks, choose 1 of your other front row characters, place it into the waiting room.
+【自】このカードがアタックした時、あなたは他の自分の前列のキャラを1枚選び、控え室に置く。
+Flavor Text:
+……恩？　どういう意味だっけ？
+
+==========================
+
+“亡霊”アイン066
+PT/W07-066 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+Flavor Text:
+……私たちは、どこにも存在できない亡霊……
+誰でもない、ファントム……
+
+==========================
+
+純粋な憎悪ドライ067
+PT/W07-067 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 6500
+Soul: 1
+Traits:: Weapon 武器,_Clock 時計
+Card Text/Abilities:
+【A】When this card attacks, choose 1 of your other characters in the front row, place it into the waiting room.
+【自】このカードがアタックした時、あなたは他の自分の前列のキャラを1枚選び、控え室に置く。
+Flavor Text:
+玲二「……生きて。いたのか……？」
+
+==========================
+
+江漣VSドライ068
+PT/W07-068 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Weapon 武器,_Clock 時計
+Card Text/Abilities:
+Flavor Text:
+ドライ「……初めまして、アイン。……それとも、
+元ファントムと呼んだほうがいいかい……？」
+
+==========================
+
+祈るドライ069
+PT/W07-069 R
+Type: Event
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your characters, place it in clock. If you do, choose up to 2 《時計》 characters from your waiting room, return them to hand.
+あなたは自分のキャラを1枚選び、クロック置き場に置く。そうしたら、あなたは自分の控え室の《時計》のキャラを2枚まで選び、手札に戻す。
+Flavor Text:
+あたしが奪う。あたしが壊す。
+……その逆は、もう二度と御免だ……
+
+==========================
+
+偵察070
+PT/W07-070 U
+Type: Event
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+If you have 2 or less red cards, this card cannot be played from hand.
+Choose up to 1 character from your waiting room, return it to hand.
+Choose 1 of your characters, during this turn it gains the following ability. 『【A】When this card becomes REVERSE, if the character battling this card is the same level or below, you may put that character to REVERSE.』
+このカードは、あなたの赤のキャラが2枚以下なら、手札からプレイできない。
+あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】このカードがリバースした時、このカードとバトル中のキャラのレベルがこのカードのレベル以下なら、あなたはそのキャラをリバースしてよい。 』
+Flavor Text:
+玲二｢僕らなら怪しまれることはない…｣
+
+==========================
+
+狙撃071
+PT/W07-071 U
+Type: Event
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Deal 2 damage to the opponent. If this damage is canceled, take 1 damage.
+相手に2ダメージを与える。このダメージがキャンセルされたなら、あなたに1ダメージを与える。 (ダメージキャンセルは発生する)
+Flavor Text:
+サイス「……久々の狙撃任務だ。
+まぁ、お前なら容易だろうが」
+
+==========================
+
+S＆W M5906072
+PT/W07-072 C
+Type: Event
+Level: 2
+Color: Red
+Cost: 3
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose up to 2 of your opponent's front row level 2 or below characters, place them in waiting room.
+あなたは相手の前列のレベル2以下のキャラを2枚まで選び、控え室に置く。
+Flavor Text:
+
+==========================
+
+憤怒073
+PT/W07-073 CR
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed on Stage from hand, place the top card of your deck to Stock. During this turn, all of your Characters get +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+あたしに勝てたら……
+きっと世界中が、あんたにひれ伏すよ
+
+==========================
+
+決着074
+PT/W07-074 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+ドライ「あんたと逢えて、良かった……
+それだけで、もう充分、嬉しかった……」
+
+==========================
+
+名前075
+PT/W07-075 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When this card is Triggered, choose 1 Character from your waiting room, return to hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+Flavor Text:
+玲二「……アイン……
+今、キミを守れるのは……僕だけだ……」
+
+==========================
+
+玲二＆エレン076
+PT/W07-076 RR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【C】All your other characters with 「アイン」 in the name get 「【A】ENCORE[Discard 1 character to waiting room from hand]」.
+【永】他のあなたのカード名に「アイン」を含むキャラすべてに「【自】アンコール[手札のキャラを１枚控え室に置く]」を与える。
+Flavor Text:
+エレン「人殺しの居場所なんて、ここ以外。、どこにもあるわけない」
+
+==========================
+
+“誰でもないファントム”アイン077
+PT/W07-077 RR
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Weapon 武器,_Mask 仮面
+Card Text/Abilities:
+【C】If you have 2 or more 「“誰でもないファントム”アイン」 in your waiting room, this card gets -1 Level in the hand.
+【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.
+【永】あなたの控え室の「“誰でもないファントム”アイン」が2枚以上なら、あなたの手札のこのカードのレベルを－1。
+【自】このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を控え室に置いてよい。
+Flavor Text:
+クロウディア「彼女こそまさしく、最強の暗殺者よ」
+
+==========================
+
+告白する美緒078
+PT/W07-078 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Love 愛,
+Card Text/Abilities:
+【C】 SUPPORT All the characters in front of this card get +500 Power.
+【A】 CHANGE ［③ Place this card in clock］At the beginning of your climax phase, you may pay the cost. If you do, choose 1 「藤枝 美緒」 from your waiting room, place it on this card's previous slot.
+【永】 応援  このカードの前のあなたのキャラすべてに、パワーを＋500。
+【自】 チェンジ ［③ このカードをクロック置場に置く］あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「藤枝 美緒」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+藤枝です……藤枝、美緒といいます
+
+==========================
+
+ツァーレンシュヴェスタン079
+PT/W07-079 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Weapon 武器,_Mask 仮面
+Card Text/Abilities:
+【A】At the beginning of your climax phase reveal the top card of your deck. If that card is a climax, put this card to REST.
+【自】あなたのクライマックスフェイズの始めに、あなたは自分の山札から1枚を公開する。そのカードのクライマックスなら、このカードをレストする。 (公開したカードは元に戻す)
+Flavor Text:
+サイス「……恐怖もなく、慈悲もなく、
+ただ忠実な猟犬の如く……死を運ぶオート・マタ……」
+
+==========================
+
+サイス＝マスター080
+PT/W07-080 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Glasses メガネ,_Master マスター
+Card Text/Abilities:
+【C】 SUPPORT All your characters in front of this card gain ｢【A】ENCORE[Discard 1 character to waiting room from hand]｣.
+【A】［① Put this card to REST］When another of your characters is placed in clock from stage, if this card is in STAND, you may pay the cost. If you do, place the top card of your clock in waiting room.
+【永】 応援  このカードの前のあなたのキャラすべてに、｢【自】アンコール[手札のキャラを1枚控え室に置く]｣を与える。
+【自】［① このカードをレストする］他のあなたのキャラが舞台からクロック置場に置かれた時、このカードがスタンドしているなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。
+Flavor Text:
+誰もが私の演出で踊るのだ。
+私の舞台で！私のカンバスで！
+
+==========================
+
+生き残る才能ツヴァイ081
+PT/W07-081 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【A】［②］When this card attacks, if 「長い夢」 is in the climax slot, you may pay the cost. If you do, return the top card of your clock to hand.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【自】［②］このカードがアタックした時、クライマックス置き場に「長い夢」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、手札に戻す。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+この手で人を殺し、この手で物を食べる……
+どっちも同じことなんだ。そうやって僕は生きてる……
+
+==========================
+
+過去を消された少年 玲二082
+PT/W07-082 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【C】All your other characters with 『【A】 ENCORE ［Discard 1 character to waiting room from hand］』 get +500 Power.
+【S】［Place 1 character with ｢アイン｣ in the name to clock, put this card to REST］Search your deck for up to 1 character with ｢エレン｣ or ｢江漣｣ in the name, show it to your opponent and place it into your hand. Shuffle your deck afterwards.
+【永】他のあなたの『【自】 アンコール ［手札のキャラを1枚控え室に置く］』 を持つキャラすべてに、パワーを＋500。
+【起】［あなたの舞台のカード名に｢アイン｣を含むキャラを1枚クロック置き場に置き、このカードをレストする］あなたは自分の山札を見てカード名に｢エレン｣か｢江漣｣を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+君には……新しい名前をあげるよ
+
+==========================
+
+梧桐の右腕 志賀083
+PT/W07-083 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Gangster 暗黒街,_Glasses メガネ
+Card Text/Abilities:
+【C】During your opponent's turn, if you have 2 or less other characters, all your other characters get +1000 Power.
+【永】相手のターン中、他のあなたのキャラが2枚以下なら、他のあなたのキャラすべてに、パワーを+1000。
+Flavor Text:
+どこへなりともお供させていただきます
+
+==========================
+
+調教師サイス084
+PT/W07-084 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Glasses メガネ,_Master マスター
+Card Text/Abilities:
+【C】 ALARM If this card is at the top of your clock, all your 《仮面》 characters get +1000 Power.
+【S】［Place this card in clock］Search your deck for up to 1 《仮面》 character, show it to your opponent and place it into your hand. Shuffle your deck afterwards.
+【永】 アラーム  このカードがクロックの1番上にあるなら、あなたの《仮面》のキャラすべてに、パワーを＋1000。
+【起】［このカードをクロック置き場に置く］あなたは自分の山札を見て《仮面》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+さぁ、幕引きだ！
+
+==========================
+
+梧桐の姫君 美緒085
+PT/W07-085 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Love 愛,
+Card Text/Abilities:
+【A】When this card attacks, if 「届かない場所」 is in the climax slot, choose 1 of your other characters, during this turn, it gets +5000 Power. At the end of this turn, place that character in waiting room.
+【自】このカードがアタックした時、クライマックス置場に「届かない場所」があるなら、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを+5000.ターンの終わりに、そのキャラを控え室に置く。
+Flavor Text:
+･･････解ります･･････解らないはずありません･･････彼のことを、本気で想ったことがあるなら
+
+==========================
+
+道具であることアイン086
+PT/W07-086 U
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Weapon 武器,_Doll 人形
+Card Text/Abilities:
+【A】When 「終幕」 is placed in your climax slot, during this turn, this card gets +1000 Power and gains the following ability.「【A】When the character battling this card becomes REVERSE, you may place that card at the bottom of your opponent's deck.」
+【自】あなたのクライマックス置場に「終幕」が置かれた時、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。「【自】このカードとバトル中のキャラがリバースした時、あなたはそのキャラを山札の下に置いてよい。」
+Flavor Text:
+……私はアイン。今も、昔も、ただのアイン……
+
+==========================
+
+ヘルムート・フォン・ギュゼッペ087
+PT/W07-087 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Glasses メガネ,_Master マスター
+Card Text/Abilities:
+【S】［Put this card to REST］Choose 1 of your 《武器》 characters, during this turn, it gets +1000 Power.
+【S】［Place 1 of your ｢玲二＆エレン｣ in clock from stage］Choose up to 1 ｢道具であることアイン｣ from your hand, place it on stage in any slot.
+【起】［このカードをレストする］あなは自分の《武器》のキャラを1枚選び、そのターン中、パワーを＋1000。
+【起】［あなたの舞台の｢玲二＆エレン｣を1枚クロック置き場に置く］あなたは自分の手札の｢道具であることアイン｣を1枚まで選び、舞台の好きな枠に置く。
+Flavor Text:
+……お前はまだ、私の期待に答えられるかな、アイン……
+
+==========================
+
+昇り龍 梧桐088
+PT/W07-088 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Gangster 暗黒街,_Dragon 竜
+Card Text/Abilities:
+【C】If you have 2 or less other characters, all your other characters get +1 Level.
+【永】他のあなたのキャラが2枚以下なら、他のあなたのキャラすべてに、レベルを+1。
+Flavor Text:
+駆け上がるぜ、俺は
+
+==========================
+
+玲二＆早苗089
+PT/W07-089 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Weapon 武器,_Glasses メガネ
+Card Text/Abilities:
+Flavor Text:
+早苗｢くらえっ！！｣
+
+==========================
+
+自分の意思 玲二090
+PT/W07-090 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【C】If you have 1 or less other front row characters, this card gets +1000 Power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【永】他のあなたの前列のキャラが1枚以下なら、このカードのパワーを+1000。
+【自】アンコール［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+……探そう、二人で。
+そのために俺は、必ず、君の元に戻る。
+
+==========================
+
+志賀 透091
+PT/W07-091 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Gangster 暗黒街,_Glasses メガネ
+Card Text/Abilities:
+【S】● ASSIST 2000 Level 1 ［① Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +2000 Power)
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000)
+Flavor Text:
+志賀は、兄貴の背中を守るだけです……
+
+==========================
+
+洗脳と催眠サイス092
+PT/W07-092 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 4500
+Soul: 1
+Traits:: Glasses メガネ,_Master マスター
+Card Text/Abilities:
+【C】During your opponent's turn, all your other characters get +1000 Power.
+【S】［Put 2 of your characters to REST］Draw 1 card, discard 1 card to waiting room from hand.
+【永】相手のターン中、他のあなたのキャラすべてに、パワーを+1000。
+【起】［あなたのキャラを２枚レストする］あなたは1枚引き、自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+……ようこそ、私の舞台へ……
+
+==========================
+
+藤枝 美緒093
+PT/W07-093 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Love 愛,
+Card Text/Abilities:
+Flavor Text:
+かわいいですね
+
+==========================
+
+亡霊094
+PT/W07-094 R
+Type: Event
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Look at the top 4 cards of your deck, choose 1 card, place it into your hand. Place the remaining cards on top of your deck in any order.
+あなたは自分の山札の上から4枚まで見て、カードを1枚選び、手札に加える。残りのカードを山札の上に好きな順番で置く。
+Flavor Text:
+そんな希望にすがり、許しを得ようだなんて…
+
+==========================
+
+生きる理由095
+PT/W07-095 U
+Type: Event
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your characters in STAND, place it into clock. If you do, draw 2 cards.
+あなたは自分のスタンドしているキャラを1枚選び、クロック置き場に置く。そうしたら、あなたは二枚まで引く。
+Flavor Text:
+昨日までは恐怖なんて感じなかったのに・・・・・・
+
+==========================
+
+44オートマグ096
+PT/W07-096 U
+Type: Event
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+●Choose 1 of your characters, during this turn, it gains the following ability.「【A】When this card is placed in waiting room from stage, you may place this card on its previous slot in REST.」
+Choose 1 of your opponent's battling characters. At your opponent's next Stand Phase it cannot stand.
+●あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。「【自】このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠にレストして置いてよい。」
+あなたは相手のバトル中のキャラを1枚選ぶ、そのキャラは次の相手のスタンドフェイズにスタンドしない。
+Flavor Text:
+サイス「知っての通り機構の危うい銃だ。
+可能な限り連射は避けろ」
+
+==========================
+
+連続ミッション097
+PT/W07-097 C
+Type: Event
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+If you have 2 or less blue characters, this card cannot be played from hand.
+Choose 1 of your opponent's Front Row Level 2 or Below characters, place it at the bottom of the deck.
+あなたは相手の前列のレベル2以下のキャラを1枚選び、山札の下に置く。
+このカードは、あなたの青のキャラが2枚以下なら、手札からプレイできない。
+あなたは相手の前列のレベル2以下のキャラを1枚選び、山札の下に置く。
+Flavor Text:
+祈りも、贖罪も、ありはしないわ。死は全ての終わり
+
+==========================
+
+長い夢098
+PT/W07-098 CR
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card comes on Stage from hand, put the top card of your deck to Stock. During this turn, all of your Characters get +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から１枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋１。
+Flavor Text:
+アイン「……でも、長い夢になるわよ」
+
+==========================
+
+終幕099
+PT/W07-099 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Book：When this card is triggered, you may draw 1 card)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(本：このカードがトリガーした時、あなたは1枚引いてよい)
+Flavor Text:
+玲二「サァァァァィス！」
+
+==========================
+
+届かない場所100
+PT/W07-100 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+私、ずっと待ってます。
+――だから、さよなら、じゃないです。
+いってらっしゃい、です
+
+==========================
+
+“操り人形”アイン103
+PT/W07-103 PR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Weapon 武器,_Doll 人形
+Card Text/Abilities:
+Flavor Text:
+今この瞬間を生き残る……それだけ、殺し屋は
+過ぎたことも先のことも、何もない
+
+==========================
+
+パートナー アイン＆ツヴァイ104
+PT/W07-104 PR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【S】［Discard 1 card to waiting room from hand, place this card in waiting room］Choose 1 of your opponent's front row level 2 or below characters, place it at the bottom of the deck.
+【起】［手札を1枚控え室に置き、このカードを控え室に置く］あなたは相手の前列のレベル2以下のキャラを1枚選び、山札の下に置く。
+Flavor Text:
+アイン「アタックは私が。バックアップをお願い」
+ツヴァイ「了解」
+
+==========================
+
+二頭の猟犬105
+PT/W07-105 PR
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When is card is placed in the climax slot from hand, draw 1 card. During this turn, choose 1 of your Characters, during this turn, it gets +3 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、ソウルを＋3。
+Flavor Text:
+アイン「あなたは私……私は、あなた……」
+
+==========================
+
+水遊びする江漣106
+PT/W07-106 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 4500
+Soul: 1
+Traits:: Weapon 武器,_Swimsuit 水着
+Card Text/Abilities:
+【C】If you have another character with 「玲二」 in the name, this card gets +2000 Power.
+【永】他のあなたのカード名に「玲二」を含むキャラがいるなら、このカードのパワーを＋2000 。
+Flavor Text:
+まぁいいじゃない兄さん、たまには
+
+==========================
+
+水遊びする美緒107
+PT/W07-107 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Love 愛,_Swimsuit 水着
+Card Text/Abilities:
+【C】If you have 1 or less other front row character, this card gets +1000 Power.
+【永】他のあなたの前列のキャラが1枚以下なら、このカードのパワーを+1000。
+Flavor Text:
+子供みたいにはしゃいじゃいました。 恥ずかしい…
+
+==========================
+
+はらぺこキャルT01
+PT/W07-T01 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Clock 時計,
+Card Text/Abilities:
+【A】When another of your characters is place in clock from stage, during this turn, this card gets +1000 Power, +1 Soul.
+【自】他のあなたのキャラが舞台からクロック置場に置かれた時、そのターン中、このカードのパワーを＋1000し、ソウルを＋1。
+Flavor Text:
+こうやって目の前にハンバーガーの山を作って、
+　　お腹いーっぱい食べるの！
+
+==========================
+
+キャル・ディヴェンスT03
+PT/W07-T03 TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Clock 時計,
+Card Text/Abilities:
+Flavor Text:
+あたし、きっと役に立つよ！
+
+==========================
+
+おめかしキャルT04
+PT/W07-T04 TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 1500
+Soul: 1
+Traits:: Clock 時計,
+Card Text/Abilities:
+【A】 CHANGE ［② Place this card in clock］At the beginning of your Climax phase, you may pay the cost. If you do, choose 1 「練習中のキャル」 from your Waiting Room, place it into this card's previous slot.
+【S】● ASSIST 2000 Level 1 ［① Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +2000 Power)
+【自】 チェンジ  ［② このカードをクロック置場に置く］あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「練習中のキャル」を1枚選び、このカードがいた枠に置く。
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000)
+Flavor Text:
+こんな軽くてサラサラの服、初めて！
+
+==========================
+
+水着のアインT05
+PT/W07-T05 TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Weapon 武器,_Swimsuit 水着
+Card Text/Abilities:
+【A】When the character battling another of your characters becomes REVERSE, during this turn, this card gets +1000 Power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【自】他のあなたのキャラとバトル中のキャラがリバースした時、そのターン中、このカードのパワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+どう……？
+
+==========================
+
+セーラー服の江漣T06
+PT/W07-T06 TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+Flavor Text:
+恥をかかせるような真似をしたら……
+
+==========================
+
+練習中のキャルT07
+PT/W07-T07 TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Weapon 武器,_Clock 時計
+Card Text/Abilities:
+【A】When this card is placed on stage from waiting room, you may choose 1 of your opponent's Back Row Cost 0 or Below characters, return it to hand.
+【自】このカードが控え室から舞台に置かれた時、あなたは相手の後列のコスト0以下のキャラを1枚選び、手札に戻してよい。
+Flavor Text:
+玲二「その、デニーロだか何だかだ。やってみろ」
+
+==========================
+
+訓練T08
+PT/W07-T08 TD
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: Weapon 武器,_Clock 時計
+Card Text/Abilities:
+●Choose 1 《武器》 character, during this turn, it gets +2000 Power, +1 Soul.
+●あなたは自分の《武器》のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+アイン「持ち方は……こう。
+トリガーには指を掛けないで」
+
+==========================
+
+風の記憶T09
+PT/W07-T09 TD
+Type: Climax
+Level: 2
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: Weapon 武器,_Clock 時計
+Card Text/Abilities:
+【C】All your characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+眩しいくらい明るくて……
+　　それで、風が吹いてる。すごく強い風が
+
+==========================
+
+平和な生活 江漣＆玲二T101
+PT/W07-T101 TD
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【A】When this card attacks, if you have 2 or less other characters, during this turn, all your characters get +1000 Power.
+【自】このカードがアタックした時、他のあなたのキャラが2枚以下なら、あなたのキャラすべてに、そのターン中、パワーを＋1000。
+Flavor Text:
+江漣「しっかりエスコートしてね」
+
+==========================
+
+掃除するキャルT102
+PT/W07-T102 TD
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Maid メイド,_Clock 時計
+Card Text/Abilities:
+【C】 SUPPORT All the characters in front of this card get +500 Power.
+【A】When this card is placed on stage from hand, choose 1 of your other characters, during this turn, it gets +1 Level, +1000 Power.
+【永】 応援  このカードの前のあなたのキャラすべてに、パワーを＋500。
+【自】このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。
+Flavor Text:
+ちょっと待っててね。
+ここ片付いたらご飯にするから
+
+==========================
+
+“最高傑作”アインT10
+PT/W07-T10 TD
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【C】All your other 《武器》 characters get +500 Power.
+【S】［Place this card in clock］During this turn, all your characters get +1000 power.
+【永】他のあなたの《武器》のキャラすべてに、パワーを＋500。
+【起】［このカードをクロック置き場に置く］あなたのキャラすべてに、そのターン中、パワーを＋1000。
+Flavor Text:
+私たちは機能しさえすれば良い
+余計な事を考えてはダメ
+
+==========================
+
+一番目の女アインT11
+PT/W07-T11 TD
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【C】If you have 2 or less other characters, all your other characters get +500 Power.
+【永】他のあなたのキャラが2枚以下なら、他のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+私は一番目の女、アイン
+
+==========================
+
+新たなファントム ドライT12
+PT/W07-T12 TD
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Weapon 武器,_Clock 時計
+Card Text/Abilities:
+Flavor Text:
+……日本のヤクザなんて知ったこっちゃないね
+
+==========================
+
+暴走するドライT13
+PT/W07-T13 TD
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Weapon 武器,_Clock 時計
+Card Text/Abilities:
+【A】When this card attacks, choose 1 of your other front row characters, place it in waiting room.
+【自】このカードがアタックした時、あなたは他の自分の前列のキャラを1枚選び、控え室に置く。
+Flavor Text:
+……恩？　どういう意味だっけ？
+
+==========================
+
+華麗なるガンプレイ ドライT14
+PT/W07-T14 TD
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Weapon 武器,_Clock 時計
+Card Text/Abilities:
+【A】［③］When this card attacks, if 「憤怒」 is in the climax slot, you may pay the cost. If you do, deal 2 damage to the opponent.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【自】［③］このカードがアタックした時、クライマックス置場に「憤怒」があるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。 (ダメージキャンセルは発生する)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+サイス「彼女なら１０秒でやれるということです」
+
+==========================
+
+江漣VSドラT15
+PT/W07-T15 TD
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Weapon 武器,_Clock 時計
+Card Text/Abilities:
+Flavor Text:
+ドライ「……初めまして、アイン。……それとも、
+元ファントムと呼んだほうがいいかい……？」
+
+==========================
+
+決着T16
+PT/W07-T16 TD
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+ドライ「あんたと逢えて、良かった……
+それだけで、もう充分、嬉しかった……」
+
+==========================
+
+憤怒T17
+PT/W07-T17 TD
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed on Stage from hand, place the top card of your deck to Stock. During this turn, all of your Characters get +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+あたしに勝てたら……
+きっと世界中が、あんたにひれ伏すよ
+
+==========================
+

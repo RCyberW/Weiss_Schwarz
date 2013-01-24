@@ -1,0 +1,1022 @@
+おてんば ネロTomboy Nero
+MK/SE11-01 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Detective 探偵,_Sweets お菓子
+Card Text/Abilities:
+【A】［③］ When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《お菓子》 Character with Level 1 or lower, place is anywhere in the Back Row. Shuffle your Deck afterwards.
+【自】［③］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、 あなたは自分の山札を見てレベル1以下の《お菓子》のキャラを1枚まで選び、後列の好きな枠に置く。その山札をシャッフルする。
+Flavor Text:
+おーい、こっちこっちー
+
+==========================
+
+目ざといネロ
+MK/SE11-02 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Detective 探偵,_Sweets お菓子
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card get +500 Power.
+【S】［①］ Choose 1 of your opponent's Front Row Character with Cost 0 or lower, return it to Hand.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】［①］ あなたは相手の前列のコスト0以下のキャラを1枚選び、手札に戻す。
+Flavor Text:
+間違いない、ここだ
+
+==========================
+
+やる気のネロ
+MK/SE11-03 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: N/A
+Traits:: Detective 探偵,_Sweets お菓子
+Card Text/Abilities:
+【C】 During your turn, this card gets +1000 Power.
+【永】 あなたのターン中、このカードのパワーを＋1000。
+Flavor Text:
+僕たちがＧ４を止める！
+
+==========================
+
+サンタのエリーSanta Elly
+MK/SE11-04 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Detective 探偵,_Book 本
+Card Text/Abilities:
+【C】 All your other Characters with 『EXPERIENCE』 get +500 Power.
+【S】［① REST this card］ Choose 1 card from your Clock, return it to Hand, choose 1 card from your Hand, place it into Clock.
+【永】 他のあなたの『経験』を持つキャラすべてに、パワーを＋500。
+【起】［① このカードをレストする］ あなたは自分のクロックを1枚選び、手札に戻す。あなたは自分の手札を1枚選び、クロック置場に置く。
+Flavor Text:
+
+==========================
+
+お宝発見なう 咲
+MK/SE11-05 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Police 警察,_Headphones ヘッドフォン
+Card Text/Abilities:
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you did, place this card in its previous slot in REST)
+【A】 CHANGE ［② Place this card into Waiting Room］ At the beginning of your Draw Phase, you may pay the cost. If you did, choose 1 「いたずら好きな魔女 咲」 from your Waiting Room, place it into this card's previous slot.
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+【自】 チェンジ ［② このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「いたずら好きな魔女 咲」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+これは16ビットの過激なオモチャ、ぴゅー…
+
+==========================
+
+やまとなでしこ 平乃Yamato Nadeshiko Hirano
+MK/SE11-06 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 7500
+Soul: 1
+Traits:: Detective 探偵,_Weapon 武器
+Card Text/Abilities:
+【A】 At the beginning of your Climax Phase, choose 1 of your Characters in STAND, REST it.
+【自】 あなたのクライマックスフェイズの始めに、あなたは自分のスタンドしているキャラを1枚選び、レストする。
+Flavor Text:
+
+==========================
+
+やまとなでしこ 平乃Yamato Nadeshiko Hirano
+MK/SE11-06 SP
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 7500
+Soul: 1
+Traits:: Detective 探偵,_Weapon 武器
+Card Text/Abilities:
+【A】 At the beginning of your Climax Phase, choose 1 of your Characters in STAND, REST it.
+【自】 あなたのクライマックスフェイズの始めに、あなたは自分のスタンドしているキャラを1枚選び、レストする。
+Flavor Text:
+
+==========================
+
+待ちぼうけ 平乃
+MK/SE11-07 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Police 警察,_Weapon 武器
+Card Text/Abilities:
+【A】 BOND／「お宝発見なう 咲」［Place the top card of your Deck into Clock］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「お宝発見なう 咲」 from your Waiting Room, return to Hand)
+【自】 絆／「お宝発見なう 咲」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「お宝発見なう 咲」を1枚選び、手札に戻す）
+Flavor Text:
+咲さんったら何してるのかしら
+
+==========================
+
+いいカンジな咲Good Mood Saku
+MK/SE11-08 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Police 警察,_Headphones ヘッドフォン
+Card Text/Abilities:
+Flavor Text:
+いいカンジにいこうよ～いいカンジに～
+
+==========================
+
+“マシンガン”エリー"Machine Gun" Elly
+MK/SE11-09 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Detective 探偵,_Book 本
+Card Text/Abilities:
+【C】 If you have 2 or more 《探偵》 Characters, this card gets +1000 Power.
+【S】［① Place the top card from your Deck into Clock］ Choose 1 of your opponent's Front Row Characters, during this turn, it gets -3000 Power.
+【永】 他のあなたの《探偵》のキャラが2枚以上なら、このカードのパワーを＋1000。
+【起】［① あなたの山札の上から1枚をクロック置場に置く］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－3000。
+Flavor Text:
+There's too many.
+多すぎです
+
+==========================
+
+お願いするエリーPleading Elly
+MK/SE11-10 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Detective 探偵,_Book 本
+Card Text/Abilities:
+【A】 When another of your 《探偵》 Characters become REVERSE in battle, if 「棺桶の恐怖」 is in your Climax Slot, if this card is in the Front Row, REST that Character, during this turn, this card gets +2500 Power.
+【自】 他のあなたのバトル中の《探偵》のキャラがリバースした時、あなたのクライマックス置場に「棺桶の恐怖」があり、前列にこのカードがいるなら、あなたはそのキャラをレストし、そのターン中、このカードのパワーを＋2500。
+Flavor Text:
+あの…みんなでお願いしてみたら…
+
+==========================
+
+不敵な微笑 平乃
+MK/SE11-11 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Police 警察,_Swimsuit 水着
+Card Text/Abilities:
+【S】● ASSIST 3000 Level 2［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)
+【起】● 助太刀3000 レベル2 ［① 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）
+Flavor Text:
+急所ははずしておきました♪
+
+==========================
+
+いたずら好きな魔女 咲
+MK/SE11-12 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Police 警察,_Headphones ヘッドフォン
+Card Text/Abilities:
+【C】 EXPERIENCE If the total Level of cards in your Level slot is 3 or higher, this card gets +1000 Power.
+【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのパワーを＋1000。
+Flavor Text:
+トリック・オア・トリートなう
+
+==========================
+
+いたずら好きな魔女 咲
+MK/SE11-12 SP
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Police 警察,_Headphones ヘッドフォン
+Card Text/Abilities:
+【C】 EXPERIENCE If the total Level of cards in your Level slot is 3 or higher, this card gets +1000 Power.
+【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのパワーを＋1000。
+Flavor Text:
+トリック・オア・トリートなう
+
+==========================
+
+棺桶の恐怖
+MK/SE11-13 C
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】 When this card is placed into Climax slot from Hand, place the top card of your Deck into Stock, during this turn, all your Characters get +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+えいっ！
+
+==========================
+
+G4の司令塔 小衣
+MK/SE11-14 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Police 警察,_Mask 仮面
+Card Text/Abilities:
+【C】 SUPPORT All your characters in front of this card get +500 Power.
+【A】 CHANGE ［③ Place this card into Waiting Room］ At the beginning of your Draw Phase, you may pay the cost. If you did, choose 1 「“ヨコハマの守護者”小衣」 from your Waiting Room, place it into this card's previous slot.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【自】 チェンジ ［③ このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“ヨコハマの守護者”小衣」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+小衣の頭脳がフル回転してるわ！
+
+==========================
+
+ドレス姿の小衣
+MK/SE11-15 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Police 警察,_Dress ドレス
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand, during this turn, this card gets +X Power. X is equals to the number of your 《警察》 ×500.
+【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《警察》のキャラの枚数×500に等しい。
+Flavor Text:
+ちょっと！アンタ！
+
+==========================
+
+“出席番号G-4”小衣
+MK/SE11-16 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Police 警察,_Swimsuit 水着
+Card Text/Abilities:
+【A】［③ Place the top card of your Deck into Clock］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose up to 2 《警察》 Characters from your Waiting Room, return it to Hand.
+【自】［③ あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《警察》のキャラを2枚まで選び、手札に戻す。
+Flavor Text:
+じゃあこれより自由行動！
+
+==========================
+
+昼下がりの次子
+MK/SE11-17 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Police 警察,_Weapon 武器
+Card Text/Abilities:
+【C】 EXPERIENCE If 「グラマー娘 次子」 is in your Level slot, this card gets +1500 Power.
+【永】 経験 あなたのレベル置場に「グラマー娘 次子」があるなら、このカードのパワーを＋1500。
+Flavor Text:
+次の休みは海ってのもいいな
+
+==========================
+
+ドレス姿のシャロ
+MK/SE11-18 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Detective 探偵,_Dress ドレス
+Card Text/Abilities:
+【C】 EXPERIENCE If the total Level of cards in your Level slot is 5 or higher, this card gains the following ability.『【A】 When this card becomes REVERSE, if this card's battle opponent is Level 2 or lower, you may REVERSE that Character.』
+【永】 経験 あなたのレベル置場のカードのレベルの合計が5以上なら、このカードは次の能力を得る。『【自】 このカードがリバースした時、このカードのバトル相手のレベルが2以下なら、あなたはそのキャラをリバースしてよい。』
+Flavor Text:
+イタタタ、皆さん大丈夫ですか？
+
+==========================
+
+“ヨコハマの守護者”小衣
+MK/SE11-19 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Police 警察,_Shield 盾
+Card Text/Abilities:
+【A】［Place 1 「最新Ｇ型シールド」 from Hand into Waiting Room］ At the beginning of your opponent's Attack Phase, if this card is in the Front Row, you may pay the cost. If you did, all your Characters, during this turn gets +2000 Power.
+【自】［手札の「最新Ｇ型シールド」を1枚控え室に置く］ 相手のアタックフェイズの始めに、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋2000。
+Flavor Text:
+あんたたちは下がってなさい！
+
+==========================
+
+正義の“警察官”小衣
+MK/SE11-20 R
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Police 警察,_Mask 仮面
+Card Text/Abilities:
+【C】For each of your other 《警察》 Characters, this card gets +500 Power.
+【A】 When this card is placed on Stage from Hand, you may place the top card from your Clock into Waiting Room.
+【永】 他のあなたの《警察》のキャラ1枚につき、このカードのパワーを＋500。
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+Flavor Text:
+あんたが犯人ね！
+
+==========================
+
+正義の“警察官”小衣
+MK/SE11-20 SP
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Police 警察,_Mask 仮面
+Card Text/Abilities:
+【C】For each of your other 《警察》 Characters, this card gets +500 Power.
+【A】 When this card is placed on Stage from Hand, you may place the top card from your Clock into Waiting Room.
+【永】 他のあなたの《警察》のキャラ1枚につき、このカードのパワーを＋500。
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+Flavor Text:
+あんたが犯人ね！
+
+==========================
+
+アイリーン・ドアラー
+MK/SE11-21 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Glasses メガネ,_Banana バナナ
+Card Text/Abilities:
+【A】 When this card attacks, reveal the top card of your Deck. If that card is a Climax, choose 1 of your Characters with the name 「小衣」, you may place it into Stock. (Return revealed card to its original position)
+【A】 BOND／「おねだり 小衣」［Place the top card of your Deck into Clock］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「おねだり 小衣」 from your Waiting Room, return to Hand)
+【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、あなたは自分のカード名に「小衣」を含むキャラを1枚選び、ストック置場に置いてよい。（公開したカードは元に戻す）
+【自】 絆／「おねだり 小衣」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「おねだり 小衣」を1枚選び、手札に戻す）
+Flavor Text:
+あなた、可愛いわ
+
+==========================
+
+ネコミミメイド シャロ
+MK/SE11-22 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Detective 探偵,_Maid メイド
+Card Text/Abilities:
+【A】 When another of your Characters become REVERSE in battle, choose 1 of your 《探偵》 Characters, during this turn, it gets +1000 Power.
+【自】 他のあなたのバトル中のキャラがリバースした時、あなたは自分の《探偵》のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+ご主人様。お帰りなさいにゃ♪
+
+==========================
+
+駄々っ子 小衣
+MK/SE11-23 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Police 警察,_Mask 仮面
+Card Text/Abilities:
+【A】［①］When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 card from your Level slot and 1 card from your Waiting Room, exchange them.
+【自】［①］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のレベル置場のカードと控え室のカードを1枚ずつ選び、入れ替える。
+Flavor Text:
+めんどくさいわねー。平乃、黙らせて
+
+==========================
+
+マーロ国の王女 クラリス
+MK/SE11-24 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Royal Family 王族,
+Card Text/Abilities:
+【C】 All your other 《探偵》 Characters gain 《除湿機》.
+【A】［①］ At the beginning of your opponent's Attack Phase, you may pay the cost. If you did, choose 1 of your Characters with the name 「シャロ」 and this card, STAND each and swap them.
+【永】 他のあなたの《探偵》のキャラすべてに、《除湿機》を与える。
+【自】［①］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分のカード名に「シャロ」を含むキャラを1枚とこのカードを選び、それぞれをスタンドして入れ替える。
+Flavor Text:
+名探偵シャーロック！
+いえ、名名名名名名名名名名探偵シャーロック！
+あなたに不可能はありません！
+
+==========================
+
+江戸っ子 次子
+MK/SE11-25 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Police 警察,_Weapon 武器
+Card Text/Abilities:
+【A】［②］When this card is placed from Stage into Waiting Room, you may pay the cost. If you did, choose 1 Character with 『EXPERIENCE』 from your Waiting Room, add it to Hand.
+【自】［②］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の『経験』を持つキャラを1枚選び、手札に戻す。
+Flavor Text:
+ちょっと休憩ついでに腹ごしらえってね
+
+==========================
+
+江戸っ子 次子
+MK/SE11-25 SP
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Police 警察,_Weapon 武器
+Card Text/Abilities:
+【A】［②］When this card is placed from Stage into Waiting Room, you may pay the cost. If you did, choose 1 Character with 『EXPERIENCE』 from your Waiting Room, add it to Hand.
+【自】［②］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の『経験』を持つキャラを1枚選び、手札に戻す。
+Flavor Text:
+ちょっと休憩ついでに腹ごしらえってね
+
+==========================
+
+“滅びの言葉”シャロ
+MK/SE11-26 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Detective 探偵,_Camera カメラ
+Card Text/Abilities:
+【A】［①］ When this card becomes REVERSE, if  「バリツの秘密」 is in your Climax Slot and this card's battle opponent is Level 2 or lower, you may pay the cost. If you did, REVERSE that Character.
+【自】［①］ このカードがリバースした時、あなたのクライマックス置場に「バリツの秘密」があり、このカードのバトル相手のレベルが2以下なら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラをリバースする。
+Flavor Text:
+らんらんらん♪
+
+==========================
+
+トランス系アイドル KoKoRo
+MK/SE11-27 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Music 音楽,_Television テレビ
+Card Text/Abilities:
+【C】If this card is on Stage, this card gains 《警察》.
+【A】 When this card attacks, if 「ココロノエデン」 is in the Climax Slot, you may choose 1 「正義の“警察官”小衣」 from your Waiting Room, return it to Hand.
+【永】 舞台にこのカードがいるなら、このカードは《警察》を得る。
+【自】 このカードがアタックした時、クライマックス置場に「ココロノエデン」があるなら、あなたは自分の控え室の「正義の“警察官”小衣」を1枚選び、手札に戻してよい。
+Flavor Text:
+おらーみんなーIQってるーーー？
+
+==========================
+
+来栖 ソニア
+MK/SE11-28 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Detective 探偵,
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card with 「シャロ」 in its name get +1000 Power, and gains 《宝石》.
+【A】 When this card attacks, choose 1 of your other Front Row Characters, place it into Waiting Room.
+【永】 応援 このカードの前のあなたのカード名に「シャロ」を含むキャラすべてに、パワーを＋1000し、《宝石》を与える。
+【自】 このカードがアタックした時、あなたは他の自分の前列のキャラを1枚選び、控え室に置く。
+Flavor Text:
+シャーロック先輩…
+
+==========================
+
+おねだり 小衣
+MK/SE11-29 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Police 警察,_Mask 仮面
+Card Text/Abilities:
+Flavor Text:
+お姉たまぁ♪ コ・コ・ロ、バナナ食べたいでちゅ～
+
+==========================
+
+グラマー娘 次子
+MK/SE11-30 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Police 警察,_Swimsuit 水着
+Card Text/Abilities:
+【S】［REST 1 of your 《警察》 Characters］ During this turn, this card gets +1000 Power.
+【起】［あなたの《警察》のキャラを1枚レストする］ そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+久し振りの休みなんだよねー
+
+==========================
+
+バリツの秘密　
+MK/SE11-31 C
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+『バリツ』
+
+==========================
+
+ココロノエデン
+MK/SE11-32 C
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000, +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+彷徨う街の片隅で すれ違う孤独な瞳
+世界は沈黙を選び時を止めた
+
+==========================
+
+最新Ｇ型シールド
+MK/SE11-33 C
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When this card is Triggered, choose 1 Character from your Waiting Room, return to hand)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（拾：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）
+Flavor Text:
+最新G型シールド展開！！
+
+==========================
+
+お料理講師 コーデリア
+MK/SE11-34 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Detective 探偵,_Sports スポーツ
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand, choose 1 of your other 《スポーツ》 Characters, during this turn, it gets +2000 Power.
+【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《スポーツ》のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+
+==========================
+
+謎に詰め寄るコーデリア
+MK/SE11-35 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 1500
+Soul: 1
+Traits:: Detective 探偵,_Sports スポーツ
+Card Text/Abilities:
+【A】 When you use this card's 『助太刀』, reveal the top card of your Deck. If that card is a 《探偵》 Character, choose 1 of your Characters, during this turn it gets +1000 Power. (Return revealed card to its original position)
+【S】● ASSIST 1500 Level 1 ［① Place this card from Hand to Waiting Room］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +1500 Power)
+【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から1枚を公開する。そのカードが《探偵》のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。（公開したカードは元に戻す）
+【起】● 助太刀1500 レベル1 ［① 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）
+Flavor Text:
+感じるのよ、コーデリア・グラウカ…
+
+==========================
+
+武闘派探偵 コーデリア
+MK/SE11-36 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Detective 探偵,_Sports スポーツ
+Card Text/Abilities:
+【C】 During your opponent's turn, if your Stock is 5 or above, this card gets +2000 Power.
+【永】 相手のターン中、あなたのストックが5枚以上なら、このカードのパワーを＋2000。
+Flavor Text:
+逃がさないわよ、アルセーヌ……！
+
+==========================
+
+夕焼け空と小衣
+MK/SE11-37 PR
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Police 警察,_Mask 仮面
+Card Text/Abilities:
+【C】 If you have another Character with 「平乃」 in its name, this card gets +1000 Power.
+【C】 If you have another Character with 「咲」 in its name, this card gets +1000 Power.
+【C】 If you have another Character with 「次子」 in its name, this card gets +1000 Power.
+【永】 他のあなたのカード名に「平乃」を含むキャラがいるなら、このカードのパワーを＋1000。
+【永】 他のあなたのカード名に「咲」を含むキャラがいるなら、このカードのパワーを＋1000。
+【永】 他のあなたのカード名に「次子」を含むキャラがいるなら、このカードのパワーを＋1000。
+Flavor Text:
+もう、心配させんじゃないわよ
+
+==========================
+
+“夏のハプニング”コーデリア
+MK/SE11-38 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Detective 探偵,_Sports スポーツ
+Card Text/Abilities:
+【A】［②］ When this card is placed on Stage from hand, you may pay the cost. If you did, draw 1 card.
+【自】［②］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。
+Flavor Text:
+ネロ「コーデリアの制服、透けてるよ～！」
+
+==========================
+
+夢への一歩 シャロ
+MK/SE11-39 PR
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Detective 探偵,_Camera カメラ
+Card Text/Abilities:
+【A】 If your climax slot have climax, during this turn, this card gets +1500 power.
+【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。
+Flavor Text:
+どんどん行きましょう！
+
+==========================
+
+“第2幕”アンリエット＆ミルキィホームズ
+MK/SE11-40 PR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Detective 探偵,_Student Council 生徒会
+Card Text/Abilities:
+【C】 When this card on stage, this card gets 《怪盗》 trait.
+【A】 When this card comes to stage from hand, choose one of your other 《探偵》 character, during this turn, it gets +1000 power.
+【永】 舞台にこのカードがいるなら、このカードは《怪盗》を得る。
+【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《探偵》のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+アンリエット「みなさん、幕が上がりましてよ」
+
+==========================
+
+いつでも前向き 三森すずこ
+MK/SE11-41 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Music 音楽,_Detective 探偵
+Card Text/Abilities:
+Flavor Text:
+謎は解き明かせばいいんです！
+
+==========================
+
+豆まきシャロ
+MK/SE11-42 PR
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Detective 探偵,_Camera カメラ
+Card Text/Abilities:
+【C】 If you have other 2 or above 『応援』 characters, this card gets the following ability.『【A】ENCORE [Discard 1 Character to Waiting Room from hand]』
+【永】 他のあなたの『応援』を持つキャラが2枚以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。
+Flavor Text:
+スキありーっ！
+
+==========================
+
+トラブルメーカー ミルキィホームズ
+MK/SE11-43 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Detective 探偵,
+Card Text/Abilities:
+【S】［Put 2 of your characters to REST］ During this turn, this card gets +2000 power.
+【起】［あなたのキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+シャロ「ハッピネスを見つけに行きましょう♪」
+
+==========================
+
+探偵見習 シャロ
+MK/SE11-44 PR
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Detective 探偵,_Camera カメラ
+Card Text/Abilities:
+【S】［Put this card to waiting room］ Choose 1 of your opponent's Cost 0 Front Row character, Place it to top deck.
+【起】［このカードを控え室に置く］ あなたは相手の前列のコスト0以下のキャラを1枚選び、山札の上に置く。
+Flavor Text:
+たし……、ミルキィホームズに、ぐ……
+
+==========================
+
+探偵見習 エリー
+MK/SE11-45 PR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Detective 探偵,_Book 本
+Card Text/Abilities:
+【A】 When this card comes to stage from hand, choose 1 of your other 《探偵》 character, during this turn, it gets +1000 power.
+【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《探偵》のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+みんなで力を合わせて、学院を守りましょう！
+
+==========================
+
+探偵見習 ネロ
+MK/SE11-46 PR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Detective 探偵,_Sweets お菓子
+Card Text/Abilities:
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+僕と契約成立だね！
+
+==========================
+
+探偵見習 コーデリア
+MK/SE11-47 PR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Detective 探偵,_Sports スポーツ
+Card Text/Abilities:
+Flavor Text:
+探偵らしく戦いましょう！
+
+==========================
+
+ヨコハマを去ったアルセーヌ
+MK/SE11-48 PR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Phantom Thief 怪盗,_Mask 仮面
+Card Text/Abilities:
+Flavor Text:
+さようなら、ミルキィホームズ
+
+==========================
+
+探偵チーム ミルキィホームズ
+MK/SE11-50 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Detective 探偵,_Voice Actor 声優
+Card Text/Abilities:
+Flavor Text:
+あたしたちの名前は、ミルキィホームズ!!
+
+==========================
+
+徳井青空
+MK/SE11-51 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Detective 探偵,_Voice Actor 声優
+Card Text/Abilities:
+Flavor Text:
+「もしもし、そらまるだよ。」
+
+==========================
+
+三森すずこ
+MK/SE11-53 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Detective 探偵,_Voice Actor 声優
+Card Text/Abilities:
+Flavor Text:
+グッディ エブリデーイ！！！
+
+==========================
+
+橘田いずみ
+MK/SE11-54 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Detective 探偵,_Voice Actor 声優
+Card Text/Abilities:
+Flavor Text:
+餃子くってるかぁ～？
+
+==========================
+

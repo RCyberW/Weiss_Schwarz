@@ -1,0 +1,1031 @@
+守護者セイバーDefender Saber
+FH/SE03-001 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Servant サーヴァント,_Weapon 武器
+Card Text/Abilities:
+【A】［②］When 「決戦！デッドブリッジ」 is placed in your Climax Slot, you may pay the cost. If you do, during this turn, this card gains the following ability. 『【C】When this card attacks, choose 1 of your opponent's back row characters. You may front attack that card as the defending character.』
+【A】When the card battling this character becomes REVERSE, place that card into stock.
+【自】［②］あなたのクライマックス置場に「決戦！デッドブリッジ」が置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードは次の能力を得る。『【永】このカードがアタックする時、あなたはかわりに相手の後列のキャラを1枚選び、このカードはそのキャラを防御キャラとしてフロントアタックしてよい。』
+【自】このカードとバトル中のキャラがリバースした時、あなたはそのキャラをストック置場に置く。
+Flavor Text:
+いざ、死力を尽くして来るがいい
+
+==========================
+
+子供たちのアイドル ギルガメッシュChild Idol Gilgamesh
+FH/SE03-002 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+【A】［① Place this card in the waiting room］When 「天地乖離す開闢の星」is placed into the climax slot, you may pay the cost. If you do, search your deck for up to 1 《サーヴァント》 character your current level or below, place it in this card's previous slot. Shuffle your deck.
+【自】［① このカードを控え室に置く］あなたのクライマックス置場に「天地乖離す開闢の星」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て自分のレベル以下の《サーヴァント》のキャラを1枚まで選び、このカードがいた枠に置く。その山札をシャッフルする。
+Flavor Text:
+おはようございまーす！
+
+==========================
+
+“この世すべての悪”アヴェンジャー"All the evil in this world" Avenger
+FH/SE03-003 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Servant サーヴァント,_Void 虚無
+Card Text/Abilities:
+【A】［③］During this card's battle, when the damage you receive does not cancel, you may pay the cost. If you do, deal the same damage to your opponent.
+【自】［③］このカードのバトル中、あなたの受けたダメージがキャンセルされなかった時、あなたはコストを払ってよい。そうしたら、相手に同じダメージを与える。 (ダメージキャンセルは発生する)
+Flavor Text:
+─────自慢じゃないが。
+人間が相手なら、オレは世界最強だ
+
+==========================
+
+反英雄アヴェンジャー Anti-Hero Avenger
+FH/SE03-004 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Servant サーヴァント,_Void 虚無
+Card Text/Abilities:
+【C】If you have 2 or more other 《マスター》 characters, this card gets 《マスター》, treat this card's name as 「衛宮 士郎」.
+【C】All your other 《マスター》 characters gain 『【A】 ENCORE ［Place the top card of your deck into clock］』.
+【永】他のあなたの《マスター》のキャラが2枚以上なら、このカードは《マスター》を得て、このカードのカード名は「衛宮 士郎」としても扱う。
+【永】他のあなたの《マスター》のキャラ全てに、『【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］』を与える。
+Flavor Text:
+よう、目が覚めたかマスター
+
+==========================
+
+蛍塚 音子
+FH/SE03-005 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Alcohol 酒,
+Card Text/Abilities:
+【C】 SUPPORT All the characters in front of this card get +1 Level.
+【A】When you level up, choose 1 of your characters, during this turn, it gets +1000 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、レベルを＋1。
+【自】あなたがレベルアップした時、あなたは自分のキャラを1枚を選び、そのターン中、パワーを＋1000。
+Flavor Text:
+おーい、ぼうっとしてんじゃないぞー
+
+==========================
+
+巫女服のセイバーMiko Clothes Saber
+FH/SE03-006 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Servant サーヴァント,_Miko 巫女
+Card Text/Abilities:
+【C】If you have 1 or less climax in your waiting room, this card gets +1000 Power.
+【永】あなたの控え室のクライマックスが1枚以下なら、このカードのパワーを＋1000。
+Flavor Text:
+恐れ入ります。これでも神に仕える身ですし
+
+==========================
+
+巫女服のセイバーMiko Clothes Saber
+FH/SE03-006 SP
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Servant サーヴァント,_Miko 巫女
+Card Text/Abilities:
+【C】If you have 1 or less climax in your waiting room, this card gets +1000 Power.
+【永】あなたの控え室のクライマックスが1枚以下なら、このカードのパワーを＋1000。
+Flavor Text:
+恐れ入ります。これでも神に仕える身ですし
+
+==========================
+
+平穏な日常セイバーPeaceful Days Saber
+FH/SE03-007 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 3500
+Soul: 1
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+【C】During your turn, all your other characters get +X Power. X is equal to the character's level x 500.
+【A】 CHANGE ［Place this card in clock］At the beginning of your Draw Phase, you may pay the cost. If you do, choose 1 「水辺の王様セイバー」 from your waiting room, place it in this card's previous slot.
+【永】あなたのターン中、他のあなたのキャラすべてに、パワーを＋X。Xはそのキャラのレベル×500に等しい。
+【自】 チェンジ ［このカードをクロック置場に置く］あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「水辺の王様セイバー」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+せっかくの機会ですから、
+今日はこちらで過ごそうと思いまして
+
+==========================
+
+水辺の王様セイバーWaterside Ruler Saber
+FH/SE03-008 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 1
+Traits:: Servant サーヴァント,_Swimsuit 水着
+Card Text/Abilities:
+Flavor Text:
+いま着ている形のほうがシロウは喜ぶと言われまして─────
+
+==========================
+
+決戦！デッドブリッジ
+FH/SE03-009 C
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card placed into the climax slot from have, draw 1 card, choose 1 of your characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+アーチャー「先に行くぞセイバー。
+せいぜいこのオレに騙されていろ」
+
+==========================
+
+天地乖離す開闢の星
+FH/SE03-010 C
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1W
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+(Wind：When this card is Triggered, you may choose 1 of your opponent's Characters, return to his/her hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(風：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+死に物狂いで謳え雑念─────！！
+
+==========================
+
+終わりなき聖杯戦争バゼット
+FH/SE03-011 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Master マスター,_Disguise 男装
+Card Text/Abilities:
+【A】When this card attacks, if it is the first player's turn, during this turn, you can attack up to 2 times.
+【A】When this card becomes REVERSE in battle, you take 2 damage.
+【自】このカードがアタックした時、先攻プレイヤーの第1ターンなら、そのターン中、あなたは2枚までアタックできる。
+【自】バトル中のこのカードがリバースした時、あなたに2ダメージ与える。 (ダメージキャンセルは発生する)
+Flavor Text:
+─────では、あなたは私の敵か
+
+==========================
+
+ステンノ＆エウリュアレ
+FH/SE03-012 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: God 神,_Twins 双子
+Card Text/Abilities:
+【C】If you have another 「ステンノ＆エウリュアレ」, all your other characters with 「ライダー」 in the name get +1000 Power.
+【C】All your other characters with 「ライダー」 in the name gain the following ability. 『【C】This card cannot be put to REVERSE by your opponent's 【A】 abilities. This card cannot side attack.』
+【永】他のあなたの「ステンノ＆エウリュアレ」がいるなら、他のあなたのカード名に「ライダー」を含むキャラすべてに、パワーを＋1000。
+【永】他のあなたのカード名に「ライダー」を含むキャラすべてに、次の能力を与える。『【永】このカードは相手のキャラの【自】の効果によってリバースされない。このカードはサイドアタックできない。』
+Flavor Text:
+じゃあ、私と私が、お仕置きしてあげないと
+
+==========================
+
+ステンノ＆エウリュアレ
+FH/SE03-012 SP
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: God 神,_Twins 双子
+Card Text/Abilities:
+【C】If you have another 「ステンノ＆エウリュアレ」, all your other characters with 「ライダー」 in the name get +1000 Power.
+【C】All your other characters with 「ライダー」 in the name gain the following ability. 『【C】This card cannot be put to REVERSE by your opponent's 【A】 abilities. This card cannot side attack.』
+【永】他のあなたの「ステンノ＆エウリュアレ」がいるなら、他のあなたのカード名に「ライダー」を含むキャラすべてに、パワーを＋1000。
+【永】他のあなたのカード名に「ライダー」を含むキャラすべてに、次の能力を与える。『【永】このカードは相手のキャラの【自】の効果によってリバースされない。このカードはサイドアタックできない。』
+Flavor Text:
+じゃあ、私と私が、お仕置きしてあげないと
+
+==========================
+
+同じ運命 桜＆ライダー
+FH/SE03-013 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Master マスター,_Servant サーヴァント
+Card Text/Abilities:
+【A】When this card attacks, if 「大切な場所」 is in the climax slot, during this turn, all your characters get +1000 Power.
+【自】このカードがアタックした時、クライマックス置場に「大切な場所」があるなら、あなたのキャラすべてに、そのターン中、パワーを＋1000。
+Flavor Text:
+桜「ライダーは塀の外の守りに専念して。
+中に入ってきたのはわたしが追い返すから……！」
+
+==========================
+
+別れを惜しむバゼット
+FH/SE03-014 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Master マスター,_Disguise 男装
+Card Text/Abilities:
+【A】［①］When the character battling this card becomes REVERSE, you may pay the cost. If you do, your opponent returns all the cards from the waiting room to the deck. Shuffle the deck afterwards.
+【自】［①］このカードとバトル中のキャラがリバースした時、あなたはコストを払ってよい。そうしたら、相手は自分の控え室のカードすべてを、山札に戻す。その山札をシャッフルする。
+Flavor Text:
+─────どうして？　なくなるって事は0でしょう？
+
+==========================
+
+休日のランサー
+FH/SE03-015 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Servant サーヴァント,_Weapon 武器
+Card Text/Abilities:
+【A】When this card attacks, if 「お気に入りの空間」 is in the climax slot, during this turn, this card gets +1500 Power and gains the following ability. 『【A】When the character battling this card becomes REVERSE, you may place up to the top X cards of your deck into stock. X is equal to that character's Level.』
+【S】［Place 1 of your 《サーヴァント》 or 《武器》 characters into clock from stage］During this turn, this card gets +5000 Power.
+【自】このカードがアタックした時、クライマックス置場に「お気に入りの空間」があるなら、そのターン中、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】このカードとバトル中のキャラがリバースした時、あなたは自分の山札の上からX枚までを、ストック置場に置く。Xはそのキャラのレベルに等しい。』
+【起】［あなたの舞台の、《サーヴァント》か《武器》のキャラを1枚クロック置場に置く］そのターン中、このカードのパワーを＋5000。
+Flavor Text:
+キエーーーー！
+
+==========================
+
+過去の記憶 バゼット＆ランサー
+FH/SE03-016 R
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Master マスター,_Servant サーヴァント
+Card Text/Abilities:
+【C】If you have 5 or more stock, this card gets +1000 Power.
+【C】The character facing this card gets -1 Soul.
+【S】［①］Choose 1 of your other characters, during this turn, it gets +1000 Power.
+【永】あなたのストックが5枚以上なら、このカードのパワーを＋1000。
+【永】このカードの正面のキャラのソウルを－1。
+【起】［①］あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+
+==========================
+
+水着の桜
+FH/SE03-017 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Master マスター,_Swimsuit 水着
+Card Text/Abilities:
+【A】［②］When this card is placed on stage from hand, you may pay the cost. If you do, search your deck for up to 1 「水着の凛」, show it to your opponent and place it into your hand. Shuffle your deck afterwards.
+【A】 BOND／「水着のライダー」 ［①］ (When you place this card on stage from hand, you may pay the cost. If you do, choose 1 「水着のライダー」 from your waiting room and place it into your hand)
+【自】［②］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「水着の凛」を1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+【自】 絆／「水着のライダー」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「水着のライダー」を1枚選び、手札に戻す)
+Flavor Text:
+
+==========================
+
+バゼット・フラガ・マクレミッツ
+FH/SE03-018 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Master マスター,_Disguise 男装
+Card Text/Abilities:
+【C】If there are 6 or less cards in your waiting room, this card gets +1000 Power.
+【永】あなたの控え室のカードが6枚以下なら、このカードのパワーを＋1000。
+Flavor Text:
+サーヴァントなら、私が倒します
+
+==========================
+
+水着のライダーSwimsuit Rider
+FH/SE03-019 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Servant サーヴァント,_Swimsuit 水着
+Card Text/Abilities:
+【A】When you use this card's 『ASSIST』, choose 1 of your 《マスター》 characters, during this turn, it gets +1000 Power.
+【S】● ASSIST 1000 Level 1 ［Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +1000 Power)
+【自】あなたがこのカードの『 助太刀 』を使った時、あなたは自分の《マスター》のキャラを1枚選び、そのターン中、パワーを＋1000。
+【起】● 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000)
+Flavor Text:
+士郎に褒めて貰えて自信が出ました
+
+==========================
+
+ドレス姿の桜
+FH/SE03-020 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Master マスター,_Dress ドレス
+Card Text/Abilities:
+【A】When this card attacks, if 「エスコート」is in the climax slot, choose 1 of your other characters, during this turn, it gets +1500 Power and this card gets +1500 Power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【自】このカードがアタックした時、クライマックス置場に「エスコート」があるなら、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500し、このカードのパワーを＋1500。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+先輩を見て、すごく嬉しくなっちゃいました
+
+==========================
+
+戦闘態勢バゼット
+FH/SE03-021 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Master マスター,_Disguise 男装
+Card Text/Abilities:
+【A】When 「斬り抉る戦神の剣」 is placed into your climax slot, you may place the top card of your deck under this card as a marker.
+【A】［③ Place 1 marker under this card into the waiting room］When your opponent places a climax into the climax slot, you may pay the cost. If you do, place the character facing this card into the waiting room.
+【自】あなたのクライマックス置場に「斬り抉る戦神の剣」が置かれた時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置いてよい。
+【自】［③ このカードの下のマーカーを1枚控え室に置く］相手のクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたはこのカードの正面のキャラを1枚選び、控え室に置く。
+Flavor Text:
+─────敵の実力を計ります
+貴方はサーヴァントの相手を
+
+==========================
+
+水着のセラ＆リズSwimsuit Sera & Leys
+FH/SE03-022 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 3
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Maid メイド,_Swimsuit 水着
+Card Text/Abilities:
+【S】［Put 1 of your 《マスター》 characters to REST］During this turn, this card gets +1000 Power.
+【起】［あなたの《マスター》のキャラを1枚レストする］そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+セラ「……ふん。私たちは必要以上に肌をさらしませんから」
+
+==========================
+
+エスコートEscort
+FH/SE03-023 C
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+桜「憧れてたんです。
+正装の男の人にこうして迎えに来て貰うのって」
+
+==========================
+
+大切な場所
+FH/SE03-024 C
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed in the climax slot from hand, draw 1 card, choose 1 of your characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+桜「─────そうだ。わたしは置いていかれたんじゃない」
+
+==========================
+
+斬り抉る戦神の剣
+FH/SE03-025 C
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: S
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Bag： When this card is Triggered, you may take the top card of your deck and place it in Stock.)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(袋：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい)
+Flavor Text:
+"後より出でて先に断つもの"
+
+==========================
+
+お気に入りの空間
+FH/SE03-026 C
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed in the climax slot from hand, place the top card of your deck into stock, during this turn, all your characters get +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+ね、お兄ちゃん、釣れてる？
+
+==========================
+
+エーデルフェルト姉妹
+FH/SE03-027 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Master マスター,_Twins 双子
+Card Text/Abilities:
+【A】［① Place 2 cards into waiting room from hand］When this card is placed on stage from hand, you may pay the cost. If you do, choose up to 2 characters with 「セイバー」 in the name, return them to hand.
+【自】［① 手札を2枚控え室に置く］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカード名に「セイバー」を含むキャラを2枚まで選び、手札に戻す。
+Flavor Text:
+
+==========================
+
+魔法少女カレイドルビー
+FH/SE03-028 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Master マスター,_Magic 魔法
+Card Text/Abilities:
+【A】［① Place 1 card into Waiting Room from Hand, place this card into Waiting Room］When 「ミミック遠坂」 is placed into your Climax slot, you may pay the cost. If you did, choose 1 Character with 「凛」 in its name and Cost 1 or less, place it into this card's previous slot.
+【S】 CONCENTRATE ［①］Flip the top 4 cards of your Deck, place them into Waiting Room. Search your Deck for up to X Characters with 「凛」 in its name, place it in your Hand. Shuffle your Deck afterwards. Choose X cards from your Hand, place them into Waiting Room. X is equals to the number of Climax flipped this way.
+【自】［①手札を1枚控え室に置き、このカードを控え室に置く］あなたのクライマックス置場に「ミミック遠坂」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のコスト1以下のカード名に「凛」を含むキャラを1枚選び、このカードがいた枠に置く。
+【起】 集中 ［①］あなたは自分の山札の上から4枚をめくり、控え室に置く。あなたは自分の山札を見てカード名に「凛」を含むキャラをX枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。あなたは自分の手札をX枚選び、控え室に置く。Xはそれらのカードのクライマックスの枚数に等しい。
+Flavor Text:
+お待たせ!　魔法少女カレイドルビー、ここに誕生!
+
+==========================
+
+“暴君”セイバーオルタ
+FH/SE03-029 R
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Servant サーヴァント,_Weapon 武器
+Card Text/Abilities:
+【A】［①］When this card is placed on stage from hand, you may pay the cost. If you do, deal 1 damage to your opponent.
+【A】When this card is attacked or attacks, place the top card of your stock under this card as a marker.
+【S】［Place 2 markers under this card in the waiting room］Deal 1 damage to your opponent.
+【自】［①］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら相手に1ダメージを与える。 (ダメージキャンセルは発生する)
+【自】このカードが、アタックした時かアタックされた時、あなたは自分のストックの上から1枚を、このカードの下にマーカーとして置く。
+【起】［このカードの下のマーカーを2枚控え室に置く］相手に1ダメージを与える。 (ダメージキャンセルは発生する)
+Flavor Text:
+もっきゅもっきゅ
+
+==========================
+
+遠坂神社の巫女 凛
+FH/SE03-030 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Master マスター,_Miko 巫女
+Card Text/Abilities:
+Flavor Text:
+People in the olden days used to say it. "What will happen will happen."
+昔の人は言ったわ。『なるように、なる』
+
+==========================
+
+遠坂神社の巫女 凛
+FH/SE03-030 SP
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Master マスター,_Miko 巫女
+Card Text/Abilities:
+Flavor Text:
+People in the olden days used to say it. "What will happen will happen."
+昔の人は言ったわ。『なるように、なる』
+
+==========================
+
+遠坂神社の神主アーチャー
+FH/SE03-031 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Servant サーヴァント,_God 神
+Card Text/Abilities:
+【C】If you have 3 or more 「遠坂神社の巫女 凛」 in your waiting room, this card gets +1500 Power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【永】あなたの控え室の「遠坂神社の巫女 凛」が3枚以上なら、このカードのパワーを＋1500。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+なぜ私がこんなことを……
+
+==========================
+
+水着の凛
+FH/SE03-032 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Master マスター,_Swimsuit 水着
+Card Text/Abilities:
+【A】This ability can be used up to 1 time per turn. When you use a 【起】, during this turn, this card gets +1000 Power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【自】この能力は1ターンに1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+覚悟しなさい、ここから遊びまくるわよー!
+
+==========================
+
+月下の紅 凛＆アーチャー
+FH/SE03-033 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Master マスター,_Servant サーヴァント
+Card Text/Abilities:
+【C】For each 「月下の紅 凛＆アーチャー」 in your waiting room, this card gets +500 Power.
+【永】あなたの控え室の「月下の紅 凛＆アーチャー」1枚につき、このカードのパワーを＋500。
+Flavor Text:
+凛「付き合ってくれる、アーチャー？」
+
+==========================
+
+ミミック遠坂
+FH/SE03-034 C
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When this card is Triggered, choose 1 Character from your waiting room, return to hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(扉：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+てへへ、びっくりした?
+
+==========================
+
+謎の少女カレン
+FH/SE03-035 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Master マスター,_Music 音楽
+Card Text/Abilities:
+【A】 This skill can be used up to 1 time per turn. When you use a 【起】, choose 1 of your characters, during this turn, it gets +1000 Power.
+【A】［②］When you level up, you may pay the cost. If you do, draw 1 card.
+【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+【自】［②］あなたがレベルアップした時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。
+Flavor Text:
+分かりませんか？彼らは“願いを叶えろ”と言っているのです
+
+==========================
+
+元気いっぱいのイリヤ
+FH/SE03-036 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Master マスター,_Homunculus ホムンクルス
+Card Text/Abilities:
+【A】When 「おやすみの夜」 is placed into your climax slot, during this turn, this card gets +1000 Power.
+【A】［④］When 「おやすみの夜」 is placed into your climax slot, if this card is in the front row, you may pay the cost. If you do, choose up to 1 Level 2 or below 《サーヴァント》 character from your hand, place it on stage in any slot.
+【自】あなたのクライマックス置場に「おやすみの夜」が置かれた時、そのターン中、このカードのパワーを＋1000。
+【自】［④］あなたのクライマックス置場に「おやすみの夜」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の手札のレベル2以下の《サーヴァント》のキャラを1枚まで選び、舞台の好きな枠に置く。
+Flavor Text:
+やっっっっはぁああ─────！
+
+==========================
+
+葛木メディア
+FH/SE03-037 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Servant サーヴァント,_Master マスター
+Card Text/Abilities:
+【A】［②］When this card attacks, if 「魔女の鉄槌」 is in the climax slot, you may pay the cost. If you do, choose 1 of your opponent's front row Cost 1 or below characters, place it at the bottom of the deck, then choose up to 1 of your opponent's front row characters with the same name, place it at the bottom of the deck.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【自】［②］このカードがアタックした時、クライマックス置場に「魔女の鉄槌」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のコスト1以下のキャラを1枚選び、山札の下に置き、相手の前列のそのキャラと同じカード名のキャラを1枚まで選び、山札の下に置く。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+宗一郎様は、何を作っても食べてくれるのよ
+
+==========================
+
+水着のイリヤ
+FH/SE03-038 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Master マスター,_Swimsuit 水着
+Card Text/Abilities:
+【C】All your other characters with 『 【A】ENCORE [Place the top card of your deck into clock]』 get +500 Power.
+【A】 BOND／「破城槌 イリヤ＆バーサーカー」 ［①］ (When you place this card on stage from hand, you may pay the cost. If you do, choose 1 「破城槌 イリヤ＆バーサーカー」 from your waiting room and place it into your hand)
+【永】他のあなたの『 【自】アンコール [あなたの山札の上から1枚をクロック置場に置く]』を持つキャラ全てにパワーを＋500。
+【自】 絆／「破城槌 イリヤ＆バーサーカー」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「破城槌 イリヤ＆バーサーカー」を1枚選び、手札に戻す)
+Flavor Text:
+…………じゃあ、わたしは？
+
+==========================
+
+カレン・オルテンシア
+FH/SE03-039 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Master マスター,_Music 音楽
+Card Text/Abilities:
+【C】 SUPPORT All your characters in front of this card get +500 Power.
+【A】［②］When this card is placed on stage from hand, you may pay the cost. If you do, choose 1 of your opponent's Level 3 or Below characters. At your opponent's next stand phase, that character cannot STAND.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを+500．
+【自】［②］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル3以下のキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズにスタンドしない。
+Flavor Text:
+それは─────祈るような、演奏だった
+
+==========================
+
+マグダラの聖骸布カレン
+FH/SE03-040 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Master マスター,_Music 音楽
+Card Text/Abilities:
+Flavor Text:
+抵抗は無駄です
+
+==========================
+
+悪魔憑きカレン
+FH/SE03-041 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Master マスター,_Music 音楽
+Card Text/Abilities:
+【C】During battle, if the character battling this card is 《悪魔》, this card gets +X Power. X is equal to that character's level x 1500.
+【A】［②］When this card attacks, if 「スパイラル・ラダー」 is in the climax slot, you may pay the cost. If you do, you may place the top card of your clock into the waiting room, choose 1 of your other characters, during this turn, it gains the following ability. 『【C】Even if this Character Side Attacks, no Soul is deducted.。』
+【永】このカードのバトル中、このカードとバトル中のキャラが《悪魔》なら、このカードのパワーを＋X。Xはそのキャラのレベル×1500に等しい。
+【自】［②］このカードがアタックした時、クライマックス置場に「スパイラル・ラダー」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚までを、控え室に置き、他の自分のキャラを1枚選び、そのターン中、次の能力を与える。『【永】このカードはサイドアタックしてもソウルが減少しない。』
+Flavor Text:
+……ええ。質問があるのでしたらどうぞ
+
+==========================
+
+破城槌 イリヤ＆バーサーカー
+FH/SE03-042 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Master マスター,_Servant サーヴァント
+Card Text/Abilities:
+【A】ENCORE [Place the top card of your deck into clock] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【S】［Discard 1 card from hand to waiting room］During this turn, this card gets +2500 Power.
+【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+【起】［手札を1枚控え室に置く］そのターン中、このカードのパワーを＋2500。
+Flavor Text:
+ノーマル イリヤ「辿り着けるかどうかは分からないけど、
+リンにばかり任せておけないもの」
+
+==========================
+
+おやすみの夜
+FH/SE03-043 C
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Book：When this card is triggered, you may draw 1 card)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(本：このカードがトリガーした時、あなたは1枚引いてよい)
+Flavor Text:
+イリヤ「……ね。もっとそっち行っていい？」
+
+==========================
+
+スパイラル・ラダー
+FH/SE03-044 C
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+前から思っていたけど
+貴方、ロックスターみたい
+
+==========================
+
+魔女の鉄槌
+FH/SE03-045 C
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is played to the Climax slot from hand, draw 1 card, then choose 1 of your characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置き場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+─────ええ、遠慮なく焼き払ってあげるわアヴェンジャー
+
+==========================
+
+メイド服のセイバー
+FH/SE03-046 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Servant サーヴァント,_Maid メイド
+Card Text/Abilities:
+【A】When you level up, during this turn, all your characters get Level+1.
+【自】あなたがレベルアップした時、あなたのキャラすべてに、そのターン中、レベルを＋1。
+Flavor Text:
+シロウ！あまりこちらを見ないでください！
+
+==========================
+
+メイド服の凛
+FH/SE03-047 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Master マスター,_Maid メイド
+Card Text/Abilities:
+【A】［②］When you level up, you may pay the cost. If you do, choose 1 《メイド》 character from your waiting room, return it to hand.
+【自】［②］あなたがレベルアップした時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《メイド》のキャラを1枚選び、手札に戻す。
+Flavor Text:
+―――ふふふん
+
+==========================
+
+メイド服の桜
+FH/SE03-048 PR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Master マスター,_Maid メイド
+Card Text/Abilities:
+【A】When you level up, choose 1 of your characters, during this turn, it gets +1000 Power.
+【自】あなたがレベルアップした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+ね、ライダー。似合ってるかな？
+
+==========================
+
+メイド服のライダー
+FH/SE03-049 PR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Servant サーヴァント,_Maid メイド
+Card Text/Abilities:
+【A】When you level up, you may draw 1 card. If you do, discard 1 card from hand to waiting room.
+【自】あなたがレベルアップした時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+サクラ、メイドはお淑やかに、ですよ
+
+==========================
+
+“常に優雅たれ”凛
+FH/SE03-60 PR
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Master マスター,_Jewel 宝石
+Card Text/Abilities:
+【S】[Put 1 of your 《マスター》 character to REST] During this turn, this card gets +1000 power.
+【起】[あなたの《マスター》のキャラを1枚【レスト】する] そのターン中、このカードのパワーを+1000。
+Flavor Text:
+オーケイ、始めましょう
+
+==========================
+
+“常に優雅たれ”凛
+FH/SE03-61 PR
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Master マスター,_Jewel 宝石
+Card Text/Abilities:
+【S】[Put 1 of your 《マスター》 character to REST] During this turn, this card gets +1000 power.
+【起】[あなたの《マスター》のキャラを1枚【レスト】する] そのターン中、このカードのパワーを+1000。
+Flavor Text:
+オーケイ、始めましょう
+
+==========================
+

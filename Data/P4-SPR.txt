@@ -1,0 +1,16 @@
+主人公＆イザナギ
+P4/SPR-001  PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: God 神,
+Card Text/Abilities:
+Flavor Text:
+イゴール「さて･･･ご自身の“未来”を垣間見られた感想は如何ですかな？」
+
+==========================
+

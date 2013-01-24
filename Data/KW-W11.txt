@@ -1,0 +1,1245 @@
+手作り料理の毎日　クド
+KW/W11-026 RR
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 1500
+Soul: 1
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【A】When this card comes to Stage from hand, choose 1 of your other 《動物》 Characters, during this turn, it gets +1000 Power.
+【A】［Put this card to REST］When your other 《動物》 Character comes to Stage from hand, if this card is in STAND, you may pay this cost. If you do, place the top card of your Deck into Stock.
+Flavor Text:
+
+==========================
+
+手作り料理の毎日　クド
+KW/W11-026 SP
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 1500
+Soul: 1
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【A】When this card comes to Stage from hand, choose 1 of your other 《動物》 Characters, during this turn, it gets +1000 Power.
+【A】［Put this card to REST］When your other 《動物》 Character comes to Stage from hand, if this card is in STAND, you may pay this cost. If you do, place the top card of your Deck into Stock.
+Flavor Text:
+
+==========================
+
+夢を追う女の子 椎菜
+KW/W11-027 RR
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【A】When this card comes to Stage from hand, reveal the top card of your Deck. If that card is Level 1 or above, place it to Stock.(If not, return it to its original position. Climax's Level is 0)
+【A】When this card attacks, if 「暴発事故」 is in your Climax slot, choose up to 1 of your other Characters, place it into Stock. Choose 1 of your Characters, during this turn, it gets +4000 Power.
+【自】このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上ならストック置場に置く。 (そうでないなら元に戻す。クライマックスのレベルは0として扱う)
+【自】このカードがアタックした時、クライマックス置場に「暴発事故」があるなら、あなたは他の自分のキャラを1枚まで選び、ストック置場に置き、自分のキャラを1枚選び、そのターン中、パワーを＋4000。
+Flavor Text:
+すぺーすしゃとるだ！
+
+==========================
+
+夢を追う女の子 椎菜
+KW/W11-027 RRR
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【A】When this card comes to Stage from hand, reveal the top card of your Deck. If that card is Level 1 or above, place it to Stock.(If not, return it to its original position. Climax's Level is 0)
+【A】When this card attacks, if 「暴発事故」 is in your Climax slot, choose up to 1 of your other Characters, place it into Stock. Choose 1 of your Characters, during this turn, it gets +4000 Power.
+【自】このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上ならストック置場に置く。 (そうでないなら元に戻す。クライマックスのレベルは0として扱う)
+【自】このカードがアタックした時、クライマックス置場に「暴発事故」があるなら、あなたは他の自分のキャラを1枚まで選び、ストック置場に置き、自分のキャラを1枚選び、そのターン中、パワーを＋4000。
+Flavor Text:
+すぺーすしゃとるだ！
+
+==========================
+
+木陰の膝枕　クド
+KW/W11-028 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【A】［① Place this card into Memory］When this card becomes REVERSE in battle, you may pay this cost. If you do, choose 1 《動物》 Character from your Clock, return to hand, then choose 1 card from your hand, place it into your Clock.
+Flavor Text:
+
+==========================
+
+有月　椎菜
+KW/W11-029 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【S】［Put 2 of your 《動物》 Characters to REST］Choose 1 of your opponent's Front Row Characters, during this turn, it gets -1000 Power.
+Flavor Text:
+
+==========================
+
+信じること　理樹＆クド
+KW/W11-030 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【C】All your other Characters with 「クド」 in their name, get +500 Power.
+【A】 BOND／「果てしない高さへの一歩　クド」 ［Put the top card of your Deck to Clock］ (When this card is played to Stage, you may pay this cost. If you do, choose 1 「果てしない高さへの一歩　クド」 from your Waiting Room, return to hand)
+Flavor Text:
+
+==========================
+
+几帳面な佳奈多
+KW/W11-031 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Twins 双子,
+Card Text/Abilities:
+【C】RECOLLECTION If you have 3 or more cards in Memory, this card gains the following ability.「【A】When the Character with Level 2 or above battling this card becomes REVERSE, choose 1 of your opponent's Characters, during this turn, it gets -2000.」
+Flavor Text:
+
+==========================
+
+几帳面な佳奈多
+KW/W11-031 SR
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Twins 双子,
+Card Text/Abilities:
+【C】RECOLLECTION If you have 3 or more cards in Memory, this card gains the following ability.「【A】When the Character with Level 2 or above battling this card becomes REVERSE, choose 1 of your opponent's Characters, during this turn, it gets -2000.」
+Flavor Text:
+
+==========================
+
+果てしない高さへの一歩　クド
+KW/W11-032 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 7000
+Soul: 2
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【C】If you have 5 card or more in your Stock,  this card gets +2000 Power, and gains 「【A】 ENCORE ［Discard 1 Character from hand to Waiting Room］」.
+【A】When this card attacks, if 「ロード・トゥ・マイルハイ」 is in your Climax slot, place the top card of your Deck to Stock, during this turn, this card gets +X. X is equals to the number of cards in your Stock ×500.
+Flavor Text:
+
+==========================
+
+果てしない高さへの一歩　クド
+KW/W11-032 SR
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 7000
+Soul: 2
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【C】If you have 5 card or more in your Stock,  this card gets +2000 Power, and gains 「【A】 ENCORE ［Discard 1 Character from hand to Waiting Room］」.
+【A】When this card attacks, if 「ロード・トゥ・マイルハイ」 is in your Climax slot, place the top card of your Deck to Stock, during this turn, this card gets +X. X is equals to the number of cards in your Stock ×500.
+Flavor Text:
+
+==========================
+
+クドの彼氏　理樹
+KW/W11-033 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +500 Power.
+【S】［① Put this card to REST］Return this card to hand.
+Flavor Text:
+
+==========================
+
+くんくんクド
+KW/W11-034 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【C】During your Climax Phase, you cannot play any Climax from hand.
+【永】あなたは自分のクライマックスフェイズに、クライマックスを手札からプレイできない。
+Flavor Text:
+これは･･･その、あ、あの、アレです･･･アレなのです
+
+==========================
+
+デートを満喫　クド
+KW/W11-035 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【A】 CHANGE ［② Discard 1 card from hand, place this card into Memory］At the beginning of your Encore Step, if this card is in REST, you may pay this cost. If you do, choose 1 「果てしない高さへの一歩　クド」 from Waiting Room, put in this card's previous slot.
+Flavor Text:
+
+==========================
+
+二人きり 理樹＆クド
+KW/W11-036 U
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【A】This ability can only be used 3 times per turn. When your other 《動物》 Character comes to Stage from hand, during this turn, this card gets +1000 Power.
+【A】［①］When this card attacks if 「天体観測」 is in your Climax slot, you may pay this cost. If you do, all your Characters, during this turn, gets +3000 Power.
+【自】この能力は1ターンにつき3回まで発動する。他のあなたの《動物》のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。
+【自】［①］ このカードがアタックした時、クライマックス置場に「天体観測」があるなら、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋3000。
+Flavor Text:
+クド「実をいうとリキはいつでもかっこいいんですけどね」
+
+==========================
+
+可愛い彼女 クド
+KW/W11-037 U
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【C】For each of your other 《動物》 Character, this card gets +500 Power.
+【C】The Character facing this card gets -1 Soul.
+【永】他のあなたの《動物》のキャラ1枚につき、このカードのパワーを＋500。
+【永】このカードの正面のキャラのソウルを－1。
+Flavor Text:
+どうかしましたか、じっと見て？
+
+==========================
+
+素材のこだわり　椎菜
+KW/W11-038 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【A】When this card attacks, all your other Characters, during this turn, gets +1 Level.
+Flavor Text:
+
+==========================
+
+ウェイトレス　初
+KW/W11-039 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Sports スポーツ,_Waitress ウェイトレ
+Card Text/Abilities:
+【S】［①］During this turn, this card gets +2000 Power.
+Flavor Text:
+
+==========================
+
+純真な佳奈多
+KW/W11-040 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Twins 双子,
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+妹の味方 佳奈多
+KW/W11-041 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Twins 双子,
+Card Text/Abilities:
+【A】When this card attacks, you may choose 1 Climax from your Climax slot, place it to Stock.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【自】 このカードがアタックした時、あなたは自分のクライマックス置場のクライマックスを1枚選び、ストック置場に置いてよい。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+私は常に妹という存在の味方、
+絶対的守護でいるって決めてるのよ
+
+==========================
+
+ナノハナに馳せる思い　椎菜
+KW/W11-042 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+寮長　佳奈多
+KW/W11-043 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Twins 双子,
+Card Text/Abilities:
+【S】● ASSIST 2000 Level 1 ［Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +2000 Power)
+Flavor Text:
+
+==========================
+
+有月　初
+KW/W11-044 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Sports スポーツ,
+Card Text/Abilities:
+【A】［①］When this card comes to Stage from hand, you may pay this cost. If you do, search your deck for up to 1 Character with 「椎菜」 in its name, show it to your opponent, then put into your hand. Shuffle your deck afterwards.
+Flavor Text:
+
+==========================
+
+相部屋のひとときSharing Room Moment
+KW/W11-045 U
+Type: Event
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose up to 2 《動物》 Character from your Clock, return them to hand.
+Place 2 cards from the top of your Deck into your Clock.
+Flavor Text:
+
+==========================
+
+ランニングRunning
+KW/W11-046 U
+Type: Event
+Level: 1
+Color: Green
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Place this card into Memory.
+RECOLLECTION If this card is in your Memory, all your Characters with 「クド」 in its name gets +500 Power.
+Flavor Text:
+
+==========================
+
+イメージチェンジImage Change
+KW/W11-047 U
+Type: Event
+Level: 2
+Color: Green
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Search your deck for up to 1 Character with 「クド」 in its name, show it to your opponent, then place into your hand. Shuffle your Deck afterwards.
+Flavor Text:
+
+==========================
+
+天体観測
+KW/W11-048 CR
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card comes on Stage from hand, put the top card of your Deck to Stock. During this turn, all of your Characters get +1 Soul.
+Flavor Text:
+
+==========================
+
+ロード・トゥ・マイルハイRoad To Mile-High
+KW/W11-049 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: S
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Bag：When this card is Triggered, you may take the top card of your deck, put to Stock.)
+Flavor Text:
+
+==========================
+
+暴発事故
+KW/W11-050 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: G
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gold：When this card is Triggered, put this card in your hand. You may put the top card of your deck to Stock)
+Flavor Text:
+
+==========================
+
+宇宙への憧れ　クド
+KW/W11-076 RR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 3000
+Soul: 1
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【C】During your opponent's turn, all your 《科学》 Characters get +1000 Power.
+【C】SUPPORT All your Characters in front of this card get +500 Power.
+Flavor Text:
+
+==========================
+
+宇宙への憧れ　クド
+KW/W11-076 SP
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 3000
+Soul: 1
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【C】During your opponent's turn, all your 《科学》 Characters get +1000 Power.
+【C】SUPPORT All your Characters in front of this card get +500 Power.
+Flavor Text:
+
+==========================
+
+『星屑』氷室
+KW/W11-077 RR
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【C】RECOLLECTION If you have 3 or more cards in Memory, this card gains the following ability. 「【A】［①］When the Character with Level 2 or more battling this card becomes REVERSE, you may pay this cost. If you do, place the top card of your Clock into Waiting Room.」
+【A】When this card comes to Stage from hand or through CHANGE, you may place the top card of your Clock into Waiting Room.
+Flavor Text:
+
+==========================
+
+『星屑』氷室
+KW/W11-077 RRR
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【C】RECOLLECTION If you have 3 or more cards in Memory, this card gains the following ability. 「【A】［①］When the Character with Level 2 or more battling this card becomes REVERSE, you may pay this cost. If you do, place the top card of your Clock into Waiting Room.」
+【A】When this card comes to Stage from hand or through CHANGE, you may place the top card of your Clock into Waiting Room.
+Flavor Text:
+
+==========================
+
+耳年増　あーちゃん先輩
+KW/W11-078 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【A】When this card comes to Stage from hand, choose 1 other Character, during this turn, it gets +1 Level.
+【A】［① Discard 1 card from hand］When this card comes to Stage from hand, you may pay this cost. If you do, search your deck for up to 1 《科学》 Character, show it to your opponent, then place into your hand. Shuffle your deck afterwards.
+Flavor Text:
+
+==========================
+
+耳年増　あーちゃん先輩
+KW/W11-078 SR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【A】When this card comes to Stage from hand, choose 1 other Character, during this turn, it gets +1 Level.
+【A】［① Discard 1 card from hand］When this card comes to Stage from hand, you may pay this cost. If you do, search your deck for up to 1 《科学》 Character, show it to your opponent, then place into your hand. Shuffle your deck afterwards.
+Flavor Text:
+
+==========================
+
+風船の光　クドBalloon's Light Kud
+KW/W11-079 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【A】When this card attacks, put all your other Characters from STAND position to REST.
+【自】このカードがアタックした時、他のあなたのスタンドしているキャラすべてを、レストする。
+Flavor Text:
+たくさんあります。
+私たちだけでは、こんなに作れなかったです
+
+==========================
+
+『すき』のはぐるま クド
+KW/W11-080 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【C】RECOLLECTION During your opponent's turn, if you have 2 or more cards in Memory, this card gets +2000 Power.
+【A】［① Place 1 Character from your hand into Memory］When this card attacks, if ｢えきぞちっくな誓い｣ is in your Climax slot, you may pay this cost. If you do, draw 1 card, during this turn, this card gets +2000 Power.
+【永】 記憶 相手のターン中、あなたの思い出が2枚以上なら、このカードのパワーを+2000。
+【自】［① 手札のキャラを1枚思い出にする］このカードがアタックした時、クライマックス置き場に｢えきぞちっくな誓い｣があるなら、あなたはコストを払ってよい。そうしたら、あなたは1枚引き、そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+･･･どきどきしますか？
+
+==========================
+
+『すき』のはぐるま クド
+KW/W11-080 SR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【C】RECOLLECTION During your opponent's turn, if you have 2 or more cards in Memory, this card gets +2000 Power.
+【A】［① Place 1 Character from your hand into Memory］When this card attacks, if ｢えきぞちっくな誓い｣ is in your Climax slot, you may pay this cost. If you do, draw 1 card, during this turn, this card gets +2000 Power.
+【永】 記憶 相手のターン中、あなたの思い出が2枚以上なら、このカードのパワーを+2000。
+【自】［① 手札のキャラを1枚思い出にする］このカードがアタックした時、クライマックス置き場に｢えきぞちっくな誓い｣があるなら、あなたはコストを払ってよい。そうしたら、あなたは1枚引き、そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+･･･どきどきしますか？
+
+==========================
+
+クドの幼馴染　氷室Kud's Childhood Friend Himuro
+KW/W11-081 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【A】［①］When this card attacks, if 「プールサイドの遭遇」 is in your Climax slot, you may pay this cost. If you do, all your Characters, until the end of your opponent's next turn, gets +1000 Power.
+【A】ENCORE [Place 1 Character into Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+Flavor Text:
+
+==========================
+
+水着のクド
+KW/W11-082 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【C】If you have 3 or more 《科学》 Characters, this card gets -1 Level when its in your hand.
+【永】あなたの《科学》のキャラが3枚以上なら、あなたの手札のこのカードのレベルを－1。
+Flavor Text:
+でもそんな恐がり屋さんもきらいじゃないです
+
+==========================
+
+猛勉強クド
+KW/W11-083 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【A】［①］When this card becomes REVERSE in battle, you may pay this cost. If you do, place this card into Memory.
+【A】 BOND／「『星屑』氷室」［①］(When this card is played to Stage, you may pay this cost. If you do, choose 1 「『星屑』氷室」 from your Waiting Room, return to hand)
+Flavor Text:
+
+==========================
+
+福寿草の香り　氷室
+KW/W11-084 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【C】During your opponents turn, all your other Characters get +500 Power.
+【S】［①］Choose 1 of your 《科学》 Characters, during this turn, it gets +1000 Power.
+Flavor Text:
+
+==========================
+
+悪だくみあーちゃん先輩
+KW/W11-085 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【S】［①］Draw 1 card, then choose 1 card from your hand, place into Waiting Room.
+Flavor Text:
+
+==========================
+
+家庭科部の部長 あーちゃん先輩Home Economics Department Head Aa-chan Senpai
+KW/W11-086 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【A】［② Discard 1 card from hand to Waiting Room, move this card to Memory］At the start of your Encore Step, if this card is in REST, you may pay this cost. If you do, choose 1 「ご隠居 あーちゃん先輩」 from your Waiting Room, place it into this card's previous slot.
+【自】［②手札を1枚控え室に置き、このカードを思い出にする］あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ご隠居 あーちゃん先輩」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+
+==========================
+
+ロケット発射実験　氷室
+KW/W11-087 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【S】● ASSIST 3000 Level 2 ［Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +3000 Power)
+Flavor Text:
+
+==========================
+
+科学部の部長 氷室Science Department Head Himuro
+KW/W11-088 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【S】［REST 2 of your Characters］Until the end of opponent's next turn, this card gets +1000 Power.
+起】［あなたのキャラを2枚レストする］次の相手のターンの終わりまで、このカードのパワーを＋1000。
+Flavor Text:
+
+==========================
+
+浴衣のクド
+KW/W11-089 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+クドの味方　あーちゃん先輩
+KW/W11-090 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【C】All your other Characters with 「クド」 in its name gets +500 Power.
+Flavor Text:
+
+==========================
+
+湯上り 氷室After Bath Himuro
+KW/W11-091 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+氷室 憂希Himuro Yuuki
+KW/W11-092 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【A】RECOLLECTION When this card is placed on Stage from hand, if you have 2 or more 《科学》 Characters in Memory, you may draw 1 card.
+【A】［②］When this card attacks, if 「飛べないアルピナの願い」 is in your Climax slot, you may pay this cost. If you do, draw 2 cards.
+【自】 記憶 このカードが手札から舞台に置かれた時、あなたの思い出置場の《科学》のキャラが2枚以上なら、あなたは1枚引いてよい。
+【自】［②］このカードがアタックした時、クライマックス置場に「飛べないアルピナの願い」があるなら、あなたはコストを払ってよい。そうしたら、あなたは2枚まで引く。
+Flavor Text:
+私の方もやれることは全て終わらせたわ
+
+==========================
+
+お買いもの クドShopping Kud
+KW/W11-093 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 7000
+Soul: 2
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【A】 ENCORE ［Put 1 Character from hand to Waiting Room］ (When this card is put into Waiting Room from Stage, you may pay this cost. If you do, return that card to its original slot in REST)
+【S】［①］During this turn, even if this Character Side Attacks, no Soul is deducted.
+【自】 アンコール ［手札のキャラを一枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く。)
+【起】［①］そのターン中、このカードはサイドアタックしてもソウルが減少しない。
+Flavor Text:
+
+==========================
+
+ご隠居 あーちゃん先輩Retired Aa-chan Senpai
+KW/W11-094 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Animal 動物,_Tea お茶
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+凄惨なニュース
+KW/W11-095 U
+Type: Event
+Level: 2
+Color: Blue
+Cost: 2
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+If you have 2 or less 《科学》 Characters, you cannot play this card from hand.
+Choose 1 of your opponent's Character with Cost 1 or less, place it to bottom of Deck. Place this card to Memory.
+Flavor Text:
+
+==========================
+
+Icarus
+KW/W11-096 U
+Type: Event
+Level: 1
+Color: Blue
+Cost: 2
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Place this card to Memory.
+RECOLLECTION During your opponent's turn, if this card is in Memory, all your 《科学》 Characters get +1000 Power.
+Flavor Text:
+
+==========================
+
+No Signal
+KW/W11-097 C
+Type: Event
+Level: 2
+Color: Blue
+Cost: 0
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Put 1 《科学》 Character in STAND position to REST. If you do, draw up to 2 cards, then choose 1 card from your hand, place into Waiting Room.
+Flavor Text:
+
+==========================
+
+飛べないアルビナの願い
+KW/W11-098 CR
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+Flavor Text:
+
+==========================
+
+えきぞちっくな誓いExotic Vow
+KW/W11-099 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Book：When this card is triggered, you may draw 1 card)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(本：このカードがトリガーした時、あなたは1枚引いてよい)
+Flavor Text:
+
+==========================
+
+プールサイドの遭遇Poolside Encounter
+KW/W11-100 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is played to the Climax slot from hand, draw 1 card, then choose 1 of your characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置き場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+
+==========================
+
+つばさをもった女の子 クドGirl Who Acquired Wings Kud
+KW/W11-102 TD
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【S】［Put 2 of your Characters to REST］Until the end of opponent's next turn, this card gets +1000 Power.
+【起】［あなたのキャラを2枚レストする］次の相手のターンの終わりまで、このカードのパワーを+1000。
+Flavor Text:
+未来へ届け
+
+==========================
+
+“ふらんくり～”クド“Frankly” Kud
+KW/W11-105 TD
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【C】 SUPPORT All Characters in front of this card gets +500 Power.
+【永】 応援  このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+…冗談ですよ。いっつ・あ・あめりかんじょーく
+
+==========================
+
+へんてこ クドStrange Girl Kud
+KW/W11-108 PR
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【S】● Assist 2000 Level 1 [① Discard this card to Waiting Room from hand] (Choose 1 of your characters that been front attacked, during this turn, Power +2000)
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋2000)
+Flavor Text:
+…へんてこに見えるのは百も承知なのでつっこみはなしですよ
+
+==========================
+
+夏服のクドSummer Uniform Kud
+KW/W11-109 PR
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【A】 ENCORE ［Discard 1 Character from hand to Waiting Room］ (When this card is put into Waiting Room from Stage, you may pay this cost. If you do, return this card to its previous slot in REST)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+ちぇりーぼーい、ってなんですか？
+
+==========================
+
+衣装変更！？ クドCostume Change!? Kud
+KW/W11-112 PR
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【S】［①］Choose 1 of opponent's Front Row Character, during this turn, it gets -1000 Power.
+【起】［①］あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。
+Flavor Text:
+やっぱり、こうしていると気分が変わりますね
+
+==========================
+
+楽しい予感 クド＆ゆりFun Premonition Kud & Yuri
+KW/W11-114 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Death 死,_Animal 動物
+Card Text/Abilities:
+【S】［Put 1 of your 《動物》 Character and 1 of your 《死》 Characters to REST］Choose 1 of your Characters, during this turn, it gets +2000 Power.
+【起】［あなたの《動物》のキャラと《死》のキャラを1枚ずつレストする］あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+クド「なんだかわくわくどきどきしてきましたっ」
+
+==========================
+
+クド＆かなで
+KW/W11-124 PR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Animal 動物,_Death 死
+Card Text/Abilities:
+【A】 When this card attacks, choose 1 of your character, during this turn, it gets +500 power.
+【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+
+==========================
+
+科学部の部長 氷室Science Department Head Himuro
+KW/W11-T08 TD
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【S】［REST 2 of your Characters］Until the end of opponent's next turn, this card gets +1000 Power.
+起】［あなたのキャラを2枚レストする］次の相手のターンの終わりまで、このカードのパワーを＋1000。
+Flavor Text:
+名乗ってなかったわね。
+併設校3年。科学部部長、氷室よ
+
+==========================
+
+家庭科部の部長 あーちゃん先輩Home Economics Department Head Aa-chan Senpai
+KW/W11-T09 TD
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【A】［② Discard 1 card from hand to Waiting Room, move this card to Memory］At the start of your Encore Step, if this card is in REST, you may pay this cost. If you do, choose 1 「ご隠居 あーちゃん先輩」 from your Waiting Room, place it into this card's previous slot.
+【自】［②手札を1枚控え室に置き、このカードを思い出にする］あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ご隠居 あーちゃん先輩」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+とっっっても面白いわねっ！
+
+==========================
+
+湯上り 氷室After Bath Himuro
+KW/W11-T10 TD
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+Flavor Text:
+ふう、いいお湯だった
+
+==========================
+
+お買いもの クドShopping Kud
+KW/W11-T11 TD
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 7000
+Soul: 2
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【A】 ENCORE ［Put 1 Character from hand to Waiting Room］ (When this card is put into Waiting Room from Stage, you may pay this cost. If you do, return that card to its original slot in REST)
+【S】［①］During this turn, even if this Character Side Attacks, no Soul is deducted.
+【自】 アンコール ［手札のキャラを一枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く。)
+【起】［①］そのターン中、このカードはサイドアタックしてもソウルが減少しない。
+Flavor Text:
+What do you wish for, Riki?
+なにか希望はありますか、リキ？
+
+==========================
+
+ご隠居 あーちゃん先輩Retired Aa-chan Senpai
+KW/W11-T12 TD
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Animal 動物,_Tea お茶
+Card Text/Abilities:
+Flavor Text:
+はぁー…能美さんのお茶は美味しいわね
+
+==========================
+
+プールサイドの遭遇Poolside Encounter
+KW/W11-T13 TD
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is played to the Climax slot from hand, draw 1 card, then choose 1 of your characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置き場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+ふぅー、やっぱり外の空気はおいしいわ
+
+==========================
+
+えきぞちっくな誓いExotic Vow
+KW/W11-T14 TD
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Book：When this card is triggered, you may draw 1 card)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(本：このカードがトリガーした時、あなたは1枚引いてよい)
+Flavor Text:
+
+==========================
+

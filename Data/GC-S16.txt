@@ -1,0 +1,2895 @@
+リーダーの風格 涯
+GC/S16-001R RRR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+【A】［①] When this card attacks, if ｢攻撃開始｣ is in the Climax Slot, you may pay the cost. If you did, during this turn, this card gets +2000 Power and gains the following ability 『【A】 When this card's battle opponent becomes REVERSE, you may choose 1 of your Characters, return it to Hand.』
+【A】◆ SHIFT Level 1 (At the beginning of your Main Phase, you may choose 1 Yellow card from your Hand and this card in your Clock and exchange them.)
+【自】［①] このカードがアタックした時、クライマックス置場に｢攻撃開始｣があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードのバトル相手がリバースした時、あなたは自分のキャラを1枚選び、手札に戻してよい。』
+【自】 シフト レベル1 （あなたのメインフェイズの始めに、あなたは自分の手札の黄のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）
+Flavor Text:
+まずは生き延びろ。全てはそれからだ
+
+==========================
+
+リーダーの風格 涯
+GC/S16-001 RR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+【A】［①] When this card attacks, if ｢攻撃開始｣ is in the Climax Slot, you may pay the cost. If you did, during this turn, this card gets +2000 Power and gains the following ability 『【A】 When this card's battle opponent becomes REVERSE, you may choose 1 of your Characters, return it to Hand.』
+【A】◆ SHIFT Level 1 (At the beginning of your Main Phase, you may choose 1 Yellow card from your Hand and this card in your Clock and exchange them.)
+【自】［①] このカードがアタックした時、クライマックス置場に｢攻撃開始｣があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードのバトル相手がリバースした時、あなたは自分のキャラを1枚選び、手札に戻してよい。』
+【自】 シフト レベル1 （あなたのメインフェイズの始めに、あなたは自分の手札の黄のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）
+Flavor Text:
+まずは生き延びろ。全てはそれからだ
+
+==========================
+
+重要な選択 涯
+GC/S16-002S SR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+【起】［① REST 1 of your Characters］ Reveal the top card of your Deck. If that card is Level 1 or higher, choose 1 of your Characters, during this turn, it gets +1000 Power, +1 Soul.（Climax is treated as Level 0. Return the revealed card to its original position）
+【起】［① あなたのキャラを1枚レストする］ あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000し、ソウルを＋1。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）
+Flavor Text:
+お前はもう、この世界の虚構を知っている。
+知ってなお、淘汰される側でいることを選ぶのか？
+
+==========================
+
+重要な選択 涯
+GC/S16-002 RR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+【S】［① REST 1 of your Characters］ Reveal the top card of your Deck. If that card is Level 1 or higher, choose 1 of your Characters, during this turn, it gets +1000 Power, +1 Soul.（Climax is treated as Level 0. Return the revealed card to its original position）
+【起】［① あなたのキャラを1枚レストする］ あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000し、ソウルを＋1。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）
+Flavor Text:
+お前はもう、この世界の虚構を知っている。
+知ってなお、淘汰される側でいることを選ぶのか？
+
+==========================
+
+“第一感染者”真名
+GC/S16-003 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【A】 BOND／「運命を受け入れる涯」［Place the top card of your Deck into Clock］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「運命を受け入れる涯」 from your Waiting Room, return to Hand)
+【A】◆ SHIFT Level 0 (At the beginning of your Main Phase, you may choose 1 Yellow card from your Hand and this card in your Clock and exchange them.)
+【自】 絆／「運命を受け入れる涯」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「運命を受け入れる涯」を1枚選び、手札に戻す）
+【自】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の黄のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）
+Flavor Text:
+トリトンは私のナイトなんでしょう？
+だから、これからも私を守って
+
+==========================
+
+桜満 真名
+GC/S16-004 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【C】 During your turn, this card gets +2000 Power.
+【A】◆ SHIFT Level 1 (At the beginning of your Main Phase, you may choose 1 Yellow card from your Hand and this card in your Clock and exchange them.)
+【永】 あなたのターン中、このカードのパワーを＋2000。
+【自】 シフト レベル1 （あなたのメインフェイズの始めに、あなたは自分の手札の黄のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）
+Flavor Text:
+大丈夫、怖がらないで。
+たのしいことしましょ、集――
+
+==========================
+
+運命を受け入れる涯
+GC/S16-005 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+【C】 During your turn, all your other Characters gets +1000 Power.
+【A】 You can only use this ability 1 time per turn. When you use 『SHIFT』, until the end of your opponent's turn, this card gains 『【C】SUPPORT All your Characters in front of this card gets +500 Power.』.
+【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋1000。
+【自】 この能力は1ターンにつき1回まで発動する。あなたが『シフト』を使った時、次の相手のターンの終わりまで、このカードは『【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。』を得る。
+Flavor Text:
+もう時間がない。――取り出せ、集。
+俺の心を。俺達の友情の証を
+
+==========================
+
+共闘を誓う涯
+GC/S16-006S SR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+【C】 If your Stock is 6 or more, this card gains 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』.
+【A】 When your other 《葬儀社》 Character attacks, during this turn, this card gets +1000 Power.
+【永】 あなたのストックが6枚以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。
+【自】 他のあなたの《葬儀社》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+よくやったな、集
+
+==========================
+
+共闘を誓う涯
+GC/S16-006 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+【C】 If your Stock is 6 or more, this card gains 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』.
+【A】 When your other 《葬儀社》 Character attacks, during this turn, this card gets +1000 Power.
+【永】 あなたのストックが6枚以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。
+【自】 他のあなたの《葬儀社》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+よくやったな、集
+
+==========================
+
+恙神 涯
+GC/S16-007 R
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card attacks, if 「再会の抱擁」 is in the Climax Slot, until the end of your opponent's next turn, this card gets +2000 Power and gains the following ability.『【C】The Character facing this card gets -1 Soul.』
+【A】 When this card is being Front Attacked, look at the top card of your Deck, place it on top of the Deck or into Waiting Room.
+【A】◆ SHIFT Level 3 (At the beginning of your Main Phase, you may choose 1 Yellow card from your Hand and this card in your Clock and exchange them.)
+【自】 このカードがアタックした時、クライマックス置場に｢再会の抱擁｣があるなら、次の相手のターンの終わりまで、このカードのパワーを＋2000し、このカードは次の能力を得る。『【永】 このカードの正面のキャラのソウルを－1。』
+【自】 このカードがフロントアタックされた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。
+【自】 シフト レベル3 （あなたのメインフェイズの始めに、あなたは自分の手札の黄のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）
+Flavor Text:
+……たった一人の女をこの手で抱きたい。だから戦っています
+
+==========================
+
+恙神 涯
+GC/S16-007 SP
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card attacks, if 「再会の抱擁」 is in the Climax Slot, until the end of your opponent's next turn, this card gets +2000 Power and gains the following ability.『【C】The Character facing this card gets -1 Soul.』
+【A】 When this card is being Front Attacked, look at the top card of your Deck, place it on top of the Deck or into Waiting Room.
+【A】◆ SHIFT Level 3 (At the beginning of your Main Phase, you may choose 1 Yellow card from your Hand and this card in your Clock and exchange them.)
+【自】 このカードがアタックした時、クライマックス置場に｢再会の抱擁｣があるなら、次の相手のターンの終わりまで、このカードのパワーを＋2000し、このカードは次の能力を得る。『【永】 このカードの正面のキャラのソウルを－1。』
+【自】 このカードがフロントアタックされた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。
+【自】 シフト レベル3 （あなたのメインフェイズの始めに、あなたは自分の手札の黄のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）
+Flavor Text:
+……たった一人の女をこの手で抱きたい。だから戦っています
+
+==========================
+
+城戸 研二
+GC/S16-008 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+【C】 During your turn, this card gets +1000 Power.
+【永】 あなたのターン中、このカードのパワーを＋1000。
+Flavor Text:
+出番でしょ？俺のヴォイド
+
+==========================
+
+潜入捜査 涯
+GC/S16-009 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a Climax, place the top card of your Stock into Waiting Room. （Return revealed card to its original position）
+【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、あなたは自分のストックの上から1枚を、控え室に置く。（公開したカードは元に戻す）
+Flavor Text:
+緊張しているのか、集
+
+==========================
+
+失った痛み 集
+GC/S16-010 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+【A】CHANGE［③ Place this card into Waiting Room］At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 「新たなる決意 集」 from your Waiting Room, place it into this card's previous slot.
+【S】［REST this card］ Choose 1 of your Characters, during this turn, it gets +1 Level, +1000 Power.
+【自】 チェンジ ［③ 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「新たなる決意 集」を1枚選び、このカードがいた枠に置く。
+【起】［このカードをレストする］ あなたは自分のキャラを１枚選び、そのターン中、レベルを＋1し、パワーを＋1000。
+Flavor Text:
+もし涯がいたら、こんなときどうするかなって
+
+==========================
+
+月島 アルゴ
+GC/S16-011 U
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+【C】 During your turn, if your Stock is 4 or more, this card gets +1500 Power.
+【A】◆ SHIFT Level 2 (At the beginning of your Main Phase, you may choose 1 Yellow card from your Hand and this card in your Clock and exchange them.)
+【永】 あなたのターン中、あなたのストックが4枚以上なら、このカードのパワーを＋1500。
+【自】 シフト レベル2 （あなたのメインフェイズの始めに、あなたは自分の手札の黄のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）
+Flavor Text:
+葬儀社の看板は重てぇぞ。
+――この程度でビビんなよオラァ！
+
+==========================
+
+新たなる決意 集
+GC/S16-012 U
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+【C】 For each marker below this card, this card gets +1000 Power.
+【A】 When this card attacks, if ｢覚醒する“王の能力”｣ is in the Climax Slot, choose 1 of your other Characters, place X cards from the top of your Deck under this card as a marker. X is equals to that Character's Level.
+【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1000。
+【自】 このカードがアタックした時、クライマックス置場に｢覚醒する“王の能力”｣があるなら、あなたは他の自分のキャラを1枚選び、自分の山札の上からＸ枚を、このカードの下にマーカーとして置く。Ｘはそのキャラのレベルに等しい。
+Flavor Text:
+
+==========================
+
+大雲
+GC/S16-013 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+【C】 During your turn, your other Character in the Center Slot of the Front Row gets +500 Power.
+【C】SUPPORT All your Characters in front of this card gets +1 Level.
+【永】 あなたのターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋500。
+【永】 応援 このカードの前のあなたのキャラすべてに、レベルを＋1。
+Flavor Text:
+
+==========================
+
+“葬儀社”四分儀"Undertaker" Shibungi
+GC/S16-014 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+【C】During your turn, all your other Characters get +500 Power.
+【S】［REST 2 of your Characters］ Look at the top card of your Deck, place it on the top or bottom of the Deck.
+【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。
+【起】［あなたのキャラを2枚レストする］ あなたは自分の山札を上から1枚見て、山札の上か下に置く。
+Flavor Text:
+流石ですね、シナリオを飛ばしますか。
+――ただ、少し急ぎ過ぎでは……？
+
+==========================
+
+“葬儀社”アルゴ"Undertaker" Arugo
+GC/S16-015 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+いい眺めが見てえんだよ。
+――涯と一緒に
+
+==========================
+
+葬儀社の司令塔 涯Undertaker Leader Gai
+GC/S16-016 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+【C】 All your other「秘めたる能力 集」 gets +1000 Power.
+【A】 When this card is placed on Stage from Hand, choose 1 of your Characters, during this turn, it gets +500 Power.
+【永】 他のあなたの「秘めたる能力 集」すべてに、パワーを＋1000。
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+俺たちは、こういう事態に備えてきた。
+――生き残りたければ、俺の指示に従え！
+
+==========================
+
+若き首領 涯Young Leader Gai
+GC/S16-017 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+それが未来の一つの顔だというなら、
+いまは祝福してやるさ。新たな王の誕生を――
+
+==========================
+
+秘めたる能力 集Hidden Power Shu
+GC/S16-018 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+やれるッ!! 僕を信じてよ、涯！
+
+==========================
+
+“葬儀社”大雲"Undertaker" Ohgumo
+GC/S16-019 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+【S】● ASSIST 2000 Level 1［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +2000 Power.)
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）
+Flavor Text:
+気にせず、あなたはあなたの仕事を
+してください。――グッドラック
+
+==========================
+
+“葬儀社”涯"Undertaker" Gai
+GC/S16-020 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+勝負だ。淘汰されるのは俺の方か……、
+あるいは世界か――
+
+==========================
+
+ロストクリスマス
+GC/S16-021 U
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your opponent's Characters in the Front Row with Level 2 or lower, place it into Stock.
+あなたは相手の前列のレベル2以下のキャラを1枚選び、ストック置場に置く。
+Flavor Text:
+いやぁぁぁぁぁぁぁぁぁぁぁぁ――ッッ！！
+
+==========================
+
+崩壊の危機
+GC/S16-022 U
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+● If you do not have any 《葬儀社》 Characters, this card cannot be played from Hand. Choose 1 of your Characters, during this turn, it gets +4000 Power.
+● このカードは、あなたの《葬儀社》のキャラがいないなら、手札からプレイできない。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。
+Flavor Text:
+ツグミ「あんたのせいよ、集。
+あんたが来ないから。ヴォイドを使わないから！」
+
+==========================
+
+攻撃開始
+GC/S16-023 CR
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card comes on Stage from hand, put the top card of your Deck to Stock. During this turn, all of your Characters get +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+やれっ！集!!
+
+==========================
+
+再会の抱擁
+GC/S16-024 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1F
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Flame：When this card is Triggered, if your current attacking Character's damage is cancelled, deal 1 damage to the opponent.)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(炎：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える。)
+Flavor Text:
+涯「……やっと……お前に届いた……」
+
+==========================
+
+覚醒する“王の能力”Awaken "The Power of Kings"
+GC/S16-025 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1W
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return it to Hand)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（戻：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）
+Flavor Text:
+真名「ならヴォイドを集めて。強いヴォイドを。
+――あなたの右腕は、そうやって
+未来を紡ぎだすためのものなのだから」
+
+==========================
+
+魅惑のビーチ 祭
+GC/S16-026 RR
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Swimsuit 水着,
+Card Text/Abilities:
+【C】 All your other Characters get +500 Power.
+【A】 At the beginning of your Main Phase, look at the top card of your Deck, place it at the top or bottom of the Deck.
+【永】 他のあなたのキャラすべてに、パワーを＋500。
+【自】 あなたのメインフェイズの始めに、あなたは自分の山札を上から1枚見て、山札の上か下に置く。
+Flavor Text:
+ほら、はやくっ
+
+==========================
+
+魅惑のビーチ 祭
+GC/S16-026 SR
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Swimsuit 水着,
+Card Text/Abilities:
+【C】 All your other Characters get +500 Power.
+【A】 At the beginning of your Main Phase, look at the top card of your Deck, place it at the top or bottom of the Deck.
+【永】 他のあなたのキャラすべてに、パワーを＋500。
+【自】 あなたのメインフェイズの始めに、あなたは自分の山札を上から1枚見て、山札の上か下に置く。
+Flavor Text:
+ほら、はやくっ
+
+==========================
+
+桜満 集
+GC/S16-027 RR
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.
+【S】［① REST 2 of your Characters］ Reveal the top card of your Deck. If that card is Level 1 or higher, during this turn, this card gets +1000 Power and gains the following ability.『【A】 When this card's battle opponent with Level 2 or higher becomes REVERSE, you may place that Character into Clock.』（Climax is treated as Level 0. Return revealed card to its original position）
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【起】［① あなたのキャラを2枚レストする］ あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたはそのキャラをクロック置場に置いてよい。』（クライマックスのレベルは0として扱う。公開したカードは元に戻す）
+Flavor Text:
+僕は、王になる
+
+==========================
+
+桜満 集
+GC/S16-027 SP
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.
+【S】［① REST 2 of your Characters］ Reveal the top card of your Deck. If that card is Level 1 or higher, during this turn, this card gets +1000 Power and gains the following ability.『【A】 When this card's battle opponent with Level 2 or higher becomes REVERSE, you may place that Character into Clock.』（Climax is treated as Level 0. Return revealed card to its original position）
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【起】［① あなたのキャラを2枚レストする］ あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたはそのキャラをクロック置場に置いてよい。』（クライマックスのレベルは0として扱う。公開したカードは元に戻す）
+Flavor Text:
+僕は、王になる
+
+==========================
+
+うつむく集
+GC/S16-028 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+【S】 CONCENTRATION ［① REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, perform the following actions.『Choose 1 card in your Clock, return it to Hand, place the top card of your Deck into Clock.』
+【起】 集中 ［① このカードをレストする］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分のクロックを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。』
+Flavor Text:
+もう、全部終わったんだよね――
+
+==========================
+
+学園の花音
+GC/S16-029 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Glasses メガネ,_Class Rep 委員長
+Card Text/Abilities:
+【A】［①］When a Climax appears during your Character's Trigger Check, you may pay the cost. If you did, choose 1 of your Characters, until the end of the opponent's next turn, it gets +2000 Power.
+【自】［①］ あなたのキャラのトリガーチェックでクライマックスがでた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2000。
+Flavor Text:
+何かわからないことがあったら聞いてね
+
+==========================
+
+遠くを見据えるいのり
+GC/S16-030R RRR
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Music 音楽,_Undertaker 葬儀社
+Card Text/Abilities:
+【A】 When this card attacks, if 「女神の微笑み」 is in the Climax Slot, during this turn, this card gets +1000 Power and gains the following ability.『【A】 When this card's battle opponent becomes REVERSE, you may place the top card of your Deck into Stock.』
+【A】 ENCORE ［Place the top card of your Deck into Clock］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】 このカードがアタックした時、クライマックス置場に｢女神の微笑み｣があるなら、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手がリバースした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』
+【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く）
+Flavor Text:
+涯は、強くない。
+――だから助けてほしいの、集に
+
+==========================
+
+遠くを見据えるいのり
+GC/S16-030 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Music 音楽,_Undertaker 葬儀社
+Card Text/Abilities:
+【A】 When this card attacks, if 「女神の微笑み」 is in the Climax Slot, during this turn, this card gets +1000 Power and gains the following ability.『【A】 When this card's battle opponent becomes REVERSE, you may place the top card of your Deck into Stock.』
+【A】 ENCORE ［Place the top card of your Deck into Clock］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】 このカードがアタックした時、クライマックス置場に｢女神の微笑み｣があるなら、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手がリバースした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』
+【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く）
+Flavor Text:
+涯は、強くない。
+――だから助けてほしいの、集に
+
+==========================
+
+空を見上げる集
+GC/S16-031 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+【A】When this card attacks, place the top card of your Stock into Waiting Room.
+【A】When this card attacks, if ｢王の素質｣ is in the Climax Slot, return the top card of your Stock into Hand, during this turn, this card gets +2000 Power.
+【自】 このカードがアタックした時、あなたは自分のストックの上から1枚を、控え室に置く。
+【自】 このカードがアタックした時、クライマックス置場に｢王の素質｣があるなら、あなたは自分のストックの上から1枚を、手札に戻し、そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+その人と心を通わせれば、
+僕の力も変わっていくんだろうか？
+
+==========================
+
+空を見上げる集
+GC/S16-031 SR
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+【A】When this card attacks, place the top card of your Stock into Waiting Room.
+【A】When this card attacks, if ｢王の素質｣ is in the Climax Slot, return the top card of your Stock into Hand, during this turn, this card gets +2000 Power.
+【自】 このカードがアタックした時、あなたは自分のストックの上から1枚を、控え室に置く。
+【自】 このカードがアタックした時、クライマックス置場に｢王の素質｣があるなら、あなたは自分のストックの上から1枚を、手札に戻し、そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+その人と心を通わせれば、
+僕の力も変わっていくんだろうか？
+
+==========================
+
+優しい言葉 祭
+GC/S16-032 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【A】［①] When this card attacks, if 「私の大好きな王様」 is in your Climax Slot, you may pay the cost. If you did, all your other Characters, during this turn, gets +4500 Power.
+【自】［①] このカードがアタックした時、クライマックス置場に「私の大好きな王様」があるなら、あなたはコストを払ってよい。そうしたら、他のあなたのキャラすべてに、そのターン中、パワーを＋4500。
+Flavor Text:
+私ね、集はきっといい王様になると思うな。
+だから……
+
+==========================
+
+校条 祭
+GC/S16-033 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【A】 BOND／「空を見上げる集」［①］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「空を見上げる集」 from your Waiting Room, return to Hand)
+【自】 絆／「空を見上げる集」 ［①］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「空を見上げる集」を1枚選び、手札に戻す）
+Flavor Text:
+大丈夫、私は集のいいところ、いっぱい知ってるよ
+
+==========================
+
+寒川 潤
+GC/S16-034 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【A】 When this card attacks, choose 1 of your Characters, during this turn, it gets +1 Level, +500 Power.
+【A】◆ SHIFT Level 0 (At the beginning of your Main Phase, you may choose 1 Green card from your Hand and this card in your Clock and exchange them.)
+【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋500。
+【自】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の緑のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）
+Flavor Text:
+集さん。僕を殺してください
+
+==========================
+
+草間 花音
+GC/S16-035 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Glasses メガネ,_Class Rep 委員長
+Card Text/Abilities:
+【S】［Reveal the top card of your Deck］ You can only activate this ability 1 time per turn. If the card revealed by this ability's cost is Level 1 or higher, during this turn, this card gets +1500 Power.（Climax is treated as Level 0. Return revealed card to its original position）
+【起】［あなたの山札の上から1枚を公開する］ この能力は1ターンにつき1回まで使える。この能力のコストで公開したカードのレベルが1以上なら、そのターン中、このカードのパワーを＋1500。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）
+Flavor Text:
+――でもホント。
+人生、望んだようにはいかないよね
+
+==========================
+
+守るべき存在 集
+GC/S16-036 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+【S】［①］During this turn, this card gets +2000 Power.
+【起】［①］ そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+いのりは！僕の……！
+
+==========================
+
+制服のいのり
+GC/S16-037 U
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Music 音楽,_Undertaker 葬儀社
+Card Text/Abilities:
+【S】［①］Reveal the top card of your Deck. If that card is Level 1 or higher, choose 1 of your Characters, during this turn, it gets +2000 Power.（Climax is treated as Level 0. Return revealed card to its original position）
+【起】［①］ あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）
+Flavor Text:
+心配？裏切られたのに
+
+==========================
+
+見守る祭
+GC/S16-038 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card get +500 Power.
+【S】［① REST this card］ Choose 1 of your other Characters, during this turn, it gets +1000 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】［① このカードをレストする］ あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+私もできるだけ協力するから
+
+==========================
+
+魂館 颯汰
+GC/S16-039 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【C】 If your Stock is 3 or more, this card gets +1000 Power.
+【永】 あなたのストックが3枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+ここにいたって、無事って保障はないんだろ。
+だったら動く方がいいじゃん
+
+==========================
+
+学園の集
+GC/S16-040 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【C】 If you have 1 or less other Character, this card gets +1500 Power.
+【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1500。
+Flavor Text:
+僕にはわからないんだ。
+みんなと何を話したらいいのか
+
+==========================
+
+突然の居候 いのり
+GC/S16-041 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Music 音楽,_Undertaker 葬儀社
+Card Text/Abilities:
+Flavor Text:
+ねぇ、集……おなかへった
+
+==========================
+
+寒川 谷尋
+GC/S16-042 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Student Council 生徒会,
+Card Text/Abilities:
+【C】All your other Characters gain the following ability.『【C】This card cannot Side Attack.』
+【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』
+Flavor Text:
+いいじゃんか颯汰。やれるっていうんだし
+
+==========================
+
+供奉院 亞里沙
+GC/S16-043 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Student Council 生徒会,
+Card Text/Abilities:
+Flavor Text:
+……分かっています。
+私は、クホウインアリサですから
+
+==========================
+
+魅惑のビーチ 亞里沙
+GC/S16-044 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Student Council 生徒会,_Swimsuit 水着
+Card Text/Abilities:
+【S】● ASSIST 3000 Level 2［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)
+【起】● 助太刀3000 レベル2 ［① 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）
+Flavor Text:
+でもこんな状況だからこそ、
+ゆとりが大切じゃないかしら？
+
+==========================
+
+私服のいのり
+GC/S16-045 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Music 音楽,_Undertaker 葬儀社
+Card Text/Abilities:
+Flavor Text:
+やってみたいの、私が。
+……いい？
+
+==========================
+
+後夜祭のステージ
+GC/S16-046 U
+Type: Event
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Look at the top card of your Deck, place it on top of your Deck or into Waiting Room. Place this card into Stock.
+あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。このカードをストック置場に置く。
+Flavor Text:
+
+==========================
+
+ゲノムレゾナンスゲージ
+GC/S16-047 U
+Type: Event
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your opponent's Characters, during this turn, it gets -4000 Power.
+あなたは相手のキャラを1枚選び、そのターン中、パワーを－4000。
+Flavor Text:
+ツグミ「ぶっちゃけ言えば、
+ヴォイドの強さを計る装置みたいなものね」
+
+==========================
+
+王の素質
+GC/S16-048 CR
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: G
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（宝：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）
+Flavor Text:
+
+==========================
+
+女神の微笑み
+GC/S16-049 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+集、楽しそう
+
+==========================
+
+私の大好きな王様
+GC/S16-050 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: S
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Bag：When this card is Triggered, you may place the top card of your Deck into Stock)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（溜：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい）
+Flavor Text:
+集に、あげる。私、の……
+
+==========================
+
+優しい気持ち いのり
+GC/S16-051R RRR
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Music 音楽,_Undertaker 葬儀社
+Card Text/Abilities:
+【A】［①］When this card attacks, if 「勇気の試練」 is in your Climax Slot, you may pay the cost. If you did, choose 1 Character from your Waiting Room, return it to Hand.
+【A】When this card becomes REVERSE in battle, the opponent may choose 1 Character from your Waiting Room, place it on top of your Deck.
+【自】［①］ このカードがアタックした時、クライマックス置場に「勇気の試練」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+【自】 バトル中のこのカードがリバースした時、相手はあなたの控え室のキャラを1枚選び、山札の上に置いてよい。
+Flavor Text:
+涯が言っていた。
+心の在り方で、ヴォイドも形を変えるって
+
+==========================
+
+優しい気持ち いのり
+GC/S16-051 RR
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Music 音楽,_Undertaker 葬儀社
+Card Text/Abilities:
+【A】［①］When this card attacks, if 「勇気の試練」 is in your Climax Slot, you may pay the cost. If you did, choose 1 Character from your Waiting Room, return it to Hand.
+【A】When this card becomes REVERSE in battle, the opponent may choose 1 Character from your Waiting Room, place it on top of your Deck.
+【自】［①］ このカードがアタックした時、クライマックス置場に「勇気の試練」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+【自】 バトル中のこのカードがリバースした時、相手はあなたの控え室のキャラを1枚選び、山札の上に置いてよい。
+Flavor Text:
+涯が言っていた。
+心の在り方で、ヴォイドも形を変えるって
+
+==========================
+
+集のパートナー いのり
+GC/S16-052 RR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 6500
+Soul: 1
+Traits:: Music 音楽,_Undertaker 葬儀社
+Card Text/Abilities:
+【A】CHANGE［② Place 1 card from your Hand into Waiting Room, place this card into Waiting Room］At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 「楪 いのり」 from your Waiting Room, place it into this card's previous slot.
+【S】［REST this card］Choose 1 of your Characters, during this turn, it gets +1500 Power.
+【自】 チェンジ ［② 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「楪 いのり」を1枚選び、このカードがいた枠に置く。
+【起】［このカードをレストする］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+お願い…私を、使って…
+
+==========================
+
+添い寝するいのり
+GC/S16-053 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Music 音楽,_Undertaker 葬儀社
+Card Text/Abilities:
+【A】［Place 1 card from Hand into Waiting Room］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《葬儀社》 Character from your Waiting Room, return it to Hand.
+【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《葬儀社》のキャラを1枚選び、手札に戻す。
+Flavor Text:
+これが……好き？
+
+==========================
+
+添い寝するいのり
+GC/S16-053 SR
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Music 音楽,_Undertaker 葬儀社
+Card Text/Abilities:
+【A】［Place 1 card from Hand into Waiting Room］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《葬儀社》 Character from your Waiting Room, return it to Hand.
+【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《葬儀社》のキャラを1枚選び、手札に戻す。
+Flavor Text:
+これが……好き？
+
+==========================
+
+迷いを見抜くいのり
+GC/S16-054 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 3000
+Soul: 1
+Traits:: Music 音楽,_Undertaker 葬儀社
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card get +1000 Power.
+【A】You can only activate this ability 1 time per turn. When you use 『SHIFT』, until the end of your opponent's next turn, this card gains the following ability.『【C】All your other Characters gets +500 Power.』
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。
+【自】 この能力は1ターンにつき1回まで発動する。あなたが『シフト』を使った時、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 他のあなたのキャラすべてに、パワーを＋500。』
+Flavor Text:
+みんなが、じゃなくて……、
+集は、どうしたいの？
+
+==========================
+
+悲痛な叫び いのり
+GC/S16-055 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Music 音楽,_Undertaker 葬儀社
+Card Text/Abilities:
+【A】 This ability can only be activated 1 time per turn. When your other Character with 『SHIFT』 is placed on Stage from Hand, until the end of your opponent's next turn, this card gets +2000 Power.
+【自】 この能力は1ターンにつき1回まで発動する。他のあなたの『シフト』を持つキャラが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードのパワーを＋2000。
+Flavor Text:
+やめさせないと……起きちゃう……あのひと……が……
+
+==========================
+
+悲痛な叫び いのり
+GC/S16-055 SR
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Music 音楽,_Undertaker 葬儀社
+Card Text/Abilities:
+【A】 This ability can only be activated 1 time per turn. When your other Character with 『SHIFT』 is placed on Stage from Hand, until the end of your opponent's next turn, this card gets +2000 Power.
+【自】 この能力は1ターンにつき1回まで発動する。他のあなたの『シフト』を持つキャラが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードのパワーを＋2000。
+Flavor Text:
+やめさせないと……起きちゃう……あのひと……が……
+
+==========================
+
+幼少の真名
+GC/S16-056 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: ,
+Card Text/Abilities:
+【A】［① Place 1 Character from your Stage into Waiting Room］ When this card attacks, if ｢あの夏の思い出｣ is in the Climax Slot, you may pay the cost. If you did, choose 1 of your opponent's Characters with Level 2 or lower, place it into Waiting Room.
+【自】［① あなたの舞台のキャラを1枚控え室に置く］ このカードがアタックした時、クライマックス置場に｢あの夏の思い出｣があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以下のキャラを1枚選び、控え室に置く。
+Flavor Text:
+海から来たんだもの。あなたは今日からトリトン。
+――すてきな名前でしょ？
+
+==========================
+
+楪 いのり
+GC/S16-057 R
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Music 音楽,_Undertaker 葬儀社
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand or through 『CHANGE』, you may place the top card of your Clock into Waiting Room.
+【A】[Place 1 card from Hand into Waiting Room] When this card attacks, if 「エウテルペ」 is in the Climax Slot, you may pay the cost. If you did, choose up to 2 Characters from your Waiting Room, return it to Hand, during this turn, this card gets +1000 Power.
+【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】[手札を1枚控え室に置く] このカードがアタックした時、クライマックス置場に｢エウテルペ｣があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを2枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+私なら…止められる
+
+==========================
+
+楪 いのり
+GC/S16-057 SP
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Music 音楽,_Undertaker 葬儀社
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand or through 『CHANGE』, you may place the top card of your Clock into Waiting Room.
+【A】[Place 1 card from Hand into Waiting Room] When this card attacks, if 「エウテルペ」 is in the Climax Slot, you may pay the cost. If you did, choose up to 2 Characters from your Waiting Room, return it to Hand, during this turn, this card gets +1000 Power.
+【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】[手札を1枚控え室に置く] このカードがアタックした時、クライマックス置場に｢エウテルペ｣があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを2枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+私なら…止められる
+
+==========================
+
+オートインセクト ふゅーねる
+GC/S16-058 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Mecha メカ,_Undertaker 葬儀社
+Card Text/Abilities:
+【A】 BOND／「添い寝するいのり」［Place the top card of your Deck into Clock］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「添い寝するいのり」 from your Waiting Room, return to Hand)
+【自】 絆／「添い寝するいのり」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「添い寝するいのり」を1枚選び、手札に戻す）
+Flavor Text:
+
+==========================
+
+桜満 春夏
+GC/S16-059 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Science 科学,
+Card Text/Abilities:
+【C】 If the opponent's Stock is 3 or less, this card gets +1000 Power.
+【永】 相手のストックが3枚以下なら、このカードのパワーを＋1000。
+Flavor Text:
+おいしいもの食べながら、
+じっくり聞かせてもらうから
+
+==========================
+
+嘘界＝ヴァルツ・誠
+GC/S16-060 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Army 軍隊,
+Card Text/Abilities:
+【S】［①］Place the top card of your opponent's Deck into Waiting Room, choose 1 card from your opponent's Waiting Room, place it on top of the Deck.
+【起】［①］ あなたは相手の山札の上から1枚を控え室に置き、 相手の控え室のカードを1枚選び、山札の上に置く。
+Flavor Text:
+初めまして。桜満集君。
+あなたを逮捕します
+
+==========================
+
+傲慢な態度 ダリル
+GC/S16-061 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Army 軍隊,_Operator オペレーター
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand, choose 1 of your Characters which is not Red, during this turn, it gets +1000 Power.
+【自】 このカードが手札から舞台に置かれた時、あなたは赤以外の自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+……冗談はやめてよ。
+僕にその脂身に触れって言うの？
+
+==========================
+
+EGOIST いのり
+GC/S16-062 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Music 音楽,_Undertaker 葬儀社
+Card Text/Abilities:
+【C】 If you have 2 or more other Characters with 『SUPPORT』, this card gets +1000 Power.
+【A】◆ SHIFT Level 1 (At the beginning of your Main Phase, you may choose 1 Red card from your Hand and this card in your Clock and exchange them.)
+【永】 他のあなたの『応援』を持つキャラが2枚以上なら、このカードのパワーを＋1000。
+【自】 シフト レベル1 （あなたのメインフェイズの始めに、あなたは自分の手札の赤のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）
+Flavor Text:
+集「エゴイストの生ライブ!?」
+
+==========================
+
+幼少の集
+GC/S16-063 U
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【S】● ASSIST 3000 Level 2［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)
+【起】● 助太刀3000 レベル2 ［① 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）
+Flavor Text:
+ダイジョブさ。おれを信じろよ！
+
+==========================
+
+魂の歌声 いのり
+GC/S16-064 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Music 音楽,_Undertaker 葬儀社
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +500 Power.
+【A】［②］When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《葬儀社》 Character from your Waiting Room, return it to Hand.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【自】［②］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《葬儀社》のキャラを1枚選び、手札に戻す
+Flavor Text:
+この歌は、もう違うの
+
+==========================
+
+ふゅーねるFyu-Neru
+GC/S16-065 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Mecha メカ,_Undertaker 葬儀社
+Card Text/Abilities:
+【A】When another of your Character becomes REVERSE in battle, choose 1 of your Characters, during this turn, it gets +1000 Power.
+【A】◆ SHIFT LEVEL 0 (At the start of your Main Phase, choose a red card from your hand and this card in Clock, you may swap them.)
+【自】他のあなたのバトル中のカードがリバースした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+【自】◆ シフト レベル0 (あなたのメインフェイズの始めに、あなたは自分の手札の赤のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい)
+Flavor Text:
+ぴっ！
+
+==========================
+
+別れの言葉 いのり
+GC/S16-066 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Music 音楽,_Undertaker 葬儀社
+Card Text/Abilities:
+【A】When this card becomes REVERSE, if this card's battle opponent is Level 0 or lower, you may REVERSE that Character.
+【自】 このカードがリバースした時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをリバースしてよい。
+Flavor Text:
+お別れ……言ってからにしようって。思ったから……
+
+==========================
+
+平凡な高校生 集
+GC/S16-067 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+Flavor Text:
+でも、これでいいのかな？
+僕にももっと、やれることってないのかな……
+
+==========================
+
+幼少の涯
+GC/S16-068 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【C】 If you have another Character with 「集」 in its name, this card gets +1 Level, +1000 Power.
+【永】 他のあなたのカード名に「集」を含むキャラがいるなら、このカードのレベルを＋1し、パワーを＋1000。
+Flavor Text:
+ねえ……ホントに飛ぶの？
+
+==========================
+
+ダリル・ヤンDaryl Yan
+GC/S16-069 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Army 軍隊,_Operator オペレーター
+Card Text/Abilities:
+Flavor Text:
+いい？ 僕は自分の好きにやる。
+もしジャマしたら、パパに言いつけるからね
+
+==========================
+
+純粋な気持ち いのり
+GC/S16-070 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Music 音楽,_Undertaker 葬儀社
+Card Text/Abilities:
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く）
+Flavor Text:
+……ずっと側に居ても、いい？
+
+==========================
+
+ウェブアーティスト いのりWeb Artist Inori
+GC/S16-071 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Music 音楽,_Undertaker 葬儀社
+Card Text/Abilities:
+【A】When another of your Character becomes REVERSE in battle, during this turn, this card gets +1000 Power.
+【自】 他のあなたのバトル中のキャラが【リバース】した時、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+桜満集は、臆病なヒト？
+
+==========================
+
+ヴォイドゲノムの真実Truth of the Void Genome
+GC/S16-072 U
+Type: Event
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose up to 2 Characters from your Waiting Room, return them to hand.
+あなたは自分の控え室のキャラを2枚まで選び、手札に戻す。
+Flavor Text:
+集「これは……!?」
+
+==========================
+
+エウテルペ
+GC/S16-073 CR
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card comes on Stage from hand, put the top card of your Deck to Stock. During this turn, all of your Characters get +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+
+==========================
+
+あの夏の思い出
+GC/S16-074 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+こうして僕らは出会い、
+一つの夏を共に過ごしたんだ。
+ロストクリスマスの年――
+みんなが笑顔で過ごせた最後の夏を――
+
+==========================
+
+勇気の試練Trial of Courage
+GC/S16-075 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When this card is Triggered, choose 1 Character from your Waiting Room, you may return it to Hand)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（拾：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）
+Flavor Text:
+とって
+
+==========================
+
+水着のツグミ
+GC/S16-076 RR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Undertaker 葬儀社,_Operator オペレーター
+Card Text/Abilities:
+【A】［① Place 1 card from Hand into Waiting Room］When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《葬儀社》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【自】［① 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《葬儀社》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+ねね、どうなの？アヤねえ
+
+==========================
+
+篠宮 綾瀬
+GC/S16-077 RR
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Undertaker 葬儀社,_Wheelchair 車椅子
+Card Text/Abilities:
+【C】The Character facing this card gets -1 Soul.
+【A】［① Place 1 card from Hand into Waiting Room］ At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 of your opponent's Characters, STAND it and move it into an empty slot on your opponent's Stage, during this turn, this card gets +1000 Power.
+【永】 このカードの正面のキャラのソウルを－1。
+【自】［① 手札を1枚控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、 あなたは相手のキャラを1枚選び、スタンドして相手の舞台のキャラのいない他の枠に動かし、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+ぼやぼやしてると死ぬわよ！
+
+==========================
+
+篠宮 綾瀬
+GC/S16-077 SP
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Undertaker 葬儀社,_Wheelchair 車椅子
+Card Text/Abilities:
+【C】The Character facing this card gets -1 Soul.
+【A】［① Place 1 card from Hand into Waiting Room］ At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 of your opponent's Characters, STAND it and move it into an empty slot on your opponent's Stage, during this turn, this card gets +1000 Power.
+【永】 このカードの正面のキャラのソウルを－1。
+【自】［① 手札を1枚控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、 あなたは相手のキャラを1枚選び、スタンドして相手の舞台のキャラのいない他の枠に動かし、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+ぼやぼやしてると死ぬわよ！
+
+==========================
+
+ポジティブ思考 ツグミ
+GC/S16-078 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Undertaker 葬儀社,_Operator オペレーター
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is Level 1 or higher add it to your Hand, choose 1 card from your Hand, place it into Waiting Room.（Otherwise return it to its original position. Climax is treated as Level 0）
+【A】 When this card attacks, choose 1 of your Characters, during this turn, it gets +500.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す。クライマックスのレベルは0として扱う）
+【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+くよくよしてても仕方なし。
+せっかくだから楽しみませんとっ
+
+==========================
+
+振袖姿のツグミ
+GC/S16-079 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Undertaker 葬儀社,_Operator オペレーター
+Card Text/Abilities:
+【A】When you use this card's 『ASSIST』, if you have 2 or more 《葬儀社》 Characters, choose 1 of your Characters, during this turn, it gets +1000 Power.
+【S】● ASSIST 1000 Level 1［Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +1000 Power.)
+【自】 あなたがこのカードの『助太刀』を使った時、あなたの《葬儀社》のキャラが2枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+【起】● 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）
+Flavor Text:
+あたしにハズカシイことした責任は取ってもらうかんね！
+
+==========================
+
+振袖姿のツグミ
+GC/S16-079 SR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Undertaker 葬儀社,_Operator オペレーター
+Card Text/Abilities:
+【A】When you use this card's 『ASSIST』, if you have 2 or more 《葬儀社》 Characters, choose 1 of your Characters, during this turn, it gets +1000 Power.
+【S】● ASSIST 1000 Level 1［① Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +1000 Power.)
+【自】 あなたがこのカードの『助太刀』を使った時、あなたの《葬儀社》のキャラが2枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+【起】① 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）
+Flavor Text:
+あたしにハズカシイことした責任は取ってもらうかんね！
+
+==========================
+
+恋する乙女 綾瀬
+GC/S16-080R RRR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Undertaker 葬儀社,_Wheelchair 車椅子
+Card Text/Abilities:
+【A】When 「取り戻した自信」 is placed into your Climax slot, if this card is in the Front Row, search your Deck for up to 1 「篠宮 綾瀬」, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【A】◆ SHIFT Level 1 (At the beginning of your Main Phase, you may choose 1 Blue card from your Hand and this card in your Clock and exchange them.)
+【自】 あなたのクライマックス置場に「取り戻した自信」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見て「篠宮 綾瀬」を1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+【自】 シフト レベル1 （あなたのメインフェイズの始めに、あなたは自分の手札の青のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）
+Flavor Text:
+すっ……好きとか……そんなじゃないわよ！
+尊敬してるの、私は！
+
+==========================
+
+恋する乙女 綾瀬
+GC/S16-080 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Undertaker 葬儀社,_Wheelchair 車椅子
+Card Text/Abilities:
+【A】When 「取り戻した自信」 is placed into your Climax slot, if this card is in the Front Row, search your Deck for up to 1 「篠宮 綾瀬」, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【A】◆ SHIFT Level 1 (At the beginning of your Main Phase, you may choose 1 Blue card from your Hand and this card in your Clock and exchange them.)
+【自】 あなたのクライマックス置場に「取り戻した自信」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見て「篠宮 綾瀬」を1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+【自】 シフト レベル1 （あなたのメインフェイズの始めに、あなたは自分の手札の青のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）
+Flavor Text:
+すっ……好きとか……そんなじゃないわよ！
+尊敬してるの、私は！
+
+==========================
+
+オペレーター ツグミ
+GC/S16-081 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 4500
+Soul: 1
+Traits:: Undertaker 葬儀社,_Operator オペレーター
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +X Power. X is equals to that Character's Level ×500.
+【A】 This ability can only be activated 2 times per turn. When your other 《葬儀社》 Character is placed on Stage from Hand, look at the top card of your Deck, place it at the top or bottom of the Deck.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。
+【自】 この能力は1ターンにつき2回まで発動する。他のあなたの《葬儀社》のキャラが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。
+Flavor Text:
+アヤねえ、接続よろし？
+
+==========================
+
+オペレーター ツグミ
+GC/S16-081 SP
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 4500
+Soul: 1
+Traits:: Undertaker 葬儀社,_Operator オペレーター
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +X Power. X is equals to that Character's Level ×500.
+【A】 This ability can only be activated 2 times per turn. When your other 《葬儀社》 Character is placed on Stage from Hand, look at the top card of your Deck, place it at the top or bottom of the Deck.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。
+【自】 この能力は1ターンにつき2回まで発動する。他のあなたの《葬儀社》のキャラが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。
+Flavor Text:
+アヤねえ、接続よろし？
+
+==========================
+
+勝気な綾瀬
+GC/S16-082 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Undertaker 葬儀社,_Wheelchair 車椅子
+Card Text/Abilities:
+【A】 When this card attacks, if 「出撃」 is in the Climax Slot, during this turn, this card gets +2000 Power and gains the following ability.『【A】When this card's battle opponent becomes REVERSE, you may draw 1 card.』
+【自】 このカードがアタックした時、クライマックス置場に「出撃」があるなら、そのターン中、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードのバトル相手がリバースした時、あなたは1枚引いてよい。』
+Flavor Text:
+ハンパな気分だと死ぬわよ。
+どうする、やるの、やらないの？
+
+==========================
+
+勝気な綾瀬
+GC/S16-082 SR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Undertaker 葬儀社,_Wheelchair 車椅子
+Card Text/Abilities:
+【A】 When this card attacks, if 「出撃」 is in the Climax Slot, during this turn, this card gets +2000 Power and gains the following ability.『【A】When this card's battle opponent becomes REVERSE, you may draw 1 card.』
+【自】 このカードがアタックした時、クライマックス置場に「出撃」があるなら、そのターン中、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードのバトル相手がリバースした時、あなたは1枚引いてよい。』
+Flavor Text:
+ハンパな気分だと死ぬわよ。
+どうする、やるの、やらないの？
+
+==========================
+
+車椅子の少女 綾瀬
+GC/S16-083 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Undertaker 葬儀社,_Wheelchair 車椅子
+Card Text/Abilities:
+【A】 BOND／「リーダーの風格 涯」［①］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「リーダーの風格 涯」 from your Waiting Room, return to Hand)
+【自】 絆／「リーダーの風格 涯」 ［①］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「リーダーの風格 涯」を1枚選び、手札に戻す）
+Flavor Text:
+ヒトの手は借りないって決めてるの
+
+==========================
+
+ムードメーカー ツグミ
+GC/S16-084 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Undertaker 葬儀社,_Operator オペレーター
+Card Text/Abilities:
+【C】 During your opponent's turn, your other Character in the Center slot of the Front Row gets +1500 Power.
+【永】 相手のターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋1500。
+Flavor Text:
+だってこんなご時世だもん。
+言ったもん勝ちだと違う？
+
+==========================
+
+姉御肌 綾瀬
+GC/S16-085 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Undertaker 葬儀社,_Wheelchair 車椅子
+Card Text/Abilities:
+【A】 CHANGE ［② Place 1 card from Hand into Waiting Room, place this card into Waiting Room］ At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 「しっかり者 綾瀬」 from your Waiting Room, place it on this card's previous slot.
+【S】［REST this card］ Choose 1 of your Characters, until the end of your opponent's next turn, it gets +500 Power.
+【自】 チェンジ ［② 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「しっかり者 綾瀬」を1枚選び、このカードがいた枠に置く。
+【起】［このカードをレストする］ あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋500。
+Flavor Text:
+なに悲劇のボクに酔ってるの！
+いい加減目を覚ましなさいよ！
+
+==========================
+
+しっかり者 綾瀬
+GC/S16-086 U
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Undertaker 葬儀社,_Wheelchair 車椅子
+Card Text/Abilities:
+【A】［Return 2 Characters from your Waiting Room into Deck. Shuffle the Deck afterwards］ When this card attacks, reveal the top card of your Deck. If that card is Level 1 or higher, you may pay the cost. If you did, until the end of your opponent's next turn, this card gets +2000 Power.(Climax is treated as Level 0. Return revealed to its original position)
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】［あなたの控え室のキャラを2枚山札に戻す。その山札をシャッフルする］ このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードのパワーを＋2000。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く）
+Flavor Text:
+エンドレイヴは涯がくれた足なの
+
+==========================
+
+“葬儀社”ツグミ
+GC/S16-087 U
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Undertaker 葬儀社,_Operator オペレーター
+Card Text/Abilities:
+【C】 If your Stock is 4 or more, this card gains 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』.
+【A】 When this card attacks, if 「情報戦の要」 is in the Climax Slot, you may draw 1 card.
+【永】 あなたのストックが4枚以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。
+【自】 このカードがアタックした時、クライマックス置場に「情報戦の要」があるなら、あなたは1枚引いてよい。
+Flavor Text:
+今回は、かなり大がかりなオペレーションになるはずよ
+
+==========================
+
+不意打ち 集
+GC/S16-088 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand, you may reveal your Hand. If you did, if there are no cards with Level 0 or lower among those cards, search your Deck for up to 1 ｢学園の集｣, show it to your opponent, add it to Hand, choose 1 card from your Hand, place it into Waiting Room. Shuffle your Deck afterwards.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札を公開してよい。そうしたら、それらのカードにレベル0以下のキャラがないなら、あなたは自分の山札を見て｢学園の集｣を1枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置く。その山札をシャッフルする。
+Flavor Text:
+…………！
+
+==========================
+
+呆れ顔 綾瀬
+GC/S16-089 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Undertaker 葬儀社,_Wheelchair 車椅子
+Card Text/Abilities:
+【C】 During your opponent's turn, if you have 2 or less other Characters, this card gets +1500 Power.
+【永】 相手のターン中、他のあなたのキャラが2枚以下なら、このカードのパワーを＋1500。
+Flavor Text:
+……
+
+==========================
+
+フランクな性格 ツグミ
+GC/S16-090 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Undertaker 葬儀社,_Operator オペレーター
+Card Text/Abilities:
+【C】 If your opponent's Clock is 4 or more, this card gets +1000 Power.
+【永】 相手のクロックが4枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+働かざる者食うべからずー。
+はーい、じゃあついてきてー
+
+==========================
+
+“葬儀社”綾瀬
+GC/S16-091 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Undertaker 葬儀社,_Wheelchair 車椅子
+Card Text/Abilities:
+Flavor Text:
+知りたいなら、とりあえず、明日の模擬戦に勝つことね
+
+==========================
+
+有能なパイロット 綾瀬
+GC/S16-092 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Undertaker 葬儀社,_Wheelchair 車椅子
+Card Text/Abilities:
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く）
+Flavor Text:
+了解！こっちも準備オーケーよ！
+
+==========================
+
+強い心 ツグミ
+GC/S16-093 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Undertaker 葬儀社,_Operator オペレーター
+Card Text/Abilities:
+【C】 If this card has a marker under it, it gets +1000 Power.
+【A】 When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is Level 1 or higher, you may place it under this card as a marker.（Otherwise return it to its original position. Climax is treated as Level 0）
+【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋1000。
+【自】 このカードが手札から舞台に置かれた時、 あなたは山札の上から1枚を公開する。そのカードのレベルが1以上ならこのカードの下にマーカーとして置いてよい。（そうでないなら元に戻す。クライマックスのレベルは0として扱う）
+Flavor Text:
+余計な心配とかしなくていいからね、集！
+
+==========================
+
+風変わりな子 ツグミ
+GC/S16-094 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Undertaker 葬儀社,_Operator オペレーター
+Card Text/Abilities:
+Flavor Text:
+まーまー。これで機嫌直したまえよ
+
+==========================
+
+ふっきれた思い 集
+GC/S16-095 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+僕は、僕にできるやり方で、やるしかない
+
+==========================
+
+綾瀬機シュタイナー
+GC/S16-096 U
+Type: Event
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Search your Deck for up to 1 Climax, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+あなたは自分の山札を見てクライマックスを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+綾瀬「次のターゲットは？」
+
+==========================
+
+渾身の一撃
+GC/S16-097 U
+Type: Event
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Look at up to X cards from the top of your Deck, choose up to 2 cards, add it to Hand. Place the remaining cards into the Waiting Room. X is equals to the number of your 《葬儀社》 Characters.
+あなたは自分の山札を上からＸ枚まで見て、カードを2枚まで選び、手札に加える。残りのカードを控え室に置く。Ｘはあなたの《葬儀社》のキャラの枚数に等しい。
+Flavor Text:
+ミサイルぅぅぅぅ……
+キイィィィィィィック！
+
+==========================
+
+取り戻した自信
+GC/S16-098 CR
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card comes on Stage from hand, put the top card of your Deck to Stock. During this turn, all of your Characters get +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+いいでしょ。これ、私のヴォイド
+
+==========================
+
+出撃
+GC/S16-099 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +2 Soul.
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+シュタイナー、出ます！
+
+==========================
+
+情報戦の要
+GC/S16-100 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Book：When this card is triggered, you may draw 1 card)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（引：このカードがトリガーした時、あなたは1枚引いてよい）
+Flavor Text:
+まもなく、降下開始よ
+
+==========================
+
+此処にいる意味 いのりReason for Being Here Inori
+GC/S16-101 TD
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Music 音楽,_Undertaker 葬儀社
+Card Text/Abilities:
+【S】［REST 1 of your 《葬儀社》 Characters］During this turn, this card gets +1500 Power.
+【起】［あなたの《葬儀社》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1500。
+Flavor Text:
+涯は、私に名前をくれたの
+名前も……自分も……何も無かった私に、名前をくれたの
+
+==========================
+
+決断の時 集Time of Determination Shu
+GC/S16-102 TD
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+【C】 SUPPORT All your Level 2 and above Characters in front of this card get +1000 Power.
+【A】When another of your Character becomes REVERSE in battle, choose 1 of your Characters, during this turn, it gets +1000 Power.
+【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。
+【自】他のあなたのバトル中のキャラがリバースした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+わかった……。僕も一緒に行くよ
+
+==========================
+
+望む未来の為に 涯For the Desired Future Gai
+GC/S16-103 TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+【S】［①］During this turn, this card gets +1 Soul.
+【起】［①］ そのターン中、このカードのソウルを＋1。
+Flavor Text:
+全てを俺に預け、ただ俺の命令に従え
+
+==========================
+
+“歌姫”いのり"Songstress" Inori
+GC/S16-104 TD
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Music 音楽,_Undertaker 葬儀社
+Card Text/Abilities:
+【C】If you have 2 or more 《葬儀社》 Characters, this card gets +2000 Power.
+【A】When this card is placed on Stage from Hand, you may choose 1 《葬儀社》 Character in your Waiting Room, return it to Hand.
+【永】他のあなたの《葬儀社》のキャラが2枚以上なら、このカードのパワーを＋2000。
+【自】このカードが手札から舞台に置かれた時、あなたは自分の控え室の《葬儀社》のキャラを1枚選び、手札に戻してよい。
+Flavor Text:
+信じて。――できる、絶対に。
+私はもう、あなたのものだから
+
+==========================
+
+歪な共犯関係
+GC/S16-105 TD
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+集「……僕も、共犯だね」
+涯「馬鹿な奴だ」
+
+==========================
+
+“The Everlasting Guilty Crown”真名
+GC/S16-106 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【A】◆ SHIFT Level 1 (At the beginning of your Main Phase, you may choose 1 Yellow card from your Hand and this card in your Clock and exchange them.)
+【自】◆ シフト レベル1 (あなたのメインフェイズの始めに、あなたは自分の手札の黄のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい)
+Flavor Text:
+集も絶対、私のことが好きなはずよ。
+私たちには、完璧な運命があるのだから――
+
+==========================
+
+“告白”真名
+GC/S16-107 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+Flavor Text:
+あなたと私の遺伝子で、新しい世界を作りましょう
+
+==========================
+
+スクルージ＆キャロル
+GC/S16-108 PR
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【S】［①］Choose 1 of your opponent's Front Row Characters with Level 0 or less, place it into Waiting Room.
+【起】［①］あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置く。
+Flavor Text:
+キャロル「スクルージ。わたしを、つかって。
+こわれるくらいに。メチャクチャに」
+
+==========================
+
+“真摯な誓い”集＆いのり
+GC/S16-109 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,_Undertaker 葬儀社
+Card Text/Abilities:
+【S】［①］Choose 1 of your opponent's Front Row Characters with Level 0 or lower, place it into Waiting Room.
+【起】［①］あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置く。
+Flavor Text:
+集「僕は君のためにここに来たんだ。君を守りたくて……。だから――」
+
+==========================
+
+“運命の邂逅”集＆いのり"Destined Meeting" Shu & Inori
+GC/S16-110 PR
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Weapon 武器,_Music 音楽
+Card Text/Abilities:
+【A】When this card attacks, if 「死にゆくものへ餞を」 is in the Climax Slot, you may choose 1 Character in your Waiting Room, return it to Hand.
+【自】このカードがアタックした時、クライマックス置場に「死にゆくものへ餞を」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。
+Flavor Text:
+これは力。人の心を紡いで形となす――“ 罪の王冠 (ギルティクラウン)”
+
+==========================
+
+死にゆくものへ餞をFarewell Gift to the Dying
+GC/S16-111 PR
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+俺たちは淘汰される者に葬送の歌を送り続ける
+
+==========================
+
+“My Dearest”いのり
+GC/S16-112 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Music 音楽,_Undertaker 葬儀社
+Card Text/Abilities:
+Flavor Text:
+一緒に来て、集
+
+==========================
+
+“Departures ～あなたにおくるアイの歌～”いのり
+GC/S16-113 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Music 音楽,_Undertaker 葬儀社
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card get +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+……あなたを守るため
+
+==========================
+
+綾瀬＆ツグミ
+GC/S16-114 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Operator オペレーター ,_Undertaker 葬儀社
+Card Text/Abilities:
+【C】During your opponent's turn, all your other Characters get +500 Power.
+【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+ツグミ「心拍数絶賛上昇ちゅう～」
+綾瀬「黙んなさいよ、ツグミ!!」
+
+==========================
+
+上目遣い いのり
+GC/S16-115 PR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Music 音楽,_Undertaker 葬儀社
+Card Text/Abilities:
+【A】 When another of your battling Characters become REVERSE, during this turn, this card gets +1000 Power.
+【自】 他のあなたのバトル中のキャラがリバースした時、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+好きな人？それは友達のこと？
+
+==========================
+
+ちみ集
+GC/S16-116 PR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Weapon 武器,_Undertaker 葬儀社
+Card Text/Abilities:
+【A】 BOND／「ちみいのり」［①］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「ちみいのり」 from your Waiting Room, return to Hand)
+【自】 絆／「ちみいのり」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ちみいのり」を1枚選び、手札に戻す)
+Flavor Text:
+涯も色々と大変なんだね…
+
+==========================
+
+ちみいのり
+GC/S16-117 PR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Music 音楽,_Undertaker 葬儀社
+Card Text/Abilities:
+Flavor Text:
+く～きゅるるる…
+
+==========================
+
+ちみ綾瀬
+GC/S16-118 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Undertaker 葬儀社,_Wheelchair 車椅子
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card get +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+勝手に食べちゃダメよ
+
+==========================
+
+ちみツグミ
+GC/S16-119 PR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Undertaker 葬儀社,_Operator オペレーター
+Card Text/Abilities:
+Flavor Text:
+おおスイーツ発見
+
+==========================
+
+ちみ涯
+GC/S16-120 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Weapon 武器,_Weapon 武器
+Card Text/Abilities:
+【S】● ASSIST 1500 Level 1［Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +1500 Power.)
+【起】● 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）
+Flavor Text:
+
+==========================
+
+溢れる愛しさ いのり
+GC/S16-121 PR
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Music 音楽,_Undertaker 葬儀社
+Card Text/Abilities:
+【S】● ASSIST 2000 Level 1 ［① Discard this card from hand to Waiting Room］ (Choose 1 character that is being Front Attacked, during this turn, it gets +2000 Power.)
+【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）
+Flavor Text:
+私、集と一緒にいてたくさんの気持ちをもらったよ
+
+==========================
+
+“葬儀社”四分儀"Undertaker" Shibungi
+GC/S16-T01 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+【C】During your turn, all your other Characters get +500 Power.
+【S】［REST 2 of your Characters］ Look at the top card of your Deck, place it on the top or bottom of the Deck.
+【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。
+【起】［あなたのキャラを2枚レストする］ あなたは自分の山札を上から1枚見て、山札の上か下に置く。
+Flavor Text:
+流石ですね、シナリオを飛ばしますか。
+――ただ、少し急ぎ過ぎでは……？
+
+==========================
+
+“葬儀社”アルゴ"Undertaker" Arugo
+GC/S16-T02 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+いい眺めが見てえんだよ。
+――涯と一緒に
+
+==========================
+
+葬儀社の司令塔 涯Undertaker Leader Gai
+GC/S16-T03 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+【C】 All your other「秘めたる能力 集」 gets +1000 Power.
+【A】 When this card is placed on Stage from Hand, choose 1 of your Characters, during this turn, it gets +500 Power.
+【永】 他のあなたの「秘めたる能力 集」すべてに、パワーを＋1000。
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+俺たちは、こういう事態に備えてきた。
+――生き残りたければ、俺の指示に従え！
+
+==========================
+
+若き首領 涯Young Leader Gai
+GC/S16-T04 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+それが未来の一つの顔だというなら、
+いまは祝福してやるさ。新たな王の誕生を――
+
+==========================
+
+秘めたる能力 集Hidden Power Shu
+GC/S16-T05 TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+やれるッ!! 僕を信じてよ、涯！
+
+==========================
+
+“葬儀社”大雲"Undertaker" Ohgumo
+GC/S16-T06 TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+【S】● ASSIST 2000 Level 1［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +2000 Power.)
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）
+Flavor Text:
+気にせず、あなたはあなたの仕事を
+してください。――グッドラック
+
+==========================
+
+“葬儀社”涯"Undertaker" Gai
+GC/S16-T07 TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Undertaker 葬儀社,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+勝負だ。淘汰されるのは俺の方か……、
+あるいは世界か――
+
+==========================
+
+覚醒する“王の能力”Awaken "The Power of Kings"
+GC/S16-T08 TD
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1W
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return it to Hand)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（戻：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）
+Flavor Text:
+真名「ならヴォイドを集めて。強いヴォイドを。
+――あなたの右腕は、そうやって
+未来を紡ぎだすためのものなのだから」
+
+==========================
+
+ふゅーねるFyu-Neru
+GC/S16-T09 TD
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Mecha メカ,_Undertaker 葬儀社
+Card Text/Abilities:
+【A】When another of your Character becomes REVERSE in battle, choose 1 of your Characters, during this turn, it gets +1000 Power.
+【A】◆ SHIFT LEVEL 0 (At the start of your Main Phase, choose a red card from your hand and this card in Clock, you may swap them.)
+【自】他のあなたのバトル中のカードがリバースした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+【自】◆ シフト レベル0 (あなたのメインフェイズの始めに、あなたは自分の手札の赤のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい)
+Flavor Text:
+ぴっ！
+
+==========================
+
+平凡な高校生 集Ordinary High School Student Shu
+GC/S16-T10 TD
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+Flavor Text:
+でも、これでいいのかな？
+僕にももっと、やれることってないのかな……
+
+==========================
+
+ダリル・ヤンDaryl Yan
+GC/S16-T11 TD
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Army 軍隊,_Operator オペレーター
+Card Text/Abilities:
+Flavor Text:
+いい？ 僕は自分の好きにやる。
+もしジャマしたら、パパに言いつけるからね
+
+==========================
+
+純粋な気持ち いのりPure Feelings Inori
+GC/S16-T12 TD
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Music 音楽,_Undertaker 葬儀社
+Card Text/Abilities:
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+……ずっと側に居ても、いい？
+
+==========================
+
+ウェブアーティスト いのりWeb Artist Inori
+GC/S16-T13 TD
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Music 音楽,_Undertaker 葬儀社
+Card Text/Abilities:
+【A】When another of your Character becomes REVERSE in battle, during this turn, this card gets +1000 Power.
+【自】 他のあなたのバトル中のキャラが【リバース】した時、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+桜満集は、臆病なヒト？
+
+==========================
+
+ヴォイドゲノムの真実Truth of the Void Genome
+GC/S16-T14 TD
+Type: Event
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose up to 2 Characters from your Waiting Room, return them to hand.
+あなたは自分の控え室のキャラを2枚まで選び、手札に戻す。
+Flavor Text:
+集「これは……!?」
+
+==========================
+
+勇気の試練Trial of Courage
+GC/S16-T15 TD
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When this card is Triggered, choose 1 Character from your Waiting Room, return it to Hand)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（拾：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）
+Flavor Text:
+とって
+
+==========================
+

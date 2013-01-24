@@ -1,0 +1,2770 @@
+窮地のシルバー・クロウ
+AW/S18-001S SR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Avatar アバター,
+Card Text/Abilities:
+【C】If this card is in the Center slot of the Front Row, this card gets +1000 Power.
+【S】CONCENTRATE［①］Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose 1 of your Characters, during this turn, it gets +1 Soul.
+【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋1000。
+【起】 集中 ［①］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。
+Flavor Text:
+
+==========================
+
+窮地のシルバー・クロウ
+AW/S18-001 RR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Avatar アバター,
+Card Text/Abilities:
+【C】If this card is in the Center slot of the Front Row, this card gets +1000 Power.
+【S】CONCENTRATE［①］Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose 1 of your Characters, during this turn, it gets +1 Soul.
+【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋1000。
+【起】 集中 ［①］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。
+Flavor Text:
+負けるにしても…足掻いて足掻いて、見苦しく負けろ。
+せめてそれくらいできなきゃ…
+あの人の駒にすらなれない！
+
+==========================
+
+黒雪姫
+AW/S18-002SP SP
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Student Council 生徒会,_Avatar アバター
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand or through 『CHANGE』, you may place the top card of your Clock into Waiting Room.
+【A】［① Place all of your Stock except the bottom-most card into Waiting Room］This ability can only be activated 1 time each turn.When this card attacks, if 「生まれて初めての感情」 is in the Climax slot, if your Stock has 5 cards or more, you may pay the cost. If you did, STAND this card.
+【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】［①番下以外のあなたのストックすべてを控え室に置く］ この能力は1ターンにつき1回まで発動する。このカードがアタックした時、クライマックス置場に「生まれて初めての感情」があり、あなたのストックが5枚以上なら、あなたはコストを払ってよい。そうしたら、このカードをスタンドする。
+Flavor Text:
+
+==========================
+
+黒雪姫
+AW/S18-002 RR
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Student Council 生徒会,_Avatar アバター
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand or through 『CHANGE』, you may place the top card of your Clock into Waiting Room.
+【A】［① Place all of your Stock except the bottom-most card into Waiting Room］This ability can only be activated 1 time each turn.When this card attacks, if 「生まれて初めての感情」 is in the Climax slot, if your Stock has 5 cards or more, you may pay the cost. If you did, STAND this card.
+【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】［①番下以外のあなたのストックすべてを控え室に置く］ この能力は1ターンにつき1回まで発動する。このカードがアタックした時、クライマックス置場に「生まれて初めての感情」があり、あなたのストックが5枚以上なら、あなたはコストを払ってよい。そうしたら、このカードをスタンドする。
+Flavor Text:
+キミに、ご褒美をあげないとな
+
+==========================
+
+“チュラカーギー”黒雪姫
+AW/S18-003S SR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Student Council 生徒会,_Net ネット
+Card Text/Abilities:
+【C】If you have 1 or less other Character, this card gets +1500 Power.
+【A】When this card attacks, choose 1 of your other Character with Level 2 or higher, during this turn, it gets +1000 Power.
+【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1500。
+【自】 このカードがアタックした時、あなたは他の自分のレベル2以上のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+
+==========================
+
+“チュラカーギー”黒雪姫
+AW/S18-003 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Student Council 生徒会,_Net ネット
+Card Text/Abilities:
+【C】If you have 1 or less other Character, this card gets +1500 Power.
+【A】When this card attacks, choose 1 of your other Character with Level 2 or higher, during this turn, it gets +1000 Power.
+【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1500。
+【自】 このカードがアタックした時、あなたは他の自分のレベル2以上のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+昨日買ってみたんだ。
+サンプルと色が少し違うみたいだな
+
+==========================
+
+親密な関係 黒雪姫
+AW/S18-004S SR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Student Council 生徒会,_Net ネット
+Card Text/Abilities:
+【A】 BOND／「いじめられっ子 ハルユキ」［①］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「いじめられっ子 ハルユキ」 from your Waiting Room, return to Hand)
+【S】［Place the top card of your Deck into Clock, place 1 「いじめられっ子 ハルユキ」 on your Stage into Waiting Room］Choose up to 1 「強敵へ挑むシルバー・クロウ」 from your Waiting Room, place it into any slot on Stage.
+【自】 絆／「いじめられっ子 ハルユキ」 ［①］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「いじめられっ子 ハルユキ」を1枚選び、手札に戻す）
+【起】［あなたの山札の上から1枚をクロック置場に置き、自分の舞台の「いじめられっ子 ハルユキ」を1枚控え室に置く］ あなたは自分の手札の「強敵へ挑むシルバー・クロウ」を1枚まで選び、舞台の好きな枠に置く。
+Flavor Text:
+
+==========================
+
+親密な関係 黒雪姫
+AW/S18-004 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Student Council 生徒会,_Net ネット
+Card Text/Abilities:
+【A】 BOND／「いじめられっ子 ハルユキ」［①］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「いじめられっ子 ハルユキ」 from your Waiting Room, return to Hand)
+【S】［Place the top card of your Deck into Clock, place 1 「いじめられっ子 ハルユキ」 on your Stage into Waiting Room］Choose up to 1 「強敵へ挑むシルバー・クロウ」 from your Waiting Room, place it into any slot on Stage.
+【自】 絆／「いじめられっ子 ハルユキ」 ［①］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「いじめられっ子 ハルユキ」を1枚選び、手札に戻す）
+【起】［あなたの山札の上から1枚をクロック置場に置き、自分の舞台の「いじめられっ子 ハルユキ」を1枚控え室に置く］ あなたは自分の手札の「強敵へ挑むシルバー・クロウ」を1枚まで選び、舞台の好きな枠に置く。
+Flavor Text:
+その話は直結通話でしよう
+
+==========================
+
+追い求める果て 黒雪姫
+AW/S18-005S SR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Student Council 生徒会,_Avatar アバター
+Card Text/Abilities:
+【C】When this card is in the Center slot of your Front Row, this card gets +1000 Power.
+【S】［REST 2 of your Characters］Choose 1 of your Characters, during this turn, it gets +2000 Power, gains the following ability.『【A】When this card's battle opponent becomes REVERSE, place that Character into Stock.』
+【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋1000。
+【起】［あなたのキャラを2枚レストする］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000し、次の能力を与える。『【自】 このカードのバトル相手がリバースした時、あなたはそのキャラをストック置場に置く。』
+Flavor Text:
+時が来たようだ……、
+私も、安穏とした繭から出て、再び空を目指す時が
+
+==========================
+
+追い求める果て 黒雪姫
+AW/S18-005 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Student Council 生徒会,_Avatar アバター
+Card Text/Abilities:
+【C】When this card is in the Center slot of your Front Row, this card gets +1000 Power.
+【S】［REST 2 of your Characters］Choose 1 of your Characters, during this turn, it gets +2000 Power, gains the following ability.『【A】When this card's battle opponent becomes REVERSE, place that Character into Stock.』
+【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋1000。
+【起】［あなたのキャラを2枚レストする］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000し、次の能力を与える。『【自】 このカードのバトル相手がリバースした時、あなたはそのキャラをストック置場に置く。』
+Flavor Text:
+時が来たようだ……、
+私も、安穏とした繭から出て、再び空を目指す時が
+
+==========================
+
+恋する乙女 黒雪姫
+AW/S18-006R RRR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Student Council 生徒会,_Avatar アバター
+Card Text/Abilities:
+【C】All your other 《アバター》 or 《生徒会》 Characters get +500 Power.
+【A】When a Climax appears during your Character's Trigger Check, choose 1 of your Characters, during this turn, it gets +2000 Power.
+【永】 他のあなたの、《アバター》か《生徒会》のキャラすべてに、パワーを＋500。
+【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+
+==========================
+
+恋する乙女 黒雪姫
+AW/S18-006 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Student Council 生徒会,_Avatar アバター
+Card Text/Abilities:
+【C】All your other 《アバター》 or 《生徒会》 Characters get +500 Power.
+【A】When a Climax appears during your Character's Trigger Check, choose 1 of your Characters, during this turn, it gets +2000 Power.
+【永】 他のあなたの、《アバター》か《生徒会》のキャラすべてに、パワーを＋500。
+【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+たった一週間がこれほど長く感じるのは初めてだ
+
+==========================
+
+強敵へ挑むシルバー・クロウ
+AW/S18-007 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Avatar アバター,
+Card Text/Abilities:
+【A】ACCELERATE［Place the top card of your Deck into Clock］At the beginning of your Climax Phase, you may pay the cost. If you did, during this turn, this card gets +2500 Power, +1 Soul.
+【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2500し、ソウルを＋1。
+Flavor Text:
+う……おおッ！
+
+==========================
+
+純粋な独占欲 黒雪姫
+AW/S18-008S SR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Student Council 生徒会,_Avatar アバター
+Card Text/Abilities:
+【A】［Return 2 Characters from your Waiting Room into Deck. Shuffle your Deck afterwards］When this card attacks, you may pay the cost. If you did, during this turn, this card gets +1 Soul.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】［あなたの控え室のキャラを2枚山札に戻す。その山札をシャッフルする］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのソウルを＋1。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く）
+Flavor Text:
+君は私のものだ……
+
+==========================
+
+純粋な独占欲 黒雪姫
+AW/S18-008 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Student Council 生徒会,_Avatar アバター
+Card Text/Abilities:
+【A】［Return 2 Characters from your Waiting Room into Deck. Shuffle your Deck afterwards］When this card attacks, you may pay the cost. If you did, during this turn, this card gets +1 Soul.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】［あなたの控え室のキャラを2枚山札に戻す。その山札をシャッフルする］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのソウルを＋1。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く）
+Flavor Text:
+君は私のものだ……
+
+==========================
+
+ブラック・ロータス
+AW/S18-009R RRR
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand or through 『CHANGE』, draw up to 2 cards, choose 1 card from your Hand, place it into Waiting Room.
+【A】ACCELERATE［Place the top card of your Deck into Clock］At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 of your opponent's Characters with Level 3 or lower, return it to Hand.
+【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。
+【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル3以下のキャラを1枚選び、手札に戻す。
+Flavor Text:
+ひたすらに強さと速さだけを渇望し、数え切れぬほどの
+敵を切り倒し、挙げ句は友の血にまでこの両手を染めた
+
+==========================
+
+ブラック・ロータス
+AW/S18-009 R
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand or through 『CHANGE』, draw up to 2 cards, choose 1 card from your Hand, place it into Waiting Room.
+【A】ACCELERATE［Place the top card of your Deck into Clock］At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 of your opponent's Characters with Level 3 or lower, return it to Hand.
+【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。
+【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル3以下のキャラを1枚選び、手札に戻す。
+Flavor Text:
+ひたすらに強さと速さだけを渇望し、数え切れぬほどの
+敵を切り倒し、挙げ句は友の血にまでこの両手を染めた
+
+==========================
+
+辻デュエルに臨むブラック・ロータス
+AW/S18-010 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】［① Place 1 card from Hand into Waiting Room］When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《アバター》 or 《ネット》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【自】［① 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《アバター》か《ネット》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+……だが、面白い
+
+==========================
+
+新米バーストリンカー シルバー・クロウ
+AW/S18-011 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Avatar アバター,
+Card Text/Abilities:
+【A】When this card attacks, all your Characters, during this turn, get +500 Power.
+【自】 このカードがアタックした時、あなたのキャラすべてに、そのターン中、パワーを＋500。
+Flavor Text:
+大馬鹿野郎だ、僕は！
+
+==========================
+
+《黒の王》ブラック・ロータス
+AW/S18-012 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】When 「宣告・貫通による死」 is placed into your Climax slot, if this card is in the Front Row, search your Deck for up to 1 「本当の強さ 黒雪姫」, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【自】 あなたのクライマックス置場に「宣告・貫通による死」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見て「本当の強さ 黒雪姫」を1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+我が名は《ブラック・ロータス》!! 僭王の支配に抗う者だ!!
+
+==========================
+
+黄昏時の約束 黒雪姫
+AW/S18-013 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Student Council 生徒会,_Avatar アバター
+Card Text/Abilities:
+【C】During your turn, this card gets +1000 Power.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【永】 あなたのターン中、このカードのパワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く）
+Flavor Text:
+キミの志はありがたく受け取ろう
+
+==========================
+
+本当の強さ 黒雪姫
+AW/S18-014 U
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Student Council 生徒会,_Net ネット
+Card Text/Abilities:
+【A】 CHANGE［② Place this card into Waiting Room］At the beginning of your Encore Step, if this card is in REST, you may pay the cost. If you did, choose 1 「黒雪姫」 or 「ブラック・ロータス」 from your Waiting Room, place it on this card's previous position.
+【S】［REST this card］Choose 1 of your Characters, during this turn, it gets +1500 Power.
+【自】 チェンジ ［② このカードを控え室に置く］ あなたのアンコールステップの始めに、このカードがレストしているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、「黒雪姫」か「ブラック・ロータス」を1枚選び、このカードがいた枠に置く。
+【起】［このカードをレストする］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+……強さというのは、
+決して結果としての勝利だけを意味する言葉ではないよ
+
+==========================
+
+人類未踏の高みへ ハルユキ
+AW/S18-015 U
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Net ネット,
+Card Text/Abilities:
+【A】［①］When this card attacks, if 「空を願う心」 is in the Climax Slot, you may pay the cost. If you did, all your Characters, during this turn gets +2000 Power, your opponent cannot use 『【A】ENCORE』. (Rule-based 『【A】ENCORE［③］』 cannot be used as well)
+【自】［①］このカードがアタックした時、クライマックス置場に「空を願う心」があるなら、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋2000し、相手は『【自】 アンコール 』を使えない。 (ルールによる『【自】 アンコール ［③］』も使えない)
+Flavor Text:
+もし《ブレイン・バースト》にエンディングが存在するのなら、
+僕らはそれを目指すべきだ
+
+==========================
+
+翼を求めた少年 ハルユキ
+AW/S18-016 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Net ネット,
+Card Text/Abilities:
+【A】 When this card attacks, all your other Characters with the name 「黒雪姫」, during this turn gets +500 Power.
+【A】 BOND／「黄昏時の約束 黒雪姫」［Place the top card of your Deck into Clock］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「黄昏時の約束 黒雪姫」 from your Waiting Room, return to Hand)
+【自】 このカードがアタックした時、他のあなたのカード名に「黒雪姫」を含むキャラすべてに、そのターン中、パワーを＋500。
+【自】 絆／「黄昏時の約束 黒雪姫」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「黄昏時の約束 黒雪姫」を1枚選び、手札に戻す）
+Flavor Text:
+僕も連れて行ってよ！ そこに行きたいんだ！
+もっと高く。もっと遠く！
+
+==========================
+
+ピンクのブタ ハルユキ
+AW/S18-017 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Avatar アバター,_Animal 動物
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card, gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+それで、どうするんですか？
+
+==========================
+
+王の帰還 ブラック・ロータス
+AW/S18-018 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【C】 During your turn, this card gets +1000 Power.
+【永】 あなたのターン中、このカードのパワーを＋1000。
+Flavor Text:
+《ブラック・ロータス》!! 黒の王だ!!
+健在だったんだ――ッ!!
+
+==========================
+
+学園のマドンナ 黒雪姫
+AW/S18-019 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Student Council 生徒会,_Net ネット
+Card Text/Abilities:
+Flavor Text:
+わざわざ足労願ってすまなかったな、有田春雪君
+
+==========================
+
+いじめられっ子 ハルユキ
+AW/S18-020 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Net ネット,_Game ゲーム
+Card Text/Abilities:
+Flavor Text:
+泣くな！笑うな！
+今の僕には……守るべきものがある
+
+==========================
+
+おっちょこちょいなハルユキ
+AW/S18-021 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Avatar アバター,_Animal 動物
+Card Text/Abilities:
+【S】● ASSIST 2000 LEVEL 1 ［① Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +2000 Power)
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）
+Flavor Text:
+うわっ！
+
+==========================
+
+銀色の翼 シルバー・クロウ
+AW/S18-022 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Avatar アバター,
+Card Text/Abilities:
+【A】 When this card attacks, if 「〈黒の王〉の騎士」 is in the Climax Slot, during this turn, this card gets +3000 Power.
+【自】 このカードがアタックした時、クライマックス置場に「《黒の王》の騎士」があるなら、そのターン中、このカードのパワーを+3000。
+Flavor Text:
+飛びたい――彼方まで……！
+
+==========================
+
+ポニーテールの黒雪姫
+AW/S18-023 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Student Council 生徒会,_Net ネット
+Card Text/Abilities:
+【A】When this card's battle opponent becomes REVERSE, choose 1 of your 《アバター》 or 《ネット》 Characters, during this turn, it gets +2000 Power.
+【自】 このカードのバトル相手がリバースした時、あなたは自分の、《アバター》か《ネット》のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+確か昨日、好きな髪形を聞いたはずだったが
+
+==========================
+
+立ちはだかる壁 ハルユキ
+AW/S18-024 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Avatar アバター,_Animal 動物
+Card Text/Abilities:
+Flavor Text:
+オレ以外の誰かがこんなとんでもないスコアを!?
+
+==========================
+
+裏切り
+AW/S18-025 U
+Type: Event
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+If you have 2 or less Yellow Characters, you cannot place this card from Hand.
+Choose 1 of your opponent's Characters with Level 1 or lower, place it into Stock.
+このカードは、あなたの黄のキャラが2枚以下なら、手札からプレイできない。
+あなたは相手のレベル1以下のキャラを1枚選び、ストック置場に置く。
+Flavor Text:
+私は……目の前で友情を説き
+不戦を訴える赤の王の意表をつき、首を落とした
+
+==========================
+
+ゲイルスラスター
+AW/S18-026 U
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+● Choose 1 of your 《アバター》 or 《ネット》 Characters, during this turn, it gets +3000 Power.
+● あなたは自分の、《アバター》か《ネット》のキャラを1枚選び、そのターン中、パワーを＋3000。
+Flavor Text:
+――着装！ 《ゲイルスラスター》！！
+
+==========================
+
+空を願う心
+AW/S18-027 CR
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+……心意は欲望じゃない。《願い》だ！！
+
+==========================
+
+生まれて初めての感情
+AW/S18-028 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】 When this card is placed into the Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+いつか……きっとまた会えるさ
+
+==========================
+
+宣告・貫通による死
+AW/S18-029 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1W
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return to Hand)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（戻：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）
+Flavor Text:
+デス・バイ・ピアーシング!!
+
+==========================
+
+《黒の王》の騎士
+AW/S18-030 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1F
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Flame：When this card is Triggered, if your current attacking Character's damage is cancelled, deal 1 damage to the opponent.)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（射：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）
+Flavor Text:
+デス・バイ・ピアーシング!!
+
+==========================
+
+クッションの海 チユリ
+AW/S18-031R RRR
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Avatar アバター,_Animal 動物
+Card Text/Abilities:
+【C】All your other Characters get +500 Power.
+【A】［① REST 2 of your STAND Characters］When you use 『ACCELERATE』, you may pay the cost. If you did, place the top card of your Clock into Waiting Room.
+【永】 他のあなたのキャラすべてに、パワーを＋500。
+【自】［① あなたのスタンドしているキャラを2枚レストする］ あなたが『加速』を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。
+Flavor Text:
+
+==========================
+
+クッションの海 チユリ
+AW/S18-031 RR
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Avatar アバター,_Animal 動物
+Card Text/Abilities:
+【C】All your other Characters get +500 Power.
+【A】［① REST 2 of your STAND Characters］When you use 『ACCELERATE』, you may pay the cost. If you did, place the top card of your Clock into Waiting Room.
+【永】 他のあなたのキャラすべてに、パワーを＋500。
+【自】［① あなたのスタンドしているキャラを2枚レストする］ あなたが『加速』を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。
+Flavor Text:
+あんた、まだそのアバター使ってんのね。
+変えればいいのに
+
+==========================
+
+《治癒師》ライム・ベル
+AW/S18-032 RR
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Avatar アバター,_Time 時間
+Card Text/Abilities:
+【A】［①］When this card attacks, if 「シトロン・コール」 is in the Climax slot, you may pay the cost. If you did, all your 《アバター》 or 《ネット》Characters in REVERSE, REST them.
+【A】 ACCELERATE［Place the top card of your Deck into Clock］At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 「クワイアー・チャイム」 from your Waiting Room, return it to Hand.
+【自】［①］ このカードがアタックした時、クライマックス置場に「シトロン・コール」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のリバースしている、《アバター》か《ネット》のキャラすべてを、レストする。
+【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「クワイアー・チャイム」を1枚選び、手札に戻す。
+Flavor Text:
+そーーーれ！
+
+==========================
+
+屈託ないお喋り チユリ
+AW/S18-033S SR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Sports スポーツ,_Net ネット
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【A】 ACCELERATE［Place the top card of your Deck into Clock］At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 of your Characters, during this turn, it gets +1500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+
+==========================
+
+屈託ないお喋り チユリ
+AW/S18-033 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Sports スポーツ,_Net ネット
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【A】 ACCELERATE［Place the top card of your Deck into Clock］At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 of your Characters, during this turn, it gets +1500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+おっ、タッ君、ハカセキャラデビュー？
+
+==========================
+
+謝罪のアイス チユリ
+AW/S18-034 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Sports スポーツ,_Net ネット
+Card Text/Abilities:
+【A】When this card attacks, choose 1 of your other Characters, during this turn, it gets +1 Level, +1000 Power.
+【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。
+Flavor Text:
+買ってきた？
+
+==========================
+
+楽観的なライム・ベル
+AW/S18-035 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Avatar アバター,_Time 時間
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, during this turn, this card gets +X Power. X is equals the the number of your 《アバター》 Characters ×500.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《アバター》のキャラの枚数×500に等しい。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+要はバンバン対戦に勝ってズンズンポイント稼いで、
+レベル10になればクリアなんでしょ？
+
+==========================
+
+友達想いなチユリ
+AW/S18-036 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Sports スポーツ,_Net ネット
+Card Text/Abilities:
+【C】If this card is in the Center slot of your Front Row, this card gets +1000 Power.
+【A】When this card attacks, if 「チユリの涙」 is in the Climax slot, choose 1 of your other Characters, until the end of your opponent's next turn, it gets +3000 Power.
+【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋1000。
+【自】 このカードがアタックした時、クライマックス置場に「チユリの涙」があるなら、 あなたは他の自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋3000。
+Flavor Text:
+戻れるよね。あの頃に。みんなで遊んだあの頃に……
+
+==========================
+
+倉嶋 千百合
+AW/S18-037 R
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 1
+Traits:: Sports スポーツ,_Net ネット
+Card Text/Abilities:
+【C】If you have 2 or more other 《アバター》 or 《ネット》 Characters, this card gets +1500 Power.
+【A】When this card is being Front Attacked, look at the top card of your Deck, you may place it at the top of the Deck or into Waiting Room.
+【永】 他のあなたの、《アバター》か《ネット》のキャラが2枚以上なら、このカードのパワーを＋1500。
+【自】 このカードがフロントアタックされた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。
+Flavor Text:
+ほら、いくわよ
+
+==========================
+
+倉嶋 千百合
+AW/S18-037 SP
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 1
+Traits:: Sports スポーツ,_Net ネット
+Card Text/Abilities:
+【C】If you have 2 or more other 《アバター》 or 《ネット》 Characters, this card gets +1500 Power.
+【A】When this card is being Front Attacked, look at the top card of your Deck, you may place it at the top of the Deck or into Waiting Room.
+【永】 他のあなたの、《アバター》か《ネット》のキャラが2枚以上なら、このカードのパワーを＋1500。
+【自】 このカードがフロントアタックされた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。
+Flavor Text:
+ほら、いくわよ
+
+==========================
+
+ライム・ベル
+AW/S18-038 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Avatar アバター,_Time 時間
+Card Text/Abilities:
+【C】All your other 《アバター》 Characters get +500 Power.
+【永】 他のあなたの《アバター》のキャラすべてに、パワーを＋500。
+Flavor Text:
+へ～、ほ～、なるほどね～
+
+==========================
+
+能美 征二
+AW/S18-039 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Sports スポーツ,_Net ネット
+Card Text/Abilities:
+【S】［REST 2 of your 《アバター》 or 《ネット》 Characters］Choose 1 of your opponent's Front Row Characters, during this turn, it gets -1000 Power.
+【起】［あなたの、《アバター》か《ネット》のキャラを2枚【レスト】する］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。
+Flavor Text:
+ゲームオーバーです、有田先輩…、いえ、《シルバー・クロウ》
+
+==========================
+
+アッシュ・ローラー
+AW/S18-040 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Avatar アバター,_Bike バイク
+Card Text/Abilities:
+【C】If your Stock is 3 or less, this card gets +1000 Power.
+【永】 あなたのストックが3枚以下なら、このカードのパワーを＋1000。
+Flavor Text:
+ヒャーハハハハァ！　もっと踊れぇ――――ッ!!
+
+==========================
+
+ダスク・テイカー
+AW/S18-041 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】［①］When 「魔王徴発令」 is placed into your Climax slot, if this card is in the Front Row, you may pay the cost. If you did, choose 1 of your opponent's Front Row Character, during this turn, it gets -2000 Power, this card gets +2500 Power.
+【自】［①］ あなたのクライマックス置場に「魔王徴発令」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－2000し、このカードのパワーを＋2500。
+Flavor Text:
+今日のところはポイントをいただく前に……
+もうひとつ預かっておこうと思うんですよ
+
+==========================
+
+もうひとつ預かっておこうと思うんですよ
+AW/S18-042 U
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Avatar アバター,_Time 時間
+Card Text/Abilities:
+【C】All your other Characters gain the following ability.『【C】This card cannot Side Attack.』
+【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』
+Flavor Text:
+……ごめんね、タッくん……ごめんね、ハル……
+
+==========================
+
+幼き日のチユリ
+AW/S18-043 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Sports スポーツ,_Net ネット
+Card Text/Abilities:
+【A】 BOND／「人跡未踏の高みへ ハルユキ」［①］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「人跡未踏の高みへ ハルユキ」 from your Waiting Room, return to Hand)
+【自】 絆／「人跡未踏の高みへ ハルユキ」 ［①］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「人跡未踏の高みへ ハルユキ」を1枚選び、手札に戻す）
+Flavor Text:
+
+==========================
+
+訝しげな眼差し チユリ
+AW/S18-044 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Sports スポーツ,_Net ネット
+Card Text/Abilities:
+【S】［① Place this card into Waiting Room］Your opponent returns all cards in his/her Waiting Room into the Deck. Shuffle that Deck afterwards.
+【起】［① このカードを控え室に置く］ 相手は自分の控え室のカードすべてを、山札に戻す。その山札をシャッフルする。
+Flavor Text:
+……
+
+==========================
+
+銀色の猫 チユリ
+AW/S18-045 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Avatar アバター,_Animal 動物
+Card Text/Abilities:
+Flavor Text:
+あ～そう。そういう態度取るんだ
+
+==========================
+
+明るくて元気 チユリ
+AW/S18-046 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Sports スポーツ,_Net ネット
+Card Text/Abilities:
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く）
+Flavor Text:
+ハル、おーっす
+
+==========================
+
+侠気の髑髏マスク アッシュ・ローラー
+AW/S18-047 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Avatar アバター,_Bike バイク
+Card Text/Abilities:
+【A】When this card is placed on Stage from hand, during this turn, this card gets +1500 Power.
+【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。
+Flavor Text:
+オレ様のＶツインサウンドで踊らせてやんよ!!
+
+==========================
+
+太陽の笑顔 チユリ
+AW/S18-048 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Sports スポーツ,_Net ネット
+Card Text/Abilities:
+　
+Flavor Text:
+やったーーー！
+
+==========================
+
+愛らしい魅力 チユリ
+AW/S18-049 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Avatar アバター,_Animal 動物
+Card Text/Abilities:
+【S】● ASSIST 3000 LEVEL 2 [① Place this card to Waiting Room from Hand] (Choose 1 of your Characters that is being Front Attacked, during this turn it gets +3000 Power)
+【起】● 助太刀3000 レベル2 ［① 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）
+Flavor Text:
+分かればよろしい。いいから、じっとして
+
+==========================
+
+良きライバル アッシュ・ローラー
+AW/S18-050 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Avatar アバター,_Bike バイク
+Card Text/Abilities:
+【C】If your Stock is 5 or more, this card gets +1000 Power.
+【永】 あなたのストックが5枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+オマケに相手がピッカピカのニュービー。
+メガラッァァァァッキィィッ！
+
+==========================
+
+パイロディーラー
+AW/S18-051 U
+Type: Event
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your Characters, during this turn, it gets +3000 Power, gains the following ability.『【A】When this card's battle opponent becomes REVERSE, you may place the top card of your Deck into Stock.』At the end of turn, place that Character into Waiting Room.
+あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』ターンの終わりに、そのキャラを控え室に置く。
+Flavor Text:
+まさしく永久機関……はっきり言って無敵ですよボク
+
+==========================
+
+クワイアー・チャイム
+AW/S18-052 U
+Type: Event
+Level: 1
+Color: Green
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+● Choose 1 of your STAND Characters with 「チユリ」 or 「ライム･ベル」 in its name, REST it. If you did, choose up to 2 of your Characters, during this turn, they gain the following ability.『【A】When this card is placed into Waiting Room from Stage, you may place this card into its previous slot in REST.』
+● あなたは自分の【スタンド】しているカード名に「チユリ」か「ライム･ベル」を含むキャラを1枚選び【レスト】する。そうしたら、あなたは自分のキャラを2枚まで選び、そのターン中、次の能力を与える。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』
+Flavor Text:
+パイル「やっぱりだ……。《ライム・ベル》は、《ヒーラー》だ」
+
+==========================
+
+チユリの涙
+AW/S18-053 CR
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+もう、やめてーーーーーっ！
+
+==========================
+
+シトロン・コール
+AW/S18-054 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: G
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】 All your Characters get +1000 Power, +1 Soul.
+(Gold： When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（宝このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）
+Flavor Text:
+シトロン・コール！
+
+==========================
+
+魔王徴発令
+AW/S18-055 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+言ったでしょう？ 先輩の大切なものを預かるって
+
+==========================
+
+料理が得意 ニコ
+AW/S18-056S SR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Net ネット,
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +X Power. X is equals to that Character's Level ×500.
+【A】［①］When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 of your Characters, during this turn, it gains the following ability.『【A】When this card's battle opponent becomes REVERSE, choose 1 card from your opponent's Waiting Room, you may place it to the top of the Deck.』
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。
+【自】［①］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手がリバースした時、あなたは相手の控え室のカードを1枚選び、山札の上に置いてよい。』
+Flavor Text:
+
+==========================
+
+料理が得意 ニコ
+AW/S18-056 RR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Net ネット,
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +X Power. X is equals to that Character's Level ×500.
+【A】［①］When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 of your Characters, during this turn, it gains the following ability.『【A】When this card's battle opponent becomes REVERSE, choose 1 card from your opponent's Waiting Room, you may place it to the top of the Deck.』
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。
+【自】［①］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手がリバースした時、あなたは相手の控え室のカードを1枚選び、山札の上に置いてよい。』
+Flavor Text:
+違ぇーよ！ なんでカップ麺かって話だよ！
+てめえ、あたしの料理の腕をなめてんのか？
+
+==========================
+
+上月 由仁子
+AW/S18-057SP SP
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Net ネット,
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.
+【A】［③］When this card attacks, you may pay the cost. If you did, deal 1 Damage to your opponent. (Damage can be cancelled)
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】［③］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）
+Flavor Text:
+
+==========================
+
+上月 由仁子
+AW/S18-057 RR
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Net ネット,
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.
+【A】［③］When this card attacks, you may pay the cost. If you did, deal 1 Damage to your opponent. (Damage can be cancelled)
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】［③］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）
+Flavor Text:
+うん、苺10コ分なら聞くよ？
+
+==========================
+
+激情のスカーレット・レイン
+AW/S18-058 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】When another of your Characters become REVERSE in battle, choose 1 of your Characters, during this turn, it gets +1000 Power.
+【S】［① REST this card］Choose 1 of your 《アバター》 or 《ネット》 Characters, during this turn, it gets +500 Power, gains the following ability.『【A】When this card's battle opponent becomes REVERSE, you may choose 1 Character from your Waiting Room, return it to Hand. If you did, choose 1 card from your Hand, place it into Waiting Room.
+【自】 他のあなたのバトル中のキャラがリバースした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+【起】［① このカードをレストする］ あなたは自分の、《アバター》か《ネット》のキャラを1枚選び、そのターン中、パワーを＋500し、次の能力を与える。『【自】 このカードのバトル相手がリバースした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。』
+Flavor Text:
+……そうかてめぇか！
+てめぇが全部仕組んだのか――《イエロー・レディオ》！
+
+==========================
+
+可愛いハトコ！？ ニコ
+AW/S18-059R RRR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Net ネット,
+Card Text/Abilities:
+【A】This ability can only be activated 1 time each turn. When you use 【S】, choose 1 of your Characters, during this turn, it gets +500 Power.
+【A】When this card becomes REVERSE, if this card's battle opponent's Level is 0 or lower, you may REVERSE that Character.
+【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。
+【自】 このカードがリバースした時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをリバースしてよい。
+Flavor Text:
+お兄ちゃんの中学のこととが、教えてほしいな…
+
+==========================
+
+可愛いハトコ！？ ニコ
+AW/S18-059 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Net ネット,
+Card Text/Abilities:
+【A】This ability can only be activated 1 time each turn. When you use 【S】, choose 1 of your Characters, during this turn, it gets +500 Power.
+【A】When this card becomes REVERSE, if this card's battle opponent's Level is 0 or lower, you may REVERSE that Character.
+【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。
+【自】 このカードがリバースした時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをリバースしてよい。
+Flavor Text:
+本当ですか、よかった！
+
+==========================
+
+レイン＆レパード
+AW/S18-060 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】［①］When this card attacks, you may pay the cost. If you did, place the top 2 cards of your Deck into Waiting Room. If all of those cards are 《アバター》 or 《ネット》 Characters, choose 1 Character from your Waiting Room, return it to Hand.
+【自】［①］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードすべてが《アバター》か《ネット》のキャラなら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+
+==========================
+
+《不動要塞》スカーレット・レイン
+AW/S18-061 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【C】 Your other Character in the Center slot of the Front Row gets +1500 Power.
+【S】［REST 2 of your Characters］Choose 1 of your Characters, during this turn, it gets +1000 Power.
+【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋1500。
+【起】［あなたのキャラを2枚レストする］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+なめやがって、ぶっつぶしてやる！
+
+==========================
+
+《赤の王》スカーレット・レイン
+AW/S18-062 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【C】 If this card is in the Center slot of the Front Row, this card gets +1000 Power.
+【A】［① Place the top card of your Deck into Clock］When this card attacks, if 「ヘイルストーム・ドミネーション」 is in the Climax slot, you may pay the cost. If you did, choose 1 of your opponent's Characters with Level 3 or lower, place it into Waiting Room.
+【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋1000。
+【自】［① あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、クライマックス置場に「ヘイルストーム・ドミネーション」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル3以下のキャラを1枚選び、控え室に置く。
+Flavor Text:
+来いっ、強化外装ーーーっ！！
+
+==========================
+
+お泊りニコ
+AW/S18-063 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Net ネット,
+Card Text/Abilities:
+【A】 CHANGE［② Place this card into Waiting Room］At the beginning of your Encore Step, if this card is in REST, you may pay the cost. If you did, choose 1 「不動要塞》スカーレット・レイン">《不動要塞》スカーレット・レイン」 from your Waiting Room, place it on this card's previous position.
+【S】［REST this card］Choose 1 of your Characters, during this turn, it gets +1000 Power.
+【自】 チェンジ ［② このカードを控え室に置く］ あなたのアンコールステップの始めに、このカードがレストしているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「《不動要塞》スカーレット・レイン」を1枚選び、このカードがいた枠に置く。
+【起】［このカードをレストする］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+いちいち帰ってられるかよ、めんどくせー
+
+==========================
+
+お風呂でドキドキ ニコ
+AW/S18-064 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Net ネット,
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, place the top 2 cards of your Deck into Waiting Room. If any of those cards is a Climax, REST this card.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、このカードをレストする。
+Flavor Text:
+だ…だからって、あんまり見ないでください―
+
+==========================
+
+天使モード ニコ
+AW/S18-065 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Net ネット,
+Card Text/Abilities:
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【A】 ACCELERATE［Place the top card of your Deck into Clock］At the beginning of your Climax Phase, you may pay the cost. If you did, during this turn, this card gets +1500 Power, gains the following ability.『【A】When this card's battle opponent becomes REVERSE, you may place that Character to the top of the Deck.』
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く）
+【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 このカードのバトル相手がリバースした時、あなたはそのキャラを山札の上に置いてよい。』
+Flavor Text:
+にゃ、にゃにすうんでふかあ～！？
+
+==========================
+
+心の闇 シルバー・クロウ
+AW/S18-066 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Avatar アバター,
+Card Text/Abilities:
+【A】When this card attacks, if 「黒い波動」 is in the Climax slot, during this turn, this card gets +5500 Power, at the beginning of your Encore Step, place this card into Waiting Room.
+【自】 このカードがアタックした時、クライマックス置場に「黒い波動」があるなら、そのターン中、このカードのパワーを＋5500し、アンコールステップの始めに、このカードを控え室に置く。
+Flavor Text:
+ナラバ、壊セ。壊シテ喰ラエ
+
+==========================
+
+史上最強の名前を持つ男 クリキン
+AW/S18-067 U
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Avatar アバター,_Mecha メカ
+Card Text/Abilities:
+【A】 When another of your 《アバター》 or 《ネット》 attacks, during this turn, this card gets +1000 Power.
+【自】 他のあなたの、《アバター》か《ネット》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+ビルドアップ!! スーパー・キングボルト!!
+
+==========================
+
+クリムゾン・キングボルト
+AW/S18-068 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Avatar アバター,_Mecha メカ
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+いーさいーさ。どーせ俺様ちゃんはタダのネジなのさ！
+
+==========================
+
+練馬のメイドさん パド
+AW/S18-069 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Net ネット,_Maid メイド
+Card Text/Abilities:
+【A】 BOND／「料理が得意 ニコ」［①］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「料理が得意 ニコ」 from your Waiting Room, return to Hand)
+【自】 絆／「料理が得意 ニコ」 ［①］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「料理が得意 ニコ」を1枚選び、手札に戻す）
+Flavor Text:
+以上。Ｋ？
+
+==========================
+
+若宮 恵
+AW/S18-070 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Student Council 生徒会,_Net ネット
+Card Text/Abilities:
+【A】［②］When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, choose 1 Character from your Waiting Room, return it to Hand.
+【自】［②］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+姫、そろそろ教えてくれないかしら？
+私たちはもう好奇心で死んでしまいそうだわ
+
+==========================
+
+《鮮血の暴風雨》スカーレット・レイン
+AW/S18-071 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+あたしの勝ちね、お兄ちゃん
+
+==========================
+
+親友の暴走 スカーレット・レイン
+AW/S18-072 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】［①］When this card attacks, if 「断罪の一撃」 is in the Climax slot, you may pay the cost. If you did, choose 1 Character from your Waiting Room, return it to Hand.
+【自】［①］ このカードがアタックした時、クライマックス置場に「断罪の一撃」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+んな事より、とっとと移動しようぜ
+
+==========================
+
+五代目 クロム・ディザスター
+AW/S18-073 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Avatar アバター,
+Card Text/Abilities:
+Flavor Text:
+――喰ワレロ。喰ワレテ、肉ニナレ
+
+==========================
+
+《プロミネンス》のトップ ニコ＆パド
+AW/S18-074 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Net ネット,_Maid メイド
+Card Text/Abilities:
+【S】● ASSIST 3000 Level 2［① Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)
+【起】● 助太刀3000 レベル2 ［① 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）
+Flavor Text:
+
+==========================
+
+生意気盛り ニコ
+AW/S18-075 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Net ネット,
+Card Text/Abilities:
+【A】［Place another of your Characters from Stage into Waiting Room］When this card attacks, you may pay the cost. If you did, during this turn, this card gets +2500 Power.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】［他のあなたの舞台のキャラを1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2500。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+別に憎んじゃいねーよ。むしろ感謝してるくらい？
+
+==========================
+
+インビンシブル
+AW/S18-076 U
+Type: Event
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose up to 2 of your Characters, during this turn, it gains the following ability.『【A】［①］When this card's battle opponent becomes REVERSE, you may pay the cost. If you did, choose 1 Character from your Waiting Room, return it to Hand.』
+あなたは自分のキャラを2枚まで選び、そのターン中、次の能力を与える。『【自】［①］ このカードのバトル相手がリバースした時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。』
+Flavor Text:
+…ふうん、逃げないの？　
+いーい根性してるじゃない
+
+==========================
+
+災禍の鎧
+AW/S18-077 U
+Type: Event
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Place this card into Memory.
+【C】 RECOLLECTION If this card is in the Memory slot, the 《アバター》 Character in the Center slot of your Front Row gets +1500 Power, gains the following ability.『【A】When this card becomes REVERSE in battle, place this card into Clock.』
+このカードを思い出にする。
+【永】 記憶 思い出置場にこのカードがあるなら、あなたの前列の中央の枠の《アバター》のキャラに、パワーを＋1500し、次の能力を与える。『【自】 バトル中のこのカードが【リバース】した時、このカードをクロック置場に置く。』
+Flavor Text:
+黒雪姫「取り憑かれた者が討伐されても、
+《災禍の鎧》だけは消えず、また別のバーストリンカーへ
+取り憑いては人格を変貌させる」
+
+==========================
+
+ヘイルストーム・ドミネーション
+AW/S18-078 CR
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+てめえらの相手が《赤の王》だってこと……
+たっぷり思い知らせてやるぜ！
+
+==========================
+
+黒い波動
+AW/S18-079 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, place the top card of your Deck into Stock, during this turn, all your Characters get +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+消えろ！ 消えろ能美！
+オレの前から、いなくなれええええ！
+
+==========================
+
+断罪の一撃
+AW/S18-080 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When this card is Triggered, choose 1 Character from your Waiting Room, return it to Hand)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（拾：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）
+Flavor Text:
+
+==========================
+
+隠棲中のスカイ・レイカー
+AW/S18-081 RR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Avatar アバター,
+Card Text/Abilities:
+【C】 Your other Front Row Center slot Character gets +500 Power.
+【S】 CONCENTRATION ［① REST this card］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, draw up to 1 card.
+【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。
+【起】 集中 ［① このカードをレストする］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。
+Flavor Text:
+はじめてまして。私の名前は《スカイ・レイカー》。
+会えて嬉しいわ、鴉さん
+
+==========================
+
+剣道部 タクム
+AW/S18-082 RR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Sports スポーツ,_Net ネット
+Card Text/Abilities:
+【C】If you have another Character with 「チユリ」 in its name, this card gets +1000 Power, gains 『【A】ENCORE［Place 1 Character from Hand into Waiting Room］』.
+【永】 他のあなたのカード名に「チユリ」を含むキャラがいるなら、このカードのパワーを＋1000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。
+Flavor Text:
+審判「白、黛」
+タクム「はい！」
+
+==========================
+
+穏やかな微笑 フーコ
+AW/S18-083S SR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Net ネット,
+Card Text/Abilities:
+【C】If this card is in the Front Row, this card cannot STAND during your Stand Phase.
+【永】 前列にこのカードがいるなら、このカードはあなたのスタンドフェイズにスタンドしない。
+Flavor Text:
+
+==========================
+
+穏やかな微笑 フーコ
+AW/S18-083 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Net ネット,
+Card Text/Abilities:
+【C】If this card is in the Front Row, this card cannot STAND during your Stand Phase.
+【永】 前列にこのカードがいるなら、このカードはあなたのスタンドフェイズにスタンドしない。
+Flavor Text:
+その涙は、加速世界に
+あなたの真実が存在することの証です
+
+==========================
+
+シアン・パイル
+AW/S18-084 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】 ACCELERATE［Place the top card of your Deck into Clock］At the beginning of your Climax Phase, you may pay the cost. If you did, draw 1 card, choose 1 card from your Hand, place it into Waiting Room, during this turn, this card gets +3000 Power.
+【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは1枚引き、自分の手札を1枚選び、控え室に置き、そのターン中、このカードのパワーを＋3000。
+Flavor Text:
+僕の読みが正しければ……
+
+==========================
+
+倉崎 楓子
+AW/S18-085SP SP
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Net ネット,
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, draw up to 2 Cards, choose 1 card from your Hand, place it into Waiting Room.
+【S】［① REST 2 of your 《アバター》 Characters］Until the end of your opponent's next turn, this card gets +2000 Power.
+【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。
+【起】［① あなたの《アバター》のキャラを2枚レストする］ 次の相手のターンの終わりまで、このカードのパワーを＋2000。
+Flavor Text:
+
+==========================
+
+倉崎 楓子
+AW/S18-085 R
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Net ネット,
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, draw up to 2 Cards, choose 1 card from your Hand, place it into Waiting Room.
+【S】［① REST 2 of your 《アバター》 Characters］Until the end of your opponent's next turn, this card gets +2000 Power.
+【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。
+【起】［① あなたの《アバター》のキャラを2枚レストする］ 次の相手のターンの終わりまで、このカードのパワーを＋2000。
+Flavor Text:
+わたしはかつて、
+己の愚かさ故にその絆を失ってしまった
+
+==========================
+
+かつての仲間 スカイ・レイカー
+AW/S18-086 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Avatar アバター,
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【A】When this card is placed on Stage from Hand, look at the top card of your Deck, place it at the top or bottom of the Deck.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。
+Flavor Text:
+お話しましょう。空を求めた愚かなバーストリンカーと、
+彼女のたった一人の親友の話を……
+
+==========================
+
+頼れる相棒 シアン・パイル
+AW/S18-087 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【C】During your opponent's turn, this card gets +1000 Power.
+【永】 相手のターン中、このカードのパワーを＋1000。
+Flavor Text:
+ハル、右！
+
+==========================
+
+清楚で可憐 フーコ
+AW/S18-088 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Net ネット,
+Card Text/Abilities:
+【A】When this card attacks, if 「心意の力」 is in the Climax slot, choose 1 of your other Characters, until the end of your opponent's next turn, it gets +1500 Power.
+【自】 このカードがアタックした時、クライマックス置場に「心意の力」があるなら、あなたは他の自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1500。
+Flavor Text:
+おはよう、鴉さん
+
+==========================
+
+アッシュの師匠 スカイ・レイカー
+AW/S18-089 U
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Avatar アバター,
+Card Text/Abilities:
+【S】［① REST 1 of your 《アバター》 or 《ネット》 Character］Draw 1 card, choose 1 card from your Hand, place it into Waiting Room, during this turn, this card gets +1000 Power.
+【起】［① あなたの、《アバター》か《ネット》キャラを1枚レストする］ あなたは1枚引き、自分の手札を1枚選び、控え室に置き、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+久しぶりね、アッシュ。
+まだ私のことを忘れてないと解って嬉しいわ
+
+==========================
+
+糸洲 真魚
+AW/S18-090 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Sports スポーツ,_Net ネット
+Card Text/Abilities:
+【C】This card gets +X Power. X is equal to the Level of Character facing this card ×2000.
+【永】 このカードのパワーを＋Ｘ。Ｘはこのカードの正面のキャラのレベル×2000に等しい。
+Flavor Text:
+あ、あの、チュラカーギーっていうのは
+『美人』って意味です
+
+==========================
+
+新たな仲間 タクム
+AW/S18-091 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Sports スポーツ,_Net ネット
+Card Text/Abilities:
+Flavor Text:
+……よろしく……マイマスター……
+
+==========================
+
+《用心棒》アクア・カレント
+AW/S18-092 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Avatar アバター,_Water 水
+Card Text/Abilities:
+【S】● ASSIST 1500 Level 1 ［Place this card from Hand to Waiting Room］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +1500 Power)
+【起】● 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）
+Flavor Text:
+これから、あなたのポイント全てを奪います
+
+==========================
+
+安里 琉花
+AW/S18-093 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Sports スポーツ,_Net ネット
+Card Text/Abilities:
+Flavor Text:
+ワッサイビー……あの、ネエネエが、
+あんまりチュラカーギーなもんで……
+
+==========================
+
+メガネ君キャラ タクム
+AW/S18-094 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Sports スポーツ,_Net ネット
+Card Text/Abilities:
+【C】 If this card is in the Center slot of the Front Row, this card gets +1000 Power.
+【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋1000。
+Flavor Text:
+赤の王は、おそらく、《断罪の一撃》で脅し、
+ハルにさせたい何かがあった、ってことでしょう
+
+==========================
+
+無制限中立フィールド シアン・パイル
+AW/S18-095 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】When 「ライトニング・シアン・スパイク」 is placed into your Climax slot, if this card is in the Front Row, choose 1 of your opponent's Characters, you may place it into another empty slot on your opponent's Stage.
+【自】 あなたのクライマックス置場に「ライトニング・シアン・スパイク」が置かれた時、前列にこのカードがいるなら、あなたは相手のキャラを1枚選び、相手の舞台のキャラのいない他の枠に動かしてよい。
+Flavor Text:
+一度ダイブすれば、ずっといることも可能だよ。
+もっともレベル4以上じゃないと入れないけどね
+
+==========================
+
+無口な美女 アクア・カレント
+AW/S18-096 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Net ネット,_Glasses メガネ
+Card Text/Abilities:
+Flavor Text:
+返して下さい
+
+==========================
+
+杭打ち機
+AW/S18-097 U
+Type: Event
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your opponent's Character with Level 3 or lower. That Character cannot STAND during your opponent's next Stand Phase.
+あなたは相手のレベル3以下のキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。
+Flavor Text:
+……僕に心意を教えてくれた人が言っていた。
+シアン・パイルのポテンシャルは、
+このパイルドライバーに占められていると
+
+==========================
+
+強制変遷
+AW/S18-098 U
+Type: Event
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+If you have 2 or less 《アバター》 Characters, you cannot play this card from Hand.
+Choose 1 of your opponent's Characters with Cost 1 or lower, place it to the bottom of the Deck. Place this card into Memory.
+このカードは、あなたの《アバター》のキャラが2枚以下なら、手札からプレイできない。
+あなたは相手のコスト1以下のキャラを1枚選び、山札の下に置く。このカードを思い出にする。
+Flavor Text:
+ドルフィン「大丈夫だよ、ネエネエ！ だって、海やっさー！」
+メロウ「水の中なら、あたしたちにお任せですぅ！」
+
+==========================
+
+心意の力
+AW/S18-099 CR
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Book：When this card is triggered, you may draw 1 card)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（引：このカードがトリガーした時、あなたは1枚引いてよい）
+Flavor Text:
+私はこの車椅子を、ふたつの車輪が回転する
+イメージを強固に具現化……
+インカーネイションすることに
+よって制御しています
+
+==========================
+
+ライトニング・シアン・スパイク
+AW/S18-100 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, place the top card of your Deck into Stock, during this turn, all your Characters get +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+僕も、キミが信じてくれると信じていた
+
+==========================
+
+世話焼きな幼馴染 チユリ
+AW/S18-101 TD
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Sports スポーツ,_Net ネット
+Card Text/Abilities:
+【S】 ［REST 2 of your 《ネット》 or 《アバター》 Characters］ Choose 1 of your Characters, during this turn, it gets +1500 Power.
+【起】 ［あなたの、《ネット》か《アバター》のキャラを2枚レストする］ あなたは自分のキャラを1枚選び、そのターン中、パワーを+1500。
+Flavor Text:
+ドア越えたに決まってるじゃん
+
+==========================
+
+奇跡の生還 黒雪姫
+AW/S18-102R RRR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Student Council 生徒会,_Avatar アバター
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card, gets +1000 Power.
+【S】［① REST this card］ Choose 1 of your opponent's Character with Level 0 or below, return it to Hand.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。
+【起】 ［① このカードをレストする］ あなたは相手のレベル0以下のキャラを1枚選び、手札に戻す。
+Flavor Text:
+……天も地もない暗闇の中で…
+…キミの声だけが聞こえた
+
+==========================
+
+奇跡の生還 黒雪姫
+AW/S18-102 TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Student Council 生徒会,_Avatar アバター
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card, gets +1000 Power.
+【S】［① REST this card］ Choose 1 of your opponent's Character with Level 0 or below, return it to Hand.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。
+【起】 ［① このカードをレストする］ あなたは相手のレベル0以下のキャラを1枚選び、手札に戻す。
+Flavor Text:
+……天も地もない暗闇の中で…
+…キミの声だけが聞こえた
+
+==========================
+
+漆黒の揚羽蝶 黒雪姫
+AW/S18-103S SR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Student Council 生徒会,_Avatar アバター
+Card Text/Abilities:
+【A】 ACCELERATE ［Place the top card of your Deck into Clock］ At the beginning of your Climax Phase, you may pay the cost. If you did, during this turn, this card gets +3500 Power.
+【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋3500。
+Flavor Text:
+もっと先へ……《加速》したくはないか、少年
+
+==========================
+
+漆黒の揚羽蝶 黒雪姫
+AW/S18-103 TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Student Council 生徒会,_Avatar アバター
+Card Text/Abilities:
+【A】 ACCELERATE ［Place the top card of your Deck into Clock］ At the beginning of your Climax Phase, you may pay the cost. If you did, during this turn, this card gets +3500 Power.
+【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋3500。
+Flavor Text:
+もっと先へ……《加速》したくはないか、少年
+
+==========================
+
+シルバー・クロウ
+AW/S18-104 TD
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Avatar アバター,
+Card Text/Abilities:
+【C】 During your turn, this card gets +1000 Power.
+【C】 The Character facing this card gets -1 Soul。
+【S】 ［①］ During this turn, this card gets +1 Soul.
+【永】 あなたのターン中、このカードのパワーを＋1000。
+【永】 このカードの正面のキャラのソウルを－1。
+【起】 ［①］ そのターン中、このカードのソウルを＋1。
+Flavor Text:
+……戦います。バーストリンカーとして……
+
+==========================
+
+寝間着姿の黒雪姫
+AW/S18-105 TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Student Council 生徒会,_Net ネット
+Card Text/Abilities:
+Flavor Text:
+久しぶり、ハルユキ君
+
+==========================
+
+ご褒美の条件 黒雪姫
+AW/S18-106 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Student Council 生徒会,_Avatar アバター
+Card Text/Abilities:
+Flavor Text:
+もし来週の防衛に成功したら、
+ご褒美に君の願いを何でも一つ聞いてやる
+
+==========================
+
+減らず口の応酬 黒雪姫
+AW/S18-107 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Student Council 生徒会,_Net ネット
+Card Text/Abilities:
+【C】 All your other 《生徒会》, gets +500 Power.
+【永】 他のあなたの《生徒会》のキャラすべてに、パワーを＋500。
+Flavor Text:
+そういう貴様も実に赤いぞ。
+交差点にぶら下げたら車が止まって面白そうだ
+
+==========================
+
+ハルユキの《親》黒雪姫
+AW/S18-108 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Student Council 生徒会,_Net ネット
+Card Text/Abilities:
+【A】［Place 1 card in Hand into Waiting Room］ When this card is placed on Stage from Hand, you may pay the cost. If your did, search your Deck for up to 1 Character with 「ハルユキ」 in its name, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てカード名に「ハルユキ」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+ゆっくりでいいぞ。君を守る楽しみが、
+あまり早くなくなってしまうのもつまらんからな
+
+==========================
+
+はじめての嫉妬 黒雪姫
+AW/S18-110 PR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Student Council 生徒会,_Net ネット
+Card Text/Abilities:
+【S】［①］ During this turn, this card gets +1 Soul.
+【起】［①］ そのターン中、このカードのソウルを＋1。
+Flavor Text:
+ほう……友達、ね
+
+==========================
+
+初めての恋 黒雪姫
+AW/S18-P01 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Student Council 生徒会,_Avatar アバター
+Card Text/Abilities:
+【A】 When this card attacks, all your Characters, during this turn gets +500 Power.
+【自】 このカードがアタックした時、あなたのキャラすべてに、そのターン中、パワーを＋500。
+Flavor Text:
+　　いつでもキミのことを考えて、
+嬉しくなったり悲しくなったりしているよ
+
+==========================
+
+水着の黒雪姫
+AW/S18-P02 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Student Council 生徒会,_Net ネット
+Card Text/Abilities:
+【S】● ASSIST 1500 Level 1 ［Place this card from Hand to Waiting Room］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +1500 Power)
+【起】● 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋1500)
+Flavor Text:
+あまりじろじろ見ないでくれ。
+サイズの合う色がこれしかなかったんだ
+
+==========================
+
+下校中のチユリ
+AW/S18-P03 PR
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Sports スポーツ,_Net ネット
+Card Text/Abilities:
+【S】● ASSIST 2000 Level 1 ［① Place this card from Hand to Waiting Room］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +2000 Power)
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）
+Flavor Text:
+ちょっと待って
+
+==========================
+
+放課後デート 黒雪姫
+AW/S18-P04 PR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Student Council 生徒会,_Net ネット
+Card Text/Abilities:
+【C】 During your turn, this card gets +1000 Power.
+【永】 あなたのターン中、このカードのパワーを＋1000。
+Flavor Text:
+ではごきげんよう。友達クン
+
+==========================
+
+可愛い対抗心 黒雪姫
+AW/S18-P05 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Student Council 生徒会,_Net ネット
+Card Text/Abilities:
+【S】［①］ During this turn, this card gets +2000 Power.
+【起】［①］ そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+《赤の王》はよくて私がダメなのか？
+
+==========================
+
+ピンクのブタ ハルユキ
+AW/S18-T01 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Avatar アバター,_Animal 動物
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card, gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+それで、どうするんですか？
+
+==========================
+
+新米バーストリンカー シルバー・クロウ
+AW/S18-T02 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Avatar アバター,
+Card Text/Abilities:
+【A】 When this card attacks, all your Characters get +500 Power.
+【自】 このカードがアタックした時、あなたのキャラすべてに、そのターン中、パワーを＋500。
+Flavor Text:
+……な……んだこれ！
+
+==========================
+
+王の帰還 ブラック・ロータス
+AW/S18-T03 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【C】 During your turn, this card gets +1000 Power.
+【永】 あなたのターン中、このカードのパワーを＋1000。
+Flavor Text:
+《ブラック・ロータス》!! 黒の王だ!!
+健在だったんだ――ッ!!
+
+==========================
+
+学園のマドンナ 黒雪姫
+AW/S18-T04 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Student Council 生徒会,_Net ネット
+Card Text/Abilities:
+Flavor Text:
+わざわざ足労願ってすまなかったな、有田春雪君
+
+==========================
+
+いじめられっ子 ハルユキ
+AW/S18-T05 TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Net ネット,_Game ゲーム
+Card Text/Abilities:
+Flavor Text:
+い、いえ、僕なんてどうせ、
+ロクに使えやしないですから……
+
+==========================
+
+黄昏時の約束 黒雪姫
+AW/S18-T06 TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Student Council 生徒会,_Avatar アバター
+Card Text/Abilities:
+【C】 During your turn, this card gets +1000 Power.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【永】 あなたのターン中、このカードのパワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く）
+Flavor Text:
+このたかが仮想の２メートルが、
+キミにはそんなに遠いのか？
+
+==========================
+
+銀色の翼 シルバー・クロウ
+AW/S18-T07 TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Avatar アバター,
+Card Text/Abilities:
+【A】 When this card attacks, if 「〈黒の王〉の騎士」 is in the Climax Slot, during this turn, this card gets +3000 Power.
+【自】 このカードがアタックした時、クライマックス置場に「《黒の王》の騎士」があるなら、そのターン中、このカードのパワーを+3000。
+Flavor Text:
+この世界は……無限だ……
+
+==========================
+
+立ちはだかる壁 ハルユキ
+AW/S18-T08 TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Avatar アバター,_Animal 動物
+Card Text/Abilities:
+Flavor Text:
+オレ以外の誰かがこんなとんでもないスコアを!?
+
+==========================
+
+生まれて初めての感情
+AW/S18-T09 TD
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】 When this card is placed into the Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+いつか……きっとまた会えるさ
+
+==========================
+
+〈黒の王〉の騎士
+AW/S18-T10 TD
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1F
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】 All your Characters get +1000 Power, +1 Soul.
+(Flame： When this card is Triggered, if your current attacking Character's damage is cancelled, deal 1 damage to the opponent.)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（射：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）
+Flavor Text:
+――翼……
+――熱い！
+
+==========================
+
+銀色の猫 チユリ
+AW/S18-T11 TD
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Avatar アバター,_Animal 動物
+Card Text/Abilities:
+Flavor Text:
+あ～そう。そういう態度取るんだ
+
+==========================
+
+明るくて元気 チユリ
+AW/S18-T12R RRR
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Sports スポーツ,_Net ネット
+Card Text/Abilities:
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く）
+Flavor Text:
+ハル、おーっす
+
+==========================
+
+明るくて元気 チユリ
+AW/S18-T12 TD
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Sports スポーツ,_Net ネット
+Card Text/Abilities:
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く）
+Flavor Text:
+ハル、おーっす
+
+==========================
+
+愛らしい魅力 チユリ
+AW/S18-T13 TD
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Avatar アバター,_Animal 動物
+Card Text/Abilities:
+【S】● ASSIST 3000 LEVEL 2 [① Place this card to Waiting Room from Hand] (Choose 1 of your Characters that is being Front Attacked, during this turn it gets +3000 Power)
+【起】● 助太刀3000 レベル2 ［① 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）
+Flavor Text:
+分かればよろしい。いいから、じっとして
+
+==========================
+
+シトロン・コール
+AW/S18-T14 TD
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: G
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】 All your Characters get +1000 Power, +1 Soul.
+(Gold： When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（宝このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）
+Flavor Text:
+シトロン・コール！
+
+==========================
+

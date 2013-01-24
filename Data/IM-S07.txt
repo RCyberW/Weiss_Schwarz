@@ -1,0 +1,2806 @@
+気高い女王　伊織Peerless Queen Iori
+IM/S07-001 RR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Music 音楽,_Doll 人形
+Card Text/Abilities:
+【永】 あなたのターン中、他のあなたのキャラすべてに、レベルを＋1。
+【永】 他のあなたの「ハイタッチやよい」すべてに、パワーを＋1000。
+Flavor Text:
+"come on, i will be looking after you(i have your back already), Hence be more Steady"
+ねえ、この私が見てあげてるんだから、しっかりしなさいよね？
+
+==========================
+
+情熱家 雪歩 Compasionese Yukiho
+IM/S07-002 RR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Music 音楽,_Tea お茶
+Card Text/Abilities:
+【自】 このカードがアタックした時、クライマックス置場に「Kosmos,Cosmos」があるなら、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置く。
+Flavor Text:
+世界中の皆さんに、この歌を届けます。
+歌は『ＫＯＳＭＯＳ，ＣＯＳＭＯＳ』！
+
+==========================
+
+元気が一番　亜美＆真美Energetic No1. Ami & Mami
+IM/S07-003 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Music 音楽,_Twins 双子
+Card Text/Abilities:
+【起】［あなたの思い出置場の「衣装変更」を1枚控え室に置く］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000し、ソウルを＋1。
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+うわーい！みんな、亜美達の分まで、チョ→頑張ってね～っ！
+
+==========================
+
+萩原　雪歩Hagihara Yukiho
+IM/S07-004S SR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Music 音楽,_Tea お茶
+Card Text/Abilities:
+【自】 チェンジ ［(3) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「一生懸命な雪歩」を1枚選び、このカードがいた枠に置く。
+【起】［(1) このカードを【レスト】する］ あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋1000し、《お茶》を与える。
+Flavor Text:
+あの、プロデューサー。
+次は、私に歌わせて下さい！
+
+==========================
+
+萩原　雪歩Hagihara Yukiho
+IM/S07-004 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Music 音楽,_Tea お茶
+Card Text/Abilities:
+【自】 チェンジ ［(3) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「一生懸命な雪歩」を1枚選び、このカードがいた枠に置く。
+【起】［(1) このカードを【レスト】する］ あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋1000し、《お茶》を与える。
+Flavor Text:
+えへへ。私、すぐにでも歌いたい気分です！
+
+==========================
+
+双海　亜美Futami Ami
+IM/S07-005S SR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Music 音楽,_Twins 双子
+Card Text/Abilities:
+【自】 このカードが控え室から舞台に置かれた時、そのターン中、このカードのパワーを＋2000。
+【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「双海 真美」を1枚選び、このカードがいた枠に置く。（クライマックスフェイズの始めにこのカードがいないなら発動しない）
+Flavor Text:
+Nop! I'm Ami!!
+いえーい！亜美だよ～っ！
+
+==========================
+
+双海　亜美Futami Ami
+IM/S07-005 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Music 音楽,_Twins 双子
+Card Text/Abilities:
+【自】 このカードが控え室から舞台に置かれた時、そのターン中、このカードのパワーを＋2000。
+【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「双海 真美」を1枚選び、このカードがいた枠に置く。（クライマックスフェイズの始めにこのカードがいないなら発動しない）
+Flavor Text:
+FuhuFuhu~ heres come Ami!~
+んふっふ～！亜美参上～っ！
+
+==========================
+
+双海　真美Futami Mami
+IM/S07-006S SR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Music 音楽,_Twins 双子
+Card Text/Abilities:
+【自】 このカードが控え室から舞台に置かれた時、そのターン中、このカードのソウルを＋1。
+【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「双海 亜美」を1枚選び、このカードがいた枠に置く。（クライマックスフェイズの始めにこのカードがいないなら発動しない）
+Flavor Text:
+Wahooi~! its Mami!
+わっほ～い！真美だよ～ん！
+
+==========================
+
+双海　真美Futami Mami
+IM/S07-006 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Music 音楽,_Twins 双子
+Card Text/Abilities:
+【自】 このカードが控え室から舞台に置かれた時、そのターン中、このカードのソウルを＋1。
+【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「双海 亜美」を1枚選び、このカードがいた枠に置く。（クライマックスフェイズの始めにこのカードがいないなら発動しない）
+Flavor Text:
+Not~! Mami is here!!
+いえ～い！真美参上～！
+
+==========================
+
+水瀬　伊織
+IM/S07-007S SR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Music 音楽,_Doll 人形
+Card Text/Abilities:
+【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「じゃじゃ馬お嬢様 伊織」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+今のうちに、私との会話を楽しみなさいよ？
+ステージの上の私は皆のものになるんだから！
+
+==========================
+
+水瀬　伊織
+IM/S07-007 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Music 音楽,_Doll 人形
+Card Text/Abilities:
+【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「じゃじゃ馬お嬢様 伊織」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+スーパーアイドル伊織ちゃんの本気、見せてあげるわ！
+
+==========================
+
+朝礼小鳥
+IM/S07-008 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: ,_Music 音楽
+Card Text/Abilities:
+【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+皆さ～ん！そろそろ、本番はじまりますよ～！
+
+==========================
+
+負けず嫌い伊織
+IM/S07-009 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Music 音楽,_Doll 人形
+Card Text/Abilities:
+【自】［あなたのキャラを1枚控え室に置く］ あなたのクライマックス置場に「フタリの記憶」が置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋6000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+私の歌う『フタリの記憶』で、あなたのハート、落としてあげるわ♪
+
+==========================
+
+お茶パワー雪歩Tea Power, Yukiho
+IM/S07-010 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Music 音楽,_Tea お茶
+Card Text/Abilities:
+NONE
+NONE
+Flavor Text:
+私、お茶と仕事のことは真剣ですから！
+
+==========================
+
+制御不能！？ 亜美＆真美 Unblockable!?Ami & Mami
+IM/S07-011 U
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Music 音楽,_Twins 双子
+Card Text/Abilities:
+【自】 このカードがアタックした時、クライマックス置場に「スタ→トスタ→」があるなら、あなたの《双子》のキャラすべてに、そのターン中、パワーを＋1000し、ソウルを＋1。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+いえ～い！みんなでいっしょに、『スタ→トスタ→』スタートするすた～っ！！
+
+==========================
+
+いたずら好きな亜美＆真美
+IM/S07-012 U
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Music 音楽,_Twins 双子
+Card Text/Abilities:
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【起】［このカードを思い出にする］ あなたは自分の控え室の「双海 亜美」を1枚までと「双海 真美」を1枚まで選び、舞台の別々の枠に置く。そのターン中、それらのキャラのパワーを＋3000し、ソウルを＋1。
+Flavor Text:
+ねぇねぇ、兄ちゃん！亜美と真美、どっちが好き～？
+あ、どっちも好きだよね！
+
+==========================
+
+穴掘り雪歩
+IM/S07-013 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Music 音楽,_Tea お茶
+Card Text/Abilities:
+【永】 アラーム このカードがクロックの1番上にあるなら、あなたの《音楽》のキャラすべてに、次の能力を与える。『【起】［(1)］ そのターン中、このカードのソウルを＋1。』
+【起】［このカードを控え室に置く］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。
+Flavor Text:
+うう、もう穴を掘って埋まっておきたいですぅ～！
+
+==========================
+
+自信満々な伊織
+IM/S07-014 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,_Doll 人形
+Card Text/Abilities:
+【自】 このカードがアタックした時、他のあなたのこのカード以上のパワーのキャラがいないなら、そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+しょうがないわねぇ。ここは私にまかせなさい！
+
+==========================
+
+双子の猛獣亜美＆真美
+IM/S07-015 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Music 音楽,_Twins 双子
+Card Text/Abilities:
+NONE
+NONE
+Flavor Text:
+亜美です、真美です、亜美真美で～っす！
+
+==========================
+
+引っ込み思案雪歩
+IM/S07-016 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Music 音楽,_Tea お茶
+Card Text/Abilities:
+【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはアタックできない。
+【起】［あなたの《音楽》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+あ、あの、ダメダメな私なんかじゃムリです～
+
+==========================
+
+感謝の証伊織
+IM/S07-017 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Music 音楽,_Doll 人形
+Card Text/Abilities:
+【自】 あなたがこのカードの『助太刀』を使った時、あなたの思い出置場に「衣装変更」があるなら、あなたは自分のバトルしているキャラを1枚選び、そのターン中、パワーを＋1000。
+【起】【カウンター】 助太刀1500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋1500
+Flavor Text:
+アンタに、これあげるわ。……きょ、今日は特別なんだからね！勘違いしないでよ！？
+
+==========================
+
+一生懸命な雪歩
+IM/S07-018 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Music 音楽,_Tea お茶
+Card Text/Abilities:
+【永】 あなたのターン中、あなたの思い出置場に「衣装変更」があるなら、このカードのパワーを＋1500。
+Flavor Text:
+私、プロデューサーとの思い出、これからも作っていきたいです
+
+==========================
+
+じゃじゃ馬お嬢様伊織
+IM/S07-019 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Music 音楽,_Doll 人形
+Card Text/Abilities:
+NONE
+NONE
+Flavor Text:
+私にキスして欲しい～！？ふふ、しばらくは、投げキッスで我慢しておきなさい♪
+
+==========================
+
+演技力レッスン
+IM/S07-020 U
+Type: Event
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+あなたの手札があるなら、あなたは自分の手札をランダムに1枚選び公開し、自分のキャラをＸ枚まで選び、そのターン中、パワーを＋1000し、ソウルを＋2。Ｘは公開されたカードのレベル＋1に等しい。（
+Flavor Text:
+兄ちゃん、亜美達、わかったよ！
+これが演技力の極意なんだね！
+
+==========================
+
+衣装変更Costume Change
+IM/S07-021 U
+Type: Event
+Level: 1
+Color: Yellow
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+あなたは自分の山札を見て《音楽》のキャラを2枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。あなたは自分の手札を1枚選び、控え室に置く。このカードを思い出にする。
+Flavor Text:
+うわあ、かわいい衣装ですね。
+あ、あの、ありがとうございます、プロデューサー！
+
+==========================
+
+ポーズレッスン
+IM/S07-022 C
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【カウンター】 このカードは、あなたの《音楽》のキャラがいないなら、手札からプレイできない。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。
+Flavor Text:
+伊織ちゃんのかわいいポーズが見れて、あんたは幸せ者ね。にひひっ♪
+
+==========================
+
+スタ→トスタ→
+IM/S07-023S SP
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1W
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（戻＠：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）
+Flavor Text:
+フレーバー 目と目　手と手　繋いで　ひとりじゃない星にウインク
+双子な星座がトゥインクル
+
+==========================
+
+スタ→トスタ→
+IM/S07-023 CR
+Type: Climax
+Level: N/A
+Color: Yellow
+Cost: N/A
+Trigger: 1W
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（戻＠：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）
+Flavor Text:
+目と目　手と手　繋いで　ひとりじゃない星にウインク
+双子な星座がトゥインクル
+
+==========================
+
+Kosmos,CosmosKosmos,Cosmos
+IM/S07-024 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、ソウルを＋3。
+Flavor Text:
+Kosmos, Cosmos
+もう止まれない　イメージを塗り替えて
+
+==========================
+
+フタリの記憶
+IM/S07-025 CC
+Type: Climax
+Level: N/A
+Color: Yellow
+Cost: N/A
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+何も言わずにサヨナラするよ
+キミと出会えてすごく嬉しかったな
+
+==========================
+
+面倒くさがりな美希
+IM/S07-026 RR
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: ,_Music 音楽
+Card Text/Abilities:
+【自】 このカードがアタックした時、クライマックス置場に「ふるふるフューチャー☆」があるなら、あなたの山札を公開し、相手はあなたの山札を見てレベル2以上のキャラを1枚選び、あなたの手札に加える。その山札をシャッフルする。
+Flavor Text:
+みんな～！ミキの『ふるふるフュー……』
+うわあっ！？やっぱり、ちょっと待ってなの！
+
+==========================
+
+音無　小鳥
+IM/S07-027S SR
+Type: Character
+Level: 1
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 4500
+Soul: N/A
+Traits:: ,_Music 音楽
+Card Text/Abilities:
+【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、パワーを＋1000。
+Flavor Text:
+会場の皆さん！
+７６５プロのアイドルを応援して下さいね♪
+
+==========================
+
+音無　小鳥
+IM/S07-027 RR
+Type: Character
+Level: 1
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 4500
+Soul: 1
+Traits:: ,_Music 音楽
+Card Text/Abilities:
+【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、パワーを＋1000。
+Flavor Text:
+会場の皆さん！
+７６５プロのアイドルを応援して下さいね♪
+
+==========================
+
+星井　美希
+IM/S07-028S SR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: ,_Music 音楽
+Card Text/Abilities:
+【自】 チェンジ ［手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「誘い上手な美希」を1枚選び、このカードがいた枠に置く。
+【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+ねえ、プロデューサー？
+もしも、ミキの髪が短かったら、どうする？
+
+==========================
+
+星井　美希
+IM/S07-028 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: ,_Music 音楽
+Card Text/Abilities:
+【自】 チェンジ ［手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「誘い上手な美希」を1枚選び、このカードがいた枠に置く。
+【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+ねえ、プロデューサー？
+髪の短い女の子ってどう思う？
+
+==========================
+
+我那覇　響
+IM/S07-029S SR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,_Animal 動物
+Card Text/Abilities:
+【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+ねえねえ、今度は、どんな動物を飼えば
+いいって思う？オットセイとか、どうかな？
+
+==========================
+
+我那覇　響
+IM/S07-029 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,_Animal 動物
+Card Text/Abilities:
+【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+あ～あ、今度は何を飼おうかな。
+ライオンとか象とか……。あ、キリンとかいいかも！？
+
+==========================
+
+四条　貴音
+IM/S07-030S SR
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Music 音楽,_Royal Family 王族
+Card Text/Abilities:
+【永】 あなたの思い出置場に「寄り道」があるなら、このカードのパワーを＋2000。
+【自】 チェンジ ［(3) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「お姫様 貴音」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+心地よい緊張感。ステージに昇る前というのは
+身が引き締まる思いですね
+
+==========================
+
+四条　貴音
+IM/S07-030 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Music 音楽,_Royal Family 王族
+Card Text/Abilities:
+【永】 あなたの思い出置場に「寄り道」があるなら、このカードのパワーを＋2000。
+【自】 チェンジ ［(3) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「お姫様 貴音」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+さあ、参りましょう。
+輝ける舞台へ。そして、遠きあの世界へ
+
+==========================
+
+お姫様　貴音
+IM/S07-031 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Music 音楽,_Royal Family 王族
+Card Text/Abilities:
+【自】［(1)］ このカードがアタックした時、クライマックス置場に「フラワーガール」があるなら、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋3000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+あ、あの、私なりに、かわいさを追求したつもりです。それでは『フラワーガール』……いざっ！
+
+==========================
+
+動物大好き響
+IM/S07-032 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Music 音楽,_Animal 動物
+Card Text/Abilities:
+【自】 あなたのクライマックス置場に「Next Life」が置かれた時、そのターン中、このカードのパワーを＋3000。
+【自】 あなたのクライマックス置場に「Next Life」が置かれた時、前列にこのカードがいるなら、あなたは自分のクロック置場のレベル2以下のキャラを1枚選び、舞台の好きな枠に置いてよい。そうしたら、あなたは自分の山札の上から2枚を、クロック置場に置く。
+【起】［あなたのキャラを1枚【レスト】する］ あなたの思い出置場の「寄り道」を1枚選び、ストック置場に置く。
+Flavor Text:
+皆の遺伝子に、自分の『Ｎext Life』
+埋め込んでみせるからね！
+
+==========================
+
+浮世離れ貴音
+IM/S07-033 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Music 音楽,_Royal Family 王族
+Card Text/Abilities:
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロック置場の、「衣装変更」か「寄り道」か「プレゼント」か「ある日の風景」を1枚選び、手札に戻してよい。そうしたら、あなたは自分の手札を1枚選び、クロック置場に置く。
+Flavor Text:
+皆様方、頑張ってください。
+草葉の陰より応援しておりますので
+
+==========================
+
+誘い上手な美希
+IM/S07-034 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: ,_Music 音楽
+Card Text/Abilities:
+【自】 この能力は1ターンにつき3回まで発動できる。他のあなたのキャラが控え室から舞台に置かれた時、そのターン中、このカードのパワーを＋2000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+ハニー。ミキ、まだまだ頑張れるよ？
+さあさあ2回戦しよ♪
+
+==========================
+
+天然色響
+IM/S07-035 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Music 音楽,_Animal 動物
+Card Text/Abilities:
+【自】 チェンジ ［(2) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「動物大好き響」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+自分、本気出していいか？
+
+==========================
+
+完成するビジュアルクイーン美希
+IM/S07-036 U
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: ,_Music 音楽
+Card Text/Abilities:
+【永】 あなたのストックが6枚以上なら、このカードのパワーを＋1500。
+Flavor Text:
+ねえ、プロデューサー。
+ミキ達の、思いの全て、受けとめて
+
+==========================
+
+気まぐれな美希　
+IM/S07-037 U
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: ,_Music 音楽
+Card Text/Abilities:
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【永】 あなたの思い出置場の「寄り道」が2枚以上なら、あなたの手札のこのカードのレベルを－1。
+Flavor Text:
+ミキ、ハニーの愛、受けとめたよ。
+ここからは、ミキに、全部まかせて！
+
+==========================
+
+太陽娘響The Sun Girl, Hibiki
+IM/S07-038 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Music 音楽,_Animal 動物
+Card Text/Abilities:
+【永】 他のあなたの「高槻 やよい」がいるなら、このカードのパワーを＋1000。
+【起】［(1)］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+えへへ。ほら、サーターアンダギーあげるぞ！
+
+==========================
+
+王女の貫禄貴音
+IM/S07-039 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,_Royal Family 王族
+Card Text/Abilities:
+【永】 他のあなたの前列のキャラがいないなら、このカードのパワーを＋1500。
+Flavor Text:
+ここはわたくし１人で十分です。
+他の者は立ち去りなさい！
+
+==========================
+
+黒井社長
+IM/S07-040 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,_Shadow 影
+Card Text/Abilities:
+【自】 このカードが手札から舞台に置かれた時、あなたは相手のストックの上から1枚を、控え室に置いてよい。そうしたら、あなたは相手の控え室のカードを1枚選び、ストック置場に置く。
+Flavor Text:
+ほほ～う。なんだね、その珍妙な服装は？
+良くそんな格好で、外に出られたものだな！
+
+==========================
+
+期待の新星美希
+IM/S07-041 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: ,_Music 音楽
+Card Text/Abilities:
+NONE
+NONE
+Flavor Text:
+ハニーのハート、必ず、ミキが撃ち抜いてあげるの！
+
+==========================
+
+高木純一朗
+IM/S07-042 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 1000
+Soul: 1
+Traits:: Music 音楽,_Shadow 影
+Card Text/Abilities:
+【永】 アラーム このカードがクロックの1番上にあるなら、あなたのキャラすべてに、次の能力を与える。『【起】［あなたの《音楽》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1500。』
+Flavor Text:
+ウオッホン！仲良きことは美しきことかな。
+諸君、団結の心を、忘れてはならんぞ？
+
+==========================
+
+正義の味方響
+IM/S07-043 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Music 音楽,_Animal 動物
+Card Text/Abilities:
+【自】 あなたがこのカードの『助太刀』を使った時、あなたの《動物》のキャラすべてに、そのターン中、《愛》を与える。
+【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）
+Flavor Text:
+弱い物いじめはよせ！自分が、助太刀するぞ！
+
+==========================
+
+月夜の下の貴音
+IM/S07-044 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Music 音楽,_Royal Family 王族
+Card Text/Abilities:
+NONE
+NONE
+Flavor Text:
+うう、わたくしは……。
+どうすればいいのでしょうか……
+
+==========================
+
+表現力レッスン
+IM/S07-045 U
+Type: Event
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+あなたの手札があるなら、あなたは自分の手札をランダムに1枚選び公開し、あなたのキャラすべてに、パワーを＋Ｘ。Ｘは公開されたカードのレベル×1500に等しい。（クライマックスのレベルは0として扱う）
+Flavor Text:
+えっと、今度は怒って、今度は笑って……
+ああもう、ワケわかんないの～っ！
+
+==========================
+
+寄り道
+IM/S07-046 U
+Type: Event
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【カウンター】 このカードは、あなたの《音楽》のキャラがいないなら、手札からプレイできない。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。このカードを思い出にする。
+Flavor Text:
+あの、よろしければ、わたくしと一緒にらあめんを……
+あ、いえ、何でもありません！
+
+==========================
+
+いつもの光景
+IM/S07-047 C
+Type: Event
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+相手のストックすべてを、控え室に置き、相手は自分の山札の上から同じ枚数をストック置場に置く。
+Flavor Text:
+うわあ、ちょっとハム蔵、ウサ江、いぬ美！？
+逃げちゃダメだってば～っ！？
+
+==========================
+
+ふるふるフューチャー☆
+IM/S07-048S SP
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: S
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（溜＠：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい）
+Flavor Text:
+"Differ than 048"
+
+==========================
+
+ふるふるフューチャー☆
+IM/S07-048 CR
+Type: Climax
+Level: N/A
+Color: Green
+Cost: N/A
+Trigger: S
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（溜＠：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい）
+Flavor Text:
+大好きハニー　いちごみたいに　純情なの
+ずっと見てて　絶対よ
+
+==========================
+
+New LifeNew Life
+IM/S07-049 CC
+Type: Climax
+Level: N/A
+Color: Green
+Cost: N/A
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+愛する人がいれば　もう一人の自分を見つければ
+運命の時計の針　動き出してゆく
+
+==========================
+
+フラワーガール
+IM/S07-050 CC
+Type: Climax
+Level: N/A
+Color: Green
+Cost: N/A
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+そっと..　話しかけたい　☆- -- --どう叫んでも- -- --★
+あなたが好き！━━━━☆
+
+==========================
+
+素直で前向き春香
+IM/S07-051 RR
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Music 音楽,_Sweets お菓子
+Card Text/Abilities:
+【自】［(1)］ このカードがアタックした時、クライマックス置場に「I Want」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻し、相手の【スタンド】しているキャラすべてを、【レスト】する。
+【自】 相手の【スタンド】しているキャラが【レスト】した時、そのターン中、このカードのパワーを＋1500。
+Flavor Text:
+みんなっ！座ってないで、立ち上がって！
+次の曲は『Ｉ　Ｗant』！
+
+==========================
+
+パワー全開やよいFull power Yayoi
+IM/S07-052 RR
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Music 音楽,
+Card Text/Abilities:
+【自】 このカードがアタックした時、クライマックス置場に「キラメキラリ」があるなら、あなたは自分の控え室の「パワー全開やよい」を1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋3000。
+Flavor Text:
+『キラメキラリ』歌っちゃいま～……の前に、ちょっと、ご飯にいってきま～っす！
+
+==========================
+
+高槻　やよい
+IM/S07-053S SR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Music 音楽,_Banana バナナ
+Card Text/Abilities:
+【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。
+【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+こっちのアジもいいですけど、あっちのアジも
+おいしそうですね！
+
+==========================
+
+高槻　やよい
+IM/S07-053 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Music 音楽,_Banana バナナ
+Card Text/Abilities:
+【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。
+【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+え～と、それは、あっちのゴミ箱です。
+やっぱり、サイクリングは大切ですよね！
+
+==========================
+
+菊地　真
+IM/S07-054S SR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Music 音楽,_Sports スポーツ
+Card Text/Abilities:
+【自】 このカードが【リバース】した時、このカードとバトル中のキャラのレベルが0以下なら、あなたはそのキャラを【リバース】してよい。
+【起】［あなたの『応援』を持つキャラを1枚【レスト】する］ そのターン中、このカードは次の能力を得る。『【自】 このカードとバトル中のキャラが【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』
+Flavor Text:
+ボク、こう見えても、結構弱気なところも
+ありますから、応援よろしくお願いします！
+
+==========================
+
+菊地　真
+IM/S07-054 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Music 音楽,_Sports スポーツ
+Card Text/Abilities:
+【自】 このカードが【リバース】した時、このカードとバトル中のキャラのレベルが0以下なら、あなたはそのキャラを【リバース】してよい。
+【起】［あなたの『応援』を持つキャラを1枚【レスト】する］ そのターン中、このカードは次の能力を得る。『【自】 このカードとバトル中のキャラが【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』
+Flavor Text:
+や～りぃ！見てください、プロデューサー！
+ボクへのファンレター、ついに３通突破です！
+
+==========================
+
+天海　春香
+IM/S07-055S SR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Music 音楽,_Sweets お菓子
+Card Text/Abilities:
+【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、このカードを【レスト】する。（公開したカードは元に戻す）
+Flavor Text:
+プロデューサーさん！それじゃ、私、そろそろ
+皆のところに行ってきまーす！
+
+==========================
+
+天海　春香
+IM/S07-055 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Music 音楽,_Sweets お菓子
+Card Text/Abilities:
+【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのクライマックスなら、このカードを【レスト】する。（公開したカードは元に戻す）
+Flavor Text:
+う、うわああっ、こけちゃう！？
+
+==========================
+
+アイドル誕生！？小鳥
+IM/S07-056 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: ,_Music 音楽
+Card Text/Abilities:
+【自】［(2)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。
+Flavor Text:
+えええっ！？どうして私が歌を歌うんですか！？
+早く誰か医者を！じゃなかった別の人を……！
+
+==========================
+
+やる気たっぷり真
+IM/S07-057 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Music 音楽,_Sports スポーツ
+Card Text/Abilities:
+【永】 あなたの思い出置場に「プレゼント」があるなら、このカードのパワーを＋1500。
+【自】［(4)］ このカードがサイドアタックした時、クライマックス置場に「迷走Mind」があるなら、あなたはコストを払ってよい。そうしたら、相手に4ダメージを与える。（ダメージキャンセルは発生する）
+Flavor Text:
+皆さん！ボクの渾身の１曲、聞いて下さい！
+曲のタイトルは……『迷走Mind』！
+
+==========================
+
+がんばり屋やよい
+IM/S07-058 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Music 音楽,_Banana バナナ
+Card Text/Abilities:
+【自】 チェンジ ［(1) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「200％元気！やよい」を1枚選び、このカードがいた枠に置く。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+いえいっ！それじゃ、バババ～って、着替えてきますね！
+
+==========================
+
+運動好きな真
+IM/S07-059 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,_Sports スポーツ
+Card Text/Abilities:
+【自】 このカードがアタックした時、あなたは自分の《音楽》のキャラを2枚まで選び、そのターン中、パワーを＋500。
+Flavor Text:
+へへっ、やっぱり、最初はボクが行くしか、ありえないですよねっ！
+
+==========================
+
+ドジッ娘　春香
+IM/S07-060 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Music 音楽,_Sweets お菓子
+Card Text/Abilities:
+【永】 応援 このカードの前のあなたの『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を持つキャラすべてに、パワーを＋1000。
+【自】 【スタンド】しているこのカードが【レスト】した時、すべてのプレイヤーに、1ダメージを与える。（ダメージキャンセルは発生する）
+Flavor Text:
+えへへ♪　床がメチャメチャ濡れてますけど、いまから、そっちに行きますね♪
+
+==========================
+
+りりしく精悍真
+IM/S07-061 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Music 音楽,_Sports スポーツ
+Card Text/Abilities:
+【自】 チェンジ ［(3) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「パワフルガール真」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+プロデューサー。ボクの全力見ていて下さい！
+
+==========================
+
+天性の才能春香
+IM/S07-062 U
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Music 音楽,_Sweets お菓子
+Card Text/Abilities:
+【自】 チェンジ ［(1) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「歌への情熱 春香」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+プロデューサーさん。
+私、今度のステージ、絶対にころびませんよ！
+
+==========================
+
+明るい笑顔やよい
+IM/S07-063 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Music 音楽,_Banana バナナ
+Card Text/Abilities:
+Flavor Text:
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【自】 他のあなたのバトルしているキャラが【リバース】した時、あなたは自分の「水瀬 伊織」を1枚選び、そのターン中、パワーを＋1000。
+
+==========================
+
+普通の女の子春香
+IM/S07-064 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Music 音楽,_Sweets お菓子
+Card Text/Abilities:
+NONE
+NONE
+Flavor Text:
+プロデューサーさ～ん！
+ずっと、そこで見ていて下さいね～！
+
+==========================
+
+王子様真
+IM/S07-065 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Music 音楽,_Sports スポーツ
+Card Text/Abilities:
+【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）
+Flavor Text:
+みんな、待たせたね！
+ここから先は、ボクにまかせて
+
+==========================
+
+200％元気！やよい
+IM/S07-066 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 4500
+Soul: 1
+Traits:: Music 音楽,_Banana バナナ
+Card Text/Abilities:
+【永】 あなたの思い出置場に「プレゼント」があるなら、他のあなたの《音楽》のキャラすべてに、パワーを＋500。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+皆さ～ん！
+ビシビシ～って、はりきって、いきましょー！
+
+==========================
+
+ハイタッチやよい
+IM/S07-067 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Music 音楽,_Banana バナナ
+Card Text/Abilities:
+【自】 このカードが手札から舞台に置かれた時、相手の「ハイタッチやよい」がいて、すべてのプレイヤーが認めたなら、ハイタッチする。そうしたら、すべてのプレイヤーは1枚引く。（音には注意しましょう）
+Flavor Text:
+うっう～、ハイタ～ッチ！いえい！
+
+==========================
+
+パワフルガール真Powerful Girl, Makoto
+IM/S07-068 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Music 音楽,_Sports スポーツ
+Card Text/Abilities:
+【自】 バトル中のこのカードが【リバース】した時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+とりあえず、ボクの出番は終わりですね。
+でも、ボクを忘れてると、火傷しますよ？
+
+==========================
+
+歌への情熱春香
+IM/S07-069 C
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Music 音楽,_Sweets お菓子
+Card Text/Abilities:
+【自】［(1)］ このカードが控え室から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。
+【起】［あなたの思い出置場の「プレゼント」を1枚控え室に置く］ そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードとバトル中のキャラが【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』
+Flavor Text:
+私と、プロデューサーさんの思い出さえあれば、世界に怖いものなんてありません！
+
+==========================
+
+朝の挨拶
+IM/S07-070 U
+Type: Event
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+すべてのプレイヤーは自分の控え室のカードすべてを、山札に戻す。それらの山札をシャッフルする。
+Flavor Text:
+うっうーっ！
+おはようございます、プロデューサー！
+
+==========================
+
+プレゼント Present
+IM/S07-071 U
+Type: Event
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。このカードを思い出にする。
+Flavor Text:
+プロデューサーさん。これ、昨日焼いたクッキーなんですけど……。あの、１ついかがですか？
+
+==========================
+
+ボイスレッスンVoice Lesson
+IM/S07-072 C
+Type: Event
+Level: 2
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【カウンター】 あなたの《音楽》のキャラすべてに、そのターン中、『【自】 アンコール ［(1)］』を与える。
+Flavor Text:
+プロデューサー、まだまだレッスンが足りません
+もう３時間ほどお願いします
+
+==========================
+
+キラメキラリ
+IM/S07-073 CR
+Type: Climax
+Level: N/A
+Color: Red
+Cost: N/A
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（拾＠：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）
+Flavor Text:
+キラメキラリ　もっとMOREっと　私を私と呼びたい
+
+==========================
+
+I Want I Want
+IM/S07-074S SP
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+もっと啼いてみせて！
+
+==========================
+
+I WantI Want
+IM/S07-074 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+そこに跪いて！
+
+==========================
+
+迷走Mind
+IM/S07-075 CC
+Type: Climax
+Level: N/A
+Color: Red
+Cost: N/A
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+あとどれくらい進めばいいの？
+
+==========================
+
+如月 千早
+IM/S07-076S SR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: ,_Music 音楽
+Card Text/Abilities:
+【永】 他のあなたの「癒し系あずさ」がいるなら、このカードのパワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+あの人と同じ舞台に立てるかと思うと、
+なんだかこう……。自分を超えられそうです！
+
+==========================
+
+如月 千早
+IM/S07-076 RR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: ,_Music 音楽
+Card Text/Abilities:
+【永】 他のあなたの「癒し系あずさ」がいるなら、このカードのパワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+あ、あの。私なんかの水着を見て喜ぶ人がいるんでしょうか？もっと、他の人の方が……
+
+==========================
+
+秋月　律子
+IM/S07-077S SR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 1500
+Soul: 1
+Traits:: Music 音楽,_Glasses メガネ
+Card Text/Abilities:
+【自】 チェンジ ［(2) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「オールマイティ律子」を1枚選び、このカードがいた枠に置く。
+【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）
+Flavor Text:
+どうしました？フフ、お困りのようでしたら、
+手を貸しますよ？格安で
+
+==========================
+
+秋月　律子
+IM/S07-077 RR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 1500
+Soul: 1
+Traits:: Music 音楽,_Glasses メガネ
+Card Text/Abilities:
+【自】 チェンジ ［(2) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「オールマイティ律子」を1枚選び、このカードがいた枠に置く。
+【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）
+Flavor Text:
+ここから先は、りっちゃんにおまかせあれ！
+自分にできる限りのこと、やってきますね
+
+==========================
+
+癒し系あずさ
+IM/S07-078 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Music 音楽,_Love 愛
+Card Text/Abilities:
+【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。
+【起】［(1)］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+私なんかじゃ、頼りないかもしれないけど……。
+私に出来る限りの応援、やってみせるわね！
+
+==========================
+
+研究熱心　律子
+IM/S07-079 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Music 音楽,_Glasses メガネ
+Card Text/Abilities:
+【自】 この能力は1ターンにつき1回まで発動できる。あなたが『助太刀』を使った時、あなたは自分のバトルしているキャラを1枚選び、そのターン中、パワーを＋1000。
+【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+ふふ。アイドルたるもの、流行は常にチェックしておかないとね♪
+
+==========================
+
+三浦　あずさ
+IM/S07-080S SR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 4500
+Soul: 1
+Traits:: Music 音楽,_Love 愛
+Card Text/Abilities:
+【自】 このカードのトリガーチェックでクライマックスがでた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】 チェンジ ［(2) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「マイペースあずさ」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+そろそろですね、次のステージは。
+私、なんだかワクワクテカテカしてきました！
+
+==========================
+
+三浦　あずさ
+IM/S07-080 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 4500
+Soul: 1
+Traits:: Music 音楽,_Love 愛
+Card Text/Abilities:
+【自】 このカードのトリガーチェックでクライマックスがでた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】 チェンジ ［(2) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「マイペースあずさ」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+私。ファンの皆さんのためにも、絶対に次のステージ、成功させてみせます！
+
+==========================
+
+お姉さん　あずさBig sister Azusa
+IM/S07-081 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Music 音楽,_Love 愛
+Card Text/Abilities:
+【自】［(3)］ このカードがアタックした時、クライマックス置場に「隣に･･･」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル2以下のキャラを1枚選び、山札の下に置く。
+Flavor Text:
+私の思いが、皆さんに届きますように。
+『隣に…』聞いて下さい！
+
+==========================
+
+歌の女神　千早Goddess of songs, Chihaya
+IM/S07-082 R
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: ,_Music 音楽
+Card Text/Abilities:
+【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【起】［(1) あなたのキャラを2枚【レスト】し、あなたの思い出置場の「ある日の風景」を1枚控え室に置く］ あなたは自分のクロックの上から1枚を、控え室に置く。
+Flavor Text:
+私なら、まだまだ歌えます。
+さあ、３度目のアンコール、行きましょう！
+
+==========================
+
+頭脳明晰　律子
+IM/S07-083 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Music 音楽,_Glasses メガネ
+Card Text/Abilities:
+【自】 相手が『集中』を使った時、その効果でクライマックスが控え室に置かれたなら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。
+【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。
+Flavor Text:
+プロデューサーを目指す者としては、事務所のアイドルのこと、常に把握しておかないとね♪
+
+==========================
+
+あわてる律子
+IM/S07-084 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Music 音楽,_Glasses メガネ
+Card Text/Abilities:
+【自】［(2)］ このカードがアタックした時、クライマックス置場に「いっぱいいっぱい」があるなら、あなたはコストを払ってよい。そうしたら、あなたは2枚まで引き、相手は1枚引く。
+Flavor Text:
+みんな～、準備はできてる～！今から、『いっぱいいっぱい』をいっぱい……うわぁ！？
+
+==========================
+
+ゆっくりのんびり あずさ
+IM/S07-085 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Music 音楽,_Love 愛
+Card Text/Abilities:
+NONE
+NONE
+Flavor Text:
+あの～、プロデューサーさん？
+……ふふふ、少し呼んでみただけです♪
+
+==========================
+
+生真面目 千早
+IM/S07-086 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: ,_Music 音楽
+Card Text/Abilities:
+【自】 このカードがサイドアタックした時、クライマックス置場に「目が逢う瞬間」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋3000し、あなたはこのカードの正面のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【永】 このカードはサイドアタックできない。このカードは他の枠に動かせない。』
+Flavor Text:
+私と今、目が逢った皆さん。是非、そのまま、聞いて下さい。『目が逢う瞬間』です、どうぞ
+
+==========================
+
+マイペースあずさMy Pace, Azusa
+IM/S07-087 U
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Music 音楽,_Love 愛
+Card Text/Abilities:
+【永】 相手のターン中、あなたの思い出置場に「ある日の風景」があるなら、このカードのパワーを＋1500。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+プロデューサーさん。さあ、立って下さい！
+私がついていますから！
+
+==========================
+
+サポート役小鳥
+IM/S07-088 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: ,_Music 音楽
+Card Text/Abilities:
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+わからないことがあったら、お姉さんに何でも聞いてね。ばっちりサポートしちゃうから♪
+
+==========================
+
+クールでストイック千早
+IM/S07-089 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: ,_Music 音楽
+Card Text/Abilities:
+【永】 他のあなたのキャラがいないなら、このカードのレベルを＋1し、パワーを＋1500。
+Flavor Text:
+孤独を味方につけねば、トップアイドルなど夢のまた夢ですから
+
+==========================
+
+方向音痴 あずさ
+IM/S07-090 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,_Love 愛
+Card Text/Abilities:
+【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、そのターン中、このカードは次の能力を得る。『【永】 このカードはアタックできない。』（公開したカードは元に戻す）
+【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列の空いている枠に動かしてよい。
+Flavor Text:
+あら～？次のステージはどこだったかしら～？
+
+==========================
+
+ボーカリスト 千早The Vocalist, Chihaya
+IM/S07-091 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: ,_Music 音楽
+Card Text/Abilities:
+NONE
+NONE
+Flavor Text:
+プロデューサー。今日は気持ちの良い日ですね。
+ふふ、たまには仕事をさぼりたい気分かも
+
+==========================
+
+天才シンガー千早Singing Genius Chihaya
+IM/S07-092 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 500
+Soul: 1
+Traits:: ,_Music 音楽
+Card Text/Abilities:
+【永】 他のあなたのキャラがいないなら、このカードのパワーを＋10000。
+【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+【自】 チェンジ ［(2) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「歌の女神 千早」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+私、なんとなく頂点が見えてきた気がします
+行きましょう、プロデューサー。あの頂へ！
+
+==========================
+
+歩く仕切り屋 律子　
+IM/S07-093 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 4500
+Soul: 1
+Traits:: Music 音楽,_Glasses メガネ
+Card Text/Abilities:
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。
+【起】［(2) あなたの思い出置場の「ある日の風景」を1枚控え室に置く］ あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋1500
+Flavor Text:
+ほらほら。私がここで見ていてあげるから、安心して、歌ってきなさい！
+
+==========================
+
+オールマイティ 律子Almighty, Ritsuko
+IM/S07-094 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Music 音楽,_Glasses メガネ
+Card Text/Abilities:
+NONE
+NONE
+Flavor Text:
+フフフ、私のメガネ、どうですか？
+似合うって言ってくれる人、募集中です！
+
+==========================
+
+ある日の風景
+IM/S07-095 U
+Type: Event
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+あなたは自分の手札の《音楽》のキャラを1枚選び、控え室に置いてよい。そうしたら、あなたは2枚まで引き、このカードを思い出にする。
+Flavor Text:
+ああもう、こんなに散らかしちゃって。
+片付けるの、大変なんですよ、本当にもう～
+
+==========================
+
+歌詞レッスンLyrics Lesson
+IM/S07-096 U
+Type: Event
+Level: 2
+Color: Blue
+Cost: 3
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+あなたの手札があるなら、あなたは自分の手札をランダムに1枚選び公開し、Ｘ枚引く。Ｘは公開されたカードのレベル＋1に等しい。（クライマックスのレベルは0として扱う）
+Flavor Text:
+これ、本当にいい歌詞ですね～。
+あ、歌詞といえば、昨日もらったお菓子なんですけど～
+
+==========================
+
+ダンスレッスンDance Lesson
+IM/S07-097 C
+Type: Event
+Level: 2
+Color: Red
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+あなたの手札があるなら、あなたは自分の手札をランダムに1枚選び公開し、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘは公開されたカードのレベル＋1に等しい。（クライマックスのレベルは0として扱う）
+Flavor Text:
+プロデューサーも、一緒にどうですか？
+２人でいい汗、かきましょうよ！
+
+==========================
+
+いっぱいいっぱい
+IM/S07-098 CR
+Type: Climax
+Level: N/A
+Color: Blue
+Cost: N/A
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+ねぇ　いっぱい…あなたの声を
+そう　いっぱい…聞かせてほしい
+
+==========================
+
+目が逢う瞬間
+IM/S07-099S SP
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、このカードを【レスト】する。（公開したカードは元に戻す）
+Flavor Text:
+目と目が逢う　瞬間好きだと気付いた
+
+==========================
+
+目が逢う瞬間
+IM/S07-099 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+最後だけ少しでも見つめたい
+少しだけこのまま瞳　そらさないで
+
+==========================
+
+隣に…
+IM/S07-100 CC
+Type: Climax
+Level: N/A
+Color: Blue
+Cost: N/A
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（引＠：このカードがトリガーした時、あなたは1枚引いてよい）
+Flavor Text:
+遠いかなたへ旅立った　私を一人置き去りにして
+
+==========================
+
+歌が大好きな春香
+IM/S07-101 TD
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Music 音楽,_Sweets お菓子
+Card Text/Abilities:
+【自】［①］このカードが手札から舞台に置かれたとき、あなたはコストを払ってよい。 そうしたら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選び控え室に置く。その山札をシャッフルする。
+Flavor Text:
+次は、あなたがいいかな？
+さあ、来て！私達の舞台へ！
+
+==========================
+
+努力家 千早
+IM/S07-102 TD
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Music 音楽,
+Card Text/Abilities:
+【永】あなたの手札が5枚以上ならこのカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。
+Flavor Text:
+後ろから、見ていてください。
+私の未来を。そして、これからを。
+
+==========================
+
+７６５プロ
+IM/S07-103P PR
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+引＠：このカードがトリガーした時、あなたは1枚引いてよい）
+Flavor Text:
+高木社長「765プロのアイドル候補生達を紹介しよう！」
+
+==========================
+
+プロジェクト・フェアリー
+IM/S07-104P PR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Music 音楽,_Television テレビ
+Card Text/Abilities:
+【自】 このカードがアタックした時、クライマックス置場に「７６５プロ」があるなら, あなたは1枚引く。
+Flavor Text:
+「ここはミキ達にまかせてね。あはっ☆」
+
+==========================
+
+天真爛漫な春香
+IM/S07-105P PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Music 音楽,_Sweets お菓子
+Card Text/Abilities:
+【永】 他の《音楽》のキャラが2枚以上いるなら、このカードのパワーを＋1000。
+【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+プロデューサーさん、アニメフェアですよ、アニメフェアっ♪
+
+==========================
+
+ライダースーツ春香
+IM/S07-106 PR
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Music 音楽,_Sweets お菓子
+Card Text/Abilities:
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000)
+Flavor Text:
+あの、私なんかで良かったら、いつでもどこでも
+すぐに駆けつけちゃいますからね！
+
+==========================
+
+“遠い音楽”千早"Fast Beat Music" Chihaya
+IM/S07-107P PR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Music 音楽,_Awakened 覚醒
+Card Text/Abilities:
+【永】 あなたの控え室の「“遠い音楽”千早」1枚つき,このカードのパワーを＋500。
+Flavor Text:
+遠くから聞こえてくる音楽。でも、あなたには、
+しっかりと聞こえるはずです。私の声が
+
+==========================
+
+おすまし亜美＆真美
+IM/S07-108 PR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Music 音楽,_Twins 双子
+Card Text/Abilities:
+【永】あなたのターン中、このカードのパワーを＋1000。
+Flavor Text:
+あのね、兄ちゃん。亜美も真美も、時々は
+かわいい女の子でいられるんだよ？
+
+==========================
+
+庶民派アイドルやよい
+IM/S07-109 PR
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Music 音楽,_Twins 双子
+Card Text/Abilities:
+【永】他のあなたの《カエル》のキャラが2枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+(やよいチャン、最近、紙のオカネを食べさせて
+モラッテないよ？また食べさせてネ！)
+
+==========================
+
+優しい女の子 雪歩
+IM/S07-110 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Music 音楽,_Tea お茶
+Card Text/Abilities:
+【永】あなたのターン中、他のあなたの《お茶》のキャラすべてに、パワーを＋500。
+Flavor Text:
+やっぱり、天気の良い午後は、熱々の日本茶に
+限りますよね！あの、すぐに用意しますから♪
+
+==========================
+
+新人アイドル 愛＆絵理＆涼
+IM/S07-111 PR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+【自】このカードがアタックした時、あなたのキャラすべてに、そのターン中、パワーを＋500。
+Flavor Text:
+みなさんに、あたしたちのパワーを、
+ばばーんと、おすそわけしちゃいますっ！
+
+==========================
+
+ドレス姿の律子
+IM/S07-112 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,_Glasses メガネ
+Card Text/Abilities:
+【自】［手札の《音楽》のキャラを1枚控え室に置く］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。
+Flavor Text:
+もうすぐ、誰か来ちゃいますよね。でも……。
+今日はこのまま、帰りたくない気分かも……
+
+==========================
+
+“とつげき豆タンク”愛
+IM/S07-113 PR
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+Flavor Text:
+さぁ、どんっどん行っきますよぉ～！
+とやー！　とやとやとや、とやーーーっ！
+
+==========================
+
+マルチアーティスト絵理
+IM/S07-114 PR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Music 音楽,_Net ネット
+Card Text/Abilities:
+【起】［② このカードをレストする］あなたは1枚引く。
+【起】［このカードをレストする］あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。
+【起】［② このカードをレストする］あなたは自分のクロックの上から1枚を、控え室に置く。
+Flavor Text:
+ライトがこの角度から当たっているから……
+こうすれば、きっと、魅力がひきたつ？
+
+==========================
+
+アイドルのいとこ涼
+IM/S07-115 PR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Music 音楽,_Crossdress 女装
+Card Text/Abilities:
+Flavor Text:
+見てて、律子ねーちゃん！　ねーちゃんみたく、
+立派なアイドルになってみせる！
+
+==========================
+
+ウェディングドレスの美希
+IM/S07-116 PR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,_Dress ドレス
+Card Text/Abilities:
+【自】このカードが手札から舞台に置かれた時、あなたは他の自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+ねえ、ハニー！そろそろ、ミキと結婚しちゃって、
+日本の少子化を食い止めよ♪
+
+==========================
+
+ボーイッシュな真
+IM/S07-117 PR
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Music 音楽,_Sports スポーツ
+Card Text/Abilities:
+【永】他のあなたの《音楽》のキャラすべてに、パワーを＋500。
+Flavor Text:
+ねえ、キミ！　ボクのハートを撃ち抜いてみない？
+後悔させないからさ！
+
+==========================
+
+ほのかにセクシーあずさ
+IM/S07-118 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Music 音楽,_Love 愛
+Card Text/Abilities:
+Flavor Text:
+あ、すみません。胸のあたりが苦しいので、
+少しさすってもらえないでしょうか……？
+
+==========================
+
+ウェディングドレスの伊織
+IM/S07-119 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Music 音楽,_Doll 人形
+Card Text/Abilities:
+Flavor Text:
+さあ、そろそろ行きましょう！　え、何って、
+アンタと私の結婚式に決まってるでしょ！
+
+==========================
+
+レッドスパンコール 春香
+IM/S07-120 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,_Sweets お菓子
+Card Text/Abilities:
+【A】 When this card comes to stage from hand, look at the top card of your deck, place it to the top deck or waiting room.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。
+Flavor Text:
+プロデューサーさんが見てくれるから、
+私、全力で歌えます！
+
+==========================
+
+876プロ 愛＆絵理＆涼
+IM/S07-876 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+【永】あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+はーい！　それじゃいきますよー！
+夢へ向かって、とっつげーーーきっ！
+
+==========================
+
+普通の女の子春香
+IM/S07-T01 TD
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Music 音楽,_Sweets お菓子
+Card Text/Abilities:
+NONE
+NONE
+Flavor Text:
+プロデューサーさ～ん！
+ずっと、そこで見ていて下さいね～！
+
+==========================
+
+運動好きな真
+IM/S07-T02 TD
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,_Sports スポーツ
+Card Text/Abilities:
+【自】 このカードがアタックした時、あなたは自分の《音楽》のキャラを2枚まで選び、そのターン中、パワーを＋500。
+Flavor Text:
+へへっ、やっぱり、最初はボクが行くしか、ありえないですよねっ！
+
+==========================
+
+りりしく精悍真
+IM/S07-T03 TD
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Music 音楽,_Sports スポーツ
+Card Text/Abilities:
+【自】 チェンジ ［(3) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「パワフルガール真」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+プロデューサー。ボクの全力見ていて下さい！
+
+==========================
+
+王子様真
+IM/S07-T04 TD
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Music 音楽,_Sports スポーツ
+Card Text/Abilities:
+【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）
+Flavor Text:
+みんな、待たせたね！
+ここから先は、ボクにまかせて
+
+==========================
+
+200％元気！やよい
+IM/S07-T05 TD
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 4500
+Soul: 1
+Traits:: Music 音楽,_Banana バナナ
+Card Text/Abilities:
+【永】 あなたの思い出置場に「プレゼント」があるなら、他のあなたの《音楽》のキャラすべてに、パワーを＋500。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+皆さ～ん！
+ビシビシ～って、はりきって、いきましょー！
+
+==========================
+
+ハイタッチやよい
+IM/S07-T06 TD
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Music 音楽,_Banana バナナ
+Card Text/Abilities:
+【自】 このカードが手札から舞台に置かれた時、相手の「ハイタッチやよい」がいて、すべてのプレイヤーが認めたなら、ハイタッチする。そうしたら、すべてのプレイヤーは1枚引く。（音には注意しましょう）
+Flavor Text:
+うっう～、ハイタ～ッチ！いえい！
+
+==========================
+
+パワフルガール真Powerful Girl, Makoto
+IM/S07-T07 TD
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Music 音楽,_Sports スポーツ
+Card Text/Abilities:
+【自】 バトル中のこのカードが【リバース】した時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+とりあえず、ボクの出番は終わりですね。
+でも、ボクを忘れてると、火傷しますよ？
+
+==========================
+
+歌への情熱春香
+IM/S07-T08 TD
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Music 音楽,_Sweets お菓子
+Card Text/Abilities:
+【自】［(1)］ このカードが控え室から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。
+【起】［あなたの思い出置場の「プレゼント」を1枚控え室に置く］ そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードとバトル中のキャラが【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』
+Flavor Text:
+私と、プロデューサーさんの思い出さえあれば、世界に怖いものなんてありません！
+
+==========================
+
+プレゼント Present
+IM/S07-T09 TD
+Type: Event
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。このカードを思い出にする。
+Flavor Text:
+プロデューサーさん。これ、昨日焼いたクッキーなんですけど……。あの、１ついかがですか？
+
+==========================
+
+I WantI Want
+IM/S07-T10 TD
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+そこに跪いて！
+
+==========================
+
+サポート役小鳥
+IM/S07-T11 TD
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: ,_Music 音楽
+Card Text/Abilities:
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+わからないことがあったら、お姉さんに何でも聞いてね。ばっちりサポートしちゃうから♪
+
+==========================
+
+クールでストイック千早
+IM/S07-T12 TD
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: ,_Music 音楽
+Card Text/Abilities:
+【永】 他のあなたのキャラがいないなら、このカードのレベルを＋1し、パワーを＋1500。
+Flavor Text:
+孤独を味方につけねば、トップアイドルなど夢のまた夢ですから
+
+==========================
+
+ボーカリスト 千早The Vocalist, Chihaya
+IM/S07-T13 TD
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: ,_Music 音楽
+Card Text/Abilities:
+NONE
+NONE
+Flavor Text:
+プロデューサー。今日は気持ちの良い日ですね。
+ふふ、たまには仕事をさぼりたい気分かも
+
+==========================
+
+ゆっくりのんびり あずさ
+IM/S07-T14 TD
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Music 音楽,_Love 愛
+Card Text/Abilities:
+NONE
+NONE
+Flavor Text:
+あの～、プロデューサーさん？
+……ふふふ、少し呼んでみただけです♪
+
+==========================
+
+オールマイティ 律子Almighty, Ritsuko
+IM/S07-T15 TD
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Music 音楽,_Glasses メガネ
+Card Text/Abilities:
+NONE
+NONE
+Flavor Text:
+フフフ、私のメガネ、どうですか？
+似合うって言ってくれる人、募集中です！
+
+==========================
+
+目が逢う瞬間
+IM/S07-T16 TD
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+目と目が逢う　瞬間好きだと気付いた
+
+==========================
+

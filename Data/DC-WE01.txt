@@ -1,0 +1,124 @@
+芳乃家の居候 アイシア
+DC/WE01-020 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Toy オモチャ
+Card Text/Abilities:
+【S】[(2)] Choose 1 of your character, during this turn, it gets +1 soul, this card +1 soul.
+【起】[(2)]あなたは他の自分のキャラを1枚選び、そのターン中、ソウルを+1し、このカードのソウルを+1。
+Flavor Text:
+あはは、今日は大切な挨拶を忘れてたから
+
+==========================
+
+たとえ好きな恋人 まひる
+DC/WE01-021 PR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Myth たとえ話,
+Card Text/Abilities:
+【S】[Place this card to memory] Choose 1 of your 《お菓子》 character, during this turn it gets +4000 power and +2 soul.
+【起】[このカードを思い出にする] あなたは自分の《お菓子》のキャラを1枚選び、そのターン中、パワーを+4000し、ソウルを+2。
+Flavor Text:
+それは無粋です。 例えるなら――
+
+==========================
+
+夢じゃない
+DC/WE01-022 PR
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+義之くんのこと……本当に好きになっちゃったから……
+
+==========================
+
+沢井 美秋
+DC/WE01-023 PR
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Mecha メカ,_Banana バナナ
+Card Text/Abilities:
+【A】 When this card comes to stage from hand, choose 1 of your 《委員長》 character, during this turn, it gets +1000 power.
+【自】このカードが手札から舞台に置かれた時、あなたは自分の《委員長》のキャラを1枚選び、そのターン中、パワーを+1000。
+Flavor Text:
+迷わないで。 お姉ちゃんがついてるから
+
+==========================
+
+デートを楽しむエリカ
+DC/WE01-024 PR
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Class Rep 委員長,_Royal Family 王族
+Card Text/Abilities:
+【C】 If you have other 3 or above 《生徒会》 character, this card gets +1000 power.
+【永】 他のあなたの《生徒会》のキャラが3枚以上なら、このカードのパワーを+1000。
+Flavor Text:
+わたしが作ったのよ？ 美味しいに決まってるでしょ
+
+==========================
+
+バナナフッズエンド
+DC/WE01-025 PR
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card comes on Stage from hand, put the top card of your deck to Stock. During this turn, all of your Characters get +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+みんな、ありがとう……
+
+==========================
+
+優等生の委員長 沢井麻耶
+DC/WE01-026 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Class Rep 委員長,_Glasses メガネ
+Card Text/Abilities:
+Flavor Text:
+では、ちゅうもーく！ 全員そろったわね？
+
+==========================
+

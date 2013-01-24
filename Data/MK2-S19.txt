@@ -1,0 +1,399 @@
+捜査再開！ エリー
+MK2/S19-101 TD
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Detective 探偵,_Book 本
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand, during this turn, this card gets +X Power. X is equal to the number of your 《探偵》 Characters ×500.
+【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《探偵》のキャラの枚数×500に等しい。
+Flavor Text:
+こ、こうですか…
+
+==========================
+
+捜査再開！ ネロ
+MK2/S19-102 TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 3500
+Soul: 1
+Traits:: Detective 探偵,_Sweets お菓子
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card, gets +1000 Power.
+【A】 At the beginning of your Climax Phase, choose 1 of your Characters, during this turn, it gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。
+【自】 あなたのクライマックスフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+いぇーい！
+
+==========================
+
+新たな指揮官 姫百合
+MK2/S19-103 TD
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Detective 探偵,_Police 警察
+Card Text/Abilities:
+【C】 If you have 3 or more other 《探偵》 or 《警察》 Characters, this card gets +1000 Power.
+【A】 When this card is placed on Stage from Hand, draw up to 2 cards, choose 1 card from your Hand, place it into Waiting Room.
+【永】 他のあなたの、《探偵》か《警察》のキャラが3枚以上なら、このカードのパワーを＋1000。
+【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+私が…指揮官？
+
+==========================
+
+捜査再開！ シャロ
+MK2/S19-104SP SP
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Detective 探偵,_Camera カメラ
+Card Text/Abilities:
+【A】 When your other Character becomes REVERSE in battle, during this turn, this card gets +1000 Power.
+【自】 他のあなたのバトル中のキャラがリバースした時、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+みなさん、ピースです、ピース！
+
+==========================
+
+捜査再開！ シャロ
+MK2/S19-104S SR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Detective 探偵,_Camera カメラ
+Card Text/Abilities:
+【A】 When your other Character becomes REVERSE in battle, during this turn, this card gets +1000 Power.
+【自】 他のあなたのバトル中のキャラがリバースした時、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+ヒメちゃん、こっちです！
+
+==========================
+
+捜査再開！ シャロ
+MK2/S19-104 TD
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Detective 探偵,_Camera カメラ
+Card Text/Abilities:
+【A】 When your other Character becomes REVERSE in battle, during this turn, this card gets +1000 Power.
+【自】 他のあなたのバトル中のキャラがリバースした時、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+みなさん、ピースです、ピース！
+
+==========================
+
+捜査再開！ コーデリア
+MK2/S19-105 TD
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Detective 探偵,_Sports スポーツ
+Card Text/Abilities:
+Flavor Text:
+ふふっ♪
+
+==========================
+
+“優柔不断”姫百合
+MK2/S19-T01 TD
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Detective 探偵,_Police 警察
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card, gets +500 Power.
+【A】 When this card is placed on Stage from Hand, choose 1 of your Characters, during this turn, it gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+ちょっと待ってください、シャーロックさん！
+
+==========================
+
+メガネっ娘 咲
+MK2/S19-T02 TD
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Police 警察,_Glasses メガネ
+Card Text/Abilities:
+【S】 ［①］ During this turn, this card gets +2000 Power.
+【起】［①］ そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+罰ゲーム執行～
+
+==========================
+
+農業娘 エリー
+MK2/S19-T03 TD
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Detective 探偵,_Agriculture 農業
+Card Text/Abilities:
+Flavor Text:
+大きく育って……、ナスさん、キュウリさん……
+
+==========================
+
+小林への関心 姫百合
+MK2/S19-T04 TD
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Detective 探偵,_Police 警察
+Card Text/Abilities:
+【C】 If your Stock is 5 or more, this card gets +1000 Power.
+【永】 あなたのストックが5枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+トイズも持っていないのに、探偵を指揮…？
+
+==========================
+
+農業娘 コーデリア
+MK2/S19-T05 TD
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Detective 探偵,_Agriculture 農業
+Card Text/Abilities:
+Flavor Text:
+パラダイス！ シャンバラ！ 楽園！
+明るいミルキィホームズ農村～♪
+
+==========================
+
+古武術家 平乃
+MK2/S19-T06 TD
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Police 警察,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+はっ！ はっ！
+
+==========================
+
+実演
+MK2/S19-T07 TD
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: G
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】 All your Characters, gets +1000 Power, +1 Soul.
+(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（宝： このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）
+Flavor Text:
+こ、コートの中はハダカです……
+
+==========================
+
+G3の休日
+MK2/S19-T08 TD
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】 When this card is placed into the Climax slot from Hand, place the top card of your Deck into Stock, during this turn, all your Characters get +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+小衣「あんたらー！なに三人揃って、
+遅刻してるのよ！早く出勤しなさ～い！」
+
+==========================
+
+プロの腕前 次子
+MK2/S19-T09 TD
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Police 警察,_Weapon 武器
+Card Text/Abilities:
+【S】 ［② REST this card］ Choose 1 card from your Waiting Room, return it to Hand.
+【起】［② このカードをレストする］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+探偵にはいらない技術だもんなぁ
+
+==========================
+
+農業娘 ネロ
+MK2/S19-T10 TD
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Detective 探偵,_Agriculture 農業
+Card Text/Abilities:
+Flavor Text:
+おっ、かまぼこ、ナイス肥料！
+
+==========================
+
+チューリップ組 小衣
+MK2/S19-T11R RRR
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Police 警察,_Mask 仮面
+Card Text/Abilities:
+【S】● ASSIST 2000 LEVEL 1 ［① Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +2000 Power)
+【起】● 助太刀 2000 レベル1 ［① 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）
+Flavor Text:
+ちょっと、咲！ このアホ衣装係！
+
+==========================
+
+チューリップ組 小衣
+MK2/S19-T11 TD
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Police 警察,_Mask 仮面
+Card Text/Abilities:
+【S】● ASSIST 2000 LEVEL 1 ［① Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +2000 Power)
+【起】● 助太刀 2000 レベル1 ［① 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）
+Flavor Text:
+ちょっと、咲！ このアホ衣装係！
+
+==========================
+
+農業娘 シャロ
+MK2/S19-T12 TD
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Detective 探偵,_Agriculture 農業
+Card Text/Abilities:
+Flavor Text:
+今日も元気に畑仕事です！
+
+==========================
+
+本家バリツ
+MK2/S19-T13 TD
+Type: Event
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+If you do not have a 《探偵》 Character, you cannot play this card from Hand.
+Choose 1 card from your Level slot and 1 card from Waiting Room, you may exchange them.
+Choose 1 Character from your Waiting Room, return it to Hand.
+Choose 1 Character, during this turn, it gets +1500 Power.
+このカードは、あなたの《探偵》のキャラがいないなら、手札からプレイできない。あなたは自分のレベル置場のカードと控え室のカードを1枚ずつ選び、入れ替えてよい。
+あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+バリツ!!
+
+==========================
+
+初めてのダンス
+MK2/S19-T14 TD
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】 All your Characters, get +2 Soul.
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+頑張るんです、優勝するんです！
+
+==========================
+

@@ -1,0 +1,1519 @@
+皆を見送る役目 かなでSending Everyone Off, Kanade
+AB/W11-001 RR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Death 死,_Student Council 生徒会
+Card Text/Abilities:
+【C】 All your other 《死》 Characters gain, 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』.
+【S】 ［REST this card］ Choose 1 of your Characters, during this turn, it gets +1000 Power.
+【永】他のあなたの《死》のキャラすべてに、「【自】 アンコール ［手札のキャラを1枚控え室に置く］」を与える。
+【起】［このカードをレストする］あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+ならもう、思い残すことは無い？
+
+==========================
+
+皆を見送る役目 かなでSending Everyone Off, Kanade
+AB/W11-001 SP
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Death 死,_Student Council 生徒会
+Card Text/Abilities:
+【C】 All your other 《死》 Characters gain, 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』.
+【S】 ［REST this card］ Choose 1 of your Characters, during this turn, it gets +1000 Power.
+【永】他のあなたの《死》のキャラすべてに、「【自】 アンコール ［手札のキャラを1枚控え室に置く］」を与える。
+【起】［このカードをレストする］あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+あなたが思い残してることは、そのことじゃないの？
+
+==========================
+
+結弦の心臓 かなでYuzuru's Heart, Kanade
+AB/W11-002S SR
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Death 死,_Student Council 生徒会
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.
+【A】 When the Character battling this card becomes REVERSE, you may place that Character into Memory.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】 このカードのバトル相手がリバースした時、あなたはそのキャラを思い出にしてよい。
+Flavor Text:
+きっとその誰かは見知らぬあなたに、
+ありがとうって一生思い続けるわね
+
+==========================
+
+結弦の心臓 かなでYuzuru's Heart, Kanade
+AB/W11-002 RR
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Death 死,_Student Council 生徒会
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.
+【A】 When the Character battling this card becomes REVERSE, you may place that Character into Memory.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】 このカードのバトル相手がリバースした時、あなたはそのキャラを思い出にしてよい。
+Flavor Text:
+だってあたしは、ありがとうをあなたに言いに来たんだから
+
+==========================
+
+ガルデモのアシスタント　ユイGirlDeMo Assistant, Yui
+AB/W11-003 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Death 死,_Music 音楽
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card, gets +500 Power.
+【S】 ［① REST 1 of your other 《音楽》 Characters］ Choose 1 of your 《音楽》 Characters, during this turn, it gets +1 Soul.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】 ［① 他のあなたの《音楽》のキャラを1枚レストする］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、ソウルを＋1。
+Flavor Text:
+いいぞ―っ！
+
+==========================
+
+一人きりの天使Solitary Angel
+AB/W11-004 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Death 死,_Student Council 生徒会
+Card Text/Abilities:
+【C】 During your turn, for each of your other 《死》 Characters, this card gets +500 Power.
+【永】 あなたのターン中、他のあなたの《死》のキャラ1枚につき、このカードのパワーを＋500。
+Flavor Text:
+居ないわ。居たとしても、みんな消えちゃうもの
+
+==========================
+
+麦わら帽子のかなでStraw Hat, Kanade
+AB/W11-005 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Death 死,_Student Council 生徒会
+Card Text/Abilities:
+【A】 ［②］If 「守るための力」 is placed into your Climax slot, if this card is in the Front Row, you may pay the cost. If you did, search your deck for up to 2 「戦う理由　かなで」, place them separately on the Front Row. Shuffle your deck afterwards.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you did, place this card in its previous slot in REST)
+【自】 ［②］ あなたのクライマックス置場に「守るための力」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「戦う理由 かなで」を2枚まで選び、前列の別々の枠に置く。その山札をシャッフルする。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+あそこに近づくのは校則違反よ
+
+==========================
+
+たくさんのやりたいこと　ユイWanting to Do Many Things, Yui
+AB/W11-006R RRR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Death 死,_Music 音楽
+Card Text/Abilities:
+【A】［①］When this card attacks, if  「女の最高の幸せ」 is in your Climax slot, you may pay this cost. If you do, all your Characters, during this turn, gets +1000 Power, +1 Soul.
+【A】 ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【自】［①］このカードがアタックした時、クライマックス置場に「女の最高の幸せ」があるなら、あなたはコストを支払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋1000し、ソウルを＋1。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+あたしね、やりたいこと、人よりいっぱいあるんだ
+
+==========================
+
+たくさんのやりたいこと　ユイWanting to Do Many Things, Yui
+AB/W11-006 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Death 死,_Music 音楽
+Card Text/Abilities:
+【A】 ［①］ When this card attacks, if  「女の最高の幸せ」 is in your Climax slot, you may pay the cost. If you did, all your Characters, during this turn, gets +1000 Power, +1 Soul.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you did, place this card in its previous slot in REST)
+【自】 ［①］ このカードがアタックした時、クライマックス置場に「女の最高の幸せ」があるなら、あなたはコストを支払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋1000し、ソウルを＋1。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+そんなのぜんぜんだよ。
+やりたかったことのひとつにすぎないよ
+
+==========================
+
+佇むかなでStanding Still, Kanade
+AB/W11-007S SR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Death 死,_Student Council 生徒会
+Card Text/Abilities:
+【A】 When this card attacks, choose 1 of your Characters with 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』, during this turn, it gets +1 Soul.
+【自】このカードがアタックした時、あなたは自分の『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を持つキャラを1枚選び、そのターン中、ソウルを＋1。
+Flavor Text:
+そんなに不安？
+
+==========================
+
+佇むかなでStanding Still, Kanade
+AB/W11-007 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Death 死,_Student Council 生徒会
+Card Text/Abilities:
+【A】 When this card attacks, choose 1 of your Characters with 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』, during this turn, it gets +1 Soul.
+【自】 このカードがアタックした時、あなたは自分の『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を持つキャラを1枚選び、そのターン中、ソウルを＋1。
+Flavor Text:
+どこ行くの？テスト始まるわよ？
+
+==========================
+
+生徒会長　かなでStudent Council President, Kanade
+AB/W11-008 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Death 死,_Student Council 生徒会
+Card Text/Abilities:
+【A】 ［① Place 1 card from Hand into Waiting Room, place this card into Memory］ When this card becomes REVERSE in battle, you may pay the cost. If you did, search your deck for up to 1 《生徒会》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【自】［① 手札を1枚控え室に置き、このカードを思い出にする］バトル中のこのカードがリバースした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《生徒会》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+Just like a villain.
+まるで悪役ね
+
+==========================
+
+自称神　直井Self-Proclaimed God, Naoi
+AB/W11-009 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Death 死,_Twins 双子
+Card Text/Abilities:
+【A】 ［①］ When this card is placed on Stage from hand, you may pay the cost. If you did, during this turn, this card gets +2500 Power.
+【自】 ［①］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。 そうしたら、そのターン中、このカードのパワーを＋2500。
+Flavor Text:
+貴様･･･僕は神だぞ？
+
+==========================
+
+戦う理由 かなでReason for Fighting, Kanade
+AB/W11-010 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Death 死,_Student Council 生徒会
+Card Text/Abilities:
+【A】 Place 1 card from Hand into Waiting Room, REST 1 of your Characters in STAND］When this card is placed on Stage, you may pay the cost. If you did, search your deck for up to 1 「戦う理由　かなで」, show it to your opponent, add it hand. Shuffle your deck afterwards.
+【自】 ［手札を1枚控え室に置き、あなたのスタンドしているキャラを1枚レストする］このカードが舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「戦う理由 かなで」を1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+壮絶な戦いだった…
+
+==========================
+
+マウントポジション ユイMount Position, Yui
+AB/W11-011 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Death 死,_Music 音楽
+Card Text/Abilities:
+【C】 During your turn, for each of your other Characters with 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』, this card gets +500 Power.
+【永】 あなたのターン中、他のあなたの『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を持つキャラ1枚につき、このカードのパワーを＋500。
+Flavor Text:
+よくも卍固めにしまくってくれたな、
+このぉぉぉぉぉ～～！！！！
+
+==========================
+
+ガルデモのリーダー 岩沢GirlDeMo's Leader, Iwasawa
+AB/W11-012 U
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Death 死,_Music 音楽
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card with Level 2 or above, gets +1000 Power.
+【C】 RECOLLECTION If your Memory has 3 or more cards, this card gains 『【C】 SUPPORT All your Characters in front of this card, gets +500 Power.』.
+【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。
+【永】 記憶 あなたの思い出が3枚以上なら、このカードは『 【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。』を得る。
+Flavor Text:
+さあ、派手にやろうぜ！
+
+==========================
+
+かなでの理解者　音無Kanade's Understander Otonashi
+AB/W11-013 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Death 死,
+Card Text/Abilities:
+【A】 BOND／「麦わら帽子のかなで」 ［①］ (When this card is played onto Stage, you may pay the cost. If you did, choose 1 「麦わら帽子のかなで」 in your Waiting Room, return it to Hand)
+【自】 絆／「麦わら帽子のかなで」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「麦わら帽子のかなで」を1枚選び、手札に戻す)
+Flavor Text:
+この世界では俺はおまえの味方でいたかもな
+
+==========================
+
+カリスマボーカル 岩沢Charisma Vocals, Iwasawa
+AB/W11-014 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Death 死,_Music 音楽
+Card Text/Abilities:
+【A】 ［①］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 of your opponent's Character with Level 0 or below, return it to Hand. At the end of this turn, place this card into Memory.
+【自】［①］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル0以下のキャラを1枚選び、手札に戻し、ターンの終りに、このカードを思い出にする。
+Flavor Text:
+いや、そうさせるのは誰でもない。
+――私たちの力なんだ！
+
+==========================
+
+姉御肌 ひさ子Big Sister Physique, Hisako
+AB/W11-015 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Death 死,_Music 音楽
+Card Text/Abilities:
+Flavor Text:
+次もバンドやるよ
+
+==========================
+
+岩沢の後継者 ユイIwasawa's Successor, Yui
+AB/W11-016 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Death 死,_Music 音楽
+Card Text/Abilities:
+Flavor Text:
+根性見せますっ
+
+==========================
+
+戦線の敵 天使 Enemy of the Warfront, Angel
+AB/W11-017 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Death 死,_Student Council 生徒会
+Card Text/Abilities:
+【S】● ASSIST 2000 Level 1 ［① Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +2000 Power.)
+【起】● 助太刀 2000 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000)
+Flavor Text:
+ゆり「あれよ…。あれが「死んでたまるか戦線」の敵…天使よ」
+
+==========================
+
+不器用な対立　かなでAwkward Confrontation, Kanade
+AB/W11-018 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Death 死,_Student Council 生徒会
+Card Text/Abilities:
+【A】 When this card attacks, if 「舞い降りる天使」 is in the Climax slot, choose 1 of you opponent's Characters, you may return it to Hand.
+【自】 このカードがアタックした時、クライマックス置場に「舞い降りる天使」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。
+Flavor Text:
+あなたがそうしたければ、どうぞお好きに
+
+==========================
+
+生前の記憶のない音無No Living Memory, Otonashi
+AB/W11-019 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Death 死,
+Card Text/Abilities:
+Flavor Text:
+…ここは…？　どこだ…？　…思い出せない…
+
+==========================
+
+歌いたかった歌The Song that was to be Sung
+AB/W11-020 U
+Type: Event
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+● Choose 1 of your 《死》 Characters, during this turn, it gets +3500 Power.
+● あなたは自分の《死》のキャラを1枚選び、そのターン中、パワーを＋3500。
+Flavor Text:
+岩沢『やっと･･･見つけた･･･』
+
+==========================
+
+天使の麻婆豆腐Angel's Mapo Tofu
+AB/W11-021 U
+Type: Event
+Level: 1
+Color: Yellow
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Search your deck for up to 3 《死》 Characters, show them to your opponent, add them to Hand. Shuffle your deck afterwards. Choose 2 cards in your Hand, place them into Waiting Room.
+あなたは自分の山札を見て《死》のキャラを3枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。あなたは自分の手札を2枚選び、控え室に置く。
+Flavor Text:
+私、麻婆豆腐が好きなの？
+
+==========================
+
+催眠術Hypnotism
+AB/W11-022 C
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your opponent's Front Row Character with Level 2 or below, place it into Memory.
+あなたは相手の前列のレベル2以下のキャラを1枚選び、思い出にする。
+Flavor Text:
+貴様は今から幸せな夢を見る
+
+==========================
+
+守るための力Power to Protect
+AB/W11-023 CR
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】 When this card is placed into the Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】 このカードが手札からクライマックス置き場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+…助けなきゃ
+
+==========================
+
+舞い降りる天使Descending Angel
+AB/W11-024 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1F
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】 All your Characters get +1000 Power, +1 Soul.
+(Flame： When this card is Triggered, if your current attacking Character's damage is cancelled, deal 1 damage to the opponent.)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(炎：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える。)
+Flavor Text:
+…そう……わかった
+
+==========================
+
+女の最高の幸せA Girl's Best Happiness
+AB/W11-025 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1W
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】 All your Characters gets +1000 Power, +1 Soul.
+(Wind： When this card is Triggered, you may choose 1 of your opponent's Character, return to Hand)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(風：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+･･･よかった
+
+==========================
+
+戦略的な挑発 ゆりStrategic Provocation, Yuri
+AB/W11-051SP SP
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Death 死,_Weapon 武器
+Card Text/Abilities:
+【C】 The Character facing this card gains the following ability. 『【C】 This card cannot Side Attack.』
+【A】 When this card becomes REVERSE, if this card's battling opponent is Level 0 or below, you may REVERSE that Character.
+【永】 このカードの正面のキャラに、次の能力を与える。『【永】 このカードはサイドアタックできない。』
+【自】 このカードがリバースした時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをリバースしてよい。
+Flavor Text:
+ここは死んだ世界。何もしなければ、消されるわよ
+
+==========================
+
+戦略的な挑発 ゆりStrategic Provocation, Yuri
+AB/W11-051 RR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Death 死,_Weapon 武器
+Card Text/Abilities:
+【C】 The Character facing this card gains the following ability. 『【C】 This card cannot Side Attack.』
+【A】 When this card becomes REVERSE, if this card's battling opponent is Level 0 or below, you may REVERSE that Character.
+【永】 このカードの正面のキャラに、次の能力を与える。『【永】 このカードはサイドアタックできない。』
+【自】 このカードがリバースした時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをリバースしてよい。
+Flavor Text:
+さて、天使さんのご気分はいかがかしら？
+
+==========================
+
+お姉ちゃんの役割　ゆりElder Sister Role Yuri
+AB/W11-052R RRR
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Death 死,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card attacks, if 「生前の記憶」 is in the Climax slot, choose up to 2 《死》 Characters in your Waiting Room, you may return them to Hand. If you did, choose 2 cards in your Hand, place them into Waiting Room.
+【A】 CHANGE ［① Place 1 card from Hand into Waiting Room, place this card into Memory］ At the beginning of your Encore step, if this card is in REST, you may pay the cost. If you did, choose 1 「この世界からの卒業　ゆり」 in your Waiting Room, place it on this card's previous slot.
+【自】 このカードがアタックした時、クライマックス置場に「生前の記憶」があるなら、あなたは自分の控え室の《死》のキャラを2枚まで選び、手札に戻してよい。そうしたら、あなたは自分の手札を2枚選び、控え室に置く。
+【自】 チェンジ ［① 手札を1枚控え室に置き、このカードを思い出にする］ あなたのアンコールステップの始めに、このカードがレストしているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「この世界からの卒業 ゆり」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+あの日までは立派なおねえちゃんでいられた自信もあったのに･･･
+
+==========================
+
+お姉ちゃんの役割　ゆりElder Sister Role, Yuri
+AB/W11-052 RR
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Death 死,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card attacks, if 「生前の記憶」 is in the Climax slot, choose up to 2 《死》 Characters in your Waiting Room, you may return them to Hand. If you did, choose 2 cards in your Hand, place them into Waiting Room.
+【A】 CHANGE ［① Place 1 card from Hand into Waiting Room, place this card into Memory］ At the beginning of your Encore step, if this card is in REST, you may pay the cost. If you did, choose 1 「この世界からの卒業　ゆり」 in your Waiting Room, place it on this card's previous slot.
+【自】 このカードがアタックした時、クライマックス置場に「生前の記憶」があるなら、あなたは自分の控え室の《死》のキャラを2枚まで選び、手札に戻してよい。そうしたら、あなたは自分の手札を2枚選び、控え室に置く。
+【自】 チェンジ ［① 手札を1枚控え室に置き、このカードを思い出にする］ あなたのアンコールステップの始めに、このカードがレストしているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「この世界からの卒業 ゆり」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+守りたい全てを30分で奪われた、そんな理不尽て無いじゃない…
+
+==========================
+
+共同戦線　かなで＆ゆりUnited Front, Kanade & Yuri
+AB/W11-053 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Death 死,_Weapon 武器
+Card Text/Abilities:
+【A】 ［Place 1 card from Hand into Clock］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《死》 Character in your Waiting Room, return it to hand.
+【自】 ［手札を1枚クロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《死》のキャラを1枚選び、手札に戻す。
+Flavor Text:
+かなでちゃん、よろしく
+
+==========================
+
+百人力の手練　椎名Skill of a Hundred, Shiina
+AB/W11-054S SR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Death 死,_Weapon 武器
+Card Text/Abilities:
+【A】 ［②］ When you use this card's 『ASSIST』, you may pay the cost. If you did, return all cards from your Waiting Room into your Deck. Shuffle your Deck afterwards.
+【S】● ASSIST 2500 Level 2［① Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +2500 Power.)
+【自】 ［②］ あなたがこのカードの『 助太刀 』を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻す。その山札をシャッフルする。
+【起】● 助太刀2500 レベル2 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500)
+Flavor Text:
+百人戦力が増えたと思え
+
+==========================
+
+百人力の手練　椎名Skill of a Hundred, Shiina
+AB/W11-054 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Death 死,_Weapon 武器
+Card Text/Abilities:
+【A】 ［②］ When you use this card's 『ASSIST』, you may pay the cost. If you did, return all cards from your Waiting Room into your Deck. Shuffle your Deck afterwards.
+【S】● ASSIST 2500 Level 2［① Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +2500 Power.)
+【自】 ［②］ あなたがこのカードの『 助太刀 』を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻す。その山札をシャッフルする。
+【起】● 助太刀 2500 レベル2 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500)
+Flavor Text:
+あさはかなり･･･
+
+==========================
+
+”ＳＳＳ”ゆり"SSS" Yuri
+AB/W11-055 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Death 死,_Weapon 武器
+Card Text/Abilities:
+【C】 If you have 2 or more other 《死》 Characters, this card gains 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』.
+【A】 ［②］ When 「死んだ世界戦線」 is placed into the Climax slot, if this card is in the Front Row, you may pay the cost. If you did, search your deck for up to 1 《死》 Character with Level 2 or below, place it on Stage in an empty slot. Shuffle your Deck afterwards.
+【自】 他のあなたの《死》のキャラが2枚以上なら、このカードは「【自】 アンコール ［手札のキャラを1枚控え室に置く］」を得る。
+【自】 ［②］ あなたのクライマックス置き場に「死んだ世界戦線」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル2以下の《死》のキャラを1枚まで選び、舞台のキャラのいない枠に置く。その山札をシャッフルする。
+Flavor Text:
+私はゆり、この戦線のリーダーよ
+
+==========================
+
+過去を求める音無Seeking The Past Otonashi
+AB/W11-056 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Death 死,_Weapon 武器
+Card Text/Abilities:
+【A】 ［Return 2 Characters from your Waiting Room into your Deck. Shuffle your Deck afterwards］ When this card attacks, you may pay the cost. If you did, during this turn, this card gets +2000 Power.
+【A】 ［①］ When this card attacks, if 「報われた気持ち」 is in the Climax slot, you may pay the cost. If you did, deal 1 damage to your opponent.(Damage can be cancelled)
+【自】 ［あなたの控え室のキャラを2枚山札に戻す。その山札をシャッフルする］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000。
+【自】 ［①］ このカードがアタックした時、クライマックス置場に「報われた気持ち」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。 (ダメージキャンセルは発生する)
+Flavor Text:
+もちろん思い出したい、でも･･･この気持ちはなんなんだ？
+
+==========================
+
+理不尽な運命への抵抗　ゆりResisting Against An Unreasonable Destiny Yuri
+AB/W11-057S SR
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Death 死,_Weapon 武器
+Card Text/Abilities:
+【C】 The Character facing this card gets -1 Soul.
+【A】 ［④］ When this card attacks, you may pay the cost. If you did, choose up to 4 of your other Characters, place them into Waiting Room, deal X damage to your opponent. X is equals to the number of Characters placed into Waiting Room by this ability.(Damage can be cancelled)
+【自】 このカードの正面のキャラのソウルを－1。
+【自】 ［④］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを4枚まで選び、控え室に置き、相手にXダメージを与える。Xはこの効果で控え室に置かれたキャラの枚数に等しい。 (ダメージキャンセルは発生する)
+Flavor Text:
+人間というものは･･･
+たったの10分だって、我慢してくれないものなのよ!!
+
+==========================
+
+理不尽な運命への抵抗　ゆりResisting Against An Unreasonable Destiny Yuri
+AB/W11-057 R
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Death 死,_Weapon 武器
+Card Text/Abilities:
+【C】 The Character facing this card gets -1 Soul.
+【A】 ［④］ When this card attacks, you may pay the cost. If you did, choose up to 4 of your other Characters, place them into Waiting Room, deal X damage to your opponent. X is equals to the number of Characters placed into Waiting Room by this ability.(Damage can be cancelled)
+【自】 このカードの正面のキャラのソウルを－1。
+【自】 ［④］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを4枚まで選び、控え室に置き、相手にXダメージを与える。Xはこの効果で控え室に置かれたキャラの枚数に等しい。 (ダメージキャンセルは発生する)
+Flavor Text:
+だって、そんな人生、一生受け入れられないから！！
+
+==========================
+
+葛藤する音無Conflicted Otonashi
+AB/W11-058 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Death 死,
+Card Text/Abilities:
+【A】 ［Return 2 Characters from your Waiting Room to Deck. Shuffle your Deck afterwards］ When this card attacks, you may pay the cost. If you did, during this turn, this card gets +2000 Power.
+【自】 ［あなたの控え室のキャラを2枚山札に戻す。その山札をシャッフルする］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+なあ･･･俺たちは何と戦うんだ？
+
+==========================
+
+オペレーター　遊佐Operator Yusa
+AB/W11-059 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Death 死,
+Card Text/Abilities:
+【C】 SUPPORT All your 《死》 Characters in front of this card, gets +1 Level, +500 Power.
+【永】 応援 このカードの前のあなたの《死》のキャラすべてに、レベルを＋1し、パワーを＋500。
+Flavor Text:
+･･････天使、出現しました
+
+==========================
+
+想いに応える日向Responding to Memories Hinata
+AB/W11-060 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Death 死,_Sports スポーツ
+Card Text/Abilities:
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+俺が結婚してやんよ！！
+
+==========================
+
+司令官　ゆりCommander Yuri
+AB/W11-061 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 3000
+Soul: 1
+Traits:: Death 死,_Weapon 武器
+Card Text/Abilities:
+【C】 All your other Characters with 「【A】 ENCORE ［Place 1 Character from hand into Waiting Room］,  gets +1000 Power.
+【A】 ［②］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Character in your Waiting Room, return it to hand.
+【永】 他のあなたの『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を持つあなたのキャラすべてに、パワーを＋1000。
+【自】 ［②］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+ここは死んだ後の世界。何もしなければ、消されるわよ
+
+==========================
+
+この世界からの卒業　ゆりGraduating from this World Yuri
+AB/W11-062 U
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Death 死,_Weapon 武器
+Card Text/Abilities:
+【C】 RECOLLECTION If your Memory has 2 or more cards, this card gains the following ability. 『【A】 When the Character battling this card becomes REVERSE, choose 1 Character in your Waiting Room, you may return it to hand. If you did, place 1 card Hand into Waiting Room.』
+【永】  記憶 あなたの思い出が2枚以上なら、このカードは次の能力を得る。『【自】 このカードのバトル相手がリバースした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。』
+Flavor Text:
+じゃあ、またね！
+
+==========================
+
+作戦実行　ゆりExecuting Strategy Yuri
+AB/W11-063 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Death 死,_Weapon 武器
+Card Text/Abilities:
+【A】 BOND／「過去を求める音無」 ［①］ (When this card is played onto Stage, you may pay the cost. If you did, choose 1 「過去を求める音無」 in your Waiting Room, return it to Hand)
+【自】 絆／「過去を求める音無」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「過去を求める音無」を1枚選び、手札に戻す)
+Flavor Text:
+ほ～ら、観念なさい
+
+==========================
+
+藤巻＆大山Fujimaki & Ohyama
+AB/W11-064 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Death 死,
+Card Text/Abilities:
+【C】 All your Characters in front of this card, gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+藤巻「ゆりっぺに刃向うとはいい度胸じゃねえか」
+
+==========================
+
+着痩せするタイプ　高松Looks Slimmer in Clothing Takamatsu
+AB/W11-065 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Death 死,_Glasses メガネ
+Card Text/Abilities:
+【A】 ［②］ When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, choose 1 《死》 Character in your Waiting Room, return it to Hand.
+【自】［②］このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《死》のキャラを1枚選び、手札に戻す。
+Flavor Text:
+ゆり「本当はバカよ」
+
+==========================
+
+お調子者　日向Luck-Pusher Hinata
+AB/W11-066 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Death 死,_Sports スポーツ
+Card Text/Abilities:
+【A】 ［①］ Choose 1 of your 《死》 Characters, during this turn, it gets +1500 Power.
+【起】 ［①］ あなたは自分の《死》のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+おまえのどこに色気があるんだよ
+
+==========================
+
+対抗心　野田Opposing Noda
+AB/W11-067 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Death 死,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+貴様か･･･、ゆりっぺを侮辱し、入隊を断ったという輩は！！
+
+==========================
+
+正体不明　TKUnidentifiable TK
+AB/W11-068 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Death 死,
+Card Text/Abilities:
+Flavor Text:
+Come on!! Let's dance!!
+
+==========================
+
+松下　五段Matsushita 5th Dan
+AB/W11-069 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Death 死,_Sports スポーツ
+Card Text/Abilities:
+【C】 ALARM When this card is at the top of your Clock, if you are Level 2 or above, all your Characters with 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』 gain the following ability. 『【A】 When this card becomes REVERSED, if this card's battling opponent's Level is the same or below, you may REVERSE that Character.』
+【永】 アラーム このカードがクロックの1番上にあり、あなたのレベルが2以上なら、あなたの『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を持つキャラすべてに、次の能力を与える。『【自】このカードがリバースした時、このカードのバトル相手のレベルがこのカードのレベル以下なら、あなたはそのキャラをリバースしてよい。』
+Flavor Text:
+どうするのだ？
+
+==========================
+
+推進エンジンPropulsion Engine
+AB/W11-070 U
+Type: Event
+Level: 2
+Color: Red
+Cost: 1
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your Characters, place it into Waiting Room. If you did, Choose 1 of your opponent's Character with Level 2 or below, place it into Waiting Room.
+あなたは自分のキャラを1枚選び、控え室に置いてよい。そうしたら、あなたは相手のレベル2以下のキャラを1枚選び、控え室に置く。
+Flavor Text:
+ゆり「ったく･･･。しょうがないわね」
+
+==========================
+
+オペレーション・トルネードOperation Tornado
+AB/W11-071 U
+Type: Event
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+CONCENTRATION Place the top 3 cards of your Deck into Waiting Room. Choose 1 《死》 Character in your Waiting Room with Level X or below, return it to Hand. X is equals to the number of those 《死》 Characters.
+集中 あなたは自分の山札の上から3枚をめくり、控え室に置く。あなたは自分の控え室のレベルX以下の《死》のキャラを1枚選び、手札に戻す。Xはそれらのカードの《死》の枚数に等しい。
+Flavor Text:
+時間稼ぎが･･･、まさかこんな壮絶なことになるなんて･･･
+
+==========================
+
+クライストとお呼びください Please Call Me Christ
+AB/W11-072 C
+Type: Event
+Level: 1
+Color: Red
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+If you have 3 or less 《死》 Characters, you cannot play this card from Hand.
+Choose 1 card in your opponent's Waiting Room, place it into Memory. Place this card into Memory.
+このカードは、あなたの《死》のキャラが3枚以下なら、手札からプレイできない。
+あなたは相手の控え室のカードを1枚選び、思い出にする。このカードを思い出にする。
+Flavor Text:
+ゆり「よくやったわ、竹山くん」
+
+==========================
+
+死んだ世界戦線Afterlife War Front
+AB/W11-073 CR
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】 All your Characters get +1000 Power, +1 Soul.
+(Gate： When this card is Triggered, choose 1 Character from your Waiting Room, return it to Hand)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(扉：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+『無事･･･この世界から去っていけたはず･･･』
+
+==========================
+
+生前の記憶Memories of One's Lifetime
+AB/W11-074 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】 When this card is placed into the Climax Slot from Hand, place the top card of your Deck into Stock, all your Characters, during this turn, get +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+ゆり「私は･･･神様を･･･許せない」
+
+==========================
+
+報われた気持ちRewarded Feelings
+AB/W11-075 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】 When this card is placed into the Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+『俺はちゃんと、生きがいを持って生きていたんだ。
+生きる意味は、すぐそばにあったんだ･･･』
+
+==========================
+
+“天使”と呼ばれる少女 かなでGirl Called “Angel” Kanade
+AB/W11-101 TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Death 死,_Student Council 生徒会
+Card Text/Abilities:
+【C】 RECOLLECTION During your turn, if you have a card in Memory, this card gets +1500 Power.
+【永】 記憶 あなたのターン中、あなたの思い出置き場にカードがあるなら、このカードのパワーを＋1500。
+Flavor Text:
+...I'm not an Angel, you know?
+…あたしは天使なんかじゃないわ
+
+==========================
+
+運命に立ち向かう少女Girls Who Fought Against Fate
+AB/W11-103 TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Death 死,_Student Council 生徒会
+Card Text/Abilities:
+Flavor Text:
+I hope this is the final battle
+ゆり「これが最後の作戦になるといいわね」
+
+==========================
+
+ガルデモの大ファン ユイBig Fan Of Girls Dead Monster Yui
+AB/W11-104 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Death 死,_Music 音楽
+Card Text/Abilities:
+【C】During your turn, this card gets +1000 Power.
+【永】あなたのターン中、このカードのパワーを＋1000。
+Flavor Text:
+
+==========================
+
+戦線のリーダーゆりLeader Of The Warfront Yuri
+AB/W11-106 PR
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Death 死,_Weapon 武器
+Card Text/Abilities:
+【S】［REST 1 of your 《死》 Characters］During this turn, this card gets +1500 Power.
+【起】［あなたの《死》のキャラを1枚レストする］そのターン中、このカードのパワーを＋1500。
+Flavor Text:
+it's bit abruptness, but can you join the team?
+唐突だけど、入隊してくれないかしら？
+
+==========================
+
+死んだ世界の少女 ゆりGirl In The Death World Yuri
+AB/W11-107 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Death 死,_Weapon 武器
+Card Text/Abilities:
+【A】When another of your Character becomes REVERSE in battle, during this turn, this card gets +1000 Power.
+【自】他のあなたのバトルしているキャラがリバースした時、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+Alright, let's go. I will protect you.
+さぁ、いきましょ。あなたはあたしが守るわ。
+
+==========================
+
+共有できた想い ゆり＆かなで
+AB/W11-110 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Death 死,_Student Council 生徒会
+Card Text/Abilities:
+Flavor Text:
+かなで「友達……。そうね」
+
+==========================
+
+神に抗う少女 ゆりGoing Against God Yuri
+AB/W11-111 PR
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 6500
+Soul: 1
+Traits:: Death 死,_Weapon 武器
+Card Text/Abilities:
+【S】［①］Choose 1 of your opponent's Front Row Level 0 or below Characters, place it to Waiting Room.
+【起】［①］あなたは相手の前列のレベル0以下のキャラを１枚選び、控え室に置く。
+Flavor Text:
+あたしは、本当に「神」がいるのなら、立ち向かいたいだけよ。
+
+==========================
+
+衣装交換！？ かなでCostume Exchange!? Kanade
+AB/W11-113 PR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Death 死,_Student Council 生徒会
+Card Text/Abilities:
+【A】［①］When this card is placed on Stage from hand, you may pay this cost. If you do, during this turn, this card gets +2500 Power.
+【自】［①］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2500。
+Flavor Text:
+かっちょいいのがいいの？
+
+==========================
+
+神秘的な少女 かなでMysterious Girl Kanade
+AB/W11-115 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Death 死,_Student Council 生徒会
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card, gets +500 Power
+【S】［REST 2 of your Characters］Choose 1 of your Characters, during this turn, it gets +1 Level.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】［あなたのキャラを2枚レストする］あなたは自分のキャラを1枚選び、そのターン中、レベルを＋1。
+Flavor Text:
+そう、あなたがそう言うなら、そうする
+
+==========================
+
+“はじめて”のメガネ かなで"First" Glasses Kanade
+AB/W11-116 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Death 死,_Glasses メガネ
+Card Text/Abilities:
+Flavor Text:
+果たしてこれは可愛いかしら？
+
+==========================
+
+“卒業式”かなで＆ゆり
+AB/W11-117 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Death 死,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+ゆり「やったね、かなでちゃん」
+
+==========================
+
+戦線の休息 ゆり
+AB/W11-118 PR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Death 死,_Weapon 武器
+Card Text/Abilities:
+【S】● ASSIST 3000 LEVEL 2 ［① Place this card from hand into Waiting Room］ (Choose 1 of your Characters that is being Front Attacked, during this turn it gets +3000 Power.
+【起】● 助太刀3000 レベル2 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000)
+Flavor Text:
+束の間の休息ね…
+
+==========================
+
+これからのこと かなで
+AB/W11-119 PR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Death 死,_Student Council 生徒会
+Card Text/Abilities:
+【C】During your turn, this card gets +1000.
+【永】あなたのターン中、このカードのパワーを＋1000。
+Flavor Text:
+ここからどうするの？
+
+==========================
+
+おてんば娘 ユイ
+AB/W11-120 PR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Death 死,_Music 音楽
+Card Text/Abilities:
+【S】［①］During this turn, this card gets +1 Soul.
+【起】［①］そのターン中、このカードのソウルを＋1。
+Flavor Text:
+ねぇせんぱ～い
+
+==========================
+
+多生の絆 音無
+AB/W11-121 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Death 死,
+Card Text/Abilities:
+【A】［① Place 1 card from hand into Waiting Room］When this card is placed on Stage from hand, you may pay this cost.If you do, choose 1 《死》 Character from your Waiting Room, return it to hand and during this turn, this card gets +1000 Power.
+【自】［① 手札を1枚控え室に置く］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《死》のキャラを1枚選び、手札に戻し、そのターン中、このカードのパワーを、＋1000。
+Flavor Text:
+最初の印象ほど、悪い奴らじゃねーよな、あいつら
+
+==========================
+
+音無の親友 日向
+AB/W11-122 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 1
+Power: 500
+Soul: 1
+Traits:: Death 死,_Sports スポーツ
+Card Text/Abilities:
+【A】When this card is placed on Stage from hand, choose 1 of your 《死》 Characters, during this turn it gets +1000 Power.
+【A】 BOND／「おてんば娘 ユイ」 ［①］ (When this card is played and placed on Stage, you may pay this cost. If you do, Choose 1 「おてんば娘 ユイ」 from your Waiting Room, return it to hand)
+【自】このカードが手札から舞台に置かれた時、あなたは他の自分の《死》のキャラを1枚選び、そのターン中、パワーを+1000。
+【自】 絆／「おてんば娘 ユイ」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「おてんば娘 ユイ」を1枚選び、手札に戻す)
+Flavor Text:
+よっぽど気に入られたようだな
+
+==========================
+
+好物の麻婆豆腐 かなで
+AB/W11-123 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Death 死,_Student Council 生徒会
+Card Text/Abilities:
+Flavor Text:
+音無「辛いのが好きっつーより、麻婆豆腐が好物なんだな」
+
+==========================
+
+カリスマボーカル 岩沢Charisma Vocal Iwasawa
+AB/W11-T01 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Death 死,_Music 音楽
+Card Text/Abilities:
+【A】［①］When this card comes to Stage from hand, you may pay this cost. If you do, choose 1 of your opponent's Character with Level 0 or less, return it to hand. At the end of this turn, move this card to Memory.
+【自】［①］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル0以下のキャラを1枚選び、手札に戻し、ターンの終りに、このカードを思い出にする。
+Flavor Text:
+This is my life...For continue singing...
+これが私の人生なんだ…こうして歌い続けていくことが…
+
+==========================
+
+姉御肌 ひさ子 Big Sister Hisako
+AB/W11-T02 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Death 死,_Music 音楽
+Card Text/Abilities:
+Flavor Text:
+That's for the wait
+
+==========================
+
+岩沢の後継者 ユイIwasawa's Successor Yui
+AB/W11-T03 TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Death 死,_Music 音楽
+Card Text/Abilities:
+Flavor Text:
+Yay! Everyone, thanks for coming today!
+イエ～イ！ みんなー、
+今日は来てくれて、ありがっとぉ～っ！
+
+==========================
+
+戦線の敵 天使 Enemy Of The Warfront Angel
+AB/W11-T04 TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Death 死,_Student Council 生徒会
+Card Text/Abilities:
+【S】● ASSIST 2000 Level 1 ［① Discard this card from hand to Waiting Room］ (Choose 1 character that is being Front Attacked, during this turn, it gets +2000 Power.)
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000)
+Flavor Text:
+...guardskill, handsonic
+…ガードスキル、ハンドソニック
+
+==========================
+
+ガルデモのリーダー 岩沢GirlDeMo's Leader, Iwasawa
+AB/W11-T05 TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Death 死,_Music 音楽
+Card Text/Abilities:
+【C】 SUPPORT All Characters with Level 2 or above in front of this card gets +1000 Power.
+【C】 RECOLLECTION If you have 3 or more cards in Memory, this card gains 『 【C】 SUPPORT All Characters in front of this card gets +500 Power.』.
+【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。
+【永】 記憶 あなたの思い出が3枚以上なら、このカードは『 【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。』を得る。
+Flavor Text:
+OK、じゃあ、はじめるとするか！
+
+==========================
+
+生前の記憶のない音無No Memory Of Lifetime Otonashi
+AB/W11-T06 TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Death 死,
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+女の最高の幸せThe Best Happiness Of A Girl
+AB/W11-T07 TD
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1W
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+(Wind：When this card is Triggered, you may choose 1 of opponent's Characters, return to his/her hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(風：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+So, Senpai, do you want to married me?
+
+==========================
+

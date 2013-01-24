@@ -1,0 +1,2857 @@
+アインツベルンの人形 アイリスフィール
+FZ/S17-001 RR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Homunculus ホムンクルス,_Alchemy 錬金術
+Card Text/Abilities:
+【A】［①］When this card attacks, if 「決意の象徴」 is in your Climax slot, you may pay this cost. If you did, search your Deck for up to 1 Level 1 or above 《マスター》 or 《サーヴァント》 Character, show it to your opponent, then place it into hand. Shuffle your deck afterwards.
+【自】 ［①］ このカードがアタックした時、クライマックス置場に「決意の象徴」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以上の、《マスター》か《サーヴァント》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+あなたは、全てを与えてくれた…
+私には望むべくもなかった、この世の幸せ全てを…
+
+==========================
+
+理想の王 セイバー
+FZ/S17-002SP SP
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+【C】If you have 4 or less cards in your Hand, this card gets +1000 Power.
+【C】Characters opposing this card gets -1 Soul.
+【A】When the Character battling this card becomes REVERSE, choose 1 of your other 《サーヴァント》 character, during this turn, it gets +1 soul.
+【永】 あなたの手札が4枚以下なら、このカードのパワーを＋1000。
+【永】 このカードの正面のキャラのソウルを－1。
+【自】 このカードのバトル相手がリバースした時、あなたは他の自分の《サーヴァント》のキャラを1枚選び、そのターン中、ソウルを＋1。
+Flavor Text:
+相手に取って不足はない
+
+==========================
+
+理想の王 セイバー
+FZ/S17-002 RR
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+【C】If you have 4 or less cards in your Hand, this card gets +1000 Power.
+【C】Characters opposing this card gets -1 Soul.
+【A】When the Character battling this card becomes REVERSE, choose 1 of your other 《サーヴァント》 character, during this turn, it gets +1 soul.
+【永】 あなたの手札が4枚以下なら、このカードのパワーを＋1000。
+【永】 このカードの正面のキャラのソウルを－1。
+【自】 このカードのバトル相手がリバースした時、あなたは他の自分の《サーヴァント》のキャラを1枚選び、そのターン中、ソウルを＋1。
+Flavor Text:
+相手に取って不足はない
+
+==========================
+
+信じる正義 切嗣
+FZ/S17-003R RRR
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Master マスター,_Weapon 武器
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, choose 1 of your Character, during this turn, it gets +4000 power and +1 soul.
+【A】When the damage dealt by this card is canceled, if 「起源弾」 is in your climax slot, Choose 1 of your Opponent's Front Row Level 3 character or below, you may place it into the Stock.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000し、ソウルを＋1。
+【自】 アタックしているこのカードの与えたダメージがキャンセルされた時、クライマックス置場に「起源弾」があるなら、あなたは相手の前列のレベル3以下のキャラを1枚選び、ストック置場に置いてよい。
+Flavor Text:
+この世全ての悪を担うことになろうとも構わないさ。
+それで世界が救えるなら、僕は喜んで引き受ける
+
+==========================
+
+信じる正義 切嗣
+FZ/S17-003 R
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Master マスター,_Weapon 武器
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, choose 1 of your Character, during this turn, it gets +4000 power and +1 soul.
+【A】When the damage dealt by this card is canceled, if 「起源弾」 is in your climax slot, Choose 1 of your Opponent's Front Row Level 3 character or below, you may place it into the Stock.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000し、ソウルを＋1。
+【自】 アタックしているこのカードの与えたダメージがキャンセルされた時、クライマックス置場に「起源弾」があるなら、あなたは相手の前列のレベル3以下のキャラを1枚選び、ストック置場に置いてよい。
+Flavor Text:
+終わらぬ連鎖を終わらせる。
+それを果たし得るのが聖杯だ
+
+==========================
+
+異端の流儀 切嗣
+FZ/S17-004 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Master マスター,_Weapon 武器
+Card Text/Abilities:
+【A】［②］ When this card put to stage from hand, you may pay the cost. If you did, search your Deck for up to 1 「“騎乗”のスキル セイバー」, show it to your opponent, then place it into hand. Shuffle your deck afterwards.
+【A】When this card becomes REVERSE, if the Character battling this card is Level 0 or below, you may place that Character into Stock. If you did, place 1 card from the bottom of your opponent's Stock into Waiting Room.
+【自】 ［②］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「“騎乗”のスキル セイバー」を1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+【自】 このカードがリバースした時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。
+Flavor Text:
+正面切って決闘なんて僕の流儀じゃない
+
+==========================
+
+寡黙なる助手 舞弥
+FZ/S17-005 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【C】If there is a Yellow Climax in your Climax Slot, this card gets +1 Soul.
+【C】All your other 「信じる正義 切嗣」 gets +1000 power.
+【永】 あなたのクライマックス置場に黄のクライマックスがあるなら、このカードのソウルを＋1。
+【永】 他のあなたの「信じる正義 切嗣」すべてに、パワーを＋1000。
+Flavor Text:
+
+==========================
+
+麗しき騎士王 セイバー
+FZ/S17-006S SR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+【C】 If your Opponent have 3 Characters or Less, This card gets +1000 power.
+【永】 相手のキャラが3枚以下なら、このカードのパワーを＋1000。
+Flavor Text:
+
+==========================
+
+麗しき騎士王 セイバー
+FZ/S17-006 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+【C】 If your Opponent have 3 Characters or Less, This card gets +1000 power.
+【永】 相手のキャラが3枚以下なら、このカードのパワーを＋1000。
+Flavor Text:
+私の姿形がみなの想像するものとは違う、
+というのは慣れています
+
+==========================
+
+“魔力放出”セイバー
+FZ/S17-007R RRR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Servant サーヴァント,_Weapon 武器
+Card Text/Abilities:
+【S】CONCENTRATE ［①］Place the top 4 cards of your deck into the waiting room. For each climax in those cards, Choose 1 of your 《サーヴァント》 Character, during this turn, it gets +2000 power.
+【起】 集中 ［①］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の《サーヴァント》のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+覚悟はいいな、外道！
+
+==========================
+
+“魔力放出”セイバー
+FZ/S17-007 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Servant サーヴァント,_Weapon 武器
+Card Text/Abilities:
+【S】CONCENTRATE ［①］Place the top 4 cards of your deck into the waiting room. For each climax in those cards, Choose 1 of your 《サーヴァント》 Character, during this turn, it gets +2000 power.
+【起】 集中 ［①］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の《サーヴァント》のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+防ぎ得ぬ槍ならば、防ぐより先に斬るまでのこと
+
+==========================
+
+聖杯の器 アイリスフィール
+FZ/S17-008S SR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 6500
+Soul: 2
+Traits:: Homunculus ホムンクルス,_Alchemy 錬金術
+Card Text/Abilities:
+【A】 When this card attacks, Choose up to 2 of your other 《サーヴァント》 characters, during this turn, it gets +1 soul.
+【A】◆ SHIFT Level 2 (At the beginning of your Main Phase, you may choose 1 Yellow card from your Hand and this card in your Clock and exchange them.)
+【自】 このカードがアタックした時、あなたは他の自分の《サーヴァント》のキャラを2枚まで選び、そのターン中、ソウルを＋1。
+【自】◆ シフト レベル2 （あなたのメインフェイズの始めに、あなたは自分の手札の黄のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）
+Flavor Text:
+ここはあなたの願いが叶う場所
+
+==========================
+
+聖杯の器 アイリスフィール
+FZ/S17-008 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 6500
+Soul: 2
+Traits:: Homunculus ホムンクルス,_Alchemy 錬金術
+Card Text/Abilities:
+【A】 When this card attacks, Choose up to 2 of your other 《サーヴァント》 characters, during this turn, it gets +1 soul.
+【A】◆ SHIFT Level 2 (At the beginning of your Main Phase, you may choose 1 Yellow card from your Hand and this card in your Clock and exchange them.)
+【自】 このカードがアタックした時、あなたは他の自分の《サーヴァント》のキャラを2枚まで選び、そのターン中、ソウルを＋1。
+【自】◆ シフト レベル2 （あなたのメインフェイズの始めに、あなたは自分の手札の黄のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）
+Flavor Text:
+きっと来てくれると思ってた。
+あなたなら、ここに辿り着けると信じてた
+
+==========================
+
+治世の果て セイバー
+FZ/S17-009S SR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+【C】If you have 3 or less cards in your Hand, this card gets +1500 Power.
+【永】 あなたの手札が3枚以下なら、このカードのパワーを＋1500。
+Flavor Text:
+私が、私なんかが……
+
+==========================
+
+治世の果て セイバー
+FZ/S17-009 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+【C】If you have 3 or less cards in your Hand, this card gets +1500 Power.
+【永】 あなたの手札が3枚以下なら、このカードのパワーを＋1500。
+Flavor Text:
+私が、私なんかが……
+
+==========================
+
+ヒトとして生きた女 アイリスフィール
+FZ/S17-010 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Homunculus ホムンクルス,_Alchemy 錬金術
+Card Text/Abilities:
+【C】 During your turn, All your other characters gets +500 power.
+【A】 CHANGE ［Place this card into Waiting Room］At the start of your Draw Phase, you may pay the cost. If you do, choose 1 「アインツベルンの人形 アイリスフィール」from your Waiting Room, place it into this card's previous slot.
+【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。
+【自】 チェンジ ［このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「アインツベルンの人形 アイリスフィール」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+『全て遠き理想郷(アヴァロン)』は、この先あなたにこそ必要なもの。
+あなたが最後の戦いに挑むとき、きっと役に立つ…
+
+==========================
+
+未来の希望 士郎
+FZ/S17-011 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【A】 When your other character REVERSED the battling character, choose one of your character, during this turn, it gets +1000 power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to its previous slot)
+【自】 他のあなたのキャラのバトル相手がリバースした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く）
+Flavor Text:
+
+==========================
+
+追い求めた理想 切嗣
+FZ/S17-012 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Master マスター,_Weapon 武器
+Card Text/Abilities:
+【C】 For each of your other 「切嗣の部品 舞弥」, this card gets +1 soul.
+【永】 他のあなたの「切嗣の部品 舞弥」1枚につき、このカードのソウルを＋1。
+Flavor Text:
+僕がこの冬木で流す血を、人類最後の流血にしてみせる
+
+==========================
+
+切嗣の部品 舞弥
+FZ/S17-013 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+母と子 アイリスフィール＆イリヤ
+FZ/S17-014 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Homunculus ホムンクルス,_Alchemy 錬金術
+Card Text/Abilities:
+【A】 BOND／「“魔術師殺し”切嗣」 ［①］ (When you play this card from your hand onto the stage, you may pay the cost. If you do, take one 「“魔術師殺し”切嗣」 from your waiting room and place it into your hand)
+【A】 BOND／「アインツベルンの人形 アイリスフィール」 ［①］ (When you play this card from your hand onto the stage, you may pay the cost. If you do, take one 「アインツベルンの人形 アイリスフィール」 from your waiting room and place it into your hand)
+【自】 絆／「“魔術師殺し”切嗣」 ［①］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“魔術師殺し”切嗣」を1枚選び、手札に戻す）
+【自】 絆／「アインツベルンの人形 アイリスフィール」 ［①］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「アインツベルンの人形 アイリスフィール」を1枚選び、手札に戻す）
+Flavor Text:
+イリヤはね、
+キリツグとお母様さえ一緒にいてくれればいいよ
+
+==========================
+
+宝具開放 セイバー
+FZ/S17-015 U
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Servant サーヴァント,_Weapon 武器
+Card Text/Abilities:
+【A】 ［① Place 1 Hand card into your Waiting Room］ When this card attacks, if you have 「約束された勝利の剣」 in your climax slot, you may pay the cost. If you did, choose 1 card from your Opponent's Waiting Room, place it into the memory, during this turn, this card gets +1000 power.
+【自】 ［① 手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「約束された勝利の剣」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードを1枚選び、思い出にし、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+――風よ！
+
+==========================
+
+無邪気な少女 イリヤ
+FZ/S17-016 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Homunculus ホムンクルス,
+Card Text/Abilities:
+【C】 All your others 《マスター》 or 《ホムンクルス》 Characters gets +500 power.
+【永】 他のあなたの、《マスター》か《ホムンクルス》のキャラすべてに、パワーを＋500。
+Flavor Text:
+あ、あった！ イリヤも１個みーつけたっ！
+
+==========================
+
+アイリスフィール・フォン・アインツベルンIrisviel von Einzbern
+FZ/S17-017 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Homunculus ホムンクルス,_Alchemy 錬金術
+Card Text/Abilities:
+【A】［②］When a Yellow Climax is placed into your Climax slot, you may pay the cost. If you did, place the top card of your Clock into Waiting Room.
+【自】［②］ あなたの黄のクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。
+Flavor Text:
+あと八人。それであなたの戦いは終わる。
+貴方と私は理想を遂げるの
+
+==========================
+
+“騎乗”のスキル セイバー"Riding" Skill, Saber
+FZ/S17-018 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+Flavor Text:
+My Riding skill allows me to command any beast or vehicle.
+私の騎乗というスキルは
+“乗り物”という概念すべてに適用される能力ですから
+
+==========================
+
+久宇 舞弥Maiya Hisau
+FZ/S17-019 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【C】 If you have 4 or less cards in your Hand, this card gets +1000 Power.
+【永】 あなたの手札が4枚以下なら、このカードのパワーを＋1000。
+Flavor Text:
+お二人には、今日からここを行動の拠点としていただきます
+
+==========================
+
+“風王結界”セイバー"Invisible Air" Saber
+FZ/S17-020 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Servant サーヴァント,_Weapon 武器
+Card Text/Abilities:
+【A】 ［Reveal any number of Climax from your Hand］During this card's battle, at the beginning of your Battle step, you may pay the cost. If you did, during this turn, this card gets +X Power. X is equals to the number of cards revealed ×1000.(Return revealed cards to its original position)
+【自】 ［手札のクライマックスを好きな枚数公開する］ このカードのバトル中、あなたのバトルステップの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋Ｘ。Ｘは公開されたカードの枚数×1000に等しい。（公開したカードは元に戻す）
+Flavor Text:
+よもや私の剣が鈍るものと期待してはいるまいな
+
+==========================
+
+狩りの時間 切嗣
+FZ/S17-021 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Master マスター,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+……では、お手並み拝見だ。かわいい騎士王さん
+
+==========================
+
+“魔術師殺し”切嗣"Mage-Killer" Kiritsugu
+FZ/S17-022 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Master マスター,_Weapon 武器
+Card Text/Abilities:
+【S】● ASSIST 3000 Level 2［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)
+【起】● 助太刀 3000 レベル2 ［① 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）
+Flavor Text:
+今なら、総出で迎撃できる
+
+==========================
+
+補助機械 舞弥Assistant Machine, Maiya
+FZ/S17-023 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 4500
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card get +X. X is equals to that Character's Level ×500.
+【A】 ［①］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 of your Characters, during this turn, it gets +1 Soul.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。
+【自】 ［①］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。
+Flavor Text:
+Understood.
+解りました
+
+==========================
+
+“初めての外”アイリスフィール"First Time Out" Irisviel von Einzbern
+FZ/S17-024 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Homunculus ホムンクルス,_Alchemy 錬金術
+Card Text/Abilities:
+Flavor Text:
+This is the first time
+I've ventured into the world outside.
+私――外に出るのが初めてなの
+
+==========================
+
+冬芽探し
+FZ/S17-025 U
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+All players place the top 3 cards of the deck into the waiting room. If your Level 1 or below characters in those cards is more than your Opponent's Level 0 or below characters in those cards, Draw 1 card.
+Place this card to Stock.
+すべてのプレイヤーは自分の山札の上から3枚を、控え室に置く。あなたのこの効果で控え室に置かれたレベル1以下のキャラの枚数が、相手のこの効果で控え室に置かれたレベル0以下のキャラの枚数より多いなら、あなたは1枚引いてよい。
+このカードをストック置場に置く。
+Flavor Text:
+わーっ！ 高い高い！
+
+==========================
+
+爆破解体
+FZ/S17-026 U
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+● All player return all cards from the Waiting Room into their  Deck. Shuffle the Deck afterwards. Choose 1 of your hand card, Place it into your Waiting Room and then Choose 1 of your character, during this turn, it gets +2000.
+● すべてのプレイヤーは自分の控え室のカードすべてを、山札に戻す。それらの山札をシャッフルする。あなたは自分の手札を1枚選び、控え室に置く。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+
+==========================
+
+アインツベルン城Einzbern Castle
+FZ/S17-027 C
+Type: Event
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+If there are 1 or less Climax in your Waiting Room, you cannot play this card from Hand.
+Search your Deck for up to 1 《武器》 or 《錬金術》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+このカードは、あなたの控え室のクライマックスが1枚以下なら、手札からプレイできない。
+あなたは自分の山札を見て《武器》か《錬金術》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+I hereby swear. That i shall be all the good in the world.
+誓いをここに。われは常世総ての善となるもの
+
+==========================
+
+決意の象徴
+FZ/S17-028 CR
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card placed into the climax slot from have, draw 1 card, choose 1 of your characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+Shape ist leben！(形骸よ 生命を宿せ)
+
+==========================
+
+起源弾
+FZ/S17-029 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1F
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】 All your Characters get +1000 Power, +1 Soul.
+(Flame： When this card is Triggered, if your current attacking Character's damage is cancelled, deal 1 damage to the opponent.)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（射：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）
+Flavor Text:
+『起源弾――被弾者の魔力は暴走し、自らの肉体を瞬時に死滅させる』
+
+==========================
+
+約束された勝利の剣Sword of Promised Victory
+FZ/S17-030 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card comes on Stage from hand, put the top card of your deck to Stock. During this turn, all of your Characters get +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+今こそ我が剣に、勝利を誓う
+
+==========================
+
+ウェイバー・ベルベット
+FZ/S17-031S SR
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Master マスター,_Alchemy 錬金術
+Card Text/Abilities:
+【C】 ASSIST All the Characters in front of this card get +X Power. X is equals to the number of your Characters with 「ASSIST」 x500.
+【A】 If you have 「王と臣下を結ぶ絆」 in your climax slot, reveal the top card of your deck. If that card is 《王族》 or 《錬金術》 Character, place it into your Stock. (If is not return it to top deck)
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。
+【自】 あなたのクライマックス置場に「王と臣下を結ぶ絆」が置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《王族》か《錬金術》のキャラならストック置場に置く。（そうでないなら元に戻す）
+Flavor Text:
+ライダーよ、必ずや、最後までオマエが勝ち抜け
+
+==========================
+
+ウェイバー・ベルベット
+FZ/S17-031 RR
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Master マスター,_Alchemy 錬金術
+Card Text/Abilities:
+【C】 ASSIST All the Characters in front of this card get +X Power. X is equals to the number of your Characters with 「ASSIST」 x500.
+【A】 If you have 「王と臣下を結ぶ絆」 in your climax slot, reveal the top card of your deck. If that card is 《王族》 or 《錬金術》 Character, place it into your Stock. (If is not return it to top deck)
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。
+【自】 あなたのクライマックス置場に「王と臣下を結ぶ絆」が置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《王族》か《錬金術》のキャラならストック置場に置く。（そうでないなら元に戻す）
+Flavor Text:
+ライダーよ、必ずや、最後までオマエが勝ち抜け
+
+==========================
+
+覇道の王 ライダー
+FZ/S17-032SP SP
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Servant サーヴァント,_Servant サーヴァント
+Card Text/Abilities:
+【C】 For each of your Opponent's REST Characters, this card gets +500 power.
+【A】［①］ When this card is Place to stage from hand, during this turn, when this card REVERSED the Character battling this card, you may pay the cost. If you did, place that Character to Clock.
+【A】 ［②］ At the start of your Encore Phase, you may pay the cost. If you did, choose 1 of your Character, place that character and this card into your Memory. At the start of your Draw Phase, return those characters from Memory and Place in onto your Stage.
+【永】 相手のレストしているキャラ1枚につき、このカードのパワーを＋500。
+【自】 ［①］ このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたはそのキャラをクロック置場に置く。
+【自】 ［②］ あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚と、このカードを選び、思い出にする。次のあなたのドローフェイズの始めに、あなたは自分の思い出置場のそれらのキャラを、舞台の別々の枠に置く。
+Flavor Text:
+AAAALaLaLaLaLaie!!(アアアアララララライッ)
+
+==========================
+
+覇道の王 ライダー
+FZ/S17-032 RR
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Servant サーヴァント,_Servant サーヴァント
+Card Text/Abilities:
+【C】 For each of your Opponent's REST Characters, this card gets +500 power.
+【A】［①］ When this card is Place to stage from hand, during this turn, when this card REVERSED the Character battling this card, you may pay the cost. If you did, place that Character to Clock.
+【A】 ［②］ At the start of your Encore Phase, you may pay the cost. If you did, choose 1 of your Character, place that character and this card into your Memory. At the start of your Draw Phase, return those characters from Memory and Place in onto your Stage.
+【永】 相手のレストしているキャラ1枚につき、このカードのパワーを＋500。
+【自】 ［①］ このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたはそのキャラをクロック置場に置く。
+【自】 ［②］ あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚と、このカードを選び、思い出にする。次のあなたのドローフェイズの始めに、あなたは自分の思い出置場のそれらのキャラを、舞台の別々の枠に置く。
+Flavor Text:
+AAAALaLaLaLaLaie!!(アアアアララララライッ)
+
+==========================
+
+ケイネス・エルメロイ・アーチボルト
+FZ/S17-033 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Master マスター,_Alchemy 錬金術
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【S】 ［Put 2 of your Characters to REST］ Choose 1 of your character named 「ランサー」, during this turn, it gets +1500 power and gets the following effect. 『【C】 If the Character opposing this card Level is higher than this card, this card cannot attack.』
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】 ［あなたのキャラを2枚レストする］ あなたは自分のカード名に「ランサー」を含むキャラを1枚選び、そのターン中、パワーを＋1500し、次の能力を与える。『【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはアタックできない。』
+Flavor Text:
+ご客人にはケイネス・エルメロイの魔術工房を)
+とっくり堪能してもらおうではないか
+
+==========================
+
+傲岸不遜 ライダー
+FZ/S17-034R RRR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+【A】 ［Put 1 of your STAND Character to REST］ If you have 「神威の車輪」 in your climax slot and this card is on the Front Row, you may pay the cost. If you did, choose 1 of your opponent's character, during this turn, it gets -2000 power.
+【自】 ［あなたのスタンドしているキャラを1枚レストする］ あなたのクライマックス置場に「神威の車輪」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－2000。
+Flavor Text:
+敵は万夫不当の英雄王――相手にとって不足なし！
+
+==========================
+
+傲岸不遜 ライダー
+FZ/S17-034 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+【A】 ［Put 1 of your STAND Character to REST］ If you have 「神威の車輪」 in your climax slot and this card is on the Front Row, you may pay the cost. If you did, choose 1 of your opponent's character, during this turn, it gets -2000 power.
+【自】 ［あなたのスタンドしているキャラを1枚レストする］ あなたのクライマックス置場に「神威の車輪」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－2000。
+Flavor Text:
+敵は万夫不当の英雄王――相手にとって不足なし！
+
+==========================
+
+“セイバーの左手”ランサー
+FZ/S17-035S SR
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 1500
+Soul: 1
+Traits:: Servant サーヴァント,_Weapon 武器
+Card Text/Abilities:
+【A】 When you use this card's 『ASSIST』, choose 1 of your 《サーヴァント》 Character, during this turn, it gets +1000 power.
+【S】● ASSIST 1500 Level 1 ［① Discard this card from hand to Waiting Room］ (Choose 1 character that is being Front Attacked, during this turn, it gets +1500 Power.)
+【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の《サーヴァント》のキャラを1枚選び、そのターン中、パワーを＋1000。
+【起】● 助太刀 1500 レベル1 ［① 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）
+Flavor Text:
+ここは共闘が最善と判断するが、どうだ？
+
+==========================
+
+“セイバーの左手”ランサー
+FZ/S17-035 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 1500
+Soul: 1
+Traits:: Servant サーヴァント,_Weapon 武器
+Card Text/Abilities:
+【A】 When you use this card's 『ASSIST』, choose 1 of your 《サーヴァント》 Character, during this turn, it gets +1000 power.
+【S】● ASSIST 1500 Level 1 ［① Discard this card from hand to Waiting Room］ (Choose 1 character that is being Front Attacked, during this turn, it gets +1500 Power.)
+【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の《サーヴァント》のキャラを1枚選び、そのターン中、パワーを＋1000。
+【起】● 助太刀 1500 レベル1 ［① 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）
+Flavor Text:
+ここは共闘が最善と判断するが、どうだ？
+
+==========================
+
+マケドニアの覇者 ライダー
+FZ/S17-036 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+【C】 All your other 《サーヴァント》 Characters gets +1000 power.
+【A】 ［③ Place 1 hand card to Waiting Room］ If you have 「王の軍勢」 in your climax slot, you may pay the cost. If you did, search your deck up to 3 《サーヴァント》 Characters which is Cost 0 or below , place it onto your stage. Shuffle your deck afterwards.
+【永】 他のあなたの《サーヴァント》のキャラすべてに、パワーを＋1000。
+【自】 ［③ 手札を1枚控え室に置く］ あなたのクライマックス置場に「王の軍勢」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てコスト0以下の《サーヴァント》のキャラを3枚まで選び、舞台の別々の枠に置く。その山札をシャッフルする。
+Flavor Text:
+集えよ我が同朋！
+今宵、我らは最強の伝説に勇士を記す！
+
+==========================
+
+魔を断つ赤槍 ランサー
+FZ/S17-037SP SP
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Servant サーヴァント,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card attacks, if your have 「破魔の紅薔薇」 in your climax slot, choose 1 of your character, until end of your opponents turn, it gets +2000 power and the following effect.『【C】 During this card's battle, your opponent cannot play 『ASSIST』 from Hand.』
+【自】 このカードがアタックした時、クライマックス置場に「破魔の紅薔薇」があるなら、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2000し、次の能力を与える。『【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。』
+Flavor Text:
+
+==========================
+
+魔を断つ赤槍 ランサー
+FZ/S17-037 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Servant サーヴァント,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card attacks, if your have 「破魔の紅薔薇」 in your climax slot, choose 1 of your character, until end of your opponents turn, it gets +2000 power and the following effect.『【C】 During this card's battle, your opponent cannot play 『ASSIST』 from Hand.』
+【自】 このカードがアタックした時、クライマックス置場に「破魔の紅薔薇」があるなら、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2000し、次の能力を与える。『【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。』
+Flavor Text:
+
+==========================
+
+見習い魔術師 ウェイバー
+FZ/S17-038 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Master マスター,_Alchemy 錬金術
+Card Text/Abilities:
+【A】［②］ When this card put to stage from hand, you may pay the cost. If you did, search your Deck for up to 1 「令呪」, show it to your opponent, then place it into hand. Shuffle your deck afterwards.
+【A】 BOND／「威風堂々 ライダー」 ［Place the top of your Deck onto your Clock］ (When you play this card from your hand onto the stage, you may pay the cost. If you do, take one 「威風堂々 ライダー」 from your waiting room and place it into your hand)
+【自】 ［②］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「令呪」を1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+【自】 絆／「威風堂々 ライダー」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「威風堂々 ライダー」を1枚選び、手札に戻す）
+Flavor Text:
+おいライダー、進展だぞ！ 早速一人脱落だ！
+
+==========================
+
+騎士の道 ランサー
+FZ/S17-039 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Servant サーヴァント,_Weapon 武器
+Card Text/Abilities:
+【A】 ［① Place 1 Climax from your Hand card to your Waiting Room］ When this card is Place on Stage from hand, you may pay the cost. If you did, search your deck up to 1 green climax or 「約束された勝利の剣」, show it to your opponent, then place it into hand. Shuffle your deck afterwards.
+【自】 ［① 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て緑のクライマックスか、を「約束された勝利の剣」1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+それでは――いざ
+
+==========================
+
+雄大な王 ライダー
+FZ/S17-040 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+【A】 When this card attacks, all player place the top deck into the waiting room. If Level of your card is higher then your opponent's card in those card. You may place the top card of your deck into your stock. (Climax will be treated as Level 0)
+【自】 このカードがアタックした時、すべてのプレイヤーは自分の山札の上から1枚を、控え室に置く。あなたのこの効果で控え室に置かれたカードのレベルが相手のこの効果で控え室に置かれたカードのレベルより高いなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。（クライマックスのレベルは0として扱う）
+Flavor Text:
+夢を示すのが王たる余の務め。そして王の示した夢を
+見極め、後世に語り継ぐのが臣たる貴様の務めである
+
+==========================
+
+魅了の魔貌 ランサー
+FZ/S17-041 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Servant サーヴァント,_Weapon 武器
+Card Text/Abilities:
+【C】 This card cannot Direct Attack.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【永】 このカードはダイレクトアタックできない。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+
+==========================
+
+威風堂々 ライダーImposing and Majestic, Rider
+FZ/S17-042 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+Flavor Text:
+セイバーの奴めはな、余が倒さねばならんのだ。
+それが英霊としての余の努めだ
+
+==========================
+
+ソラウ・ヌァザレ・ソフィアリ
+FZ/S17-043 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Master マスター,_Love 愛
+Card Text/Abilities:
+【A】 BOND／「魔を断つ赤槍 ランサー」 ［①］ (When you play this card from your hand onto the stage, you may pay the cost. If you do, take one 「魔を断つ赤槍 ランサー」 from your waiting room and place it into your hand)
+【自】 絆／「魔を断つ赤槍 ランサー」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「魔を断つ赤槍 ランサー」を1枚選び、手札に戻す)
+Flavor Text:
+ランサーはよくやったわ。間違いなのはあなたの状況判断じゃなくて？
+
+==========================
+
+参戦の証 ウェイバー
+FZ/S17-044 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Master マスター,_Alchemy 錬金術
+Card Text/Abilities:
+【C】 If your Stock has 2 cards or less, this card gets +1500 Power.
+【A】◆ SHIFT Level 0 (At the beginning of your Main Phase, you may choose 1 Green card from your Hand and this card in your Clock and exchange them.)
+【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。
+【自】◆ シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の緑のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）
+Flavor Text:
+僕にも宿ったぞ、令呪が。僕は聖杯に選ばれたんだ！
+
+==========================
+
+豪胆なる気性 ライダー
+FZ/S17-045 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+【A】 If there is Green Climax card in your Climax slot, choose 1 of your character, during this turn, it gets +1500 power.
+【自】 あなたの緑のクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+むほォ、美味いっ!!
+
+==========================
+
+忠勇義烈 ランサーLoyal and Brave, Lancer
+FZ/S17-046 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Servant サーヴァント,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+俺が現世で望むのは、前世で叶わなかった忠節の道…
+
+==========================
+
+天才魔術師 ケイネス
+FZ/S17-047 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Master マスター,_Alchemy 錬金術
+Card Text/Abilities:
+【C】 If your stock is 5 or above, this card gets +1000 power.
+【永】 あなたのストックが5枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+アーチボルト家九代目当主、
+ケイネス・エルメロイがここに推参仕る
+
+==========================
+
+ウェイバー・“マッケンジー”
+FZ/S17-048 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Master マスター,_Alchemy 錬金術
+Card Text/Abilities:
+【A】 When your character attacks, choose 1 of your other 《サーヴァント》 Character, during this turn, it gets +1000 power.
+【自】 あなたのキャラがアタックした時、あなたは他の自分の《サーヴァント》のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+約束はできません。
+無事またここに帰ってこられる保証はないんで
+
+==========================
+
+時計塔のエリート ケイネスClock Tower Elite, Kayneth
+FZ/S17-049 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Master マスター,_Alchemy 錬金術
+Card Text/Abilities:
+Flavor Text:
+Come forth. Lancer
+出てこい。ランサー
+
+==========================
+
+令呪
+FZ/S17-050 U
+Type: Event
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+● Choose 1 of your 《サーヴァント》 Character, during this turn, it gets +4500 power.
+● あなたは自分の《サーヴァント》のキャラを1枚選び、そのターン中、パワーを＋4500。
+Flavor Text:
+令呪をもって命じる
+
+==========================
+
+宝剣と魔槍
+FZ/S17-051 U
+Type: Event
+Level: 2
+Color: Green
+Cost: 3
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Place this card to Memory.
+RECOLLECTION If this card is in your Memory, all your Characters named 「セイバー」 or 「ランサー」 gets +1000 power.
+このカードを思い出にする。
+記憶 思い出置場にこのカードがあるなら、あなたのカード名に「セイバー」か「ランサー」を含むキャラすべてに、パワーを＋1000。
+Flavor Text:
+ここで勝利すべきは、我らが奉じた『騎士の道』――
+
+==========================
+
+王の軍勢
+FZ/S17-052 CR
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: G
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All of your Characters get +1000 Power, +1 Soul.
+(Gold：When this card is Triggered, put this card in your hand. You may put the top card of your deck to Stock)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(宝：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい)
+Flavor Text:
+いざ益荒男たちよ、原初の英霊に我らが覇道を示そうぞ！
+
+==========================
+
+王と臣下を結ぶ絆
+FZ/S17-053 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: S
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Bag：When this card is Triggered, you may take the top card of your deck, put to Stock.)
+(袋：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい)
+Flavor Text:
+ライダーよ、必ずや世界を掴め。失敗なんて許さない
+
+==========================
+
+神威の車輪Gordius Wheel
+FZ/S17-054 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】 When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+Go, Gordius Wheel!
+いざ駆けろ、 神威の車輪 (ゴルディアス・ホイール)！
+
+==========================
+
+破魔の紅薔薇Gae Dearg
+FZ/S17-055 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】 When this card is placed into Climax slot from Hand, place the top card of your Deck into Stock, during this turn, all your Characters get +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+Gash, Gae Dearg!
+抉れ、『破魔の紅薔薇(ルビ：ゲイ・ジャルグ)』ッ！
+
+==========================
+
+狂乱の騎士 バーサーカー
+FZ/S17-056S SR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Servant サーヴァント,_Weapon 武器
+Card Text/Abilities:
+【A】 ［Place this card to Waiting Room］ If your Climax slot have 「堕ちた騎士の正体」, you may pay the cost. if you did, Choose 1 Level 2 or below 《サーヴァント》 Character from your Waiting Room, place it onto your stage.
+【自】 ［このカードを控え室に置く］ あなたのクライマックス置場に「堕ちた騎士の正体」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル2以下の《サーヴァント》のキャラを1枚選び、このカードがいた枠に置く。
+Flavor Text:
+URRRRRRRRッ!!
+
+==========================
+
+狂乱の騎士 バーサーカー
+FZ/S17-056 RR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Servant サーヴァント,_Weapon 武器
+Card Text/Abilities:
+【A】 ［Place this card to Waiting Room］ If your Climax slot have 「堕ちた騎士の正体」, you may pay the cost. if you did, Choose 1 Level 2 or below 《サーヴァント》 Character from your Waiting Room, place it onto your stage.
+【自】 ［このカードを控え室に置く］ あなたのクライマックス置場に「堕ちた騎士の正体」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル2以下の《サーヴァント》のキャラを1枚選び、このカードがいた枠に置く。
+Flavor Text:
+URRRRRRRRッ!!
+
+==========================
+
+万象の王 アーチャー
+FZ/S17-057SP SP
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+【A】 When this card place to stage from hand, you may place the top card from your Clock into your Waiting Room.
+【A】 ［① Place 1 「乖離剣エア」from your Hand to your Waiting Room］ At the start of your opponent's Attack Phase, if this card in on Front Row, you may pay the cost. If you did, choose 1 of your Opponent's Climax from his Climax slot and place it to waiting room, during this turn, this card gets +5500 power.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】 ［① 手札の「乖離剣エア」を1枚控え室に置く］ 相手のアタックフェイズの始めに、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のクライマックス置場のクライマックスを1枚選び、控え室に起き、そのターン中、このカードのパワーを＋5500。
+Flavor Text:
+真の王たる英雄は、天上天下に我ただ独り
+
+==========================
+
+万象の王 アーチャー
+FZ/S17-057 RR
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+【A】 When this card place to stage from hand, you may place the top card from your Clock into your Waiting Room.
+【A】 ［① Place 1 「乖離剣エア」from your Hand to your Waiting Room］ At the start of your opponent's Attack Phase, if this card in on Front Row, you may pay the cost. If you did, choose 1 of your Opponent's Climax from his Climax slot and place it to waiting room, during this turn, this card gets +5500 power.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】 ［① 手札の「乖離剣エア」を1枚控え室に置く］ 相手のアタックフェイズの始めに、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のクライマックス置場のクライマックスを1枚選び、控え室に起き、そのターン中、このカードのパワーを＋5500。
+Flavor Text:
+真の王たる英雄は、天上天下に我ただ独り
+
+==========================
+
+気高い気位 アーチャー
+FZ/S17-058R RRR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+【C】 If you have 3 Stock or above, this card gets the following effect.『【A】 When this card becomes REVERSE, if the character battling this card is Level 0 or below, you may put that card to REVERSE.』
+【A】 BOND／「言峰 綺礼」 ［Place the top card of your deck into Clock］ (When you play this card from your hand onto the stage, you may pay the cost. If you do, take one 「言峰 綺礼」 from your waiting room and place it into your hand)
+【永】あなたのストックが3枚以上なら、このカードは次の能力を得る。『【自】 このカードがリバースした時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをリバースしてよい。
+【自】 絆／「言峰 綺礼」 ［あなたの山札の上から1枚をクロック置場に置く］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「言峰 綺礼」を1枚選び、手札に戻す)
+Flavor Text:
+見るがいい。そして思い知れ。
+これが『王の酒』というものだ
+
+==========================
+
+気高い気位 アーチャー
+FZ/S17-058 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+【C】 If you have 3 Stock or above, this card gets the following effect.『【A】 When this card becomes REVERSE, if the character battling this card is Level 0 or below, you may put that card to REVERSE.』
+【A】 BOND／「言峰 綺礼」 ［Place the top card of your deck into Clock］ (When you play this card from your hand onto the stage, you may pay the cost. If you do, take one 「言峰 綺礼」 from your waiting room and place it into your hand)
+【永】あなたのストックが3枚以上なら、このカードは次の能力を得る。『【自】 このカードがリバースした時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをリバースしてよい。』
+【自】 絆／「言峰 綺礼」 ［あなたの山札の上から1枚をクロック置場に置く］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「言峰 綺礼」を1枚選び、手札に戻す)
+Flavor Text:
+見るがいい。そして思い知れ。
+これが『王の酒』というものだ
+
+==========================
+
+血に飢えた獣 バーサーカー
+FZ/S17-059 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Servant サーヴァント,_Weapon 武器
+Card Text/Abilities:
+【A】［Place the top card of your deck into Clock］ When this card place to stage from hand, you may pay the cost. If you did, choose 1 「無毀なる湖光」 from your waiting room, place it into hand.
+【A】 CHANGE ［① Place this card into Waiting Room］At the start of your Draw Phase, you may pay the cost. If you do, choose 1 「呪詛の具現 バーサーカー」from your Waiting Room, place it into this card's previous slot.
+【自】 ［あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「無毀なる湖光」を1枚選び、手札に戻す。
+【自】 チェンジ ［① このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「呪詛の具現 バーサーカー」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+…… ar (ア)…… ur (ア)……ッ!!
+
+==========================
+
+至高の美酒 アーチャー
+FZ/S17-060S SR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+【A】 ［①］ When you use this card's 『ASSIST』, you may pay the cost. If you did, choose 1 of your battling 《マスター》or 《サーヴァント》 Character,during this turn, it gets +X power. X is that Character Level x500.
+【S】● ASSIST 1000 Level 1［Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +1000 Power.)
+【自】 ［①］ あなたがこのカードの「助太刀」を使った時、あなたはコストを払ってよい。そうしたら、あなたの自分のバトル中の、《マスター》か《サーヴァント》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。
+【起】● 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000)
+Flavor Text:
+言峰綺礼、その時何が起るか、お前には思い描けるか？
+
+==========================
+
+至高の美酒 アーチャー
+FZ/S17-060 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+【A】 ［①］ When you use this card's 『ASSIST』, you may pay the cost. If you did, choose 1 of your battling 《マスター》or 《サーヴァント》 Character,during this turn, it gets +X power. X is that Character Level x500.
+【S】● ASSIST 1000 Level 1［Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +1000 Power.)
+【自】 ［①］ あなたがこのカードの「助太刀」を使った時、あなたはコストを払ってよい。そうしたら、あなたの自分のバトル中の、《マスター》か《サーヴァント》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。
+【起】● 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000)
+Flavor Text:
+言峰綺礼、その時何が起るか、お前には思い描けるか？
+
+==========================
+
+金色の王者 アーチャー
+FZ/S17-061 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+【C】 When you have Red Climax in your Climax slot, this card gets the following effect.『【A】When this card becomes REVERSE, if the character battling this card Cost is 1 or below, you may put that card to REVERSE.』
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【永】 あなたのクライマックス置場に赤のクライマックスがあるなら、このカードは次の能力を得る。『【自】 このカードがリバースした時、このカードのバトル相手のコストが1以下なら、あなたはそのキャラをリバースしてよい。』
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい、そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+
+==========================
+
+呪詛の具現 バーサーカー
+FZ/S17-062 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Servant サーヴァント,_Weapon 武器
+Card Text/Abilities:
+【A】ENCORE [Put the top card of your deck into Clock] (When this card is put to Waiting Room from Stage, you may pay this cost. If so, return this card in REST to it's previous slot.)
+【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+　我は―　疎まれし者―
+嘲られし者―　蔑まれし者―
+
+==========================
+
+遠坂家の当主 時臣
+FZ/S17-063 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Master マスター,_Jewel 宝石
+Card Text/Abilities:
+【A】 When this card attacks, if have 「凛との別れ」 in your Climax slot, choose 1 Character from your Waiting Room, place it into your hand.
+【自】 このカードがアタックした時、クライマックス置場に「凛との別れ」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。
+Flavor Text:
+お前なら一人でもやっていけるだろう
+
+==========================
+
+由緒正しき魔術師 時臣
+FZ/S17-064 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Master マスター,_Jewel 宝石
+Card Text/Abilities:
+【A】 All your other 《王族》 gets +500 power.
+【S】 ［② Put this card to REST］ Choose 1 《サーヴァント》 Character from your Waiting Room, place it into your hand.
+【永】 他のあなたの《王族》のキャラすべてに、パワーを＋500。
+【起】 ［② このカードをレストする］ あなたは自分の控え室の《サーヴァント》のキャラを1枚選び、手札に戻す。
+Flavor Text:
+
+==========================
+
+王の中の王 アーチャー
+FZ/S17-065 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+【C】 If you do not have other Character, this card gets +1500 power, this card cannot be REVERSED from Opponent's 【A】 effects.
+【永】 他のあなたのキャラがいないなら、このカードのパワーを＋1500し、このカードは相手のキャラの【自】の効果によってリバースされない。
+Flavor Text:
+せめて散り様で 我 (オレ)を興じさせよ、雑種
+
+==========================
+
+間桐の執念 臓硯
+FZ/S17-066 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Insect 虫,
+Card Text/Abilities:
+【S】 ［Place the top card of your deck into your Clock, put this card to REST］ Choose 1 《マスター》 characters, during this turn, it gets +2500 power.
+【起】 ［あなたの山札の上から1枚をクロック置場に置き、このカードをレストする］ あなたは自分の《マスター》のキャラを１枚選び、そのターン中、パワーを＋2500。
+Flavor Text:
+落伍者が、よくおめおめと顔を出せたものよ
+
+==========================
+
+蝕まれた心 桜
+FZ/S17-067 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Insect 虫,
+Card Text/Abilities:
+【A】 ［Place 1 Level 2 or above Character from your hand into your Waiting Room, put this card to REST］ When this card comes to stage from hand, you may pay the cost. If you did, choose 1 《マスター》 Character from your Waiting Room, place it into your hand.
+【S】● ASSIST 1500 Level 1 ［Discard this card from hand to Waiting Room］ (Choose 1 character that is being Front Attacked, during this turn, it gets +1500 Power.)
+【自】 ［手札のレベル2以上のキャラを1枚控え室に置き、このカードをレストする］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《マスター》のキャラを1枚選び、手札に戻す。
+【起】● 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500)
+Flavor Text:
+馬鹿な人
+
+==========================
+
+命の代償 雁夜
+FZ/S17-068 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Master マスター,_Insect 虫
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets the following effect.『【A】［①］When this card becomes REVERSE, if this card battles the Character with Level equal or less than this card's Level,you may pay the cost.If you did, put that Character to REVERSE.』
+【永】 応援 このカードの前のあなたのキャラすべてに、次の能力を与える。『【自】［①］このカードがリバースした時、このカードのバトル相手のレベルがこのカードのレベル以下なら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラをリバースする。』
+Flavor Text:
+待ってろよ…桜…
+
+==========================
+
+若き後継者 凛
+FZ/S17-069 U
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Jewel 宝石,
+Card Text/Abilities:
+【A】 ［Place 1 card from Hand into your Waiting Room］ When this card attacks, if you have Red Climax in your Climax slot, you may pay the cost. If you did, choose 1 《マスター》 or 《サーヴァント》 Character from your waiting room, return it to hand.
+【自】 ［手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に赤のクライマックスがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《マスター》か《サーヴァント》のキャラを1枚選び、手札に戻す。
+Flavor Text:
+無いわよ！　あんたに頼ることなんて何も！
+
+==========================
+
+黒い殺意 バーサーカー
+FZ/S17-070 U
+Type: Character
+Level: 2
+Color: Red
+Cost: 3
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Servant サーヴァント,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+…… Ar (アァ)…… thur (サァ)……
+
+==========================
+
+人類最古の王 アーチャー
+FZ/S17-071 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【A】◆ SHIFT Level 0 (At the beginning of your Main Phase, you may choose 1 Red card from your Hand and this card in your Clock and exchange them.)
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【自】◆ シフト レベル0 (あなたのメインフェイズの始めに、あなたは自分の手札の赤のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい)
+Flavor Text:
+
+==========================
+
+間桐 雁夜
+FZ/S17-072 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Master マスター,_Insect 虫
+Card Text/Abilities:
+【C】 All your other 《サーヴァント》 Characters gets +500 power.
+【永】 他のあなたの《サーヴァント》のキャラすべてに、パワーを＋500。
+Flavor Text:
+蟲どもよ、奴を喰えッ、喰らい殺せェェェッ!!
+
+==========================
+
+遠き日の思い出 桜＆葵＆凛
+FZ/S17-073 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Jewel 宝石,
+Card Text/Abilities:
+【A】 When this card comes to stage from hand, choose 1 of your other 《宝石》 Character, during this turn, it gets +1000 power.
+【A】 ［②］ When this card comes to stage from hand, you may pay the cost. If you did, choose up to 1 Character from your waiting room, place it into your hand.
+【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《宝石》のキャラを1枚選び、そのターン中、パワーを＋1000。
+【自】 ［②］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。
+Flavor Text:
+
+==========================
+
+唯我独尊 アーチャー
+FZ/S17-074 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+Flavor Text:
+…フン。どうする？狂犬
+
+==========================
+
+“高貴なるもの”アーチャー
+FZ/S17-075 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+【C】 If your opponent have 4 Characters or more, this card gets +1000 power.
+【永】 相手のキャラが4枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+フン…、よかろう
+
+==========================
+
+必勝への策謀 時臣
+FZ/S17-076 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Master マスター,_Jewel 宝石
+Card Text/Abilities:
+【S】 ［Put 2 of your 《マスター》 Characters to REST］ During this turn, this card gets +1 Level and +2000 power.
+【起】 ［あなたの《マスター》のキャラを2枚レストする］ そのターン中、このカードのレベルを＋1し、パワーを＋2000。
+Flavor Text:
+根源への到達。我ら遠坂の悲願はその一点において他はない
+
+==========================
+
+宝石魔術 時臣
+FZ/S17-077 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Master マスター,_Jewel 宝石
+Card Text/Abilities:
+Flavor Text:
+再び相見えた以上、もはや誅を下すしかあるまい
+
+==========================
+
+運命から逃げた男 雁夜
+FZ/S17-078 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Master マスター,_Insect 虫
+Card Text/Abilities:
+Flavor Text:
+俺は貴様らを許さない……
+薄汚い魔術師どもめ……ッ！
+
+==========================
+
+孤高なる王道 アーチャー
+FZ/S17-079 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+【A】 When this card comes to stage from hand, choose 1 of your STAND 《サーヴァント》 Character, put it to REST.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のスタンドしている《サーヴァント》のキャラを1枚選び、レストする。
+Flavor Text:
+この世総ての財宝は 我 (オレ)の物
+
+==========================
+
+アゾット剣
+FZ/S17-080 U
+Type: Event
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 《サーヴァント》 Character from your Waiting Room, Place it into your hand.
+Choose 1 of your 《マスター》 Character, during this turn it gets +3000 power.
+あなたは自分の控え室の《サーヴァント》のキャラを1枚選び、手札に戻す。
+あなたは自分の《マスター》のキャラを1枚選び、そのターン中、パワーを＋3000。
+Flavor Text:
+時臣「君が遠坂の魔道を修め、見習いの過程を
+終えたことを証明する品だ」
+
+==========================
+
+ヴィマーナ
+FZ/S17-081 U
+Type: Event
+Level: 2
+Color: Red
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose up to 2 Characters named 「アーチャー」 from your Waiting Room, place it into your hand, Choose 1 card from your Hand, place it into your Waiting Room.
+Reveal the top card of your deck, if that card is a Climax, place it on to your Clock. (If is not, return it to top deck)
+あなたは自分の控え室のカード名に「アーチャー」を含むキャラを2枚まで選び、手札に戻し、自分の手札を1枚選び、控え室に置く。
+あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスならクロック置場に置く。 (そうでないなら元に戻す)
+Flavor Text:
+アーチャー「またしてもあの狂犬か……面白い…」
+
+==========================
+
+無毀なる湖光
+FZ/S17-082 C
+Type: Event
+Level: 2
+Color: Red
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+●Choose 1 of your character, during this turn, it gets +X power. X is that Character's Cost x1500.
+●あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのコスト×1500に等しい。
+Flavor Text:
+セイバー「ア…アロンダイト…まさか貴方は―」
+
+==========================
+
+堕ちた騎士の正体
+FZ/S17-083 CR
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When you Triggered this card, choose 1 Character from your waiting room, return to hand)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(扉：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+――そうして“彼”は全てを失った
+
+==========================
+
+凛との別れ
+FZ/S17-084 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card comes on Stage from hand, put the top card of your deck to Stock. During this turn, all of your Characters get +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+『誇り高き遠坂の嫡子に、去りゆく先代の一人として
+かけるべき言葉は、あと一つしかありはしない』
+
+==========================
+
+乖離剣エア
+FZ/S17-085 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card placed into the climax slot from have, draw 1 card, choose 1 of your characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+いざ仰げ――『天地乖離す開闢の星』を！
+
+==========================
+
+内なる虚無 綺礼
+FZ/S17-086S SR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Void 虚無,_Master マスター
+Card Text/Abilities:
+【C】 During your Opponent's turn, all your other 《マスター》 Characters gets +1000 power.
+【A】 CHANGE ［④ Place 1 card from your Hand into your Waiting Room, Place this card into Waiting Room］At the start of your Draw Phase, you may pay the cost. If you do, choose 1 「言峰 綺礼」from your Waiting Room, place it into this card's previous slot.
+【永】 相手のターン中、他のあなたの《マスター》のキャラ全てに、パワーを＋1000。
+【自】 チェンジ ［④ 手札のクライマックスを1枚控え室に置き、このカードを控え室に置く］あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「言峰 綺礼」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+
+==========================
+
+内なる虚無 綺礼
+FZ/S17-086 RR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Void 虚無,_Master マスター
+Card Text/Abilities:
+【C】 During your Opponent's turn, all your other 《マスター》 Characters gets +1000 power.
+【A】 CHANGE ［④ Place 1 card from your Hand into your Waiting Room, Place this card into Waiting Room］At the start of your Draw Phase, you may pay the cost. If you do, choose 1 「言峰 綺礼」from your Waiting Room, place it into this card's previous slot.
+【永】 相手のターン中、他のあなたの《マスター》のキャラ全てに、パワーを＋1000。
+【自】 チェンジ ［④ 手札のクライマックスを1枚控え室に置き、このカードを控え室に置く］あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「言峰 綺礼」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+認めよう。確かに私は空虚な人間だ
+
+==========================
+
+魂の躍動 綺礼
+FZ/S17-087 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Void 虚無,_Master マスター
+Card Text/Abilities:
+【A】 ［Place 1 《マスター》 Character from your Hand into your Waiting Room］ When this card comes to stage from hand, you may pay the cost. If you did, draw 1 card.
+【自】 ［手札の《マスター》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。
+Flavor Text:
+
+==========================
+
+嗜虐の芸術家 キャスター
+FZ/S17-088 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Servant サーヴァント,_Book 本
+Card Text/Abilities:
+【A】 ［Choose 1 of your other Character from stage, place it into your Waiting Room］ When this card attacks, if your have Blue Climax in your Climax slot, you may play the cost. If you did, until end your Opponent's turn, this card gets +2000 power.
+【自】 ［他のあなたの舞台のキャラを1枚控え室に置く］ このカードがアタックした時、クライマックス置場に青のクライマックスがあるなら、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードのパワーを＋2000。
+Flavor Text:
+ご期待あれ、リュウノスケ。
+最高のCOOLをご覧に入れましょう
+
+==========================
+
+言峰 綺礼
+FZ/S17-089 R
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Void 虚無,_Master マスター
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand or through 「CHANGE」, you may choose 1 card from the top of your Clock, place it into Waiting Room.
+【S】 ［② Put 2 of your Characters to REST］ Search your deck up to 1 《マスター》 or 《サーヴァント》, show it to your opponent, then place it into hand. Shuffle your deck afterwards.
+【自】 このカードが手札から舞台に置かれた時か「チェンジ」で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【起】 ［② あなたのカードを2枚レストする］ あなたは自分の山札を見て《マスター》か《サーヴァント》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+禍を恐るるまじ、主が我と共にあるが故に
+
+==========================
+
+死の美学 キャスター
+FZ/S17-090 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Servant サーヴァント,_Book 本
+Card Text/Abilities:
+【A】 If your have 「運命の悪戯」 in your Climax slot and this card is on Front Row, search your deck up to 1 Level 0 or below Character, place it onto your stage. Shuffle your deck afterwards.
+【自】 あなたのクライマックス置場に「運命の悪戯」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見てレベル0以下のキャラを1枚まで選び、舞台の好きな枠に置く。その山札をシャッフルする。
+Flavor Text:
+そうです！その通りです！さすがリュウノスケ！
+
+==========================
+
+受肉による現界 アーチャー
+FZ/S17-091 U
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+【C】 If you have other 2 《マスター》 or 《サーヴァント》 Characters or above, this card gets the following effects.『【A】ENCORE [Discard 1 Character to Waiting Room from hand]』
+【S】 ［①］ Choose 1 of your 《サーヴァント》 Character, during this turn, it gets +1500 power.
+【永】 他のあなたの、《マスター》か《サーヴァント》のキャラが2枚以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。
+【起】 ［①］あなたは自分の《サーヴァント》のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+世話の焼ける男だ
+
+==========================
+
+監督役 璃正
+FZ/S17-092 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: God 神,
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+…そろそろ本題に入りましょうか
+
+==========================
+
+群にして個 アサシン
+FZ/S17-093 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Servant サーヴァント,_Mask 仮面
+Card Text/Abilities:
+【S】 ［Put 2 of your 《マスター》 Characters to REST］ During this turn, if this card Side Attack, the soul will not be reduce.
+【起】 ［あなたの《マスター》のキャラを2枚レストする］ そのターン中、このカードはサイドアタックしてもソウルが減少しない。
+Flavor Text:
+我ら影の英霊は今度こそ、…本物の影になる―
+
+==========================
+
+魔術師の弟子 綺礼
+FZ/S17-094 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Void 虚無,_Master マスター
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+快楽殺人鬼 龍之介
+FZ/S17-095 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Master マスター,_Death 死
+Card Text/Abilities:
+【A】 When your other Characters or Opponent's Characters becomes REVERSED from battle, during this turn, this card gets +1000 power.
+【自】 他のあなたか相手の、バトル中のキャラがリバースした時、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+やっちまェ青髭の旦那！
+
+==========================
+
+信仰の護り手 綺礼
+FZ/S17-096 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Void 虚無,_Master マスター
+Card Text/Abilities:
+【C】 If your hand card is 5 or above, this card gets +1000 power.
+【A】 When this card attacks, if you have 「第八の契約」 in your Climax slot, Draw 1 card.
+【永】 あなたの手札が5枚以上なら、このカードのパワーを＋1000。
+【自】 このカードがアタックした時、クライマックス置場に「第八の契約」があるなら、あなたは1枚引く。
+Flavor Text:
+…娯楽、即ち愉悦だと？
+
+==========================
+
+煉獄の炎
+FZ/S17-097 U
+Type: Event
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Search your deck up to 1 《マスター》 Character and up to 1 《サーヴァント》 Character, show it to your opponent, then place it into hand. Shuffle your deck afterwards. Choose 1 card from your hand, place it into your waiting room. Place this card onto your Clock.
+あなたは自分の山札を見て《マスター》のキャラを1枚までと《サーヴァント》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。あなたは自分の手札を1枚選び、控え室に置く。このカードをクロック置場に置く。
+Flavor Text:
+馬鹿な…そんな馬鹿な！
+
+==========================
+
+海魔
+FZ/S17-098 U
+Type: Event
+Level: 1
+Color: Blue
+Cost: 3
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 Character from your hand, place it into your Memory facing downward. Your opponent declare the number 2 or 3. Reveal the Character, if that Character's Level is the same number your Opponent declared, place it onto your Stage. If is not, place that card into your Waiting Room.
+あなたは自分の手札のキャラを1枚選び、裏向きで思い出にする。相手は2か3を宣言する。あなたはそのカードを公開し、そのカードが相手の宣言したレベルのキャラなら舞台の好きな枠に置く。そうでないなら、そのカードを控え室に置く。
+Flavor Text:
+吐き気を催すほどに穢らわしい粘液に濡れ光る、
+それはまさに肉の中州、肉の島だった
+
+==========================
+
+第八の契約
+FZ/S17-099 CR
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Book：When you Triggered this card, you may draw 1 card)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(本：このカードがトリガーした時、あなたは1枚引いてよい)
+Flavor Text:
+望む答えを得るその時まで、
+この身は道化に甘んじるとも…
+
+==========================
+
+運命の悪戯
+FZ/S17-100 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card placed into the climax slot from have, draw 1 card, choose 1 of your characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+私は悪魔の軍勢を従える術を得たのです。
+いかがですジャンヌ！
+
+==========================
+
+代理マスター アイリスフィールProxy Master, Irisviel
+FZ/S17-101 TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Homunculus ホムンクルス,_Alchemy 錬金術
+Card Text/Abilities:
+【C】 The Character facing this card gets +1 Soul.
+【永】 このカードの正面のキャラのソウルを＋1。
+Flavor Text:
+Saber, attain the Holy Grail.
+For you and your master.
+セイバー、聖杯を手に入れて。
+あなたと、あなたのマスターのために
+
+==========================
+
+ダークスーツのセイバーSaber in a Dark Suit
+FZ/S17-102 TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+【S】［REST 2 of your Characters］ During this turn, this card gets +2000 Power.
+【起】［あなたのキャラを2枚レストする］ そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+You will surely survive.
+I will protect you until the end.
+貴女は必ず生き残ります。最後まで私が守り抜く
+
+==========================
+
+最優のクラス セイバーTop Class, Saber
+FZ/S17-103 TD
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+【C】During your turn, this card gets +1000 Power.
+【A】When this card is placed on Stage from Hand, you may place the top card from your Clock into Waiting Room.
+【永】あなたのターン中、このカードのパワーを＋1000。
+【自】このカードが手札から舞台に置かれたとき、あなたは自分のクロックの上から1枚を、控え室においてよい。
+Flavor Text:
+
+==========================
+
+カムランの丘Hill of Camlann
+FZ/S17-104 TD
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+I'm sorry...
+……ごめん、なさい……
+
+==========================
+
+“血の浅い”魔術師 ウェイバー"Shallow Blooded" Magus, Waver
+FZ/S17-105 TD
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Master マスター,_Alchemy 錬金術
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card get +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+A battle of pure skill,
+where titles and influence mean nothing.
+It's the perfect place for me.
+正真正銘の実力勝負って事か。
+この僕に持って来いの舞台じゃないか
+
+==========================
+
+ちびセイバー
+FZ/S17-106 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+【A】 When your other character REVERSED the battling character, during this turn, this card gets +1000 power.
+【自】 他のあなたのキャラのバトル相手がリバースした時、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+…何のつもりだ
+
+==========================
+
+ちびアイリスフィール
+FZ/S17-107 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Homunculus ホムンクルス,_Alchemy 錬金術
+Card Text/Abilities:
+Flavor Text:
+私が切嗣から教わったのは
+車の運転ばかりじゃなくてよ？
+
+==========================
+
+ちびライダー
+FZ/S17-108 PR
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+【S】 ［①］ Choose 1 of your Opponent's Front Row character, during this turn, it gets -1000 power.
+【起】 ［①］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。
+Flavor Text:
+貴様はまず聖杯の力で、
+あと30センチほど背丈を伸ばしてもらえ
+
+==========================
+
+ちびウェイバー
+FZ/S17-109 PR
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Master マスター,_Alchemy 錬金術
+Card Text/Abilities:
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+バカにしやがって バカにしやがって バカにしやがって！
+
+==========================
+
+バカにしやがって バカにしやがって バカにしやがって！
+FZ/S17-110 PR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+【A】 If there is Red Climax in your Climax slot, during that turn, this card gets +1500 power.
+【自】 あなたの赤のクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。
+Flavor Text:
+剣を棄て、我が妻となれ
+
+==========================
+
+剣の英霊 セイバー
+FZ/S17-P01 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Servant サーヴァント,_Weapon 武器
+Card Text/Abilities:
+【C】 During your turn, this card gets +1000 power.
+【永】 あなたのターン中、このカードのパワーを＋1000。
+Flavor Text:
+この剣の誇りに懸けて
+
+==========================
+
+かわいい騎士王 セイバー
+FZ/S17-P02 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+【C】 During your turn, this card gets +1000 power.
+【永】 あなたのターン中、このカードのパワーを＋1000。
+Flavor Text:
+私は笑われるような事を言いましたか？
+
+==========================
+
+黄金の鞘の主 セイバー
+FZ/S17-P03 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+【A】 When this card put to stage from hand, choose 1 of your 《マスター》 or 《ホムンクルス》 character, during this turn, it gets +1000 power.
+【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の、《マスター》か《ホムンクルス》のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+果てしない戦いの末に、彼女は聖杯を掴むだろう
+
+==========================
+
+憩いのひと時 セイバー
+FZ/S17-P04 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Servant サーヴァント,_Weapon 武器
+Card Text/Abilities:
+【S】［Put this card to REST］ Choose 1 of your 《マスター》or 《サーヴァント》 character, during this turn, it gets +1500 power.
+【起】［このカードを【レスト】する］ あなたは自分の、《マスター》か《サーヴァント》のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+
+==========================
+
+イリヤ&アイリスフィール
+FZ/S17-P05 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Homunculus ホムンクルス,_Alchemy 錬金術
+Card Text/Abilities:
+【A】 ［Place the top card from your Deck into Clock］ When this card attacks, you may pay the cost. If you did, during this turn, this card gets +2500 power.
+【自】 ［あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2500。
+Flavor Text:
+Illya will always be with mother.
+イリヤはこれからも、ずっとお母様と一緒なの
+
+==========================
+
+セイバー＆アイリスフィール＆イリヤ
+FZ/S17-P06 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Homunculus ホムンクルス,_Alchemy 錬金術
+Card Text/Abilities:
+【A】 When this card Direct Attacks, choose 1 of your other character, during this turn, it gets +1500 power.
+【自】 このカードがダイレクトアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+
+==========================
+
+騎士道の守護者　セイバー
+FZ/S17-P07 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Servant サーヴァント,_Weapon 武器
+Card Text/Abilities:
+【C】 When you have 4 stock or above, this card gets +1500 power.
+【永】 あなたのストックが4枚以上なら、このカードのパワーを＋1500。
+Flavor Text:
+我が眼前で騎士道を穢すか、外道ッ！
+
+==========================
+
+無謬の天秤 切嗣
+FZ/S17-P08 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Master マスター,_Weapon 武器
+Card Text/Abilities:
+【S】［(2)］ During this turn, this card gets +3000 power and +1 soul.
+【起】［(2)］ そのターン中、このカードのパワーを＋3000し、ソウルを＋1。
+Flavor Text:
+騎士なんぞに世界は救えない
+
+==========================
+
+清廉なる騎士道 セイバー
+FZ/S17-P09 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Servant サーヴァント,_Weapon 武器
+Card Text/Abilities:
+【S】［(1)］ During this turn, this card gets +1 soul.
+【起】［(1)］ そのターン中、このカードのソウルを＋1。
+Flavor Text:
+わが剣の重さは誇りの重さだ
+
+==========================
+
+王たる風格 セイバー
+FZ/S17-P10 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+【A】 When this card put to stage from hand, choose 1 of your 《マスター》 or 《ホムンクルス》 character, during this turn, it gets +1000 power.
+【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の、《マスター》か《ホムンクルス》のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+理想に準じてこそ王だ
+
+==========================
+
+最強の抗魔力 セイバー
+FZ/S17-P11 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Servant サーヴァント,_Weapon 武器
+Card Text/Abilities:
+【C】This card cannot be chosen by opponent's abilities.
+【永】 このカードは相手の効果に選ばれない。
+Flavor Text:
+くどい!!
+
+==========================
+
+英霊の少女 セイバーSummoned Heroine, Saber
+FZ/S17-T01 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+【A】This ability can only be activated 2 times per turn. When another of your 《マスター》 or 《ホムンクルス》 Characters is placed on Stage from Hand, during this turn, this card gets +1000 Power.
+【自】この能力は１ターンにつき２回まで発動する。他のあなたの《マスター》か《ホムンクルス》のキャラが、手札から舞台に置かれた時、そのターン中、このカードのパワーを+1000。
+Flavor Text:
+
+==========================
+
+アイリスフィール・フォン・アインツベルンIrisviel von Einzbern
+FZ/S17-T02 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Homunculus ホムンクルス,_Alchemy 錬金術
+Card Text/Abilities:
+【A】［②］When a Yellow Climax is placed into your Climax slot, you may pay the cost. If you did, place the top card of your Clock into Waiting Room.
+【自】［②］あなたの黄のクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。 そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。
+Flavor Text:
+Very well, Saber. Grant me victory!
+……わかったわ。セイバー、この私に勝利を
+
+==========================
+
+久宇 舞弥Maiya Hisau
+FZ/S17-T03 TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【C】If you have 4 or less cards in your Hand, this card gets +1000 Power.
+【永】 あなたの手札が4枚以下なら、このカードのパワーを＋1000。
+Flavor Text:
+Focus on what matters now.
+Think of nothing else...
+……いま必要なことだけに意識を向けてください。
+余計なことは、考えないで
+
+==========================
+
+“騎乗”のスキル セイバー"Riding" Skill, Saber
+FZ/S17-T04 TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+Flavor Text:
+My Riding skill allows me to command any beast or vehicle.
+私の騎乗というスキルは
+“乗り物”という概念すべてに適用される能力ですから
+
+==========================
+
+“風王結界”セイバー"Invisible Air" Saber
+FZ/S17-T05 TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Servant サーヴァント,_Weapon 武器
+Card Text/Abilities:
+【A】［Reveal any number of Climax from your Hand］During this card's battle, at the beginning of your Battle step, you may pay the cost. If you did, during this turn, this card gets +X Power. X is equals to the number of cards revealed ×1000.(Return revealed cards to its original position)
+【自】［手札のクライマックスを好きな枚数公開する］ このカードのバトル中、あなたのバトルステップの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋Ｘ。Ｘは公開されたカードの枚数×1000に等しい。（公開したカードは元に戻す）
+Flavor Text:
+
+==========================
+
+“魔術師殺し”切嗣"Mage-Killer" Kiritsugu
+FZ/S17-T06 TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Master マスター,_Weapon 武器
+Card Text/Abilities:
+【S】● ASSIST 3000 Level 2［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)
+【起】● 助太刀3000 レベル2 ［① 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）
+Flavor Text:
+Non-magical attacks are what mages are truly vulnerable to.
+『――魔術師は、魔術に依らぬ攻撃にこそ脆弱さをさらけ出す』
+
+==========================
+
+補助機械 舞弥Assistant Machine, Maiya
+FZ/S17-T07 TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 4500
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card get +X. X is equals to that Character's Level ×500.
+【A】［①］When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 of your Characters, during this turn, it gets +1 Soul.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。
+【自】［①］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。
+Flavor Text:
+Understood.
+解りました
+
+==========================
+
+“初めての外”アイリスフィール"First Time Out" Irisviel von Einzbern
+FZ/S17-T08 TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Homunculus ホムンクルス,_Alchemy 錬金術
+Card Text/Abilities:
+Flavor Text:
+This is the first time
+I've ventured into the world outside.
+私――外に出るのが初めてなの
+
+==========================
+
+アインツベルン城Einzbern Castle
+FZ/S17-T09 TD
+Type: Event
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+If there are 1 or less Climax in your Waiting Room, you cannot play this card from Hand.
+Search your Deck for up to 1 《武器》 or 《錬金術》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+このカードは、あなたの控え室のクライマックスが1枚以下なら、手札からプレイできない。
+あなたは自分の山札を見て《武器》か《錬金術》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+I hereby swear. That i shall be all the good in the world.
+誓いをここに。われは常世総ての善となるもの
+
+==========================
+
+参戦の証 ウェイバーProof of Entry, Waver
+FZ/S17-T10 TD
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Master マスター,_Alchemy 錬金術
+Card Text/Abilities:
+【C】 If your Stock has 2 cards or less, this card gets +1500 Power.
+【A】◆ SHIFT Level 0 (At the beginning of your Main Phase, you may choose 1 Green card from your Hand and this card in your Clock and exchange them.)
+【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。
+【自】◆ シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の緑のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）
+Flavor Text:
+I've got a command seal, too!
+The Grail choose me!
+僕にも宿ったぞ、令呪が。僕は聖杯に選ばれたんだ！
+
+==========================
+
+忠勇義烈 ランサーLoyal and Brave, Lancer
+FZ/S17-T11 TD
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Servant サーヴァント,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+Yes, master.
+――は。お側に
+
+==========================
+
+威風堂々 ライダーImposing and Majestic, Rider
+FZ/S17-T12 TD
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Servant サーヴァント,_Royal Family 王族
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+時計塔のエリート ケイネスClock Tower Elite, Kayneth
+FZ/S17-T13 TD
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Master マスター,_Alchemy 錬金術
+Card Text/Abilities:
+Flavor Text:
+Come forth. Lancer
+出てこい。ランサー
+
+==========================
+
+神威の車輪Gordius Wheel
+FZ/S17-T14 TD
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+Go, Gordius Wheel!
+いざ駆けろ、神威の車輪(ルビ：ゴルディアス・ホイール)！　
+
+==========================
+
+破魔の紅薔薇Gae Dearg
+FZ/S17-T15 TD
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】 When this card is placed into Climax slot from Hand, place the top card of your Deck into Stock, during this turn, all your Characters get +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+Gash, Gae Dearg!
+抉れ、『破魔の紅薔薇(ルビ：ゲイ・ジャルグ)』ッ！
+
+==========================
+

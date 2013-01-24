@@ -1,0 +1,1140 @@
+“精神感応”春上
+RG/W13-026S SR
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Psychic Power 超能力,
+Card Text/Abilities:
+【A】［①］When this card attacks, if 「ようこそ！」 is in your Climax slot, you may pay this cost. If you did, search your Deck for up to 1 《超能力》 Characters, show it to your opponent, then add it to Hand. Shuffle your Deck afterwards, during this turn, this card gets +3000 Power.
+【A】 ENCORE ［Place 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】［①］このカードがアタックした時、クライマックス置場に「ようこそ！」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《超能力》のキャラを1枚まで選んで相手に見せ、手札に加える。その後、その山札をシャッフルし、そのターン中、このカードのパワーを＋3000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+どこにいるの…？
+
+==========================
+
+“精神感応”春上
+RG/W13-026 RR
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Psychic Power 超能力,
+Card Text/Abilities:
+【A】［①］When this card attacks, if 「ようこそ！」 is in your Climax slot, you may pay this cost. If you did, search your Deck for up to 1 《超能力》 Characters, show it to your opponent, then add it to Hand. Shuffle your Deck afterwards, during this turn, this card gets +3000 Power.
+【A】 ENCORE ［Place 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】［①］このカードがアタックした時、クライマックス置場に「ようこそ！」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《超能力》のキャラを1枚まで選んで相手に見せ、手札に加える。その後、その山札をシャッフルし、そのターン中、このカードのパワーを＋3000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+春上衿衣なの
+
+==========================
+
+水辺の佐天
+RG/W13-027SP SP
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: ,
+Card Text/Abilities:
+【C】If there's 5 or more cards in your Stock, this card gets +1000 Power.
+【C】Character opposing this card gets -1 Soul.
+【A】［①］When this card is placed on Stage from hand, you may pay this cost. If you did, during this turn, this card gets +1000 Power, until the end of your opponent's next turn, he/she cannot play Events from Hand.
+【永】あなたのストックが5枚以上なら、このカードのパワーを＋1000。
+【永】このカードの正面のキャラのソウルを－1。
+【自】［①］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋1000し、次の相手のターンの終わりまで、相手はイベントを手札からプレイできない。
+Flavor Text:
+よろしくっ！
+
+==========================
+
+水辺の佐天
+RG/W13-027 RR
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: ,
+Card Text/Abilities:
+【C】If there's 5 or more cards in your Stock, this card gets +1000 Power.
+【C】Character opposing this card gets -1 Soul.
+【A】［①］When this card is placed on Stage from hand, you may pay this cost. If you did, during this turn, this card gets +1000 Power, until the end of your opponent's next turn, he/she cannot play Events from Hand.
+【永】あなたのストックが5枚以上なら、このカードのパワーを＋1000。
+【永】このカードの正面のキャラのソウルを－1。
+【自】［①］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋1000し、次の相手のターンの終わりまで、相手はイベントを手札からプレイできない。
+Flavor Text:
+なんか楽しそうですね！
+
+==========================
+
+佐天のクラスメイト 初春
+RG/W13-028SP SP
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 300
+Soul: 1
+Traits:: Psychic Power 超能力,_Discipline Committee 風紀委員
+Card Text/Abilities:
+【C】All your other 「初春のクラスメイト 佐天」 gets +1000 Power.
+【A】 BOND／「初春のクラスメイト 佐天」［①］(When this card is played and placed on Stage, you may pay this cost. If you did, choose 1 「初春のクラスメイト 佐天」 from your Waiting Room, return to Hand)
+【永】他のあなたの「初春のクラスメイト 佐天」すべてに、パワーを＋1000。
+【自】 絆／「初春のクラスメイト 佐天」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「初春のクラスメイト 佐天」を1枚選び、手札に戻す)
+Flavor Text:
+何事も経験ですよ
+
+==========================
+
+佐天のクラスメイト 初春
+RG/W13-028 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Psychic Power 超能力,_Discipline Committee 風紀委員
+Card Text/Abilities:
+【C】All your other 「初春のクラスメイト 佐天」 gets +1000 Power.
+【A】 BOND／「初春のクラスメイト 佐天」［①］(When this card is played and placed on Stage, you may pay this cost. If you did, choose 1 「初春のクラスメイト 佐天」 from your Waiting Room, return to hand)
+【永】他のあなたの「初春のクラスメイト 佐天」すべてに、パワーを＋1000。
+【自】 絆／「初春のクラスメイト 佐天」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「初春のクラスメイト 佐天」を1枚選び、手札に戻す)
+Flavor Text:
+ご招待ありがとうございます！
+
+==========================
+
+春上 衿衣
+RG/W13-029 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Psychic Power 超能力,
+Card Text/Abilities:
+【A】［① Place 1 card into Waiting Room from Hand, place this card into Memory］When this card becomes REVERSE in battle, you may pay this cost. If you did, search your Deck for up to 1 《超能力》 Character, show it to your opponent, then add it to Hand. Shuffle your Deck afterwards.
+【自】［① 手札を1枚控え室に置き、このカードを思い出にする］バトル中のこのカードがリバースした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《超能力》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+テレポートって初めて見たの
+
+==========================
+
+水辺の初春
+RG/W13-030S SR
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Psychic Power 超能力,_Discipline Committee 風紀委員
+Card Text/Abilities:
+【A】RECOLLECTION When you use this card's 「ASSIST」, if there's a Character with 「春上」 or 「佐天」 in its name in your Memory, choose 1 of your Characters in battle, during this turn, it gets +1000 Power.
+【S】● ASSIST 1000 Level 1 ［Place this card from Hand to Waiting Room］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +1000 Power)
+【自】 記憶 あなたがこのカードの「 助太刀 」を使った時、あなたの思い出置場にカード名に「春上」か「佐天」を含むキャラがあるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000 。
+【起】● 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000)
+Flavor Text:
+実はそれ、わたしの能力なんです
+
+==========================
+
+水辺の初春
+RG/W13-030 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Psychic Power 超能力,_Discipline Committee 風紀委員
+Card Text/Abilities:
+【A】RECOLLECTION When you use this card's 「ASSIST」, if there's a Character with 「春上」 or 「佐天」 in its name in your Memory, choose 1 of your Characters in battle, during this turn, it gets +1000 Power.
+【S】● ASSIST 1000 Level 1 ［Place this card from Hand to Waiting Room］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +1000 Power)
+【自】 記憶 あなたがこのカードの「 助太刀 」を使った時、あなたの思い出置場にカード名に「春上」か「佐天」を含むキャラがあるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000 。
+【起】● 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000)
+Flavor Text:
+なんてことするんですか！？
+
+==========================
+
+“透視能力”固法
+RG/W13-031 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 3500
+Soul: 1
+Traits:: Psychic Power 超能力,_Discipline Committee 風紀委員
+Card Text/Abilities:
+【C】SUPPORT All your Characters with Level 2 or above in front of this card get +1000 Power.
+【S】［REST 2 of your Characters］Choose 1 of your 《超能力》 Characters, during this turn, it gets +1000 Power.
+【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。
+【起】［あなたのキャラを2枚レストする］あなたは自分の《超能力》のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+私のとっておきのストレス解消法、教えてあげる
+
+==========================
+
+初春のクラスメイト 佐天
+RG/W13-032 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 7000
+Soul: 2
+Traits:: ,
+Card Text/Abilities:
+【C】If you have another Character with 「初春」 in its name, this card gets +2000 Power, gains 「【A】ENCORE［Place 1 Character from Hand into Waiting Room］」.
+【永】他のあなたのカード名に「初春」を含むキャラがいるなら、このカードのパワーを＋2000し、このカードは「【自】 アンコール ［手札のキャラを1枚控え室に置く］」を得る。
+Flavor Text:
+相変わらずやってますねー
+
+==========================
+
+浴衣の初春
+RG/W13-033 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Psychic Power 超能力,_Discipline Committee 風紀委員
+Card Text/Abilities:
+【C】If you have 1 or less other Character, this card gets +1 Level, 1000 Power.
+【永】他のあなたのキャラが1枚以下なら、このカードのレベルを＋1し、パワーを＋1000。
+Flavor Text:
+んもぅ！
+
+==========================
+
+“異能力者”春上
+RG/W13-034 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Psychic Power 超能力,
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, choose 1 of your opponent's Characters, during this turn, it gets -500 Power.
+【A】CHANGE ［③ Place 1 card from Hand into Waiting Room, place this card into Memory］At the beginning of your Climax phase, you may pay this cost. If you did, choose 1 「“精神感応”春上」 in your Waiting Room, place it into this card's previous slot.
+【自】このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚選び、そのターン中、パワーを－500。
+【自】 チェンジ ［③ 手札を1枚控え室に置き、このカードを思い出にする］あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“精神感応”春上」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+ピコピコ出てきて可愛い…
+
+==========================
+
+普通の女の子 佐天
+RG/W13-035 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【A】［①］When this card attacks, if 「私にできること」 is in your Climax slot, you may pay this cost. If you did, during this turn, this card gets +6000 Power.
+【自】［①］このカードがアタックした時、クライマックス置場に「私にできること」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋6000。
+Flavor Text:
+この音が…
+
+==========================
+
+“定温保存”初春
+RG/W13-036 U
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Psychic Power 超能力,_Discipline Committee 風紀委員
+Card Text/Abilities:
+【C】If you have 2 or more other 《超能力》 Characters, this card gets +1000 Power.
+【A】When this card attacks, if 「衿衣との再会」 is in your Climax slot, place the top card of your Deck into Stock, during this turn, this card gets +3000 Power.
+【永】他のあなたの《超能力》のキャラが2枚以上なら、このカードのパワーを＋1000。
+【自】このカードがアタックした時、クライマックス置場に「衿衣との再会」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋3000。
+Flavor Text:
+こうやって、触っている物の温度を一定に保てるんです
+
+==========================
+
+子ども達の先生 木山
+RG/W13-037 U
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Teacher 先生,_Science 科学
+Card Text/Abilities:
+【C】RECOLLECTION If your Memory has 2 or more 《超能力》 Characters, this card gets +2000 Power.
+【永】 記憶 あなたの思い出置場の《超能力》のキャラが2枚以上なら、このカードのパワーを＋2000。
+Flavor Text:
+教師が生徒を諦めるなんてできない！！
+
+==========================
+
+浴衣の佐天
+RG/W13-038 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card get +500 Power.
+【A】［①］When this card becomes REVERSE in battle, you may pay this cost. If you do, place this card into Memory.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【自】［①］バトル中のこのカードがリバースした時、あなたはコストを払ってよい。そうしたら、このカードを思い出にする。
+Flavor Text:
+あ～ん！
+
+==========================
+
+浴衣の春上
+RG/W13-039 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Psychic Power 超能力,_Wafuku 和服
+Card Text/Abilities:
+【S】［①］Choose 1 of your 《超能力》 Characters, during this turn, it gets +1500 Power.
+【起】［①］あなたは自分の《超能力》のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+私…浴衣着るの初めて…
+
+==========================
+
+大脳生理学者 木山
+RG/W13-040 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Teacher 先生,_Science 科学
+Card Text/Abilities:
+【S】［① REST 1 of your Character］During this turn, this card gets +2500 Power.
+【起】［① あなたのキャラを1枚レストする］そのターン中、このカードのパワーを＋2500。
+Flavor Text:
+礼を言わせてくれ
+
+==========================
+
+鉄装 綴里
+RG/W13-041 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Teacher 先生,_Glasses メガネ
+Card Text/Abilities:
+【C】ALARM When this card is on top of your Clock, all your 《超能力》 Characters gain the following ability.『【S】［①］During this turn, this card gets +2000 Power.』
+【永】 アラーム このカードがクロックの1番上にあるなら、あなたの《超能力》のキャラすべてに、次の能力を与える。『【起】［①］そのターン中、このカードのパワーを＋2000。』
+Flavor Text:
+もうすぐ完全下校時刻ですよ！
+
+==========================
+
+意外とミーハー 佐天
+RG/W13-042 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+Flavor Text:
+あれ？
+
+==========================
+
+バックアップ担当 初春
+RG/W13-043 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Psychic Power 超能力,_Discipline Committee 風紀委員
+Card Text/Abilities:
+【A】 ENCORE ［Place 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【S】［REST 1 of your 《超能力》 Character or Character with 「佐天」 in its name］During this turn, this card gets +1000 Power.
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+【起】［あなたの《超能力》かカード名に「佐天」を含むキャラを1枚レストする］そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+駄目ですよー。ズルしちゃ
+
+==========================
+
+仲良しクラスメイト 初春＆佐天
+RG/W13-044 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Psychic Power 超能力,_Discipline Committee 風紀委員
+Card Text/Abilities:
+Flavor Text:
+佐天「うーいーはーるーーんっ！」
+
+==========================
+
+思い出の革ジャン 固法
+RG/W13-045 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Psychic Power 超能力,_Discipline Committee 風紀委員
+Card Text/Abilities:
+【A】This ability can be activated up to 2 times per turn. When another of your 《風紀委員》 Character is placed on Stage from hand, during this turn, this card gets +1000 Power.
+【自】この能力は1ターンにつき2回まで発動する。他のあなたの《風紀委員》のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+でしょ？
+
+==========================
+
+誰かが見てる
+RG/W13-046 U
+Type: Event
+Level: 1
+Color: Green
+Cost: 3
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+If you have 2 or less Green Characters, you cannot play this card from Hand.
+Choose up to 2 of your opponent's Characters, during this turn, they get -2500 Power.
+このカードは、あなたの緑のキャラが2枚以下なら、手札からプレイできない。
+あなたは相手のキャラを2枚まで選び、そのターン中、パワーを－2500。
+Flavor Text:
+うわぁぁぁぁぁぁぁぁぁ！！
+
+==========================
+
+ビッグスパイダー
+RG/W13-047 U
+Type: Event
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+●Choose 1 of your 《風紀委員》 Characters, during this turn, it gets +4000 Power. Place this card into Memory.
+●あなたは自分の《風紀委員》のキャラを1枚選び、そのターン中、パワーを＋4000。このカードを思い出にする。
+Flavor Text:
+固法「居場所、か…」
+
+==========================
+
+ようこそ！
+RG/W13-048 CR
+Type: Climax
+Level: N/A
+Color: Green
+Cost: N/A
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, place the top card of your Deck to Stock. During this turn, all of your Characters get +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを+1。
+Flavor Text:
+佐天「なんつーか、昔の初春を思い出しますよ」
+
+==========================
+
+衿衣との再会
+RG/W13-049 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: G
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gold：When this card is Triggered, put this card in your hand. You may put the top card of your deck to Stock)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(宝：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい)
+Flavor Text:
+春上さん…春上さん！
+
+==========================
+
+私にできること
+RG/W13-050 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card comes to Stage from hand, draw 1 card. Choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+私の友達に、手を出すなぁぁぁぁぁ！！！
+
+==========================
+
+裏打ちされた自信 美琴
+RG/W13-051R RRR
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Psychic Power 超能力,_Frog カエル
+Card Text/Abilities:
+【A】［①］When 「高速道路の戦い」 is placed into your Climax slot, you may pay this cost. If you did, during this turn, this card gets +X Power, and gains the following ability.『【A】When the Character battling this card becomes REVERSE, you may choose 1 of your opponent's Front Row Character with Level 2 or below, place it into Waiting Room.』X is equals to the number of your other 《超能力》 Characters ×1000.
+【自】［①］あなたのクライマックス置場に「高速道路の戦い」が置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋Ｘし、このカードは次の能力を得る。『【自】このカードのバトル相手がリバースした時、あなたは相手の前列のレベル2以下のキャラを1枚選び、控え室に置いてよい。』Ｘは他のあなたの《超能力》のキャラの枚数×1000に等しい。
+Flavor Text:
+電撃使いについてよく調べてるみたいだけどまだまだね
+
+==========================
+
+裏打ちされた自信 美琴
+RG/W13-051 RR
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Psychic Power 超能力,_Frog カエル
+Card Text/Abilities:
+【A】［①］When 「高速道路の戦い」 is placed into your Climax slot, you may pay this cost. If you did, during this turn, this card gets +X Power, and gains the following ability.『【A】When the Character battling this card becomes REVERSE, you may choose 1 of your opponent's Front Row Character with Level 2 or below, place it into Waiting Room.』X is equals to the number of your other 《超能力》 Characters ×1000.
+【自】［①］あなたのクライマックス置場に「高速道路の戦い」が置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋Ｘし、このカードは次の能力を得る。『【自】このカードのバトル相手がリバースした時、あなたは相手の前列のレベル2以下のキャラを1枚選び、控え室に置いてよい。』Ｘは他のあなたの《超能力》のキャラの枚数×1000に等しい。
+Flavor Text:
+ちゃんとついてこなかったら承知しないからね！
+
+==========================
+
+一つ屋根の下 美琴＆黒子
+RG/W13-052S SR
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand or through 『CHANGE』, you may place the top card of your Clock into Waiting Room.
+【A】［① Place 1 card into Waiting Room from Hand］When this card attacks, you may pay this cost. If you do, during this turn, this card gets +2000 Power and gains the following ability.「【A】When the Character battling this card becomes REVERSE, you may deal 1 Damage to your opponent.」(Damage can be cancelled)
+【自】 このカードが手札から舞台に置かれた時か『 チェンジ 』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】［① 手札を1枚控え室に置く］このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000し、このカードは次の能力を得る。「【自】このカードのバトル相手がリバースした時、あなたは相手に1ダメージを与えてよい。」 (ダメージキャンセルは発生する)
+Flavor Text:
+美琴「じゃあ行くよー」
+
+==========================
+
+一つ屋根の下 美琴＆黒子
+RG/W13-052 RR
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 2
+Power: 10000
+Soul: 1
+Traits:: Psychic Power 超能力,_Discipline Committee 風紀委員
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand or through 『CHANGE』, you may place the top card of your Clock into Waiting Room.
+【A】［① Place 1 card into Waiting Room from Hand］When this card attacks, you may pay this cost. If you do, during this turn, this card gets +2000 Power and gains the following ability.「【A】When the Character battling this card becomes REVERSE, you may deal 1 Damage to your opponent.」(Damage can be cancelled)
+【自】 このカードが手札から舞台に置かれた時か『 チェンジ 』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】［① 手札を1枚控え室に置く］このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000し、このカードは次の能力を得る。「【自】このカードのバトル相手がリバースした時、あなたは相手に1ダメージを与えてよい。」 (ダメージキャンセルは発生する)
+Flavor Text:
+黒子「きっと気を利かせて
+私たちを二人きりにしてくれたんですの」
+
+==========================
+
+学園生活 美琴
+RG/W13-053 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Psychic Power 超能力,_Frog カエル
+Card Text/Abilities:
+【A】［①］When a Climax appears during your Character's Trigger Check, if that card's Trigger Icon is 2-SOUL, you may pay this cost. If you do, choose 1 Character in your Waiting Room, return it to hand, choose 1 card from your Hand, place it into Waiting Room.
+【自】［①］あなたのキャラのトリガーチェックでクライマックスがでた時、そのカードのトリガーアイコンが2なら、あなたはコストを払ってよい、そうしたら、あなたは自分の控え室のキャラを１枚選び、手札に戻し、自分の手札を１枚選び、控え室に置く。
+Flavor Text:
+どっか遊びに行こっか？
+
+==========================
+
+正義の体現 美琴
+RG/W13-054 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Psychic Power 超能力,_Frog カエル
+Card Text/Abilities:
+【C】If all your Characters are 《超能力》, this card gets +1000 Power.
+【永】あなたのキャラすべてが《超能力》なら、このカードのパワーを＋1000。
+Flavor Text:
+
+==========================
+
+勝気な女の子 美琴
+RG/W13-055SP SP
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Psychic Power 超能力,_Frog カエル
+Card Text/Abilities:
+【A】［① Place the top card of your Deck into Clock］When 「超電磁砲」 is placed into your Climax slot, if this card is in the Front Row, you may pay this cost. If you did, choose up to 1 of your opponent's Front Row Character with Level 2 or below, place it into Waiting Room, during this turn, this card gets +1000 Power.
+【A】 ENCORE ［Place 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】［① あなたの山札の上から1枚をクロック置場に置く］あなたのクライマックス置場に「超電磁砲」が置かれた時、このカードが前列にいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル2以下のキャラを1枚まで選び、控え室に置き、そのターン中、このカードのパワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+あいつは私がなんとかするから
+
+==========================
+
+勝気な女の子 美琴
+RG/W13-055 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Psychic Power 超能力,_Frog カエル
+Card Text/Abilities:
+【A】［① Place the top card of your Deck into Clock］When 「超電磁砲」 is placed into your Climax slot, if this card is in the Front Row, you may pay this cost. If you did, choose up to 1 of your opponent's Front Row Character with Level 2 or below, place it into Waiting Room, during this turn, this card gets +1000 Power.
+【A】 ENCORE ［Place 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】［① あなたの山札の上から1枚をクロック置場に置く］あなたのクライマックス置場に「超電磁砲」が置かれた時、このカードが前列にいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル2以下のキャラを1枚まで選び、控え室に置き、そのターン中、このカードのパワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+次は本気でいくからね
+
+==========================
+
+常盤台のお嬢様 黒子
+RG/W13-056R RRR
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Psychic Power 超能力,_Discipline Committee 風紀委員
+Card Text/Abilities:
+【C】If you have another Character with 「美琴」 in its name, this card gets +1500 Power.
+【永】他のあなたのカード名に「美琴」を含むキャラがいるなら、このカードのパワーを＋1500。
+Flavor Text:
+黒子は、黒子は…っ！
+
+==========================
+
+常盤台のお嬢様 黒子
+RG/W13-056 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Psychic Power 超能力,_Discipline Committee 風紀委員
+Card Text/Abilities:
+【C】If you have another Character with 「美琴」 in its name, this card gets +1500 Power.
+【永】他のあなたのカード名に「美琴」を含むキャラがいるなら、このカードのパワーを＋1500。
+Flavor Text:
+お姉さま～～！！！
+
+==========================
+
+モダンガール 黒子
+RG/W13-057 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 7000
+Soul: 2
+Traits:: Psychic Power 超能力,_Discipline Committee 風紀委員
+Card Text/Abilities:
+【C】For each of your other 《風紀委員》 Characters, this card gets +500 Power.
+【S】［REST 1 of your Characters］During this turn, this card gets +1000 Power.
+【永】他のあなたの《風紀委員》のキャラ1枚につき、このカードのパワーを＋500。
+【起】 ［あなたのキャラを1枚レストする］そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+相合傘なんていまどき時代遅れな…
+
+==========================
+
+常盤台のお嬢様 美琴
+RG/W13-058 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Psychic Power 超能力,_Frog カエル
+Card Text/Abilities:
+【A】 BOND／「常盤台のお嬢様 黒子」［Place the top card of your Deck into Clock］(When this card is played and placed on Stage, you may pay this cost. If you do, choose 1 「常盤台のお嬢様 黒子」 from your Waiting Room, return to Hand)
+【自】 絆／「常盤台のお嬢様 黒子」 ［あなたの山札の上から1枚をクロック置場に置く］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「常盤台のお嬢様 黒子」を1枚選び、手札に戻す)
+Flavor Text:
+ねえ、そろそろおなかすかない？
+
+==========================
+
+お姉さまへの憧れ 黒子
+RG/W13-059 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Psychic Power 超能力,_Discipline Committee 風紀委員
+Card Text/Abilities:
+【A】At the beginning of your opponent's Attack Phase, you may move this card into another empty slot in the Front Row.
+【自】相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。
+Flavor Text:
+お姉さま…
+
+==========================
+
+“空力使い”婚后
+RG/W13-060 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Psychic Power 超能力,_Fan 扇子
+Card Text/Abilities:
+【A】When this card attacks, choose up to 2 of your 《超能力》 Characters, during this turn, they get +500 Power.
+【自】このカードがアタックした時、あなたは自分の《超能力》のキャラを2枚まで選び、そのターン中、パワーを＋500。
+Flavor Text:
+真打ち登場とでも、申しましょうか？
+
+==========================
+
+第一七七支部所属 黒子
+RG/W13-061 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Psychic Power 超能力,_Discipline Committee 風紀委員
+Card Text/Abilities:
+【A】［①］When this card attacks, if 「まさかの共闘」 is in your Climax slot, you may pay this cost. If you do, choose 1 Character from your Waiting Room, return it to Hand.
+【自】［①］このカードがアタックした時、クライマックス置場に「まさかの共闘」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+ここは、わたくしたちが引き受けますの
+
+==========================
+
+パジャマの美琴
+RG/W13-062 U
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Psychic Power 超能力,_Frog カエル
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, look at the top card of your Deck, place it back on top of Deck or into Waiting Room.
+【A】CHANGE ［② Place 1 card into Waiting Room from Hand, place this card into Memory］At the beginning of your Climax Phase, you may pay this cost. If you did, choose 1 「一つ屋根の下 美琴＆黒子」 from your Waiting Room, place it into this card's previous slot.
+【自】このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。
+【自】 チェンジ ［② 手札を1枚控え室に置き、このカードを思い出にする］あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、「一つ屋根の下 美琴＆黒子」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+慌ただしいわねぇ…
+
+==========================
+
+浴衣の美琴
+RG/W13-063 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Psychic Power 超能力,_Frog カエル
+Card Text/Abilities:
+【A】［②］When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, choose 1 Character from your Waiting Room, return it to Hand.
+【自】［②］このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+黒子「さぁさ、お召しかえ、お召しかえ」
+
+==========================
+
+水辺の黒子
+RG/W13-064 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Psychic Power 超能力,_Discipline Committee 風紀委員
+Card Text/Abilities:
+【A】［①］When another of your Character becomes REVERSE in battle, you may pay this cost. If you did, during this turn, this card gets +3000 Power.
+【自】［①］他のあなたのバトル中のキャラがリバースした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋3000。
+Flavor Text:
+お姉さま、この程度では物足りないでしょうけど、
+我慢してくださいですの
+
+==========================
+
+記録係 黒子
+RG/W13-065 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Psychic Power 超能力,_Discipline Committee 風紀委員
+Card Text/Abilities:
+Flavor Text:
+誤解なさらないでくださいな。
+今日の黒子は盛夏祭の記録係
+
+==========================
+
+ドレス姿の美琴
+RG/W13-066 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Psychic Power 超能力,_Frog カエル
+Card Text/Abilities:
+Flavor Text:
+なんでこんなとこにいんのかって聞いてんのよ！
+
+==========================
+
+“メイド・オブ・メイド”婚后
+RG/W13-067 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Psychic Power 超能力,_Maid メイド
+Card Text/Abilities:
+【S】● ASSIST 2000 Level 1 ［① Place this card from Hand into Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +2000 Power)
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000)
+Flavor Text:
+
+==========================
+
+寮監
+RG/W13-068 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 3000
+Soul: 1
+Traits:: Glasses メガネ,
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +500 Power.
+【S】［② REST this card］Choose 1 Character from your Waiting Room, return it to Hand.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】 ［② このカードをレストする］あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+聞いた通りだ。この子たちの期待に応えてやれ
+
+==========================
+
+テレスティーナ・木原・ライフライン
+RG/W13-069 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Glasses メガネ,_Science 科学
+Card Text/Abilities:
+Flavor Text:
+さーて、今日のラッキーカラーは？
+
+==========================
+
+浴衣の黒子
+RG/W13-070 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 9000
+Soul: 1
+Traits:: Psychic Power 超能力,_Discipline Committee 風紀委員
+Card Text/Abilities:
+【C】If you have 3 or less Characters, you cannot play this card from Hand.
+【永】このカードは、あなたのキャラが3枚以下なら、手札からプレイできない。
+Flavor Text:
+風情もへったくれもありませんの
+
+==========================
+
+手掛かり
+RG/W13-071 U
+Type: Event
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose up to 2 of your 《超能力》 Characters, during this turn, they get +3000 Power.
+あなたは自分の《超能力》のキャラを2枚まで選び、そのターン中、パワーを＋3000。
+Flavor Text:
+衿衣「枝先絆理ちゃんって言うの」
+
+==========================
+
+執念
+RG/W13-072 U
+Type: Event
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 if your opponent's Front Row Character with Level 3 or below, place it to the top of Deck.
+あなたは相手の前列のレベル3以下のキャラを1枚選び、山札の上に置く。
+Flavor Text:
+テレスティーナ「この…クソガキどもが…！」
+
+==========================
+
+高速道路の戦い
+RG/W13-073 CR
+Type: Climax
+Level: N/A
+Color: Red
+Cost: N/A
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed on Stage from hand, place the top card of your deck to Stock. During this turn, all of your Characters get +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを+1。
+Flavor Text:
+だったら見せてやるわよ…
+
+==========================
+
+超電磁砲
+RG/W13-074 CC
+Type: Climax
+Level: N/A
+Color: Red
+Cost: N/A
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When this card is Triggered, choose 1 Character from your waiting room, return to hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(扉：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+これが私の全力だ！！！！
+
+==========================
+
+まさかの共闘
+RG/W13-075 CC
+Type: Climax
+Level: N/A
+Color: Red
+Cost: N/A
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+黒子「まさかあなたとコンビを組むなんて、
+思ってもみませんでしたわ」
+
+==========================
+
+お嬢様の休日
+RG/W13-107 PR
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+黒子ーその本貸してー
+
+==========================
+
+放課後の美琴
+RG/W13-108 PR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Psychic Power 超能力,_Frog カエル
+Card Text/Abilities:
+【A】When this card attacks, if 「お嬢様の休日」 is in your Climax slot, choose up to 1 Character in your Waiting Room, return it to Hand.
+【自】このカードがアタックした時、クライマックス置場に「お嬢様の休日」があるなら、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。
+Flavor Text:
+ん？どしたの？
+
+==========================
+
+気になる存在 美琴
+RG/W13-112  PR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 8000
+Soul: 1
+Traits:: Psychic Power 超能力,_Frog カエル
+Card Text/Abilities:
+【A】When this card attacks, choose 2 of your 《超能力》 Characters, during this turn, they get +500 Power.
+【自】このカードがアタックした時、あなたは自分の《超能力》のキャラを2枚まで選び、そのターン中、パワーを＋500。
+Flavor Text:
+なんであいつのことがちらつくのよ
+
+==========================
+

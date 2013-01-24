@@ -1,0 +1,16 @@
+幼なじみ 小鳥Childhood Friend Kotori
+RW/WPR-001 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Plant 植物,_Occult オカルト
+Card Text/Abilities:
+Flavor Text:
+ねぇ、瑚太郎君。いろんなもの…見てね
+
+==========================
+

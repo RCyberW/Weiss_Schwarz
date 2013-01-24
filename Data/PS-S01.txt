@@ -1,0 +1,15 @@
+“死神”タナトス"Death God" Thanatos
+PS/S01-000
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+

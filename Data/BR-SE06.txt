@@ -1,0 +1,706 @@
+クラスメイト ユウClassmate Yuu
+BR/SE06-01 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Sports スポーツ,_Manager マネージャー
+Card Text/Abilities:
+【C】If you have another 「大人びた美少女 ヨミ」, this card gains the following ability.『【S】［Place this card into Waiting Room］Choose 1 「ストレングス」 from your Waiting Room, place it in this card's previous slot.』
+【C】During your turn, all your other Characters get +1000 Power.
+【永】他のあなたの「大人びた美少女 ヨミ」がいるなら、このカードは次の能力を得る。『【起】［このカードを控え室に置く］あなたは自分の控え室の「ストレングス」を1枚選び、このカードがいた枠に置く。』
+【永】あなたのターン中、他のあなたのキャラすべてに、パワーを+1000。
+Flavor Text:
+望な一年生をね･･･バレー部とかに取られないようにしないと
+
+==========================
+
+ストレングスStrength
+BR/SE06-02 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 9500
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【A】When this card is placed on Stage from hand, choose 1 of your card with 「ユウ」 in its name, place it into Waiting Room. If you cannot, place the top card of your Deck into Clock.
+【自】このカードが手札から舞台に置かれた時、あなたは自分のカード名に「ユウ」を含むキャラを1枚選び、控え室に置く。そうできないなら、あなたは自分の山札の上から1枚を、クロック置場に置く。
+Flavor Text:
+
+==========================
+
+優秀なマネージャー ユウExcellent Manager Yuu
+BR/SE06-03 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Sports スポーツ,_Manager マネージャー
+Card Text/Abilities:
+【C】During your turn, all your other Characters get +500 Power.
+【S】[② REST this card] Search your deck for up to 1 《スポーツ》 Character, show it to your opponent, then place into hand. Shuffle your deck afterwards.
+【永】あなたのターン中、他のあなたのキャラすべてに、パワーを+500。
+【起】[② このカードをレストする]あなたは自分の山札を見て《スポーツ》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+着地でぐねった？ 立てる？
+
+==========================
+
+無明の刃 ブラックゴールドソーBlade of Ignorance Black Gold Saw
+BR/SE06-04 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【C】During your turn, this card gets +1000 Power.
+【永】あなたのターン中、このカードのパワーを+1000。
+Flavor Text:
+
+==========================
+
+ユウYuu
+BR/SE06-05 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Sports スポーツ,_Manager マネージャー
+Card Text/Abilities:
+【S】● ASSIST 1500 Level 1 ［Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +1500 Power)
+【起】● 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500)
+Flavor Text:
+あたしの事はユウでヨロシク
+
+==========================
+
+ブラックゴールドソーBlack Gold Saw
+BR/SE06-06 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【A】 ALARM If this card is on top of your Clock, at the beginning of your Climax phase, choose 1 of your Characters, during this turn, it gets +1 Soul.
+【自】 アラーム このカードがクロックの１番上にあるなら、あなたのクライマックスフェイズの始めに、あなたの自分のキャラを１枚選び、そのターン中、ソウルを+1。
+Flavor Text:
+
+==========================
+
+帰国子女 ヨミReturnee Yomi
+BR/SE06-07 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Sports スポーツ,
+Card Text/Abilities:
+【C】If you have another 「クラスメイト ユウ」, this card gains the following ability.『【S】［Place this card into Waiting Room］Choose 1 「“Dead Scythe”デッドマスター」 from your Waiting Room, place it into this card's previous slot.』
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【永】他のあなたの「クラスメイト ユウ」がいるなら、このカードは次の能力を得る。『【起】［このカードを控え室に置く］あなたは自分の控え室の「“Dead Scythe”デッドマスター」を1枚選び、このカードがいた枠に置く。』
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+
+==========================
+
+“冷笑”デッドマスター"Derisive Laughter" Dead Master
+BR/SE06-08 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【S】 CONCENTRATION ［①］Flip the top 4 cards of your deck, place them into Waiting Room. Search your deck for up to X 《武器》 Characters, show them to your opponent, then place them into hand. Shuffle your deck afterwards. Choose X cards from your hand, place them into Waiting Room. X is equals to the number of Climax flipped this way.
+【起】 集中 ［①］あなたは自分の山札の上から４枚をめくり、控え室に置く。あなたは自分の山札を見て《武器》のキャラをＸ枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。あなたは自分の手札をＸ枚選び、控え室に置く。Ｘはそれらのカードのクライマックスの枚数に等しい。
+Flavor Text:
+
+==========================
+
+翠緑の瞳 デッドマスターGreen Eyed Dead Master
+BR/SE06-09 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【S】［REST 2 of your Characters］Choose 1 of your 《武器》 Characters, during this turn, it gains the following ability.『【A】When the Character battling this card becomes REVERSE, you may place the top card of your Deck into Stock.』
+【起】［あなたのキャラを2枚レストする］あなたは自分の《武器》のキャラを1枚選び、そのターン中、次の能力を与える。『【自】このカードのバトル相手がリバースした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』
+Flavor Text:
+
+==========================
+
+翠緑の瞳 デッドマスターGreen Eyed Dead Master
+BR/SE06-09 SP
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【S】［REST 2 of your Characters］Choose 1 of your 《武器》 Characters, during this turn, it gains the following ability.『【A】When the Character battling this card becomes REVERSE, you may place the top card of your Deck into Stock.』
+【起】［あなたのキャラを2枚レストする］あなたは自分の《武器》のキャラを1枚選び、そのターン中、次の能力を与える。『【自】このカードのバトル相手がリバースした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』
+Flavor Text:
+
+==========================
+
+“Dead Scythe” デッドマスター“Dead Scythe” Dead Master
+BR/SE06-10 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【A】When this card is placed on Stage from hand, choose 1 of your Characters with 「ヨミ」 in its name, place it into Waiting Room. If you cannot, place the top card of your Deck into Clock.
+【A】 ENCORE ［Discard 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】このカードが手札から舞台に置かれた時、あなたは自分のカード名に「ヨミ」を含むキャラを１枚選び、控え室に置く。そうできないなら、あなたは自分の山札の上から１枚を、クロック置き場に置く。
+【自】 アンコール ［手札のキャラを一枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+
+==========================
+
+常闇の主 デッドマスターMistress of Everlasting Darkness Dead Master
+BR/SE06-11 R
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 2
+Power: 10000
+Soul: 2
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【A】When this card is placed on Stage from hand, you may place the top card of your Clock into Waiting Room.
+【A】［①］When this card is placed on Stage from hand, you may pay this cost. If you do, look at up to 3 cards from the top of your opponent's Deck, return it to the top of Deck in any order.
+【自】このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から１枚を、控え室に置いてよい。
+【自】［①］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手の山札を上から３枚まで見て、山札の上に好きな順番で置く。
+Flavor Text:
+
+==========================
+
+異世界の少女 デッドマスターGirl of the Parallel World Dead Master
+BR/SE06-12 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【A】［②］When this card comes to Stage from hand, you may pay this cost. If you do, search your deck for up to 1 《スポーツ》 or 《武器》 Character, show it to your opponent, then place it into hand. Shuffle your Deck afterwards.
+【自】［②］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《スポーツ》か《武器》のキャラを１枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+
+==========================
+
+空虚なる者 デッドマスターOne Who Has Become Void Dead Master
+BR/SE06-13 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【S】［REST 2 of your Character］Choose 1 of your opponent's Characters in the Front Row, during this turn, it gets -1000 Power.
+【起】［あなたのキャラを２枚レストする］あなたは相手の前列のキャラを１枚選び、そのターン中、パワーを-1000。
+Flavor Text:
+
+==========================
+
+バレー部のホープ ヨミHope of the Volley Ball Club Yomi
+BR/SE06-14 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Sports スポーツ,
+Card Text/Abilities:
+【C】If you have 1 or less other Character in the Front Row, this card gets +1000 Power.
+【永】他のあなたの前列のキャラが１枚以下なら、このカードのパワーを+1000。
+Flavor Text:
+
+==========================
+
+小鳥遊 ヨミTakanashi Yomi
+BR/SE06-15 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Sports スポーツ,
+Card Text/Abilities:
+【A】When this card attacks, if 「星型のストラップ」 is in your Climax slot, choose 1 of your other Characters, during this turn, it gets +1500 Power, this card gets +1500 Power.
+【自】このカードがアタックした時、クライマックス置場に「星型のストラップ」があるなら、あなたは他の自分のキャラを１枚選び、そのターン中、パワーを+1500し、このカードのパワーを+1500。
+Flavor Text:
+
+==========================
+
+大人びた美少女 ヨミGrown Up Beauty Yomi
+BR/SE06-16 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 3000
+Soul: 1
+Traits:: Sports スポーツ,
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +X Power. X is equals to that Character's Level ×500.
+【A】［②］When this card is placed on Stage from hand or Waiting Room, you may pay this cost. If you do, search your Deck for up to 1 《スポーツ》 Character, show it to your opponent, place it into hand. Shuffle your deck afterwards.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。
+【自】［②］このカードが手札か控え室から、舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《スポーツ》のキャラを１枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+
+==========================
+
+闇を舞うデッドマスターDancing in the Darkness Dead Master
+BR/SE06-17 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【S】［①］During this turn, this card gets +2000 Power.
+【起】［①］そのターン中、このカードのパワーを+2000。
+Flavor Text:
+
+==========================
+
+黒の玉座 デッドマスターBlack Throne Dead Master
+BR/SE06-18 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【A】When this card attacks, if 「闇に浮かぶ影」 is in your Climax slot, during this turn, this card gets +1000 Power, your opponent cannot use 『ASSIST』 from hand.
+【自】このカードがアタックした時、クライマックス置場に「闇に浮かぶ影」があるなら、そのターン中、このカードのパワーを+1000し、相手は 『助太刀』 を手札からプレイできない。
+Flavor Text:
+
+==========================
+
+星型のストラップStar-Shaped Strap
+BR/SE06-19 C
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into the Climax Slot from hand, place the top card of your Deck to Stock, all your Characters, during this turn gets +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+マト「これあげる！」
+
+==========================
+
+闇に浮かぶ影Shadow Floating in Darkness
+BR/SE06-20 C
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: G
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gold：When this card is Triggered, put this card in your hand. You may put the top card of your deck to Stock)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(宝：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい)
+Flavor Text:
+
+==========================
+
+天真爛漫 マトNaivete Mato
+BR/SE06-21 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Sports スポーツ,
+Card Text/Abilities:
+【A】［Place 1 card from hand to Clock］When this card is placed on Stage from hand, you may pay this cost. If you do, search your Deck for up to 1 《スポーツ》 or 《武器》 Character, show it to your opponent, place it to hand. Shuffle your Deck afterwards.
+【自】［手札を1枚クロック置場に置く］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《スポーツ》か《武器》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+今日どっか寄ってく？
+
+==========================
+
+異世界の少女 ブラック★ロックシューターGirl of the Parallel World Black★Rock Shooter
+BR/SE06-22 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【C】If you have no other 《スポーツ》 Character, during your Stand Phase, this card cannot STAND.
+【永】他のあなたの《スポーツ》のキャラがいないなら、このカードはあなたのスタンドフェイズにスタンドしない。
+Flavor Text:
+
+==========================
+
+異世界の少女 ブラック★ロックシューターGirl of the Parallel World Black★Rock Shooter
+BR/SE06-22 SP
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【C】If you have no other 《スポーツ》 Character, during your Stand Phase, this card cannot STAND.
+【永】他のあなたの《スポーツ》のキャラがいないなら、このカードはあなたのスタンドフェイズにスタンドしない。
+Flavor Text:
+
+==========================
+
+対照的な二人 マト＆ヨミContrasive Pair Mato & Yomi
+BR/SE06-23 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Sports スポーツ,
+Card Text/Abilities:
+【C】All your other 「対照的な二人 マト＆ヨミ」 get +500 Power and gain 『【A】 ENCORE [Place 1 Character from hand to Waiting Room]』.
+【永】他のあなたの「対照的な二人 マト＆ヨミ」すべてに、パワー+500し、『【自】 アンコール [手札のキャラを1枚控え室に置く]』を与える。
+Flavor Text:
+マト「ああん、ヨミ、愛してるよ～」
+ヨミ「やめなよ、マト。くすぐったい…ふふふ」
+
+==========================
+
+青い衝撃 ブラック★ロックシューターBlue Impact Black★Rock Shooter
+BR/SE06-24 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【自】 CHANGE ［① Place this card into Clock］At the beginning of your Encore step, if this card is in REST, you may pay this cost. If you do, choose 1 「闇を駆ける ブラック★ロックシューター」 from your Waiting Room, place it in this card's previous slot.
+【自】 チェンジ ［①このカードをクロック置場に置く］あなたのアンコールステップの始めに、このカードがレストしているなら、あなたはコストを支払ってよい。そうしたら、あなたは自分の控え室の「闇を駆ける ブラック★ロックシューター」を１枚選び、このカードがいた枠に置く。
+Flavor Text:
+
+==========================
+
+闇を駆ける ブラック★ロックシューターRunning in the Darkness Black★Rock Shooter
+BR/SE06-25 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【C】During your opponent's turn, if your Stock has 4 or more cards, this card gets +1500 Power.
+【永】相手のターン中、あなたのストックが4枚以上なら、このカードのパワーを＋1500。
+Flavor Text:
+
+==========================
+
+佇むブラック★ロックシューターStanding Black★Rock Shooter
+BR/SE06-26 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【A】［②］When this card is placed on Stage from hand, you may pay this cost. If you do, place the top card of your Clock into Waiting Room.
+【自】［②］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から１枚を、控え室に置く。
+Flavor Text:
+
+==========================
+
+“Black blade”ブラック★ロックシューター“Black Blade” Black★Rock Shooter
+BR/SE06-27 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【C】For each of your other 「期待の一年生エース マト」, this card gets +1000 Power.
+【永】他のあなたの「期待の一年生エース マト」1枚につき、このカードのパワーを+1000。
+Flavor Text:
+
+==========================
+
+期待の一年生エース マトFirst Year Ace of Expectations Mato
+BR/SE06-28 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Sports スポーツ,
+Card Text/Abilities:
+Flavor Text:
+うん、がんばる！
+
+==========================
+
+黒衣 マトKuroi Mato
+BR/SE06-29 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Sports スポーツ,
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【A】 BOND／「小鳥遊 ヨミ」 ［①］ (When you place this card on stage from hand, you may pay the cost. If you do, choose 1 「小鳥遊 ヨミ」 from your waiting room and place it into your hand)
+【永】 応援 このカードの前のあなたのキャラすべてに、パワー+500。
+【自】 絆／「小鳥遊 ヨミ」 [①] (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「小鳥遊 ヨミ」を1枚選び、手札に戻す)
+Flavor Text:
+あたし、黒衣 マト。マトでいいよ
+
+==========================
+
+“★Rock Cannon”ブラック★ロックシューター“★Rock Cannon” Black★Rock Shooter
+BR/SE06-30 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【A】［Place 1 of your 「翠緑の瞳 デッドマスター」 from Stage to Stock］When this card attacks, if 「★Rock Cannon」 is in your Climax slot, you may pay this cost. If you do, choose 1 「大人びた美少女 ヨミ」 from your Waiting Room, place it into Back Row in any slot.
+【自】［あなたの舞台の「翠緑の瞳 デッドマスター」を１枚ストック置場に置く］このカードがアタックした時、クライマックス置場に「★Rock Cannon」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「大人びた美少女 ヨミ」を１枚選び、後列の好きな枠に置く。
+Flavor Text:
+
+==========================
+
+青き炎の瞳 ブラック★ロックシューターBlue Flame Eyed Black★Rock Shooter
+BR/SE06-31 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【S】● ASSIST 3000 Level 2［① Discard this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)
+【起】● 助太刀3000 レベル2 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000)
+Flavor Text:
+
+==========================
+
+友達を想う マトThinking of Her Friend Mato
+BR/SE06-32 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Sports スポーツ,
+Card Text/Abilities:
+【A】[Place 1 「異世界の少女 ブラック★ロックシューター」 from hand to Memory, place this card into Waiting Room]When 「アナタは誰？」 is placed into your Climax slot, you may pay this cost. If you do, choose 1 「“流星”ブラック★ロックシューター」 from your Waiting Room, place it into this card's previous slot.
+【自】[手札の「異世界の少女 ブラック★ロックシューター」を1枚思い出にし、このカードを控え室に置く]あなたのクライマックス置場に「アナタは誰？」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“流星”ブラック★ロックシューター」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+また一緒に笑い合いたい……！
+
+==========================
+
+“邂逅”ブラック★ロックシューター＆デッドマスター"Chance Meeting" Black★Rock Shooter & Dead Master
+BR/SE06-33 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Weapon 武器,
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+“流星”ブラック★ロックシューター"Falling Star" Black★Rock Shooter
+BR/SE06-34 C
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【A】When this card is placed on Stage from hand or Waiting Room, during this turn, this card gains the following ability.『【A】When the Character battling this card becomes REVERSE, you may place that Character to the bottom of Deck. If you do, search your Deck for up to 1 Character with Level equal or less than that Character, show it to your opponent, place it into hand. Shuffle your deck afterwards.』
+【自】このカードが手札か控え室から、舞台に置かれた時、そのターン中、このカードは次の能力を得る。『【自】このカードのバトル相手がリバースした時、あなたはそのキャラを山札の下に置いてよい。そうしたらあなたは自分の山札を見てそのキャラのレベル以下のレベルのキャラを１枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。』
+Flavor Text:
+
+==========================
+
+★Rock Cannon
+BR/SE06-35 C
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card comes to Stage from hand, draw 1 card. Choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+
+==========================
+
+アナタは誰？Who Are You?
+BR/SE06-36 C
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Book：When this card is triggered, you may draw 1 card)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(本：このカードがトリガーした時、あなたは1枚引いてよい)
+Flavor Text:
+誰なの…？ あなたは…？
+
+==========================
+
+Xmasパーティ マトXmas Party Mato
+BR/SE06-37 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Sports スポーツ,
+Card Text/Abilities:
+【C】If you have 1 or less other Character, all your other Characters get +1500 Power.
+【永】他のあなたのキャラが1枚以下なら、他のあなたのキャラすべてに、パワーを＋1500。
+Flavor Text:
+えいっ
+
+==========================
+
+意思を秘めた瞳 ブラック★ロックシューター
+BR/SE06-38 PR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【C】 During opponent turns, this card gets +1000 power.
+【永】 相手のターン中、このカードのパワーを＋1000。
+Flavor Text:
+
+==========================
+

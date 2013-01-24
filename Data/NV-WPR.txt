@@ -1,0 +1,18 @@
+初等科4年生ヴィヴィオ
+NV/WPR-003 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Odd Eye オッドアイ,_Royal Family 王族
+Card Text/Abilities:
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【自】アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+わたしは今、なんだかすごく幸せだったりします
+
+==========================
+

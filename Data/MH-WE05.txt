@@ -1,0 +1,628 @@
+最後の希望 秋葉
+SK & MH/WE05-01 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Colony コロニー,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card attacks, if you have 「黄金銃」 in your climax slot, choose 1 of your 《コロニー》 character, during this turn, it gets +2500 power.
+【A】 BOND／「ブレインコロニー レオパルド」［①］(When you play this card to Stage, you may pay this cost. If you do, choose 1 「ブレインコロニー レオパルド」 from your Waiting Room, put it into your hand)
+【自】このカードがアタックした時、クライマックス置場に「黄金銃」があるなら、あなたは自分の《コロニー》のキャラを１枚選び、そのターン中、パワーを+2500。
+【自】 絆／「ブレインコロニー レオパルド」 ［①］(このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ブレインコロニー レオパルド」を1枚選び、手札に戻す)
+Flavor Text:
+秋葉「行かせて――レオパルドの所に！」
+
+==========================
+
+真白＆二三
+SK & MH/WE05-02 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Element エレメント,_Maid メイド
+Card Text/Abilities:
+【C】 All your other 《エレメント》 characters gets +1000 power.
+【S】［② Put this card to REST］ Search your deck up to 1 《エレメント》 character and show it to your opponent, return it to hand. Shuffle your deck afterwards.
+【永】他のあなたの《エレメント》のキャラすべてに、パワーを+1000。
+【起】［② このカードをレストする］あなたは自分の山札を見て《エレメント》のキャラを１枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+二三「お疲れになりましたか？」
+
+==========================
+
+ブレインコロニー レオパルド
+SK & MH/WE05-03 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Colony コロニー,_Mecha メカ
+Card Text/Abilities:
+【C】 If your Level slot have 「最後の希望 秋葉」, this card gets +1500 power.
+【永】あなたのレベル置き場に「最後の希望 秋葉」があるなら、このカードのパワーを＋1500。
+Flavor Text:
+おお、この芳醇なアールグレイの香り……
+
+==========================
+
+“蒼天と海神”アリカ＆ニナ
+SK & MH/WE05-04 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Element エレメント,_Jewel 宝石
+Card Text/Abilities:
+【C】 If you have other 1 or below character, this card gets +1500 power.
+【永】他のあなたのキャラが1枚以下なら、このカードのパワーを+1500。
+Flavor Text:
+アリカ「ニナちゃん、いっくよ～っ！」
+
+==========================
+
+願いを受け継ぐ者 秋葉
+SK & MH/WE05-05 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Colony コロニー,_Mecha メカ
+Card Text/Abilities:
+【C】 For each 《コロニー》 characters in your Level slot,this card gets +2000 power.
+【永】あなたのレベル置場の《コロニー》のキャラ１枚につき、このカードのパワーを+2000。
+Flavor Text:
+秋葉「探しに来てくれたんだ、レオパルド」
+
+==========================
+
+アリッサ＆深優
+SK & MH/WE05-06 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Music 音楽,_Mecha メカ
+Card Text/Abilities:
+Flavor Text:
+アリッサも、深優が大好き
+
+==========================
+
+黄金銃
+SK & MH/WE05-07 C
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1W
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+(Wind：When this card is Triggered, you may choose 1 of opponent's Characters, return to his/her hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(風：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+ナミ──！
+
+==========================
+
+雪之＆遥
+SK & MH/WE05-08 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Student Council 生徒会,_Glasses メガネ
+Card Text/Abilities:
+【A】This ability can only be activated 2 times per turn. When another of your 《生徒会》 Characters is placed on Stage from Hand, during this turn, this card gets +1000 Power.
+【自】この能力は1ターンにつき2回まで発動する。他のあなたの《生徒会》のキャラが、手札から舞台に置かれた時、そのターン中、このカードのパワーを+1000。
+Flavor Text:
+雪之「遥ちゃん…」
+
+==========================
+
+舞衣＆なつき＆命
+SK & MH/WE05-09 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Element エレメント,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card attacks, if you have 「HiMEの力」 in your climax slot, during this turn, this card gets +3000 power.
+【自】このカードがアタックした時、クライマックス置場に「HiMEの力」があるなら、そのターン中、このカードのパワーを+3000。
+Flavor Text:
+あたしも、毎日楽しいよ
+
+==========================
+
+ミンタオ＆ブーゲンビリア
+SK & MH/WE05-10 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Colony コロニー,_Police 警察
+Card Text/Abilities:
+【S】［Put this card to REST］ Choose 1 of your 「ミンタオ＆ブーゲンビリア」, during this turn, it gets +2500 power.
+【起】［このカードをレストする］あなたは自分の「ミンタオ＆ブーゲンビリア」を1枚選び、そのターン中、パワーを+2500。
+Flavor Text:
+ミンタオ「いくわよ、ブー！」
+
+==========================
+
+いつき＆ウル
+SK & MH/WE05-11 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Colony コロニー,_Mecha メカ
+Card Text/Abilities:
+Flavor Text:
+ウル「我々を舐めるなよ。スパイシー」
+
+==========================
+
+結城 奈緒
+SK & MH/WE05-12 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Element エレメント,_Infirmary 保健室
+Card Text/Abilities:
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【S】[Discard 1 hand card to your waiting room] During this turn, this card gets +2500 power.
+【自】 アンコール [手札のキャラを1枚控え室に置く] （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く）
+【起】［手札を１枚控え室に置く］そのターン中、このカードのパワーを+2500。
+Flavor Text:
+ふふ、こっちこっち
+
+==========================
+
+ハルカ＆アリカ
+SK & MH/WE05-13 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Element エレメント,_Jewel 宝石
+Card Text/Abilities:
+【C】 If your have other 2 or above 《エレメント》 characters, this card gets the following ability.『【A】ENCORE [Discard 1 Character to Waiting Room from hand]』
+【永】他のあなたの《エレメント》のキャラが2枚以上なら、このカードは『【自】 アンコール [手札のキャラを1枚控え室に置く]』を得る。
+Flavor Text:
+ハルカ「アリカちゃん、オトメに必要なものは？」
+アリカ「はい！力と技と、根性です！」
+
+==========================
+
+美袋 命
+SK & MH/WE05-14 C
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Element エレメント,_Weapon 武器
+Card Text/Abilities:
+【A】When this card comes to Stage from hand, you may place the top card of your Clock into Waiting Room.
+【A】 When this card comes to stage from hand, your opponents choose 1 number of 1,2 or 3. Reveal the top card of your deck, if it is a character and the level is same with the number your opponent choose, place the X card from your top deck to Stock. X is the number your opponent chosen x2.(Otherwise place back the reveal card to top deck)
+【自】このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】このカードが手札から舞台に置かれた時、相手は1か2か3を宣言する。あなたは自分の山札の上から1枚を公開し、そのカードが相手の宣言したレベルのキャラなら、あなたは自分の山札の上からＸ枚までを、ストック置場に置く。Ｘは相手の宣言した数×2に等しい。 (そうでないなら元に戻す)
+Flavor Text:
+これは命のだぞ
+
+==========================
+
+HiMEの力
+SK & MH/WE05-15 C
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+
+==========================
+
+不思議少女ほのか
+SK & MH/WE05-16 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Colony コロニー,_Psychic Power 超能力
+Card Text/Abilities:
+【S】［① Put 2 《コロニー》 characters into REST］ Choose 1 《コロニー》 or 《メカ》 character from your waiting room, return it to hand.
+【起】［① あなたの《コロニー》のキャラ2枚レストする］ あなたは自分の控え室の、《コロニー》か《メカ》のキャラを1枚選び、手札に戻す。
+Flavor Text:
+…なして？
+
+==========================
+
+杉浦 碧
+SK & MH/WE05-17 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Element エレメント,_Teacher 先生
+Card Text/Abilities:
+【A】 When this card becomes REVERSE, if the character battling this card is Level 0 or below, you may put that card to REVERSE.
+【A】[②] When this card place onto waiting room from stage, you may pay the cost. If you did, choose 1 《メカ》 character from your waiting room, return it to hand.
+【自】このカードがリバースした時、このカードとバトルしているキャラのレベルが0以下なら、あなたはそのキャラをリバースしてよい。
+【自】[②]このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《メカ》のキャラを1枚選び、手札に戻す。
+Flavor Text:
+ただいまお伺いいたしまー…ああっ！
+
+==========================
+
+獅子堂 妹子
+SK & MH/WE05-18 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Colony コロニー,_Mecha メカ
+Card Text/Abilities:
+【C】 All your other 《コロニー》 characters get +500 power.
+【S】［Discard 1 hand card to waiting room, place this card to waiting room］ Choose 1 《コロニー》 character from your waiting room, return it to hand.
+【永】他のあなたの《コロニー》のキャラすべてに、パワーを＋500。
+【起】［手札を1枚控え室に置き、このカードを控え室に置く］あなたは自分の控え室の《コロニー》のキャラを1枚選び、手札に戻す。
+Flavor Text:
+秋葉お嬢様ー♪
+
+==========================
+
+鴇羽 舞衣
+SK & MH/WE05-19 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Element エレメント,_Waitress ウェイトレ
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【A】 When your other battling character becomes REVERSED, choose 1 of your character, during this turn, it gets +1000 power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+いらっしゃいませー！
+
+==========================
+
+水着の舞衣＆命
+SK & MH/WE05-20 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Element エレメント,_Swimsuit 水着
+Card Text/Abilities:
+【S】● ASSIST 3000 Level 2 ［① Discard this card from hand to Waiting Room］ (Choose 1 character that is being Front Attacked, during this turn, it gets +3000 Power.)
+【起】● 助太刀3000 レベル2 ［① 手札のこのカードを控え室に置く］(あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋3000)
+Flavor Text:
+舞衣「もー、まだ食べるんじゃないわよ」
+
+==========================
+
+玖我 なつき
+SK & MH/WE05-21 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Element エレメント,_Bike バイク
+Card Text/Abilities:
+【C】 If you do not have other 「藤乃 静留」, this card cannot attack.
+【A】 When this card attacks, all your 《エレメント》 characters, during this turn gets +500 power.
+【永】他のあなたの「藤乃 静留」がいないなら、このカードはアタックできない。
+【自】このカードがアタックした時、あなたの《エレメント》のキャラすべてに、そのターン中、パワーを＋500。
+Flavor Text:
+警察など、何も出来ないさ。
+この学園の裏に蠢く力の前にはな…
+
+==========================
+
+獅子堂財団総帥 風音
+SK & MH/WE05-22 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 3500
+Soul: 1
+Traits:: Colony コロニー,_Glasses メガネ
+Card Text/Abilities:
+【C】 During your opponent's turn, all your other 《コロニー》 or 《超能力》 gets +500 power and the following ability.『ENCORE [Discard 1 Character to Waiting Room from hand]』
+【A】 When this card comes to stage from hand, look up to 2 cards at your top deck, place it on top of your top deck in any order.
+【永】相手のターン中、他のあなたの、《コロニー》か《超能力》のキャラすべてに、パワーを+500し、『 アンコール [②]』を与える。
+【自】このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く
+Flavor Text:
+……アブソリュート・ブレイクスルー・
+コントロールを発動します！
+
+==========================
+
+藤乃 静留
+SK & MH/WE05-23 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Element エレメント,_Student Council 生徒会
+Card Text/Abilities:
+【C】 If you do not have other 「玖我 なつき」, this card cant attack.
+【A】 During you opponent turn, this card gets +1500 power.
+【永】他のあなたの「玖我 なつき」がいないなら、このカードはアタックできない。
+【自】相手のターン中、このカードのパワーを＋1500。
+Flavor Text:
+ええのよ。他ならぬなつきの頼みやからね……
+
+==========================
+
+水着のなつき
+SK & MH/WE05-24 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Element エレメント,_Swimsuit 水着
+Card Text/Abilities:
+【A】 When this card comes to stage from hand, look at the top card of your deck , place it on top or bottom of your deck.
+【自】このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。
+Flavor Text:
+余計なお世話だ
+
+==========================
+
+獅子堂 ナミ
+SK & MH/WE05-25 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Colony コロニー,
+Card Text/Abilities:
+【C】 If you have no other characters, this card gets +2000 power.
+【永】他のあなたのキャラがいないなら、このカードのパワーを＋2000。
+Flavor Text:
+なんなのよ……これ
+
+==========================
+
+獅子堂 神楽
+SK & MH/WE05-26 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Colony コロニー,_Psychic Power 超能力
+Card Text/Abilities:
+【A】 When this card attacks, your opponents choose 1 number of 0,1 or 2. Reveal the top card of your deck, if it is a character and the level is same with the number your opponent choose, draw X. X is the number your opponent chosen +1.(Otherwise place back the reveal card to top deck)
+【自】このカードがアタックした時、相手は0か1か2を宣言する。あなたは自分の山札の上から1枚を公開し、そのカードが相手の宣言したレベルのキャラなら、あなたはＸ枚まで引く。Ｘは相手の宣言した数＋1に等しい。 (そうでないなら元に戻す)
+Flavor Text:
+物わかりの悪い子には、体に教えるしかないか──
+
+==========================
+
+小川で遊ぼう！
+SK & MH/WE05-27 C
+Type: Event
+Level: 1
+Color: Blue
+Cost: 0
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Draw 2 card, choose 2 card from your hand, place it on top of your deck.
+あなたは2枚まで引き、自分の手札を2枚選び、山札の上に置く。
+Flavor Text:
+いつき「サイズが合いませんか？怪奇課の標準装備なんですけど」
+秋葉「ううん、ピッタリ」
+
+==========================
+
+奪われた者達
+SK & MH/WE05-28 PR
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When you Triggered this card, choose 1 Character from your waiting room, return to hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(扉：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+ほのか「私達は、ネルヴァルに多くの物を奪われた。 取り戻したい気持ちは同じ」
+
+==========================
+
+Qテクターほのか
+SK & MH/WE05-29 PR
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Colony コロニー,_Psychic Power 超能力
+Card Text/Abilities:
+【C】 For each of your other 《コロニー》 characters, this card gets +500 power.
+【永】 他のあなたの《コロニー》のキャラ1枚につき、このカードのパワーを＋500。
+Flavor Text:
+私達はこの瞬間のために生まれてきた――
+戦いを終わらせるために
+
+==========================
+
+Qテクターいつき
+SK & MH/WE05-30 PR
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Colony コロニー,_Police 警察
+Card Text/Abilities:
+【A】When you use this card's 「ASSIST」, if your Level slot have 2 or above 《コロニー》 characters, choose 1 of your battling character, during this turn, it gets +1000 power.
+【S】● ASSIST 2500 Level 2 ［(1)Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +2500 Power)
+【自】 経験 あなたがこのカードの『助太刀』を使った時、あなたのレベル置場の《コロニー》のキャラが2枚以上なら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。
+【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）
+Flavor Text:
+あなた達を守るのも私の任務……
+
+==========================
+
+最後の切り札 秋葉
+SK & MH/WE05-31 PR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Colony コロニー,
+Card Text/Abilities:
+【C】 All your other 《コロニー》 characters gets +1000 power.
+【A】 CHANGE ［(1)Place this card into Waiting Room］At the start of your Draw Phase, you may pay the cost. If you did, choose 1「一緒の気持ち 秋葉＆妹子」from your Waiting Room, place it into this card's previous slot.
+【永】 他のあなたの《コロニー》のキャラすべてに、パワーを＋1000。
+【自】 チェンジ ［(1) このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「一緒の気持ち 秋葉＆妹子」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+イモちゃん……
+あたし、頑張ってみるね……みんなと一緒に
+
+==========================
+
+一緒の気持ち 秋葉＆妹子
+SK & MH/WE05-32 PR
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Colony コロニー,_Mecha メカ
+Card Text/Abilities:
+【C】 During your turn, for each of your other 《コロニー》 characters, this card gets +500 power.
+【A】When this card is placed on Stage from Hand or through CHANGE, you may choose 1 card from the top of your Clock, place it into Waiting Room.
+【A】 When the Character battling this card becomes REVERSED, if you have 「宇宙をかける少女」 in your climax slot, choose up to 3 card from your opponent's waiting room, place it to the deck. Shuffle the deck afterwards, place this card to memory, at the beginning of your next draw phase, choose 1 「一緒の気持ち 秋葉＆妹子」 on your memory, place it onto the stage.
+【永】 あなたのターン中、他のあなたの《コロニー》のキャラ1枚につき、このカードのパワーを＋500。
+【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「宇宙をかける少女」があるなら、あなたは相手の控え室のカードを3枚まで選び、山札に戻す。その後、その山札をシャッフルし、このカードを思い出にし、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「一緒の気持ち 秋葉＆妹子」を1枚選び、舞台の好きな枠に置く。
+Flavor Text:
+秋葉「――行こう、イモちゃん！」
+妹子「はいっ！」
+
+==========================
+
+宇宙をかける少女
+SK & MH/WE05-33 PR
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card placed into the climax slot from have, draw 1 card, choose 1 of your characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+秋葉「綺麗だね、イモちゃん……」
+
+==========================
+

@@ -1,0 +1,37 @@
+魔法少女 なのは＆フェイト
+N1/WPR-001PR PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【S】［①］Choose 1 of your opponent's front row level 0 or below characters, place it in waiting room.
+【起】［①］あなたは相手の前列のレベル0以下のキャラを1枚選び、控室に置く。
+Flavor Text:
+なのは「―――伝えたいことが、あるんだ」
+
+==========================
+
+譲れない想い なのは＆フェイト
+N1/WPR-002PR PR
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【S】［① Put this card to REST］Choose 1 of your opponent's cards from the waiting room, place it on top of the deck.
+【起】［① このカードをレストする］あなたは相手の控え室のカードを1枚選び、山札の上に置く。
+Flavor Text:
+なのは「だけど……なにもわからないまま
+ぶつかりあうのは、嫌だ！」
+
+==========================
+

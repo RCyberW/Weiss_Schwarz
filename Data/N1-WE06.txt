@@ -1,0 +1,663 @@
+代わりの人形フェイト
+N1/WE06-01 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Magic 魔法,_Clone クローン
+Card Text/Abilities:
+【A】When this card becomes REVERSE in battle, place the top card of your deck in clock.
+【自】バトル中のこのカードがリバースした時、あなたは自分の山札の上から1枚を、クロック置場に置く
+Flavor Text:
+母さんの捜し物……
+ジュエルシードは、ここにある……
+
+==========================
+
+代わりの人形フェイト
+N1/WE06-01 SP
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Magic 魔法,_Clone クローン
+Card Text/Abilities:
+【A】When this card becomes REVERSE in battle, place the top card of your deck in clock.
+【自】バトル中のこのカードがリバースした時、あなたは自分の山札の上から1枚を、クロック置場に置く
+Flavor Text:
+母さんの捜し物……
+ジュエルシードは、ここにある……
+
+==========================
+
+対等のパートナー アルフ
+N1/WE06-02 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Familiar 使い魔,_Animal 動物
+Card Text/Abilities:
+【A】 BOND／「母を想うフェイト」 ［Place the top card of your Deck into Clock］ (When you place this card on stage from hand, you may pay the cost. If you do, choose 1 「母を想うフェイト」 from your waiting room and place it into your hand)
+【A】 CHANGE ［② Discard 1 card to waiting room from hand, place this card in waiting room］At the beginning of your climax phase, you may pay the cost. If you do, choose 1 「狼形態アルフ」 from your waiting room, place it in this card's previous slot.
+【自】 絆／「母を想うフェイト」 ［あなたの山札の上から1枚をクロック置き場に置く］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「母を想うフェイト」を1枚選び、手札に戻す)
+【自】 チェンジ ［② 手札を1枚控え室に置き、このカードを控え室に置く］あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「狼形態アルフ」を1枚選び、このカードがいた枠に置く
+Flavor Text:
+ま、いざとなったら、
+あたしがそいつらブチのめしちゃる……！
+
+==========================
+
+もうひとりの魔法少女フェイト
+N1/WE06-03 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Clone クローン
+Card Text/Abilities:
+【A】 CHANGE ［② Discard 1 card to waiting room from hand, place this card in waiting room］At the beginning of your climax phase, you may pay the cost. If you do, choose 1 「母を想うフェイト」 from your waiting room, place it in this card's previous slot.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【自】 チェンジ ［② 手札を1枚控え室に置き、このカードを控え室に置く］あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「母を想うフェイト」を1枚選び、このカードがいた枠に置く。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+今度は、手加減できないかもしれない
+
+==========================
+
+失われた過去プレシア
+N1/WE06-04 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 3500
+Soul: 1
+Traits:: Magic 魔法,_Sickness 病気
+Card Text/Abilities:
+【C】All your other 《魔法》 characters get +1500 Power.
+【A】At the beginning of your draw phase, you may place the top card of your deck into clock. If you do not, place this card in memory.
+【永】他のあなたの《魔法》のキャラすべてに、パワーを＋1500。
+【自】あなたのドローフェイズの始めに、あなたは自分の山札の上から1枚を、クロック置場に置いてよい。そうしないなら、このカードを思い出にする。
+Flavor Text:
+取り戻すの………
+こんなはずじゃなかった、世界のすべてを…！
+
+==========================
+
+プレシア・テスタロッサ
+N1/WE06-05 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Sickness 病気
+Card Text/Abilities:
+【C】For each marker under this card, this card gets +1000 Power.
+【A】When the character battling another of your characters with 「フェイト」 in the name become REVERSE, you may place the top card of your deck under this card as a marker.
+【A】［③］When this card becomes REVERSE in battle, you may pay the cost. If you do, put this card in REST.
+【永】このカードの下のマーカー1枚につき、このカードのパワーを＋1000。
+【自】他のあなたのカード名に「フェイト」を含むキャラとのバトル中のキャラがリバースした時、あなたは自分の山札の上から1枚をこのカードの下にマーカーとして置いてよい。
+【自】［③］バトル中のこのカードがリバースした時、あなたはコストを払ってよい。そうしたら、このカードをレストする。
+Flavor Text:
+手に入れてきて…母さんのために
+
+==========================
+
+教育係リニス
+N1/WE06-06 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Familiar 使い魔,_Animal 動物
+Card Text/Abilities:
+【A】［Place 1 of your characters with 「フェイト」 in the name to clock from stage, place this card in memory］When this card is placed on stage from hand, you may pay the cost. If you do, search your deck for up to 1 「もうひとりの魔法少女フェイト」, place it on any back row slot. Shuffle your deck afterwards.
+【自】［あなたの舞台のカード名に「フェイト」を含むキャラを1枚クロック置場に置き、このカードを思い出にする］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「もうひとりの魔法少女フェイト」を1枚まで選び、後列の好きな枠に置く。その山札をシャッフルする。
+Flavor Text:
+お嬢様……お名前は？
+
+==========================
+
+ひたすらに一途フェイト
+N1/WE06-07 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Magic 魔法,_Clone クローン
+Card Text/Abilities:
+Flavor Text:
+だから…ほんとの自分をはじめるために…
+いままでの自分を…終わらせよう！
+
+==========================
+
+狼形態アルフ
+N1/WE06-08 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Familiar 使い魔,_Animal 動物
+Card Text/Abilities:
+【C】All your other characters with 「フェイト」 in the name get +1000 Power.
+【S】［①］During this turn, this card gets +1 Soul.
+【永】他のあなたのカード名に「フェイト」を含むキャラすべてに、パワーを＋1000。
+【起】［①］そのターン中、このカードのソウルを＋1。
+Flavor Text:
+フェイトのジャマを……するなぁあああ！！
+
+==========================
+
+母を想うフェイト
+N1/WE06-09 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 7000
+Soul: 2
+Traits:: Magic 魔法,_Clone クローン
+Card Text/Abilities:
+【C】If you have another 《使い魔》 character, this card gets +2000 Power.
+【A】［⑥］When this card attacks, if 「ファランクスシフト」 is in the climax slot, you may pay the cost. If you do, for each of your 「母を想うフェイト」, perform the following action. 『Deal 1 damage to your opponent.』 (This damage can be canceled)
+【永】他のあなたの《使い魔》のキャラがいるなら、このカードのパワーを＋2000。
+【自】［⑥］このカードがアタックした時、クライマックス置場に「ファランクスシフト」があるなら、あなたはコストを払ってよい。そうしたら、あなたの「母を想うフェイト」1枚につき、次の行動を行う。『相手に1ダメージを与える。』 (ダメージキャンセルは発生する)
+Flavor Text:
+勝つんだ…。
+勝って、母さんのところに帰るんだ……！
+
+==========================
+
+ファランクスシフト
+N1/WE06-10 C
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed in the climax slot from hand, place the top card of your Deck into Stock. During this turn, all of your Characters get +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+打ち……砕けェェッッ！！
+
+==========================
+
+ファランクスシフト
+N1/WE06-10 SP
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed in the climax slot from hand, place the top card of your Deck into Stock. During this turn, all of your Characters get +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+打ち……砕けェェッッ！！
+
+==========================
+
+意地っ張りアリサ
+N1/WE06-11 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【C】All your other characters with 「なのは」 in the name gain 『【A】 ENCORE [Discard 1 character to waiting room from hand]』.
+【A】When this card is placed on stage from hand, choose 1 of your characters, during this turn, it gets +1000 Power.
+【永】他のあなたのカード名に「なのは」を含むキャラすべてに、『【自】 アンコール [手札のキャラを1枚控え室に置く]』を与える。
+【自】このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+別にいいわよ……大事な用事なんでしょ？
+
+==========================
+
+自分の意思なのは
+N1/WE06-12 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【C】If you have 5 or more stock, this card gets +1000 Power.
+【永】あなたのストックが5枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+レイジングハート、セット・アップ！
+
+==========================
+
+月村 すずか
+N1/WE06-13 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【C】 SUPPORT All your characters in front of this card get +500 Power.
+【S】［Put this card to REST］Choose 1 of your characters with 「なのは」 in the name, during this turn, it gets +1 Level.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】［このカードをレストする］あなたは自分のカード名に「なのは」を含むキャラを1枚選び、そのターン中、レベルを＋1。
+Flavor Text:
+……なのはちゃん、今日もだめなんだよね？
+
+==========================
+
+敏腕オペレーター エイミィ
+N1/WE06-14 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【C】 ALARM If this card is at the top of your clock, all your 《魔法》 characters gain the following ability.『【S】［①］During this turn, this card gets +2000 Power.』
+【永】 アラーム このカードがクロックの一番上にあるなら、あなたの《魔法》のキャラすべてに、次の能力を与える。『【起】［①］そのターン中、このカードのパワーを＋2000。』
+Flavor Text:
+戦闘開始…かな
+
+==========================
+
+優しい少女すずか
+N1/WE06-15 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【A】［Discard 1 card to waiting room from hand]When this card is placed on stage from hand, you may pay the cost. If you do, search your deck for up to 1 《動物》 character, show it to your opponent and place it into your hand. Shuffle your deck afterwards.
+【自】［手札を1枚控え室に置く]このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《動物》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+傷が痛むのかも…。
+そっとしといてあげようか…？
+
+==========================
+
+アリサ・バニングス
+N1/WE06-16 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【C】If you have another character with 「なのは」 in the name, this card gains the following ability.『【A】When the character battling this card becomes REVERSE, you may place the top card of your deck into stock.』
+【永】他のあなたのカード名に「なのは」を含むキャラがいるなら、このカードは次の能力を得る。『【自】このカードとバトル中のキャラがリバースした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』
+Flavor Text:
+遅いよ、なのは…！
+
+==========================
+
+時空管理局提督リンディ
+N1/WE06-17 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Tea お茶
+Card Text/Abilities:
+【A】［②］When this card is placed on stage from hand, you may pay the cost. If you do, until the end of your opponent's next turn, your opponent cannot use the 【S】 of characters on stage.
+【自】［②］このカードが手札から舞台に置かれた時、あなたはコストを払ってもよい。そしたら、次の相手のターンの終わりまで、相手は舞台にいるキャラの【起】を使えない。
+Flavor Text:
+終わりですよ･･････
+次元震はわたしが押さえてます
+
+==========================
+
+アースラの切り札クロノ
+N1/WE06-18 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【A】When a Level 2 or Above character battling this card becomes REVERSE, you may place the top card of your deck into stock.
+【自】このカードとバトル中のレベル2以上のキャラがリバースした時、あなたは自分の山札から1枚を、ストック置場に置いてよい。
+Flavor Text:
+どんな魔法を使っても……
+過去を取り戻すことなんか、できやしない…！
+
+==========================
+
+信じた思い なのは
+N1/WE06-19 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【A】When this card attacks, if 「ディバインバスター」 is in the climax slot, choose 1 of your characters with 「フェイト」 in the name, during this turn, it gets +2000 Power, this card gets +2000 Power.
+【自】このカードがアタックした時、クライマックス置場に「ディバインバスター」があるなら、あなたは自分のカード名に「フェイト」を含むキャラを1枚選び、そのターン中、パワーを＋2000し、このカードのパワーを＋2000。
+Flavor Text:
+二人でせーの、で、一気に封印！
+
+==========================
+
+全力全開なのは
+N1/WE06-20 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【A】When this card attacks, if 「スターライトブレイカー」 is in the climax slot, during this turn, this card gets +X Power, all battling characters gain the following ability.『【A】When the character battling this card becomes REVERSE, you may choose 1 character from your waiting room and return it to your hand.』
+X is equal to the Number of Climax in your Waiting Room x 1000.
+【自】このカードがアタックした時、クライマックス置場に「スターライトブレイカー」があるなら、そのターン中、このカードのパワーを＋Xし、バトル中のキャラ全てに、次の能力を与える。『【自】このカードとバトル中のキャラがリバースした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してもよい。』Xはあなたの控え室のクライマックスの枚数×1000に等しい。
+Flavor Text:
+始めよう……最初で最後の、本気の勝負！！
+
+==========================
+
+分け合う気持ち なのは＆フェイト
+N1/WE06-21 R
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,_Clone クローン
+Card Text/Abilities:
+【C】All your other 「分け合う気持ち なのは＆フェイト」 get +1000 Power.
+【A】When this card is placed on stage from hand, you may choose 1 《魔法》 character from your waiting room, return it to hand.
+【永】他のあなたの「分け合う気持ち なのは＆フェイト」すべてに、パワーを＋1000。
+【自】このカードが手札から舞台に置かれた時、あなたは自分の控え室の《魔法》のキャラを1枚選び、手札に戻してよい。
+Flavor Text:
+フェイト・なのは「せーーーのっ！」
+
+==========================
+
+制服のなのは
+N1/WE06-22 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【C】If you have 2 or more other 《魔法》 or 《動物》 characters, this card gets +1500 Power.
+【永】他のあなたの、《魔法》か《動物》のキャラが2枚以上なら、このカードのパワーを＋1500。
+Flavor Text:
+いってきます！
+
+==========================
+
+フェレット形態ユーノ
+N1/WE06-23 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Animal 動物
+Card Text/Abilities:
+【S】［① Put this card to REST］Choose 1 of your characters with 「なのは」 in the name, during this turn, it gains the following ability.『【A】When the character battling this card becomes REVERSE, you may choose 1 character from your waiting room, return it to hand.』
+【起】［① このカードをレストする］あなたは自分のカード名に「なのは」を含むキャラを1枚選び、そのターン中、次の能力を与える。『【自】このカードとバトル中のキャラがリバースした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。』
+Flavor Text:
+それを手に……目を閉じて、心を澄ませて…
+
+==========================
+
+魔法の資質なのは
+N1/WE06-24 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【A】 CHANGE [Discard 1 card to waiting room from hand, place this card in clock]At the start of your climax phase, you may pay the cost. If you do, choose 1 「信じた思い なのは」 from your waiting room, place it in this card's previous slot.
+【自】 チェンジ [手札を1枚控え室に置き、このカードをクロック置場に置く]あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「信じた思い なのは」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+私に教えて……魔法の、上手な使い方！
+
+==========================
+
+結界魔導師ユーノ
+N1/WE06-25 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Magic 魔法,_Animal 動物
+Card Text/Abilities:
+【S】● ASSIST 1500 Level 1 ［Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +1500 Power)
+【起】● 助太刀1500 レベル1 [手札のこのカードを控え室に置く] (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500)
+Flavor Text:
+なんで君たちはジュエルシードを集める！？
+あれは危険なものなんだ！
+
+==========================
+
+ディバインバスター
+N1/WE06-26 C
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card comes to Stage from hand, draw 1 card. Choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを+2000し、ソウルを+1。
+Flavor Text:
+レイジングハート「Divine Buster」
+
+==========================
+
+スターライトブレイカー
+N1/WE06-27 C
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When this card is triggered, choose 1 Character from your waiting room, return to hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(扉：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+受けてみて…これが私の、全力全開ッッッ！！
+
+==========================
+
+スターライトブレイカー
+N1/WE06-27 SP
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When this card is triggered, choose 1 Character from your waiting room, return to hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(扉：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+受けてみて…これが私の、全力全開ッッッ！！
+
+==========================
+
+バリアジャケットなのは
+N1/WE06-28PR PR
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【C】If this card has a marker under it, it gets +1000 Power.
+【A】When this card is placed on stage from waiting room, place the top card of your deck under this card as a marker.
+【永】このカードの下にマーカーがあるなら、このカードのパワーを＋1000。
+【自】このカードが控え室から舞台に置かれた時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。
+Flavor Text:
+ともだちに…なりたいんだ…
+
+==========================
+
+戦闘態勢フェイト
+N1/WE06-29PR PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Magic 魔法,_Clone クローン
+Card Text/Abilities:
+【A】When this card is placed on stage from hand, choose 1 of your characters with 「フェイト」 in the name, place it in waiting room.
+【自】このカードが手札から舞台に置かれた時、あなたは自分のカード名に「フェイト」を含むキャラを1枚選び、控え室に置く。
+Flavor Text:
+バルディッシュ！
+
+==========================
+
+想いを貫く意志なのは
+N1/WE06-30PR PR
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+なのは「風は空に……星は天に……、不屈の魂はこの胸に！」
+
+==========================
+
+無謀な封印フェイト
+N1/WE06-31PR PR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Magic 魔法,_Clone クローン
+Card Text/Abilities:
+【S】［①］During this turn, this card gets +1 Soul.
+【起】［①］そのターン中、このカードのソウルを＋1。
+Flavor Text:
+止まれ…止まれ…止まれ……っ
+
+==========================
+
+アリシア・テスタロッサ
+N1/WE06-32PR PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【A】［②］When this card is placed in waiting room from stage, you may pay the cost. If you do, search your deck for up to 1 character with 「フェイト」 in the name, show it to your opponent and place it into your hand. Shuffle your deck afterwards.
+【自】［②］このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。 そうしたら、あなたは自分の山札を見てカード名に「フェイト」を含むキャラを1枚まで選んで相手に見せ、手札に加える。 その山札をシャッフルする。
+Flavor Text:
+妹がいいー……ママ、約束！
+
+==========================
+

@@ -1,0 +1,1542 @@
+裏社会に生きる少年 一方通行
+ID/W13-001 RR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Psychic Power 超能力,
+Card Text/Abilities:
+【C】RECOLLECTION If your Memory has 2 or more cards, this card gets +1 Soul.
+【A】 ENCORE ［Place 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【永】 記憶 あなたの思い出が2枚以上なら、このカードのソウルを＋1。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+手間かけさせやがって
+
+==========================
+
+“お姉さま”美琴
+ID/W13-002R RRR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 7000
+Soul: 2
+Traits:: Psychic Power 超能力,_Frog カエル
+Card Text/Abilities:
+【C】For each of your REST Characters, this card gets +500 Power.
+【A】 ENCORE ［Place 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【永】あなたのレストしているキャラ1枚につき、このカードのパワーを＋500。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+いい度胸じゃない
+
+==========================
+
+“お姉さま”美琴
+ID/W13-002 RR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 7000
+Soul: 2
+Traits:: Psychic Power 超能力,_Frog カエル
+Card Text/Abilities:
+【C】For each of your REST Characters, this card gets +500 Power.
+【A】 ENCORE ［Place 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【永】あなたのレストしているキャラ1枚につき、このカードのパワーを＋500。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+ねぇ、 超電磁砲って、知ってる？
+
+==========================
+
+チア衣装の小萌
+ID/W13-003S SR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Teacher 先生,_Science 科学
+Card Text/Abilities:
+【A】［① Place 1 card from hand to Waiting Room］When this card is placed on Stage from hand, you may pay this cost. If you do, search your Deck for up to 1 traitless or 《超能力》 character, show it to your opponent, add it hand. Shuffle the Deck.
+【自】［① 手札を1枚控え室に置く］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て特徴を持たないか《超能力》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+どうして皆、そんなになるまで頑張っちゃうのですかーっ
+
+==========================
+
+チア衣装の小萌
+ID/W13-003 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Teacher 先生,_Science 科学
+Card Text/Abilities:
+【A】［① Place 1 card from hand to Waiting Room］When this card is placed on Stage from hand, you may pay this cost. If you do, search your Deck for up to 1 traitless or 《超能力》 character, show it to your opponent, add it hand. Shuffle the Deck.
+【自】［① 手札を1枚控え室に置く］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て特徴を持たないか《超能力》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+どうして皆、そんなになるまで頑張っちゃうのですかーっ
+
+==========================
+
+お姉さまの露払い 黒子
+ID/W13-004SP SP
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Psychic Power 超能力,_Discipline Committee 風紀委員
+Card Text/Abilities:
+【C】If you have 1 or less Characters, this card gets +1000 Power, gains 『【A】ENCORE［Place 1 Character from Hand into Waiting Room］』.
+【永】他のあなたのキャラが1枚以下なら、このカードのパワーを＋1000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。
+Flavor Text:
+いいえ、お姉さまに限ってそんなこと
+
+==========================
+
+お姉さまの露払い 黒子
+ID/W13-004 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Psychic Power 超能力,_Discipline Committee 風紀委員
+Card Text/Abilities:
+【C】If you have 1 or less Characters, this card gets +1000 Power, gains 『【A】ENCORE［Place 1 Character from Hand into Waiting Room］』.
+【永】他のあなたのキャラが1枚以下なら、このカードのパワーを＋1000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。
+Flavor Text:
+ちっ…！
+
+==========================
+
+美琴の妹 ミサカ
+ID/W13-005 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger:
+Power: 2500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +500 Power.
+【S】CONCENTRATION［①］Flip the top 4 cards of your Deck, place them into Waiting Room. Search your Deck for up to X 《超能力》 Characters, show them to your opponent, add them to hand. Shuffle your Deck afterwards. Choose X cards from your hand, place them into Waiting Room. X is equals to the number of Climax revealed this way.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】 集中 ［①］あなたは自分の山札の上から4枚をめくり、控え室に置く。あなたは自分の山札を見て《超能力》のキャラをＸ枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。あなたは自分の手札をＸ枚選び、控え室に置く。Ｘはそれらのカードのクライマックスの枚数に等しい。
+Flavor Text:
+ミサカはあなたの顔をまっすぐに見て心中を吐露します
+
+==========================
+
+インデックスの保護者 当麻
+ID/W13-006 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: ,
+Card Text/Abilities:
+【C】RECOLLECTION If there's 2 or more cards in your Memory, this card on Stage gets -2 Level, +3000 Power.
+【A】When this card attacks, if 「幻想殺し」 is in your Climax slot, all your other Characters get +3000 Power.
+【永】 記憶 あなたの思い出が2枚以上なら、舞台のこのカードのレベルを－2し、パワーを＋3000。
+【自】このカードがアタックした時、あなたのクライマックス置場に「幻想殺し」があるなら、他のあなたのキャラすべてに、そのターン中、パワーを＋3000。
+Flavor Text:
+またせちまったみたいだな
+
+==========================
+
+異能の右手を持つ男 当麻
+ID/W13-007SP SP
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: ,
+Card Text/Abilities:
+【C】This card on Stage gets -3 Level. This card cannot be chosen by opponent's abilities.
+【C】Characters opposing this card gets -1 Soul.
+【A】［①］When the Character battling this card becomes REVERSE, you may pay this cost. If you do, search your deck for up to 1 《魔法》 or 《超能力》 Character, show it to your opponent, then add it to Hand. Shuffle your Deck afterwards.
+【永】舞台のこのカードのレベルを－3。このカードは相手の効果に選ばれない。
+【永】このカードの正面のキャラのソウルを－1。
+【自】［①］このカードのバトル相手がリバースした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《魔法》か《超能力》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+いや、あの、インデックス、さん？
+
+==========================
+
+異能の右手を持つ男 当麻
+ID/W13-007 R
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: ,
+Card Text/Abilities:
+【C】This card on Stage gets -3 Level. This card cannot be chosen by opponent's abilities.
+【C】Characters opposing this card gets -1 Soul.
+【A】［①］When the Character battling this card becomes REVERSE, you may pay this cost. If you do, search your deck for up to 1 《魔法》 or 《超能力》 Character, show it to your opponent, then add it to Hand. Shuffle your Deck afterwards.
+【永】舞台のこのカードのレベルを－3。このカードは相手の効果に選ばれない。
+【永】このカードの正面のキャラのソウルを－1。
+【自】［①］このカードのバトル相手がリバースした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《魔法》か《超能力》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+いや、あの、インデックス、さん？
+
+==========================
+
+メイド候補生 舞夏
+ID/W13-008 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Maid メイド,
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +500 Power.
+【S】［REST 2 of your Characters］Choose 1 of your Characters, during this turn, it gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】［あなたのキャラを2枚レストする］あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+二学期というのは忙しいんだぞー
+
+==========================
+
+いたずらっ子 打ち止め
+ID/W13-009 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Clone クローン,_Psychic Power 超能力
+Card Text/Abilities:
+【A】When this card attacks, all your other cards with 「一方通行」 in its name gets +500 Power.
+【A】 BOND／「裏社会に生きる少年 一方通行」 ［①］ (When you place this card on stage from hand, you may pay the cost. If you do, choose 1 「裏社会に生きる少年 一方通行」 from your Waiting Room and place it into your hand)
+【自】このカードがアタックした時、他のあなたのカード名に「一方通行」を含むキャラすべてに、そのターン中、パワーを＋500。
+【自】 絆／「裏社会に生きる少年 一方通行」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「裏社会に生きる少年 一方通行」を1枚選び、手札に戻す)
+Flavor Text:
+ミサカはミサカは気の毒そうな視線を向けてみたり！
+
+==========================
+
+変化する日常 一方通行
+ID/W13-010 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Psychic Power 超能力,
+Card Text/Abilities:
+【A】When this card attacks, choose 1 of your other Characters, during this turn, it gets +1500 Power.
+【自】このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+つーかよぉ…
+
+==========================
+
+負けられない戦い 美琴
+ID/W13-011 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Psychic Power 超能力,_Frog カエル
+Card Text/Abilities:
+【A】［①］When this card attacks, if 「借り物競争」 is in your Climax slot, you may pay this cost. If you did, choose 1 of your opponent's Characters, return it to Hand.
+【自】［①］このカードがアタックした時、クライマックス置場に「借り物競争」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、手札に戻す。
+Flavor Text:
+なんでも、ね。ようし
+
+==========================
+
+“多角スパイ”土御門
+ID/W13-012 U
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Psychic Power 超能力
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, choose 1 of your other Characters, during this turn, it gets +1500 Power.
+【A】［①］When this card is placed on Stage from Hand, you may pay this cost. If you do, search your Deck for up to 1 《魔法》 or 《超能力》 Character, show it to your opponent, then add it to Hand. Shuffle your Deck afterwards.
+【自】このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。
+【自】［①］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《魔法》か《超能力》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+犠牲が出る前に迎撃術式を片付けるぞ
+
+==========================
+
+“電極解放”一方通行
+ID/W13-013 U
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Psychic Power 超能力,
+Card Text/Abilities:
+【A】［①］When this card attacks, if 「学園都市最強の男」 is in your Climax slot, you may pay this cost. If you do, choose 1 of your opponent's Front Row Character with Level 2 or below, place it into Stock.
+【自】［①］このカードがアタックした時、クライマックス置場に「学園都市最強の男」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル2以下のキャラを1枚まで選び、ストックに置く。
+Flavor Text:
+悪りぃが…こっから先は一方通行だ
+
+==========================
+
+御坂 美鈴
+ID/W13-014 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【C】All your other 《カエル》 Characters get +500 Power.
+【永】 他のあなたの《カエル》のキャラすべてに、パワーを＋500。
+Flavor Text:
+あの、常盤台中学ってどの辺にあるかご存知ですか？
+
+==========================
+
+最強の能力者 一方通行
+ID/W13-015 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Psychic Power 超能力,
+Card Text/Abilities:
+【A】When this card becomes REVERSE, if the Character battling this card is Level 0 or below, you may place that Character into Stock. If you did, place 1 card from the bottom of your opponent's Stock into Waiting Room.
+【自】このカードがリバースした時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。
+Flavor Text:
+あァそォ……
+
+==========================
+
+吹寄 制理
+ID/W13-016 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Sports スポーツ,
+Card Text/Abilities:
+【A】［①］When this card becomes REVERSE in battle, you may pay this cost. If you did, place this card into Memory.
+【自】［①］バトル中のこのカードがリバースした時、あなたはコストを払ってよい。そうしたら、このカードを思い出にする。
+Flavor Text:
+何なの、この無気力感は！
+
+==========================
+
+不幸体質 当麻
+ID/W13-017 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+Flavor Text:
+貴様は飼い主に対する恩義とか無えのか！！
+
+==========================
+
+妹達の上位個体 打ち止め
+ID/W13-018 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Clone クローン,_Psychic Power 超能力
+Card Text/Abilities:
+【C】During your turn, this card gets +1000 Power.
+【永】あなたのターン中、このカードのパワーを＋1000。
+Flavor Text:
+って何！その気の無いスルーっぷりは～！？
+ってミサカはミサカは…！
+
+==========================
+
+結標 淡希
+ID/W13-019 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Psychic Power 超能力,
+Card Text/Abilities:
+Flavor Text:
+私の力は 座標指定。不出来な貴女と違って、
+いちいち物体に手を触れる必要が無いの
+
+==========================
+
+学園都市の高校生 当麻
+ID/W13-020 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: 7500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【C】This card on Stage gets -1 Level.
+【永】舞台のこのカードのレベルを－1。
+Flavor Text:
+まさか、インデックスの知り合いじゃあるまいな…
+
+==========================
+
+役者な中学一年生 黒子
+ID/W13-021 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Psychic Power 超能力,_Discipline Committee 風紀委員
+Card Text/Abilities:
+【S】● ASSIST 3000 Level 2［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)
+【起】● 助太刀3000 レベル2 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000)
+Flavor Text:
+け、健気！今日の黒子は健気で押しますわ！
+
+==========================
+
+劇画ショック
+ID/W13-022 U
+Type: Event
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+All your 《超能力》 Characters, during this turn, they get +1 Soul.
+あなたの《超能力》のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+お姉さま……すでにそこまで視野に入れた未来設計を……
+
+==========================
+
+幻想殺し
+ID/W13-023 CR
+Type: Climax
+Level: N/A
+Color: Yellow
+Cost: N/A
+Trigger: 1W
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return to hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(風：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+消えろおぉぉぉぉぉ！！
+
+==========================
+
+学園都市最強の男
+ID/W13-024 CC
+Type: Climax
+Level: N/A
+Color: Yellow
+Cost: N/A
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card. Choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+大人しく尻尾ォ巻きつつ泣いて、
+無様に元の居場所に引き返しやがれェ！！
+
+==========================
+
+借り物競争
+ID/W13-025 CC
+Type: Climax
+Level: N/A
+Color: Yellow
+Cost: N/A
+Trigger: 1F
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Flame：When this card is Triggered, if your current attacking Character's damage is cancelled, deal 1 damage to opponent.)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(炎：このカードがトリガーしたバトル中、あなたのキャラが次に与えたダメージがキャンセルされた時、相手に1ダメージを与える。)
+Flavor Text:
+おっしゃー！つっかまえたわよ私の勝利条件！
+
+==========================
+
+“Dedicatus545”インデックス“Dedicatus545” Index
+ID/W13-076R RRR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【A】［①］When this card is placed on Stage from hand, you may pay this cost. if you do, draw up to 2 cards, then choose 2 cards from your hand, place them into Waiting Room.
+【A】 CHANGE [③　Place 1 card to Waiting Room from Hand, place this card into Memory] At the beginning of your Climax phase, you may pay this cost. If you do, choose 1 「不思議シスター インデックス」 from your Waiting Room, place it into this card's previous slot.
+【自】［①］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置く。
+【自】 チェンジ ［③ 手札を1枚控え室に置き、このカードを思い出にする］あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「不思議シスター インデックス」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+ほら、何か言う事があるんじゃないの？
+
+==========================
+
+“Dedicatus545”インデックス“Dedicatus545” Index
+ID/W13-076 RR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【A】［①］When this card is placed on Stage from hand, you may pay this cost. if you do, draw up to 2 cards, then choose 2 cards from your hand, place them into Waiting Room.
+【A】 CHANGE [③　Place 1 card to Waiting Room from Hand, place this card into Memory] At the beginning of your Climax phase, you may pay this cost. If you do, choose 1 「不思議シスター インデックス」 from your Waiting Room, place it into this card's previous slot.
+【自】［①］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置く。
+【自】 チェンジ ［③ 手札を1枚控え室に置き、このカードを思い出にする］あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「不思議シスター インデックス」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+ほら、何か言う事があるんじゃないの？
+
+==========================
+
+銀髪碧眼のシスターさん
+ID/W13-077SP SP
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, choose up to 2 of your other Characters, until the end of your opponent's next turn, they get +1500 Power.
+【A】When this card attacks, if 「食いしん坊少女」 is in your Climax slot, you may place 1 card from the top of your Clock into Waiting Room.
+【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを2枚まで選び、次の相手のターンの終わりまで、パワーを＋1500。
+【自】このカードがアタックした時、クライマックス置場に「食いしん坊少女」があるなら、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+Flavor Text:
+私は沢山仕事したからしかるべき報酬が欲しいんだよ！
+
+==========================
+
+銀髪碧眼のシスターさん
+ID/W13-077 RR
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, choose up to 2 of your other Characters, until the end of your opponent's next turn, they get +1500 Power.
+【A】When this card attacks, if 「食いしん坊少女」 is in your Climax slot, you may place 1 card from the top of your Clock into Waiting Room.
+【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを2枚まで選び、次の相手のターンの終わりまで、パワーを＋1500。
+【自】このカードがアタックした時、クライマックス置場に「食いしん坊少女」があるなら、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+Flavor Text:
+私は沢山仕事したからしかるべき報酬が欲しいんだよ！
+
+==========================
+
+チア衣装のインデックス
+ID/W13-078 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card get +500 Power.
+【S】［② REST this card］Search your Deck for up to 1 《魔法》 Character, show it to your opponent, then add it to Hand. Shuffle your Deck afterwards.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】［② このカードをレストする］あなたは自分の山札を見て《魔法》のキャラを１枚選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+今日はとうまの応援なんだよ
+
+==========================
+
+オルソラ＝アクィナス
+ID/W13-079 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Magic 魔法,_Sister シスター
+Card Text/Abilities:
+【A】［① Place 1 card from Hand into Waiting Room, place this card into Memory］When this card becomes REVERSE in battle, you may pay this cost. If you did, search your Deck for up to 1 《魔法》 Character, show it to your opponent, then add it to Hand. Shuffle your Deck afterwards.
+【自】［① 手札を1枚控え室に置き、このカードを思い出にする］バトル中のこのカードがリバースした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《魔法》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+……だま、されて？
+
+==========================
+
+“追跡封じ”オリアナ＝トムソン
+ID/W13-080 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【A】［①］At the beginning of your opponent's Climax phase, you may pay this cost. If you did, move this card into any empty slot in the Back Row.
+【自】［①］相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かす。
+Flavor Text:
+物理的な炎では、お姉さんを熱くすることはできないわね
+
+==========================
+
+いつも賑やか 当麻＆インデックス
+ID/W13-081S SR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【A】［①］When this card attacks, if 「大した事ない？」 is in your Climax slot, you may pay this cost. If you did, choose 1 of your other Characters, until the end of your opponent's next turn, it gets +1500 Power, this card gets +1500 Power.
+【自】［①］このカードがアタックした時、あなたのクライマックス置場に「大した事ない？」があるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1500し、このカードのパワーを＋1500。
+Flavor Text:
+ちょ！おい、インデックス！
+
+==========================
+
+いつも賑やか 当麻＆インデックス
+ID/W13-081 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【A】［①］When this card attacks, if 「大した事ない？」 is in your Climax slot, you may pay this cost. If you did, choose 1 of your other Characters, until the end of your opponent's next turn, it gets +1500 Power, this card gets +1500 Power.
+【自】［①］このカードがアタックした時、あなたのクライマックス置場に「大した事ない？」があるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1500し、このカードのパワーを＋1500。
+Flavor Text:
+なんだか美味しそうな匂いがするんだよ！とうま！
+
+==========================
+
+不思議シスター インデックス
+ID/W13-082S SR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【C】 RECOLLECTION During your opponent's turn, if your Memory has 2 or more《魔法》 Characters, this card gets +2000 Power.
+【A】When 「魔滅の声」 is placed into your Climax slot, if this card is in the Front Row, you may choose 1 of your opponent's Characters, place it into another empty slot on your opponent's Stage.
+【永】 記憶 相手のターン中、あなたの思い出置場の《魔法》のキャラが2枚以上なら、このカードのパワーを＋2000。
+【自】あなたのクライマックス置場に「魔滅の声」が置かれた時、前列にこのカードがいるなら、あなたは相手のキャラを1枚選び、相手の舞台のキャラのいない他の枠に動かしてよい。
+Flavor Text:
+あんまり棍を詰めるのは良くないんだよ？
+
+==========================
+
+不思議シスター インデックス
+ID/W13-082 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【C】 RECOLLECTION During your opponent's turn, if your Memory has 2 or more《魔法》 Characters, this card gets +2000 Power.
+【A】When 「魔滅の声」 is placed into your Climax slot, if this card is in the Front Row, you may choose 1 of your opponent's Characters, place it into another empty slot on your opponent's Stage.
+【永】 記憶 相手のターン中、あなたの思い出置場の《魔法》のキャラが2枚以上なら、このカードのパワーを＋2000。
+【自】あなたのクライマックス置場に「魔滅の声」が置かれた時、前列にこのカードがいるなら、あなたは相手のキャラを1枚選び、相手の舞台のキャラのいない他の枠に動かしてよい。
+Flavor Text:
+あんまり棍を詰めるのは良くないんだよ？
+
+==========================
+
+歩く教会 インデックス
+ID/W13-083 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【A】［①］When this card becomes REVERSE in battle, you may pay this cost. If you did, place this card into Memory.
+【A】 BOND／「インデックスの保護者 当麻」［①］(When this card is placed on Stage, you may pay this cost. If you do, choose 1 「インデックスの保護者 当麻」 from your Waiting Room, return to hand)
+【自】［①］バトル中のこのカードがリバースした時、あなたはコストを払ってよい。そうしたら、このカードを思い出にする。
+【自】 絆／「インデックスの保護者 当麻」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「インデックスの保護者 当麻」を1枚選び、手札に戻す)
+Flavor Text:
+とうまのクラスに遊びに行くかも！
+
+==========================
+
+アニェーゼ＝サンクティス
+ID/W13-084 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Sister シスター
+Card Text/Abilities:
+【C】RECOLLECTION When this card is placed on Stage from Hand, if there's 2 or more cards in your Memory, choose 1 of your other Characters, during this turn, it gains the following ability.『【A】When this card is placed into Waiting Room from Stage, you may place this card into its original slot in REST.』
+【永】 記憶 このカードが手札から舞台に置かれた時、あなたの思い出が2枚以上なら、あなたは他の自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠にレストして置いてよい。』
+Flavor Text:
+騒いでんじゃないですよ！
+
+==========================
+
+蓮の杖の使い手 アニェーゼ
+ID/W13-085 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Sister シスター
+Card Text/Abilities:
+【C】 During your opponent's turn, this card gets +1000 Power.
+【永】 相手のターン中、このカードのパワーを＋1000。
+Flavor Text:
+ったく、手間ぁかけさせちゃ駄目でしょう？
+
+==========================
+
+建宮 斎字
+ID/W13-086 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 1000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【A】When you use this card's 『ASSIST』, if all your Characters are 《魔法》, you may place 1 card from the top of your Deck into Stock.
+【S】● ASSIST 2000 Level 1 ［① Place this card from hand to Waiting Room］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +2000 Power)
+【自】あなたがこのカードの『 助太刀 』を使った時、あなたのキャラすべてが《魔法》なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000)
+Flavor Text:
+けどまぁ、やるってんなら仕方ねぇ、
+今日がお前さんの命日だ
+
+==========================
+
+元天草式十字凄教 神裂
+ID/W13-087 U
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【C】During your opponent's turn, this card gets +1000 Power.
+【永】相手のターン中、このカードのパワーを＋1000。
+Flavor Text:
+余計なお世話でしたでしょうか？
+
+==========================
+
+異教地への伝道者 オルソラ
+ID/W13-088 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Magic 魔法,_Sister シスター
+Card Text/Abilities:
+【C】All your other 《魔法》 Characters get +500 Power.
+【永】 他のあなたの《魔法》のキャラすべてに、パワーを＋500。
+Flavor Text:
+このバスに乗ればよいのでございましょうか？
+
+==========================
+
+“Fortis931”ステイル
+ID/W13-089 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Tabacco タバコ
+Card Text/Abilities:
+【C】This card gets +X Power. X is equals to this card's opposing Character's Level ×2000.
+【永】このカードのパワーを＋Ｘ。Ｘはこのカードの正面のキャラのレベル×2000に等しい。
+Flavor Text:
+僕は君と馴れ合うつもりはないんだがね
+
+==========================
+
+上条家の居候 インデックス
+ID/W13-090 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+Flavor Text:
+でも暇だよ退屈だよつまんないよ！
+
+==========================
+
+水着のインデックス
+ID/W13-091 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【C】If the Character opposing this card is Level 0 or below, this card gains the following ability.『【C】This card cannot Front Attack.』
+【永】このカードの正面のキャラのレベルが0以下なら、このカードは次の能力を得る。『【永】このカードはフロントアタックできない。』
+Flavor Text:
+とうま～！と～う～ま～！！
+
+==========================
+
+ローラ＝スチュアート
+ID/W13-092 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Magic 魔法,_Parasol 日傘
+Card Text/Abilities:
+Flavor Text:
+その名前で呼ぶべからず、なのよ
+
+==========================
+
+天草式十字凄教 五和
+ID/W13-093 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 4500
+Soul: 1
+Traits:: Magic 魔法,_Wet Towel おしぼり
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +X Power. X is equals to that Character's Level ×500.
+【A】［①］When this card is placed on Stage from Hand, you may pay this cost. If you do, choose 1 of your Characters, until the end of your opponent's turn, it gets +1500 Power and gains 《おしぼり》 trait.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。
+【自】［①］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1500し、《おしぼり》を与える。
+Flavor Text:
+準備、全て整いました
+
+==========================
+
+ルーンの魔術師 ステイル
+ID/W13-094 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Magic 魔法,_Tabacco タバコ
+Card Text/Abilities:
+【A】［② Place the top card of your Deck into Clock］When this card is placed on Stage from Hand, you may pay this cost. If you did, choose 1 of your opponent's Front Row Characters with Level 2 or below, place it into the bottom of Deck.
+【自】［② あなたの山札の上から1枚をクロック置場に置く］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル2以下のキャラを1枚選び、山札の下に置く。
+Flavor Text:
+まったく…。勝手に始めないで欲しいね
+
+==========================
+
+闇咲 逢魔
+ID/W13-095 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+…討魔の弦
+
+==========================
+
+屋台の誘惑
+ID/W13-096 U
+Type: Event
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Search your deck for up to 2 《魔法》 Characters, show them to your opponent, then add them to Hand. Shuffle your Deck afterwards. Choose 1 card from your Hand, place it into Waiting Room.
+あなたは自分の山札を見て《魔法》のキャラを2枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。あなたは自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+日本の料理文化は食という名の誘惑の塊かも
+
+==========================
+
+十字架の意味
+ID/W13-097 U
+Type: Event
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+●Draw 1 card.
+Choose 1 of your Characters, during this turn, it gets +2000 Power.
+●あなたは1枚引く。
+あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+当麻「確かに俺がこんなの持っててもしょうがないけど」
+
+==========================
+
+大した事ない？
+ID/W13-098 CR
+Type: Climax
+Level: N/A
+Color: Blue
+Cost: N/A
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】All your Characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+ふんだ、とうまのばか。向こう見ず
+
+==========================
+
+魔滅の声
+ID/W13-099 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Book：When this card is triggered, you may draw 1 card)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(本：このカードがトリガーした時、あなたは1枚引いてよい)
+Flavor Text:
+ステイル「あの歌は、教義の中の矛盾点を
+徹底的に糾弾する『魔滅の声』さ」
+
+==========================
+
+食いしん坊少女
+ID/W13-100 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card. Choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置き場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+いっただっきまぁ～～っす！！
+
+==========================
+
+学園都市に暮らすインデックス
+ID/W13-101 TD
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +500 Power.
+【S】［①］Draw 1 card, then choose 1 card from your hand, place it into Waiting Room.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】［①］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+いたいた！とうまー！
+
+==========================
+
+冬の贈り物 インデックス
+ID/W13-102 TD
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【A】［Placed 1 card to Waiting Room from Hand］When this card is being Front Attacked, you may pay this cost. If you do, during this turn, it gets +2000 Power.
+【自】［手札を1枚控え室に置く］このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+静かだね
+
+==========================
+
+学園都市の第一位 一方通行
+ID/W13-103 TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Psychic Power 超能力,
+Card Text/Abilities:
+【C】During this card's battle, you cannot play Events and 『ASSIST』 from Hand.
+【永】このカードのバトル中、あなたはイベントと『 助太刀 』を、手札からプレイできない。
+Flavor Text:
+おい、今何つった
+
+==========================
+
+“科学と魔術”当麻＆インデックス
+ID/W13-104 TD
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【C】If your Clock has 3 cards or less, this card gets +1000 Power.
+【A】When this card is placed on Stage from Hand, you may place the top card of your Clock to Waiting Room.
+【永】あなたのクロックが3枚以下なら、このカードのパワーを＋1000。
+【自】このカードが手札から舞台に置かれたとき、あなたは自分のクロックの上から1枚を、控え室においてよい。
+Flavor Text:
+インデックス「とうまってば！」
+
+==========================
+
+素直になれない美琴
+ID/W13-105 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Psychic Power 超能力,_Frog カエル
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+仕方がないからあげるわよっ！
+
+==========================
+
+当麻＆インデックス
+ID/W13-106 PR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【S】● ASSIST 2000 Level 1［① Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +2000 Power.)
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000)
+Flavor Text:
+あ、とうまだ！
+
+==========================
+
+学園都市の中学生 美琴
+ID/W13-109 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Psychic Power 超能力,_Frog カエル
+Card Text/Abilities:
+【A】 ENCORE ［Place 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card into its previous slot in REST)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+さぁて、行きますか！
+
+==========================
+
+体操着のインデックス
+ID/W13-110 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【S】［REST 2 of your 《魔法》 Characters］During this turn, this card gets +1000 Power.
+【起】［あなたの《魔法》のキャラを1枚レストする］そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+これが学校生活かぁ。いいないいなぁ
+
+==========================
+
+ドキドキプレゼント!? 美琴
+ID/W13-111 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Psychic Power 超能力,_Frog カエル
+Card Text/Abilities:
+【A】When this card attacks, all your Characters, during this turn, get +500 Power.
+【自】このカードがアタックした時、あなたのキャラすべてに、そのターン中、パワーを＋500。
+Flavor Text:
+ヤバ…なんか胸がドキドキしてきた…
+
+==========================
+
+機械に疎いインデックス
+RG & ID/W13-113 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【A】 When this card comes to stage from hand, look at the top card of your deck, place it on top or bottom of your deck.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。
+Flavor Text:
+わっ、どうしてこの中にとうまがいるの？
+
+==========================
+
+電撃を司る能力者 美琴
+RG & ID/W13-114 PR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Psychic Power 超能力,_Frog カエル
+Card Text/Abilities:
+【A】 When this card attacks, Choose up to 2 《超能力》 characters, during this turn, it gets +500 power.
+【自】 このカードがアタックした時、あなたは自分の《超能力》のキャラを2枚まで選び、そのターン中、パワーを＋500。
+Flavor Text:
+逃げ切れると思う？
+
+==========================
+
+最強の能力者 一方通行
+ID/W13-T01 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Psychic Power 超能力,
+Card Text/Abilities:
+【A】When this card becomes REVERSED, if the Character battling this card is Level 0 or below, you may place that Character to stock. If you do, place the bottom card of opponent's stock to Waiting Room.
+【自】このカードがリバースした時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く
+Flavor Text:
+あァそォ……
+
+==========================
+
+不幸体質 当麻
+ID/W13-T02 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+Flavor Text:
+貴様は飼い主に対する恩義とか無えのか！！
+
+==========================
+
+妹達の上位個体 打ち止め
+ID/W13-T03 TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Clone クローン,_Psychic Power 超能力
+Card Text/Abilities:
+【C】During your turn, this card gets +1000 Power.
+【永】あなたのターン中、このカードのパワーを＋1000。
+Flavor Text:
+って何！その気の無いスルーっぷりは～！？
+ってミサカはミサカは…！
+
+==========================
+
+結標 淡希
+ID/W13-T04 TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Psychic Power 超能力,
+Card Text/Abilities:
+Flavor Text:
+私の力は 座標指定。不出来な貴女と違って、
+いちいち物体に手を触れる必要が無いの
+
+==========================
+
+“多角スパイ”土御門
+ID/W13-T05 TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Psychic Power 超能力
+Card Text/Abilities:
+【A】When this card is placed on Stage from hand, choose 1 of your other Characters, during this turn, it gets +1500 Power.
+【A】［①］When this card is placed on Stage from hand, you may pay this cost. If you do, search your deck for 1 《魔法》 or 《超能力》 Character, show it to your opponent, then place it into hand. Shuffle your deck afterwards.
+【自】このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。
+【自】［①］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《魔法》か《超能力》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+犠牲が出る前に迎撃術式を片付けるぞ
+
+==========================
+
+役者な中学一年生 黒子
+ID/W13-T06 TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Psychic Power 超能力,_Discipline Committee 風紀委員
+Card Text/Abilities:
+【S】● ASSIST 3000 Level 2［① Discard this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)
+【起】● 助太刀3000 レベル2 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000)
+Flavor Text:
+け、健気！今日の黒子は健気で押しますわ！
+
+==========================
+
+幻想殺し
+ID/W13-T07 TD
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1W
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return to hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(風：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+消えろおぉぉぉぉぉ！！
+
+==========================
+
+学園都市最強の男
+ID/W13-T08 TD
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card comes to Stage from hand, draw 1 card. Choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+大人しく尻尾ォ巻きつつ泣いて、
+無様に元の居場所に引き返しやがれェ！！
+
+==========================
+
+“Fortis931”ステイル
+ID/W13-T09 TD
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Tabacco タバコ
+Card Text/Abilities:
+【C】This card gets +X Power. X is equals to the opposing Character's Level×2000.
+【永】このカードのパワーを＋Ｘ。Ｘはこのカードの正面のキャラのレベル×2000に等しい。
+Flavor Text:
+僕は君と馴れ合うつもりはないんだがね
+
+==========================
+
+上条家の居候 インデックス
+ID/W13-T10 TD
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+Flavor Text:
+でも暇だよ退屈だよつまんないよ！
+
+==========================
+
+ローラ＝スチュアート
+ID/W13-T11 TD
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Magic 魔法,_Parasol 日傘
+Card Text/Abilities:
+Flavor Text:
+その名前で呼ぶべからず、なのよ
+
+==========================
+
+元天草式十字凄教 神裂
+ID/W13-T12 TD
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【C】During your opponent's turn, this card gets +1000 Power.
+【永】相手のターン中、このカードのパワーを＋1000。
+Flavor Text:
+余計なお世話でしたでしょうか？
+
+==========================
+
+闇咲 逢魔
+ID/W13-T13 TD
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+…討魔の弦
+
+==========================
+
+食いしん坊少女
+ID/W13-T14 TD
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card comes to Stage from hand, draw 1 card. Choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置き場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+CC：いっただっきまぁ～～っす！！
+
+==========================
+

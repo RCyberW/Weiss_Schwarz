@@ -1,0 +1,2891 @@
+“リトルフォレスト”小鳥"Little Forest" Kotori
+RW/W15-001S SR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Plant 植物,_Occult オカルト
+Card Text/Abilities:
+【C】If your Stock has 6 or more cards, this card gets +500 Power, +1 Soul.
+【永】あなたのストックが6枚以上なら、このカードのパワーを＋500し、ソウルを＋1。
+Flavor Text:
+栄養も愛情も、与えすぎはだめ
+
+==========================
+
+“リトルフォレスト”小鳥"Little Forest" Kotori
+RW/W15-001 RR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Plant 植物,_Occult オカルト
+Card Text/Abilities:
+【C】If your Stock has 6 or more cards, this card gets +500 Power, +1 Soul.
+【永】あなたのストックが6枚以上なら、このカードのパワーを＋500し、ソウルを＋1。
+Flavor Text:
+栄養も愛情も、与えすぎはだめ
+
+==========================
+
+千里 朱音Senri Akane
+RW/W15-002 RR
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand or through 「CHANGE」, you may place the top card of your Clock into Waiting Room.
+【A】［①］When this card attacks, if 「笑顔と涙」 is in your Climax slot, you may pay the cost. If you did, look at up to 3 cards from the top of your Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room. Afterwards, during this turn, this card gets +4000 Power.
+【自】 このカードが手札から舞台に置かれた時か「 チェンジ 」で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】［①］このカードがアタックした時、クライマックス置場に「笑顔と涙」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。その後、そのターン中、このカードのパワーを＋4000。
+Flavor Text:
+いやよ。恥ずかしいもの
+
+==========================
+
+千里 朱音Senri Akane
+RW/W15-003SP SP
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand or through 「CHANGE」, you may place the top card of your Clock into Waiting Room.
+【A】［①］When this card attacks, if 「笑顔と涙」 is in your Climax slot, you may pay the cost. If you did, look at up to 3 cards from the top of your Deck, choose up to 1 card, add it to Hand, place the remaining cards into Waiting Room. Afterwards, during this turn, this card gets +4000 Power.
+【自】 このカードが手札から舞台に置かれた時か「 チェンジ 」で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】［①］このカードがアタックした時、クライマックス置場に「笑顔と涙」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。その後、そのターン中、このカードのパワーを＋4000。
+Flavor Text:
+…そうね。瑚太郎も歌うなら、よくってよ。
+
+==========================
+
+“オカ研会長”朱音
+RW/W15-003 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Occult オカルト
+Card Text/Abilities:
+【A】［① Place the top card of your Deck into Clock］When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 Character with Level 1 or below, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【自】［① あなたの山札の上から1枚をクロック置場に置く］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以下のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+仕方ないわね。黒魔術の深奥…
+少しだけ教えてあげましょう
+
+==========================
+
+“ドジっ子”ちはや"Klutz" Chihaya
+RW/W15-004 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Sweets お菓子,_Occult オカルト
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a Character with Level 2 or above, REST this card.(Return the revealed card to its original position)
+【自】 このカードが手札から舞台に置かれた時、あなたは山札の上から1枚を公開する。そのカードがレベル2以上のキャラなら、このカードをレストする。 (公開したカードは元に戻す)
+Flavor Text:
+瑚太朗、遅いです
+
+==========================
+
+“瑚太朗のライバル”井上
+RW/W15-005 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Camera カメラ,
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, look at up to 2 cards from the top of your Deck, choose up to 1 card, add it to Hand. Place the remaining cards into Waiting Room. Choose 1 card from your Hand, place it into Waiting Room.
+【A】When this card attacks, choose 1 of your Characters, during this turn, it gets +500 Power.
+【自】このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加える。残りのカードを控え室に置く。あなたは自分の手札を1枚選び、控え室に置く。
+【自】このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+調査する者同士、正々堂々と
+相手をだしぬいていきましょう！
+
+==========================
+
+“秘蔵のネタ”小鳥
+RW/W15-006 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Plant 植物,_Occult オカルト
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《植物》 Character, during this turn, this card gets +1 Soul. If that card is a 《オカルト》 Character, during this turn, this card gets +2000 Power.(Return revealed card to its original position)
+【自】このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《植物》のキャラなら、そのターン中、このカードのソウルを＋1。そのカードが《オカルト》のキャラなら、そのターン中、このカードのパワーを＋2000。 （公開したカードは元に戻す）
+Flavor Text:
+よく見てごらんよ、ハロゲンヒーターが
+なななーんと３９０円也。チョーふしぎ
+
+==========================
+
+“昔なじみ”小鳥"Old Friend" Kotori
+RW/W15-007 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Plant 植物,_Occult オカルト
+Card Text/Abilities:
+【A】When this card's battling opponent becomes REVERSE, if 「当たり前の楽しみ」 is in your Climax slot, choose 1 of your other Character, REST it, move it to an empty slot in the Back Row.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you did, place this card in its previous slot in REST)
+【自】このカードのバトル相手がリバースした時、クライマックス置場に「当たり前の楽しみ」があるなら、あなたは他の自分のキャラを1枚選び、レストし、後列のキャラのいない枠に動かす。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+いいチョイスだねぇ。さすがわかってるねぇ
+
+==========================
+
+“守りの包帯”ちはや
+RW/W15-008 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Sweets お菓子,_Master マスター
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +X Power. X is equals to that Character's Level ×500.
+【A】◆ SHIFT Level 2 (At the beginning of your Main Phase, you may choose 1 Yellow card from your Hand and this card in your Clock and exchange them.)
+【永】 応援 このカードの前のあなたのキャラすべてにパワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。
+【自】◆ シフト レベル2 (あなたのメインフェイズの始めに、あなたは自分の手札の黄のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい)
+Flavor Text:
+大丈夫、炎なら少しは防げます！！
+
+==========================
+
+“わんぱく大食い娘”ちはや
+RW/W15-009 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Sweets お菓子,_Occult オカルト
+Card Text/Abilities:
+【C】During your turn, all your other Characters get +500 Power.
+【A】When this card is placed on Stage from Hand, choose 1 of your Characters with Level 2 or above, during this turn, it gets +1500 Power.
+【永】あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。
+【自】このカードが手札から舞台に置かれた時、あなたは自分のレベル2以上のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+こんなの４５分以内で食べ切って、
+仲直りしてみせちゃいましょう！
+
+==========================
+
+“スピード勝負！”瑚太朗 “Speed Challenge！” Koutarou
+RW/W15-010 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Psychic Power 超能力,_Occult オカルト
+Card Text/Abilities:
+【A】［②］When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《オカルト》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《オカルト》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+くそー！！　もう一回！！！
+
+==========================
+
+ぎる＆ぱに
+RW/W15-011 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Familiar 使い魔
+Card Text/Abilities:
+【A】When this card attacks, choose 1 of your Characters, during this turn, it gets +1000 Power.
+【自】このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+ぎる「おい！　オレたちも行くぜ！」
+ぱに「何かのお役に立てるかもしれませんわー」
+
+==========================
+
+“カザコーのアウトロー”吉野“Outlaw of Kazako” Yoshino
+RW/W15-012 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Delinquent 不良,
+Card Text/Abilities:
+【C】If you have no other Characters in your Front Row, this card gets +1500 Power.
+【永】他のあなたの前列のキャラがいないなら、このカードのパワーを＋1500。
+Flavor Text:
+テメェとオレは白と黒、表と裏、光と闇。
+ぶっ潰すか、ぶっ潰されるか…それだけだ
+
+==========================
+
+“ちはやの執事”咲夜“Chihaya's Butler” Sakuya
+RW/W15-013 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 3000
+Soul: 1
+Traits:: Butler 執事,_Glasses メガネ
+Card Text/Abilities:
+【C】During your turn, all your other Characters gets +1000 Power.
+【永】あなたのターン中、他のあなたのキャラすべてに、パワーを＋1000。
+Flavor Text:
+まあ、瑣末なことですね
+
+==========================
+
+“夢と現実”朱音
+RW/W15-014 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Magic 魔法,_Occult オカルト
+Card Text/Abilities:
+【A】CHANGE［① Place this card into Waiting Room］At the beginning of your Encore Step, if this card is in REST, you may pay the cost. If you did, choose 1 「“終わりのない転写”朱音」 from your Waiting Room, place it into this card's previous slot.
+【自】 チェンジ ［① このカードを控え室に置く］あなたのアンコールステップの始めに、このカードがレストしているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“終わりのない転写”朱音」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+…何を怯えているの。馬鹿ね
+
+==========================
+
+鳳 咲夜Ohtori Sakuya
+RW/W15-015 U
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Psychic Power 超能力,_Familiar 使い魔
+Card Text/Abilities:
+【C】If you have another Character with 「ちはや」 in its name, this card gets +1500 Power.
+【永】他のあなたのカード名に「ちはや」を含むキャラがいるなら、このカードのパワーを＋1500。
+Flavor Text:
+ちはやさんを傷つける人は、この私が許しませんよ…
+
+==========================
+
+制服の小鳥School Uniform Kotori
+RW/W15-016 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Plant 植物,_Occult オカルト
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+それはいいねぇ。じゃあ一緒にお昼しよー
+
+==========================
+
+“緑を増やそう委員会”小鳥
+RW/W15-017 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Plant 植物,_Occult オカルト
+Card Text/Abilities:
+【C】During your turn, this card gets +1000 Power.
+【永】あなたのターン中、このカードのパワーを＋1000。
+Flavor Text:
+お家族やご友達を誘って、是非ご参加ください
+
+==========================
+
+制服の朱音School Uniform Akane
+RW/W15-018 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Occult オカルト
+Card Text/Abilities:
+Flavor Text:
+結構。オカルト研究会にようこそ。ここがおまえにとって良き居場所となれば良いわね
+
+==========================
+
+ちびもすChibimoth
+RW/W15-019 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Animal 動物,_Familiar 使い魔
+Card Text/Abilities:
+【S】● ASSIST 1500 Level 1 ［Place this card from Hand to Waiting Room］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +1500 Power)
+【起】● 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋1500)
+Flavor Text:
+もすっ
+
+==========================
+
+“永遠のライバル”晴彦
+RW/W15-020 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Delinquent 不良,
+Card Text/Abilities:
+Flavor Text:
+GOOD-BYE, My Brother!
+See you in the next Life!
+
+==========================
+
+制服のちはやSchool Uniform Chihaya
+RW/W15-021 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Sweets お菓子,_Occult オカルト
+Card Text/Abilities:
+【A】When this card attacks, if 「迷子の転校生」 is in your Climax Slot, choose 1 of your Characters, during this turn, it gets +500 Power, +1 Soul.
+【自】このカードがアタックした時、クライマックス置場に「迷子の転校生」があるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500し、ソウルを＋1。
+Flavor Text:
+あっ！　ど、どこ行ってたんですかっ
+
+==========================
+
+私服の朱音Casual Wear Akane
+RW/W15-022 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Occult オカルト
+Card Text/Abilities:
+【S】● ASSIST 3000 Level 2［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)
+【起】● 助太刀3000 レベル2 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000)
+Flavor Text:
+覇ッ！
+
+==========================
+
+私服の小鳥Casual Wear Kotori
+RW/W15-023 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Plant 植物,_Occult オカルト
+Card Text/Abilities:
+【A】［①］When this card attacks, you may pay the cost. If you did, choose 1 of your Characters, during this turn, it gets +2000 Power.
+【自】［①］このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+ちびもす、けっこうがんばる
+
+==========================
+
+私服のちはやCasual Wear Chihaya
+RW/W15-024 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Sweets お菓子,_Occult オカルト
+Card Text/Abilities:
+Flavor Text:
+わ、悪いには悪いですけど、こういうときに手を差し伸べてくれてもいいと思います…
+
+==========================
+
+木漏れ日サイクリングKomorebi Cycling
+RW/W15-025 U
+Type: Event
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 STAND Character with 「ちはや」 in its name, REST it. If you did, search your Deck for up to 2 Characters with Level 2 or below, show them to your opponent, add them to Hand. Shuffle your Deck afterwards, place 1 card from your Hand into Waiting Room.
+あなたは自分のスタンドしているカード名に「ちはや」を含むキャラを1枚選びレストする。そうしたら、あなたは自分の山札を見てレベル2以上のキャラを2枚まで選んで相手に見せ、手札に加える。その後、その山札をシャッフルし、あなたは自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+…そういう意味じゃ、確かに私は自由ですね
+
+==========================
+
+マッハナックル・コンマゼロ
+RW/W15-026 U
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your Characters, during this turn, it gets +3000 Power, +2 Soul.
+あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000し、ソウルを＋2。
+Flavor Text:
+受けろ、マッハナックル・コンマゼロ！
+
+==========================
+
+学園の魔女Witch of the Academy
+RW/W15-027 C
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+CONCENTRATION Choose 1 of your Characters, during this turn, it gets +5000 Power.
+Your opponent declares 1, 2 or 3. Flip 3 cards from the top of your Deck, place them into Waiting Room. If the number of 《オカルト》 Characters among those cards equals to your opponent's declaration, draw 1 card.
+集中 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋5000。
+相手は1か2か3を宣言する。あなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードの《オカルト》のキャラの枚数が相手の宣言した数と同じなら、あなたは1枚引く。
+Flavor Text:
+ようこそジプシー、我が神秘の部屋に
+
+==========================
+
+笑顔と涙
+RW/W15-028R RRR
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, place the top card of your Deck into Stock, during this turn, all your Characters get +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+朱音「いいわね？」
+　　　　しまこ「…あい」
+
+==========================
+
+笑顔と涙Smile and Tears
+RW/W15-028 CR
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, place the top card of your Deck into Stock, during this turn, all your Characters get +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+朱音「お前の記憶が、私たちの絆になるのよ」
+
+==========================
+
+当たり前の楽しみ
+RW/W15-029S SR
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1W
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return to Hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(風：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+瑚太朗「…デートなのかな、これって？」
+　　　　　　　　　小鳥「まあねえ」
+
+==========================
+
+当たり前の楽しみNatural Enjoyment
+RW/W15-029 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1W
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return to Hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(風：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+瑚太朗「こういうの、本当にいいな」
+小鳥「うん」
+
+==========================
+
+迷子の転校生Lost Transfer Student
+RW/W15-030 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1F
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Flame：When this card is Triggered, if your current attacking Character's damage is cancelled, deal 1 damage to the opponent.)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(炎：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える。)
+Flavor Text:
+だ、だめですっ！助けてくださいっ！
+降りられませんからっ
+
+==========================
+
+メイド服の静流Maid Clothes Shizuru
+RW/W15-031 RR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Maid メイド,_Odd Eye オッドアイ
+Card Text/Abilities:
+【A】［REST 1 of your STAND Characters］When this card attacks, you may pay the cost. If you did, choose 1 of your other Characters, during this turn, it gets +1 Level, +1500 Power.
+【自】［あなたのスタンドしているキャラを１枚レストする］このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを１枚選び、そのターン中、レベルを＋1し、パワーを＋1500。
+Flavor Text:
+本日のお食事はさんまライスにさんまステーキ、さんまスープ、デザートはさんまアイスとなっております☆
+
+==========================
+
+“初めてのデート”ルチア"First Date" Lucia
+RW/W15-032 RR
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 7000
+Soul: 2
+Traits:: ,
+Card Text/Abilities:
+【A】When this card attacks, if 「二人きりの世界」 is in your Climax slot, place up to 2 cards from the top of your Deck into Stock.
+【A】CHANGE［① Place this card into Waiting Room］At the beginning of your Encore Step, if this card is in REST, you may pay the cost. If you did, choose 1 「此花 ルチア」 from your Waiting Room, place it into this card's previous slot.
+【自】このカードがアタックした時、クライマックス置場に「二人きりの世界」があるなら、あなたは自分の山札の上から2枚までを、ストック置場に置く。
+【自】 チェンジ ［① このカードを控え室に置く］あなたのアンコールステップの始めに、このカードがレストしているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「此花 ルチア」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+瑚太朗だけの、……独り占めでいい
+
+==========================
+
+“地球委員長”ルチア
+RW/W15-033S SR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Class Rep 委員長,_Occult オカルト
+Card Text/Abilities:
+【A】◆ SHIFT Level 0 (At the beginning of your Main Phase, you may choose 1 Green card from your Hand and this card in your Clock and exchange them.)
+【S】CONCENTRATION［①］Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose 1 of your Characters, during this turn, it gets +2000 Power.
+【自】◆ シフト レベル0 (あなたのメインフェイズの始めに、あなたは自分の手札の緑のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい)
+【起】 集中 ［①］あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+ほほぅ、ならばこの狼藉の償い、
+　　命で支払う覚悟はあるのだな
+
+==========================
+
+“地球委員長”ルチア
+RW/W15-033 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Class Rep 委員長,_Occult オカルト
+Card Text/Abilities:
+【A】◆ SHIFT Level 0 (At the beginning of your Main Phase, you may choose 1 Green card from your Hand and this card in your Clock and exchange them.)
+【S】CONCENTRATION［①］Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose 1 of your Characters, during this turn, it gets +2000 Power.
+【自】◆ シフト レベル0 (あなたのメインフェイズの始めに、あなたは自分の手札の緑のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい)
+【起】 集中 ［①］あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+私はクラスという狭い世界の委員長ではなく、
+むしろ地球の委員長として、……ん、いや、オホン
+
+==========================
+
+迎撃する静流Intercepting Shizuru
+RW/W15-034 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Weapon 武器,_Odd Eye オッドアイ
+Card Text/Abilities:
+【C】If you have another 「ひまわり畑のルチア」, this card gets +500 Power, gains 「【A】ENCORE［Place 1 Character from Hand into Waiting Room］」.
+【永】他のあなたの「ひまわり畑のルチア」がいるなら、このカードのパワーを＋500し、このカードは「【自】 アンコール ［手札のキャラを1枚控え室に置く］」を得る。
+Flavor Text:
+瑚太朗「飛ばせってか…
+わかったよちくしょうーーー！！！」
+
+==========================
+
+“さんま大好き”静流"I Love Mackerels" Shizuru
+RW/W15-035 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 2
+Power: 1
+Soul: N/A
+Traits:: Discipline Committee 風紀委員,_Eyepatch 眼帯
+Card Text/Abilities:
+【A】［Place 1 「ちっぽけな幸せ」 from Hand into Waiting Room］At the beginning of any player's Encore Step, if this card is in the Front Row, you may pay the cost. If you did, choose 1 of your other Characters, REST it, search your Deck for up to 1 Level 2 or below Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【自】［手札の「ちっぽけな幸せ」を1枚控え室に置く］すべてのプレイヤーのアンコールステップの始めに、このカードが前列にいるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、レストし、自分の山札を見てレベル2以下のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+はぁ～…
+
+==========================
+
+此花 ルチアKonohana Lucia
+RW/W15-036SP SP
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand or through 「CHANGE」, you may place the top card of your Clock into Waiting Room.
+【A】When this card's battling opponent becomes REVERSE, if 「受け容れる力」 is in your Climax slot, you may place that Character into Clock.
+【自】 このカードが手札から舞台に置かれた時か「 チェンジ 」で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】このカードのバトル相手がリバースした時、あなたのクライマックス置場に「受け容れる力」があるなら、あなたはそのキャラをクロック置場に置いてよい。
+Flavor Text:
+………私がそれを忘れそうになったら、
+　　　　　　……また、…教えて………
+
+==========================
+
+此花 ルチアKonohana Lucia
+RW/W15-036 R
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand or through 「CHANGE」, you may place the top card of your Clock into Waiting Room.
+【A】When this card's battling opponent becomes REVERSE, if 「受け容れる力」 is in your Climax slot, you may place that Character into Clock.
+【自】 このカードが手札から舞台に置かれた時か「 チェンジ 」で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】このカードのバトル相手がリバースした時、あなたのクライマックス置場に「受け容れる力」があるなら、あなたはそのキャラをクロック置場に置いてよい。
+Flavor Text:
+わ、“我らは民を守る楯であり、悪を討つ槍である”！
+
+==========================
+
+西九条 灯花
+RW/W15-037 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Weapon 武器,_Teacher 先生
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +500 Power.
+【C】［① Place this card into Waiting Room］Choose 1 card from your Clock, return it to Hand. Choose 1 card from your Hand, place it into Clock.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】［① このカードを控え室に置く］あなたは自分のクロックを1枚選び、手札に戻す。あなたは自分の手札を1枚選び、クロック置場に置く。
+Flavor Text:
+これからは、あなたがルチアちゃんを支えてあげて
+
+==========================
+
+上目遣いの静流
+RW/W15-038 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Discipline Committee 風紀委員,_Odd Eye オッドアイ
+Card Text/Abilities:
+【A】 BOND／「ひまわり畑のルチア」［Place the top card of your Deck into Clock］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「ひまわり畑のルチア」 from your Waiting Room, return to Hand)
+【自】 絆／「ひまわり畑のルチア」 ［あなたの山札の上から1枚をクロック置場に置く］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ひまわり畑のルチア」を1枚選び、手札に戻す)
+Flavor Text:
+…もういい？
+
+==========================
+
+“書換能力者”瑚太朗
+RW/W15-039  U
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Psychic Power 超能力,_Occult オカルト
+Card Text/Abilities:
+【C】For each Marker under this card, this card gets +1 Level, +1500 Power.
+【S】［Place the top card of your Deck into Clock］This ability can only be used once per turn. Place the top card of your Deck under this card as a Marker.
+【永】このカードの下のマーカー1枚につき、このカードのレベルを＋1し、パワーを＋1500。
+【起】［あなたの山札の上から1枚をクロック置場に置く］この能力は1ターンにつき1回まで使える。あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。
+Flavor Text:
+うおおおおおおおおおおおおおおおおおおおおおお
+おおおおおおおおおおおおおおおおおおおおおおお
+あああああああああああああああああああぁぁッ！！
+
+==========================
+
+ひまわり畑のルチアSunflower Field Lucia
+RW/W15-040 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Glove 手袋,
+Card Text/Abilities:
+【C】If this card is in REST, this card loses 《手袋》, all player's Front Row Characters without 「ルチア」 or 「静流」 in its name get -500 Power.
+【S】［REST this card］During this turn, choose 1 of your Characters, it gets +1000 Power.
+【永】このカードがレストしているなら、このカードは《手袋》をすべて失い、すべてのプレイヤーの前列のカード名に「ルチア」か「静流」を含まないキャラすべてに、パワーを－500。
+【起】［このカードをレストする］あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+お別れだ……、……瑚太朗……
+
+==========================
+
+今宮 新
+RW/W15-041 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Weapon 武器,_Glasses メガネ
+Card Text/Abilities:
+【C】If your Climax slot has a Green Climax, this card gets +2000 Power.
+【永】あなたのクライマックス置場に緑のクライマックスがあるなら、このカードのパワーを＋2000。
+Flavor Text:
+そっかそっか。うん。
+まっとうなガクセーさん、やってんだな
+
+==========================
+
+“激辛界の現人神”ルチア
+RW/W15-042 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Class Rep 委員長,_Occult オカルト
+Card Text/Abilities:
+Flavor Text:
+…そ、…そうだな。……二人で４５分以内に
+決着をつけて、わだかまりを水に流そうではないか
+
+==========================
+
+戦闘服の静流
+RW/W15-043 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Weapon 武器,_Odd Eye オッドアイ
+Card Text/Abilities:
+Flavor Text:
+私は、私の守るものを守る…
+
+==========================
+
+“鉄拳制裁”ルチア
+RW/W15-044 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Class Rep 委員長,_Occult オカルト
+Card Text/Abilities:
+【S】● ASSIST 2000 Level 1［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +2000 Power.)
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋2000)
+Flavor Text:
+不潔不潔不潔、変態変態変態！！　馬鹿馬鹿死んじゃえ、
+天王寺瑚太朗ぉおおおおおおおおおおおお！！
+
+==========================
+
+江坂 宗源
+RW/W15-045 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Weapon 武器,_Pun だじゃれ
+Card Text/Abilities:
+【C】If your opponent has 4 or more Characters, this card gets +1000 Power.
+【C】If you have 4 or more Climax in your Waiting Room, this card gets +1000 Power.
+【永】相手のキャラが4枚以上なら、このカードのパワーを＋1000。
+【永】あなたの控え室のクライマックスが4枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+って何故かぁああああぁぁあぁーーっ！
+
+==========================
+
+アサヒハルカの呪い
+RW/W15-046 U
+Type: Event
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+If you do not have a Character with 「ルチア」 in its name, you cannot play this card from Hand.
+All your opponent's Characters, during this turn, get -1500 Power.
+このカードは、あなたのカード名に「ルチア」を含むキャラがいないなら、手札からプレイできない。
+相手のキャラすべてに、そのターン中、パワーを－1500。
+Flavor Text:
+……私の手、…昨夜からおかしいんだ…
+
+==========================
+
+ルチアVS静流Lucia VS Shizuru
+RW/W15-047 C
+Type: Event
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+● Choose 1 of your Green Characters, during this turn, it gets +4000 Power.
+●あなたは自分の緑のキャラを1枚選び、そのターン中、パワーを＋4000。
+Flavor Text:
+ルチア「これで終わりだッ、静流ぅ
+ううううううううううううううう！！」
+静流「この分からず屋ぁあああああ
+あああああああああああああ！！」
+
+==========================
+
+二人きりの世界
+RW/W15-048R RRR
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(宝：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい)
+Flavor Text:
+此花ルチアも天王寺瑚太朗のこと、……好き
+
+==========================
+
+二人きりの世界(Both of) Their World
+RW/W15-048 CR
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(宝：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい)
+Flavor Text:
+瑚太朗…。今日一日、ありがとう
+
+==========================
+
+受け容れる力Received Power
+RW/W15-049 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, place the top card of your Deck into Stock, during this turn, all your Characters get +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+…………私が、…バカなのか…
+
+==========================
+
+ちっぽけな幸せA Hint of Happiness
+RW/W15-050S SR
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: S
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Bag：When this card is Triggered, you may place the top card of your Deck into Stock)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(袋：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい)
+Flavor Text:
+二人で、庭先で…。
+並んで、さんま焼くんだ
+
+==========================
+
+ちっぽけな幸せA Hint of Happiness
+RW/W15-050 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: S
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Bag：When this card is Triggered, you may place the top card of your Deck into Stock)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(袋：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい)
+Flavor Text:
+…出来なかったけど、
+今度はちゃんと、用意してやるんだ…
+
+==========================
+
+“無愛想っ子”朱音
+RW/W15-051 RR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】When this card becomes REVERSE, if this card's battling opponent is Level 0 or below, you may REVERSE that Character.
+【A】［① Place 1 card from Hand into Waiting Room］When this card's battling opponent becomes REVERSE, you may pay the cost. If you did, choose 1 Character from your Waiting Room, return it to Hand.
+【自】このカードがリバースした時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをリバースしてよい。
+【自】［① 手札を1枚控え室に置く］このカードのバトル相手がリバースした時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+………
+
+==========================
+
+鳳 ちはやOhtori Chihaya
+RW/W15-052SP SP
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Sweets お菓子,_Master マスター
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.
+【A】At the beginning of your Climax Phase, place all of your Stock into Waiting Room, until the end of your next opponent's turn, this card gets +3000 Power.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】あなたのクライマックスフェイズの始めに、あなたは自分のストックすべてを、控え室に置き、次の相手のターンの終わりまで、パワーを＋3000。
+Flavor Text:
+…こちらもやりましょう！
+
+==========================
+
+鳳 ちはや
+RW/W15-052 RR
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Sweets お菓子,_Master マスター
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.
+【A】At the beginning of your Climax Phase, place all of your Stock into Waiting Room, until the end of your next opponent's turn, this card gets +3000 Power.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】あなたのクライマックスフェイズの始めに、あなたは自分のストックすべてを、控え室に置き、次の相手のターンの終わりまで、パワーを＋3000。
+Flavor Text:
+たあぁぁーーー！！！
+
+==========================
+
+水着のちはや
+RW/W15-053S SR
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Sweets お菓子,_Swimsuit 水着
+Card Text/Abilities:
+【C】This card cannot Side Attack.
+【A】When this card becomes REVERSE, if this card's battling opponent is Level 1 or below, you may REVERSE that Character.
+【永】このカードはサイドアタックできない。
+【自】このカードがリバースした時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラをリバースしてよい。
+Flavor Text:
+でかりしーが無いんです。だからあなたは嫌いなんですっ
+
+==========================
+
+水着のちはや
+RW/W15-053 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Sweets お菓子,_Swimsuit 水着
+Card Text/Abilities:
+【C】This card cannot Side Attack.
+【A】When this card becomes REVERSE, if this card's battling opponent is Level 1 or below, you may REVERSE that Character.
+【永】このカードはサイドアタックできない。
+【自】このカードがリバースした時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラをリバースしてよい。
+Flavor Text:
+はい！？　なんですかそれはっ
+
+==========================
+
+“最強の魔物”咲夜"Strongest Demon" Sakuya
+RW/W15-054 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Psychic Power 超能力,_Familiar 使い魔
+Card Text/Abilities:
+【A】［①］When this card attacks, if 「咲夜VS瑚太朗」 is in your Climax slot, you may pay the cost. If you did, during this turn, this card gets +2000 Power, and gains the following ability.「【A】When this card's battling opponent becomes REVERSE, you may choose 1 Character from your Waiting Room, return it to Hand.」
+【自】［①］このカードがアタックした時、クライマックス置場に「咲夜VS瑚太朗」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000し、このカードは次の能力を得る。「【自】このカードのバトル相手がリバースした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。」
+Flavor Text:
+青い月光の元、男はこちらを見下ろしていた
+
+==========================
+
+“滅びの歌”朱音
+RW/W15-055S SR
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 3500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card with Level 2 or above get +1000 Power.
+【A】When 「仕返し」 is placed into your Climax slot, choose 1 of your Characters, during this turn, it gets +1500 Power.
+【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。
+【自】あなたのクライマックス置場に「仕返し」が置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+それを…どうしてこの期に及んで、かき乱しに来るの？
+
+==========================
+
+“滅びの歌”朱音
+RW/W15-055 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 3500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card with Level 2 or above get +1000 Power.
+【A】When 「仕返し」 is placed into your Climax slot, choose 1 of your Characters, during this turn, it gets +1500 Power.
+【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。
+【自】あなたのクライマックス置場に「仕返し」が置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+もう引き返せない一線を、私は越えてしまった
+
+==========================
+
+“終わりのない転写”朱音
+RW/W15-056 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】［Place 1 card from Hand into Waiting Room］At the beginning of your opponent's Attack Phase, you may pay the cost. If you did, during this turn, this card get +2500 Power.
+【A】CHANGE［① Place this card into Clock］At the beginning of your Encore Step, if this card is in REST, you may pay the cost. If you did, choose 1 「千里 朱音」 from your Waiting Room, place it into this card's previous slot.
+【自】［手札を1枚控え室に置く］相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2500。
+【自】 チェンジ ［① このカードをクロック置場に置く］あなたのアンコールステップの始めに、このカードがレストしているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「千里 朱音」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+瑚太朗「…最後まで一緒にいればいい」
+朱音「瑚太朗…」
+
+==========================
+
+“鳳家のお嬢様”ちはや
+RW/W15-057 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Sweets お菓子,_Master マスター
+Card Text/Abilities:
+【A】When damage dealt by this card is cancelled, you may choose 1 card from your opponent's Waiting Room, place it at top of  the Deck.
+【A】 BOND／「“最強の魔物”咲夜」［①］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「“最強の魔物”咲夜」 from your Waiting Room, return to Hand)
+【自】このカードの与えたダメージがキャンセルされた時、あなたは相手の控え室のカードを1枚選び、山札の上に置いてよい。
+【自】 絆／「“最強の魔物”咲夜」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“最強の魔物”咲夜」を1枚選び、手札に戻す)
+Flavor Text:
+私、結構楽しいですよ。瑚太朗のやることとか
+
+==========================
+
+“マーテルの要人”朱音
+RW/W15-058 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】［①］When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 「魔物の誕生」 from your Waiting Room, return it to Hand.
+【自】［①］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、「魔物の誕生」を1枚選び、手札に戻す。
+Flavor Text:
+明らかに周囲とは異なる雰囲気の集団。
+その中心を、彼女は歩いていた
+
+==========================
+
+“喚起の法”ちはや"Awakening Spell" Chihaya
+RW/W15-059 U
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Sweets お菓子,_Master マスター
+Card Text/Abilities:
+【C】If you have other Characters with 「咲夜」 in its name, this card gets +1500 Power.
+【A】［②］When 「贖罪」 is placed into your Climax slot, if this card is in the Front Row, you may pay the cost. If you did, search your Deck for up to 1 《超能力》 or 《執事》 Character with Level 2 or below, place it into any slot on Stage. Shuffle your Deck afterwards.
+【永】他のあなたのカード名に「咲夜」を含むカードがいるなら、このカードのパワーを＋1500。
+【自】［②］あなたのクライマックス置場に「贖罪」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル2以下の《超能力》か《執事》のキャラを1枚まで選び、舞台の好きな枠に置く。その山札をシャッフルする。
+Flavor Text:
+…咲夜っ
+
+==========================
+
+“テメエの道と俺の道”ミドウ
+RW/W15-060 U
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 5500
+Soul: 2
+Traits:: Shadow 影,_Flame 炎
+Card Text/Abilities:
+【A】When this card becomes REVERSE, if this card's battling opponent is Level 2 or below, you may REVERSE that Character.
+【A】◆ SHIFT Level 2 (At the beginning of your Main Phase, you may choose 1 Red card from your Hand and this card in your Clock and exchange them.)
+【自】このカードがリバースした時、このカードのバトル相手のレベルが2以下なら、あなたはそのキャラをリバースしてよい。
+【自】◆ シフト レベル2 (あなたのメインフェイズの始めに、あなたは自分の手札の赤のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい)
+Flavor Text:
+どこへいく？　俺はここだぞ
+
+==========================
+
+“聖女のしもべ”しまこ
+RW/W15-061 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+…！
+
+==========================
+
+“オーロラ発現”瑚太朗
+RW/W15-062 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Psychic Power 超能力,_Occult オカルト
+Card Text/Abilities:
+【A】［Return 2 Characters from your Waiting Room into Deck, shuffle your Deck afterwards］When this card attacks, you may pay the cost. If you did, until the end of your opponent's next turn, this card gets +1000 Power.
+【自】［あなたの控え室のキャラを2枚山札に戻す。その山札をシャッフルする］このカードがアタックした時、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードのパワーを＋1000。
+Flavor Text:
+なんだよこれ
+
+==========================
+
+“オオトリウィルス”ちはや
+RW/W15-063 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Sweets お菓子,_Master マスター
+Card Text/Abilities:
+Flavor Text:
+なんか瑚太朗の様子が変ですねえ
+
+==========================
+
+秩序に叛逆する朱音
+RW/W15-064 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Magic 魔法,_Occult オカルト
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, choose 1 of your Characters with Level 0 or below, place it into Waiting Room.
+【自】このカードが手札から舞台に置かれた時、あなたは自分のレベル0以下のキャラを1枚選び、控え室に置く。
+Flavor Text:
+構わないじゃないの、誰もいなかったのだから
+
+==========================
+
+“暗殺者”ミドウ
+RW/W15-065 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Shadow 影,_Flame 炎
+Card Text/Abilities:
+Flavor Text:
+テメエはケシズミにしてやるァーーーッ！！
+
+==========================
+
+魔物の誕生
+RW/W15-066 U
+Type: Event
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 Character with Level 1 or below from your Waiting Room, place it into any slot on Stage. At the beginning of your Encore Step, if that Character is on Stage, place that Character into Waiting Room.
+Place this card into Clock.
+あなたは自分の控え室のレベル1以下のキャラを1枚選び、舞台の好きな枠に置く。アンコールステップの始めに、そのキャラが舞台にいるなら、そのキャラを控え室に置く。
+このカードをクロック置場に置く。
+Flavor Text:
+魔物は自力では動けないの。だから自分の命を少し注ぐ…
+
+==========================
+
+対峙
+RW/W15-067 C
+Type: Event
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your opponent's Front Row Characters with Cost 1 or less, place it into Waiting Room.
+あなたは相手の前列のコスト1以下のキャラを1枚選び、控え室に置く。
+Flavor Text:
+ぎる「クリボイログ…鉄鉱石、同サイズ最強の捕食者、
+それに巨大生物の混合体…」
+
+==========================
+
+贖罪
+RW/W15-068R RRR
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置き場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+咲夜「これからは、私があなたを守ります」
+
+==========================
+
+贖罪
+RW/W15-068 CR
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置き場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+咲夜「はじめまして。私の主」
+
+==========================
+
+咲夜VS瑚太朗Sakuya VS Koutarou
+RW/W15-069 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, place the top card of your Deck into Stock, during this turn, all your Characters get +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+咲夜「眼を、覚ませ…。
+天王寺瑚太朗ーーーーーッ！！！」
+
+==========================
+
+仕返し
+RW/W15-070 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When this card is Triggered, choose 1 Character from your Waiting Room, return it to Hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(扉：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+朱音「なら舌を噛んででも――！」
+瑚太朗「噛めるもんなら」
+
+==========================
+
+“優しい言葉”篝
+RW/W15-071S SR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Key 鍵,_Time 時間
+Card Text/Abilities:
+【C】 RECOLLECTION If 「可能性の系統樹」 is in your Memory, this card gets +1500 Power.
+【A】［①］When this card attacks, if 「出会い」 is in your Climax Slot, you may pay the cost. If you did, draw 1 card. After that, if your Hand has 2 or less cards, draw 1 card.
+【永】 記憶 あなたの思い出置場に「可能性の系統樹」があるなら、このカードのパワーを＋1500。
+【自】［①］このカードがアタックした時、クライマックス置場に「出会い」があるなら、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。その後、あなたの手札が2枚以下なら、あなたは1枚引く。
+Flavor Text:
+
+==========================
+
+“優しい言葉”篝
+RW/W15-071 RR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Key 鍵,_Time 時間
+Card Text/Abilities:
+【C】 RECOLLECTION If 「可能性の系統樹」 is in your Memory, this card gets +1500 Power.
+【A】［①］When this card attacks, if 「出会い」 is in your Climax Slot, you may pay the cost. If you did, draw 1 card. After that, if your Hand has 2 or less cards, draw 1 card.
+【永】 記憶 あなたの思い出置場に「可能性の系統樹」があるなら、このカードのパワーを＋1500。
+【自】［①］このカードがアタックした時、クライマックス置場に「出会い」があるなら、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。その後、あなたの手札が2枚以下なら、あなたは1枚引く。
+Flavor Text:
+…感謝を、天王寺瑚太朗…
+…利己的な私を、慈しんだ者…
+
+==========================
+
+神戸 小鳥Kanbe Kotori
+RW/W15-072SP SP
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Plant 植物,
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, you may place the top card from your Clock into Waiting Room.
+【A】［①］When 「小鳥の心」 is placed into your Climax Slot, if this card is in the Front Row, you may pay the cost. If you did, choose 1 Character from your Clock, place it in an empty slot in the Front Row, during this turn, it gains the following ability.『【A】 When this card becomes REVERSE in battle, place this card into Clock.』
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】［①］あなたのクライマックス置場に「小鳥の心」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場のキャラを1枚選び、前列のキャラのいない枠に置き、そのターン中、そのキャラに次の能力を与える。『【自】 バトル中のこのカードがリバースした時、このカードをクロック置場に置く。』。
+Flavor Text:
+だって…大好きなんだもんっ
+
+==========================
+
+神戸 小鳥
+RW/W15-072 RR
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Plant 植物,
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, you may place the top card from your Clock into Waiting Room.
+【A】［①］When 「小鳥の心」 is placed into your Climax Slot, if this card is in the Front Row, you may pay the cost. If you did, choose 1 Character from your Clock, place it in an empty slot in the Front Row, during this turn, it gains the following ability.『【A】 When this card becomes REVERSE in battle, place this card into Clock.』
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】［①］あなたのクライマックス置場に「小鳥の心」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場のキャラを1枚選び、前列のキャラのいない枠に置き、そのターン中、そのキャラに次の能力を与える。『【自】 バトル中のこのカードがリバースした時、このカードをクロック置場に置く。』。
+Flavor Text:
+瑚太朗君と遊んでる時だけ、いろんなことを忘れられた
+
+==========================
+
+“星を救うために”ルチア
+RW/W15-073 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Weapon 武器,_Occult オカルト
+Card Text/Abilities:
+【C】During your opponent's turn, your other Front Row Center slot Character gets +500 Power.
+【C】 SUPPORT All Characters in front of this card get +500 Power.
+【永】相手のターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋500。
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+なんだ静流。わからないのか。
+仲間のための戦いだからだろう
+
+==========================
+
+“月明かりの下で”瑚太朗＆篝
+RW/W15-074 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Music 音楽,_Love 愛
+Card Text/Abilities:
+【A】When this card is place on Stage from Hand, choose 1 of your other Characters with Level 1 or below, until the end of the opponent's next turn, it gets +500 Power.
+【A】At the beginning of the opponent's Attack Phase, you may move this card to an empty slot in the Front Row.
+【自】このカードが手札から舞台に置かれた時、あなたは他の自分のレベル1以下のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋500。
+【自】相手のアタックフェイズの始めに、あなたはこのカードを前列の空いている枠に動かしてよい。
+Flavor Text:
+指先を絡めて、くるくる回る。
+地球と月みたいに、エレガントには行かないが
+
+==========================
+
+“二人で一緒に”静流
+RW/W15-075S SR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Discipline Committee 風紀委員,_Occult オカルト
+Card Text/Abilities:
+【C】During your opponent's turn, if your Stock has 4 or more cards, this card gets +1500 Power.
+【A】When this card attacks, if 「失くした記憶」 is in your Climax Slot, during this turn, this card gets +1500 Power, and gains the following ability.『【A】 When this card's battling opponent becomes REVERSE, you may place that Character to the bottom of the Deck.』
+【永】相手のターン中、あなたのストックが4枚以上なら、このカードのパワーを＋1500。
+【自】このカードがアタックした時、クライマックス置場に「失くした記憶」があるなら、そのターン中、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 このカードのバトル相手がリバースした時、あなたはそのキャラを山札の下に置いてよい。』
+Flavor Text:
+今度は私がそういう秘密を見せてあげたいと思った
+
+==========================
+
+“二人で一緒に”静流
+RW/W15-075 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Discipline Committee 風紀委員,_Occult オカルト
+Card Text/Abilities:
+【C】During your opponent's turn, if your Stock has 4 or more cards, this card gets +1500 Power.
+【A】When this card attacks, if 「失くした記憶」 is in your Climax Slot, during this turn, this card gets +1500 Power, and gains the following ability.『【A】 When this card's battling opponent becomes REVERSE, you may place that Character to the bottom of the Deck.』
+【永】相手のターン中、あなたのストックが4枚以上なら、このカードのパワーを＋1500。
+【自】このカードがアタックした時、クライマックス置場に「失くした記憶」があるなら、そのターン中、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 このカードのバトル相手がリバースした時、あなたはそのキャラを山札の下に置いてよい。』
+Flavor Text:
+コタローは隠しておきたいようなことを、私に見せてくれた
+
+==========================
+
+“宿り木の契約者”小鳥
+RW/W15-076 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Plant 植物,
+Card Text/Abilities:
+【S】［REST 2 of your Characters］Choose 1 of your Characters, during this turn, it gains the following ability.『【A】When this card's battling opponent becomes REVERSE, you may draw 1 card. If you did, choose 1 card from your Hand, place it into Waiting Room.』
+【起】［あなたのキャラを2枚レストする］あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】このカードのバトル相手がリバースした時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。』
+Flavor Text:
+…ゆうべはよく眠れた？
+
+==========================
+
+月夜に佇む篝
+RW/W15-077 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Key 鍵,_Time 時間
+Card Text/Abilities:
+【A】［①］At the beginning of your opponent's Attack Phase, you may pay the cost. If you did, during this turn, this card gets +2000 Power.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, place this card in its previous position in REST.)
+【自】［①］相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+………
+
+==========================
+
+中津 静流Nakatsu Shizuru
+RW/W15-078SP SP
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Music 音楽,_Odd Eye オッドアイ
+Card Text/Abilities:
+【C】The Character facing this card gets -1 Soul.
+【A】［①］When this card is placed on Stage from Hand, you may pay the cost. If you did, during this turn, this card gains the following ability.『【A】When this card's battling opponent becomes REVERSE, you may place the top card from your Clock into Waiting Room.』
+【永】このカードの正面のキャラのソウルを－1。
+【自】［①］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードは次の能力を得る。『【自】このカードのバトル相手がリバースした時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。』
+Flavor Text:
+俺がずっと伝え続けるのは、ただ一つの想い乗せ、
+「愛してる」　それだけです
+
+==========================
+
+中津 静流
+RW/W15-078 R
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Music 音楽,_Odd Eye オッドアイ
+Card Text/Abilities:
+【C】The Character facing this card gets -1 Soul.
+【A】［①］When this card is placed on Stage from Hand, you may pay the cost. If you did, during this turn, this card gains the following ability.『【A】When this card's battling opponent becomes REVERSE, you may place the top card from your Clock into Waiting Room.』
+【永】このカードの正面のキャラのソウルを－1。
+【自】［①］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードは次の能力を得る。『【自】このカードのバトル相手がリバースした時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。』
+Flavor Text:
+瑚太朗の声が、本当に、久しぶりに聞けた。
+嬉しくて、涙が出てきた。
+
+==========================
+
+“散る桜の宿命”咲夜
+RW/W15-079 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Psychic Power 超能力,_Familiar 使い魔
+Card Text/Abilities:
+【A】［Place this card into Waiting Room］When another of your Characters is placed into Waiting Room from Stage, if this card is in the Back Row, you may pay the cost. If you did, place that Character into its previous position in REST.
+【S】［REST this card］Choose 1 of your Characters with  「ちはや」 or 「瑚太朗」 in its name, during this turn, it gets +1 Level, +1000 Power.
+【自】［このカードを控え室に置く］他のあなたのキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠にレストして置く。
+【起】［このカードをレストする］あなたは自分のカード名に「ちはや」か「瑚太朗」を含むキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。
+Flavor Text:
+任せておいてください。…兄弟
+
+==========================
+
+“模索する者”篝
+RW/W15-080 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Key 鍵,_Time 時間
+Card Text/Abilities:
+【A】At the beginning of the opponent's Encore Step, choose 1 of your other Characters, during that turn, it gains 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』.
+【自】相手のアンコールステップの始めに、あなたは他の自分のキャラを1枚選び、そのターン中、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。
+Flavor Text:
+瑚太朗「篝の仕事を手伝いたいんだ」
+篝「…」
+
+==========================
+
+“『鍵』の少女”篝
+RW/W15-081 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Key 鍵,_Time 時間
+Card Text/Abilities:
+【A】［②］When this card attacks, if your Climax slot has a Blue Climax, you may pay the cost. If you did, draw 1 card, during this turn, this card gets +1000 Power.
+【自】［②］このカードがアタックした時、あなたのクライマックス置場に青のクライマックスがあるなら、あなたはコストを払ってよい。そうしたら、あなたは1枚引き、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+より良い記憶を…
+
+==========================
+
+熟睡する小鳥
+RW/W15-082 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Plant 植物,
+Card Text/Abilities:
+【C】This card cannot STAND during your Stand Phase.
+【C】During the opponent's turn, all your other Characters get +500 Power.
+【永】このカードはあなたのスタンドフェイズにスタンドしない。
+【永】相手のターン中、他のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+切らないでよぉ…
+
+==========================
+
+“誰かのために”静流
+RW/W15-083 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 1500
+Soul: 1
+Traits:: Weapon 武器,_Occult オカルト
+Card Text/Abilities:
+【A】When you use this card's 「ASSIST」, look at the top card of your Deck, place it on the top or bottom of the Deck.
+【S】● ASSIST 1500 LEVEL 1 ［① Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +1500 Power)
+【自】あなたがこのカードの「 助太刀 」を使った時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。
+【起】● 助太刀1500 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋1500)
+Flavor Text:
+なんだか、この戦いは気分がいい…
+
+==========================
+
+“たったひとり”の篝
+RW/W15-084 U
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Key 鍵,_Time 時間
+Card Text/Abilities:
+【C】During your opponent's turn, for every Marker under this card, this card gets +1500 Power.
+【A】When this card is placed on Stage from Waiting Room or attacks, place the top card of your Deck under this card as a Marker.
+【A】At the end of the opponent's turn, if there are 3 or more Markers below this card, all players place all their Characters into Waiting Room, all players return their Waiting Rooms into their Decks. After that, shuffle those Decks.
+【永】相手のターン中、このカードの下のマーカー1枚につき、このカードのパワーを＋1500。
+【自】このカードが控え室から舞台に置かれた時かアタックした時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。
+【自】相手のターンの終わりに、このカードの下のマーカーが3枚以上なら、すべてのプレイヤーのキャラすべてを、控え室に置き、すべてのプレイヤーは自分の控え室のカードすべてを、山札に戻す。その後、それらの山札をシャッフルする。
+Flavor Text:
+…良い旅を、人類…
+
+==========================
+
+“森ガール”小鳥
+RW/W15-085 U
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Plant 植物,
+Card Text/Abilities:
+【C】During your opponent's turn, for each of your 《植物》 Characters, this card gets +500 Power.
+【永】相手のターン中、他のあなたの《植物》のキャラ1枚につき、このカードのパワーを＋500。
+Flavor Text:
+………
+
+==========================
+
+“似たもの同士”小鳥
+RW/W15-086 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Plant 植物,
+Card Text/Abilities:
+【A】When your Character Trigger Checks a Climax, choose 1 of your Characters, until the end of the opponent's next turn, it gets +1500 Power.
+【自】あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1500。
+Flavor Text:
+小鳥「手伝う！」　瑚太朗「…わかった。よろしくな」
+小鳥「うん！」
+
+==========================
+
+メイド服のルチアMaid Clothes Lucia
+RW/W15-087 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Class Rep 委員長,_Occult オカルト
+Card Text/Abilities:
+【C】During your opponent's turn, this card gets +1000 Power.
+【永】相手のターン中、このカードのパワーを＋1000。
+Flavor Text:
+こ、これで如何ですか。…ご、……ご主人様……
+
+==========================
+
+制服の静流School Uniform Shizuru
+RW/W15-088 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Discipline Committee 風紀委員,_Occult オカルト
+Card Text/Abilities:
+Flavor Text:
+制服の静流
+
+==========================
+
+“この夜での役目”瑚太朗
+RW/W15-089 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Psychic Power 超能力,_Occult オカルト
+Card Text/Abilities:
+【A】 BOND／「“優しい言葉”篝」 ［Place the top card from your Deck into Clock］ (When this card is played on Stage, you may pay the cost. If you do, choose 1 「“優しい言葉”篝」 from your Waiting Room, return it to Hand)
+【自】 絆／「“優しい言葉”篝」 ［あなたの山札の上から1枚をクロック置場に置く］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“優しい言葉”篝」を1枚選び、手札に戻す)
+Flavor Text:
+…下がれ篝。常に俺の背中にいるように
+
+==========================
+
+“命の理論”篝
+RW/W15-090 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Key 鍵,_Time 時間
+Card Text/Abilities:
+【A】 CHANGE［② Place this card into Waiting Room］At the beginning of your Encore Step, if this card is in REST, you may pay the cost. If you did, choose 1 「“たったひとり”の篝」 from your Waiting Room, place it on this card's previous position.
+【A】◆ SHIFT Level 1 (At the beginning of your Main Phase, you may choose 1 Blue card from your Hand and this card in your Clock and exchange them.)
+【自】 チェンジ ［② このカードを控え室に置く］あなたのアンコールステップの始めに、このカードがレストしているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“たったひとり”の篝」を1枚選び、このカードがいた枠に置く。
+【起】◆ シフト レベル1 (あなたのメインフェイズの始めに、あなたは自分の手札の青のカードを1枚とクロック置場のこのカードを1枚選び、入れ替えてよい)
+Flavor Text:
+…
+
+==========================
+
+制服のルチアSchool Uniform Lucia
+RW/W15-091 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: N/A
+Traits:: Class Rep 委員長,_Occult オカルト
+Card Text/Abilities:
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, place this card in its previous slot in REST)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+天王寺瑚太郎。私もこの集まりに参加させてもらうぞ
+
+==========================
+
+“咲夜”という名の存在Existence Known as Sakuya
+RW/W15-092 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Psychic Power 超能力,_Familiar 使い魔
+Card Text/Abilities:
+Flavor Text:
+承知いたしました
+
+==========================
+
+私服の静流Casual Wear Shizuru
+RW/W15-093 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Discipline Committee 風紀委員,_Occult オカルト
+Card Text/Abilities:
+【S】［REST 2 of your Characters］Until the end of your opponent's next turn, this card gets +1000 Power.
+【起】［あなたのキャラを2枚【レスト】する］ 次の相手のターンの終わりまで、このカードのパワーを＋1000。
+Flavor Text:
+…なら、友人の友人だから、私とも友人だ
+
+==========================
+
+私服のルチアCasual Wear Lucia
+RW/W15-094 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Class Rep 委員長,_Occult オカルト
+Card Text/Abilities:
+Flavor Text:
+どうした、遅かったじゃないか
+
+==========================
+
+可能性の系統樹
+RW/W15-095 U
+Type: Event
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Draw up to 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power. Place this card into Memory.
+あなたは1枚まで引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000。このカードを思い出にする。
+Flavor Text:
+それはもう樹木ではない。
+命の激流…大海のようなものだった
+
+==========================
+
+終わる世界
+RW/W15-096 U
+Type: Event
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+If you have 2 or less Blue Characters, you cannot play this card from Hand.
+Place all the opponent's Stock into Waiting Room, your opponent then places the equal amount of cards from the top of the Deck into Stock. All players return their Waiting Room into their Decks. Shuffle those Decks afterwards. Place this card into Memory.
+このカードは、あなたの青のキャラが2枚以下なら、手札からプレイできない。
+あなたは相手のストックすべてを、控え室に置き、相手は自分の山札の上から同じ枚数をストック置場に置く。すべてのプレイヤーは自分の控え室のカードすべてを、山札に戻す。それらの山札をシャッフルする。このカードを思い出にする。
+Flavor Text:
+無くなっていく。…街が。風祭が。世界が。
+全て、消えてしまう
+
+==========================
+
+ほんの少しのお別れ
+RW/W15-097 C
+Type: Event
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Look at up to 2 cards from the top of your Deck, choose up to 1 card, add it to Hand. Place the remaining cards into Waiting Room.
+あなたは自分の山札を上から2枚まで見て、カードを１枚まで選び、手札に加える。残りのカードを控え室に置く。
+Flavor Text:
+静流「コタロー…、大好きだ…。
+誰よりも、何よりも、コタローが大好きだ…」
+
+==========================
+
+出会い
+RW/W15-098R RRR
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Book：When this card is triggered, you may draw 1 card)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(本：このカードがトリガーした時、あなたは1枚引いてよい)
+Flavor Text:
+
+==========================
+
+出会い
+RW/W15-098 CR
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Book：When this card is triggered, you may draw 1 card)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(本：このカードがトリガーした時、あなたは1枚引いてよい)
+Flavor Text:
+…思い出した
+俺が怪我をした時の記憶だ…
+
+==========================
+
+小鳥の心Kotori's Heart
+RW/W15-099 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置き場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+…ごめんねぇ
+
+==========================
+
+失くした記憶Lost Memories
+RW/W15-100 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +2 Soul.
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+…ひとつ頷いて。静流は笑っていた
+
+==========================
+
+木陰で憩う小鳥Resting in the Shade Kotori
+RW/W15-101 TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Plant 植物,_Occult オカルト
+Card Text/Abilities:
+【A】When this card attacks, if you have 2 or more other 《オカルト》 Characters, all your Characters, during this turn, get +500 Power.
+【自】 このカードがアタックした時、他のあなたの《オカルト》のキャラが2枚以上なら、あなたのキャラすべてに、そのターン中、パワーを＋500。
+Flavor Text:
+うん、もちろんだよ。森は庭みたいなものだもの
+
+==========================
+
+“背比べ”静流"Comparing Heights" Shizuru
+RW/W15-102 TD
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Discipline Committee 風紀委員,_Occult オカルト
+Card Text/Abilities:
+【S】 CONCENTRATION ［①］Flip 4 cards from the top of your Deck into Waiting Room. For every Climax among those cards, until the end of your opponent's next turn, this card gets +1500 Power.
+【起】 集中 ［①］あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の相手のターンの終わりまで、このカードのパワーを＋1500。
+Flavor Text:
+小さくてもいいのか…
+
+==========================
+
+天王寺 瑚太朗Tennouji Kotarou
+RW/W15-103 TD
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Psychic Power 超能力,_Occult オカルト
+Card Text/Abilities:
+【A】When this card is placed on Stage from hand, draw up to 2 cards, choose 1 card from your hand, place it to Waiting Room.
+【A】When this card attacks, if 「みんなでガーデニング」 is in your Climax Slot, all your other Characters, during this turn, get +2500 Power, +1 Soul.
+【自】このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分のカードを1枚選び、控え室に置く。
+【自】このカードがアタックした時、クライマックス置場に「みんなでガーデニング」があるなら、他のあなたのキャラすべてに、そのターン中、パワーを＋2500し、ソウルを＋1。
+Flavor Text:
+いいに決まってるじゃん。
+楽しくて悪いことってなんだよ
+
+==========================
+
+“至福のデザートタイム”ルチア “Bliss of Dessert Time” Lucia
+RW/W15-104 TD
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Class Rep 委員長,_Occult オカルト
+Card Text/Abilities:
+【A】When your opponent's Climax is placed into Climax slot, choose 1 of your Characters, during this turn, it gets +1000 Power.
+【自】 相手のクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+わ、私がパフェを食べていると、……そ、そんなにもおかしいか
+
+==========================
+
+みんなでガーデニングGardening With Everyone
+RW/W15-105 TD
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, place the top card of your Deck into Stock, during this turn, all your Characters get +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+願うなら。この先も、その先にもずっと。
+楽しいことばかりが待っていることを
+
+==========================
+
+ちびルチアMini Lucia
+RW/W15-106 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Class Rep 委員長,_Occult オカルト
+Card Text/Abilities:
+【S】［①］Draw 1 card, choose 1 card from your Hand, place it into Waiting Room.
+【起】［①］あなたは1枚引き、自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+いーち
+
+==========================
+
+ちび静流Mini Shizuru
+RW/W15-107 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Discipline Committee 風紀委員,_Occult オカルト
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+よーん
+
+==========================
+
+ちび朱音Mini Akane
+RW/W15-108 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Occult オカルト
+Card Text/Abilities:
+【C】During this turn, this card gets +1000 Power.
+【永】あなたのターン中、このカードのパワーを＋1000。
+Flavor Text:
+にー
+
+==========================
+
+ちびちはやMini Chihaya
+RW/W15-109 PR
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Sweets お菓子,_Occult オカルト
+Card Text/Abilities:
+【S】● ASSIST 1500 Level 1 ［Place this card from Hand to Waiting Room］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +1500 Power)
+【起】● 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋1500)
+Flavor Text:
+さーん
+
+==========================
+
+ちび小鳥Mini Kotori
+RW/W15-110 PR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Plant 植物,_Occult オカルト
+Card Text/Abilities:
+【S】● ASSIST 2000 LEVEL 1 ［① Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +2000 Power)
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋2000)
+Flavor Text:
+ごー
+
+==========================
+
+ちび篝Mini Kagari
+RW/W15-111 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Key 鍵,_Time 時間
+Card Text/Abilities:
+【C】During your opponent's turn, all your other Characters get +500 Power.
+【A】When this card is placed on Stage from Hand, look at the top card of your Deck, place it at the top or bottom of the Deck.
+【永】相手のターン中、他のあなたのキャラすべてに、パワーを＋500。
+【自】このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。
+Flavor Text:
+…？
+
+==========================
+
+“自分の存在意義”ルチア"Me Reason To Be" Lucia
+RW/W15-112 PR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【S】［① REST this card］Choose 1 card from your Clock, return it to Hand, choose 1 card from your Hand, place it into Clock.
+【起】［① このカードをレストする］あなたは自分のクロックを1枚選び、手札に戻す。あなたは自分の手札を1枚選び、クロック置場に置く。
+Flavor Text:
+……私は私の、在るべき場所に在るべきなのだ
+
+==========================
+
+“お気に入りの場所”静流"Favorite Spot" Shizuru
+RW/W15-113 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Discipline Committee 風紀委員,_Occult オカルト
+Card Text/Abilities:
+【C】During your opponent's turn, this card gets +1000 Power.
+【永】相手のターン中、このカードのパワーを+1000。
+Flavor Text:
+ここは鳥の声も人の声も、いろんな音がする
+
+==========================
+
+“深遠なる魔術”朱音“Profound In Sorcery” Akane
+RW/W15-114 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Magic 魔法,_Occult オカルト
+Card Text/Abilities:
+【S】［①］During this turn, this card gets +1 Soul.
+【起】［①］そのターン中、このカードのソウルを+1。
+Flavor Text:
+この一件、なかなか楽しめたわ
+
+==========================
+
+“明るい笑顔”ちはや"Bright Smile" Chihaya
+RW/W15-115 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Sweets お菓子,_Occult オカルト
+Card Text/Abilities:
+【C】During your turn, this card gets +1000 Power.
+【永】あなたのターン中、このカードのパワーを+1000。
+Flavor Text:
+じゃあこれも持っていきますよ－
+
+==========================
+
+“楽しい気分”小鳥"Fun Mood" Kotori
+RW/W15-116 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Plant 植物,_Occult オカルト
+Card Text/Abilities:
+【A】When this card attacks, all your Characters, during this turn, they get +500 Power.
+【自】このカードがアタックした時、あなたのキャラすべてに、そのターン中、パワーを+500。
+Flavor Text:
+じゃ、せっかく来てくれたんだし、手伝ってくれる？
+
+==========================
+
+“星の化身”篝
+RW/W15-117 PR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Key 鍵,_Time 時間
+Card Text/Abilities:
+【C】If you have 4 or more Climax in your Waiting Room, this card gets +1000 Power.
+【永】 あなたの控え室のクライマックスが4枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+…止める方法はただひとつ。良い記憶を
+
+==========================
+
+“午後の陽光”朱音
+RW/W15-118 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Magic 魔法,_Occult オカルト
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+わかったわ、付き合ってあげる
+
+==========================
+
+ネコミミ 静流Cat Ears Shizuru
+RW/W15-119 PR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Discipline Committee 風紀委員,_Occult オカルト
+Card Text/Abilities:
+【C】If you have 1 or less other Character in your Front Row, this card gets +1000 Power.
+【永】他のあなたの前列のキャラが1枚以下なら、このカードのパワーを＋1000。
+Flavor Text:
+…どうした、コタロー
+
+==========================
+
+“命の回廊”篝
+RW/W15-120 PR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Key 鍵,_Time 時間
+Card Text/Abilities:
+【A】［Place 1 card from Hand into Waiting Room］This ability can only be used once per turn. When you played an Event, you may pay the cost. If you did, during this turn, this card gains the following ability.『【A】At the beginning of the Encore Step, you may Draw 1 card.』
+【自】［手札を1枚控え室に置く］ この能力は1ターンに1回まで発動する。あなたがイベントをプレイした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードは次の能力を得る。『【自】 アンコールステップの始めに、あなたは1枚引いてよい。』
+Flavor Text:
+『いつかまた君と会いたい　天王寺瑚太朗』
+
+==========================
+
+制服の小鳥School Uniform Kotori
+RW/W15-T01 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Plant 植物,_Occult オカルト
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+それはいいねぇ。じゃあ一緒にお昼しよー
+
+==========================
+
+“スピード勝負！”瑚太朗 “Speed Challenge！” Koutarou
+RW/W15-T02 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Psychic Power 超能力,_Occult オカルト
+Card Text/Abilities:
+【A】［②］When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《オカルト》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《オカルト》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+くそー！！　もう一回！！！
+
+==========================
+
+“カザコーのアウトロー”吉野“Outlaw of Kazako” Yoshino
+RW/W15-T03 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Delinquent 不良,
+Card Text/Abilities:
+【C】If you have no other Characters in your Front Row, this card gets +1500 Power.
+【永】他のあなたの前列のキャラがいないなら、このカードのパワーを＋1500。
+Flavor Text:
+テメェとオレは白と黒、表と裏、光と闇。
+ぶっ潰すか、ぶっ潰されるか…それだけだ
+
+==========================
+
+制服の朱音School Uniform Akane
+RW/W15-T04 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Occult オカルト
+Card Text/Abilities:
+Flavor Text:
+結構。オカルト研究会にようこそ。ここがおまえにとって良き居場所となれば良いわね
+
+==========================
+
+“ちはやの執事”咲夜“Chihaya's Butler” Sakuya
+RW/W15-T05 TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 3000
+Soul: 1
+Traits:: Butler 執事,_Glasses メガネ
+Card Text/Abilities:
+【C】During your turn, all your other Characters gets +1000 Power.
+【永】あなたのターン中、他のあなたのキャラすべてに、パワーを＋1000。
+Flavor Text:
+まあ、瑣末なことですね
+
+==========================
+
+制服のちはやSchool Uniform Chihaya
+RW/W15-T06 TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Sweets お菓子,_Occult オカルト
+Card Text/Abilities:
+【A】When this card attacks, if 「迷子の転校生」 is in your Climax Slot, choose 1 of your Characters, during this turn, it gets +500 Power, +1 Soul.
+【自】このカードがアタックした時、クライマックス置場に「迷子の転校生」があるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500し、ソウルを＋1。
+Flavor Text:
+あっ！　ど、どこ行ってたんですかっ
+
+==========================
+
+私服の朱音Casual Wear Akane
+RW/W15-T07 TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Occult オカルト
+Card Text/Abilities:
+【S】● ASSIST 3000 Level 2［① Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)
+【起】● 助太刀3000 レベル2 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000)
+Flavor Text:
+覇ッ！
+
+==========================
+
+私服の小鳥Casual Wear Kotori
+RW/W15-T08 TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Plant 植物,_Occult オカルト
+Card Text/Abilities:
+【A】［①］When this card attacks, you may pay this cost. If you do, choose 1 of your Characters, during this turn it gets +2000 Power.
+【自】［①］このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+ちびもす、けっこうがんばる
+
+==========================
+
+私服のちはやCasual Wear Chihaya
+RW/W15-T09 TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Sweets お菓子,_Occult オカルト
+Card Text/Abilities:
+Flavor Text:
+わ、悪いには悪いですけど、こういうときに手を差し伸べてくれてもいいと思います…
+
+==========================
+
+学園の魔女Witch of the Academy
+RW/W15-T10 TD
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+CONCENTRATION Choose 1 of your Characters, during this turn, it gets +5000 Power.
+Your opponent declares 1, 2 or 3. Flip 3 cards from the top of your Deck, place them into Waiting Room. If the number of 《オカルト》 Characters among those cards equals to your opponent's declaration, draw 1 card.
+集中 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋5000。
+相手は1か2か3を宣言する。あなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードの《オカルト》のキャラの枚数が相手の宣言した数と同じなら、あなたは1枚引く。
+Flavor Text:
+ようこそジプシー、我が神秘の部屋に
+
+==========================
+
+迷子の転校生Lost Transfer Student
+RW/W15-T11 TD
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1F
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Flame：When this card is Triggered, if your current attacking Character's damage is cancelled, deal 1 damage to the opponent.)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(炎：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える。)
+Flavor Text:
+だ、だめですっ！助けてくださいっ！
+降りられませんからっ
+
+==========================
+
+制服の静流School Uniform Shizuru
+RW/W15-T12 TD
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Discipline Committee 風紀委員,_Occult オカルト
+Card Text/Abilities:
+Flavor Text:
+制服の静流
+
+==========================
+
+制服のルチアSchool Uniform Lucia
+RW/W15-T13 TD
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: N/A
+Traits:: Class Rep 委員長,_Occult オカルト
+Card Text/Abilities:
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+天王寺瑚太郎。私もこの集まりに参加させてもらうぞ
+
+==========================
+
+私服の静流Casual Wear Shizuru
+RW/W15-T14 TD
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Discipline Committee 風紀委員,_Occult オカルト
+Card Text/Abilities:
+【S】［REST 2 of your Characters］Until the end of your opponent's next turn, this card gets +1000 Power.
+【起】［あなたのキャラを2枚【レスト】する］ 次の相手のターンの終わりまで、このカードのパワーを＋1000。
+Flavor Text:
+…なら、友人の友人だから、私とも友人だ
+
+==========================
+
+私服のルチアCasual Wear Lucia
+RW/W15-T15 TD
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Class Rep 委員長,_Occult オカルト
+Card Text/Abilities:
+Flavor Text:
+どうした、遅かったじゃないか
+
+==========================
+
+失くした記憶Lost Memories
+RW/W15-T16 TD
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+…ひとつ頷いて。静流は笑っていた
+
+==========================
+

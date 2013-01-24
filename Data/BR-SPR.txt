@@ -1,0 +1,32 @@
+ブラック★ロックシューターBlack★Rock Shooter
+BR/SPR-001 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+デッドマスターDeadmaster
+BR/SPR-002 PR
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【A】 ENCORE ［Place the top card of your Deck into Clock］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+
+==========================
+

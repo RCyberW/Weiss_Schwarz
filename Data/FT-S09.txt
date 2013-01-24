@@ -1,0 +1,2690 @@
+魔法剣士　エルザMagic Swordman Erza
+FT/S09-001 RR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【A】When this card is placed on stage from hand, you may place the top 3 cards of your deck into the waiting room.
+【A】 CHANGE ［Place 1 card in clock from hand, place this card in memory］At the start of your Encore Step, if this card is in REST, you may pay the cost. If you do, choose 1 「“黒羽の鎧”エルザ」 from your waiting room, place it in this card's previous slot.
+【自】このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。
+【自】 チェンジ ［手札を1枚クロック置場に置き、このカードを思い出にする］あなたのアンコールステップの始めに、このカードがレストしているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“黒羽の鎧”エルザ」を1枚選び、このカードがいた粋に置く。
+Flavor Text:
+私にまかせろ
+
+==========================
+
+妖精女王のエルザFairy Queen Erza
+FT/S09-002 RR
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【C】The character facing this card gets -1 Soul.
+【C】 RECOLLECTION During your turn, if you have 2 or more cards in Memory, this card gets +1500 Power.
+【A】［② Discard 1 「天輪・繚乱の剣」 to waiting room from hand］ This ability can be used up to 1 time in 1 turn. When the character battling this card becomes REVERSE, you may pay the cost. If you do, put this card in STAND.
+【永】このカードの正面のキャラのソウル－1。
+【永】 記憶 あなたのターン中、あなたの思い出が2枚以上なら、このカードのパワーを＋1500。
+【自】［② 手札の「天輪・繚乱の剣」を1枚控え室に置く］ この能力は1ターンにつき1回まで発動する。このカードのバトル相手がリバースした時、あなたはコストを払ってよい。そうしたら、このカードをスタンドする。
+Flavor Text:
+私たちの親に手を出したのはこの男だな
+
+==========================
+
+妖精女王のエルザFairy Queen Erza
+FT/S09-002 SR
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【C】The character facing this card gets -1 Soul.
+【C】 RECOLLECTION During your turn, if you have 2 or more cards in Memory, this card gets +1500 Power.
+【A】［② Discard 1 「天輪・繚乱の剣」 to waiting room from hand］ This ability can be used up to 1 time in 1 turn. When the character battling this card becomes REVERSE, you may pay the cost. If you do, put this card in STAND.
+【永】このカードの正面のキャラのソウル－1。
+【永】 記憶 あなたのターン中、あなたの思い出が2枚以上なら、このカードのパワーを＋1500。
+【自】［② 手札の「天輪・繚乱の剣」を1枚控え室に置く］ この能力は1ターンにつき1回まで発動する。このカードのバトル相手がリバースした時、あなたはコストを払ってよい。そうしたら、このカードをスタンドする。
+Flavor Text:
+私たちの親に手を出したのはこの男だな
+
+==========================
+
+超近接タイプ エルザ
+FT/S09-003 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【C】During your turn, all your characters with 「エルザ」 in their name get +1000 Power.
+【C】When you pay the cost for 【S】 of your characters in hand or on stage, you may use a marker underneath this card as 1 Stock instead.
+【S】［Put 2 of your characters in STAND to REST］ When this card is placed on stage from hand, you may pay the cost. If you do, place the top card of your deck underneath this card as a marker.
+【永】あなたのターン中、他のあなたのカード名に「エルザ」を含むキャラすべてに、パワーを＋1000。
+【永】あなたが自分の手札か舞台のキャラの【起】のコストを払うとき、このカードの下のマーカーを、ストック1枚のかわりに控え室に置いてよい。
+【自】［あなたのスタンドしているキャラを2枚レストする］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚をこのカードの下にマーカーとして置く。
+Flavor Text:
+うん、仲のいいことが一番だ
+
+==========================
+
+超近接タイプ エルザ
+FT/S09-003 SR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【C】During your turn, all your characters with 「エルザ」 in their name get +1000 Power.
+【C】When you pay the cost for 【S】 of your characters in hand or on stage, you may use a marker underneath this card as 1 Stock instead.
+【S】［Put 2 of your characters in STAND to REST］ When this card is placed on stage from hand, you may pay the cost. If you do, place the top card of your deck underneath this card as a marker.
+【永】あなたのターン中、他のあなたのカード名に「エルザ」を含むキャラすべてに、パワーを＋1000。
+【永】あなたが自分の手札か舞台のキャラの【起】のコストを払うとき、このカードの下のマーカーを、ストック1枚のかわりに控え室に置いてよい。
+【自】［あなたのスタンドしているキャラを2枚レストする］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚をこのカードの下にマーカーとして置く。
+Flavor Text:
+うん、仲のいいことが一番だ
+
+==========================
+
+“黒羽の鎧”エルザ“Black Wing Armor” Erza
+FT/S09-004 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【A】When this card attacks, if the Climax 「妖精の尻尾じゃああっ!!!!!!」 is on Stage, search your deck for up to 1 Character with 「エルザ」 in its name, place it into your Waiting Room. Shuffle your deck afterwards. During this turn, this card gets +2500 Power.
+【A】［Place this card into Waiting Room］At the beginning of opponent's Draw Phase, you may pay this cost. If you do, choose up to 1 「“炎帝の鎧”エルザ」 from your Waiting Room, place that card into this card's previous slot. During this turn, that Character gets +2500 Power.
+【自】このカードがアタックした時、クライマックス置場に「妖精の尻尾じゃああっ!!!!!!」があるなら、あなたは自分の山札を見てカード名に「エルザ」を含むキャラを1枚まで選び、控え室に置く。その山札をシャッフルし、そのターン中、このカードのパワーを＋2500。
+【自】［このカードを控え室に置く］相手のドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“炎帝の鎧”エルザ」を1枚まで選び、このカードがいた粋に置き、そのターン中、そのキャラのパワーを＋2500。
+Flavor Text:
+いくぞ！
+
+==========================
+
+“黒羽の鎧”エルザ“Black Wing Armor” Erza
+FT/S09-004 RRR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【A】When this card attacks, if the Climax 「妖精の尻尾じゃああっ!!!!!!」 is on Stage, search your deck for up to 1 Character with 「エルザ」 in its name, place it into your Waiting Room. Shuffle your deck afterwards. During this turn, this card gets +2500 Power.
+【A】［Place this card into Waiting Room］At the beginning of opponent's Draw Phase, you may pay this cost. If you do, choose up to 1 「“炎帝の鎧”エルザ」 from your Waiting Room, place that card into this card's previous slot. During this turn, that Character gets +2500 Power.
+【自】このカードがアタックした時、クライマックス置場に「妖精の尻尾じゃああっ!!!!!!」があるなら、あなたは自分の山札を見てカード名に「エルザ」を含むキャラを1枚まで選び、控え室に置く。その山札をシャッフルし、そのターン中、このカードのパワーを＋2500。
+【自】［このカードを控え室に置く］相手のドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“炎帝の鎧”エルザ」を1枚まで選び、このカードがいた粋に置き、そのターン中、そのキャラのパワーを＋2500。
+Flavor Text:
+いくぞ！
+
+==========================
+
+“炎帝の鎧”エルザ“Flame Emperor's Armor” Erza
+FT/S09-005 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【A】［Place this card into Waiting Room］At the beginning of your Draw Phase, you may pay this cost. If you do, choose up to 1 「“黒羽の鎧”エルザ」 from your Waiting Room, place that card into this card's previous slot. During this turn, that Character gets +2500 Power.
+【A】 ENCORE ［Put 1 Character from hand to Waiting Room］ (When this card is put into Waiting Room from Stage, you may pay this cost. If you do, return that card to its original slot in REST)
+【自】［このカードを控え室に置く］あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“黒羽の鎧”エルザ」を1枚選び、このカードがいた枠に置き、そのターン中、そのキャラのパワーを＋2500。
+【自】アンコール［手札のキャラを1枚控え室に置く］（このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレスト＠して置く）
+Flavor Text:
+私も本気でいかせてもらうぞ
+
+==========================
+
+“天輪の鎧”エルザ “The Knight's Armor” Erza
+FT/S09-006 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【A】When this card attacks, if 「循環の剣」 is in the climax slot, during this turn, this card gets +4000 Power and +1 Soul.
+【S】［①］During this turn, this card gets +1 Soul.
+【S】［Put 2 of your 《魔法》 characters to REST］During this turn, this card gets +2500 Power.
+【自】このカードがアタックした時、クライマックス置場に「循環の剣」があるなら、そのターン中、このカードのパワーを＋4000し、ソウルを+1。
+【起】［①］そのターン中、このカードのソウルを+1。
+【起】［あなたの《魔法》のキャラを2枚レストする］そのターン中、このカードのパワーを+2500。
+Flavor Text:
+面倒だ。一掃する
+
+==========================
+
+“天輪の鎧”エルザ “The Knight's Armor” Erza
+FT/S09-006 RRR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【A】When this card attacks, if 「循環の剣」 is in the climax slot, during this turn, this card gets +4000 Power and +1 Soul.
+【S】［①］During this turn, this card gets +1 Soul.
+【S】［Put 2 of your 《魔法》 characters to REST］During this turn, this card gets +2500 Power.
+【自】このカードがアタックした時、クライマックス置場に「循環の剣」があるなら、そのターン中、このカードのパワーを＋4000し、ソウルを+1。
+【起】［①］そのターン中、このカードのソウルを+1。
+【起】［あなたの《魔法》のキャラを2枚レストする］そのターン中、このカードのパワーを+2500。
+Flavor Text:
+面倒だ。一掃する
+
+==========================
+
+マカロフの孫 ラクサス
+FT/S09-007 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+【A】This ability can be used 1 time in 1 turn. When you use 【S】, during this turn, this card gets +1000 Power and +1 Soul.
+【自】この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋1000し、ソウルを＋1。
+Flavor Text:
+オレが最強だ!!!
+
+==========================
+
+S級魔導士 エルザ
+FT/S09-008 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【S】［Put 2 of your 《魔法》 characters to REST］During this turn, this card gets +2500 Power.
+【起】［あなたの《魔法》のキャラを2枚レストする］そのターン中、このカードのパワーを＋2500。
+Flavor Text:
+二人の力を貸してほしい。ついてきてくれるな
+
+==========================
+
+大空のアリア
+FT/S09-009 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Element エレメント
+Card Text/Abilities:
+【A】［④ Discard 1 climax from hand］When you use this card's 『ASSIST』, you may pay the cost. If you do, choose 1 of your opponent's characters, put it to REST.
+【S】● ASSIST 1000 Level 1 ［Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +1000 Power)
+【自】［④ 手札のクライマックスを1枚控え室に置く］あなたがこのカードの『 助太刀 』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、レストする。
+【起】● 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000)
+Flavor Text:
+悲しすぎる！この悲しみはどこからくるのだ！
+
+==========================
+
+大荷物 エルザ
+FT/S09-010 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【S】［②］During this turn, this card gets +1000 Power and gains the following ability. 「武器》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.">【A】When this card's battle opponent becomes REVERSE, search your Deck for up to 1 《武器》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.」
+【起】［②］そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。「【自】このカードのバトル相手がリバースした時、あなたは自分の山札を見て《武器》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。」
+Flavor Text:
+すまない、待たせたか？
+
+==========================
+
+治癒魔導士 ポーリュシカ
+FT/S09-011 U
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】［②］When you use this card's 『ASSIST』, you may pay the cost. If you do, choose 1 of your opponent's Level 2 or Above characters, during this turn, it gets -1 Soul.
+【S】● ASSIST 2500 Level 2 ［Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +2500 Power)
+【自】［②］あなたがこのカードの『 助太刀 』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以上のキャラを1枚選び、そのターン中、ソウルを－1。
+【起】● 助太刀2500 レベル2 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500)
+Flavor Text:
+本当に････バカなんだから･･
+
+==========================
+
+幽鬼の支配者のマスター・ジョゼ Phantom Lord's Master Jose
+FT/S09-012 U
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Magic 魔法,_Master マスター
+Card Text/Abilities:
+【C】If this card has a marker underneath it, it gets +1000 Power.
+【A】When this card is placed on stage from hand, choose up to 2 《エレメント》 characters in your waiting room, return them to deck. Shuffle your deck afterwards. If you returned 2, place the top card of you deck under this card as a marker.
+【永】このカードの下にマーカーがあるなら、このカードのパワーを＋1000。
+【自】このカードが手札から舞台に置かれた時、あなたは自分の控え室の《エレメント》のキャラを2枚まで選び、山札に戻す。その山札をシャッフルする。2枚戻したなら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。
+Flavor Text:
+消せ
+
+==========================
+
+妖精の尻尾のマスター・マカロフFairy Tail's Master Makarov
+FT/S09-013 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Master マスター
+Card Text/Abilities:
+【A】 BOND／「マカロフの孫 ラクサス」 ［①］ (When you place this card on stage from hand, you may pay the cost. If you do, choose 1 「マカロフの孫 ラクサス」 from your waiting room and place it into your hand)
+【S】［① Put 2 of your characters to REST］Place the top 4 cards of your deck into the waiting room. For each climax in those cards, search your deck for up to 1 《魔法》 character, show it to your opponent and place it into your hand. Shuffle your deck afterwards.
+【自】 絆／「マカロフの孫 ラクサス」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「マカロフの孫 ラクサス」を1枚選び、手札に戻す)
+【起】［① あなたのキャラを2枚レストする］あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《魔法》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+よろしくネ
+
+==========================
+
+レビィ・マクガーデン
+FT/S09-014 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【A】［①］When this card is placed in waiting room from stage, you may pay the cost. If you do, place this card in memory.
+【S】［Put this card to REST］Choose 1 of your 《魔法》 characters, during this turn, it gets +1000 Power.
+【自】［①］このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードを思い出にする。
+【起】［このカードをレストする］あなたは自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+ルーちゃん！私に任せて！
+
+==========================
+
+S級魔導士 ラクサス
+FT/S09-015 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+【C】If there is a marker below this card, it gets +1000 Power.
+【S】［①］If there is no marker underneath this card, place the top card of your deck underneath this card as a marker.
+【永】このカードの下にマーカーがあるなら、このカードのパワーを＋1000。
+【起】［①］このカードの下にマーカーがないなら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。
+Flavor Text:
+てめえのケツをふけねえ魔導士は
+このギルドにはいねえ。だろ？
+
+==========================
+
+“死神”エリゴール
+FT/S09-016 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【S】［②］During this turn, this card gets +3000 Power, +1 Soul.
+【起】［②］そのターン中、このカードのパワーを＋3000し、ソウルを＋1。
+Flavor Text:
+死神の粛清だ！
+
+==========================
+
+妖精の尻尾の女魔導士 エルザ
+FT/S09-017 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+掟を破った者を仕置きに行く。それだけだ
+
+==========================
+
+聖十大魔道 マカロフ
+FT/S09-018 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Magic 魔法,_Master マスター
+Card Text/Abilities:
+Flavor Text:
+自分の信じた道を進めェい!!!!
+
+==========================
+
+S級魔導士 ミストガン
+FT/S09-019 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 3500
+Soul: 1
+Traits:: Magic 魔法,_Mystery 謎
+Card Text/Abilities:
+【C】 SUPPORT All of the Level 2 or Above characters in front of this card get +1000 Power.
+【S】［① Put this card to REST］Choose 1 of your opponent's Level 0 or below characters, return it to hand.
+【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。
+【起】［① このカードをレストする］あなたは相手のレベル0以下のキャラを1枚選び、手札に戻す。
+Flavor Text:
+行ってくる
+
+==========================
+
+“もう迷わない”エルザ
+FT/S09-020 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+月を破壊！？
+FT/S09-021 U
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Put 2 of your characters in STAND to REST. If you you do, choose 1 of your opponent's cost 0 or below characters, place it in stock.
+あなたは自分のスタンドしているキャラを2枚選びレストする。2枚レストしたなら、あなたは相手のコスト0以下のキャラを1枚選び、ストック置場に置く。
+Flavor Text:
+届けェェえええええっ!!!!
+
+==========================
+
+妖精の法律Fairy Law
+FT/S09-022 U
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 4
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+If there are 2 or below cards in your memory, this card cannot be played from hand.
+Choose up to 3 of your opponent's Front Row Level 2 or Below characters, place them in stock.
+このカードは、あなたの思い出が2枚以下なら、手札からプレイ出来ない。
+あなたは、相手の前列のレベル2以下のキャラを3枚まで選び、ストック置場に置く。
+Flavor Text:
+エルザ「術者が敵と認識したものだけを討つ、
+もはや伝説の一つに数えられる超魔法だ」
+
+==========================
+
+天輪・繚乱の剣
+FT/S09-023 CR
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1W
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+(Wind：When this card is Triggered, you may choose 1 of opponent's Characters, return to his/her hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(風：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+
+==========================
+
+妖精の尻尾 じゃああっ!!!!!!
+FT/S09-024 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+
+==========================
+
+循環の剣
+FT/S09-025 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1F
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Flame：When this card is Triggered, if your current attacking Character's damage is cancelled, deal 1 damage to opponent.)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(炎：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える。)
+Flavor Text:
+舞え、 剣たちよ！
+
+==========================
+
+新人魔導士 ルーシィ
+FT/S09-026 RR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Key 鍵
+Card Text/Abilities:
+【C】If you have 2 or more other 《鍵》 characters, this card gets +1 Level, +1500 Power.
+【永】他のあなたの《鍵》のキャラが2枚以上なら、このカードのレベルを＋1し、パワーを＋1500。
+Flavor Text:
+あたし本当に･･ 妖精の尻尾に来たんだぁ
+
+==========================
+
+新人魔導士 ルーシィ
+FT/S09-026 SR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Key 鍵
+Card Text/Abilities:
+【C】If you have 2 or more other 《鍵》 characters, this card gets +1 Level, +1500 Power.
+【永】他のあなたの《鍵》のキャラが2枚以上なら、このカードのレベルを＋1し、パワーを＋1500。
+Flavor Text:
+あたし本当に･･ 妖精の尻尾に来たんだぁ
+
+==========================
+
+妖精の尻尾の魔導士 ルーシィFairy Tail's Mage Lucy
+FT/S09-027 RR
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Magic 魔法,_Key 鍵
+Card Text/Abilities:
+【C】 Recollection If you have 2 or more cards in memory, this card gets +1500 Power.
+【A】[②]when 「星霊の力」 is placed in your climax slot, if this card is in the front row, you may pay the cost. If you do, search your deck for up to 1 Level 2 or Below 《鍵》 character, place it on stage in any slot. Shuffle your deck afterwards.
+【永】 記憶 あなたの思い出が2枚以上なら、このカードのパワーを＋1500。
+【自】[②]あなたのクライマックス置場に「星霊の力」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル2以下の《鍵》のキャラを1枚まで選び、舞台の好きな枠に置く。その山札をシャッフルする。
+Flavor Text:
+そうよ!!! あたしだって 妖精の尻尾の一員なんだからね!!!
+
+==========================
+
+妖精の尻尾の魔導士 ルーシィFairy Tail's Mage Lucy
+FT/S09-027 SP
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Magic 魔法,_Key 鍵
+Card Text/Abilities:
+【C】 Recollection If you have 2 or more cards in memory, this card gets +1500 Power.
+【A】[②]when 「星霊の力」 is placed in your climax slot, if this card is in the front row, you may pay the cost. If you do, search your deck for up to 1 Level 2 or Below 《鍵》 character, place it on stage in any slot. Shuffle your deck afterwards.
+【永】 記憶 あなたの思い出が2枚以上なら、このカードのパワーを＋1500。
+【自】[②]あなたのクライマックス置場に「星霊の力」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル2以下の《鍵》のキャラを1枚まで選び、舞台の好きな枠に置く。その山札をシャッフルする。
+Flavor Text:
+そうよ!!! あたしだって 妖精の尻尾の一員なんだからね!!!
+
+==========================
+
+ハートフィリア財閥令嬢 ルーシィ
+FT/S09-028 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Magic 魔法,_Key 鍵
+Card Text/Abilities:
+【C】When you pay the cost for a 【S】 of your characters in hand or on stage, you may use a marker underneath this card as 1 Stock instead.
+【S】［Put 2 of your characters in STAND to REST］ When this card is placed on stage from hand, you may pay the cost. If you do, place the top card of your deck underneath this card as a marker.
+【S】［①］Choose 1 of your characters, during this turn, it gets +1000 Power.
+【永】あなたが自分の手札か舞台のキャラの【起】のコストを払うとき、このカードの下のマーカーを、ストック1枚のかわりに控え室に置いてよい。
+【自】［あなたのスタンドしているキャラを2枚レストする］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚をこのカードの下にマーカーとして置く。
+【起】［①］あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+でも･･もしママがまだ生きていたら･･
+あなたの好きな事をやりなさいって言ってくれると思うの
+
+==========================
+
+ハートフィリア財閥令嬢 ルーシィ
+FT/S09-028 RRR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Magic 魔法,_Key 鍵
+Card Text/Abilities:
+【C】When you pay the cost for a 【S】 of your characters in hand or on stage, you may use a marker underneath this card as 1 Stock instead.
+【S】［Put 2 of your characters in STAND to REST］ When this card is placed on stage from hand, you may pay the cost. If you do, place the top card of your deck underneath this card as a marker.
+【S】［①］Choose 1 of your characters, during this turn, it gets +1000 Power.
+【永】あなたが自分の手札か舞台のキャラの【起】のコストを払うとき、このカードの下のマーカーを、ストック1枚のかわりに控え室に置いてよい。
+【自】［あなたのスタンドしているキャラを2枚レストする］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚をこのカードの下にマーカーとして置く。
+【起】［①］あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+でも･･もしママがまだ生きていたら･･
+あなたの好きな事をやりなさいって言ってくれると思うの
+
+==========================
+
+文学少女 ルーシィ
+FT/S09-029 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Magic 魔法,_Key 鍵
+Card Text/Abilities:
+【A】When this card attacks, if ［DEAR KABY］ is in the climax slot, during this turn, this card gets +3000 Power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【自】このカードがアタックした時、クライマックス置場にDEAR KABYがあるなら、そのターン中、このカードのパワーを＋3000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+アンタなんかサイテーよ････文学の敵だわ････！
+
+==========================
+
+まだまだ新人 ルーシィ
+FT/S09-030 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Magic 魔法,_Key 鍵
+Card Text/Abilities:
+【A】 CHANGE ［Discard 1 card to waiting room from hand, place this card in memory］At the start of your Encore Step, if this card is in REST, you may pay this cost. If you do, choose 1 「妖精の尻尾の魔導士 ルーシィ」 from your Waiting Room, place it into this card's previous slot.
+【自】 チェンジ ［手札を1枚控え室に置き、このカードを思い出にする］あなたのアンコールステップの始めに、このカードがレストしているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「妖精の尻尾の魔導士 ルーシィ」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+あの二人の面倒を見てっていわれても･･
+
+==========================
+
+まだまだ新人 ルーシィ
+FT/S09-030 SR
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Magic 魔法,_Key 鍵
+Card Text/Abilities:
+【A】 CHANGE ［Discard 1 card to waiting room from hand, place this card in memory］At the start of your Encore Step, if this card is in REST, you may pay this cost. If you do, choose 1 「妖精の尻尾の魔導士 ルーシィ」 from your Waiting Room, place it into this card's previous slot.
+【自】 チェンジ ［手札を1枚控え室に置き、このカードを思い出にする］あなたのアンコールステップの始めに、このカードがレストしているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「妖精の尻尾の魔導士 ルーシィ」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+あの二人の面倒を見てっていわれても･･
+
+==========================
+
+ハートフィリア家の娘 ルーシィHeartfilia's Princess Lucy
+FT/S09-031 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Magic 魔法,_Key 鍵
+Card Text/Abilities:
+【A】［(2)］When a climax is triggered at this card's trigger check, you may pay the cost. If you do,  search your deck for up to 1 《鍵》 character, place it in the back row in any slot. Shuffle your deck afterwards.
+【S】［(1)］Choose up to 1 Level 2 or below 《鍵》 character from hand, place it on stage in any slot. At the end of this turn, if that character is on stage, return it to hand.
+【自】［(2)］このカードのトリガーチェックでクライマックスがでた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル2以下の《鍵》のキャラを1枚まで選び、後列の好きな枠に置く。　その山札をシャッフルする。
+【起】［(1)］あなたは自分の手札のレベル2以下の《鍵》のキャラを1枚まで選び、舞台の好きな枠に置く。ターンの終わりに、そのキャラが舞台にいるなら、そのキャラを手札に戻す。
+Flavor Text:
+あ・・・・あんたたちがレビィちゃんたちを!!!
+
+==========================
+
+所有系魔導士 ルーシィ
+FT/S09-032 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Key 鍵
+Card Text/Abilities:
+【C】All your other 《鍵》 characters get +500 Power and 「【A】 ENCORE ［Discard 1 card to waiting room from hand］」.
+【C】 ALARM If this card is at the top of your clock, all your 《鍵》 characters get +1000 Power.
+【永】他のあなたの《鍵》のキャラすべてに、パワーを＋500し、「【自】 アンコール ［手札のキャラを1枚控え室に置く］」を与える。
+【永】 アラーム このカードがクロックの1番上にあるなら、あなたの《鍵》のキャラすべてに、パワーを＋1000。
+Flavor Text:
+ルーシィ「飛んだ!!」
+ハッピー「風の魔法だっ!!」
+
+==========================
+
+リサーナ
+FT/S09-033 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Animal 動物
+Card Text/Abilities:
+【A】［①］When this card is placed in waiting room from stage, you may pay the cost. If you do, place this card in memory.
+【自】［①］このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードを思い出にする。
+Flavor Text:
+この瞬間が永遠だったらいいのに
+
+==========================
+
+宝瓶宮のアクエリアス
+FT/S09-034 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Magic 魔法,_Key 鍵
+Card Text/Abilities:
+【A】When this card is placed on stage from hand or deck, all players take 1 damage.
+【自】このカードが、手札か山札から舞台に置かれた時、すべてのプレイヤーに1ダメージを与える。 (ダメージキャンセルは発生する)
+Flavor Text:
+しばらく呼ぶな。一週間彼氏と旅行に行く。彼氏とな
+
+==========================
+
+元・S級魔導士 ミラジェーン
+FT/S09-035 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Waitress ウェイトレ
+Card Text/Abilities:
+【S】［②］Choose 1 of your 《魔法》 characters, during this turn, it gets +4000 Power.
+【起】［②］あなたは自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋4000。
+Flavor Text:
+エルフマン････
+
+==========================
+
+指輪魔法　ロキRing Magic Roki
+FT/S09-036 U
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Magic 魔法,_Key 鍵
+Card Text/Abilities:
+【A】[Place 1 card in memory from hand]When this card is placed on stage from hand, you may pay the cost. If you do not, place this card in waiting room.
+【自】［手札のキャラを1枚思い出にする］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしないなら、このカードを控え室に置く。
+Flavor Text:
+
+==========================
+
+星霊魔導士 ルーシィStellar Spirit Mage Lucy
+FT/S09-037 U
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,_Key 鍵
+Card Text/Abilities:
+【C】Characters facing this card gets -1 Soul.
+【A】 RECOLLECTION If your memory has 4 or more cards, this card gains 「【A】 ENCORE [Discard 1 card from hand to Waiting Room]」.
+【A】 When the Climax 「強制閉門」 is placed on Stage, if this card is in the Front Row, during this turn, all your Characters get +3000 Power.
+【永】このカードの正面のキャラのソウルを－1。
+【自】 記憶 あなたの思い出が4枚以上なら、このカードは「【自】 アンコール [手札のキャラを1枚控え室に置く]」を得る。
+【自】あなたのクライマックス置場に「強制閉門」が置かれた時、前列にこのカードがいるなら、あなたのキャラすべてに、そのターン中、パワーを＋3000。
+Flavor Text:
+ここは 妖精の尻尾一の星霊魔導士、ルーシィ様にまかせて！
+
+==========================
+
+妖精の尻尾の看板娘 ミラジェーンIdol of Fairy Tail Mirajane
+FT/S09-038 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Waitress ウェイトレ
+Card Text/Abilities:
+【C】 SUPPORT All of your Characters in front of this card gets +500 Power.
+【A】 This ability can only be used 1 time per turn. When you use an 【S】, choose 1 of your Characters, during this turn, it gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【自】この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+あらぁ？ 新人さん？
+
+==========================
+
+“ビーストアーム”エルフマン
+FT/S09-039 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Magic 魔法,_Animal 動物
+Card Text/Abilities:
+【A】 BOND／「元・S級魔導士 ミラジェーン」 ［Place the top card of your deck in clock］ (When you place this card on stage from hand, you may pay the cost. If you do, choose 1 「元・S級魔導士 ミラジェーン」 from your waiting room and place it into your hand)
+【自】 絆／「元・S級魔導士 ミラジェーン」 ［あなたの山札の上から1枚をクロック置場に置く］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「元・S級魔導士 ミラジェーン」を1枚選び、手札に戻す)
+Flavor Text:
+ビーストアーム “黒牛”!!!!
+
+==========================
+
+ルーシィ・ハートフィリアLucy Heartfilia
+FT/S09-040 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Key 鍵
+Card Text/Abilities:
+【S】［REST 2 of your Characters］Choose 1 《鍵》 Character, during this turn, it gets +2000 Power.
+【起】［あなたのキャラを2枚レストする］あなたは自分の《鍵》のキャラを1枚選び、そのターン中、パワーを+2000。
+Flavor Text:
+精霊魔導師は契約、すなわち約束事を重視するの
+
+==========================
+
+大地のソル
+FT/S09-041 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Element エレメント
+Card Text/Abilities:
+【C】If you have 3 or more stock, this card gets +1000 Power.
+【永】あなたのストックが3枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+ノンノンノンノンノンノン!
+
+==========================
+
+メイド姿のルーシィ Maid Lucy
+FT/S09-042 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Key 鍵
+Card Text/Abilities:
+Flavor Text:
+あたしって何着ても似合っちゃうのよねえ
+
+==========================
+
+“  拳で語れ”エルフマン“Language of Fist” Elfman
+FT/S09-043 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Magic 魔法,_Animal 動物
+Card Text/Abilities:
+【S】［REST 2 of your Characters］ During this turn, this card gets +1000 Power.
+【起】［あなたのキャラを1枚レストする］そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+【起】［あなたのキャラを1枚レストする］そのターン中、このカードのパワーを＋1000。
+
+==========================
+
+ルーシィ＆ハッピー Lucy & Happy
+FT/S09-044 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Magic 魔法,_Key 鍵
+Card Text/Abilities:
+Flavor Text:
+ルーシィ「こう見えて色気にはちょっと自信あるのよ」
+ハッピー「ネコには判断できません」
+
+==========================
+
+処女宮のバルゴ Virgo
+FT/S09-045 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Key 鍵,_Maid メイド
+Card Text/Abilities:
+Flavor Text:
+お呼びでしょうか、ご主人様
+
+==========================
+
+門の鍵
+FT/S09-046 U
+Type: Event
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+●Choose 1 of your 《鍵》 characters, during this turn, it gets +2000 Power.
+●あなたは自分の《鍵》のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+
+==========================
+
+チェンジリングChangeling
+FT/S09-047 U
+Type: Event
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Search your deck for up to 1 character with 「CHANGE」, show it to your opponent and place it in your hand. Shuffle your deck afterwards.
+Place this card in memory.
+あなたは自分の山札を見て「 チェンジ 」を持つキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。このカードを思い出にする。
+Flavor Text:
+
+==========================
+
+星霊の力
+FT/S09-048 CR
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: S
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Bag：When this card is Triggered, you may take the top card of your deck, put to Stock.)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(袋：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい)
+Flavor Text:
+開け！！
+
+==========================
+
+DEAR KABY DEAR KABY
+FT/S09-049 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: G
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All of your Characters get +1000 Power, +1 Soul.
+(Gold：When this card is Triggered, put this card in your hand. You may put the top card of your deck to Stock)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(宝：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい)
+Flavor Text:
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(宝：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい)
+
+==========================
+
+強制閉門
+FT/S09-050 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card comes to Stage from hand, draw 1 card. Choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+
+==========================
+
+本能のままに生きるナツ
+FT/S09-051 RR
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+【A】When another of your battling characters become REVERSE, during this turn, this card gets +1000 Power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【自】他のあなたのバトル中のキャラがリバースした時、そのターン中、このカードのパワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+ルーシィ「本当････こいつって本能のままに生きてるのね」
+
+==========================
+
+本能のままに生きるナツ
+FT/S09-051 SR
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+【A】When another of your battling characters become REVERSE, during this turn, this card gets +1000 Power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【自】他のあなたのバトル中のキャラがリバースした時、そのターン中、このカードのパワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+ルーシィ「本当････こいつって本能のままに生きてるのね」
+
+==========================
+
+妖精の尻尾の魔導士 ナツFairy Tail's Mage Natsu
+FT/S09-052 RR
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+【A】This ability can be used up to 1 time per turn. When you use a 【起】, during this turn, this card gets +1000 Power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【自】この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+オレは 妖精の尻尾のナツだ!!!
+
+==========================
+
+妖精の尻尾の魔導士 ナツFairy Tail's Mage Natsu
+FT/S09-052 SP
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+【A】This ability can be used up to 1 time per turn. When you use a 【起】, during this turn, this card gets +1000 Power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【自】この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+オレは 妖精の尻尾のナツだ!!!
+
+==========================
+
+ナツ＆ハッピー
+FT/S09-053 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【C】All your other 《竜》 characters get +500 Power.
+【C】When you pay the cost for 【S】 of your characters in hand or on stage, you may use a marker underneath this card as 1 Stock instead.
+【S】［Put 2 of your characters in STAND to REST］ When this card is placed on stage from hand, you may pay the cost. If you do, place the top card of your deck underneath this card as a marker.
+【永】他のあなたの《竜》のキャラすべてに、パワーを＋500。
+【永】あなたが自分の手札か舞台のキャラの【起】のコストを払うとき、このカードの下のマーカーを、ストック1枚のかわりに控え室に置いてよい。
+【自】［あなたのスタンドしているキャラを2枚レストする］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。
+Flavor Text:
+ナツ「ありがとなっ!!!」
+
+==========================
+
+ナツ＆ハッピー
+FT/S09-053 SR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【C】All your other 《竜》 characters get +500 Power.
+【C】When you pay the cost for 【S】 of your characters in hand or on stage, you may use a marker underneath this card as 1 Stock instead.
+【S】［Put 2 of your characters in STAND to REST］ When this card is placed on stage from hand, you may pay the cost. If you do, place the top card of your deck underneath this card as a marker.
+【永】他のあなたの《竜》のキャラすべてに、パワーを＋500。
+【永】あなたが自分の手札か舞台のキャラの【起】のコストを払うとき、このカードの下のマーカーを、ストック1枚のかわりに控え室に置いてよい。
+【自】［あなたのスタンドしているキャラを2枚レストする］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。
+Flavor Text:
+ナツ「ありがとなっ!!!」
+
+==========================
+
+エルザ・スカーレット
+FT/S09-054 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【C】All your other cards with 「ルーシィ」 or 「ナツ」 or 「グレイ」 in its name get +500 Power.
+【A】This ability can be used up to 1 time per turn. When you use a 【S】, choose 1 character, during this turn, it gets +500 Power.
+【永】他のあなたのカード名に「ルーシィ」か「ナツ」か「グレイ」を含むキャラすべてに、パワーを＋500。
+【自】この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+
+==========================
+
+鉄竜のガジル
+FT/S09-055 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+【A】［①］When this card attacks, if 「鉄竜の咆哮」 is in the climax slot, you may pay the cost. If you do, choose 1 character in your waiting room, return it to hand.
+【S】［①］Choose 1 of your 《竜》 characters, during this turn, it gets +1500 Power.
+【自】［①］このカードがアタックした時、クライマックス置場に「鉄竜の咆哮」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+【起】［①］あなたは自分の《竜》のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+ギヒッ。鋼鉄の鱗は全ての攻撃を無力化する
+
+==========================
+
+ドラゴンの力 ナツ
+FT/S09-056 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+【C】 RECOLLECTION If there are 2 or more cards in your memory, this card gets +1500 Power.
+【A】［③］ When this card attacks, if ｢火竜の煌炎｣ is in the climax slot, you may pay the cost. If you do, choose 1 of your opponent's Level 2 or Below characters, place it on top of the deck.
+【永】 記憶 あなたの思い出が2枚以上なら、このカードのパワーを+1500。
+【自】［③］ このカードがアタックした時、クライマックス置き場に｢火竜の煌炎｣があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以下のキャラを1枚選び、山札の上に置く。
+Flavor Text:
+ハッピー｢滅竜魔法！イグニールがナツに教えたんだ｣
+
+==========================
+
+ドラゴンの力 ナツ
+FT/S09-056 RRR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+【C】 RECOLLECTION If there are 2 or more cards in your memory, this card gets +1500 Power.
+【A】［③］ When this card attacks, if ｢火竜の煌炎｣ is in the climax slot, you may pay the cost. If you do, choose 1 of your opponent's Level 2 or Below characters, place it on top of the deck.
+【永】 記憶 あなたの思い出が2枚以上なら、このカードのパワーを+1500。
+【自】［③］ このカードがアタックした時、クライマックス置き場に｢火竜の煌炎｣があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以下のキャラを1枚選び、山札の上に置く。
+Flavor Text:
+ハッピー｢滅竜魔法！イグニールがナツに教えたんだ｣
+
+==========================
+
+幽鬼の支配者最強の男 ガジル
+FT/S09-057 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+【S】［③］Search your deck for up to 1 climax, discard it to waiting room. Shuffle your deck afterwards. If you discarded 1, choose 1 of your opponent's Front Row Level 2 or below characters, place it on top of the deck.
+【起】［③］あなたは自分の山札を見てクライマックスを1枚まで選び、控え室に置く。その山札をシャッフルする。1枚控え室に置いたなら、あなたは相手の前列のレベル2以下のキャラを1枚選び、山札の上に置く。
+Flavor Text:
+やっと決着をつけれるな、 火竜
+
+==========================
+
+ガジル・レッドフォックス
+FT/S09-058 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+【A】 When this card becomes REVERSE, if the character battling this card is Level 0 or below, you may put that card to REVERSE.
+【自】 このカードがリバースした時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをリバースしてよい。
+Flavor Text:
+オレは手加減って言葉知らねぇからよォ
+
+==========================
+
+問題児 ナツProblem Child Natsu
+FT/S09-059 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+【A】If the Character facing this card is Level 3 or above, this card gets +7500 Power.
+【自】このカードの正面のキャラのレベルが3以上なら、このカードのパワーを＋7500。
+Flavor Text:
+やんのかコラァ!!
+
+==========================
+
+竜に育てられた少年 ナツ
+FT/S09-060 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+【S】［①］During this turn, this card gets +1000 Power and gains the following ability.「【A】When the character battling this card becomes REVERSE, you may place that character on top of the deck.」
+【起】［①］そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。「【自】このカードのバトル相手がリバースした時、あなたはそのキャラを山札の上に置いてよい。」
+Flavor Text:
+かかって来いっ!!!!
+
+==========================
+
+子供の頃のナツ＆ハッピー
+FT/S09-061 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+【A】 CHANGE ［① Discard 1 card to waiting room from hand, place this card in memory］At the start of your Encore Step, if this card is in REST, you may pay this cost. If you do, choose 1 「ドラゴンの力 ナツ」 from your Waiting Room, place it into this card's previous slot.
+【S】［Put this card to REST］ Choose 1 of your 《竜》 characters, during this turn, it gets +1000 Power.
+【自】 チェンジ ［① 手札を1枚控え室に置き、このカードを思い出にする］あなたのアンコールステップの始めに、このカードがレストしているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ドラゴンの力 ナツ」を1枚選び、このカードがいた枠に置く。
+【起】［このカードをレストする］あなたは自分の《竜》のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+ナツ「ドラゴンのハッピーだ」
+
+==========================
+
+炎の滅竜魔導士 ナツFire Dragon Slayer Natsu
+FT/S09-062 U
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+【C】If you have 2 or more 「火竜の咆哮」 in your Waiting Room, this card gets +2000 Power.
+【A】When this card comes to Stage from hand, take the top card of your Clock, put it into Waiting Room.
+【永】あなたの控え室の「火竜の咆哮」が2枚以上なら、このカードのパワーを+2000。
+【自】このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+Flavor Text:
+I am the Dragon Slayer of Fairy Tail!
+オレが妖精の尻尾の滅竜魔導士ドラゴンスレイヤーだぁ！
+
+==========================
+
+いつでも全力 ナツ
+FT/S09-063 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+【A】When this card becomes REVERSE in battle, choose 1 of your characters, during this turn, it gets +1000 Power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【自】バトル中のこのカードがリバースした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+いっくぞぉおぉぉっ！
+
+==========================
+
+ハッピー Happy
+FT/S09-064 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Animal 動物
+Card Text/Abilities:
+【S】［② REST this card］Choose 1 《竜》 Character from your Waiting Room, return it to hand.
+【起】［② このカードをレストする］あなたは自分の控え室の《竜》のキャラを1枚選び、手札に戻す。
+Flavor Text:
+あい！
+
+==========================
+
+ナツ・ドラグニエルNatsu Dragneel
+FT/S09-065 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+ナツの相棒 ハッピー
+FT/S09-066 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Magic 魔法,_Animal 動物
+Card Text/Abilities:
+【C】 SUPPORT All the characters in front of this card gain the following ability.「【A】When another of your characters become REVERSE in battle, during this turn, this card gets +1000 Power.」
+【A】 BOND／「炎の滅竜魔導士 ナツ」 ［①］ (When you place this card on stage from hand, you may pay the cost. If you do, choose 1 「炎の滅竜魔導士 ナツ」 from your waiting room and place it into your hand)
+【永】 応援 このカードの前のあなたのキャラすべてに次の能力を与える。「【自】他のあなたのバトル中のキャラがリバースした時、そのターン中、このカードのパワーを＋1000。」
+【自】 絆／「炎の滅竜魔導士 ナツ」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「炎の滅竜魔導士 ナツ」を1枚選び、手札に戻す)
+Flavor Text:
+あい。さすが 火竜のナツだね
+
+==========================
+
+若き竜 ナツ Young Dragon Natsu
+FT/S09-067 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+【S】● ASSIST 1500 Level 1 ［① Discard this card from hand to Waiting Room］ (Choose 1 character that is being Front Attacked, during this turn, it gets +1500 Power.)
+【起】● 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500)
+Flavor Text:
+負けたくれぇでぐじぐじしてんじゃねえ！
+
+==========================
+
+意外に冷静 ナツ
+FT/S09-068 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+Flavor Text:
+どうだ!!!　ハッピー!!!
+
+==========================
+
+大火の兎兎丸
+FT/S09-069 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 9500
+Soul: 1
+Traits:: Magic 魔法,_Element エレメント
+Card Text/Abilities:
+【A】［Discard 1 card to waiting room from hand］When this card is placed on stage from hand, you may pay the cost. If you do not, place this card in waiting room.
+【自】［手札のキャラを1枚控え室に置く］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしないなら、このカードを控え室に置く。
+Flavor Text:
+全ての炎は私によって制御される
+
+==========================
+
+鉄の滅龍魔道士  ガジル Metal Dragon Slayer Gazille
+FT/S09-070 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+Flavor Text:
+鉄の 滅龍魔道士、ガジル様が相手だ！
+
+==========================
+
+S級クエスト S-Rank Quest
+FT/S09-071 U
+Type: Event
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose up to 2 of your Characters, during this turn, they gain the following ability.
+『【A】［①］When the Character battling this card becomes REVERSE, you may pay this cost. If you do, choose 1 Character from your Waiting Room, return it to hand.』
+あなたは自分のキャラを2枚まで選び、そのターン中、次の能力を与える。
+『【自】［①］このカードのバトル相手がリバースした時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。』
+Flavor Text:
+Natsu「Lucy!Lets do a S rank quest!」
+ナツ「S級クエスト行くぞ！ルーシィ」
+
+==========================
+
+ドラゴンの卵Dragon Egg
+FT/S09-072 U
+Type: Event
+Level: 1
+Color: Red
+Cost: 3
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+You may choose 1 climax from hand, place into waiting room. If you do, choose 1 Level 2 or Below character with 『CHANGE』 from your waiting room, place it on stage in any slot.
+あなたは自分の手札のクライマックスを1枚選び、控え室に置いてよい。そうしたら、あなたは自分の控え室のレベル2以下の『チェンジ』を持つキャラを1枚選び、舞台の好きな枠に置く。
+Flavor Text:
+ナツ「見ろよ。この辺の模様とか竜の爪みてーだし」
+
+==========================
+
+火竜の煌炎
+FT/S09-073 CR
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When this card is triggered, choose 1 Character from your waiting room, return to hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(扉：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+
+==========================
+
+火竜の咆哮The Roar of Fire Dragon
+FT/S09-074 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card comes to Stage from hand, take the top card of your deck and put to Stock. All your Characters, during this turn, gets +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+
+==========================
+
+鉄竜の咆哮
+FT/S09-075 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card comes to Stage from hand, draw 1 card. Choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置き場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+
+==========================
+
+ジュビア・ロクサー Juvia Loxar
+FT/S09-076 RR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Love 愛
+Card Text/Abilities:
+【A】When this card is placed on stage from hand, look at the top card of your deck, place it on top or at the bottom of your deck.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【自】このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+ジュビアの体は水でできているの
+
+==========================
+
+ジュビア・ロクサー Juvia Loxar
+FT/S09-076 SR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Love 愛
+Card Text/Abilities:
+【A】When this card is placed on stage from hand, look at the top card of your deck, place it on top or at the bottom of your deck.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【自】このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+ジュビアの体は水でできているの
+
+==========================
+
+グレイ・フルバスター Gray Fulbuster
+FT/S09-077 RR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Magic 魔法,_Ice 氷
+Card Text/Abilities:
+【C】 RECOLLECTION  If 「グレイの師匠 ウル」 is in memory, this card gets +1500 Power.
+【A】［②］When this card attacks, if 「氷欠泉」is in the climax slot, you may pay the cost. If you do, choose 1 of your opponent's Level 1 or below characters, place it at the bottom of the deck.
+【永】 記憶  あなたの思い出置き場に「グレイの師匠 ウル」があるなら、このカードのパワーを+1500。
+【起】［②］このカードがアタックした時、クライマックス置き場に「氷欠泉」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル1以下のキャラを1枚選び、山札の下に置く。
+Flavor Text:
+Ice Make-
+アイスメイク―――
+
+==========================
+
+グレイ・フルバスター Gray Fulbuster
+FT/S09-077 RRR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Magic 魔法,_Ice 氷
+Card Text/Abilities:
+【C】 RECOLLECTION  If 「グレイの師匠 ウル」 is in memory, this card gets +1500 Power.
+【A】［②］When this card attacks, if 「氷欠泉」is in the climax slot, you may pay the cost. If you do, choose 1 of your opponent's Level 1 or below characters, place it at the bottom of the deck.
+【永】 記憶  あなたの思い出置き場に「グレイの師匠 ウル」があるなら、このカードのパワーを+1500。
+【起】［②］このカードがアタックした時、クライマックス置き場に「氷欠泉」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル1以下のキャラを1枚選び、山札の下に置く。
+Flavor Text:
+Ice Make-
+アイスメイク―――
+
+==========================
+
+ウルの弟子 グレイ Ur's Student Gray
+FT/S09-078 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Ice 氷
+Card Text/Abilities:
+【A】 BOND／「グレイの師匠 ウル」 ［①］ (When you place this card on stage from hand, you may pay the cost. If you do, choose 1 「グレイの師匠 ウル」 from your waiting room and place it into your hand)
+【S】［①］Choose 1 of your 《氷》 characters, during this turn, it gets +1000 Power.
+【自】 絆／「グレイの師匠 ウル」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「グレイの師匠 ウル」を1枚選び、手札に戻す)
+【起】［①］あなたは自分の《氷》のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+オレはウルの言葉を信じただけさ
+
+==========================
+
+ウルの弟子 グレイ Ur's Student Gray
+FT/S09-078 SR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Ice 氷
+Card Text/Abilities:
+【A】 BOND／「グレイの師匠 ウル」 ［①］ (When you place this card on stage from hand, you may pay the cost. If you do, choose 1 「グレイの師匠 ウル」 from your waiting room and place it into your hand)
+【S】［①］Choose 1 of your 《氷》 characters, during this turn, it gets +1000 Power.
+【自】 絆／「グレイの師匠 ウル」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「グレイの師匠 ウル」を1枚選び、手札に戻す)
+【起】［①］あなたは自分の《氷》のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+オレはウルの言葉を信じただけさ
+
+==========================
+
+“ウルの教え”グレイ
+FT/S09-079 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Magic 魔法,_Ice 氷
+Card Text/Abilities:
+【C】 RECOLLECTION If 「グレイの師匠 ウル」 is in memory, this card gets +2000 Power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【永】 記憶 あなたの思い出置場に「グレイの師匠 ウル」があるなら、このカードのパワーを＋2000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+ウルの教えだろ。片手の造形は不完全でバランスもよくねえ
+
+==========================
+
+グレイの師匠 ウル Gray's Teacher Ur
+FT/S09-080 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Ice 氷
+Card Text/Abilities:
+【A】When you use this card's 「ASSIST」, if you have 2 or more 《氷》 characters, you may choose 1 「グレイの師匠 ウル」 from your waiting room, place it in memory.
+【S】● ASSIST 2000 Level 1 ［Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +2000 Power)
+【自】あなたがこのカードの「 助太刀 」を使った時、あなたの《氷》のキャラが2枚以上なら、あなたは自分の控え室の「グレイの師匠 ウル」を1枚選び、思い出にしてよい。
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000)
+Flavor Text:
+お前の闇は私が封じよう
+
+==========================
+
+脱ぎ癖 グレイ
+FT/S09-081 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Magic 魔法,_Ice 氷
+Card Text/Abilities:
+【A】［② Discard 1 card to waiting room from hand, move this card to Memory］At the start of your Encore Step, if this card is in REST, you may pay this cost. If you do, choose 1 「妖精の尻尾の魔導士 グレイ」 from your Waiting Room, place it into this card's previous slot.
+【S】［①］Draw 1 card, choose 1 card from your hand, place it in waiting room.
+【自】 チェンジ ［① 手札を1枚控え室に置き、このカードを思い出にする］あなたのアンコールステップの始めに、このカードがレストしているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「妖精の尻尾の魔導士 グレイ」を1枚選び、このカードがいた枠に置く。
+【起】［①］あなたは1枚引き、自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+お！やっと晴れたか
+
+==========================
+
+妖精の尻尾の魔導士 グレイ
+FT/S09-082 R
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,_Ice 氷
+Card Text/Abilities:
+【A】 RECOLLECTION During your opponent's turn, if there are 2 or more cards in your memory, this card gets +1500 Power.
+【A】When this card is placed on stage from hand or by 「CHANGE」, you may place the top card of your clock into the waiting room.
+【自】 記憶 相手のターン中、あなたの思い出が2枚以上なら、このカードのパワーを＋1500。
+【自】このカードが手札から舞台に置かれた時か「 チェンジ 」で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+Flavor Text:
+で････まだやんのかい？
+
+==========================
+
+妖精の尻尾の魔導士 グレイ
+FT/S09-082 RRR
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,_Ice 氷
+Card Text/Abilities:
+【A】 RECOLLECTION During your opponent's turn, if there are 2 or more cards in your memory, this card gets +1500 Power.
+【A】When this card is placed on stage from hand or by 「CHANGE」, you may place the top card of your clock into the waiting room.
+【自】 記憶 相手のターン中、あなたの思い出が2枚以上なら、このカードのパワーを＋1500。
+【自】このカードが手札から舞台に置かれた時か「 チェンジ 」で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+Flavor Text:
+で････まだやんのかい？
+
+==========================
+
+大海のジュビア
+FT/S09-083 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Element エレメント
+Card Text/Abilities:
+【C】When you pay the cost for 【S】 of your characters in hand or on stage, you may use a marker underneath this card as 1 Stock instead.
+【C】During your opponent's turn, all your other characters get +500 Power.
+【S】［Put 2 of your characters in STAND to REST］ When this card is placed on stage from hand, you may pay the cost. If you do, place the top card of your deck underneath this card as a marker.
+【永】あなたが自分の手札か舞台のキャラの【起】のコストを払うとき、このカードの下のマーカーを、ストック1枚のかわりに控え室に置いてよい。
+【永】相手のターン中、他のあなたのキャラすべてに、パワーを＋500。
+【自】［あなたのスタンドしているキャラを2枚レストする］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。
+Flavor Text:
+ジュビアはエレメント4の一人にして雨女
+
+==========================
+
+恋する乙女 ジュビア
+FT/S09-084 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Love 愛
+Card Text/Abilities:
+【C】 ALARM If this card is at the top of your clock, if you have 4 or more 《愛》 or 《氷》 characters, at the start of your climax phase, search your deck for up to 1 《愛》 or 《氷》 character, show it to your opponent and place it in your hand. Shuffle your deck afterwards.
+【永】 アラーム このカードがクロックの1番上にあり、あなたの《愛》か《氷》のキャラが4枚以上なら、あなたのクライマックスフェイズの始めに、あなたは自分の山札を見て《愛》か《氷》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+はぁ････ジュビア････
+どうしちゃったのかしら････この胸のドキドキは････
+
+==========================
+
+ナツの喧嘩仲間 グレイ
+FT/S09-085 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Magic 魔法,_Ice 氷
+Card Text/Abilities:
+Flavor Text:
+ケガしても文句言うなよ!!!
+
+==========================
+
+決意のグレイ
+FT/S09-086 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Magic 魔法,_Ice 氷
+Card Text/Abilities:
+【A】［Place 1 card in memory from hand］When this card is placed on stage from hand, you may pay the cost. If you do not, place this card in waiting room.
+【A】［①］When this card attacks, if 「氷雪砲」 is in the climax slot, you may pay the cost. If you do, draw 1 card.
+【自】［手札のキャラを1枚思い出にする］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしないなら、このカードを控え室に置く。
+【自】［①］このカードがアタックした時、クライマックス置き場に「氷雪砲」があるなら、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。
+Flavor Text:
+デリオラはオレが封じる!!!!
+
+==========================
+
+“ウルの涙”ウルティア“Ur's Tears” Ultear
+FT/S09-087 U
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 3500
+Soul: 1
+Traits:: Magic 魔法,_Time 時間
+Card Text/Abilities:
+【C】SUPPORT All the characters in front of this card get +X Power. X is equal to that Character's Level x 500.
+【S】［Choose 1 of your other characters and place it in waiting room, put this card to REST］Draw up to 2 cards, choose 2 cards from hand, place them in waiting room.
+【永】応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。
+【起】［他のあなたの舞台のキャラを1枚控え室に置き、このカードをレストする］あなたは2枚まで引き、自分の手札を2枚選び、控え室に置く。
+Flavor Text:
+たった４、５人でギルド一つを潰しちゃうんだもん、すごいわね
+
+==========================
+
+リオンの弟弟子 グレイ
+FT/S09-088 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Magic 魔法,_Ice 氷
+Card Text/Abilities:
+【A】This skill can be used up to 1 time per turn. When you use a 【起】, choose 1 of your characters, during this turn, it gets + 1000 Power.
+【自】この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+こいつとのケジメはオレにつけさせてくれ
+
+==========================
+
+零帝 リオン
+FT/S09-089 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Magic 魔法,_Ice 氷
+Card Text/Abilities:
+【A】［② Place this card in memory］When this card becomes REVERSE in battle, you may pay the cost. If you do, search your deck for up to 1 「妖精の尻尾の魔導士 グレイ」, show it to your opponent and place it into your hand. Shuffle your deck afterwards.
+【自】［② このカードを思い出にする］バトル中のこのカードがリバースした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「妖精の尻尾の魔導士 グレイ」を1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+だからオレは氷をとかす。塞がれた道を歩き出す為に
+
+==========================
+
+“新しい目標”グレイ
+FT/S09-090 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Ice 氷
+Card Text/Abilities:
+【C】If you have 2 or more other 《氷》 or 《竜》 characters, this card gets +1500 Power.
+【永】他のあなたの《氷》か《竜》のキャラが2枚以上なら、このカードのパワーを＋1500。
+Flavor Text:
+生き死にだけが決着の全てじゃねえだろ？
+
+==========================
+
+カナ・アルベローナ
+FT/S09-091 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Fortune Telling 占い
+Card Text/Abilities:
+【C】Your other card in the center of the front row gains 「【A】 ENCORE ［Discard 1 card to waiting room from hand］」.
+【永】他のあなたの前列の中央の枠のキャラに、「【自】 アンコール ［手札のキャラを1枚控え室に置く］」を与える。
+Flavor Text:
+大丈夫よ エルフマンは戦える････
+
+==========================
+
+氷の魔法 グレイ
+FT/S09-092 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Ice 氷
+Card Text/Abilities:
+Flavor Text:
+キズなんてどこに増えようがかまわねえんだ。
+目に見える方はな
+
+==========================
+
+魔法の札 カナ
+FT/S09-093 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Fortune Telling 占い
+Card Text/Abilities:
+【C】 SUPPORT During your opponent's turn, all the characters in front of this card get +1 Level and +500 Power.
+【A】When this card is placed on stage from hand, you may look at up to the top 2 cards of your deck, place them on top of your deck in any order.
+【永】 応援 相手のターン中、このカードの前のあなたのキャラすべてに、レベルを＋1し、パワーを＋500。
+【自】このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。
+Flavor Text:
+ギルドは何としても守るんだよ!!!
+
+==========================
+
+若き評議員 ジークレイン
+FT/S09-094 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+Flavor Text:
+あんなバカ達がいないと･･この世界は面白くない
+
+==========================
+
+ファントムの魔導士 ジェビア
+FT/S09-095 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Magic 魔法,_Love 愛
+Card Text/Abilities:
+【A】When this card attacks, if 「水流拘束」 is in the climax slot, choose 1 of your opponent's level 3 or below characters. That card cannot stand at your opponent's next Stand Phase.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【自】このカードがアタックした時、クライマックス置場に「水流拘束」があるなら、あなたは相手のレベル3以下のキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズにスタンドしない。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+しんしんと･･
+
+==========================
+
+月の雫
+FT/S09-096 U
+Type: Event
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Search your deck for up to 1 Level 3 or above character, show it to your opponent and place it in your hand. Shuffle your deck afterwards.
+You may place the top card of your clock into the waiting room. Place this card in Memory.
+あなたは自分の山札を見てレベル3以上のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+あなたは自分のクロックの上から1枚を、控え室に置いてよい。このカードを思い出にする。
+Flavor Text:
+「一つに収束された月の魔力は、
+いかなる魔法をも解除する力を持っているの」
+
+==========================
+
+悪魔の宴
+FT/S09-097 U
+Type: Event
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Draw 1 card, choose 1 of your characters, during this turn, it gets +2000 Power. Place this card in memory.
+あなたは1枚まで引き、自分のキャラを1枚選び、そのターン中、パワーを+2000。このカードを思い出にする。
+Flavor Text:
+ナツ「悪魔ってより、天使みてーだな」
+
+==========================
+
+氷欠泉
+FT/S09-098 CR
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Book：When this card is triggered, you may draw 1 card)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(本：このカードがトリガーした時、あなたは1枚引いてよい)
+Flavor Text:
+
+==========================
+
+氷雪砲
+FT/S09-099 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを+2。
+Flavor Text:
+
+==========================
+
+水流拘束
+FT/S09-100 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card comes to Stage from hand, draw 1 card. Choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置き場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+ジュビアの水流拘束は決して破られない
+
+==========================
+
+キュートな星霊使い♡ ルーシィ Cute Stellar Spirit Mage♡ Lucy
+FT/S09-101 TD
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Key 鍵
+Card Text/Abilities:
+【C】 All your other 《魔法》 Characters get +500 Power.
+【S】［①］Choose 1 of your Characters, during this turn, it gets +1500 Power.
+【永】他のあなたの《魔法》のキャラすべてに、パワーを＋500。
+【起】［①］あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+あたしは星霊魔導師よ
+
+==========================
+
+鎧の魔導士 エルザThe Armored Wizard Erza
+FT/S09-102 TD
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【A】ENCORE [Put the top card of your deck into Clock] (When this card is put to Waiting Room from Stage, you may pay this cost. If so, return this card in REST to it's previous slot.)
+【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+今戻った。 マスターはおられるか
+
+==========================
+
+炎の魔導士 ナツ Wizard of Fire Natsu
+FT/S09-103 TD
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+Flavor Text:
+かかって来いっ!!!!
+
+==========================
+
+ハッピーが生まれた日 The Birth of Happy
+FT/S09-104 TD
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+ルーシィ「なんだろ、この絵」
+
+==========================
+
+氷の造形魔導士 グレイ Wizard of Ice Maker Gray
+FT/S09-105 TD
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Ice 氷
+Card Text/Abilities:
+【S】［②］During this turn, this card gets +5000 Power.
+【起】［②］そのターン中、このカードのパワーを＋5000。
+Flavor Text:
+氷の魔法さ
+
+==========================
+
+星霊の導き ルーシィThe Guide of Stellar Spirit Lucy
+FT/S09-106 PR
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Magic 魔法,_Key 鍵
+Card Text/Abilities:
+【S】［①］ Choose 1 of your 《魔法》 Characters, during this turn, it gets +1500 Power.
+【起】［①］ あなたは自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+まかせて。きっとうまくいくから
+
+==========================
+
+感情の炎 ナツFlame of Emotion Natsu
+FT/S09-107 PR
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+【S】［Discard 1 Climax into Waiting Room from hand］ During this turn, this card gets +4000 Power.
+【起】［手札のクライマックスを1枚控え室に置く］そのターン中、このカードのパワーを＋4000。
+Flavor Text:
+戦う勇気がねえなら手ェ出すんじゃねえ！！！！
+
+==========================
+
+愛玩星霊 プルー
+FT/S09-108 PR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Key 鍵,_Animal 動物
+Card Text/Abilities:
+【S】［Put this card to REST］ Choose 1 of your 《鍵》 character, during this turn, it gets +1000 power.
+【起】［このカードを【レスト】する］あなたは自分の《鍵》のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+プーン！！
+
+==========================
+
+化猫の宿の魔導師 ウェンディ
+FT/S09-109 PR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+【A】 When this card comes to stage from hand, choose 1 of your other 《魔法》 character, during this turn, it gets +1000 power.
+【S】[(2) Put this card to REST] Place the top card of your Clock into Waiting Room.
+【自】このカードが手札から舞台に置かれた時、あなたは他の自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋1000。
+【起】[(2) このカードを【レスト】する] あなたは自分のクロックの上から1枚を、控え室に置く。
+Flavor Text:
+化猫の宿から来ましたウェンディです。 よろしくお願いします!!
+
+==========================
+
+ナツ＆ルーシィ＆ハッピー
+FT/S09-110 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+【A】 Your other characters becomes REVERSED from battle, during this turn, this card gets +1000 power.
+【自】 他のあなたのバトル中のキャラが【リバース】した時、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+ナツ「Come and get me!!!」
+
+==========================
+
+“ギャングスター”ナツ
+FT/S09-111 PR
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+【A】This ability can be used up to 2 time per turn. When you use a 【起】, during this turn, this card gets +1000 Power.
+【自】この能力は1ターンにつき2回まで発動する。 あなたが【起】を使った時、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+おまえにオレ様が止められるかな
+
+==========================
+
+“ギャングスター”ルーシィ
+FT/S09-112 PR
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Magic 魔法,_Key 鍵
+Card Text/Abilities:
+【S】[(1)] Choose 1 of your character, during this turn, it gets +1500 power.
+【起】[(1)] あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+作戦通りだわ
+
+==========================
+
+妖精の尻尾の看板娘 ミラジェーンIdol of Fairy Tail Mirajane
+FT/S09-T01 TD
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Waitress ウェイトレ
+Card Text/Abilities:
+【C】 SUPPORT All of your Characters in front of this card gets +500 Power.
+【A】 This ability can only be used 1 time per turn. When you use an 【S】, choose 1 of your Characters, during this turn, it gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【自】この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+あらぁ？ 新人さん？
+
+==========================
+
+ルーシィ・ハートフィリアLucy Heartfilia
+FT/S09-T02 TD
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Key 鍵
+Card Text/Abilities:
+【S】［REST 2 of your Characters］Choose 1 《鍵》 Character, during this turn, it gets +2000 Power.
+【起】［あなたのキャラを2枚レストする］あなたは自分の《鍵》のキャラを1枚選び、そのターン中、パワーを+2000。
+Flavor Text:
+精霊魔導師は契約、すなわち約束事を重視するの
+
+==========================
+
+メイド姿のルーシィ Maid Lucy
+FT/S09-T03 TD
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Key 鍵
+Card Text/Abilities:
+Flavor Text:
+あたしって何着ても似合っちゃうのよねえ
+
+==========================
+
+“  拳で語れ”エルフマン“Language of Fist” Elfman
+FT/S09-T04 TD
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Magic 魔法,_Animal 動物
+Card Text/Abilities:
+【S】［REST 2 of your Characters］ During this turn, this card gets +1000 Power.
+【起】［あなたのキャラを1枚レストする］そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+【起】［あなたのキャラを1枚レストする］そのターン中、このカードのパワーを＋1000。
+
+==========================
+
+ルーシィ＆ハッピー Lucy & Happy
+FT/S09-T05 TD
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Magic 魔法,_Key 鍵
+Card Text/Abilities:
+Flavor Text:
+ルーシィ「こう見えて色気にはちょっと自信あるのよ」
+ハッピー「ネコには判断できません」
+
+==========================
+
+処女宮のバルゴ Virgo "the Virgin"
+FT/S09-T06 TD
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Key 鍵,_Maid メイド
+Card Text/Abilities:
+Flavor Text:
+お呼びでしょうか、ご主人様
+
+==========================
+
+DEAR KABY DEAR KABY
+FT/S09-T07 TD
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: G
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All of your Characters get +1000 Power, +1 Soul.
+(Gold：When this card is Triggered, put this card in your hand. You may put the top card of your deck to Stock)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(宝：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい)
+Flavor Text:
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(宝：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい)
+
+==========================
+
+ハッピー Happy
+FT/S09-T08 TD
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Animal 動物
+Card Text/Abilities:
+【S】［② REST this card］Choose 1 《竜》 Character from your Waiting Room, return it to hand.
+【起】［② このカードをレストする］あなたは自分の控え室の《竜》のキャラを1枚選び、手札に戻す。
+Flavor Text:
+あい！
+
+==========================
+
+ナツ・ドラグニエルNatsu Dragneel
+FT/S09-T09 TD
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+若き竜 ナツ Young Dragon Natsu
+FT/S09-T10 TD
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+【S】● ASSIST 1500 Level 1 ［① Discard this card from hand to Waiting Room］ (Choose 1 character that is being Front Attacked, during this turn, it gets +1500 Power.)
+【起】● 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500)
+Flavor Text:
+負けたくれぇでぐじぐじしてんじゃねえ！
+
+==========================
+
+鉄の滅龍魔道士  ガジル Metal Dragon Slayer Gazille
+FT/S09-T11 TD
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+Flavor Text:
+鉄の 滅龍魔道士、ガジル様が相手だ！
+
+==========================
+
+炎の滅竜魔導士 ナツFire Dragon Slayer Natsu
+FT/S09-T12 TD
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+【C】If you have 2 or more 「火竜の咆哮」 in your Waiting Room, this card gets +2000 Power.
+【A】When this card comes to Stage from hand, take the top card of your Clock, put it into Waiting Room.
+【永】あなたの控え室の「火竜の咆哮」が2枚以上なら、このカードのパワーを+2000。
+【自】このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+Flavor Text:
+I am the Dragon Slayer of Fairy Tail!
+オレが妖精の尻尾の滅竜魔導士ドラゴンスレイヤーだぁ！
+
+==========================
+
+S級クエスト S-Rank Quest
+FT/S09-T13 TD
+Type: Event
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose up to 2 of your Characters, during this turn, they gain the following ability.
+『【A】［①］When the Character battling this card becomes REVERSE, you may pay this cost. If you do, choose 1 Character from your Waiting Room, return it to hand.』
+あなたは自分のキャラを2枚まで選び、そのターン中、次の能力を与える。
+『【自】［①］このカードのバトル相手がリバースした時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。』
+Flavor Text:
+Natsu「Lucy!Lets do a S rank quest!」
+ナツ「S級クエスト行くぞ！ルーシィ」
+
+==========================
+
+火竜の咆哮The Roar of Fire Dragon
+FT/S09-T14 TD
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card comes to Stage from hand, take the top card of your deck and put to Stock. All your Characters, during this turn, gets +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+
+==========================
+

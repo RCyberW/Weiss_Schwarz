@@ -1,0 +1,2400 @@
+謎多き少女シリルGirl With Many Mysteries Cyrille
+SE/S04-001 RR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【A】［①］When this card attacks, if 「シリルの想い」 is in your climax slot, you may pay the cost. If you do, search your Deck for up to 1 「シリルの想い」, show it to your opponent and place it into your hand. Shuffle your Deck afterwards.
+【自】［(1)］ このカードがアタックした時、クライマックス置場に「シリルの想い」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「シリルの想い」を1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+【自】 このカードの与えたダメージがキャンセルされた時、そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+ええ、わかったわ……
+
+==========================
+
+謎多き少女シリルGirl With Many Mysteries Cyrille
+SE/S04-001 SR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【A】［①］When this card attacks, if 「シリルの想い」 is in your climax slot, you may pay the cost. If you do, search your Deck for up to 1 「シリルの想い」, show it to your opponent and place it into your hand. Shuffle your Deck afterwards.
+【自】［①］ このカードがアタックした時、クライマックス置場に「シリルの想い」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「シリルの想い」を1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+【自】 このカードの与えたダメージがキャンセルされた時、そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+ちょっと考えごと……
+
+==========================
+
+トウマ＆ゼナスTouma & Zenas
+SE/S04-002 RR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Weapon 武器,_Animal 動物
+Card Text/Abilities:
+【A】［(3)］ When this card is front attacked, you may pay the cost. If you do, return this card to your hand, choose 1 「ウィッチハットのシリル」 from your hand and place it onto this card's previous slot as the defending character.
+【自】［(3)］ このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたはこのカードを手札に戻し、自分の手札の「ウィッチハットのシリル」を1枚選び、このカードがいた枠に防御キャラとして置く。
+Flavor Text:
+トウマ「オレは王様になりたいんだ。どうしたらいいか教えてくれよ、ゼナス」
+
+==========================
+
+アウトロー トウマOutlaw Touma
+SE/S04-003 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【C】 If you have another 『SUPPORT』 Character on stage, this card gets +2000 Power.
+【永】 他のあなたの『応援』を持つキャラがいるなら、このカードのパワーを＋2000。
+Flavor Text:
+そんなふうにシリルに言われると、なんか居心地が悪りぃなぁ……
+
+==========================
+
+野生児トウマWild Child Touma
+SE/S04-004 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Weapon 武器,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card front attacks, If 「ＶＳイノブタ」 is in your climax slot, if the character battling this card is a higher level, during this turn, all your characters get +1 Soul.
+【自】 このカードがフロントアタックした時、クライマックス置場に「ＶＳイノブタ」があり、このカードとバトルしているキャラのレベルがこのカードのレベルより低いなら、あなたのキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+今日の晩メシはイノブタ鍋だ！
+
+==========================
+
+野生児トウマWild Child Touma
+SE/S04-004 SR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Weapon 武器,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card front attacks, If 「ＶＳイノブタ」 is in your climax slot, if the character battling this card is a higher level, during this turn, all your characters get +1 Soul.
+【自】 このカードがフロントアタックした時、クライマックス置場に「ＶＳイノブタ」があり、このカードとバトルしているキャラのレベルがこのカードのレベルより低いなら、あなたのキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+やったね！楽勝ッ！！
+
+==========================
+
+ケンタウロスの騎士ガドフォールCentaur Knight Gadfort
+SE/S04-005 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Animal 動物,_Weapon 武器
+Card Text/Abilities:
+【C】 SUPPORT All your 《武器》 Characters in front of this card get +1 Level, +500 Power.
+【S】 [Put this card to REST] choose 1 of your Characters, during this turn, it gets 《武器》.
+【永】 応援 このカードの前のあなたの《武器》のキャラすべてに、レベルを＋1し、パワーを＋500。
+【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、《武器》を与える。
+Flavor Text:
+たとえ、どこに真実があろうとも、世界を滅ぼすことはできん
+
+==========================
+
+ウィッチハットのシリルWitch Hat Cyrille
+SE/S04-006 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【C】 If you have 2 or less other characters, this card gets +2000 Power.
+【永】 他のあなたのキャラが2枚以下なら、このカードのパワーを＋2000。
+Flavor Text:
+３人で戦えば、そう簡単にやられたりしない！
+
+==========================
+
+選ばれし者トウマThe Chosen One Touma
+SE/S04-007 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Weapon 武器,_Weapon 武器
+Card Text/Abilities:
+【C】 If the character battling this card is a lower level, this card gets +1000 Power.
+【A】 When this card attacks, if 「聖剣シャイニングフォース」 is in your climax slot, you may choose 1 of your opponent's characters and return it to hand.
+【永】 このカードのバトル中、このカードとバトルしているキャラのレベルがこのカードのレベルより低いなら、このカードのパワーを＋1000。
+【自】 このカードがアタックした時、クライマックス置場に「聖剣シャイニングフォース」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。
+Flavor Text:
+俺は王になりたい……この世界の王に……
+
+==========================
+
+選ばれし者トウマThe Chosen One Touma
+SE/S04-007 RRR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【C】 If the character battling this card is a lower level, this card gets +1000 Power.
+【A】 When this card attacks, if 「聖剣シャイニングフォース」 is in your climax slot, you may choose 1 of your opponent's characters and return it to hand.
+【永】 このカードのバトル中、このカードとバトルしているキャラのレベルがこのカードのレベルより低いなら、このカードのパワーを＋1000。
+【自】 このカードがアタックした時、クライマックス置場に「聖剣シャイニングフォース」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。
+Flavor Text:
+あんなバカげた戦争で人が死んでくのは、もうイヤなんだ！
+
+==========================
+
+シリル＆ジラCyrille & Zhirra
+SE/S04-008 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Book 本,_Animal 動物
+Card Text/Abilities:
+【A】［②］ When this card is placed on stage from hand, you may pay the cost. If you do, search your deck for a character with 『SUPPORT』, show it to your opponent the place it into your hand. Shuffle your deck afterwards.
+【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て『応援』を持つキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+ジラ「どうすんの、シリル？」
+
+==========================
+
+“騎士道”ガドフォール"Chivalry" Gadfort
+SE/S04-009 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Animal 動物,_Weapon 武器
+Card Text/Abilities:
+【S】［②］ Choose 1 of your characters, during this turn, it gets +2000 Power, +1 Soul.
+【起】［②］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+ワシは、騎士の信念を貫き、正義を世に示すための力がほしい……！
+
+==========================
+
+仲良し シリル＆ジラClose Friends Cyrille & Zhirra
+SE/S04-010 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 6500
+Soul: 1
+Traits:: Book 本,_Book 本
+Card Text/Abilities:
+【A】 When you place this card on stage from hand, choose 2 of your characters in STAND, put them to REST.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分の【スタンド】しているキャラを2枚選び、【レスト】する。
+Flavor Text:
+ジラ「アタシは友だちのつもりなんだけど」
+
+==========================
+
+伝説の英雄アバロンLegendary Hero Avalon
+SE/S04-011 U
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Weapon 武器,_Undead 不死
+Card Text/Abilities:
+【A】 When this card is placed on stage, you may choose 3 「伝説の英雄アバロン」 from your hand and place them into the waiting room. If you do, draw 3 cards. If you do not, place this card into the waiting room.
+【自】 このカードが舞台に置かれた時、あなたは自分の手札の「伝説の英雄アバロン」を3枚選び、控え室に置いてよい。そうしたら、あなたは3枚引く。そうしないなら、このカードを控え室に置く。
+Flavor Text:
+我が輩の身体を取り戻したぞ！黄金の騎士「アバロン」の復活じゃ！
+
+==========================
+
+マスター・トウマMaster Touma
+SE/S04-012 U
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【C】The Character facing this card gets -1 Soul.
+【A】［⑥］ This ability can be used up to 1 time in 1 turn. When the character battling this card becomes REVERSE, you may pay the cost. If you do, put this card in STAND.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot.)
+【永】 このカードの正面のキャラのソウルを－1。
+【自】［⑥］ この能力は1ターンにつき1回まで発動できる。このカードとバトルしているキャラが【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］
+Flavor Text:
+これから、よろしく、たのむぜ
+
+==========================
+
+怒ったシリルAngry Cyrille
+SE/S04-013 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【C】 SUPPORT All the characters in front of this card get +500 Power.
+【S】［①］ Choose 1 of your opponent's Front Row Level 0 or below characters, place it in stock.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】［(1)］ あなたは相手の前列のレベル0以下のキャラを1枚選び、ストック置場に置く。
+Flavor Text:
+もう……！ちょうどいいところを読んでたのに……！
+
+==========================
+
+笑顔のシリルSmiling Cyrille
+SE/S04-014 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【A】 BOND／「選ばれし者トウマ」 ［①］ (When you play this card from your hand onto the stage, you may pay the cost. If you do, take one 「選ばれし者トウマ」 from your waiting room and place it into your hand)
+【自】 絆／「選ばれし者トウマ」 ［①］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え
+Flavor Text:
+ふふっ……！ありがとう、トウマ！
+
+==========================
+
+ギルナ＆ヒカネGilna & Hikane
+SE/S04-015 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Animal 動物,_Twins 双子
+Card Text/Abilities:
+【A】［②］ When this card is placed on stage from hand, you may pay the cost. If you do, search your deck for up to 1 「名工ガンテツ」, show it to your opponent and place it into your hand. Shuffle your deck afterwards.
+【A】 When the character battling another of your cards becomes REVERSE, choose 1 of your characters, during this turn, it gets +1000 Power.
+【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「名工ガンテツ」を1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+【自】 他のあなたのキャラとバトルしているキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+ヒカネ「ううん、いいのよ。ウチの気持ちだから」
+
+==========================
+
+トウマ＆シリルTouma & Cyrille
+SE/S04-016 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Weapon 武器,_Book 本
+Card Text/Abilities:
+Flavor Text:
+シリル「さあ、行かなくちゃ！」
+
+==========================
+
+黄金の騎士アバロンGolden Knight Avalon
+SE/S04-017 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 3500
+Soul: 1
+Traits:: Weapon 武器,_Undead 不死
+Card Text/Abilities:
+【C】 ALARM If this card is at the top of your clock, if your hand is less than your opponent's, all your characters get +1000 Power.
+【永】 アラーム このカードがクロックの1番上にあり、あなたの手札が相手の手札より少ないなら、あなたのキャラすべてに、パワーを＋1000。
+Flavor Text:
+そなたは、我が輩に力を貸してほしいと言うのだな？
+
+==========================
+
+心優しき騎士ガドフォールKind Hearted Knight Gadfort
+SE/S04-018 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 1500
+Soul: 1
+Traits:: Animal 動物,_Weapon 武器
+Card Text/Abilities:
+【A】When you use this card's 「ASSIST」, place the top 3 cards of your opponent's deck into the waiting room.
+【S】● ASSIST 3000 Level 2 ［Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +3000 Power)
+【自】 あなたがこのカードの『助太刀』を使った時、あなたは相手の山札の上から3枚を、控え室に置く。
+【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）
+Flavor Text:
+あいつを助けるために、みなの力を貸してほしいのだ……！
+
+==========================
+
+“聖剣の呪い”トウマ＆シリル"Curse Of The Sword" Touma & Cyrille
+SE/S04-019 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Weapon 武器,_Book 本
+Card Text/Abilities:
+Flavor Text:
+トウマ「オレはシリルを助けてやりたい……！いっしょに戦ってやりたいんだ！」
+
+==========================
+
+ジオフォートの守護者Guardian of Geo Fort
+SE/S04-020 U
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your characters, return it to your hand. If you do, choose up to 1 of your Level 2 or Below with Cost 2 or Below characters from your hand, place it on the stage in any slot.
+あなたは自分のキャラを1枚選び、手札に戻す。そうしたら、あなたは自分の手札のレベル2以下でコスト2以下のキャラを1枚まで選び、舞台の好きな枠に置く。
+Flavor Text:
+ようこそマスター、私の名はゼナス。この城の管理者だ
+
+==========================
+
+もう一つの聖剣One More Holy Sword
+SE/S04-021 U
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 4
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+During this turn, all your characters get +3000 Power, +1 Soul.
+あなたのキャラすべてに、そのターン中、パワーを＋3000し、ソウルを＋1
+Flavor Text:
+ゼナス「聖剣シャイニングフォースは、2本で1対となる存在……」
+
+==========================
+
+トウマの意地Touma's Spirit
+SE/S04-022 C
+Type: Event
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+●Choose 1 of your characters, during this turn, it gets +2000 Power. If you have 4 or more climax cards in your waiting room, choose 1 character, during this turn, it gets +2000 Power.
+【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。あなたの控え室のクライマックスが4枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+トウマ「えらそうなことばっか言いやがって！やれるもんなら、やってみろ！」
+
+==========================
+
+ＶＳイノブタ
+SE/S04-023 CR
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed on the Stage from hand, place the top card of your Deck into Stock. During this turn, all of your Characters get +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1
+Flavor Text:
+行くぜ！　晩メシッ！
+
+==========================
+
+聖剣シャイニングフォースHoly Sword Shining Force
+SE/S04-024 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1W
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+(Wind：When this card is Triggered, you may choose 1 of your opponent's Characters, return to his/her hand)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（戻＠：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）
+Flavor Text:
+力を貸しやがれ…！ シャイニングフォ―――ス！！
+
+==========================
+
+聖剣シャイニングフォースHoly Sword Shining Force
+SE/S04-024 SP
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1W
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+(Wind：When this card is Triggered, you may choose 1 of your opponent's Characters, return to his/her hand)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（戻＠：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）
+Flavor Text:
+だから……力を貸しやがれ！
+
+==========================
+
+シリルの想いCyrille's Feelings
+SE/S04-025 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】 All your characters get +2 Soul.
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+うん…今、行く…
+
+==========================
+
+食いしん坊メーベル
+SE/S04-026 RR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Weapon 武器,_Magic 魔法
+Card Text/Abilities:
+【A】 When this card is placed on stage from hand, choose 1 of your opponent's front row characters, during this turn, it gets -1000 Power.
+【自】 このカードが手札から舞台に置かれた時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。
+Flavor Text:
+そんなことを話していたら、またお肉が食べたくなっちゃったわ
+
+==========================
+
+迷子のファークリン
+SE/S04-027 RR
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Animal 動物,_Magic 魔法
+Card Text/Abilities:
+【A】 When this card attacks, if 「ファークリンの自己紹介」 is in your climax slot, this card gains the following ability. 『【A】 At the start of Encore Step, put this card in REST and move it to any slot』
+【自】 このカードがアタックした時、クライマックス置場に「ファークリンの自己紹介」があるなら、そのターン中、このカードは次の能力を得る。『【自】 アンコールステップの始めに、あなたはこのカードを【レスト】し、舞台の好きな枠に動かす。』（今いる枠を選んでもよい）
+Flavor Text:
+ボク……もう、帰りたいな。あんなコワいめにもあったし……
+
+==========================
+
+迷子のファークリン
+SE/S04-027 RRR
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Animal 動物,_Magic 魔法
+Card Text/Abilities:
+【A】 When this card attacks, if 「ファークリンの自己紹介」 is in your climax slot, this card gains the following ability. 『【A】 At the start of Encore Step, put this card in REST and move it to any slot』
+【自】 このカードがアタックした時、クライマックス置場に「ファークリンの自己紹介」があるなら、そのターン中、このカードは次の能力を得る。『【自】 アンコールステップの始めに、あなたはこのカードを【レスト】し、舞台の好きな枠に動かす。』（今いる枠を選んでもよい）
+Flavor Text:
+そうだ！アミちゃんを助けなきゃ！
+
+==========================
+
+魔族の少女アミタリリ
+SE/S04-028 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Demon 悪魔,_Magic 魔法
+Card Text/Abilities:
+【A】 When this card is placed on stage from hand, choose 1 of your 《動物》  characters, during this turn, it gets +2000 Power.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分の《動物》のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+だいじょうぶなわけ……ないでしょ……
+
+==========================
+
+魔族の少女アミタリリ
+SE/S04-028 SR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Demon 悪魔,_Magic 魔法
+Card Text/Abilities:
+【A】 When this card is placed on stage from hand, choose 1 of your 《動物》  characters, during this turn, it gets +2000 Power.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分の《動物》のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+ねぇ、見て見て！このほうき、今年の最新モデルなの！
+
+==========================
+
+“クイントール族”ファークリン
+SE/S04-029 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Animal 動物,_Magic 魔法
+Card Text/Abilities:
+【C】 All your other 「爆弾娘アミタリリ」 get +1000 Power.
+【永】 他のあなたの「爆弾娘アミタリリ」すべてに、パワーを＋1000。
+Flavor Text:
+アミちゃん、惚れっぽいんだから……！
+
+==========================
+
+“クイントール族”ファークリン
+SE/S04-029 SR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Animal 動物,_Magic 魔法
+Card Text/Abilities:
+【C】 All your other 「爆弾娘アミタリリ」 get +1000 Power.
+【永】 他のあなたの「爆弾娘アミタリリ」すべてに、パワーを＋1000。
+Flavor Text:
+ど、どうするの、アミちゃん？
+
+==========================
+
+若獅子帝ラグナダーム
+SE/S04-030 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Royal Family 王族,_Weapon 武器
+Card Text/Abilities:
+【C】 If you have 2 or more other characters with 『SUPPORT』, this card gets +1000 Power.
+【永】 他のあなたの『応援』を持つキャラが2枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+この身を八つ裂きにされようとも、兵を退くことはない！
+
+==========================
+
+獣人族の少年ファークリン
+SE/S04-031 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Animal 動物,_Magic 魔法
+Card Text/Abilities:
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot.)
+【S】［②］ Choose 1 of your characters with 「アミタリリ」 in the name, during this turn, it gets +2500 Power, this card card gets +2500 Power.
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+【起】［(2)］ あなたは自分のカード名に「アミタリリ」を含むキャラを1枚選び、そのターン中、パワーを＋2500し、このカードのパワーを＋2500。
+Flavor Text:
+あの人が、アミちゃんの理想のタイプなら、ボク、がんばるよ……！
+
+==========================
+
+森の民メーベル
+SE/S04-032 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Weapon 武器,_Magic 魔法
+Card Text/Abilities:
+【C】 If the character battling this card is a higher level, this card gets +1000 Power.
+【A】 When this card attacks, if 「エルフ族の戦士」 is in the climax slot, choose 1 of your opponent's characters, during this turn, it gets -1500 Power.
+【永】 このカードのバトル中、このカードとバトルしているキャラのレベルがこのカードのレベルより低いなら、このカードのパワーを＋1000。
+【自】 このカードがアタックした時、クライマックス置場に「エルフ族の戦士」があるなら、あなたは相手のキャラを1枚選び、そのターン中、パワーを－1500。
+Flavor Text:
+なにか悩みがあるなら、相談して。私たち、もうお友だちでしょ？
+
+==========================
+
+名工ガンテツ
+SE/S04-033 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【S】[①Put this card in REST]Choose 1 of your 《武器》 characters, during this turn, it gets +2500 Power.
+【起】[①このカードをレストする]あなたは自分の《武器》のキャラを1枚選び、そのターン中、パワーを+2500。
+Flavor Text:
+……なんだ？　装備をきたえてほしいのか？
+
+==========================
+
+誇り高き人狼ドゥーガ
+SE/S04-034 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 1000
+Soul: 1
+Traits:: Animal 動物,_Muscle 筋肉
+Card Text/Abilities:
+【A】When you use this card's 「ASSIST」, place the top 3 cards of your deck into the waiting room.
+【S】● ASSIST 2000 Level 1 ［Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +2000 Power)
+【自】あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から3枚を、控え室に置く。
+【起】●助太刀2000 レベル1［① 手札のこのカードを控え室に置く］(あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋2000)
+Flavor Text:
+オレはドゥーガ……ってんだが、
+もう知ってるわな。まぁ、よろしく、たのまぁ！
+
+==========================
+
+アミタリリ＆ファークリン
+SE/S04-035 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Demon 悪魔,_Animal 動物
+Card Text/Abilities:
+【A】When this card attacks, if 「目指せ！ラ・ヴァース」 is in your climax slot, you may place the top card of your deck into stock.
+【自】このカードがアタックした時、クライマックス置場に「目指せ！ラ・ヴァース」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。
+Flavor Text:
+アミタリリ「あんたは、いつまでも、
+アタシといっしょにいてくれるわよね？」
+
+==========================
+
+自称天才魔女っ子アミタリリ
+SE/S04-036 U
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Demon 悪魔,_Magic 魔法
+Card Text/Abilities:
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【自】アンコール［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+ほんと、アタシって天才よね。
+これなら、聖剣も、すぐアタシのものになるわ～～～
+
+==========================
+
+天を目指す王ラグナダーム
+SE/S04-037 U
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Royal Family 王族,_Weapon 武器
+Card Text/Abilities:
+【A】When this card is placed on stage from hand, you may place the top card of your clock into the waiting room.
+【S】[②]Choose 1 character, during this turn, it gets +4000 Power.
+【自】このカードが手札から舞台に置かれた時、あなたは自分のクロックを上から1枚選び、控え室に置いてよい。
+【起】[②]あなたは自分のキャラを1枚選び、そのターン中、パワーを+4000。
+Flavor Text:
+余は、王なのだ！
+世界を護る義務がある！
+
+==========================
+
+“ポワポワシッポ”ファークリン
+SE/S04-038 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Animal 動物,_Magic 魔法
+Card Text/Abilities:
+【A】 BOND／「自称天才魔女っ子アミタリリ」 ［①］ (When you place this card on stage from hand, you may pay the cost. If you do, choose 1 「自称天才魔女っ子アミタリリ」 from your waiting room and place it into your hand)
+【S】[Put 1 of your characters with 「応援」 to REST]During this turn, this card gets +1000 Power.
+【自】 絆／「自称天才魔女っ子アミタリリ」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「自称天才魔女っ子アミタリリ」を1枚選び、手札に戻す)
+【起】[あなたの「応援」を持つキャラを1枚レストする]そのターン中、このカードのパワーを+1000。
+Flavor Text:
+助けてよぉ、アミちゃ～ん
+
+==========================
+
+帝王の唯一の理解者カティーナ
+SE/S04-039 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Royal Family 王族,
+Card Text/Abilities:
+【C】 SUPPORT All the characters in front of this card get +500 Power.
+【S】[Put this card to REST]Choose 1 of your 《王族》 characters, during this turn, it gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】[このカードをレストする]あなたは、自分の《王族》のキャラを1枚選び、そのターン中、パワーを+500。
+Flavor Text:
+どうしたのですか、お兄さま？
+浮かない顔をしてらっしゃいますけど……
+
+==========================
+
+爆弾娘アミタリリ
+SE/S04-040 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Demon 悪魔,_Magic 魔法
+Card Text/Abilities:
+Flavor Text:
+なによ、そのアミ公って！
+ちゃんと、アミタリリって呼びなさいよね
+
+==========================
+
+“いい加減で自信過剰”アミタリリ
+SE/S04-041 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Demon 悪魔,_Magic 魔法
+Card Text/Abilities:
+【S】[Put 2 of your characters to REST]Choose 1 of your characters, during this turn, it gains the following ability. 『【A】When the character battling this card becomes REVERSE, you may place the top card of your deck into stock.』
+【起】[あなたのキャラを2枚レストする]あなたは、自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】このカードとバトルしているキャラがリバースした時、あなたは自分の山札の上から1枚を、ストック置き場に置いてよい。』
+Flavor Text:
+ほ～ら、ごらんなさい！
+アタシの魔法にかかれば、こんなもんよ
+
+==========================
+
+アーチャーメーベル
+SE/S04-042 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Weapon 武器,_Weapon 武器
+Card Text/Abilities:
+【C】 SUPPORT All the characters in front of this card get +500 Power.
+【A】When this card is placed on stage from hand, choose 1 of your opponent's characters, during this turn, it gets -500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【自】このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚選び、そのターン中、パワーを-500。
+Flavor Text:
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【自】このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚選び、そのターン中、パワーを-500。
+
+==========================
+
+ラグナダームⅢ世
+SE/S04-043 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Royal Family 王族,_Royal Family 王族
+Card Text/Abilities:
+【C】 ALARM　If this card is at the top of your clock, if there is a climax in your climax slot, all your characters get +1000 Power.
+【永】アラーム　このカードがクロックの一番上にあり、あなたのクライマックス置場にクライマックスがあるなら、あなたのキャラすべてに、パワーを＋１０００。
+Flavor Text:
+【永】アラーム　このカードがクロックの一番上にあり、あなたのクライマックス置場にクライマックスがあるなら、あなたのキャラすべてに、パワーを＋１０００。
+
+==========================
+
+野獣ドゥーガ
+SE/S04-044 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 8500
+Soul: 1
+Traits:: Animal 動物,_Muscle 筋肉
+Card Text/Abilities:
+Flavor Text:
+じっくり、死の恐怖を
+味わってもらおうと思っただけだ
+
+==========================
+
+追いかけっこ
+SE/S04-045 U
+Type: Event
+Level: 2
+Color: Green
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+●Choose 1 of your characters being front attacked, place it stock. Place this card in stock.
+●あなたは自分のフロントアタックされているキャラを1枚選び、ストック置場に置く。このカードをストック置場に置く。
+Flavor Text:
+ファークリン「やだーっ！ やだーっ！」
+
+==========================
+
+魔導の城
+SE/S04-046 U
+Type: Event
+Level: 2
+Color: Green
+Cost: 3
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Look at your opponent's hand.
+Choose up to 1 of your opponent's characters, during this turn, it gets -1000 Power.
+Choose 1 up to 1 card in your clock, return it to hand. Place this card in memory.
+あなたは相手の手札を見る。
+あなたは相手のキャラを1枚まで選び、そのターン中、パワーを-1000。
+あなたは自分のクロック置場のキャラを1枚まで選び、手札に戻す。このカードを思い出にする。
+Flavor Text:
+あなたは相手の手札を見る。
+あなたは相手のキャラを1枚まで選び、そのターン中、パワーを-1000。
+あなたは自分のクロック置場のキャラを1枚まで選び、手札に戻す。このカードを思い出にする。
+
+==========================
+
+王の威厳
+SE/S04-047 C
+Type: Event
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+●Choose 1 of your characters, during this turn, it gets +6000 Power.
+●あなたは自分のキャラを1枚選び、そのターン中、パワーを＋6000。
+Flavor Text:
+聖剣の主というには、あまりにも未熟
+
+==========================
+
+目指せ！ラ・ヴァース
+SE/S04-048 CR
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+アミタリリ「わぁぁぁ……」
+
+==========================
+
+目指せ！ラ・ヴァース
+SE/S04-048 SP
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+アミタリリ「いずれは、『ラ・ヴァース』の称号を受け継ぐ者なんだから！」
+
+==========================
+
+ファークリンの自己紹介
+SE/S04-049 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: S
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Bag： When this card is Triggered, you may take the top card of your deck and place it in Stock.)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(袋：このカードがトリガーした時、あなたは自分の山札から1枚を、ストック置場に置いてよい)
+Flavor Text:
+その……よろしくです
+
+==========================
+
+エルフ族の戦士
+SE/S04-050 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When is card is placed in the climax slot from hand, draw 1 card. During this turn, choose 1 of your Characters, during this turn, it gets +3 Soul.
+【永】このカードが手札からクライマックス置き場に置かれたとき、あなたは１枚引き、自分のキャラを１枚選び、そのターン中、ソウルを＋３。
+Flavor Text:
+私は、聖剣の力で、私たちエルフの民を救いたい
+
+==========================
+
+リームシアン・ラ・ヴァース
+SE/S04-051 RR
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Demon 悪魔,_Royal Family 王族
+Card Text/Abilities:
+【C】If there are 6 or more climax in your waiting room, this card gets -1 Level in your hand.
+【A】When this card is placed on stage from hand, you may place the top card of your clock into waiting room.
+【永】あなたの控え室のクライマックスが6枚以上なら、あなたの手札のこのカードのレベルを－1。
+【自】このカードが手札から舞台に置かれた時、あなたは自分のクロックを上から1枚選び、控え室に置いてよい。
+Flavor Text:
+下級兵士を増やしたところで、
+われわれ、魔族にかなうはずもない
+
+==========================
+
+リームシアン・ラ・ヴァース
+SE/S04-051 RRR
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Demon 悪魔,_Royal Family 王族
+Card Text/Abilities:
+【C】If there are 6 or more climax in your waiting room, this card gets -1 Level in your hand.
+【A】When this card is placed on stage from hand, you may place the top card of your clock into waiting room.
+【永】あなたの控え室のクライマックスが6枚以上なら、あなたの手札のこのカードのレベルを－1。
+【自】このカードが手札から舞台に置かれた時、あなたは自分のクロックを上から1枚選び、控え室に置いてよい。
+Flavor Text:
+私は、おまえが気に入ったのだ
+
+==========================
+
+美少女ヒロイン アミタリリ
+SE/S04-052 RR
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Demon 悪魔,_Magic 魔法
+Card Text/Abilities:
+【A】When 「いつかラ・ヴァースになる！」 is placed into your climax slot, if this card is in the front row, choose up to 1 Cost 1 or Below 《動物》 character from your waiting room and either return it to hand or place it on stage in any slot in REST.
+【自】あなたのクライマックス置き場に「いつかラ・ヴァースになる！」が置かれた時、前列にこのカードがいるなら、あなたは自分の自分の控え室のコスト1以下の《動物》のキャラを1枚まで選び、手札に戻すか、舞台の好きな枠にレストして置く。
+Flavor Text:
+うふふふふ……♪
+アミタリリ伝説の幕開けよ！
+
+==========================
+
+美少女ヒロイン アミタリリ
+SE/S04-052 SR
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Demon 悪魔,_Magic 魔法
+Card Text/Abilities:
+【A】When 「いつかラ・ヴァースになる！」 is placed into your climax slot, if this card is in the front row, choose up to 1 Cost 1 or Below 《動物》 character from your waiting room and either return it to hand or place it on stage in any slot in REST.
+【自】あなたのクライマックス置き場に「いつかラ・ヴァースになる！」が置かれた時、前列にこのカードがいるなら、あなたは自分の自分の控え室のコスト1以下の《動物》のキャラを1枚まで選び、手札に戻すか、舞台の好きな枠にレストして置く。
+Flavor Text:
+このアタシがビビるとでも思ってんの？
+
+==========================
+
+気分屋アミタリリ
+SE/S04-053 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Demon 悪魔,_Magic 魔法
+Card Text/Abilities:
+【A】 BOND／「アミタリリの付き人ファークリン」 ［①］ (When you place this card on stage from hand, you may pay the cost. If you do, choose 1 「アミタリリの付き人ファークリン」 from your waiting room and place it into your hand)
+【S】［①］ Choose 1 of your opponent's Front Row Level 0 or below characters, place it in the waiting room.
+【自】 絆／「アミタリリの付き人ファークリン」 ［①］ (このカードが舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「アミタリリの付き人ファークリン」を1枚選び、手札に戻す)
+【起】［①］ あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置く。
+Flavor Text:
+ホントは、アタシも少し言い過ぎたかなぁ……
+って思ってたの
+
+==========================
+
+魔女アミタリリ
+SE/S04-054 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Demon 悪魔,_Magic 魔法
+Card Text/Abilities:
+【C】If you have 3 or more other 《魔法》 characters, this card gets +1000 Power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【永】他のあなたの《魔法》のキャラが3枚以上なら、このカードのパワーを+1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+やっぱり、アタシの出番が来たみたいね！
+
+==========================
+
+アミタリリの付き人ファークリン
+SE/S04-055 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 6500
+Soul: 1
+Traits:: Animal 動物,_Magic 魔法
+Card Text/Abilities:
+【C】SUPPORT All the characters in front of this card get +X Power. X is equal to that Character's Level x 500.
+【S】[Put this card to REST]あ Choose 1 of your 《悪魔》 characters, during this turn, it gets +500 Power.
+【永】応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。
+【起】[このカードをレストする]あなたは自分の《悪魔》のキャラを1枚選び、そのターン中、パワーを+500。
+Flavor Text:
+この前、アミちゃんのピンチに
+光魔法が役に立って、ほめられちゃった……
+
+==========================
+
+不死鳥使いアミタリリ
+SE/S04-056 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Demon 悪魔,_Magic 魔法
+Card Text/Abilities:
+【C】For each of your Back Row characters with 「ファークリン」 in its name, this card gets +500 Power.
+【永】他のあなたの後列のカード名に「ファークリン」を含むキャラ1枚につき、このカードのパワーを+500
+Flavor Text:
+これも天才のなせるワザかしら
+
+==========================
+
+フィアランドの女王リームシアン
+SE/S04-057 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Demon 悪魔,_Royal Family 王族
+Card Text/Abilities:
+【A】[②]When 「それは私の物だ」 is placed into your climax slot, if this card is in the front row you may pay the cost. If you do, search your deck for 1 Level 2 or below 《悪魔》 character, show it to your opponent and place it into your hand. Shuffle your deck afterwardss
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【自】[②]あなたのクライマックス置き場に「それは私の物だ」が置かれた時、前列にこのカードがいるならあなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル2以下の《悪魔》のキャラを1枚まで選び、舞台の好きな枠に置く。その山札をシャッフルする。
+【自】アンコール[手札のクライマックスを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+いや、必要ない。私がやろう。
+そやつの目と耳を盗めばいいだけのこと
+
+==========================
+
+フィアランドの女王リームシアン
+SE/S04-057 SR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Demon 悪魔,_Royal Family 王族
+Card Text/Abilities:
+【A】[②]When 「それは私の物だ」 is placed into your climax slot, if this card is in the front row you may pay the cost. If you do, search your deck for 1 Level 2 or below 《悪魔》 character, show it to your opponent and place it into your hand. Shuffle your deck afterwardss
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【自】[②]あなたのクライマックス置き場に「それは私の物だ」が置かれた時、前列にこのカードがいるならあなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル2以下の《悪魔》のキャラを1枚まで選び、舞台の好きな枠に置く。その山札をシャッフルする。
+【自】アンコール[手札のクライマックスを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+もうすぐ、我々には聖剣が必要となる
+
+==========================
+
+“球体防御最強理論”アダム
+SE/S04-058 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Mecha メカ,
+Card Text/Abilities:
+【A】［②］When this card is place in waiting room from stage, you may pay the cost. If you do, choose 1 character from your waiting room, return it to hand.
+【自】［②］このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+それでは、私も格納庫に戻らせていただきます
+
+==========================
+
+忠犬ファークリン
+SE/S04-059 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Animal 動物,_Magic 魔法
+Card Text/Abilities:
+【S】 CONCENTRATE [② Put this card to REST]Place the top 4 cards of your Deck into Waiting Room. For each climax in those cards, choose 1 climax in your waiting room, return to hand.
+【起】集中[② このカードをレストする]あなたは自分の山札の上から４枚をめくり、控室に置く。それらのカードのクライマックス１枚につき、あなたは自分の控室のクライマックスを１枚まで選び、手札に戻す。
+Flavor Text:
+アミちゃんが掃除なんてするわけないよ。全部、ボクのお仕事だもん！
+
+==========================
+
+煉獄の業火リームシアン
+SE/S04-060 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Demon 悪魔,_Royal Family 王族
+Card Text/Abilities:
+【A】When the damage dealt by this card is canceled, you may choose 1 of your opponent's waiting room cards and place it on top of the deck.
+【自】このカードの与えたダメージがキャンセルされた時、あなたは相手の控え室のカードを1枚選び、山札の上においてよい。
+Flavor Text:
+魔族の長ともあろう者が、こうも恥をかかされて黙ってはおれん。
+
+==========================
+
+誘惑するリームシアン
+SE/S04-061 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Demon 悪魔,_Royal Family 王族
+Card Text/Abilities:
+【A】［①］ When this card attacks, if 「ラ・ヴァースの誘惑」 is in your climax slot, you may pay the cost. If you do, the character facing this card gains the following ability until the end of your opponent's next turn. 「【C】This card cannot attack.」
+【自】［①］ このカードがサイドアタックした時、クライマックス置き場に「ラ・ヴァースの誘惑」があるなら、あなたはコストを払ってよい。そうしたら、あなたはこのカードの正面のキャラを１枚選び、次の相手のターンの終わりまで、次の能力を与える。「【永】このカードはアタックできない。」
+Flavor Text:
+おまえは、魔族の女に興味はないのか？
+
+==========================
+
+驚愕するアミタリリ
+SE/S04-062 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Demon 悪魔,_Magic 魔法
+Card Text/Abilities:
+Flavor Text:
+うそ……でしょ……！？
+
+==========================
+
+水着のシリル＆アミタリリ
+SE/S04-063 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Swimsuit 水着
+Card Text/Abilities:
+Flavor Text:
+アミタリリ「アタシ、最近、絶好調なのよ」
+
+==========================
+
+ラ・ヴァースの名を継ぐ者リームシアン
+SE/S04-064 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Demon 悪魔,_Royal Family 王族
+Card Text/Abilities:
+【C】If you have 1 or less other front row characters, this card get +1000 Power.
+【永】他のあなたの前列のキャラが1枚以下なら、このカードのパワーを+1000。
+Flavor Text:
+思ったより、やるようだな。楽しませてくれる
+
+==========================
+
+怖がりファークリン
+SE/S04-065 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Animal 動物,_Magic 魔法
+Card Text/Abilities:
+【C】 SUPPORT All the characters in front of this card get +500 Power.
+【永】 応援 このカードの前のキャラすべてに、パワーを＋500。
+Flavor Text:
+……こわくない？
+ねぇ、こわくない？
+
+==========================
+
+女王の副官ルルネーゼル
+SE/S04-066 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Demon 悪魔,_Magic 魔法
+Card Text/Abilities:
+【C】All your other 《王族》 characters get +500 Power.
+【A】[④ Put this card in REST] Deal 6 damage to your opponent.
+【永】他のあなたの《王族》のキャラすべてに、パワーを+500。
+【自】[④ このカードをレストする]相手に6ダメージを与える。 (ダメージキャンセルは発生する)
+Flavor Text:
+もったいない、お言葉……。
+光栄でございます
+
+==========================
+
+泣き虫ファークリン
+SE/S04-067 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Animal 動物,_Magic 魔法
+Card Text/Abilities:
+【A】[②]When this card is placed on stage from hand, you may pay the cost. If you do, choose up to 1 character with 『SUPPORT』 from your waiting room, return it to you hand.
+【A】This ability can be used up to 3 times in 1 turn. When another of your characters with 『SUPPORT』 are placed on stage from hand, during this turn, this card gets +1000 Power.
+【自】[②]このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の『応援』を持つキャラを1枚まで選び、手札に戻す。
+【自】この能力は1ターンにつき3回まで発動できる。他のあなたの『応援』を持つキャラが、手札から舞台に置かれた時、そのターン中、このカードのパワーを+1000。
+Flavor Text:
+ご、ごめんよぉ……アミちゃん
+
+==========================
+
+魔族の長リームシアン
+SE/S04-068 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 1500
+Soul: 1
+Traits:: Demon 悪魔,_Royal Family 王族
+Card Text/Abilities:
+【A】When you use this card's 「ASSIST」, if you have a character with 「ラグナダーム」 in it's name on stage, choose 1 of your characters doing battle, during this turn, it gets +1000 Power.
+【S】● ASSIST 2000 Level 1 ［Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +2000 Power)
+【自】あなたがこのカードの「助太刀」を使ったとき、あなたのカード名に「ラグナダーム」を含むキャラがいるなら、あなたは自分のバトルしているキャラを１枚選び、そのターン中、パワーを+1000。
+【起】助太刀1500 レベル1［① 手札のこのカードを控え室に置く］（あなたは自分のフロントアタックされているキャラを１枚選び、そのターン中、パワーを+1500）
+Flavor Text:
+私は、魔族の長として、だまってそれを見てるわけにはいかん！
+
+==========================
+
+“ライバル”シリル＆アミタリリ
+SE/S04-069 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Magic 魔法,_Demon 悪魔
+Card Text/Abilities:
+Flavor Text:
+アミタリリ「それもこれもシリルっていう
+ライバルがいてくれるおかげかもね」
+
+==========================
+
+解き放たれた天空船
+SE/S04-070 U
+Type: Event
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your opponent's level 0 or below characters, place it in the waiting room.
+あなたは相手のレベル0以下のキャラを1枚選び、控え室に置く。
+Flavor Text:
+メーベル「贄神の船……すべての災厄の元凶…
+…って、聞いたことがあるわ」
+
+==========================
+
+若獅子王VSラ・ヴァース
+SE/S04-071 U
+Type: Event
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 2 of your waiting room characters, return them to hand.
+あなたは自分の控え室のキャラを2枚まで選び、手札に戻す。
+Flavor Text:
+ラグナダームⅢ世「ここで、斬り捨てられたいか？」
+リームシアン「できるものなら、やってみよ！」
+
+==========================
+
+クリムゾンパレス
+SE/S04-072 C
+Type: Event
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+●This card cannot be played from hand if you do not have a 《悪魔》 character on stage. Choose 1 character, during this turn, it gets +1 Level and +2500 Power.
+●このカードは、あなたの《悪魔》のキャラがいないなら、手札からプレイできない。あなたは自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋2500。
+Flavor Text:
+アダム「データを照合します。東方、フィアガルム火口に浮かぶ、魔族の要塞」
+
+==========================
+
+ラ・ヴァースの誘惑
+SE/S04-073 CR
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+リームシアン「魔族に力を貸すというのなら、
+おまえのこと、悪いようにはせん」
+
+==========================
+
+ラ・ヴァースの誘惑
+SE/S04-073 SP
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+リームシアン「しかたがない。できれば、
+この手は使いたくなかったのだが……」
+
+==========================
+
+いつかラ・ヴァースになる！
+SE/S04-074 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When is card is placed in the climax slot from hand, draw 1 card. During this turn, choose 1 of your Characters, during this turn, it gets +3 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、ソウルを＋3。
+Flavor Text:
+美少女ヒロインが活躍しなきゃ、面白くないでしょ？
+
+==========================
+
+それは私の物だ
+SE/S04-075 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When this card is Triggered, choose 1 Character from your waiting room, return to hand)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（扉：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）
+Flavor Text:
+聖剣の力…渡すわけにはいかない
+
+==========================
+
+聖剣の主シリル
+SE/S04-076 RR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【C】If you have another 「ゼナス＆ジラ」 on stage, all your 「聖剣の主トウマ」 get +1 Level and +1000 Power.
+【A】At the start of your opponent's attack phase, you may choose 1 of your cards with 「トウマ」 in its name and this card, put them into STAND and swap places.
+【永】他のあなたの「ゼナス＆ジラ」がいるなら、他のあなたの「聖剣の主トウマ」すべてに、レベルを+1し、パワーを+1000。
+【自】相手のアタックフェイズの初めに、あなたは自分のカード名に「トウマ」を含むキャラを1枚とこのカードを選び、それぞれをスタンドして入れ替えてよい。
+Flavor Text:
+ありがとう……トウマ……。
+
+==========================
+
+聖剣の主シリル
+SE/S04-076 SR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【C】If you have another 「ゼナス＆ジラ」 on stage, all your 「聖剣の主トウマ」 get +1 Level and +1000 Power.
+【A】At the start of your opponent's attack phase, you may choose 1 of your cards with 「トウマ」 in its name and this card, put them into STAND and swap places.
+【永】他のあなたの「ゼナス＆ジラ」がいるなら、他のあなたの「聖剣の主トウマ」すべてに、レベルを+1し、パワーを+1000。
+【自】相手のアタックフェイズの初めに、あなたは自分のカード名に「トウマ」を含むキャラを1枚とこのカードを選び、それぞれをスタンドして入れ替えてよい。
+Flavor Text:
+行くわよ…トウマ！
+
+==========================
+
+キャットイヤーのシリル
+SE/S04-077 RR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【A】[③]When this card attacks, if 「シリルの真実」 is in your climax slot, if you have a Level 2 or above 《武器》 character, you may pay the cost. If you do, choose up to 2 cards in your clock, place them into the waiting room.
+【自】[③]このカードがアタックした時、クライマックス置場に「シリルの真実」があり、あなたのレベル2以上の《武器》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックを2枚まで選び、控え室に置く。
+Flavor Text:
+……にゃん
+
+==========================
+
+キャットイヤーのシリル
+SE/S04-077 RRR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【A】[③]When this card attacks, if 「シリルの真実」 is in your climax slot, if you have a Level 2 or above 《武器》 character, you may pay the cost. If you do, choose up to 2 cards in your clock, place them into the waiting room.
+【自】[③]このカードがアタックした時、クライマックス置場に「シリルの真実」があり、あなたのレベル2以上の《武器》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックを2枚まで選び、控え室に置く。
+Flavor Text:
+……にゃ、にゃん
+
+==========================
+
+聖剣の主トウマ
+SE/S04-078 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【A】During your opponent's turn, if you have another card with 「シリル」 in its name, this card gains ｢【A】ENCORE[Discard 1 Card to waiting room from hand]｣.
+【自】相手のターン中、他のあなたのカード名に「シリル」を含むキャラがいるなら、このカードは｢【自】アンコール[手札のキャラを1枚控え室に置く]｣を得る。
+Flavor Text:
+オレ、シリルのこと信じてるよ。
+だから、オレのことも信じて欲しい。
+
+==========================
+
+聖剣の主トウマ
+SE/S04-078 SR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【A】During your opponent's turn, if you have another card with 「シリル」 in its name, this card gains ｢【A】ENCORE[Discard 1 Card to waiting room from hand]｣.
+【自】相手のターン中、他のあなたのカード名に「シリル」を含むキャラがいるなら、このカードは｢【自】アンコール[手札のキャラを1枚控え室に置く]｣を得る。
+Flavor Text:
+行くぞ、シリル！
+
+==========================
+
+料理人シリル
+SE/S04-079 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【A】When another of your characters with 「SUPPORT」 is placed on stage from hand you may look at the top card of your deck and place it at the top or the bottom of your deck.
+【S】CONCENTRATE［①］Place the top 3 cards of your deck into the waiting room. You may draw up to X cards, then choose X cards from hand and place them in waiting room. X is equal to the number of climax in those cards x 2.
+【自】他のあなたの「応援」を持つキャラが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。
+【起】集中［①］あなたは自分の山札の上から3枚をめくり、控え室に置く。あなたはX枚まで引き、自分の手札をX枚選び、控え室に置く。Xはそれらのカードのクライマックスの枚数×2に等しい。
+Flavor Text:
+私が作るって言ってるじゃない！
+
+==========================
+
+着替え中のシリル
+SE/S04-080 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【A】 This skill can be used up to 1 time in 1 turn. When your character is attacked, you may choose 1 character, during this turn, it gets +1000 Power.
+【A】[②]When the damage your character deals cancels, you may pay the cost. If you do, you may place the top card of your clock into the waiting room.
+【自】この能力は1ターンに1回まで発動できる。あなたのキャラがアタックされた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを+1000。
+【自】[②]あなたのキャラの与えたダメージがキャンセルされた時、あなたはコストを払ってもよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。
+Flavor Text:
+トウマは……どっちが好みかしら？
+
+==========================
+
+正義感溢れるトウマ
+SE/S04-081 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【A】When this card attacks, if 「聖剣の力」 is in your climax slot, draw 1 card, then choose 1 card from your hand, place it into the waiting room.
+【自】このカードがアタックした時、クライマックス置き場に「聖剣の力」があるなら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+だったら、怖くても戦うしかないだろ
+
+==========================
+
+運命を知るもの シリル＆ジラ
+SE/S04-082 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 3500
+Soul: 1
+Traits:: Book 本,_Animal 動物
+Card Text/Abilities:
+【C】 SUPPORT During the opponent's turn, all the characters in front of this card get +1000 Power.
+【S】［Put this card to REST］You may look at the top card of your deck.
+【永】 応援 相手のターン中、このカードの前のあなたのキャラすべてに、パワーを+1000。
+【起】［このカードをレストする］あなたは自分の山札を上から1枚見る。(見たカードは元に戻す)
+Flavor Text:
+ジラ「もう1人のマスターが、シリルなの」
+
+==========================
+
+熱血漢トウマ
+SE/S04-083 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【A】 BOND／「キャットイヤーのシリル」 ［①］ (When you place this card on stage from hand, you may pay the cost. If you do, choose 1 「キャットイヤーのシリル」 from your waiting room and place it into your hand)
+【S】[Put this card in REST］Choose 1 of your characters with 「シリル」 in its name, during this turn, it gets +500 Power.
+【自】絆／「キャットイヤーのシリル」[①]このカードがプレイされて舞台に置かれた時、あなたはコストを払って良い。そうしたら、あなたは自分の控え室の「キャットイヤーのシリル」を1枚選び、手札に戻す
+【起】[このカードをレストする］あなたは自分のカード名に「シリル」を含むキャラを1枚選び、そのターン中、パワーを+500
+Flavor Text:
+聖剣シャイニングフォースの主になったトウマってんだ！
+
+==========================
+
+ゼナス＆ジラ
+SE/S04-084 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【S】 SUPPORT All the characters in front of this card get +1 Level.
+【永】 応援 このカードの前のあなたのキャラすべてに、レベルを＋1。
+Flavor Text:
+ジラ「アタシが守護している聖剣を抜いたのがシリルなのよ」
+
+==========================
+
+古龍ガリュウ
+SE/S04-085 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Dragon 竜,
+Card Text/Abilities:
+【A】When this card is placed on stage, You may choose 1 「古龍ガリュウ」 from hand and place it into the waiting room. If you do, draw 1 card. If you do not, place this card into the waiting room.
+【自】このカードが舞台に置かれた時、あなたは自分の手札の「古龍ガリュウ」を1枚選び、控え室においてよい。そうしたら、あなたは1枚引く。そうしないなら、このカードを控え室に置く。
+Flavor Text:
+シリル「これは……！ まさか、これが『ガリュウ』なの？」
+
+==========================
+
+“２本の聖剣”トウマ＆シリル
+SE/S04-086 U
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Weapon 武器,_Book 本
+Card Text/Abilities:
+【A】When this card attacks, if 「運命の刃」 is in your climax slot, if you have a card in REVERSE with 「トウマ」 or 「シリル」 in its name, draw 1 card, during this turn, this card gets +2000 Power.
+【自】このカードがアタックした時、クライマックス置場に「運命の刃」があり、あなたのリバースしているカード名に「トウマ」か「シリル」を含むキャラがいるなら、あなたは1枚引き、そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+シリル「これからは、私もトウマに協力するわ」
+
+==========================
+
+マスター・シリル
+SE/S04-087 U
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【A】When this card is placed on stage from hand, you may place the top card of your clock into the waiting room.
+【A】[③]When this card is placed on stage from hand, you may pay the cost. If you do choose up to 2 of your opponent's Level 2 or Below characters. Those characters cannot stand at your opponent's next Stand Phase.
+【自】このカードが手札から舞台に置かれたとき、あなたは自分のクロックの上から一枚を、控え室に置いてよい。
+【自】[③]このカードが手札から舞台に置かれたとき、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以下のキャラを2枚まで選ぶ。それらのキャラは次の相手のスタンドフェイズにスタンドしない。
+Flavor Text:
+別にいないわ。友達なんて
+
+==========================
+
+“命よりお金”ボルネ
+SE/S04-088 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Animal 動物,_Businessman 商人
+Card Text/Abilities:
+【S】［② Put this card to REST］Search your deck for 1 《武器》 character, show it to your opponent and place it into your hand. Shuffle your deck afterwards.
+【S】［Put this card to REST］Choose 1 of your hand cards, place it into stock.
+【起】［② このカードをレストする］あなたは自分の山札を見て《武器》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+【起】［このカードをレストする］あなたは自分の手札を1枚選び、ストック置場に置く。
+Flavor Text:
+ギルナ、ヒカネよく覚えておくんだぞ。
+1度つかまえたカモは、絶対に逃がしちゃいかん……！
+
+==========================
+
+指揮官フィリップ
+SE/S04-089 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【A】[③]When this card is placed on stage from hand, you may pay the cost. If you do, search your deck for 1 Your Level or Below and Cost 1 or Below 《筋肉》 character, place it on stage in any slot. Shuffle your deck afterwards. During this turn, that character gets +2000 Power.
+【自】[③]このカードが手札から舞台に置かれた時、あなたはコストを払って良い。そうしたら、あなたは自分の山札を見て自分のレベル以下でコスト1以下の《筋肉》のキャラを1枚選び、舞台の好きな枠に置く。その山札をシャッフルする。そのターン中、そのキャラのパワーを+2000。
+Flavor Text:
+ついに、おいつめたぞ。
+うす汚い魔族どもめ。
+
+==========================
+
+ジオフォートの主トウマ
+SE/S04-090 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【S】[Put 2 of your cards to REST]During this turn, this card gets +2000 Power.
+【起】[あなたのキャラを2枚レストする]そのターン中、このカードのパワーを+2000。
+Flavor Text:
+おまえは聖剣にキラわれてんだよ！
+もう、2度と来んじゃねえぞ！
+
+==========================
+
+照れ怒りシリル
+SE/S04-091 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+Flavor Text:
+……こんなの、ムリ！ ……恥ずかしい……！
+
+==========================
+
+水着のシリル
+SE/S04-092 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Book 本,_Swimsuit 水着
+Card Text/Abilities:
+【S】● ASSIST 1500 Level 1 ［Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +1500 Power)
+【起】● 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500)
+Flavor Text:
+あの……トウマのこと、いろいろと誤解してたみたいね……
+
+==========================
+
+優等生シリル
+SE/S04-093 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+Flavor Text:
+身のほどを知りなさい。
+愚か者はあなたのほうよ
+
+==========================
+
+“片角”ガリュウ
+SE/S04-094 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Dragon 竜,
+Card Text/Abilities:
+Flavor Text:
+「『ガリュウ』の眠りさまたげるもの、死あるのみ」
+
+==========================
+
+拍子抜け
+SE/S04-095 U
+Type: Event
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Look at the top 2 cards of your deck, choose up to 1 card and place it in your hand. Place the remaining cards into the waiting room.
+あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加える。残りのカードを控え室に置く。
+Flavor Text:
+……
+
+==========================
+
+ジオフォートの目覚め
+SE/S04-096 U
+Type: Event
+Level: 1
+Color: Blue
+Cost: 3
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Put 2 of your characters to REST. If you do, choose up to 2 of your opponent's front row Level 1 or below characters, place them on top of the deck in any order.
+あなたは自分のキャラを2枚選びレストする。2枚レストしたなら、あなたは相手の前列のレベル1以下のキャラを2枚まで選び、山札の下に好きな順番で置く。
+Flavor Text:
+ゼナス「この城は『ジオフォート』という。聖剣の主を守り、ともに戦うための城だ」
+
+==========================
+
+もう一度勝負だ
+SE/S04-097 C
+Type: Event
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Search your deck for up to 1 climax, show it to your opponent and place it into your hand. Shuffle your deck afterwards.
+あなたは自分の山札を見てクライマックスを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+オレを忘れて勝手に盛り上がってんじゃねぇ！
+
+==========================
+
+聖剣の力
+SE/S04-098 CR
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】 All your characters get +2 Soul.
+【永】 あなたのキャラすべてに、ソウルを＋2
+Flavor Text:
+行くぞ、みんな！
+
+==========================
+
+運命の刃
+SE/S04-099 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed on the Stage from hand, place the top card of your Deck into Stock. During this turn, all of your Characters get +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+トウマ「オレのことがわからないのか……？」
+
+==========================
+
+運命の刃
+SE/S04-099 SP
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed on the Stage from hand, place the top card of your Deck into Stock. During this turn, all of your Characters get +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+シリル「おねがいだから……
+私を……ひとりにしないで……！」
+
+==========================
+
+シリルの真実
+SE/S04-100 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Book：When this card is triggered, you may draw 1 card)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1
+(本：このカードがトリガーした時、あなたは1枚引いてよい)
+Flavor Text:
+私も逃げるのは、やめる
+
+==========================
+
+シャイニング・フォース フェザー
+SE/S04-103 PR
+Type: Event
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Draw 1 card, choose 1 of your hand card and discard it.
+あなたは1枚引き、自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+異なる羽は、やがて大きな翼に変わる。
+
+==========================
+
+シリル＆アミタリリ＆ファークリン
+SE/S04-104 PR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【C】 All your others 《武器》 characters gets +500 power.
+【永】 他のあなたの《武器》のキャラすべてに、パワーを+500。
+Flavor Text:
+シリル「うまくやれるといいんだけど…」
+
+==========================
+
+ジン
+SE/S04-105 PR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+Flavor Text:
+オレは他人に指図されるのが大嫌いなんだよっ！
+
+==========================
+
+そっけないシリル
+SE/S04-106 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+Flavor Text:
+そんなの、知らないわよ
+
+==========================
+
+本好きの少女シリル
+SE/S04-107 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【C】 For each of your others 《本》 characters, this card gets +500 power.
+【永】 他のあなたの《本》のキャラ1枚につき、このカードのパワーを+500。
+Flavor Text:
+私は、本に囲まれて暮らしてたな。 物心ついたときには……
+
+==========================
+
+“呼び合う心”トウマ＆シリル
+SE/S04-108 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Weapon 武器,_Book 本
+Card Text/Abilities:
+【S】[(1)] During this turn, this card gets +1 soul.
+【起】[(1)] そのターン中、このカードのソウルを+1。
+Flavor Text:
+もう1本の聖剣を抜いたのがトウマで、本当に良かった
+
+==========================
+
+きいろちゃん
+SE/S04-109 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【C】 During opponent turn, this card gets +1000 power.
+【A】 At the beginning of opponent's Attack Phase, you may move this card to any empty slot on the Front Row.
+【永】 あなたのターン中、このカードのパワーを＋1000。
+【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。
+Flavor Text:
+ばびょーん
+
+==========================
+
+空マナの守護者 リリス
+SE/S04-110 PR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】 When this card comes to stage from hand, choose 1 of your STAND 《魔法》 character, put it to REST.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分の【スタンド】している《魔法》のキャラを1枚選び、【レスト】する。
+Flavor Text:
+やっと会えたね
+
+==========================
+
+闇に生きる貴公子 ダークレイス
+SE/S04-111 PR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Demon 悪魔,_Weapon 武器
+Card Text/Abilities:
+【A】［(1)］ When this card attacks, if you have 「クロスエリュシオン」 in your climax slot, you may pay the cost. If you did, draw 1 card.
+【S】 CONCENTRATE ［(1) Put this card to REST］Place the top 4 cards of your Deck into Waiting Room. For each climax card in those, search your deck up to 1 《武器》 character and show it to your opponent. Shuffle your deck afterwards.
+【自】［(1)］ このカードがアタックした時、クライマックス置場に「クロスエリュシオン」があるなら、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。
+【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《武器》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+その姿に魅了された女性は、
+自ら彼に身をささげ、生涯忠誠を誓うという
+
+==========================
+
+愛くるしい闇 ダークレイス
+SE/S04-112 PR
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 1
+Traits:: Demon 悪魔,_Weapon 武器
+Card Text/Abilities:
+【A】When this card is played from your hand to the stage, you may place the top card of your clock into the waiting room.
+【A】［Discard 1 hand card to waiting room］ When this card attacks, if you have 「クロスエリュシオン」 in your climax slot, you may pay the cost. If you did, deal opponent 1 damage, all your 《悪魔》 or 《武器》 characters, during this turn, gets +1500 power. (The damage cancel can be occur)
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】［手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「クロスエリュシオン」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与え、あなたの、《悪魔》か《武器》のキャラすべてに、そのターン中、パワーを＋1500。（ダメージキャンセルは発生する）
+Flavor Text:
+あなたの周りで魅了されている男性が居た場合、
+それは彼女の仕業なのかもしれない
+
+==========================
+
+クロスエリュシオン
+SE/S04-113 PR
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card comes to Stage from hand, draw 1 card. Choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+
+==========================
+
+シリルの真実
+SE/S04-T17 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Book：When this card is triggered, you may draw 1 card)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1
+(本：このカードがトリガーした時、あなたは1枚引いてよい)
+Flavor Text:
+ごめんなさい、みんな。いままで黙っていて……
+
+==========================
+

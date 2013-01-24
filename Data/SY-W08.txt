@@ -1,0 +1,2939 @@
+キョンKyon
+SY/W08-001R RRR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: SOS Dan SOS団,
+Card Text/Abilities:
+【自】［① Place 1 《団長》 character from your stage into the clock] When this card is placed on stage from hand, you may pay the cost. If you do, Search your deck for up to 1 「“いつも”のハルヒ」 and place it on the stage in any slot. Shuffle your deck afterwards.
+【自】［① あなたの舞台の《団長》のキャラを1枚クロック置場に置く］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「“いつも”のハルヒ」を1枚まで選び、舞台の好きな枠に置く。その山札をシャッフルする。
+Flavor Text:
+...Oh Well
+…まぁいいか
+
+==========================
+
+キョンKyon
+SY/W08-001 RR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: SOS Dan SOS団,
+Card Text/Abilities:
+【自】［① Place 1 《団長》 character from your stage into the clock] When this card is placed on stage from hand, you may pay the cost. If you do, Search your deck for up to 1 「“いつも”のハルヒ」 and place it on the stage in any slot. Shuffle your deck afterwards.
+【自】［① あなたの舞台の《団長》のキャラを1枚クロック置場に置く］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「“いつも”のハルヒ」を1枚まで選び、舞台の好きな枠に置く。その山札をシャッフルする。
+Flavor Text:
+...Oh Well
+…まぁいいか
+
+==========================
+
+サンタっ娘ハルヒ＆キョンSanta Girl Haruhi & Kyon
+SY/W08-002 RR
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Dancho 団長,_SOS Dan SOS団
+Card Text/Abilities:
+【A】［⑤］This ability can be used up to 1 time per turn. When the character battling this card becomes REVERSE, if you have 4 other 《SOS団》 characters on stage, you may pay the cost. If you do, put this card into STAND.
+【A】 When this card is front attacked, you may check the top card of your deck, place it on top of the deck or into the waiting room.
+【自】［⑤］この能力は1ターンにつき1回まで発動できる。このカードとバトル中のキャラが【リバース】した時、他のあなたの《SOS団》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。
+【自】 このカードがフロントアタックされた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。
+Flavor Text:
+Kyon [It's alright already. This is going to abort the law.]
+キョン「もういいだろ。
+これ以上はいろんな法律にひっかかる」
+
+==========================
+
+Xmasパーティ キョンの妹Xmas Party Kyon's Little Sister
+SY/W08-003S SR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【A】 BOND／「“いつも”のキョン」［①］(When this card is played to Stage, you may pay this cost. If you do, choose 1 「“いつも”のキョン」 from your Waiting Room, return to hand)
+【S】 CONCENTRATE ［①］ Place the top 4 cards of your Deck into Waiting Room. For every Climax card in those cards, choose 1 of your own cards with 「キョン」 in its name, during this turn, it gets +1 soul.
+【自】 絆／「“いつも”のキョン」 ［あなたの山札の上から1枚をクロック置場に置く］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“いつも”のキョン」を1枚選び、手札に戻す)
+【起】 集中 ［①］あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分のカード名にを含むキャラを1枚選び、そのターン中、ソウルを+1
+Flavor Text:
+My Coke!
+わたしコーラ！
+
+==========================
+
+Xmasパーティ キョンの妹Xmas Party Kyon's Little Sister
+SY/W08-003 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【A】 BOND／「“いつも”のキョン」［①］(When this card is played to Stage, you may pay this cost. If you do, choose 1 「“いつも”のキョン」 from your Waiting Room, return to hand)
+【S】 CONCENTRATE ［①］ Place the top 4 cards of your Deck into Waiting Room. For every Climax card in those cards, choose 1 of your own cards with 「キョン」 in its name, during this turn, it gets +1 soul.
+【自】 絆／「“いつも”のキョン」 ［あなたの山札の上から1枚をクロック置場に置く］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“いつも”のキョン」を1枚選び、手札に戻す)
+【起】 集中 ［①］あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分のカード名に「キョン」を含むキャラを1枚選び、そのターン中、ソウルを+1。
+Flavor Text:
+My Coke!
+わたしコーラ！
+
+==========================
+
+謎の転校生 古泉The Mysterious Transfer Student Koizumi
+SY/W08-004R RRR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Psychic Power 超能力,_SOS Dan SOS団
+Card Text/Abilities:
+【C】 SUPPORT During your turn, all your Characters in front of this card gets +1000 Power.
+【A】［Place 1 card in Waiting Room from hand］ When a climax is revealed during your character's trigger check, if the trigger icon is WIND, you may pay the cost. If you do, search your deck for 1 《SOS団》 character, show it to your opponent and place it into your hand. Shuffle the deck.
+【永】 応援 あなたのターン中、このカードの前のあなたのキャラすべてに、パワーを＋1000。
+【自】［手札を1枚控え室に置く］あなたのキャラのトリガーチェックでクライマックスがでた時、そのカードのトリガーアイコンが風なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《SOS団》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+I've just transferred here so there's still things I don't know, please take the time to guide me.
+転校してきたばかりで至らぬ点もありましょうが、
+よろしくご教示願います
+
+==========================
+
+謎の転校生 古泉The Mysterious Transfer Student Koizumi
+SY/W08-004 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Psychic Power 超能力,_SOS Dan SOS団
+Card Text/Abilities:
+【C】 SUPPORT During your turn, all your Characters in front of this card gets +1000 Power.
+【A】［Place 1 card in Waiting Room from hand］ When a climax is revealed during your character's trigger check, if the trigger icon is WIND, you may pay the cost. If you do, search your deck for 1 《SOS団》 character, show it to your opponent and place it into your hand. Shuffle the deck.
+【永】 応援  あなたのターン中、このカードの前のあなたのキャラすべてに、パワーを＋1000。
+【自】［手札を1枚控え室に置く］あなたのキャラのトリガーチェックでクライマックスがでた時、そのカードのトリガーアイコンが風なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《SOS団》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+I've just transferred here so there's still things I don't know, please take the time to guide me.
+転校してきたばかりで至らぬ点もありましょうが、
+よろしくご教示願います
+
+==========================
+
+見えざる信頼関係 ハルヒ＆キョンThe Unseen Trust Haruhi & Kyon
+SY/W08-005 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Dancho 団長,_SOS Dan SOS団
+Card Text/Abilities:
+【A】At the start of your encore step, If 「涼宮ハルヒの朗報」 is in your climax slot, you may place this card into memory. If you do, at the start of your next draw phase, choose 1 「見えざる信頼関係 ハルヒ＆キョン」 from your memory and place it on the field in any slot, and during that turn, it gets +3000 Power.
+【自】あなたのアンコールステップの始めに、クライマックス置場に「涼宮ハルヒの朗報」があるなら、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「見えざる信頼関係 ハルヒ＆キョン」を1枚選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋3000。
+Flavor Text:
+Haruhi [Kyon, the contest begins the second someone challenge you!]
+ハルヒ「キョン、勝負事なんていうのはね、
+言い出したその時からが勝負なの」
+
+==========================
+
+“いつも”のキョンThe Usual Kyon
+SY/W08-006 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: SOS Dan SOS団,
+Card Text/Abilities:
+【A】When this card attacks, if 「sleeping beauty_」 is in your climax slot, search your deck for 1 《SOS団》 character, show it to your opponent and place it into your hand. Shuffle your deck.
+【自】このカードがアタックした時、クライマックス置場にsleeping beauty_があるなら、あなたは自分の山札を見て《SOS団》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする
+Flavor Text:
+Haruhi it's fit you
+ハルヒ　似合ってるぞ
+
+==========================
+
+浴衣のキョンKyon In Yukata
+SY/W08-007S SR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Wafuku 和服,_SOS Dan SOS団
+Card Text/Abilities:
+【C】If you have 3 or more other 《SOS団》 or 《和服》 characters, this card gets +1000 Power.
+【A】 ENCORE ［Put 1 Character from hand to Waiting Room］ (When this card is put into Waiting Room from Stage, you may pay this cost. If you do, return that card to its original slot in REST)
+【永】他のあなたの《SOS団》か《和服》のキャラが３枚以上ならこのカードのパワーを+1000
+【自】アンコール[手札のキャラ１枚を控室に置く]（このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く
+Flavor Text:
+...Understood. Alright, clam down
+…解った。まあ、今は落ち着け
+
+==========================
+
+浴衣のキョンKyon In Yukata
+SY/W08-007 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Wafuku 和服,_SOS Dan SOS団
+Card Text/Abilities:
+【C】If you have 3 or more other 《SOS団》 or 《和服》 characters, this card gets +1000 Power.
+【A】 ENCORE ［Put 1 Character from hand to Waiting Room］ (When this card is put into Waiting Room from Stage, you may pay this cost. If you do, return that card to its original slot in REST)
+【永】他のあなたの《SOS団》か《和服》のキャラが３枚以上ならこのカードのパワーを+1000
+【自】アンコール[手札のキャラ１枚を控室に置く]（このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+...Understood. Alright, clam down
+…解った。まあ、今は落ち着け
+
+==========================
+
+森 園生Mori Sonou
+SY/W08-008 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Maid メイド,
+Card Text/Abilities:
+【C】 All your other 《メイド》 characters get +500 Power.
+【S】［Put this card to REST］ Choose 1 of your 《メイド》 characters, during this turn, it gets +1000 Power.
+【永】 他のあなたの《メイド》のキャラすべてに、パワーを＋500。
+【起】［このカードを【レスト】する］あなたは自分の《メイド》のキャラを1枚選び、そのターン中、パワ－＋1000
+Flavor Text:
+The ship will properly not there
+船は無いと思われますが
+
+==========================
+
+水着のキョンの妹Kyon's Little Sister in Swimsuit
+SY/W08-009 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Animal 動物,_Swimsuit 水着
+Card Text/Abilities:
+【A】When this card comes to Stage from hand, during this turn, this card gets +1500 Power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【自】このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く)
+Flavor Text:
+Here here!
+こっちこっちー！
+
+==========================
+
+部室のキョンClubroom's Kyon
+SY/W08-010 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Mecha メカ,_SOS Dan SOS団
+Card Text/Abilities:
+【A】 CHANGE ［Put this card into Clock］ At the start of your Encore Step, if this card is in REST, you may pay this cost. If you do, choose 1 「“いつも”のキョン」 from your Waiting Room, place it into this card's previous slot.
+【自】 チェンジ  ［このカードをクロック置場に置く］あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“いつも”のキョン」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+I'm impressed that I feel normal in this irrational space recently
+最近この理不尽空間に
+普通に馴染んでる自分に感心してな
+
+==========================
+
+古泉 一樹Koizumi Itsuki
+SY/W08-011 U
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 0
+Power: 8000
+Soul: 2
+Traits:: Psychic Power 超能力,_SOS Dan SOS団
+Card Text/Abilities:
+【C】During your turn, for each of your other 《SOS団》 characters, this card gets +500 Power.
+【A】When this card attacks, if 「閉鎖空間」 is in your climax slot, you may choose 1 of your opponent's characters, and return it to his hand.
+【永】あなたのターン中、他のあなたの《SOS団》のキャラ1枚につき、このカードのパワーを+500。
+【自】このカードがアタックしたとき、クライマックス置場に「閉鎖空間」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。
+Flavor Text:
+Thanks for the waiting. In the end I will show you something interesting
+お待たせしました。
+最後にもう一つ面白いものが見れますよ
+
+==========================
+
+部室の長門＆古泉Clubroom's Nagato & Koizumi
+SY/W08-012 U
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Alien 宇宙人,_Psychic Power 超能力
+Card Text/Abilities:
+【A】［Place 1 hand card into the waiting room］ When you use this card's 「ASSIST」, you may pay the cost. If you do, choose 2 cards from your opponent's waiting room, return them to the deck. Shuffle the deck afterwards.
+【S】● ASSIST 2500 Level 2 ［Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +2500 Power)
+【自】[手札を1枚控え室に置く］あなたがこのカードの『 助太刀 』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードを2枚まで選び、山札に戻す。その山札をシャッフルする。
+【起】● 助太刀2500 レベル2 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを+2500)
+Flavor Text:
+Koizumi [Very sorry, we, are some less common existence]
+古泉「どうもすみません、
+我々、少しばかり非常識な存在なんですよ」
+
+==========================
+
+クラスメイト国木田Classmate Kunikida
+SY/W08-013 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【C】 ALARM When this card is at the top of your Clock, if you are Level 2 or above, all your characters with no traits gain the following ability.「【A】［①］When the card battling this card becomes REVERSE, you may pay the cost. If you do, search your deck for 1 character without traits, show it to your opponent, and place it into your hand. Shuffle your deck afterwards.」
+【永】 アラーム このカードがクロックの1番上にあるなら、あなたの特徴を持たないキャラすべてに、次の能力を与える。『【自】［①］このカードとバトル中のキャラが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て特徴を持たないキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。』
+Flavor Text:
+Kyon always like some weird girl~
+昔からキョンは変な女が好きだからね～
+
+==========================
+
+エプロン姿のキョンKyon in Apron
+SY/W08-014 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Book 本,_SOS Dan SOS団
+Card Text/Abilities:
+【C】During your turn, all your other characters get +500 Power.
+【A】When the opponent uses 「CONCENTRATE」, if a climax is sent to the waiting room through that ability, choose 1 character, during this turn, it gets +2000 Power.
+【永】あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。
+【自】相手が『 集中 』を使った時、その効果でクライマックスが控え室に置かれたなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+The reality is surprisingly cruel
+しかし現実ってのは意外と厳しい
+
+==========================
+
+エプロン姿の古泉Koizumi In Apron
+SY/W08-015 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Psychic Power 超能力,_Book 本
+Card Text/Abilities:
+【C】If you have another 《団長》 character, this card gets +2000 Power.
+【永】他のあなたの《団長》のキャラがいるなら、このカードのパワーを＋2000
+Flavor Text:
+I'm Koizumi Itsuki, ...nice to meet you
+古泉一樹です、･･･よろしく
+
+==========================
+
+クラスメイト谷口Classmate Taniguchi
+SY/W08-016 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【C】During your turn, this card gets +1000 Power.
+【永】あなたのターン中、このカードのパワーを＋1000
+Flavor Text:
+Whatever you are on crush on her, it's bad to say this, give up
+もしあいつに気があるんだったら、
+悪いことは言わん、やめとけ
+
+==========================
+
+がんばりすぎのみくる＆キョンOver Effort Mikuru & Kyon
+SY/W08-017 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Time 時間,_SOS Dan SOS団
+Card Text/Abilities:
+Flavor Text:
+How adorable of her careless,
+キョン「あのうかつで愛らしい方は、
+なかなかドアに施錠することを覚えないからなぁ」
+
+==========================
+
+ダンディな執事　新川Dandy Butler Arakawa
+SY/W08-018 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Butler 執事,
+Card Text/Abilities:
+【A】when a climax card is revealed by your character's trigger check, choose 1 of your characters, during this turn, it gets +2000 Power.
+【自】あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを+2000。
+Flavor Text:
+こちらに船をお用意してございます
+
+==========================
+
+キョンの妹＆朝倉Kyon's Little Sister & Asakura
+SY/W08-019 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Animal 動物,_Alien 宇宙人
+Card Text/Abilities:
+Flavor Text:
+Kyon's Little Sister [What is it?]
+キョンの妹「どしたの？」
+
+==========================
+
+合宿の夜Camping Night
+SY/W08-020 U
+Type: Event
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Reveal the top card of your deck. If it is an 《SOS団》 character, you may draw 1 card. (If not, return it to as it was.)
+All your 《SOS団》 characters, during this turn, get +1 Soul.
+あなたは自分の山札の上から1枚を公開する。そのカードが《SOS団》のキャラなら、あなたは1枚引いてよい。（そうでないなら元に戻す）
+あなたの《SOS団》のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+[Nothing's change, the day's end without anything happen]
+「変ったことも無く、無事一日目を終了した。」
+
+==========================
+
+雨の日の帰り道Return Home In Rainy Day
+SY/W08-021 U
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+●If you have 3 or more characters in your front row, this card cannot be played from hand.
+All your characters, during this turn, get +2500 Power.
+●このカードは、あなたの前列のキャラが３枚以上なら、手札からプレイできない。
+あなたのキャラすべてに、そのターン中、パワーを＋2500
+Flavor Text:
+Haruhi [Can't you come closer? I'm going to get wet]
+ハルヒ「もっとこっちに寄せなさいよ、
+あたしが濡れるでしょ」
+
+==========================
+
+ふもっふ！Fumoffu!
+SY/W08-022 C
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your opponent's front row level 3 or below character, place it in stock.
+あなたは相手の前列のレベル3以下のキャラを1枚選び、ストック置場に置く
+Flavor Text:
+It missed
+すぐすみますよ
+
+==========================
+
+涼宮ハルヒの朗報The Announcement Of Suzumiya Haruhi
+SY/W08-023 CR
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2
+Flavor Text:
+Everybody listen! I'm going to announce!
+みんな聞いて！朗報よ！
+
+==========================
+
+sleeping beauty_sleeping beauty_
+SY/W08-024 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1W
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+(Wind：When this card is Triggered, you may choose 1 of opponent's Characters, return to his/her hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(風：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+The ponytail that your had whenever it looked so good it was criminal
+いつだったかのお前のポニーテールは
+反則的なまでに似合ってたぞ
+
+==========================
+
+閉鎖空間Closed Space
+SY/W08-025
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1F
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Flame：When this card is Triggered, if your current attacking Character's damage is canceled, deal 1 damage to opponent.)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(炎：このカードがトリガーしたバトル中、あなたのキャラが次に与えたダメージがキャンセルされた時、相手に1ダメージを与える。)
+Flavor Text:
+Alright, I will join them now
+さて、僕も参加しなければ
+
+==========================
+
+異時間同位体 みくる＆みくる（大）Time Divergent Variant Mikuru & Mikuru (Big)
+SY/W08-026R RRR
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Time 時間,_SOS Dan SOS団
+Card Text/Abilities:
+【A】When this card attacks, if 「禁則事項です」 is in your climax slot, until the end of your opponent's next turn, your opponent cannot play event cards from the hand.
+【A】When this card attacks, if 「禁則事項です」 is in your climax slot, all your characters, during this turn, get +1500 Power.
+【自】このカードがアタックした時、クライマックス置場に「禁則事項です」があるなら、次の相手のターンの終わりまで、相手はイベントを手札からプレイできない。
+【自】このカードがアタックした時、クライマックス置場に「禁則事項です」があるなら、あなたのキャラすべてに、そのターン中、パワーを＋1500。
+Flavor Text:
+I'm from the future more than you know
+あなたの知ってる私よりもっと未来から来ました
+
+==========================
+
+異時間同位体 みくる＆みくる（大）Time Divergent Variant Mikuru & Mikuru (Big)
+SY/W08-026 RR
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Time 時間,_SOS Dan SOS団
+Card Text/Abilities:
+【A】When this card attacks, if 「禁則事項です」 is in your climax slot, until the end of your opponent's next turn, your opponent cannot play event cards from the hand.
+【A】When this card attacks, if 「禁則事項です」 is in your climax slot, all your characters, during this turn, get +1500 Power.
+【自】このカードがアタックした時、クライマックス置場に「禁則事項です」があるなら、次の相手のターンの終わりまで、相手はイベントを手札からプレイできない。
+【自】このカードがアタックした時、クライマックス置場に「禁則事項です」があるなら、あなたのキャラすべてに、そのターン中、パワーを＋1500
+Flavor Text:
+I'm from the future more than you know
+あなたの知ってる私よりもっと未来から来ました
+
+==========================
+
+ドジっ娘みくるClumsy Girl Mikuru
+SY/W08-027 RR
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 2500
+Soul: 2
+Traits:: Time 時間,_SOS Dan SOS団
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +1500 Power.
+【A】When this card comes to Stage from hand, if you have 2 or more other 《時間》 characters, you may place the top card of your deck into stock.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1500。
+【自】このカードが手札から舞台に置かれた時、他のあなたの《時間》のキャラが2枚以上なら、あなたは自分の山札の上から1枚を、ストック置き場に置いてよい
+Flavor Text:
+awawa...wawa
+あわわ…わわっ
+
+==========================
+
+おめかし鶴屋さんDressing Up Tsuruya San
+SY/W08-028S SR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Forehead オデコ,_Double Tooth 八重歯
+Card Text/Abilities:
+【C】If you have 2 or less other characters, this card gets +1500 Power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【永】他のあなたのキャラが2枚以下なら、このカードのパワーを＋1500。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+Yaha! is Mikuru here?
+やっほー！、みくるいる？
+
+==========================
+
+おめかし鶴屋さんDressing Up Tsuruya San
+SY/W08-028 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Forehead オデコ,_Double Tooth 八重歯
+Card Text/Abilities:
+【C】If you have 2 or less other characters, this card gets +1500 Power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【永】他のあなたのキャラが2枚以下なら、このカードのパワーを＋1500。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+Yaha! is Mikuru here?
+やっほー！、みくるいる？
+
+==========================
+
+朝比奈 みくるAsahina Mikuru
+SY/W08-029 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Time 時間,_SOS Dan SOS団
+Card Text/Abilities:
+【A】［②］At the start of your encore step, you may pay the cost. If you do, choose 1 of your characters and this card, place them in memory. At the start of your next draw phase, place those characters that are in your memory back onto the stage in their previous slots. During that turn, they get +1000 Power.
+【自】［②］あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚と、このカードを選び、思い出にする。次のあなたのドローフェイズの始めに、あなたは自分の思い出置場のそれらのキャラを、舞台の別々の枠に置き、そのターン中、それらのキャラのパワーを+1000。
+Flavor Text:
+Please call me Mikuru
+それからわたしのことでしたら、
+どうぞみくるちゃんとお呼び下さい
+
+==========================
+
+温泉の鶴屋さんTsuruya San In Hotspring
+SY/W08-030 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Forehead オデコ,_Double Tooth 八重歯
+Card Text/Abilities:
+【S】 CONCENTRATE ［②］Place the top 4 cards of your Deck into Waiting Room. For every climax in those cards, choose 1 of your opponent's characters, during this turn, it gets -2000 Power.
+【起】 集中 ［②］あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは相手のキャラを1枚選び、そのターン中、パワーを－2000。
+Flavor Text:
+I can't stop laughing
+笑いが止まんないねっ
+
+==========================
+
+時をかける少女みくるThe Girl Who Leapt Through Time Mikuru
+SY/W08-031R RRR
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Time 時間,_Book 本
+Card Text/Abilities:
+【A】 CHANGE ［① Place this card in Clock］At the start of your Encore Step, if this card is in REST, you may pay this cost. If you do, choose 1 「異時間同位体 みくる＆みくる（大）」 from your Waiting Room, place it into this card's previous slot.
+【S】● ASSIST 1500 Level 1 ［Discard this card from hand to Waiting Room］ (Choose 1 character that is being Front Attacked, during this turn, it gets +1500 Power.)
+【自】 チェンジ  ［① このカードをクロック置場に置く］あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「異時間同位体 みくる＆みくる（大）」を1枚選び、このカードがいた枠に置く。
+【起】● 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋1500)
+Flavor Text:
+I think you won't believe, I'm not the human from this era
+信じてもらえないかもしれないけど、あたしはこの時代の人間ではありません
+
+==========================
+
+時をかける少女みくるThe Girl Who Leapt Through Time Mikuru
+SY/W08-031 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Time 時間,_Book 本
+Card Text/Abilities:
+【A】 CHANGE ［① Place this card in Clock］At the start of your Encore Step, if this card is in REST, you may pay this cost. If you do, choose 1 「異時間同位体 みくる＆みくる（大）」 from your Waiting Room, place it into this card's previous slot.
+【S】● ASSIST 1500 Level 1 ［Discard this card from hand to Waiting Room］ (Choose 1 character that is being Front Attacked, during this turn, it gets +1500 Power.)
+【自】 チェンジ  ［① このカードをクロック置場に置く］あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「異時間同位体 みくる＆みくる（大）」を1枚選び、このカードがいた枠に置く。
+【S】● ASSIST 1500 Level 1 ［Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +1500 Power)
+Flavor Text:
+I think you won't believe, I'm not the human in this era
+信じてもらえないかもしれないけど、あたしはこの時代の人間ではありません
+
+==========================
+
+水着のハルヒ＆みくるHaruhi & Mikuru In Swimsuit
+SY/W08-032S SR
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Dancho 団長,_Time 時間
+Card Text/Abilities:
+【A】［Place 1 《時間》 character from the stage into the Waiting Room］When this card attacks, if 「涼宮ハルヒの日常」 is in your climax slot, you may pay the cost. If you do, search your deck for 1 《時間》 character, show it to your opponent, and place it in your hand. Shuffle the deck afterwards.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【自】［あなたの舞台の《時間》のキャラを1枚控え室に置く］このカードがアタックした時、クライマックス置場に「涼宮ハルヒの日常」があるなら、あなたはコストを支払ってよい。そうしたら、あなたは自分の山札を見て《時間》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+Haruhi [Ah, it's really big]
+ハルヒ「あー本当におっきいなー」
+
+==========================
+
+水着のハルヒ＆みくるHaruhi & Mikuru in Swimsuit
+SY/W08-032 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Dancho 団長,_Time 時間
+Card Text/Abilities:
+【自】［Place 1 《時間》 character from the stage into the Waiting Room］When this card attacks, if 「涼宮ハルヒの日常」 is in your climax slot, you may pay the cost. If you do, search your deck for 1 《時間》 character, show it to your opponent, and place it in your hand. Shuffle the deck afterwards.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【自】［あなたの舞台の《時間》のキャラを1枚控え室に置く］このカードがアタックした時、クライマックス置場に「涼宮ハルヒの日常」があるなら、あなたはコストを支払ってよい。そうしたら、あなたは自分の山札を見て《時間》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+Haruhi [Ah, it's really big]
+ハルヒ「あー本当におっきいなー」
+
+==========================
+
+おめかしみくるDressing Up Mikuru
+SY/W08-033 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Time 時間,_SOS Dan SOS団
+Card Text/Abilities:
+【C】All your other 《SOS団》 characters get +1 Level, +500 Power.
+【A】［Discard 1 card from hand to waiting room］When the opponent uses 「CONCENTRATE」, if a climax is sent to the waiting room through that ability, you may pay the cost. If you do, choose 1 of your opponent's characters, during this turn, it gets -2000 Power.
+【永】他のあなたの《SOS団》のキャラすべてに、レベルを＋1し、パワーを＋500。
+【自】［手札を1枚控え室に置く］相手が『 集中 』を使った時、その効果でクライマックスが控え室に置かれたなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、そのターン中、パワーを－2000。
+Flavor Text:
+If I can't get married, can you marry me?
+わたしがお嫁にいけなくなったら、
+もらってくれますか？
+
+==========================
+
+ネコミミ 鶴屋さんCat Ear Tsuruya San
+SY/W08-034 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 1
+Power: 3000
+Soul: 1
+Traits:: Forehead オデコ,_Animal 動物
+Card Text/Abilities:
+【A】［①］ When a climax is revealed during your character's trigger check, if the trigger icon is BAG, you may pay the cost. If you do, choose 1 of your opponent's characters, during this turn, it gets -1000 Power.
+【A】 BOND／「ネコミミ みくる」［①］(When this card is played to Stage, you may pay this cost. If you do, choose 1 「ネコミミ みくる」 from your Waiting Room, return to hand)
+【自】［①］あなたのキャラのトリガーチェックでクライマックスがでた時、そのカードのトリガーアイコンが袋なら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、そのターン中、パワーを－1000。
+【自】 絆／「ネコミミ みくる」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ネコミミ みくる」を1枚選び、手札に戻す)
+Flavor Text:
+How was it?
+どうにょろ？
+
+==========================
+
+ビーチバレー みくる＆鶴屋さんBeach Volleyball Mikuru & Tsuruya San
+SY/W08-035 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Swimsuit 水着,_Sports スポーツ
+Card Text/Abilities:
+Flavor Text:
+Tsuruya san [That's great, I will leave it to you Mikuru!]
+鶴屋さん「そいつはすごいねっ。
+任せたよミクル！」
+
+==========================
+
+ウェイトレス鶴屋さんWaitress Tsuruya San
+SY/W08-036 U
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Forehead オデコ,_Waitress ウェイトレ
+Card Text/Abilities:
+【C】For each of your other 《時間》 characters, this card gets +500 Power.
+【A】 When this card attacks, If 「もうボロ儲けだよっ！」 is in your climax slot, choose 1 of your opponent's characters, during this turn, it gets -X Power. X is equal to the number of your 《時間》 characters x1000.
+【永】他のあなたの《時間》のキャラ1枚につき、このカードのパワーを＋500。
+【自】 このカードがアタックした時、クライマックス置場に「もうボロ儲けだよっ！」があるなら、あなたは相手のキャラを1枚選び、そのターン中、パワーを－Ｘ。Ｘはあなたの《時間》のキャラの枚数×1000に等しい
+Flavor Text:
+How was it. Don't you think it looks good on me?
+どうだいっ。
+この衣装めがっさ似合ってると思わないかなっ？
+
+==========================
+
+ネコミミ みくるCat Ear Mikuru
+SY/W08-037 U
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Time 時間,_Animal 動物
+Card Text/Abilities:
+【C】The Character facing this card gets -1 Soul.
+【A】［①］When this card is placed onto the stage from hand, you may pay the cost. If you do, until the end of your opponent's next turn, your opponent cannot play climax cards from hand.
+【永】このカードの正面のキャラのソウルを－1。
+【自】［①］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、相手はクライマックスを手札からプレイできない
+Flavor Text:
+It is embarrassing...
+さぶいです･･･。
+それに恥ずかしいですよぅ･･･
+
+==========================
+
+サイン会みくるSign Event Mikuru
+SY/W08-038 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Time 時間,_Book 本
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【S】 ［Discard 1 climax from hand to the waiting room, put 2 of your characters to REST］ Search your deck for 1 《時間》 character, show it to your opponent, and place it into your hand. Shuffle the deck afterwards.
+【永】 応援  このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】 ［手札のクライマックスを1枚控え室に置き、あなたのキャラを2枚レストする］あなたは自分の山札を見て《時間》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+Thanks for the waiting
+おまたせしちゃってごめんなさい
+
+==========================
+
+SOS団のマスコットみくるSOS Dan's Mascot Mikuru
+SY/W08-039 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Time 時間,_Maid メイド
+Card Text/Abilities:
+【A】 When another of your 《SOS団》 characters is placed onto the stage from the hand or memory, during that turn, that character gets +1000 Power, it gains 《お茶》.
+【自】他のあなたの《SOS団》のキャラが手札か思い出置場から舞台に置かれた時、そのターン中、そのキャラのパワーを+1000し、《お茶》を与える。
+Flavor Text:
+Here's your tea♪
+お茶です、どーぞ♪
+
+==========================
+
+ウェイトレスみくるWaitress Mikuru
+SY/W08-040 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Time 時間,_Waitress ウェイトレ
+Card Text/Abilities:
+【A】 CHANGE ［① Place this card in Clock］At the start of your Encore Step, if this card is in REST, you may pay this cost. If you do, choose 1 「未来から来たみくる」 from your Waiting Room, place it into this card's previous slot.
+【自】 チェンジ  ［このカードをクロック置場に置く］あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「未来から来たみくる」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+Ah, Welcome
+あ、いらっしゃいませぇ
+
+==========================
+
+バニーガール ハルヒ＆長門＆みくるBunny Girl Haruhi & Nagato & Mikuru
+SY/W08-041 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Animal 動物,_SOS Dan SOS団
+Card Text/Abilities:
+Flavor Text:
+Haruhi [It's moe, moe is very important]
+ハルヒ「萌えよ萌え、いわゆる一つの萌え要素」
+
+==========================
+
+未来から来たみくるMikuru Who Comes From The Future
+SY/W08-042 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Time 時間,
+Card Text/Abilities:
+【C】If there is 5 or more cards in your stock, this card gets +1000 Power.
+【A】［①］When this card is placed into the waiting room from the stage, you may pay the cost. If you do, Choose 1 「ウェイトレスみくる」 from your waiting room, place it on this card's previous slot in REST.
+【永】あなたのストックが5枚以上なら、このカードのパワーを＋1000
+【自】［①］このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ウェイトレスみくる」を1枚選び、このカードがいた枠にレストして置く
+Flavor Text:
+Classified Information
+禁則事項です
+
+==========================
+
+Xmasパーティ 鶴屋さん＆みくるXmas Party Tsuruya San & Mikuru
+SY/W08-043 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Time 時間,_Forehead オデコ
+Card Text/Abilities:
+【C】If your opponent has 4 or more characters, this card gets +1000 Power.
+【永】相手のキャラが4枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+鶴屋さん「ちょろんと待ってて！」
+
+==========================
+
+ミラクルガール みくるMiracle Girl Mikuru
+SY/W08-044 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Time 時間,_Maid メイド
+Card Text/Abilities:
+Flavor Text:
+Haruhi [In the end maid is still moe after all?]
+ハルヒ「やっぱり萌えといったらメイドでしょ？」
+
+==========================
+
+みくるビームMikuru Beam
+SY/W08-045 U
+Type: Event
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+If you don't have any 《時間》 characters, this card cannot be played from hand. Choose 1 character in clock, return it to your hand. Choose 1 of your opponent's characters, during this turn, it gets -1000 Power. Place this card in Clock.
+このカードは、あなたの《時間》のキャラがいないなら、手札からプレイできない。あなたは自分のクロック置場のキャラを1枚選び、手札に戻す。あなたは相手のキャラを1枚選び、そのターン中、パワーを-1000。このカードをクロック置場に置く
+Flavor Text:
+Mimi, Mikuru Beam!
+みっみっ、みくるビィーム！
+
+==========================
+
+任意同行？Agree To Accompany?
+SY/W08-046 U
+Type: Event
+Level: 1
+Color: Green
+Cost: 4
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 Level 2 or below 《SOS団》 character from your clock, place it onto the stage in any slot. Place this card into Clock.
+あなたは自分のクロック置場のレベル2以下の《SOS団》のキャラを1枚選び、舞台の好きな枠に置く。このカードをクロック置場に置く
+Flavor Text:
+Wha what is it? Whe where is here. Why are you brought me here
+なんなんですかー？ここどこですか。
+何であたし連れてこられたんですか
+
+==========================
+
+野球大会Baseball Competition
+SY/W08-047 C
+Type: Event
+Level: 2
+Color: Green
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+●Choose 1 of your characters, during this turn, it gets +X Power. X is equal to the number of cards in your stock x500.
+●あなたは自分のキャラを1枚選び、そのターン中、パワーを+X。Xはあなたのストックの枚数×500に等しい
+Flavor Text:
+[Ooooh]
+「おぉー」
+
+==========================
+
+涼宮ハルヒの日常The Everyday of Suzumiya Haruhi
+SY/W08-048 CR
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: G
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gold：When this card is Triggered, put this card in your hand. You may put the top card of your deck to Stock)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(宝：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい)
+Flavor Text:
+Haruhi [Let's go, Mikuru chan!]
+ハルヒ「行くわよ、みくるちゃん！」
+
+==========================
+
+禁則事項ですClassified Information
+SY/W08-049 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: S
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Bag：When this card is Triggered, you may take the top card of your deck, put to Stock.)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(袋：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい)
+Flavor Text:
+Classified Information♪
+禁則事項です♪
+
+==========================
+
+もうボロ儲けだよっ！It's Easy Money!
+SY/W08-050 C
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card comes to Stage from hand, draw 1 card. Choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+
+==========================
+
+Xmasパーティ ハルヒ＆キョンXmas Party Haruhi & Kyon
+SY/W08-051 RR
+Type: Character
+Level: 1
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Dancho 団長,_SOS Dan SOS団
+Card Text/Abilities:
+【C】 All your other 《団長》 characters get +1000 Power.
+【永】 他のあなたの《団長》のキャラすべてに、パワーを＋1000
+Flavor Text:
+Kyon! Something's out!
+キョン！　なんか出た！
+
+==========================
+
+ＳＯＳ団団長ハルヒSOS Dan Dancho Haruhi
+SY/W08-052S SP
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Dancho 団長,_SOS Dan SOS団
+Card Text/Abilities:
+【A】［②］When 「SOS団誕生！」 is placed into your climax slot, if this card is in the front row, you may pay the cost. If you do, search your deck for 1 Level 2 or below 《SOS団》 character and place it onto the stage in any slot. Shuffle your deck afterwards.
+【自】［②］あなたのクライマックス置場に「SOS団誕生！」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル2以下の《SOS団》のキャラを1枚まで選び、舞台の好きな枠に置く。その山札をシャッフルする。
+Flavor Text:
+The activity of SOS Dan, is! Find out Alien and Time Traveler and Esper, and play with them!
+SOS団の活動内容、それは！宇宙人や未来人や
+超能力者を探し出して、一緒に遊ぶことよ！
+
+==========================
+
+ＳＯＳ団団長ハルヒSOS Dan Dancho Haruhi
+SY/W08-052 RR
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Dancho 団長,_SOS Dan SOS団
+Card Text/Abilities:
+【a】［②］When 「SOS団誕生！」 is placed into your climax slot, if this card is in the front row, you may pay the cost. If you do, search your deck for 1 Level 2 or below 《SOS団》 character and place it onto the stage in any slot. Shuffle your deck afterwards.
+【自】［②］あなたのクライマックス置場に「SOS団誕生！」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル2以下の《SOS団》のキャラを1枚まで選び、舞台の好きな枠に置く。その山札をシャッフルする。
+Flavor Text:
+The activity of SOS Dan, is! Find out Alien and Time Traveler and Esper, and play with them!
+SOS団の活動内容、それは！宇宙人や未来人や
+超能力者を探し出して、一緒に遊ぶことよ！
+
+==========================
+
+浴衣のハルヒHaruhi In Yukata
+SY/W08-053S SR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Dancho 団長,_Wafuku 和服
+Card Text/Abilities:
+【A】 BOND／「浴衣のキョン」 ［Place the top card of your deck into Clock］ (When this card is played to Stage, you may pay this cost. If you do, choose 1 「浴衣のキョン」 from your Waiting Room, return to hand)
+【S】［①］Choose 1 of your 《和服》 characters, during this turn, it gets +1000 Power.
+【自】 絆／「浴衣のキョン」 ［あなたの山札の上から1枚をクロック置場に置く］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「浴衣のキョン」を1枚選び、手札に戻す)
+【起】［①］あなたは自分の《和服》のキャラを1枚選び、そのターン中、パワーを+1000。
+Flavor Text:
+Don't you feel happy about this discovery
+もうちょっとあんたも喜びなさいよ、この発見を
+
+==========================
+
+浴衣のハルヒHaruhi In Yukata
+SY/W08-053 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Dancho 団長,_Wafuku 和服
+Card Text/Abilities:
+【A】 BOND／「浴衣のキョン」 ［Place the top card of your deck into Clock］ (When this card is played to Stage, you may pay this cost. If you do, choose 1 「浴衣のキョン」 from your Waiting Room, return to hand)
+【S】［①］Choose 1 of your 《和服》 characters, during this turn, it gets +1000 Power.
+【自】 絆／「浴衣のキョン」 ［あなたの山札の上から1枚をクロック置場に置く］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「浴衣のキョン」を1枚選び、手札に戻す)
+【起】［①］あなたは自分の《和服》のキャラを1枚選び、そのターン中、パワーを+1000
+Flavor Text:
+Don't you feel happy about this discovery
+もうちょっとあんたも喜びなさいよ、この発見を
+
+==========================
+
+温泉のハルヒHotspring Haruhi
+SY/W08-054 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Dancho 団長,_SOS Dan SOS団
+Card Text/Abilities:
+【A】 When this card becomes REVERSE, if the character battling this card is Level 0 or below, you may put that character into REVERSE.
+【A】 When this card becomes REVERSE in battle, you may choose 1 《SOS団》 character, during this turn, it gets +1500 Power.
+【自】 このカードがリバースした時、このカードとバトル中のキャラのレベルが0以下なら、あなたはそのキャラをリバースしてよい。
+【自】 バトル中のこのカードがリバースした時、あなたは自分の《SOS団》のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+アンタがそれでいいなら、まあいいわ♡
+
+==========================
+
+世界の中心ハルヒ＆ちっぽけなハルヒWorld Centered Haruhi & Little Haruhi
+SY/W08-055S SR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Dancho 団長,_Dancho 団長
+Card Text/Abilities:
+【C】 If this card is in the center of the Front Row, this card gets +1000 Power.
+【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋1000
+Flavor Text:
+So sorry! I'm late! It takes time to catch this one!
+【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋1000
+
+==========================
+
+世界の中心ハルヒ＆ちっぽけなハルヒWorld Centered Haruhi & Little Haruhi
+SY/W08-055 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Dancho 団長,_SOS Dan SOS団
+Card Text/Abilities:
+【C】 If this card is in the center of the Front Row, this card gets +1000 Power.
+【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋1000。
+Flavor Text:
+So sorry! I'm late! It takes time to catch this one!
+やあごめんごめん！　遅れちゃった！
+捕まえるのに手間取っちゃって
+
+==========================
+
+“いつも”のハルヒThe Usual Haruhi
+SY/W08-056S SP
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Dancho 団長,_SOS Dan SOS団
+Card Text/Abilities:
+【A】When the character battling this card becomes REVERSE, you may place this card in memory. If you do, at the start of your next Draw Phase, choose 1 「“いつも”のハルヒ」 from your memory and place it onto the stage in any slot.
+【自】このカードとバトル中のキャラがリバースした時、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「“いつも”のハルヒ」を1枚選び、舞台の好きな枠に置く。
+Flavor Text:
+What?
+なに？
+
+==========================
+
+“いつも”のハルヒThe Usual Haruhi
+SY/W08-056 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Dancho 団長,_SOS Dan SOS団
+Card Text/Abilities:
+【A】When the character battling this card becomes REVERSE, you may place this card in memory. If you do, at the start of your next Draw Phase, choose 1 「“いつも”のハルヒ」 from your memory and place it onto the stage in any slot.
+【自】このカードとバトル中のキャラがリバースした時、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「“いつも”のハルヒ」を1枚選び、舞台の好きな枠に置く。
+Flavor Text:
+What?
+なに？
+
+==========================
+
+ビーチバレー ハルヒBeach Volley Ball Haruhi
+SY/W08-057 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 5000
+Soul: 2
+Traits:: Dancho 団長,_Sports スポーツ
+Card Text/Abilities:
+【C】 For each of the unique traits that your characters have, this card gets +500 Power.
+【永】あなたのキャラすべての持つ異なる特徴1つにつき、このカードのパワーを+500。
+Flavor Text:
+Come on!
+しまっていこー！
+
+==========================
+
+超編集長ハルヒSuper Editor Haruhi
+SY/W08-058 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Glasses メガネ,_Book 本
+Card Text/Abilities:
+【A】 When another of your 《本》 character becomes REVERSE in battle, choose 1 of your characters, during this turn, it gets +1000 Power.
+【A】［①］When the opponent uses 「CONCENTRATE」, if a climax is sent to the waiting room through that ability, you may pay the cost. If you do, deal 1 damage to your opponent.
+【自】他のあなたのバトル中の《本》のキャラがリバースした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを+1000。
+【自】［①］相手が「集中」を使った時、その効果でクライマックスが控え室に置かれたなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。
+Flavor Text:
+Well, I'll go to the procurement
+じゃあ、調達にいくわよ
+
+==========================
+
+おめかしハルヒDressing Up Haruhi
+SY/W08-059 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Dancho 団長,_SOS Dan SOS団
+Card Text/Abilities:
+【A】When the character battling this card becomes REVERSE, choose 1 of your other characters, put it into REST and move it to an empty slot in the back row.
+【自】このカードとバトル中のキャラがリバースした時、あなたは他の自分のキャラを1枚選び、レストし、後列のキャラのいない枠に動かす
+Flavor Text:
+There's nothing I can't understand, I'm done!
+なんかよく分かんないけど、でかしたわ！
+
+==========================
+
+退屈を嫌うハルヒBoredom Hater Haruhi
+SY/W08-060 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Dancho 団長,_SOS Dan SOS団
+Card Text/Abilities:
+【A】［⑥］When this card is placed onto the stage from the hand, you may pay the cost. If you do, Choose 1 《宇宙人》, 《時間》 and 《超能力》 character, return them to your hand.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【自】［⑥］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《宇宙人》のキャラと《時間》のキャラと《超能力》のキャラを1枚ずつ選び、手札に戻す。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+Ahhh, why there's no case is happening...
+あぁぁ、パアッと事件の1つでも発生しないかなぁ…
+
+==========================
+
+浴衣のハルヒ＆みくるHaruhi & Mikuru In Yukata
+SY/W08-061 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Wafuku 和服,_SOS Dan SOS団
+Card Text/Abilities:
+Flavor Text:
+Mikuru [...whewhere are you touching?!]
+みくる「…どどこ触ってるんですかぁ!?」
+
+==========================
+
+Happy ValentineハルヒHappy Valentine Haruhi
+SY/W08-062 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Dancho 団長,_Sweets お菓子
+Card Text/Abilities:
+【A】When this card attacks, if 「Happy Valentine」 is in your climax slot, choose 1 of your other characters, during this turn, gain the following ability. 「【A】When the character battling this card becomes REVERSE, choose 1 character from your waiting room, you may return it to your hand.」
+【自】このカードがアタックした時、クライマックス置場に「Happy Valentine」があるなら、あなたは他の自分のキャラを1枚選び、そのターン中、次の能力を与える。「【自】このカードとバトル中のキャラがリバースした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。」
+Flavor Text:
+Yep, complete!
+うん、完璧！
+
+==========================
+
+両手いっぱいの花束ハルヒBoth Hands Holding Bonquet Flower Haruhi
+SY/W08-063 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Dancho 団長,_SOS Dan SOS団
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【A】［①］When a climax is revealed during your character's trigger check, if the trigger icon is GATE, you may pay the cost. If you do, Choose 1 of your opponent's Front Row Level 1 or below characters, place it in the waiting room.
+【永】 応援  このカードの前のあなたのキャラすべてに、パワーを＋500。
+【自】［①］あなたのキャラのトリガーチェックでクライマックスが出た時、そのカードのトリガーアイコンが扉なら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル1以下のキャラを1枚選び、控え室に置く。
+Flavor Text:
+Eh, is it alright?
+え、いいの？
+
+==========================
+
+涼宮 ハルヒSuzumiya Haruhi
+SY/W08-064 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Dancho 団長,_SOS Dan SOS団
+Card Text/Abilities:
+Flavor Text:
+If not, there will be death penalty!
+こないと、死刑だから！
+
+==========================
+
+ボーカリスト ハルヒVocalist Haruhi
+SY/W08-065 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Dancho 団長,_Music 音楽
+Card Text/Abilities:
+【S】● ASSIST 2000 Level 1 ［Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +2000 Power)
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000)
+Flavor Text:
+Alright the next song. 『Lost my music』
+じゃあ行きます。『Lost my music』
+
+==========================
+
+勝利宣言ハルヒVictory Annoucement Haruhi
+SY/W08-066 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 6500
+Soul: 1
+Traits:: Dancho 団長,_Wafuku 和服
+Card Text/Abilities:
+【A】 CHANGE ［① Place this card into Clock］At the start of your encore step, if this card is in REST, you may pay the cost. If you do, choose 1 「トラブルガール ハルヒ」 from your Waiting Room, place it in this card's previous border.
+【S】 CONCENTRATE ［③］Place the top 3 cards of your Deck into Waiting Room. Choose 1 Level X or below 《団長》 character from your waiting room, place it on the stage in any slot. X is equal to the number of 《団長》 characters placed into the Waiting Room in this way.
+【自】 チェンジ  ［① このカードをクロック置場に置く］あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「トラブルガール ハルヒ」を1枚選び、このカードがいた枠に置く。
+【起】 集中 ［③］あなたは自分の山札の上から3枚をめくり、控え室に置く。あなたは自分の控え室のレベルX以下の《団長》のキャラを1枚選び、舞台の好きな枠に置く。Xはそれらのカードの《団長》のキャラの枚数に等しい。
+Flavor Text:
+As expected the numerical targets you have to always exceed the previous year!
+やっぱ目標数値は常に昨年対比を上回らないといけないのよ！
+
+==========================
+
+ネコミミ ハルヒCat Ear Haruhi
+SY/W08-067 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Dancho 団長,_Animal 動物
+Card Text/Abilities:
+【C】If this card is in the center of the Front Row, this card gets +1000 Power.
+【永】前列の中央の枠にこのカードがいるなら、このカードのパワーを＋1000。
+Flavor Text:
+How was it? Like this everyone will notice us
+どう？　これで注目度ばっちりでしょ
+
+==========================
+
+クラッカー ハルヒCracker Haruhi
+SY/W08-068 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Dancho 団長,_SOS Dan SOS団
+Card Text/Abilities:
+Flavor Text:
+It's ok it's ok
+いいからいいから
+
+==========================
+
+トラブルガール ハルヒTrouble Girl Haruhi
+SY/W08-069 C
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Dancho 団長,_Book 本
+Card Text/Abilities:
+【A】When this card is played from your hand to the stage, you may place the top card of your clock into the waiting room.
+【A】When this card attacks and 「サムデイ イン ザ レイン」 is in your climax slot, you may deal 1 damage to your opponent. (the damage can be canceled)
+【自】 このカードが手札から舞台に置かれた時か「 チェンジ 」で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】このカードがアタックした時、クライマックス置場に「サムデイ イン ザ レイン」があるなら、あなたは相手に1ダメージを与えてよい。 (ダメージキャンセルは発生する)
+Flavor Text:
+Hei, Kyon! What we need for the rest?
+ねぇ、キョン！あと必要なのはなんだと思う？
+
+==========================
+
+市内探索ツアーCity Search
+SY/W08-070 U
+Type: Event
+Level: 1
+Color: Red
+Cost: 3
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Place 5 cards from the top of your deck face down into your memory. Your opponent looks at those cards and separates them into 2 cards and 3 cards. Choose a set without looking at them, and add them to your hand. Return the rest to the deck and shuffle it afterwards.
+あなたは自分の山札の上から5枚を裏向きのまま思い出にする。相手はそれらのカードを見て2枚と3枚に分ける。あなたは裏向きのまま一方を選び、手札に加える。残りのカードを山札に戻す。その山札をシャッフルする
+Flavor Text:
+This combination should be good
+ふむ、この組み合わせね
+
+==========================
+
+色褪せた世界The World That Lost It's Colour
+SY/W08-071 U
+Type: Event
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your Level 1 or above characters, you may place it into the waiting room.If you do, choose up to 1 level 0 or below 《団長》 and place it onto your stage. choose up to 2 characters from your waiting room, return them to your hand.
+あなたは自分のレベル1以上のキャラを1枚選び、控え室に置いてよい。そうしたら、あなたは自分の控え室のレベル0以下の《団長》のキャラを1枚まで選び、舞台の好きな枠に置き、あなたは自分の控え室のキャラを2枚まで選び、手札に戻す
+Flavor Text:
+It's just a normal day life for everyone, nothing is interest
+みんながみんなやってる普通の日常なんだと思うと、
+途端になにもかもがつまらなくなった
+
+==========================
+
+ただの人間には興味ありませんI'm Not Interested In Normal Human
+SY/W08-072 C
+Type: Event
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+If you do not have any 《団長》 characters, this card cannot be played from hand. Search your deck for up to 2 《SOS団》 characters, show them to your opponent, and place them into your hand. Shuffle your deck afterwards. Choose 1 card from your hand, place it into the waiting room.
+このカードは、あなたの《団長》のキャラがいないなら、手札からプレイできない。あなたは自分の山札を見て《SOS団》のキャラを2枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。あなたは自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+If there's alien, time traveler, sliders, esper please come find me. That's it!
+この中に宇宙人、未来人、異世界人、超能力者がいたら
+あたしのところに来なさい。以上！
+
+==========================
+
+Happy ValentineHappy Valentine
+SY/W08-073 CR
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get ＋2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+Haruhi [What. It's bad?]
+ハルヒ「何よ。悪い？」
+
+==========================
+
+SOS団誕生！The Birth Of SOSDan!
+SY/W08-074 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card comes to Stage from hand, draw 1 card. Choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置き場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1
+Flavor Text:
+I want to make a new club
+あたしの新クラブ作りよ
+
+==========================
+
+サムデイ イン ザ レインSomeday In The Rain
+SY/W08-075 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When this card is triggered, you may choose 1 Character from your waiting room, return it to hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(扉：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+:p
+:p
+
+==========================
+
+宇宙人 長門＆朝倉＆喜緑Aliens Nagato & Asakura & Kimidori
+SY/W08-076R RRR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Alien 宇宙人,_Book 本
+Card Text/Abilities:
+【C】 All your other 《宇宙人》 characters get +500 Power.
+【S】［②Put this card to REST］ Search your deck for 1 《宇宙人》 character, show it to your opponent and place it into your hand. Shuffle your deck afterwards.
+【永】 他のあなたの《宇宙人》のキャラすべてに、パワーを＋500。
+【起】［② このカードをレストする］ あなたは自分の山札を見て《宇宙人》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+Using the local term, what you called Alien
+通俗的な用語を使用すると、宇宙人に該当する存在
+
+==========================
+
+宇宙人 長門＆朝倉＆喜緑Aliens Nagato & Asakura & Kimidori
+SY/W08-076 RR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Alien 宇宙人,_Book 本
+Card Text/Abilities:
+【C】 All your other 《宇宙人》 characters get +500 Power.
+【S】［②Put this card to REST］ Search your deck for 1 《宇宙人》 character, show it to your opponent and place it into your hand. Shuffle your deck afterwards.
+【永】 他のあなたの《宇宙人》のキャラすべてに、パワーを＋500。
+【起】［② このカードをレストする］ あなたは自分の山札を見て《宇宙人》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+Using the local term, what you called Alien
+通俗的な用語を使用すると、宇宙人に該当する存在
+
+==========================
+
+おめかし長門Dressing Up Nagato
+SY/W08-077R RRR
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Alien 宇宙人,_Book 本
+Card Text/Abilities:
+【A】［①］When this card is played to the stage from hand, you may pay the cost. If you do, during this turn, this card gains the following ability. 『【A】When the character battling this card becomes REVERSE, you may place the top card of your clock into the waiting room.』
+【A】When this card is played to the stage from hand, you may place all the opponent's characters into memory. If you do, place each of those characters onto a slot on the stage.
+【自】［①］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードは次の能力を得る。『【自】このカードとバトル中のキャラがリバースした時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。』
+【自】このカードが手札から舞台に置かれた時、あなたは相手のキャラすべてを、思い出にしてよい。そうしたら、あなたはそれらのキャラを舞台の別々の枠に置く。
+Flavor Text:
+I love you
+ダイスキ
+
+==========================
+
+おめかし長門Dressing Up Nagato
+SY/W08-077 RR
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Alien 宇宙人,_Book 本
+Card Text/Abilities:
+【A】［①］When this card is played to the stage from hand, you may pay the cost. If you do, during this turn, this card gains the following ability. 『【A】When the character battling this card becomes REVERSE, you may place the top card of your clock into the waiting room.』
+【A】When this card is played to the stage from hand, you may place all the opponent's characters into memory. If you do, place each of those characters onto a slot on the stage.
+【自】［①］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードは次の能力を得る。『【自】このカードとバトル中のキャラがリバースした時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。』
+【自】このカードが手札から舞台に置かれた時、あなたは相手のキャラすべてを、思い出にしてよい。そうしたら、あなたはそれらのキャラを舞台の別々の枠に置く
+Flavor Text:
+I love you
+ダイスキ
+
+==========================
+
+長門 有希Nagato Yuki
+SY/W08-078 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Alien 宇宙人,_SOS Dan SOS団
+Card Text/Abilities:
+【C】 During the opponent's turn, this card gets +2000 Power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【永】 相手のターン中、このカードのパワーを+2000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+Unique
+ユニーク
+
+==========================
+
+眼鏡っ娘 長門Glasses Girl Nagato
+SY/W08-079S SR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Alien 宇宙人,_Glasses メガネ
+Card Text/Abilities:
+【A】 When this card attacks, if you have 「情報制御空間の死闘」 in your climax slot, all of your 《宇宙人》 characters, during this turn, gain the following ability.『【A】 ［①］When the character battling this card becomes REVERSE, you may pay the cost. If you do, draw 1 card.』
+【自】 このカードがアタックした時、クライマックス置場に「情報制御空間の死闘」があるなら、あなたの《宇宙人》のキャラすべてに、そのターン中、次の能力を与える。『【自】 ［①］このカードとバトル中のキャラがリバースした時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。』
+Flavor Text:
+What is glasses trait?
+眼鏡属性ってなに？
+
+==========================
+
+眼鏡っ娘 長門Glasses Girl Nagato
+SY/W08-079 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Alien 宇宙人,_Glasses メガネ
+Card Text/Abilities:
+【A】 When this card attacks, if you have 「情報制御空間の死闘」 in your climax slot, all of your 《宇宙人》 characters, during this turn, gain the following ability.『【A】 ［①］When the character battling this card becomes REVERSE, you may pay the cost. If you do, draw 1 card.』
+【自】 このカードがアタックした時、クライマックス置場に「情報制御空間の死闘」があるなら、あなたの《宇宙人》のキャラすべてに、そのターン中、次の能力を与える。『【自】 ［①］このカードとバトル中のキャラがリバースした時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。』
+Flavor Text:
+What is Glasses Trait?
+眼鏡属性ってなに？
+
+==========================
+
+朝倉 涼子Asakura Ryoko
+SY/W08-080 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Alien 宇宙人,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card attacks, if you have 「うん、それ無理」 in your climax slo durings this turn, this card gets +1500 Power and gains the following ability. 『【A】 When the character battling this card becomes REVERSE, you may place that character at the bottom of the deck.』
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【自】 このカードがアタックした時、クライマックス置場に「うん、それ無理」があるなら、そのターン中、このカードのパワーを+1500し、このカードは次の能力を得る。『【自】 このカードとバトル中のキャラがリバースした時、あなたはそのキャラを山札の下に置いてよい。』
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+So I said, I will kill you, n see what reaction from Suzumiya Haruhi
+だから、あなたを殺して、涼宮ハルヒの出方を見る
+
+==========================
+
+無口キャラ長門Silent Character Nagato
+SY/W08-081 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Alien 宇宙人,_SOS Dan SOS団
+Card Text/Abilities:
+【A】［Place this card into the waiting room］At the start of your Encore Step, if this card is in REST, you may pay this cost. If you do, choose 1 「チャイナドレスの長門」 from your Waiting Room, place it into this card's previous slot.
+【S】 CONCENTRATE ［④］Place the top 4 cards of your Deck into Waiting Room. For every 《宇宙人》 character in those cards, choose 1 level 0 or below character from your waiting room, place it onto the stage.
+【自】 チェンジ ［このカードを控え室に置く］あなたのアンコールステップの始めに、このカードがレストをしているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「チャイナドレスの長門」を1枚選び、このカードがいた枠に置く。
+【起】 集中 ［④］あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードの《宇宙人》のキャラ1枚につき、あなたは自分の控え室のレベル0以下のキャラを1枚まで選び、舞台の別々の枠に置く。
+Flavor Text:
+The condition is equal
+条件を対等にするだけ
+
+==========================
+
+チャイナドレスの長門Nagato In China Dress
+SY/W08-082S SR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Alien 宇宙人,_Dress ドレス
+Card Text/Abilities:
+【C】 During your opponent's turn, for each of your other 《宇宙人》 characters, this card gets +500 Power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【永】 相手のターン中、他のあなたの《宇宙人》のキャラ1枚につき、このカードのパワーを+500。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+...permission?
+…許可を
+
+==========================
+
+チャイナドレスの長門Nagato In China Dress
+SY/W08-082 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Alien 宇宙人,_Dress ドレス
+Card Text/Abilities:
+【C】 During your opponent's turn, for each of your other 《宇宙人》 characters, this card gets +500 Power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【永】 相手のターン中、他のあなたの《宇宙人》のキャラ1枚につき、このカードのパワーを+500。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+...permission?
+…許可を
+
+==========================
+
+水着のハルヒ＆長門Haruhi & Nagato In Swimsuit
+SY/W08-083 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Dancho 団長,_Alien 宇宙人
+Card Text/Abilities:
+【A】 When this card is played to the stage from hand or by 「CHANGE」, choose another character, during this turn, it gains the following ability. 『【A】When this card is placed in the waiting room from stage, you may return this card in REST to it's previous slot.』
+【自】 このカードが手札から舞台に置かれた時か「 チェンジ 」で舞台に置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠にレストして置いてよい。』
+Flavor Text:
+Haruhi [...alright. Let's go swim]
+ハルヒ「…そうね。まずは泳ぎね」
+
+==========================
+
+温泉の長門＆みくるHotspring Nagato & Mikuru
+SY/W08-084 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Alien 宇宙人,_Time 時間
+Card Text/Abilities:
+Flavor Text:
+みくる「それに長門さんがいるのも気になるし…」
+
+==========================
+
+ビーチバレー 長門Beach Volleyball Nagato
+SY/W08-085 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 1000
+Soul: 1
+Traits:: Alien 宇宙人,_Sports スポーツ
+Card Text/Abilities:
+【A】［①］When you use this card's 「ASSIST」, if you have a 《団長》 character, you may pay this cost. If you do, draw 1 card.
+【S】● ASSIST 1500 Level 1 ［Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +1500 Power)
+【自】［①］あなたがこのカードの『 助太刀 』を使った時、あなたの《団長》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。
+【起】● 助太刀1500 レベル1 ［①手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋1500)
+Flavor Text:
+No problem.
+問題ない。そちらに追い込む
+
+==========================
+
+ギタリスト 長門Guitarist Nagato
+SY/W08-086 U
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Alien 宇宙人,_Music 音楽
+Card Text/Abilities:
+【C】 During your opponent's turn, all your other characters get +X Power. X is equal to that Character's Level x 500.
+【A】  When a climax is revealed during your character's trigger check, if the trigger icon is BOOK, you may draw 1 card. If you do, choose 1 card from your hand, place it into the waiting room.
+【永】 相手のターン中、他のあなたのキャラすべてに、パワーを+X。Xはそのキャラのレベル×500に等しい。
+【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、そのカードのトリガーアイコンが本なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く
+Flavor Text:
+...
+…
+
+==========================
+
+情報統合思念体の端末 長門Terminal Of Integrated Data Sentient Entity Nagato
+SY/W08-087 U
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Alien 宇宙人,_Book 本
+Card Text/Abilities:
+【A】 When this card attacks, if you have 「私のこと、あなたに教えておく」 in your climax slot, choose 2 of your other characters and place them in memory. At the start of your next Draw Phase, place them onto the stage. During this turn, those characters get +1500 Power.
+【自】このカードがアタックした時、クライマックス置場に「私のこと、あなたに教えておく」があるなら、あなたは他の自分のキャラを2枚まで選び、思い出にする。次のあなたのドローフェイズの始めに、あなたは自分の思い出置場のそれらのキャラを、舞台の別々の枠に置き、そのターン中、それらのキャラのパワーを+1500
+Flavor Text:
+わたしという個体もあなたには戻ってきて欲しいと感じている
+
+==========================
+
+Xmasパーティ長門Xmas Party Nagato
+SY/W08-088 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Alien 宇宙人,_SOS Dan SOS団
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【永】 応援  このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+Shamisen [Nyan]
+シャミセン「にゃーん」
+
+==========================
+
+浴衣の長門＆キョンの妹Nagato & Kyon's Little Sister In Yukata
+SY/W08-089 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Alien 宇宙人,_Wafuku 和服
+Card Text/Abilities:
+【A】 BOND／「浴衣のキョン」 ［①］ (When you play this card from your hand onto the stage, you may pay the cost. If you do, take one 「浴衣のキョン」 from your waiting room and place it into your hand)
+【自】 絆／「浴衣のキョン」［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「浴衣のキョン」を1枚選び、手札に戻す)
+Flavor Text:
+Imouto [Thank you Yuki chan~~]
+妹「ユキちゃんありがと～～」
+
+==========================
+
+エプロン姿の長門Nagato In Apron
+SY/W08-090 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Alien 宇宙人,_Book 本
+Card Text/Abilities:
+【C】 All your other 《本》 characters get +500 Power.
+【S】［① Put 2 of your characters to REST］ If you have 3 or more other 《本》 characters, draw 1 card.
+【永】 他のあなたの《本》のキャラすべてに、パワーを+500。
+【起】［① あなたのキャラを2枚レストする］他のあなたの《本》のキャラが3枚以上なら、あなたは1枚引く。
+Flavor Text:
+This, lend to you
+これ、貸すから
+
+==========================
+
+スイカを食べる長門Eating Watermelon Nagato
+SY/W08-091 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Alien 宇宙人,_Watermelon スイカ
+Card Text/Abilities:
+【A】［Place this card into the waiting room］At the start of your Encore Step, if this card is in REST, you may pay this cost. If you do, choose 1 「水着のハルヒ＆長門」 from your Waiting Room, place it into this card's previous slot.
+【自】 チェンジ  ［① このカードを控え室に置く］あなたのアンコールステップの始めに、このカードがレストしているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「水着のハルヒ＆長門」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+What?
+なに？
+
+==========================
+
+ネコミミ 長門Cat Ear Nagato
+SY/W08-092 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Alien 宇宙人,_Animal 動物
+Card Text/Abilities:
+Flavor Text:
+It's Ventriloquism
+今のは腹話術
+
+==========================
+
+依頼人第一号 喜緑The First Reliant Kimidori
+SY/W08-093 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Alien 宇宙人,_Student Council 生徒会
+Card Text/Abilities:
+【C】 ALARM When this card is at the top of your Clock, all your characters with 《宇宙人》 or 《生徒会》 get +1000 Power.
+【A】［①］ When this card is played from the hand to the stage, you may pay the cost. If you do, choose 1 of your characters, during this turn, it gains the following ability. 『【A】 When the character battling this card becomes REVERSE, you may draw 1 card.』
+【永】 アラーム  このカードがクロックの1番上にあるなら、あなたの、《宇宙人》か《生徒会》のキャラすべてに、パワーを+1000。
+【自】［①］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードとバトル中のキャラがリバースした時、あなたは1枚引いてよい。』
+Flavor Text:
+He have not come to school for several days
+彼がもう何日も学校に来てないんです・・・
+
+==========================
+
+クールガール長門Cool Girl Nagato
+SY/W08-094 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Alien 宇宙人,_Book 本
+Card Text/Abilities:
+Flavor Text:
+Don't worry. I won't let it happen
+だいじょうぶ。あたしがさせない
+
+==========================
+
+しおりの伝言Message On The Book Mark
+SY/W08-095 U
+Type: Event
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+If you do not have a 《宇宙人》 character on the stage this card cannot be played from the hand. You may draw 1 card. If you do so, choose 1 card from your hand, place it to the waiting room.
+You may choose 1 card from the top of your clock, place it to the waiting room. Place this card in memory.
+このカードは、あなたの《宇宙人》のキャラがいないなら、手札からプレイできない。あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。あなたは自分のクロックの上から1枚を、控え室に置いてよい。このカードを思い出にする。
+Flavor Text:
+
+==========================
+
+離れないでDon't Leave
+SY/W08-096 U
+Type: Event
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+●Choose one of your characters, during this turn, it gets +2000 power, and gains the following ability. 『【A】 When the character battling this card becomes REVERSE, you may place that character at the bottom of the deck.』
+●あなたは自分のキャラを1枚選び、そのターン中、パワーを+2000し、次の能力を与える。『【自】 このカードとバトル中のキャラがリバースした時、あなたはそのキャラを山札の下に置いてよい。』
+Flavor Text:
+It will be good if you don't move
+あなたは動かなくていい
+
+==========================
+
+情報連結解除Disabling Of Information Link
+SY/W08-097 C
+Type: Event
+Level: 2
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+●Choose 1 climax in your opponent's climax slot, place it into the waiting room.
+●あなたは相手のクライマックス置き場のクライマックスを1枚選び、控え室に置く
+Flavor Text:
+Aaah, too bad. After all I'm just a backup
+あーあ、残念。所詮私はバックアップだったかぁ
+
+==========================
+
+私のこと、あなたに教えておくI'll Tell You, About Myself
+SY/W08-098 CR
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを+2。
+Flavor Text:
+That is, the reason I'm here,
+the reason you're here
+それが、私がここにいる理由、
+　　　あなたがここにいる理由
+
+==========================
+
+情報制御空間の死闘Death Match in the Information Restraint Space
+SY/W08-099 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Book： When this card is triggered, you may draw 1 card)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(本：このカードがトリガーした時、あなたは1枚引いてよい)
+Flavor Text:
+Nagato [I noticed. So I able to penetrate it]
+長門「だから私に気付かれる。侵入を許す」
+
+==========================
+
+うん、それ無理Yes, That's Imposible
+SY/W08-100 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is played to the Climax slot from hand, draw 1 card, then choose 1 of your characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置き場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+Because I, really want you to die
+だって私は、本当にあなたに死んで欲しいんだもの
+
+==========================
+
+いつものハルヒ＆みくるThe Usual Haruhi & Mikuru
+SY/W08-101H TD
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Dancho 団長,_Time 時間
+Card Text/Abilities:
+【永】あなたは自分のクロックフェイズに、手札をクロックに置いてカードを引くことができない。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+Mikuru [Don't~!Don't see~]
+みくる「だめ～っ！見ないで～」
+
+==========================
+
+いつものハルヒ＆みくるThe Usual Haruhi & Mikuru
+SY/W08-101 TD
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Dancho 団長,_Time 時間
+Card Text/Abilities:
+【永】あなたは自分のクロックフェイズに、手札をクロックに置いてカードを引くことができない。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+Mikuru [Dont~!Dont see~]
+みくる「だめ～っ！見ないで～」
+
+==========================
+
+いつもの長門The Usual Nagato
+SY/W08-102H TD
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Alien 宇宙人,_Book 本
+Card Text/Abilities:
+【自】このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋X。Xはあなたの《宇宙人》のキャラの枚数×500に等しい。
+Flavor Text:
+Fairly
+わりと
+
+==========================
+
+いつもの長門The Usual Nagato
+SY/W08-102 TD
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Alien 宇宙人,_Book 本
+Card Text/Abilities:
+【自】このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋X。Xはあなたの《宇宙人》のキャラの枚数×500に等しい。
+Flavor Text:
+Fairly
+わりと
+
+==========================
+
+涼宮ハルヒの憂鬱The Melancholy Of Suzumiya Haruhi
+SY/W08-103P PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: SOS Dan SOS団,_Dancho 団長
+Card Text/Abilities:
+Flavor Text:
+The name, I just think out- SOS Dan!
+名前なら、たった今考えたから───SOS団！
+
+==========================
+
+好奇心ハルヒCuriousity Haruhi
+SY/W08-104P PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Dancho 団長,_SOS Dan SOS団
+Card Text/Abilities:
+【C】If the character facing this card has no traits, this card gains the following ability.『【C】This card cannot front attack。』（Side attack can be done）
+【A】When this card is front attacked, if the character facing this card has no traits, you may return this card to your hand.
+【永】このカードの正面のキャラが特徴を持たないなら、このカードは次の能力を得る。『【永】このカードはフロントアタックできない。』（サイドアタックできる）
+【自】このカードがフロントアタックされた時、このカードの正面のキャラが特徴を持たないなら、あなたはこのカードを手札に戻してよい。
+Flavor Text:
+I'm not interested in normal human
+ただの人間には興味ありません
+
+==========================
+
+“Merry Xmas”ハルヒ
+SY/W08-105 PR
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Dancho 団長,_SOS Dan SOS団
+Card Text/Abilities:
+【C】 If you gave 2 or above 《SOS団》 characters, this card gets +1000 power.
+【永】他のあなたの、《SOS団》のキャラが2枚以上なら、このカードのパワーを+1000。
+Flavor Text:
+ヘイ、お待ち！
+
+==========================
+
+ウェディングドレスの長門Nagato In Wedding Dress
+SY/W08-106P PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Alien 宇宙人,_Dress ドレス
+Card Text/Abilities:
+【A】[②]When this card is played to the stage from hand, you may pay the cost. If you do, you may place the top card of your clock into the waiting room.
+【自】[②]このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。 そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。
+Flavor Text:
+Don't leave
+離れないで
+
+==========================
+
+ウェディングドレスのみくるMikuru In Wedding Dress
+SY/W08-107P PR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Time 時間,_Dress ドレス
+Card Text/Abilities:
+【A】［Place the top card of your deck into Clock］When this card is played to the stage from hand, you may pay the cost. If you do, all your characters, during this turn, get +1000 Power.
+【自】［あなたの山札の上から1枚をクロック置場に置く］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。 そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋1000。
+Flavor Text:
+I'm still not good, so please continue taking care of me
+ふつつか者ですが、これからもよろしくお願いします
+
+==========================
+
+ウェディングドレスのハルヒHaruhi In Wedding Dress
+SY/W08-108P PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Dancho 団長,_Dress ドレス
+Card Text/Abilities:
+【C】 For every card in your clock, this card gets +500 Power.
+【永】 あなたのクロック1枚につき、このカードのパワーを＋500。
+Flavor Text:
+Of course I also wearing it
+もちろんあたしも着るわよ
+
+==========================
+
+団員ボシュウ中！Recruiting Members!
+SY/W08-109P PR
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを+2
+Flavor Text:
+[We SOS Dan, is collecting abnormal phenom in this world!]
+『わがSOS団は、この世の不思議を広く募集しています』
+
+==========================
+
+長門＆ハルヒ＆みくるNagato & Haruhi & Mikuru
+SY/W08-110P PR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: SOS Dan SOS団,
+Card Text/Abilities:
+【C】If you have another card with 「キョン」 in it's name, this card gets +2000 Power.
+【永】他のあなたのカード名に「キョン」を含むキャラがいるなら、このカードのパワーを+2000。
+Flavor Text:
+Haruhi [It's ok you can come in]
+ハルヒ「入っていいわよ」
+
+==========================
+
+宇宙に思いをはせるハルヒThinking About Outer Space Haruhi
+SY/W08-111 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【C】 If you have 2 or more other 《宇宙人》 characters, this card gets +1000 Power.
+【永】 他のあなたの《宇宙人》のキャラが2枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+Do you think there's alien?
+宇宙人っていると思う？
+
+==========================
+
+お正月 ハルヒ＆長門＆みくるNew Year Haruhi & Nagato & Mikuru
+SY/W08-112 PR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: SOS Dan SOS団,_Wafuku 和服
+Card Text/Abilities:
+【A】When this card is played to the stage from hand, during this turn, for each of the unique traits your characters have, this card gets +500.
+【自】このカードが手札から舞台に置かれた時、そのターン中、あなたのキャラすべてが持つ異なる特徴1つにつき、このカードのパワーを＋500。
+Flavor Text:
+Haruhi [I win! I pass!]
+ハルヒ「勝負ね！　とおっ！」
+
+==========================
+
+超編集長ハルヒとその助手Super Editor Haruhi And Her Assistants
+SY/W08-113 PR
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 3500
+Soul: 1
+Traits:: SOS Dan SOS団,
+Card Text/Abilities:
+【S】［② Put this card to REST］ Choose 1 character in the waiting room, return it to your hand.
+【S】［Put this card to REST］ Choose 1 of your 《SOS団》 characters, during this turn, it gets +1000 Power.
+【S】［② Put this card to REST］ Deal 1 damage to the opponent. (This damage can be canceled.)
+【起】［② このカードをレストする］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+【起】［このカードをレストする］ あなたは自分の《SOS団》のキャラを1枚選び、そのターン中、パワーを＋1000。
+【起】［② このカードをレストする］ 相手に1ダメージを与える。 (ダメージキャンセルは発生する)
+Flavor Text:
+There's no [imposible] in SOS Dan's Dictionary
+SOS団の辞書に「不可能」の文字はないのよ！
+
+==========================
+
+平穏な日常 有希The Normal Everyday Yuki
+SY/W08-114 PR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Glasses メガネ,_Book 本
+Card Text/Abilities:
+【C】If you have 1 or less other front row characters, this card gets +1000 Power.
+【永】他のあなたの前列のキャラが1枚以下なら、このカードのパワーを+1000。
+Flavor Text:
+Do you remember? During the time at the library
+覚えてる？図書館のこと
+
+==========================
+
+涼宮 ハルヒSuzumiya Haruhi
+SY/W08-T01 TD
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Dancho 団長,_SOS Dan SOS団
+Card Text/Abilities:
+Flavor Text:
+If not, there will be death penalty!
+こないと、死刑だから！
+
+==========================
+
+両手いっぱいの花束ハルヒBoth Hands Holding Bonquet Flower Haruhi
+SY/W08-T02 TD
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Dancho 団長,_SOS Dan SOS団
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【A】［①］When a climax is revealed during your character's trigger check, if the trigger icon is GATE, you may pay the cost. If you do, Choose 1 of your opponent's Front Row Level 1 or below characters, place it in the waiting room.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【自】［①］あなたのキャラのトリガーチェックでクライマックスが出た時、そのカードのトリガーアイコンが扉なら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル1以下のキャラを1枚選び、控え室に置く。
+Flavor Text:
+For some reason, I feel really happy now!
+どうしてだろう、いまちょっと楽しいな！
+
+==========================
+
+浴衣のハルヒ＆みくるHaruhi & Mikuru In Yukata
+SY/W08-T03 TD
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Wafuku 和服,_SOS Dan SOS団
+Card Text/Abilities:
+Flavor Text:
+Haruhi [By the way Mikuru-chan, you got bigger again didn't you you?}
+ハルヒ「ちょっとみくるちゃん、
+　　　また大きくなったんじゃないの？」
+
+==========================
+
+ボーカリスト ハルヒVocalist Haruhi
+SY/W08-T04 TD
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Dancho 団長,_Music 音楽
+Card Text/Abilities:
+【S】● ASSIST 2000 Level 1 ［Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +2000 Power)
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000)
+Flavor Text:
+Everyone please listen to the performance
+みんな思いっきり演奏するから聴いてね
+
+==========================
+
+ネコミミ ハルヒCat Ear Haruhi
+SY/W08-T05 TD
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Dancho 団長,_Animal 動物
+Card Text/Abilities:
+【C】If this card is in the center of the Front Row, this card gets +1000 Power.
+【永】前列の中央の枠にこのカードがいるなら、このカードのパワーを＋1000。
+Flavor Text:
+How was it? Everyone will be notice us
+どう？　これで注目度ばっちりでしょ
+
+==========================
+
+勝利宣言ハルヒVictory Annoucement Haruhi
+SY/W08-T06 TD
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 6500
+Soul: 1
+Traits:: Dancho 団長,_Wafuku 和服
+Card Text/Abilities:
+【A】 CHANGE ［① Place this card into Clock］At the start of your encore step, if this card is in REST, you may pay the cost. If you do, choose 1 「トラブルガール ハルヒ」 from your Waiting Room, place it in this card's previous border.
+【S】 CONCENTRATE ［③］Place the top 3 cards of your Deck into Waiting Room. Choose 1 Level X or below 《団長》 character from your waiting room, place it on the stage in any slot. X is equal to the number of 《団長》 characters placed into the Waiting Room in this way.
+【自】 チェンジ ［① このカードをクロック置場に置く］あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「トラブルガール ハルヒ」を1枚選び、このカードがいた枠に置く。
+【起】 集中 ［③］あなたは自分の山札の上から3枚をめくり、控え室に置く。あなたは自分の控え室のレベルX以下の《団長》のキャラを1枚選び、舞台の好きな枠に置く。Xはそれらのカードの《団長》のキャラの枚数に等しい。
+Flavor Text:
+Annihilate those who interfere, SOS Dan name is going to shock beyond the universe!
+あらゆる邪魔者たちを蹴散らして、
+　　　SOS団は宇宙かなたまでその名を轟かせるのよ！
+
+==========================
+
+クラッカー ハルヒCracker Haruhi
+SY/W08-T07 TD
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: SOS Dan SOS団,_Dancho 団長
+Card Text/Abilities:
+Flavor Text:
+ya-------ho------i!
+やーーーーっほーーーーい！
+
+==========================
+
+トラブルガール ハルヒTrouble Girl Haruhi
+SY/W08-T08 TD
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Dancho 団長,_Book 本
+Card Text/Abilities:
+【A】When this card is played from your hand to the stage, you may place the top card of your clock into the waiting room.
+【A】When this card attacks and 「サムデイ イン ザ レイン」 is in your climax slot, you may deal 1 damage to your opponent. (the damage can be canceled)
+【自】 このカードが手札から舞台に置かれた時か「 チェンジ 」で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】このカードがアタックした時、クライマックス置場に「サムデイ イン ザ レイン」があるなら、あなたは相手に1ダメージを与えてよい。 (ダメージキャンセルは発生する)
+Flavor Text:
+Isn't that going to be more interesting
+そっちのほうがおもしろいじゃないの
+
+==========================
+
+SOS団誕生！The Birth Of SOSDan!
+SY/W08-T09 TD
+Type: Event
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card comes to Stage from hand, draw 1 card. Choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置き場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+Help me
+協力しなさい
+
+==========================
+
+サムデイ イン ザ レインSomeday In The Rain
+SY/W08-T10 TD
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When this card is triggered, you may choose 1 Character from your waiting room, return to hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(扉：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+:p
+:p
+
+==========================
+
+Xmasパーティ長門Xmas Party Nagato
+SY/W08-T11 TD
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Alien 宇宙人,_SOS Dan SOS団
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【永】 応援  このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+delicious?
+おいしい？
+
+==========================
+
+ネコミミ 長門Cat Ear Nagato
+SY/W08-T12 TD
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+Flavor Text:
+It's Ventriloquism
+今のは腹話術
+
+==========================
+
+スイカを食べる長門Eating Watermelon Nagato
+SY/W08-T13 TD
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Alien 宇宙人,_Watermelon スイカ
+Card Text/Abilities:
+【A】［Place this card into the waiting room］At the start of your Encore Step, if this card is in REST, you may pay this cost. If you do, choose 1 「水着のハルヒ＆長門」 from your Waiting Room, place it into this card's previous slot.
+【自】 チェンジ  ［① このカードを控え室に置く］あなたのアンコールステップの始めに、このカードがレストしているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「水着のハルヒ＆長門」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+Yes...Sometimes
+そう・・・。たまになら
+
+==========================
+
+水着のハルヒ＆長門Haruhi & Nagato In Swimsuit
+SY/W08-T14 TD
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Dancho 団長,_Alien 宇宙人
+Card Text/Abilities:
+【A】 When this card is played to the stage from hand or by 「CHANGE」, choose 1 of your other characters, during this turn, it gains the following ability. 『【A】When this card is placed into the waiting room from the stage, you may place that card back into it's previous slot.』
+【自】 このカードが手札から舞台に置かれた時か「 チェンジ 」で舞台に置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠にレストして置いてよい。』
+Flavor Text:
+Haruhi [Everyone is aligned]
+ハルヒ「みんな揃ってるわね」
+
+==========================
+
+温泉の長門＆みくるHotspring Nagato & Mikuru
+SY/W08-T15 TD
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Alien 宇宙人,_Time 時間
+Card Text/Abilities:
+Flavor Text:
+Mikueu [I'm still worry about Nagato san...]
+みくる「それに長門さんがいるのも気になるし…」
+
+==========================
+
+情報連結解除Disabling Of Information Link
+SY/W08-T16 TD
+Type: Event
+Level: 2
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+●Choose 1 climax in your opponent's climax slot, place it into the waiting room.
+●あなたは相手のクライマックス置き場のクライマックスを1枚選び、控え室に置く。
+Flavor Text:
+... by the time please let Suzumiya san stay happy. Good Bye
+…それまで涼宮さんとお幸せに。じゃあね
+
+==========================
+
+私のこと、あなたに教えておくI'll Tell You, About Myself
+SY/W08-T17 TD
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを+2
+Flavor Text:
+It's, the reason I'm here, the reason you're here
+それが、私がここにいる理由、
+　　　あなたがここにいる理由
+
+==========================
+

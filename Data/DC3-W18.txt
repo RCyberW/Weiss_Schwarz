@@ -1,0 +1,3056 @@
+大はしゃぎ！ シャルル
+DC3/W18-001S SR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+【A】When this card becomes REVERSE in battle, you may reveal the top card of your Deck. If that card is a 《生徒会》 Character, you may place this card into Memory.(Return revealed card to its original position)
+【A】◆ SHIFT Level 0 (At the beginning of your Main Phase, you may choose 1 Yellow card from your Hand and this card in your Clock and exchange them.)
+【自】バトル中のこのカードがリバースした時、あなたは自分の山札の上から1枚を公開する。そのカードが《生徒会》のキャラなら、あなたはこのカードを思い出にしてよい。 (公開したカードは元に戻す)
+【自】◆ シフト レベル0 (あなたのメインフェイズの始めに、あなたは自分の手札の黄のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい)
+Flavor Text:
+
+==========================
+
+大はしゃぎ！ シャルル
+DC3/W18-001 RR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+【A】When this card becomes REVERSE in battle, you may reveal the top card of your Deck. If that card is a 《生徒会》 Character, you may place this card into Memory.(Return revealed card to its original position)
+【A】◆ SHIFT Level 0 (At the beginning of your Main Phase, you may choose 1 Yellow card from your Hand and this card in your Clock and exchange them.)
+【自】バトル中のこのカードがリバースした時、あなたは自分の山札の上から1枚を公開する。そのカードが《生徒会》のキャラなら、あなたはこのカードを思い出にしてよい。 (公開したカードは元に戻す)
+【自】◆ シフト レベル0 (あなたのメインフェイズの始めに、あなたは自分の手札の黄のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい)
+Flavor Text:
+あははは、清隆くん、頭から水をかぶったみたい～！
+
+==========================
+
+かけがえのない魔法 リッカ
+DC3/W18-002 RR
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+【C】For each of your other 《生徒会》 Characters, this card gets +500 Power.
+【A】When this card is placed on Stage from Hand, look at up to top 3 cards of your Deck, choose up to 1 card, place it into your Hand. Place the remaining cards into Waiting Room.
+【永】他のあなたの《生徒会》のキャラ1枚につき、このカードのパワーを＋500。
+【自】このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加える。残りのカードを控え室に置く。
+Flavor Text:
+清隆が私を好きな気持ちより、
+私が清隆を好きな気持ちの方が絶対強いから
+
+==========================
+
+かけがえのない魔法 リッカ
+DC3/W18-002 SP
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+【C】For each of your other 《生徒会》 Characters, this card gets +500 Power.
+【A】When this card is placed on Stage from Hand, look at up to top 3 cards of your Deck, choose up to 1 card, place it into your Hand. Place the remaining cards into Waiting Room.
+【永】他のあなたの《生徒会》のキャラ1枚につき、このカードのパワーを＋500。
+【自】このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加える。残りのカードを控え室に置く。
+Flavor Text:
+
+==========================
+
+プカプカデート リッカ
+DC3/W18-003 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《魔法》 Character, add it to Hand, choose 1 card from your Hand, place it into Waiting Room.(If its not, return it to its original position)
+【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《魔法》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）
+Flavor Text:
+ほら、手をつなぎなさい
+
+==========================
+
+夢見る未来へ リッカ
+DC3/W18-004 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+【A】When 「咲き続ける花」 is placed into Climax slot, if this card is in the Front Row, reveal the top card of your Deck. If that card is a 《生徒会》 Character, you may choose 1 of your opponent's Characters, return it to Hand.(Return revealed card to its original position)
+【自】あなたのクライマックス置場に「咲き続ける花」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《生徒会》のキャラなら、あなたは相手のキャラを1枚選び、手札に戻してよい。 (公開したカードは元に戻す)
+Flavor Text:
+来たなら声かけてくれればよかったのに
+
+==========================
+
+夢見る未来へ リッカ
+DC3/W18-004 SR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+【A】When 「咲き続ける花」 is placed into Climax slot, if this card is in the Front Row, reveal the top card of your Deck. If that card is a 《生徒会》 Character, you may choose 1 of your opponent's Characters, return it to Hand.(Return revealed card to its original position)
+【自】あなたのクライマックス置場に「咲き続ける花」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《生徒会》のキャラなら、あなたは相手のキャラを1枚選び、手札に戻してよい。 (公開したカードは元に戻す)
+Flavor Text:
+
+==========================
+
+風見鶏の生徒会長 シャルル
+DC3/W18-005 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+【C】If you have 3 or more other 《生徒会》 Characters, this card gets +1000 Power.
+【永】他のあなたの《生徒会》のキャラが3枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+どうしたいいのか困っちゃうくらい、嬉しい
+
+==========================
+
+“サンタの初恋”シャルル
+DC3/W18-006 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+【A】When 「幸せの魔法」 is placed into your Climax slot, if this card is in the Front Row, choose 1 of your other Characters, during this turn, it gets +6000 Power.
+【A】When this card is placed on Stage from Waiting Room, you may place this card into an empty Back Row slot.
+【自】あなたのクライマックス置場に「幸せの魔法」が置かれた時、前列にこのカードがいるなら、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋6000。
+【自】このカードが控え室から舞台に置かれた時、あなたはこのカードを後列のキャラのいない枠に動かしてよい。
+Flavor Text:
+はい、どうぞ！　これが清隆くんが願った物よ
+
+==========================
+
+監督生 リッカ
+DC3/W18-007 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+【C】 SUPPORT All Characters in front of this card gets +500 Power.
+【S】［① Place the top card of your Deck into Clock, REST this card］Search your Deck for up to 1 Character with 「生徒会長」 in its name, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】 ［① あなたの山札の上から1枚をクロック置場に置き、このカードをレストする］あなたは自分の山札を見てカード名に「生徒会長」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+いないなら、こっちから勝手に指名しちゃうけど？
+
+==========================
+
+学園の風物詩 巴
+DC3/W18-008 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+【C】 If you have 1 or less other Character, this card gets +1500 Power.
+【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1500。
+Flavor Text:
+
+==========================
+
+“エトの願い”シャルル
+DC3/W18-009 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+【C】During your Climax Phase, you cannot play Climax from Hand.
+【A】 CHANGE［Place 1 card from Hand into Waiting Room, place this card into Memory］At the beginning of your Encore Step, if this card is in REST, you may pay the cost. If you did, choose 1 「“サンタの初恋”シャルル」 from your Waiting Room, place it into this card's previous slot.
+【永】あなたは自分のクライマックスフェイズに、クライマックスを手札からプレイできない。
+【自】 チェンジ ［手札を1枚控え室に置き、このカードを思い出にする］あなたのアンコールステップの始めに、このカードがレストしているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“サンタの初恋”シャルル」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+ねえ、もしこの童話みたいに、ひとつだけ願いを
+叶えるとしたら、エトはどんなことをお願いする？
+
+==========================
+
+皆の力で リッカ
+DC3/W18-010 U
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+【S】［REST 1 of your 《生徒会》 Character］During this turn, this card gets +1000 Power.
+【起】［あなたの《生徒会》のキャラを1枚レストする］ そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+ひとりひとりの力は足りなくても、
+たくさんの心の力が集まれば、
+みんなハッピーになれる。そうでしょ？
+
+==========================
+
+のびのび シャルル
+DC3/W18-011 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+【S】 CONCENTRATION［①］Flip 1 card from the top of your Deck, place it into Waiting Room. If that card is a 《生徒会》 Character, during this turn, this card gets +2000 Power, +1 Soul.
+【起】 集中 ［①］ あなたは自分の山札の上から1枚をめくり、控え室に置く。そのカードが《生徒会》のキャラなら、そのターン中、このカードのパワーを＋2000し、ソウルを＋1。
+Flavor Text:
+う、うーっ、これ、結構きつい、はぁ、あうっ
+
+==========================
+
+不器用なヤツ イアン＆瑠璃香
+DC3/W18-012 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Maid メイド
+Card Text/Abilities:
+【C】 During your turn, this card gets +1000 Power.
+【永】 あなたのターン中、このカードのパワーを＋1000。
+Flavor Text:
+イアン「は、話にならん！　瑠璃香、いくぞ！」
+瑠璃香「は～い、イアン様♪」
+
+==========================
+
+霧を排除する禁呪 リッカ
+DC3/W18-013 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+【S】● ASSIST 1500 Level 1 ［Place this card from Hand to Waiting Room］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +1500 Power)
+【起】 ● 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）
+Flavor Text:
+……………………
+
+==========================
+
+無邪気なさくら
+DC3/W18-014 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【S】［①］During this turn, this card gets +1 Soul.
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く）
+【起】［①］ そのターン中、このカードのソウルを＋1。
+Flavor Text:
+うう、いいから遊んでよ。ボクが帰っちゃったら、
+清隆も遊び相手いなくなっちゃうんだからね！
+
+==========================
+
+ドキドキお風呂掃除 シャルル
+DC3/W18-015 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: 8500
+Soul: 1
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+Flavor Text:
+はーい。終わったら言ってね、
+ホースで一気に流すからー
+
+==========================
+
+風見鶏の学園長 エリザベス
+DC3/W18-016 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: ,
+Card Text/Abilities:
+【C】 If your Stock is 3 or less, this card gets +1500 Power.
+【永】 あなたのストックが3枚以下なら、このカードのパワーを＋1500。
+Flavor Text:
+ええ。ここだけの秘密だから、みんなには内緒ね？
+
+==========================
+
+カテゴリー５
+DC3/W18-017 U
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Search your Deck for up to 1 《魔法》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards. Choose 1 of your Character, during this turn, it gets +2000 Power.
+あなたは自分の山札を見て《魔法》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+そう……いいわ。いい感じよ……
+
+==========================
+
+聖夜の贈り物
+DC3/W18-018 U
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+● Look at up to 7 cards from the top of your Deck, choose up to 2 Characters with 「シャルル」 in its name or 《オモチャ》 Characters, show it to your opponent, add it to Hand. Place the remaining cards into Waiting Room.
+● あなたは自分の山札を上から7枚まで見て、カード名に「シャルル」を含むカードか《オモチャ》のキャラを2枚まで選んで相手に見せ、手札に加える。残りのカードを控え室に置く。
+Flavor Text:
+シャルル「うん……わかった。エトの願い……
+なんだって叶えてあげる。だって、
+あたしはサンタクロース……だもん」
+
+==========================
+
+幸せの魔法
+DC3/W18-019 CR
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+シャルル「さようなら、エト……」
+
+==========================
+
+幸せの魔法
+DC3/W18-019 RRR
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+
+==========================
+
+咲き続ける花
+DC3/W18-020 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return to Hand)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（戻：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）
+Flavor Text:
+さくら「これ……なんだか知ってるの？」
+リッカ「桜じゃないの？　見たことのない種類だけど」
+
+==========================
+
+咲き続ける花
+DC3/W18-020 RRR
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return to Hand)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（戻：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）
+Flavor Text:
+
+==========================
+
+とびっきりの笑顔 サラ
+DC3/W18-021 RR
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Sports スポーツ
+Card Text/Abilities:
+【A】When you use this card's 「ASSIST」, choose 1 of your opponent's Character in battle, during this turn, it gets +1 Soul.
+【S】● ASSIST 2500 Level 1［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +2500 Power.)
+【自】あなたがこのカードの「 助太刀 」を使った時、あなたは相手のバトル中のキャラを1枚選び、そのターン中、ソウルを＋1 。
+【起】● 助太刀2500 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500)
+Flavor Text:
+はい。きちんと味わってください
+
+==========================
+
+とびっきりの笑顔 サラ
+DC3/W18-021 SR
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Sports スポーツ
+Card Text/Abilities:
+【A】When you use this card's 「ASSIST」, choose 1 of your opponent's Character in battle, during this turn, it gets +1 Soul.
+【S】● ASSIST 2500 Level 1［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)
+【自】あなたがこのカードの「 助太刀 」を使った時、あなたは相手のバトル中のキャラを1枚選び、そのターン中、ソウルを＋1 。
+【起】● 助太刀2500 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500)
+Flavor Text:
+
+==========================
+
+ふたりの幸せ 姫乃
+DC3/W18-022 RR
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,_Wafuku 和服
+Card Text/Abilities:
+【C】If your opponent's Stock is 4 or more, this card gets +1000 Power.
+【A】When this card is placed on Stage from Hand, place the top card of your Clock into Waiting Room.
+【永】相手のストックが4枚以上なら、このカードのパワーを＋1000。
+【自】このカードが手札から舞台に置かれたとき、あなたは自分のクロックの上から1枚を、控え室においてよい。
+Flavor Text:
+わたしの幸せそうな顔を見たら、
+いいって言うに決まってます♪
+
+==========================
+
+ふたりの幸せ 姫乃
+DC3/W18-022 SP
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,_Wafuku 和服
+Card Text/Abilities:
+【C】If your opponent's Stock is 4 or more, this card gets +1000 Power.
+【A】When this card is placed on Stage from Hand, place the top card of your Clock into Waiting Room.
+【永】相手のストックが4枚以上なら、このカードのパワーを＋1000。
+【自】このカードが手札から舞台に置かれたとき、あなたは自分のクロックの上から1枚を、控え室においてよい。
+Flavor Text:
+
+==========================
+
+息抜きデート サラ
+DC3/W18-023 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Sports スポーツ
+Card Text/Abilities:
+【S】 CONCENTRATION ［① REST this card］Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, perform the following action.『Choose 1 card from your Clock, return it to Hand, place the top card of your Deck into Clock.』
+【起】 集中 ［① このカードをレストする］あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分のクロックを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。』
+Flavor Text:
+【起】 集中 ［① このカードをレストする］あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分のクロックを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。』
+
+==========================
+
+“正義の魔法使い”姫乃
+DC3/W18-024 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】［③ Place this card into Clock］When 「心を繋げる魔法」 is placed into your Climax slot, you may pay the cost. If you did, choose up to 1 「伝えたい気持ち 姫乃」 and up to 1 「通じあった心 清隆＆姫乃」 from your Waiting Room, place them into different slots on Stage in REST.
+【自】［③ このカードをクロック置場に置く］あなたのクライマックス置場に「心を繋げる魔法」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「伝えたい気持ち 姫乃」を1枚までと「通じあった心 清隆＆姫乃」を1枚まで選び、舞台の別々の枠にレストして置く。
+Flavor Text:
+これが――覚悟……
+
+==========================
+
+“正義の魔法使い”姫乃
+DC3/W18-024 SR
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】［③ Place this card into Clock］When 「心を繋げる魔法」 is placed into your Climax slot, you may pay the cost. If you did, choose up to 1 「伝えたい気持ち 姫乃」 and up to 1 「通じあった心 清隆＆姫乃」 from your Waiting Room, place them into different slots on Stage in REST.
+【自】［③ このカードをクロック置場に置く］あなたのクライマックス置場に「心を繋げる魔法」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「伝えたい気持ち 姫乃」を1枚までと「通じあった心 清隆＆姫乃」を1枚まで選び、舞台の別々の枠にレストして置く。
+Flavor Text:
+
+==========================
+
+ふたりの記念 サラ
+DC3/W18-025 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Sports スポーツ
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +X Power. X is equals to that Character's Level ×500.
+【A】When 「“大好き”の証拠」 is placed into your Climax slot, all your Characters, during this turn, they get +1000 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋X。Xはそのキャラのレベル×500に等しい。
+【自】あなたのクライマックス置場に「“大好き”の証拠」が置かれた時、あなたのキャラすべてに、そのターン中、パワーを＋1000。
+Flavor Text:
+そ、そうですよね、私たち……恋人同士……ですもんね
+
+==========================
+
+兄妹水入らず 姫乃
+DC3/W18-026 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Bento お弁当
+Card Text/Abilities:
+【S】 CONCENTRATE［①］Flip 1 card from the top of your Deck, place it into Waiting Room. If that card is a 《魔法》 Character, choose 1 of your opponent's Front Row Character, during this turn, it gets -2000 Power.
+【起】 集中 ［(1)］ あなたは自分の山札の上から1枚をめくり、控え室に置く。そのカードが《魔法》のキャラなら、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－2000。
+Flavor Text:
+どうです～♪　美味しいですか～？
+兄さんのお口に合うといいんだけど～
+
+==========================
+
+幼馴染み メアリー＆エドワード
+DC3/W18-027 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Detective 探偵
+Card Text/Abilities:
+【A】◆ SHIFT Level 0 (At the beginning of your Main Phase, you may choose 1 Green card from your Hand and this card in your Clock and exchange them.)
+【S】［REST this card］Choose 1 of your 《魔法》 Characters, during this turn, it gets +1000 Power.
+【自】◆ シフト レベル0 (あなたのメインフェイズの始めに、あなたは自分の手札の緑のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい)
+【起】［このカードをレストする］ あなたは自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+メアリー「ま、だから、なんて言うかさ、
+あたしたちのことを信頼してくれてありがと」
+エドワード「そういうこと」
+
+==========================
+
+練習中のサラ
+DC3/W18-028 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Sports スポーツ
+Card Text/Abilities:
+【A】 This ability can only be activated 2 times each turn. When another of your 《スポーツ》 Character is placed on Stage from Hand, during this turn, this card gets +1000 Power.
+【自】 この能力は1ターンにつき2回まで発動する。他のあなたの《スポーツ》のキャラが、手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+はっ！
+
+==========================
+
+兄さんとお出かけ 姫乃
+DC3/W18-029 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Magic 魔法,_Wafuku 和服
+Card Text/Abilities:
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+じゃあ、気を取り直して次の店に行きましょう
+
+==========================
+
+伝えたい気持ち 姫乃
+DC3/W18-030 U
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 9000
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】When another of your Characters with Cost 0 or less is placed on Stage from Hand, if this card is in STAND, REST this card.
+【自】他のあなたのコスト0以下のキャラが、手札から舞台に置かれた時、このカードがスタンドしているなら、このカードをレストする。
+Flavor Text:
+わたしもね、兄さんが大好き。兄さんとして
+だけじゃなくて、世界中の誰より、一番好き……
+
+==========================
+
+守りたい笑顔 姫乃
+DC3/W18-031 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】 BOND／「通じあった心 清隆＆姫乃」［①］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「通じあった心 清隆＆姫乃」 from your Waiting Room, return to Hand)
+【自】 絆／「通じあった心 清隆＆姫乃」 ［①］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「通じあった心 清隆＆姫乃」を1枚選び、手札に戻す）
+Flavor Text:
+うん、温かい……
+
+==========================
+
+壊滅的な画力 姫乃
+DC3/W18-032 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+Flavor Text:
+なななな、なんでですか！？
+なんでわたしなんですか？
+
+==========================
+
+ジタバタ サラ
+DC3/W18-033 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Sports スポーツ
+Card Text/Abilities:
+【C】 If there is a Marker under this card, this card gets +1500 Power.
+【S】［REST this card］If there is no Marker under this card, place the top card of your Deck under this card as a Marker.
+【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋1500。
+【起】［このカードをレストする］ このカードの下にマーカーがないなら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。
+Flavor Text:
+ひゃああうっ！　はぁ、あ、あぅう～！
+
+==========================
+
+面白いヤツ 耕助＆四季
+DC3/W18-034 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Magic 魔法,_Doll 人形
+Card Text/Abilities:
+Flavor Text:
+耕助「……どうしようもないは余計だろ」
+四季「事実ですから」
+
+==========================
+
+通じあった心 清隆＆姫乃
+DC3/W18-035 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 3500
+Soul: 1
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +1000 Power.
+【A】At the beginning of your Attack Phase, you may choose 1 of your REST Character with 「姫乃」 in its name, STAND it.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。
+【自】あなたのアタックフェイズの始めに、あなたは自分のレストしているカード名に「姫乃」を含むキャラを1枚選び、スタンドしてよい。
+Flavor Text:
+清隆「帰ろう、姫乃。俺たちの住む、あの愛すべき学び舎に」
+姫乃「はい！」
+
+==========================
+
+ずっとそばに サラ
+DC3/W18-036 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Magic 魔法,_Sports スポーツ
+Card Text/Abilities:
+【A】［REST 2 of your STAND Characters］When this card becomes REVERSE in battle, you may pay the cost. If you did, REST this card, this card does not STAND during your next Stand Phase.
+【自】［あなたのスタンドしているキャラを2枚レストする］ バトル中のこのカードがリバースした時、あなたはコストを払ってよい。そうしたら、このカードをレストし、このカードは次のあなたのスタンドフェイズにスタンドしない。
+Flavor Text:
+どうしたんですか、清隆。ニヤニヤして
+
+==========================
+
+愛する恋人のために
+DC3/W18-037 U
+Type: Event
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your Characters, STAND it. Choose 1 of your 《スポーツ》 Characters, during this turn, it gets +3000 Power.
+あなたは自分のキャラを1枚選び、スタンドする。あなたは自分の《スポーツ》のキャラを1枚選び、そのターン中、パワーを＋3000。
+Flavor Text:
+
+==========================
+
+こころのばしょ
+DC3/W18-038 U
+Type: Event
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 Character from your Clock with Cost 0 or less and with 「姫乃」 in its name, place it on Stage in any slot. Choose 1 Character with 「姫乃」 in its name, during this turn, it gets +3000 Power. Place this card into Clock.
+あなたは自分のクロック置場のコスト0以下のカード名に「姫乃」を含むキャラを1枚選び、舞台の好きな枠に置く。あなたは自分のカード名に「姫乃」を含むキャラを1枚選び、そのターン中、パワーを＋3000。このカードをクロック置場に置く。
+Flavor Text:
+おにいちゃんは、ひめののおにいちゃんだよ
+
+==========================
+
+“大好き”の証拠
+DC3/W18-039 CR
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1
+Flavor Text:
+本当、ですか？
+
+==========================
+
+“大好き”の証拠
+DC3/W18-039 RRR
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1
+Flavor Text:
+
+==========================
+
+心を繋げる魔法
+DC3/W18-040 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: G
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（宝：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）
+Flavor Text:
+やっと見つけた、兄さん！
+
+==========================
+
+心を繋げる魔法
+DC3/W18-040 RRR
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: G
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（宝：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）
+Flavor Text:
+
+==========================
+
+膝枕の上で シャルル
+DC3/W18-041 RR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+【C】 All your other 《生徒会》 Characters get +500 Power.
+【A】［(1)］When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, place this card into Memory.
+【永】 他のあなたの《生徒会》のキャラすべてに、パワーを＋500。
+【自】［(1)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードを思い出にする。
+Flavor Text:
+あ、清隆くん……おはよう
+
+==========================
+
+膝枕の上で シャルル
+DC3/W18-041 SR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+【C】 All your other 《生徒会》 Characters get +500 Power.
+【A】［(1)］When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, place this card into Memory.
+【永】 他のあなたの《生徒会》のキャラすべてに、パワーを＋500。
+【自】［(1)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードを思い出にする。
+Flavor Text:
+
+==========================
+
+お寝坊 姫乃
+DC3/W18-042 RR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Newspaper 新聞,_Pyjamas パジャマ
+Card Text/Abilities:
+【S】 CONCENTRATION［① REST this card］Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose up to 1 《新聞》 Character from your Waiting Room, return it to Hand.
+【起】 集中 ［① このカードをレストする］あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室の《新聞》のキャラを1枚まで選び、手札に戻す。
+Flavor Text:
+え、あ、あ、あ…………
+に、兄さんがなんでここにっ！？
+
+==========================
+
+お寝坊 姫乃
+DC3/W18-042 SR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Newspaper 新聞,_Pyjamas パジャマ
+Card Text/Abilities:
+【S】 CONCENTRATION［① REST this card］Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose up to 1 《新聞》 Character from your Waiting Room, return it to Hand.
+【起】 集中 ［① このカードをレストする］あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室の《新聞》のキャラを1枚まで選び、手札に戻す。
+Flavor Text:
+
+==========================
+
+内なる想い 姫乃
+DC3/W18-043 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Newspaper 新聞,
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【S】［Place the top card of your Deck into Clock, REST 2 of your Characters］Choose 1 「ツンツン 姫乃」 from your Waiting Room, place it into any slot on Stage.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】［あなたの山札の上から1枚をクロック置場に置き、あなたのキャラを2枚レストする］あなたは自分の控え室の「ツンツン 姫乃」を1枚選び、舞台の好きな枠に置く。
+Flavor Text:
+内緒。兄さんには内緒だよ
+
+==========================
+
+溢れる想い 立夏
+DC3/W18-044 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Newspaper 新聞,_Student Council 生徒会
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, choose 1 of your other 《新聞》 Characters, during this turn, it gets +2000 Power.
+【自】このカードが手札から舞台に置かれた時、あなたは他の自分の《新聞》のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+だから、早いとこ思い出してね。
+わたしとのらぶらぶ～な記憶
+
+==========================
+
+ガチガチ 姫乃
+DC3/W18-045 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 1500
+Soul: 1
+Traits:: Magic 魔法,_Sports スポーツ
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gains the following ability.『【A】When this card becomes REVERSE in battle, if your Stock is less than your opponent's Stock, you may place this card into Stock.』
+【A】When this card is place on Stage from Hand, look at the top card of your Deck, place it at the top of the Deck or into Waiting Room.
+【永】 応援 このカードの前のあなたのキャラすべてに、次の能力を与える。『【自】バトル中のこのカードがリバースした時、あなたのストックが相手のストックより少ないなら、あなたはこのカードをストック置場に置いてよい。』
+【自】このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。
+Flavor Text:
+早く柔軟でもなんでもやってください！
+
+==========================
+
+公式新聞部部長 立夏
+DC3/W18-046 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Newspaper 新聞,_Student Council 生徒会
+Card Text/Abilities:
+【A】When another of your 《新聞》 Characters attack, during this turn, this card gets +1000 Power.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】他のあなたの《新聞》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+まだ内緒。楽しみは後に取っておかないと
+
+==========================
+
+公式新聞部部長 立夏
+DC3/W18-046 SR
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Newspaper 新聞,_Student Council 生徒会
+Card Text/Abilities:
+【A】When another of your 《新聞》 Characters attack, during this turn, this card gets +1000 Power.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】他のあなたの《新聞》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+
+==========================
+
+聖夜の告白 リッカ
+DC3/W18-047 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+【C】 RECOLLECTION If your Memory has 3 or more cards, this card gets +2000 Power.
+【永】 記憶 あなたの思い出が3枚以上なら、このカードのパワーを＋2000。
+Flavor Text:
+だから、私と……恋人になりなさい。
+い、嫌とは言わせないわよ
+
+==========================
+
+守りたい笑顔 シャルル
+DC3/W18-048 R
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+【A】When this card is being Front Attacked, look at the top card of your Deck, place it at the top of the Deck or into Waiting Room.
+【A】 RECOLLECTION When this card's battle opponent becomes REVERSE, if your Memory has 3 or more cards, you may place that Character to the top of the Deck.
+【自】このカードがフロントアタックされた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。
+【自】 記憶 このカードのバトル相手がリバースした時、あなたの思い出が3枚以上なら、あなたはそのキャラを山札の上に置いてよい。
+Flavor Text:
+ねえ、清隆くん。何か欲しい物はない？
+プレゼントしてあげる。あたしの魔法で
+
+==========================
+
+守りたい笑顔 シャルル
+DC3/W18-048 SP
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+【A】When this card is being Front Attacked, look at the top card of your Deck, place it at the top of the Deck or into Waiting Room.
+【A】 RECOLLECTION When this card's battle opponent becomes REVERSE, if your Memory has 3 or more cards, you may place that Character to the top of the Deck.
+【自】このカードがフロントアタックされた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。
+【自】 記憶 このカードのバトル相手がリバースした時、あなたの思い出が3枚以上なら、あなたはそのキャラを山札の上に置いてよい。
+Flavor Text:
+
+==========================
+
+伝える言葉 清隆
+DC3/W18-049 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: N/A
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand, you may place the top 3 cards of your Deck into Waiting Room.
+【A】 BOND／「聖夜の告白 リッカ」［①］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「聖夜の告白 リッカ」 from your Waiting Room, return to Hand)
+【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。
+【自】 絆／「聖夜の告白 リッカ」 ［①］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「聖夜の告白 リッカ」を1枚選び、手札に戻す）
+Flavor Text:
+──俺もリッカさんが好きです
+
+==========================
+
+“好き”の気持ち 立夏
+DC3/W18-050 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Newspaper 新聞,_Student Council 生徒会
+Card Text/Abilities:
+【A】［① Place this card into Memory］When this card is being Front Attacked, you may pay the cost. If you did, choose 1 「公式新聞部部長 立夏」 from your Hand, place it into this card's previous slot as the Defending Character.
+【自】［① このカードを思い出にする］このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「公式新聞部部長 立夏」を1枚選び、このカードがいた枠に防御キャラとして置く。
+Flavor Text:
+えへへ……
+
+==========================
+
+初デートの後に シャルル
+DC3/W18-051 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+【A】 RECOLLECTION When this card is placed on Stage from Hand, if your Memory has 2 or more cards, choose 1 of your other Characters, during this turn, it gains the following ability.『【A】When this card becomes REVERSE, if the Level of the Character battling this card is equal or lower than this card's Level, you may REVERSE that Character.』
+【自】 記憶 このカードが手札から舞台に置かれた時、あなたの思い出が2枚以上なら、あなたは他の自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】このカードがリバースした時、このカードとバトル中のキャラのレベルがこのカードのレベル以下なら、あなたはそのキャラをリバースしてよい。』
+Flavor Text:
+じゃあ、スペシャルマッサージしてあげる
+
+==========================
+
+拭えぬ過去 シャルル
+DC3/W18-052 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+【A】 When this card attacks, if 「終わりのプレゼント」 is in the Climax slot, choose 1 「拭えぬ過去 シャルル」 from your Waiting Room, return it to Hand.
+【自】 このカードがアタックした時、クライマックス置場に「終わりのプレゼント」があるなら、あなたは自分の控え室の「拭えぬ過去 シャルル」を1枚選び、手札に戻す。
+Flavor Text:
+あのね、上手くいくかどうかはわからないけど、
+お姉ちゃんがその玩具を出してみるね
+
+==========================
+
+ロボット所長さん 美夏
+DC3/W18-053 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Mecha メカ,_Banana バナナ
+Card Text/Abilities:
+【A】When another of Character becomes REVERSE in battle, during this turn, this card gets +1000 Power.
+【自】他のあなたのバトル中のキャラがリバースした時、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+次来る時はバナナを差し入れしてくれると
+美夏が喜ぶぞ。あと、杉並によろしく
+
+==========================
+
+天才美少女魔法使い リッカ
+DC3/W18-054 U
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+【A】 When this card attacks, if 「孤高のカトレア」 is in the Climax slot, choose up to 1 card from your opponent's Waiting Room, place it at the top of the Deck, all your Characters, during this turn, get +1000 Power.
+【自】 このカードがアタックした時、クライマックス置場に「孤高のカトレア」があるなら、あなたは相手の控え室のカードを1枚まで選び、山札の上に置き、自分のキャラすべてに、そのターン中、パワーを＋1000。
+Flavor Text:
+助けに来たわよ、ピーター・パン♪
+
+==========================
+
+ツンツン 姫乃
+DC3/W18-055 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Newspaper 新聞,
+Card Text/Abilities:
+【C】If your Hand has 5 or more cards, this card gets +1000 Power.
+【C】If your Hand has 4 or less cards, all your other 《新聞》 Characters get +500 Power.
+【永】 あなたの手札が5枚以上なら、このカードのパワーを＋1000。
+【永】 あなたの手札が4枚以下なら、他のあなたの《新聞》のキャラすべてに、パワーを＋500。
+Flavor Text:
+……それだけですか？
+
+==========================
+
+意外とお子様 立夏
+DC3/W18-056 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Newspaper 新聞,_Student Council 生徒会
+Card Text/Abilities:
+【A】When this card attacks, if 「いつもの新聞部」 is in your Climax slot, place 3 cards from the top of your Deck into Waiting Room. If all those cards are 《新聞》 Characters, choose 1 Character from your Waiting Room, return it to Hand.
+【自】 このカードがアタックした時、クライマックス置場に「いつもの新聞部」があるなら、あなたは自分の山札の上から3枚を、控え室に置く。それらのカードすべてが《新聞》のキャラなら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+それは、非公式新聞部に勝つためよ！
+
+==========================
+
+ふんわりいたずら シャルル
+DC3/W18-057 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Newspaper 新聞,_Student Council 生徒会
+Card Text/Abilities:
+【C】If you have 2 or more other 《新聞》 Characters, this card gets +1000 Power.
+【永】他のあなたの《新聞》のキャラが2枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+だ、だってタカくん、気持ちよさそうに寝てるし、
+そもそも冬が寒いのが悪いんだよ
+
+==========================
+
+朝のハプニング シャルル
+DC3/W18-058 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Newspaper 新聞,_Student Council 生徒会
+Card Text/Abilities:
+Flavor Text:
+か、鍵！　鍵かけないと！
+
+==========================
+
+のんきなアシスタント ゆず＆夕陽
+DC3/W18-059 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Newspaper 新聞,_Fairy Tale 童話
+Card Text/Abilities:
+【C】If your Stock is 3 or less, this card gets +1500 Power.
+【永】あなたのストックが3枚以下なら、このカードのパワーを＋1500。
+Flavor Text:
+ゆず「いつでも遊びにこいよー」
+夕陽「今度は新聞部のみんなも連れてきてね」
+
+==========================
+
+部屋着の立夏
+DC3/W18-060 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Newspaper 新聞,_Student Council 生徒会
+Card Text/Abilities:
+Flavor Text:
+あなたは運命の人なんだから……
+１００年前からね！
+
+==========================
+
+昔みたいに 姫乃
+DC3/W18-061 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Newspaper 新聞,
+Card Text/Abilities:
+【S】● ASSIST 3000 Level 2［① Discard this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)
+【起】 ● 助太刀3000 レベル2 ［① 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）
+Flavor Text:
+わ、私だって照れくさいんだからおあいこ！　ほらっ！
+
+==========================
+
+初めての制服 姫乃
+DC3/W18-062 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Newspaper 新聞,
+Card Text/Abilities:
+【A】［④］When this card attacks, if 「海辺で語り合って」 is in your Climax Slot, you may pay the cost. If you did, deal 5 Damage to your opponent.(Damage can be cancelled)
+【自】［④］このカードがアタックした時、クライマックス置場に「海辺で語り合って」があるなら、あなたはコストを払ってよい。そうしたら、相手に5ダメージを与える。 (ダメージキャンセルは発生する)
+Flavor Text:
+どうかな、兄さん。似合う？
+
+==========================
+
+体操着のシャルル
+DC3/W18-063 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Newspaper 新聞,_Student Council 生徒会
+Card Text/Abilities:
+【C】 If your Stock is 4 or less, this card gains 『【A】 ENCORE［Place 1 Character from Hand into Waiting Room］』.
+【永】 あなたのストックが4枚以下なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。
+Flavor Text:
+あ、ダメだよ、タカくん。まだ充電中なんだから
+
+==========================
+
+部員一号 美琴
+DC3/W18-064 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Newspaper 新聞,_Love 愛
+Card Text/Abilities:
+Flavor Text:
+どう？　芳乃清隆！
+杉並様はいつだってあたしのことを正当に
+評価してくれているのよ！　羨ましいでしょう！
+
+==========================
+
+はじめまして、るる姉。
+DC3/W18-065 U
+Type: Event
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 Character with Level 2 or above from your Waiting Room, return it to Hand. Place this card into Memory.
+あなたは自分の控え室のレベル2以上のキャラを1枚選び、手札に戻す。このカードを思い出にする。
+Flavor Text:
+弟が出来るのは嬉しいかなって、それだったら
+行っても良いかなって、だから、その……
+そういう感じのがいいかなあ、なんて……
+
+==========================
+
+年越しキス
+DC3/W18-066 U
+Type: Event
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 《生徒会》 Character from your Waiting Room, return it to Hand. Choose 1 「年越しキス」 from your Waiting Room, place it into Memory. Place this card into Memory.
+あなたは自分の控え室の《生徒会》のキャラを1枚選び、手札に戻す。あなたは自分の控え室の「年越しキス」を1枚選び、思い出にする。このカードを思い出にする。
+Flavor Text:
+じゃ、じゃあ……改めて、
+もう一度、キス……しましょ？
+
+==========================
+
+孤高のカトレア
+DC3/W18-067 CR
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When this card is Triggered, choose 1 Character from your Waiting Room, return it to Hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(扉：このカードがトリガーした時、自分の控え室のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+ジル「ありがとうね、リッカ……。
+わたしたちのために、頑張ってくれて。
+わたしはね、ホントにうれしいんだよ」
+
+==========================
+
+孤高のカトレア
+DC3/W18-067 RRR
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When this card is Triggered, choose 1 Character from your Waiting Room, return it to Hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(扉：このカードがトリガーした時、自分の控え室のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+ジル「ありがとうね、リッカ……。
+わたしたちのために、頑張ってくれて。
+わたしはね、ホントにうれしいんだよ」
+
+==========================
+
+終わりのプレゼント
+DC3/W18-068 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +2 Soul.
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+……失敗、しちゃったのよ。あたしの魔法
+
+==========================
+
+海辺で語り合って
+DC3/W18-069 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, place the top card of your Deck into Stock, during this turn, all your Characters get +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+やっぱり兄さんには分かっちゃうか
+
+==========================
+
+いつもの新聞部
+DC3/W18-070 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+立夏「んじゃ、改めて。公式新聞卒パ号の
+編集会議を始めるわよ」
+
+==========================
+
+フラワーズは大忙し！ 葵
+DC3/W18-071 RR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Newspaper 新聞,_Waitress ウェイトレ
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gains ｢【自】 アンコール ［手札のキャラを1枚控え室に置く］｣.
+【S】［② REST this card］Return all cards from your Waiting Room into the Deck. Shuffle the Deck afterwards.
+【永】 応援 このカードの前のあなたのキャラに『【自】 アンコール ［手札のキャラ1枚を控え室に置く。］』を与える。
+【起】［② このカードをレストする］あなたは自分の控え室のカードすべてを、山札に戻す。その山札をシャッフルする。
+Flavor Text:
+え！？　清隆さん？　何してるんですか？
+
+==========================
+
+フラワーズは大忙し！ 葵
+DC3/W18-071 SR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Newspaper 新聞,_Waitress ウェイトレ
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gains ｢【自】 アンコール ［手札のキャラを1枚控え室に置く］｣.
+【S】［② REST this card］Return all cards from your Waiting Room into the Deck. Shuffle the Deck afterwards.
+【永】 応援 このカードの前のあなたのキャラに『【自】 アンコール ［手札のキャラ1枚を控え室に置く。］』を与える。
+【起】［② このカードをレストする］あなたは自分の控え室のカードすべてを、山札に戻す。その山札をシャッフルする。
+Flavor Text:
+
+==========================
+
+進みだした未来 葵
+DC3/W18-072 RR
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,_Waitress ウェイトレ
+Card Text/Abilities:
+【A】When this card is place on Stage from Hand or through 「CHANGE」, draw up to 2 cards, choose 1 card from your Hand, place it into Waiting Room.
+【A】［① Place 1 「魔法の霧」 from your Memory into Waiting Room］When this card attacks, you may pay the cost. If you did, place the top card of your Clock into Waiting Room.
+【A】When your Deck Refreshes, if you do not have 「魔法の霧」 in Memory, place this card into Waiting Room.
+【自】このカードが手札から舞台に置かれた時か「 チェンジ 」で舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。
+【自】［① あなたの思い出置場の「魔法の霧」を1枚控え室に置く］このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。
+【自】あなたが山札をリフレッシュした時、あなたの思い出置場に「魔法の霧」がないなら、このカードを控え室に置く。
+Flavor Text:
+大好きです！もちろん、これからもずっと！
+
+==========================
+
+進みだした未来 葵
+DC3/W18-072 SP
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,_Waitress ウェイトレ
+Card Text/Abilities:
+【A】When this card is place on Stage from Hand or through 「CHANGE」, draw up to 2 cards, choose 1 card from your Hand, place it into Waiting Room.
+【A】［① Place 1 「魔法の霧」 from your Memory into Waiting Room］When this card attacks, you may pay the cost. If you did, place the top card of your Clock into Waiting Room.
+【A】When your Deck Refreshes, if you do not have 「魔法の霧」 in Memory, place this card into Waiting Room.
+【自】このカードが手札から舞台に置かれた時か「 チェンジ 」で舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。
+【自】［① あなたの思い出置場の「魔法の霧」を1枚控え室に置く］このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。
+【自】あなたが山札をリフレッシュした時、あなたの思い出置場に「魔法の霧」がないなら、このカードを控え室に置く。
+Flavor Text:
+
+==========================
+
+大切なこと さくら
+DC3/W18-073 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】［①］ When this card attacks, if 「友達の証」 is in your Climax slot, you may pay the cost. If you did, look at up to 5 cards from the top of your Deck, choose up to 1 《魔法》 Character, show it to your opponent, add it to Hand. Place the remaining cards into Waiting Room.
+【自】［①］ このカードがアタックした時、クライマックス置場に「友達の証」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から5枚まで見て、《魔法》のキャラを1枚まで選んで相手に見せ、手札に加える。残りのカードを控え室に置く。
+Flavor Text:
+心から願えば、きっと未来は──世界は変わる
+
+==========================
+
+大切なこと さくら
+DC3/W18-073 SR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】［①］ When this card attacks, if 「友達の証」 is in your Climax slot, you may pay the cost. If you did, look at up to 5 cards from the top of your Deck, choose up to 1 《魔法》 Character, show it to your opponent, add it to Hand. Place the remaining cards into Waiting Room.
+【自】［①］ このカードがアタックした時、クライマックス置場に「友達の証」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から5枚まで見て、《魔法》のキャラを1枚まで選んで相手に見せ、手札に加える。残りのカードを控え室に置く。
+Flavor Text:
+
+==========================
+
+柔らかな休日 さら
+DC3/W18-074 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Newspaper 新聞,_Sports スポーツ
+Card Text/Abilities:
+【A】At the beginning of your opponent's Attack Phase, reveal the top card of your Deck. If that card is a 《スポーツ》 Character, during this turn, this card gets +1500 Power, gain 『【A】 ENCORE［Place 1 Character from Hand into Waiting Room］』.(Return revealed card to its original position)
+【自】相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードが《スポーツ》のキャラなら、そのターン中、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。 (公開したカードは元に戻す)
+Flavor Text:
+こ、こうですか？
+
+==========================
+
+柔らかな休日 さら
+DC3/W18-074 SR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Newspaper 新聞,_Sports スポーツ
+Card Text/Abilities:
+【A】At the beginning of your opponent's Attack Phase, reveal the top card of your Deck. If that card is a 《スポーツ》 Character, during this turn, this card gets +1500 Power, gain 『【A】 ENCORE［Place 1 Character from Hand into Waiting Room］』.(Return revealed card to its original position)
+【自】相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードが《スポーツ》のキャラなら、そのターン中、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。 (公開したカードは元に戻す)
+Flavor Text:
+
+==========================
+
+真夜中デート 葵
+DC3/W18-075 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Newspaper 新聞,_Waitress ウェイトレ
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand, look at the top card of your Deck, place it at the top or bottom of the Deck.
+【A】 When this card attacks, choose 1 Character from your Waiting Room, place it at the bottom of the Deck.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。
+【自】 このカードがアタックした時、あなたは自分の控え室のキャラを1枚選び、山札の下に置く。
+Flavor Text:
+うわ～、これが風見鶏に支給される
+ボートの乗り心地なんですね！　すごいです！
+
+==========================
+
+甘えんぼうモード 葵
+DC3/W18-076 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 3000
+Soul: 1
+Traits:: Newspaper 新聞,_Waitress ウェイトレ
+Card Text/Abilities:
+【C】All your other 《メイド》 or 《ウェイトレス》 Characters get +1000 Power.
+【A】When 「夢いっぱい」 is placed into your Climax slot, place the top 2 cards of your Deck into Waiting Room. If there is a Climax among those cards, place the top card of your Clock into Waiting Room.
+【永】他のあなたの、《メイド》か《ウェイトレス》のキャラすべてに、パワーを＋1000。
+【自】あなたのクライマックス置場に「夢いっぱい」が置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分のクロックの上から1枚を、控え室に置く。
+Flavor Text:
+そ、そうですか。役得ですか。だ、だったら良いです
+
+==========================
+
+甘えんぼうモード 葵
+DC3/W18-076 SR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 3000
+Soul: 1
+Traits:: Newspaper 新聞,_Waitress ウェイトレ
+Card Text/Abilities:
+【C】All your other 《メイド》 or 《ウェイトレス》 Characters get +1000 Power.
+【A】When 「夢いっぱい」 is placed into your Climax slot, place the top 2 cards of your Deck into Waiting Room. If there is a Climax among those cards, place the top card of your Clock into Waiting Room.
+【永】他のあなたの、《メイド》か《ウェイトレス》のキャラすべてに、パワーを＋1000。
+【自】あなたのクライマックス置場に「夢いっぱい」が置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分のクロックの上から1枚を、控え室に置く。
+Flavor Text:
+
+==========================
+
+巡り来るキセキ サクラ
+DC3/W18-077 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Magic 魔法,_Sweets お菓子
+Card Text/Abilities:
+【C】All your other Characters gain the following ability.『【C】 RECOLLECTION If your Memory has X cards or more, this card gets +1000 Power. X is equals to this card's Level.』
+【永】他のあなたのキャラすべてに、次の能力を与える。『【永】 記憶 あなたの思い出がＸ枚以上なら、このカードのパワーを＋1000。Ｘはこのカードのレベルに等しい。』
+Flavor Text:
+ボクが知っているのは
+キミたちと一緒に過ごした楽しい時間。
+そして、最期の瞬間に交わした約束だけだよ
+
+==========================
+
+巡り来るキセキ サクラ
+DC3/W18-077 SR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Magic 魔法,_Sweets お菓子
+Card Text/Abilities:
+【C】All your other Characters gain the following ability.『【C】 RECOLLECTION If your Memory has X cards or more, this card gets +1000 Power. X is equals to this card's Level.』
+【永】他のあなたのキャラすべてに、次の能力を与える。『【永】 記憶 あなたの思い出がＸ枚以上なら、このカードのパワーを＋1000。Ｘはこのカードのレベルに等しい。』
+Flavor Text:
+さて、それでは聴いていただきましょう。
+まるでダ・カーポの用に繰り返す、
+夢のような夢の、はじまりの物語を
+
+==========================
+
+本当の想い 葵
+DC3/W18-078 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Magic 魔法,_Waitress ウェイトレ
+Card Text/Abilities:
+【A】［① Place 1 「魔法の霧」 from your Climax slot or Waiting Room into Memory］When this card attacks, you may pay the cost. If you did, look at up to 2 cards from the top of your Deck, choose up to 1 card, add it to Hand. Place the remaining cards on top of the Deck in any order.
+【A】 CHANGE［Place 1 「魔法の霧」 from your Waiting Room into Memory, place this card into Memory］At the beginning of your Encore Step, if this card is in REST, you may pay the cost. If you did, choose 1 「進みだした未来 葵」 from your Waiting Room, place it into this card's previous slot.
+【自】［① あなたのクライマックス置場か控え室の、「魔法の霧」を1枚思い出にする］このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加える。残りのカードを山札の上に好きな順番で置く。
+【自】 チェンジ ［あなたの控え室の「魔法の霧」を1枚思い出にし、このカードを思い出にする］あなたのアンコールステップの始めに、このカードがレストしているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「進みだした未来 葵」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+でも、怖いんです。すごくすごく怖いんです。
+――だから、ちょっとだけ泣きますね？
+
+==========================
+
+永遠の約束 サラ
+DC3/W18-079 R
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,_Sports スポーツ
+Card Text/Abilities:
+【C】If your opponent's Hand has 5 or less cards, this card gets +1000 Power.
+【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.
+【永】相手の手札が5枚以下なら、このカードのパワーを＋1000。
+【自】このカードが手札から舞台に置かれたとき、あなたは自分のクロックの上から1枚を、控え室においてよい。
+Flavor Text:
+清隆、ずっと一緒にいてくださいね？
+
+==========================
+
+永遠の約束 サラ
+DC3/W18-079 SP
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,_Sports スポーツ
+Card Text/Abilities:
+【C】If your opponent's Hand has 5 or less cards, this card gets +1000 Power.
+【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.
+【永】相手の手札が5枚以下なら、このカードのパワーを＋1000。
+【自】このカードが手札から舞台に置かれたとき、あなたは自分のクロックの上から1枚を、控え室においてよい。
+Flavor Text:
+
+==========================
+
+わたわた 葵
+DC3/W18-080 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【A】［①］ When this card becomes REVERSE in battle, you may pay the cost. If you did, place this card into Memory.
+【A】◆ SHIFT Level 0 (At the beginning of your Main Phase, you may choose 1 Blue card from your Hand and this card in your Clock and exchange them.)
+【自】［①］ バトル中のこのカードがリバースした時、あなたはコストを払ってよい。そうしたら、このカードを思い出にする。
+【自】◆ シフト レベル0 (あなたのメインフェイズの始めに、あなたは自分の手札の青のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい)
+Flavor Text:
+きゃっ！！！
+
+==========================
+
+大切な時間 葵
+DC3/W18-081 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Newspaper 新聞,_Waitress ウェイトレ
+Card Text/Abilities:
+【A】 At the beginning of your Climax Phase, reveal the top card of your Deck. If that card is a Climax, choose 1 of your other Character in the Front Row, place it into Waiting Room.(Return revealed card to its original position)
+【自】 あなたのクライマックスフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、あなたは他の自分の前列のキャラを1枚選び、控え室に置く。（公開したカードは元に戻す）
+Flavor Text:
+は、はい
+
+==========================
+
+体操着のさら
+DC3/W18-082 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Newspaper 新聞,_Sports スポーツ
+Card Text/Abilities:
+【A】When this card attacks, if 「ふぁ～すとれっすん」 is in the Climax slot, reveal the top card of your Deck. If that card is a 《スポーツ》 Character, add it to Hand.(If its not, return it to its original position)
+【A】 CHANGE ［① Place 1 card from Hand into Waiting Room, place this card into Memory］At the beginning of your Encore Step, if this card is in REST, you may pay the cost. If you did, choose 1 「大ピンチ！ さら」 from your Waiting Room, place it into this card's previous slot.
+【自】このカードがアタックした時、クライマックス置場に「ふぁ～すとれっすん」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《スポーツ》のキャラなら手札に加える。 (そうでないなら元に戻す)
+【自】 チェンジ ［① 手札を1枚控え室に置き、このカードを思い出にする］あなたのアンコールステップの始めに、このカードがレストしているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「大ピンチ！ さら」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+あ、先輩。どうですか、私の素振り。
+少しは良くなってます？
+
+==========================
+
+星明かりの下で 葵
+DC3/W18-083 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Newspaper 新聞,_Waitress ウェイトレ
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand, until the end of your opponent's next turn, this card gets +1500 Power.
+【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードのパワーを＋1500。
+Flavor Text:
+えいえいえい！
+
+==========================
+
+大ピンチ！ さら
+DC3/W18-084 U
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 9000
+Soul: 1
+Traits:: Newspaper 新聞,_Sports スポーツ
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a Climax, REST this card.(Return revealed card to its original position)
+【自】このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、このカードをレストする。 (公開したカードは元に戻す)
+Flavor Text:
+葛木さん！　助けてください！
+
+==========================
+
+重なる鼓動 サラ
+DC3/W18-085 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Sports スポーツ
+Card Text/Abilities:
+【C】All your other 《スポーツ》 Characters get +500 Power.
+【S】［① REST this card］Choose 1 of your other 《スポーツ》 Characters, STAND it.
+【永】他のあなたの《スポーツ》のキャラすべてに、パワーを＋500。
+【起】［① このカードをレストする］ あなたは他の自分の《スポーツ》のキャラを1枚選び、スタンドする。
+Flavor Text:
+ありがとうございます
+
+==========================
+
+おひさま少女 葵
+DC3/W18-086 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Newspaper 新聞,_Waitress ウェイトレ
+Card Text/Abilities:
+【S】 CONCENTRATION ［①］Flip the top card of your Deck into Waiting Room. If that card is a 《新聞》 Character, all your Characters, during this turn, get +1000 Power.
+【起】 集中 ［①］あなたは自分の山札の上から1枚をめくり、控え室に置く。そのカードが《新聞》のキャラなら、あなたのキャラすべてに、そのターン中、パワーを+1000。
+Flavor Text:
+そのっ、たまに清隆さんのこと、
+お兄ちゃんって呼んでもいいですかっ！
+
+==========================
+
+神出鬼没な問題児 杉並
+DC3/W18-087 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Newspaper 新聞,_Occult オカルト
+Card Text/Abilities:
+【A】When this card Side Attacks, choose 1 of your other Characters, during this turn, it gets +1500 Power.
+【自】このカードがサイドアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+物事というのは、予想外の方向に
+転がっていくからこそ面白いものだからな
+
+==========================
+
+ちょっぴり甘えん坊 さら
+DC3/W18-088 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Newspaper 新聞,_Sports スポーツ
+Card Text/Abilities:
+Flavor Text:
+はい、すごく楽しいです。
+最初はどうなるんだろうって緊張してましたけど
+
+==========================
+
+天性のトラブルメーカー　杉並
+DC3/W18-089 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Newspaper 新聞
+Card Text/Abilities:
+【S】[①] Draw 1 card, choose 1 card from your Hand, place it into Waiting Room.
+【起】[①] あなたは1枚引き、自分の手札から1枚選び、控え室に置く。
+Flavor Text:
+その俺が断言するのだ。それを信じろ。
+貴様なら、この危機的状況を切り抜けられる！
+
+==========================
+
+元気いっぱい 葵
+DC3/W18-090 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Newspaper 新聞,_Waitress ウェイトレ
+Card Text/Abilities:
+【S】● ASSIST 2000 Level 1［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +2000 Power.)
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋2000)
+Flavor Text:
+元気と明るさが私のとりえですっ！
+
+==========================
+
+年下のクラスメイト さら
+DC3/W18-091 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Newspaper 新聞,_Sports スポーツ
+Card Text/Abilities:
+【A】When your opponent's Character is placed on Stage from Hand, during this turn, this card gets +500 Power.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】相手のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋500。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+あ、いえ！　警戒してるわけじゃないですっ
+
+==========================
+
+お風呂上りの葵
+DC3/W18-092 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Newspaper 新聞,_Waitress ウェイトレ
+Card Text/Abilities:
+Flavor Text:
+清隆……さん……？
+
+==========================
+
+病弱ワンコ娘 葵
+DC3/W18-093 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Newspaper 新聞,_Waitress ウェイトレ
+Card Text/Abilities:
+Flavor Text:
+あ、あのっ！　で、でしたら、やっぱり清隆さんに
+おんぶしてもらっていいですか？
+
+==========================
+
+勤労少女 葵
+DC3/W18-094 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Newspaper 新聞,_Waitress ウェイトレ
+Card Text/Abilities:
+【A】 ENCORE ［Place the top card of your Deck into Clock］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+え？　いいんですか？
+
+==========================
+
+小さな身体
+DC3/W18-095 U
+Type: Event
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+● If your Memory has 2 or less cards, you cannot place this card from Hand. Choose 1 of your Characters, during this turn, it gets +4500 Power.
+● このカードは、あなたの思い出が2枚以下なら、手札からプレイできない。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4500。
+Flavor Text:
+葵「すみません……もう少しだけ、
+このままでもいいですか？」
+
+==========================
+
+枯れない桜の奇跡
+DC3/W18-096 U
+Type: Event
+Level: 3
+Color: Blue
+Cost: 7
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+● All your opponent's Characters, during this turn, get +5 Soul, and gains the following ability.『【C】This card cannot Side Attack.』
+● 相手のキャラすべてに、そのターン中、ソウルを＋5し、次の能力を与える。『【永】 このカードはサイドアタックできない。』
+Flavor Text:
+『桜が咲いたら、約束のあの場所でお花見をしようね！』
+
+==========================
+
+友達の証
+DC3/W18-097 CR
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+ボクも、もう帰らなきゃいけないしね。
+だから、それ、リッカにあげる。友達の証として
+
+==========================
+
+友達の証
+DC3/W18-097 RRR
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+
+==========================
+
+ふぁ～すとれっすん
+DC3/W18-098 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+……わわっ
+
+==========================
+
+夢いっぱい
+DC3/W18-099 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Book：When this card is triggered, you may draw 1 card)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(本：このカードがトリガーした時、あなたは1枚引いてよい)
+Flavor Text:
+じゃっじゃじゃ～ん！
+どうですか？　どうですか？
+
+==========================
+
+魔法の霧
+DC3/W18-100 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, place the top card of your Deck into Stock, during this turn, all your Characters get +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+わたし、一番最初に清隆さんのところへ
+相談に行きます！　きっと！　絶対です！
+
+==========================
+
+魔法の霧
+DC3/W18-100 RRR
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, place the top card of your Deck into Stock, during this turn, all your Characters get +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+
+==========================
+
+クリパへようこそ！ シャルル
+DC3/W18-101 TD
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Newspaper 新聞,_Student Council 生徒会
+Card Text/Abilities:
+【A】When the Damage dealt by this card is cancelled, you may place this card into Stock.
+【自】このカードの与えたダメージがキャンセルされた時、あなたはこのカードをストック置場に置いてよい。
+Flavor Text:
+お家でもクリスマス祝おうね！
+
+==========================
+
+花より団子 葵
+DC3/W18-102 TD
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Waitress ウェイトレ,
+Card Text/Abilities:
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【S】［REST 2 of your 《新聞》 Characters］Choose 1 of your Characters, during this turn it gets +1500 Power.
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+【起】［あなたの《新聞》のキャラを2枚レストする］あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+働くの、すごく気持ちいいですよ。
+自分が誰かの役にたっているって実感できますし
+
+==========================
+
+恋する乙女 立夏
+DC3/W18-103 TD
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Newspaper 新聞,_Student Council 生徒会
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.
+【A】When this card attacks, reveal the top card of your Deck. If that card is a 《新聞》 Character, during this turn, this card gets +2000 Power.(Return revealed card to its original position)
+【自】このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《新聞》のキャラなら、そのターン中、このカードのパワーを＋2000。 (公開したカードは元に戻す)
+Flavor Text:
+――空から天使が降ってきた
+
+==========================
+
+スキーウェアのさら
+DC3/W18-104 TD
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Newspaper 新聞,_Sports スポーツ
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card get +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+こ、転んだわけじゃないです！
+ちょっと休みたいと思っただけです
+
+==========================
+
+浴衣の姫乃
+DC3/W18-105 TD
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Newspaper 新聞,_Wafuku 和服
+Card Text/Abilities:
+Flavor Text:
+んもう、だからお兄ちゃんは情緒がないって言われるんだよ
+
+==========================
+
+ちび葵
+DC3/W18-106 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Newspaper 新聞,_Waitress ウェイトレ
+Card Text/Abilities:
+【C】 During your opponent's turn, all your other 《メイド》 or 《ウェイトレス》 Characters get +500 Power.
+【永】 相手のターン中、他のあなたの、《メイド》か《ウェイトレス》のキャラすべてに、パワーを＋500。
+Flavor Text:
+さあ、清隆さん。
+清隆さんは一体誰が一番好きなんですか？
+
+==========================
+
+ちびシャルル
+DC3/W18-107 PR
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Newspaper 新聞,_Student Council 生徒会
+Card Text/Abilities:
+【S】● ASSIST 1500 Level 1 ［Place this card from Hand to Waiting Room］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +1500 Power)
+【起】 ● 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）
+Flavor Text:
+もちろん、あたしだよね～？
+
+==========================
+
+ちびさら
+DC3/W18-108 PR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Newspaper 新聞,_Sports スポーツ
+Card Text/Abilities:
+【C】 SUPPORT All your Characters with Level 2 or above in front of this card get +1000 Power.
+【S】［REST this card］Choose 1 of your 《スポーツ》 Character, during this turn, it gets +500 Power.
+【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。
+【起】［このカードを【レスト】する］ あなたは自分の《スポーツ》のキャラを1枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+私、先輩のこと、信じてます
+
+==========================
+
+ちび姫乃
+DC3/W18-109 PR
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Newspaper 新聞,
+Card Text/Abilities:
+【A】 When another of your Characters become REVERSE in battle, during this turn, this card get +1000 Power.
+【自】 他のあなたのバトル中のキャラが【リバース】した時、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+……兄さん
+
+==========================
+
+ちび立夏
+DC3/W18-110 PR
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Newspaper 新聞,_Student Council 生徒会
+Card Text/Abilities:
+【C】 SUPPORT All your Characters with 『【A】 ENCORE［Place 1 Character from Hand into Waiting Room］』 in front of this card get +1000 Power.
+【永】 応援 このカードの前のあなたの『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を持つキャラすべてに、パワーを＋1000。
+Flavor Text:
+清隆、はっきりと言ってあげなさい。
+俺は百年前からずっと立夏さんのことを愛してますって
+
+==========================
+
+桜並木の姫乃＆立夏
+DC3/W18-P01 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Newspaper 新聞,_Student Council 生徒会
+Card Text/Abilities:
+Flavor Text:
+２０１２年 春、“サクラサク”――
+
+==========================
+
+メイド服の姫乃
+DC3/W18-P02 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Newspaper 新聞,_Maid メイド
+Card Text/Abilities:
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed from Stage into Waiting Room, you may pay the cost. If you did, place this card on its previous slot in REST)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+そばにあなたの手があれば……
+
+==========================
+
+桜に佇む姫乃
+DC3/W18-P03 PR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【S】［②］During this turn, this card gets +5000 Power.
+【起】［②］ そのターン中、このカードのパワーを＋5000。
+Flavor Text:
+Onii-san, after this, are you free?
+兄さん、この後、暇ですか？
+
+==========================
+
+新聞部 シャルル＆さら
+DC3/W18-P04 PR
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Newspaper 新聞,_Student Council 生徒会
+Card Text/Abilities:
+【A】When another of your Characters become REVERSE in battle, choose 1 if your 《新聞》 Characters, during this turn, it gets +1000 Power.
+【自】他のあなたのバトル中のキャラがリバースした時、あなたは自分の《新聞》のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+シャルル「じゃあ、今日はどうしようか？」
+
+==========================
+
+いつでも笑顔 葵
+DC3/W18-P05 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Newspaper 新聞,_Waitress ウェイトレ
+Card Text/Abilities:
+Flavor Text:
+昨日はほんとありがとうございました。
+清隆さん、すごく優しくてお兄ちゃんみたいでした
+
+==========================
+
+真面目で頑張り屋さん さら
+DC3/W18-P06 PR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Newspaper 新聞,_Sports スポーツ
+Card Text/Abilities:
+【C】 During your opponent's turn, this card gets +1000 Power.
+【永】 相手のターン中、このカードのパワーを＋1000。
+Flavor Text:
+あ、先輩。待って下さい。
+せっかくだから一緒に行きませんか？
+
+==========================
+
+学園のアイドル 立夏
+DC3/W18-P07 PR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Newspaper 新聞,_Student Council 生徒会
+Card Text/Abilities:
+Flavor Text:
+そんなの負けなきゃいいのよ。
+新聞部部長としてその勝負、受けてたちましょう！
+
+==========================
+
+甘やかしお姉さん シャルル
+DC3/W18-P08 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Newspaper 新聞,_Student Council 生徒会
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+あーそうそう。イトコ同士って結婚できるんだって。
+タカくん、知ってた？
+
+==========================
+
+素直になれない幼なじみ 姫乃
+DC3/W18-P09 PR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Newspaper 新聞,
+Card Text/Abilities:
+【A】 When this card becomes REVERSED, if this card's battle opponent is Level 2 or lower, you may REVERSE that Character.
+【自】 このカードがリバースした時、このカードのバトル相手のレベルが2以下なら、あなたはそのキャラをリバースしてよい。
+Flavor Text:
+そ、そうかな。別に、普通だと思うけど……
+
+==========================
+
+水着の立夏
+DC3/W18-P10 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+【A】 You can only activate this ability once per turn. When you use 【S】, during this turn, this card gets +2000 Power.
+【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+今でも見せてあげるけど。わたしのぜ・ん・ぶ♪
+
+==========================
+
+寄り道 葵＆さら
+DC3/W18-P11 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Waitress ウェイトレ,_Sports スポーツ
+Card Text/Abilities:
+【A】［②］When this card is placed from Stage into Waiting Room, you may pay the cost. If you did, draw 1 card.
+【自】［②］このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。
+Flavor Text:
+さら「寒いのにアイスですか？」
+葵「寒いからこそです！」
+
+==========================
+
+お昼寝 さら
+DC3/W18-P12 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Newspaper 新聞,_Sports スポーツ
+Card Text/Abilities:
+【S】［REST this card］ Choose 1 of your 《新聞》 Characters, during this turn, it gets +1000 Power.
+【起】［このカードをレストする］ あなたは自分の《新聞》のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+ｚｚｚ…………
+
+==========================
+
+ツンツン 姫乃
+DC3/W18-T01 TD
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Newspaper 新聞,
+Card Text/Abilities:
+【C】If your Hand has 5 or more cards, this card gets +1000 Power.
+【C】If your Hand has 4 or less cards, all your other 《新聞》 Characters get +500 Power.
+【永】あなたの手札が5枚以上なら、このカードのパワーを＋1000。
+【永】あなたの手札が4枚以下なら、他のあなたの《新聞》のキャラすべてに、パワーを＋500。
+Flavor Text:
+別になんでもないです。兄さんのばーか
+
+==========================
+
+意外とお子様 立夏
+DC3/W18-T02 TD
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Newspaper 新聞,_Student Council 生徒会
+Card Text/Abilities:
+【A】When this card attacks, if 「いつもの新聞部」 is in your Climax slot, place 3 cards from the top of your Deck into Waiting Room. If all those cards are 《新聞》 Characters, choose 1 Character from your Waiting Room, return it to Hand.
+【自】このカードがアタックした時、クライマックス置き場に「いつもの新聞部」があるなら、あなたは自分の山札の上から3枚を、控え室に置く。それらのカードすべてが《新聞》のキャラなら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+いいの！　私怨でもいいの！　今回ばかりは絶対に
+杉並の鼻を明かすような紙面を作ってやるんだから！
+
+==========================
+
+ふんわりいたずら シャルル
+DC3/W18-T03 TD
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Newspaper 新聞,_Student Council 生徒会
+Card Text/Abilities:
+【C】If you have 2 or more other 《新聞》 Characters, this card gets +1000 Power.
+【永】他のあなたの《新聞》のキャラが2枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+ま、毎日はしてないよ？　ちょっとだけだよ？
+
+==========================
+
+朝のハプニング シャルル
+DC3/W18-T04 TD
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Newspaper 新聞,_Student Council 生徒会
+Card Text/Abilities:
+Flavor Text:
+あ、あれっ？　なんで？
+タカくん、どうして！　って鍵っ！　鍵はっ？
+
+==========================
+
+部屋着の立夏
+DC3/W18-T05 TD
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Newspaper 新聞,_Student Council 生徒会
+Card Text/Abilities:
+Flavor Text:
+あなたは運命の人なんだから……
+１００年前からね！
+
+==========================
+
+初めての制服 姫乃
+DC3/W18-T06 TD
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Newspaper 新聞,
+Card Text/Abilities:
+【A】［④］When this card attacks, if 「海辺で語り合って」 is in your Climax Slot, you may pay the cost. If you did, deal 5 Damage to your opponent.(Damage can be cancelled)
+【自】［④］このカードがアタックした時、クライマックス置場に「海辺で語り合って」があるなら、あなたはコストを払ってよい。そうしたら、相手に5ダメージを与える。 (ダメージキャンセルは発生する)
+Flavor Text:
+ねえ、兄さん。どう？　似合う、かな？
+
+==========================
+
+体操着のシャルル
+DC3/W18-T07 TD
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 2
+Power: 8500
+Soul: 2
+Traits:: Newspaper 新聞,_Student Council 生徒会
+Card Text/Abilities:
+【C】 If your Stock has 4 or less cards, this card gains 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』。
+【永】あなたのストックが4枚以下なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。
+Flavor Text:
+じゃあ、続きはお家に帰ってからね。シ～ユ～
+
+==========================
+
+はじめまして、るる姉。
+DC3/W18-T08 TD
+Type: Event
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 Character with Level 2 or above from your Waiting Room, return it to Hand. Place this card into Memory.
+あなたは自分の控え室のレベル2以上のキャラを1枚選び、手札に戻す。このカードを思い出にする。
+Flavor Text:
+弟が出来るのは嬉しいかなって、それだったら
+行っても良いかなって、だから、その……
+そういう感じのがいいかなあ、なんて……
+
+==========================
+
+いつもの新聞部
+DC3/W18-T09 TD
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+立夏「んじゃ、改めて。公式新聞卒パ号の
+編集会議を始めるわよ」
+
+==========================
+
+海辺で語り合って
+DC3/W18-T10 TD
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, place the top card of your Deck into Stock, during this turn, all your Characters get +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+やっぱり兄さんには分かっちゃうか
+
+==========================
+
+おひさま少女 葵
+DC3/W18-T11 TD
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Newspaper 新聞,_Waitress ウェイトレ
+Card Text/Abilities:
+【S】 CONCENTRATION ［①］Flip the top card of your Deck into Waiting Room. If that card is a 《新聞》 Character, all your Characters, during this turn, get +1000 Power.
+【起】 集中 ［①］あなたは自分の山札の上から1枚をめくり、控え室に置く。そのカードが《新聞》のキャラなら、あなたのキャラすべてに、そのターン中、パワーを+1000。
+Flavor Text:
+お兄ちゃん
+
+==========================
+
+神出鬼没な問題児 杉並
+DC3/W18-T12 TD
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Newspaper 新聞,_Occult オカルト
+Card Text/Abilities:
+【A】When this card Side Attacks, choose 1 of your other Characters, during this turn, it gets +1500 Power.
+【自】このカードがサイドアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+はっはっはっ。
+さすがは俺の好敵手、森園立夏。話が早い
+
+==========================
+
+ちょっぴり甘えん坊 さら
+DC3/W18-T13 TD
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Newspaper 新聞,_Sports スポーツ
+Card Text/Abilities:
+Flavor Text:
+やです。先輩から先輩なんて呼ばれるのは。
+先輩にはさらって呼んで欲しいです
+
+==========================
+
+元気いっぱい 葵
+DC3/W18-T14 TD
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Newspaper 新聞,_Waitress ウェイトレ
+Card Text/Abilities:
+【S】● ASSIST 2000 Level 1［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +2000 Power.)
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋2000)
+Flavor Text:
+
+==========================
+
+年下のクラスメイト さら
+DC3/W18-T15 TD
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Newspaper 新聞,_Sports スポーツ
+Card Text/Abilities:
+【A】When your opponent's Character is placed on Stage from Hand, during this turn, this card gets +500 Power.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】相手のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋500。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+は、はい！　ありがとうございます！
+その、よろしくお願いします！
+
+==========================
+
+病弱ワンコ娘 葵
+DC3/W18-T16 TD
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Newspaper 新聞,_Waitress ウェイトレ
+Card Text/Abilities:
+Flavor Text:
+ええー！　な、なんでわかるですか？
+もしかして、お医者さんですか！？
+
+==========================
+
+ふぁ～すとれっすん
+DC3/W18-T17 TD
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+え、えっと、こんな感じですか？
+
+==========================
+

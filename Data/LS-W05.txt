@@ -1,0 +1,2714 @@
+柊つかさHiiragi Tsukasa
+LS/W05-001 RR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Twins 双子,_Sweets お菓子
+Card Text/Abilities:
+【A】［① Discard a Climax card from hand to Waiting Room］When this card comes into play from hand, you may pay this cost. If so, choose a Climax card in the Waiting Room and return to hand.
+【A】［①］When this card attacks and the Climax「卒業式」is in play, you may pay this cost. If so, choose an opponent's Chara and return to hand.
+【自】［① 手札のクライマックスを1枚控え室に置く］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。
+【自】［①］このカードがアタックしたとき、クライマックス置き場に「卒業式」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、手札に戻す。
+Flavor Text:
+お姉ちゃん　私でよければ一緒にやろうか？
+
+==========================
+
+やりこみ大将みゆき
+LS/W05-002R RRR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Glasses メガネ,_Class Rep 委員長
+Card Text/Abilities:
+【A】When this card comes into play from hand, for the duration of this turn, this card gets +50 Soul.
+【A】Encore [Discard a Chara from hand] (When this card goes to the Waiting Room from play, you may pay this cost. If so, return this card in rest to its original  position]
+【自】このカードが手札から舞台に置かれた時、そのターン中、このカードのソウルを＋50。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+え、いえいえ…　特に他意はありませんよ？
+
+==========================
+
+やりこみ大将みゆき
+LS/W05-002 RR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Glasses メガネ,_Class Rep 委員長
+Card Text/Abilities:
+【A】When this card comes into play from hand, for the duration of this turn, this card gets +50 Soul.
+【A】Encore [Discard a Chara from hand] (When this card goes to the Waiting Room from play, you may pay this cost. If so, return this card in rest to its original  position]
+【自】このカードが手札から舞台に置かれた時、そのターン中、このカードのソウルを＋50。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+こちらはいかがですか？
+
+==========================
+
+趣味の人ひよりThe Hobby Girl, Hiyori
+LS/W05-003S SR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Otaku オタク,_Glasses メガネ
+Card Text/Abilities:
+【S】[Discard a Climax card from hand to Waiting Room, Rest this card] Choose one of your Standing Character and Rest it. If you do, put a Character with Level same or less than yours and with Cost 2 or less and with a similar trait with the Rested Character above into play.
+【起】[手札のクライマックスを1枚控え室に置き、このカードをレストする] あなたは自分のスタンドしているキャラを1枚選び、レストする。そうしたら、あなたは自分の手札の自分のレベル以下のレベルでコスト2以下の、そのキャラと同じ特徴を1つ以上持つキャラを1枚選び、舞台の好きな枠に置く。
+Flavor Text:
+だだだ　駄目駄目　それはムリっ
+
+==========================
+
+趣味の人ひよりThe Hobby Girl, Hiyori
+LS/W05-003 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Otaku オタク,_Glasses メガネ
+Card Text/Abilities:
+【S】[Discard a Climax card from hand to Waiting Room, Rest this card] Choose one of your Standing Character and Rest it. If you do, put a Character with Level same or less than yours and with Cost 2 or less and with a similar trait with the Rested Character above into play.
+【起】[手札のクライマックスを1枚控え室に置き、このカードをレストする] あなたは自分のスタンドしているキャラを1枚選び、レストする。そうしたら、あなたは自分の手札の自分のレベル以下のレベルでコスト2以下の、そのキャラと同じ特徴を1つ以上持つキャラを1枚選び、舞台の好きな枠に置く。
+Flavor Text:
+だだだ　駄目駄目　それはムリっ
+
+==========================
+
+ゆたか＆みなみYutaka & Minami
+LS/W05-004 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Infirmary 保健室,
+Card Text/Abilities:
+【C】If you have other 《Infirmary》 characters, this card's power +2000.
+【永】他のあなたの《保健室》のキャラがいるなら、このカードのパワーを＋2000。
+Flavor Text:
+わ みなみちゃん ど どうしたの？
+
+==========================
+
+アニ研部長こうAnime Club's Head of Department Kou
+LS/W05-005 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Student Council 生徒会,_Otaku オタク
+Card Text/Abilities:
+【S】[②]Choose 1 of your 《オタク》 character, it gets +3000 Power & +1 Soul this turn.
+【起】[②]あなたは自分の《オタク》のキャラを1枚選び、そのターン中、パワーを+3000し、ソウルを+1。
+Flavor Text:
+ん？ひよりんどーしたん？
+
+==========================
+
+名探偵みゆきThe Great Detective, Miyuki
+LS/W05-006 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Glasses メガネ,_Detective 探偵
+Card Text/Abilities:
+【A】［①］When this card attacks, if the Climax 「名案」 is in play、you may pay the cost. If so, return 1 of your opponent's character to hand. This card gets +3000 this turn.
+【自】［①］このカードがアタックした時、クライマックス置場に「名案」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、手札に戻し、そのターン中、このカードのパワーを+3000。
+Flavor Text:
+こういうのはどうでしょうか？
+
+==========================
+
+天然つかさNatural Airhead Tsukasa
+LS/W05-007S SR
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Twins 双子,_Sweets お菓子
+Card Text/Abilities:
+【A】［①］When this card comes ti play from hand, you may pay this cost. If so, return all Climax from your waiting room to your hand. Then, discard the same amount of cards from hand to your waiting room.
+【S】［Discard 2 Climax］All your characters gets +2500 Power.
+【自】［①］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスすべてを、手札に戻し、自分の手札を同じ枚数選び、控え室に置く。
+【起】［手札のクライマックスを2枚控え室に置く］あなたのキャラ全てに、そのターン中、パワーを＋2500。
+Flavor Text:
+こなちゃん、どーしたの？
+
+==========================
+
+天然つかさ Natural Airhead Tsukasa
+LS/W05-007 R
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Twins 双子,_Sweets お菓子
+Card Text/Abilities:
+【A】［①］When this card comes ti play from hand, you may pay this cost. If so, return all Climax from your waiting room to your hand. Then, discard the same amount of cards from hand to your waiting room.
+【S】［Discard 2 Climax］All your characters gets +2500 Power.
+【自】［①］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスすべてを、手札に戻し、自分の手札を同じ枚数選び、控え室に置く。
+【起】［手札のクライマックスを2枚控え室に置く］あなたのキャラ全てに、そのターン中、パワーを＋2500。
+Flavor Text:
+こなちゃん、どーしたの？
+
+==========================
+
+クールでカッコいい みなみ
+LS/W05-008 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Infirmary 保健室,_Animal 動物
+Card Text/Abilities:
+【A】 Bond／「名前が呼べたゆたか」［①］(When you play this card to the stage, you may pay this cost. If so, return 1 of 「名前が呼べたゆたか」 from waiting room to your hand)
+【S】［Rest this card］Choose 1 character when 「ゆたか」 in its name, it gets +500 Power this turn.
+【自】 絆／「名前が呼べたゆたか」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「名前が呼べたゆたか」を1枚選び、手札に戻す)
+【起】［このカードをレストする］あなたは自分のカード名に「ゆたか」を含むキャラを1枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+…保健委員の私がついてるから大丈夫だよ…ゆたか
+
+==========================
+
+みゆき＆みなみMiyuki & Minami
+LS/W05-009 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Glasses メガネ,_Animal 動物
+Card Text/Abilities:
+【S】［Rest 1 《メガネ》 character］Choose 1 《メガネ》 character、it gets +1000 Power.
+【起】［あなたの《メガネ》のキャラを1枚レストする］あなたは自分の《メガネ》のキャラを1枚選び、そのターン中、パワーを+1000。
+Flavor Text:
+
+==========================
+
+名前が呼べたゆたかYutaka
+LS/W05-010 U
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: ,_Infirmary 保健室
+Card Text/Abilities:
+【C】All other characters with 「絆」 ability, +1 Soul.
+【A】When the Climax 「夏休み明け」 comes to play, if you have a character with 「みなみ」 in its name, it gains the following ability this turn.『【A】 When this card is Reversed in battle, return this card & the opposing battling character back to hand.』
+【永】他のあなたの「絆」を持つキャラをすべてに、ソウル+1。
+【自】あなたのクライマックス置場に「夏休み明け」が置かれた時、他のあなたのカード名に「みなみ」を含むキャラがいるなら、そのターン中、このカードは次の能力を得る。『【自】 バトルしているこのカードがリバースした時、あなたはこのカードとバトルしているキャラと、このカードを選び、手札に戻してよい。』
+Flavor Text:
+そっか……そうだよねっ　ありがとう　みなみちゃんっ
+
+==========================
+
+保健委員のみなみMinami of the Health Comittee
+LS/W05-011 U
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Infirmary 保健室,_Animal 動物
+Card Text/Abilities:
+【S】All other 《保健室》 character gains the following ability.『【C】This card cannot be targeted by opponent's effects.』
+【A】［① Put your Climax into waiting room］When this card attacks, you may pay this cost. If so, this card gets +3000 Power, +2 Soul this turn.
+【永】他のあなたの《保健室》のキャラすべてに、次の能力を与える。『【永】このカードは相手の効果に選ばれない。』
+【自】［① あなたのクライマックスを1枚控え室に置く］このカードがアタックしたとき、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを+3000し、ソウルを+2。
+Flavor Text:
+ゆたか「あれ？みなみちゃん 髪形変えたのー？」
+
+==========================
+
+甘えん坊つかさSpoiled Child, Tsukasa
+LS/W05-012 U
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Twins 双子,_Sweets お菓子
+Card Text/Abilities:
+【C】If you have 3 or less cards in play, you cannot play this card from hand.
+【A】Encore［Discard a character from hand］(When this card goes to waiting room from stage, you may pay the cost. If so, return this card to its original frame in Rest)
+【永】このカードは、あなたのキャラが3枚以下なら、手札からプレイできない。
+【自】アンコール［手札のキャラを1枚控え室に置く］(このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+あ　そうだちょっとお姉ちゃんに聞きたいんだけど…
+
+==========================
+
+八坂 こうYasaka Kou
+LS/W05-013 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Student Council 生徒会,_Otaku オタク
+Card Text/Abilities:
+【C】Support All characters in front of this card get +500 Power.
+【永】応援 このカードの前のあなたのキャラすべてに、パワーを+500。
+Flavor Text:
+ど？ひより ネタ出た？
+
+==========================
+
+夢見る乙女つかさGirl to dream of, Tsukasa
+LS/W05-014 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Twins 双子,_Sweets お菓子
+Card Text/Abilities:
+【C】Alarm If this card is on top of your Clock, all you 《お菓子》 characters gains the following ability.『【A】When the opposing battling character goes Reversed, chose 1 of your characters, it gains +1 Soul this turn.』
+【永】アラーム このカードがクロックの1番上にあるなら、あなたの《お菓子》のキャラのすべてに、次の能力を与える。『【自】このカードとバトルしているキャラがリバースした時、あなたは自分のキャラを1枚選び、そのターン中、ソウルを+1。』
+Flavor Text:
+こういう誰もが特別って思える日に告白されたりしたりして想いが通じ合ったらすごく素敵だなって思うもん
+
+==========================
+
+小早川 ゆたかKobayakawa Yutaka
+LS/W05-015 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: ,_Infirmary 保健室
+Card Text/Abilities:
+【A】When any other of your character goes Reversed in battle, this card gets +1000 Power this turn.
+【自】他のあなたのキャラとバトルしているキャラがリバースした時、そのターン中、このカードのパワーを+1000。
+Flavor Text:
+ハンカチまで貸してくれたの　仲のいい友達ができそうで嬉しいんだ……
+
+==========================
+
+幼少時のみゆきChildhood Period, Miyuki
+LS/W05-016 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Glasses メガネ,_Class Rep 委員長
+Card Text/Abilities:
+Flavor Text:
+小さい頃 サンタさんにお礼の手紙を出そうとして色々調べた事もあるんですよー
+
+==========================
+
+高良 みゆきTakara Miyuki
+LS/W05-017 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Glasses メガネ,_Class Rep 委員長
+Card Text/Abilities:
+【S】●Assist 1500 Level1 [Discard this card from hand to waiting room］(1 of your characters being front attacked gets +1500 Power this turn)
+【起】●助太刀1500 レベル1[手札のこのカードを控え室に置く］(あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500)
+Flavor Text:
+インフルエンザと風邪の違いはですね…
+
+==========================
+
+アウトローひよりThe Outlaw, Hiyori
+LS/W05-018 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Otaku オタク,_Manga 漫画
+Card Text/Abilities:
+Flavor Text:
+えーっと普通の四コマ漫画とか…… すっ好きなゲームキャラ同士の……恋愛漫画とか……
+
+==========================
+
+ゆたか＆みなみ＆ひよりYutaka & Minami & Hiyori
+LS/W05-019 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Infirmary 保健室,_Otaku オタク
+Card Text/Abilities:
+Flavor Text:
+ゆたか「今仲良くしてる人でもきっかけって何だったっけなって考えちゃうコト多いなーって」
+
+==========================
+
+戦闘モードBattle Mode
+LS/W05-020 U
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【Counter】 Choose 1 character, it gets +X Power this turn. X equals to number of 《メガネ》 characters on stage.
+【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《メガネ》のキャラの枚数×1000に等しい。
+Flavor Text:
+みゆき「少しだけ…」
+こなた「あ あれ…何か出ましたネ――」
+かがみ「――出たわね」
+こなた「空間隔離してますね――」
+かがみ「しばらく戻ってこなそうね――」
+
+==========================
+
+痛恨の一撃Single Blow of Regret
+LS/W05-021 U
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: 0
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose one of your opponent's Frontline character that is Level 2 or below and send it to Stock.
+あなたは相手の前列のレベル2以下のキャラを1枚選び、ストック置場に置く。
+Flavor Text:
+
+==========================
+
+夢のような生活Dreamlike Lifestyle
+LS/W05-022 C
+Type: Event
+Level: 3
+Color: Yellow
+Cost: 4
+Trigger: 0
+Power: 0
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose one of your opponent's Frontline characters that is Level 2 or below and return it to his or her hand.
+【カウンター】 あなたは相手の前列のレベル2以下のキャラを1枚選び、手札に戻す。
+Flavor Text:
+Suu...
+すぅ…
+
+==========================
+
+夏休み明けSummer Holiday Eve
+LS/W05-023 CR
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: 0
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+[Auto] When this Climax is played, draw one card from the Deck. Choose one of your Frontline characters, +3 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、ソウルを＋3。
+Flavor Text:
+...good morning, Yutaka...
+Good morning Minami-chan.
+Hiyori(There are some people whose atmosphere changes on the eve of the summer holidays????)
+…おはよう ゆたか…
+みなみちゃんおはよーっ
+ひより（夏休み明けって明らかに空気の変わる人っているよね～～）
+
+==========================
+
+卒業式Graduation Ceremony
+LS/W05-024SP SP
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+こなた「卒業式って『感動のクライマックス！』ってカンジじゃん？」
+
+==========================
+
+卒業式Graduation Ceremony
+LS/W05-024 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+こなた「卒業式って『感動のクライマックス！』ってカンジじゃん？」
+
+==========================
+
+名案Good Idea
+LS/W05-025
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1W
+Power: 0
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+[Passive] All your characters gain +1000 Power and +1 Soul
+(Wind: When this card is flipped over during the Trigger phase, choose one of your opponent's Frontline characters and return to his hand.)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(風：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+「1年の計は元旦にあり」とも言いますし 今年の抱負を「書き初め」してみてはいかがでしょうか―
+
+==========================
+
+こなた＆かがみ＆つかさKonata & Kagami & Tsukasa
+LS/W05-026 RR
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Otaku オタク,_Twins 双子
+Card Text/Abilities:
+【永】他のあなたの《メガネ》のキャラが3枚以上なら、このカードは「【自】 アンコール ［手札のキャラを1枚控え室に置く］」を得る。
+【起】［あなたの《メガネ》のキャラを1枚レストする］そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+かがみ「つまみ食いしちゃダメだからね！」
+
+==========================
+
+小神あきらKogami Akira
+LS/W05-027 RR
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Television テレビ,_Music 音楽
+Card Text/Abilities:
+【永】相手のスタンドしているキャラ1枚につき、このカードのパワーを＋500。
+【自】このカードがアタックしたとき、クライマックス置き場に「らっきー☆ちゃんねる」があるなら、あなたは自分の山札の上から1枚をストック置き場に置き、そのターン中、このカードのパワーを＋X。Xは他のあなたのスタンドしているキャラの枚数×1000に等しい。
+Flavor Text:
+皆さんおは☆らっきー
+らっきー☆ちゃんねるのパーソナリティの小神あきらでーすっ
+
+==========================
+
+おめかしつかさDressing Up Tsukasa
+LS/W05-028R RRR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Twins 双子,_Sweets お菓子
+Card Text/Abilities:
+【自】 絆／「柊 かがみ」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「柊 かがみ」を1枚選び、手札に戻す）
+【起】［このカードを【レスト】する］ あなたは自分の《双子》のキャラを1枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+お姉ちゃんかえろー
+
+==========================
+
+おめかしつかさDressing Up Tsukasa
+LS/W05-028 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Twins 双子,_Sweets お菓子
+Card Text/Abilities:
+【自】 絆／「柊 かがみ」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「柊 かがみ」を1枚選び、手札に戻す)
+【起】［このカードをレストする］あなたは自分の《双子》のキャラを1枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+かがみ「このコ前から出かけたり遊ぶときについてきて
+真似ばかりしてたのよねっ　ヒヨコみたいで可愛いんだけど」
+
+==========================
+
+日下部 みさおKusakabe Misao
+LS/W05-029S SR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Sports スポーツ,_Double Tooth 八重歯
+Card Text/Abilities:
+【自】このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、クロック置き場に置いてもよい。
+【起】[このカードをレストする] あなたは自分のキャラを1枚選び、そのターン中、パワーを+1000。
+Flavor Text:
+柊ー　髪型変えてみたんだけど　どーだぁ？
+
+==========================
+
+日下部 みさおKusakabe Misao
+LS/W05-029 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Sports スポーツ,_Double Tooth 八重歯
+Card Text/Abilities:
+【自】このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、クロック置き場に置いてもよい。
+【起】[このカードをレストする] あなたは自分のキャラを1枚選び、そのターン中、パワーを+1000。
+Flavor Text:
+柊ー　髪型変えてみたんだけど　どーだぁ？
+
+==========================
+
+双子の姉かがみElder Twin Sister, Kagami
+LS/W05-030S SR
+Type: Character
+Level: 0
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Twins 双子,_Book 本
+Card Text/Abilities:
+【永】他のあなたの《双子》のキャラすべてに、パワーを＋500。
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+つかさの作るお菓子は美味しいわよ
+
+==========================
+
+双子の姉かがみElder Twin Sister, Kagami
+LS/W05-030 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Twins 双子,_Book 本
+Card Text/Abilities:
+【永】他のあなたの《双子》のキャラすべてに、パワーを＋500。
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+つかさの作るお菓子は美味しいわよ
+
+==========================
+
+桜庭 ひかるSakuraba Hikaru
+LS/W05-031 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Teacher 先生,_Glasses メガネ
+Card Text/Abilities:
+【永】応援 このカードの前のあなたの『【自】アンコール[手札のキャラを１枚控え室に置く]』を持つキャラすべてに、パワー+1000。
+【自】 絆／「天原 ふゆき」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「天原 ふゆき」を１枚選び、手札に戻す)
+Flavor Text:
+いや 田村とかも そういう雑誌見るんだなと思ってな
+
+==========================
+
+柊 かがみHiiragi Kagami
+LS/W05-032 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Twins 双子,_Book 本
+Card Text/Abilities:
+【永】 他のあなたの《双子》のキャラが2枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+そんなもんだって
+
+==========================
+
+３秒ルールみさおThe 3 Seconds Rule, Misao
+LS/W05-033 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Sports スポーツ,_Double Tooth 八重歯
+Card Text/Abilities:
+【自】［①］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場のクライマックスを1枚選び、手札に戻し、自分の手札を1枚選び、クロック置場に置く。
+Flavor Text:
+ほ　ほら……　3秒ルール　3秒ルール!!
+
+==========================
+
+世話好き あやの
+LS/W05-034 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Sweets お菓子,
+Card Text/Abilities:
+【自】このカードがアタックした時、あなたは自分のクライマックスを1枚選び、ストック置場に置いてよい。
+Flavor Text:
+これくらいが好きって言ってたから……
+
+==========================
+
+峰岸 あやのMinegishi Ayano
+LS/W05-035 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 3000
+Soul: 1
+Traits:: Sweets お菓子,_Forehead オデコ
+Card Text/Abilities:
+【自】[このカードをレストする]他のあなたの《お菓子》のキャラが手札から舞台に置かれた時、このカードがスタンドしているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、ストック置場に置く。
+Flavor Text:
+お菓子作りは趣味程度だけどねー
+
+==========================
+
+可愛さ百倍かがみ
+LS/W05-036 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Twins 双子,_Book 本
+Card Text/Abilities:
+【自】あなたか相手のクライマックスがクライマックス置場から控え室に置かれた時、そのカードをストック置場に置く。
+【自】あなたのクライマックス置場に「金魚すくい」が置かれた時、あなたは自分のキャラを1枚選び、クロック置場に置いてよい。そうしたら、あなたはクロック置場のレベル1以下の《動物》のキャラを1枚選び、舞台の好きな枠に置く。そのターン中、そのキャラのパワーを＋1000。
+Flavor Text:
+でさー　今度夏祭りに行ったら
+金魚すくいでもしてみようかと思ってるのよねー
+
+==========================
+
+かがみ様Kagami-sama
+LS/W05-037 U
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Twins 双子,_Book 本
+Card Text/Abilities:
+【自】［①］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスすべてを、手札に戻し、自分の手札を同じ枚数選び、控え室に置く。
+【起】［手札のクライマックスを1枚控え室に置く］あなたは相手のキャラ1枚を選び、そのターン中、パワーを－1000。
+Flavor Text:
+こなた「おまたせ　かがみ様っ」
+かがみ「私が悪かったから　頼むから普通に呼んでくれ」
+
+==========================
+
+かがみ＆つかさKagami & Tsukasa
+LS/W05-038 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Twins 双子,_Miko 巫女
+Card Text/Abilities:
+【永】他のあなたのカード名に「かがみ」を含むキャラすべてに、パワーを＋500。
+【永】他のあなたのカード名に「つかさ」を含むキャラすべてに、パワーを＋500。
+Flavor Text:
+つかさ「今年もおみくじとかやっていかない？」
+かがみ「いい事が有るか無いかは結局本人の頑張り次第よ」
+
+==========================
+
+頑張ちゃったつかさGood Luck! Tsukasa
+LS/W05-039 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Twins 双子,_Sweets お菓子
+Card Text/Abilities:
+NONE
+NONE
+Flavor Text:
+こなた「義理でも男子にはあげない方がいいよー　絶対勘違いされるから……」
+
+==========================
+
+伏兵のつかさSurprise Attack, Tsukasa
+LS/W05-040 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 1500
+Soul: 1
+Traits:: Twins 双子,_Sweets お菓子
+Card Text/Abilities:
+【自】あなたがこのカードの「助太刀」を使った時、あなたは自分のキャラを1枚選び、そのターン中、レベルを-1
+【起】●助太刀2000レベル１ ［① 手札のこのカードを控え室に置く］(あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋2000)
+Flavor Text:
+うん、それはね･･･
+
+==========================
+
+天原 ふゆき
+LS/W05-041 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger:
+Power: 4000
+Soul: 1
+Traits:: Teacher 先生,_Infirmary 保健室
+Card Text/Abilities:
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、《保健室》を与え、パワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+皆が元気なのが保健医としていちばん嬉しいですから
+
+==========================
+
+異文化の人あやのForeign culture's girl, Ayano
+LS/W05-042 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Sweets お菓子,
+Card Text/Abilities:
+NONE
+NONE
+Flavor Text:
+Am I..a...ummm...."Bride"?
+私は……うーんと……〝お嫁さん〟……かな？
+
+==========================
+
+元気っ娘みさおThe Energetic daughter, Misao
+LS/W05-043 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Sports スポーツ,_Double Tooth 八重歯
+Card Text/Abilities:
+NONE
+NONE
+Flavor Text:
+何もしないで夏休みが過ぎてるのは何でだろうな
+
+==========================
+
+お菓子好き　つかさCandy lover, Tsukasa
+LS/W05-044 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Twins 双子,_Sweets お菓子
+Card Text/Abilities:
+【永】 他の《お菓子》のキャラ1枚につき、このカードのパワーを＋500。
+【自】 このカードがアタックした時、クライマックス置場に「夏祭り」があるなら、あなたは自分の控え室のカードを1枚まで選び、ストック置場に置き、そのターン中、他のキャラすべてに、《お菓子》と《和服》を与える。
+Flavor Text:
+ワタアメって　ふわふわで甘いから大好き～っ
+
+==========================
+
+もっとも自然なこと
+LS/W05-045 U
+Type: Event
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。このカードをストック置場に置く。
+Flavor Text:
+つかさ「私は今年も皆と仲良く過ごせますようにーって」
+こなた「私もそれお願いしたのにかがみは冷たいよねー」
+かがみ「悪かったな」
+かがみ（―――っていうかそんなのお願いするまでもないことじゃない―――？）
+
+==========================
+
+ツインテールTwin tail
+LS/W05-046 U
+Type: Event
+Level: 1
+Color: Green
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【カウンター】 あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《双子》のキャラの枚数×500に等しい。
+Flavor Text:
+こなた「前から思ってたんだけど」
+
+==========================
+
+おやくそくっThe Promise
+LS/W05-047 C
+Type: Event
+Level: 1
+Color: Green
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+あなたは自分のクロック置場のクライマックスを1枚選び、手札に戻す。
+Flavor Text:
+ゆい「もーすこしでばんほしいですよねー」
+ななこ「そりゃーいわんおやくそくっちゅーやつやな～」
+
+==========================
+
+夏祭りSummer Festival
+LS/W05-048SP SP
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: S
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（溜＠：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい）
+Flavor Text:
+かがみ「子供じゃないんだから落ち着いて食べなって～」
+
+==========================
+
+夏祭りSummer Festival
+LS/W05-048 CR
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: S
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（溜＠：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい）
+Flavor Text:
+かがみ「子供じゃないんだから落ち着いて食べなって～」
+
+==========================
+
+金魚すくい
+LS/W05-049 CC
+Type: Climax
+Level: N/A
+Color: Green
+Cost: N/A
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+（かわいがろう―――このコはうんとかわいがろう―――）
+
+==========================
+
+らっきー☆ちゃんねるLucky Channel
+LS/W05-050 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+Good morning Lucky!! Thanks to you all, 「Lucky ☆ Star」6th Volume is already on sale.
+おは☆らっきーっ お陰さまで「らき☆すた」6巻発売ですっ
+
+==========================
+
+ゆたか＆ゆいYutaka & Yui
+LS/W05-051S SR
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 3500
+Soul: 1
+Traits:: Infirmary 保健室,_Police 警察
+Card Text/Abilities:
+【永】 他のあなたの『絆』を持つキャラすべてに、次の能力を与える。『【起】［このカードを【レスト】する］ あなたは自分のこのカードの『絆』に指定されているカード名のキャラを1枚選び、そのターン中、パワーを＋1000。』
+【永】応援 このカードの前のあなたのキャラすべてに、次の能力を与える。『【自】［(1)］このカードが【リバース】した時、このカードとバトルしているキャラのレベルがこのカードのレベル以下なら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを【リバース】する。』
+Flavor Text:
+ゆい「ゆたか～♪」
+ゆたか「う～ どうしたの？ お姉ちゃん」
+
+==========================
+
+ゆたか＆ゆいYutaka & Yui
+LS/W05-051 RR
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 3500
+Soul: 1
+Traits:: Infirmary 保健室,_Police 警察
+Card Text/Abilities:
+【永】 他のあなたの『絆』を持つキャラすべてに、次の能力を与える。『【起】［このカードを【レスト】する］ あなたは自分のこのカードの『絆』に指定されているカード名のキャラを1枚選び、そのターン中、パワーを＋1000。』
+【永】応援 このカードの前のあなたのキャラすべてに、次の能力を与える。『【自】［(1)］このカードが【リバース】した時、このカードとバトルしているキャラのレベルがこのカードのレベル以下なら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを【リバース】する。』
+Flavor Text:
+ゆい「ゆたか～♪」
+ゆたか「う～ どうしたの？ お姉ちゃん」
+
+==========================
+
+ツンデレ特急かがみSuper Express Tsundere, Kagami
+LS/W05-052R RRR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Twins 双子,_Sweets お菓子
+Card Text/Abilities:
+【自】［(1)］ このカードがアタックした時、クライマックス置場に「バレンタイン」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル1以下のキャラを1枚選び、控え室に置く。
+【起】［(1) 手札のクライマックスを1枚控え室に置く］ あなたは相手のキャラを1枚選び、そのターン中、《お菓子》を与え、レベルを－1。
+Flavor Text:
+はいコレあげるわよ　言っとくけど義理よ？　義理だからね!?
+
+==========================
+
+ツンデレ特急かがみSuper Express Tsundere, Kagami
+LS/W05-052 RR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Twins 双子,_Sweets お菓子
+Card Text/Abilities:
+【自】［(1)］ このカードがアタックした時、クライマックス置場に「バレンタイン」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル1以下のキャラを1枚選び、控え室に置く。
+【起】［(1) 手札のクライマックスを1枚控え室に置く］ あなたは相手のキャラを1枚選び、そのターン中、《お菓子》を与え、レベルを－1。
+Flavor Text:
+はいコレあげるわよ　言っとくけど義理よ？　義理だからね!?
+
+==========================
+
+泉　こなたIzumi Konata
+LS/W05-053 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Otaku オタク,_Manga 漫画
+Card Text/Abilities:
+【自】 絆／「ツンデレ特急かがみ」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ツンデレ特急かがみ」を1枚選び、手札に戻す）
+【起】［このカードを【レスト】する］ あなたは自分のカード名に「かがみ」を含むキャラを1枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+一見万能に見えて不得手をさらすことで
+影ですごい努力をしてるのを連想させるかがみ萌え
+
+==========================
+
+黒井先生Kuroi-sensei
+LS/W05-054 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Teacher 先生,_Net Game ネトゲ
+Card Text/Abilities:
+【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手は自分のキャラを1枚選び、控え室に置く。
+Flavor Text:
+泉ー？　ちょっと歯ぁくいしばれー？
+
+==========================
+
+マイペースこなたMy Pace, Konata
+LS/W05-055 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Otaku オタク,_Net Game ネトゲ
+Card Text/Abilities:
+【自】［(1)］ このカードがアタックした時、クライマックス置場に「チョココロネ」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+【自】［(3)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。
+Flavor Text:
+Its All Right! It can be done somehow
+大丈夫！　なんとかなるなる
+
+==========================
+
+岩崎　みなみIwasaki Minami
+LS/W05-056 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Infirmary 保健室,_Animal 動物
+Card Text/Abilities:
+【自】 このカードが手札から舞台に置かれた時、他のあなたの、「趣味の人ひよりと「素敵素材ゆたか」がいるなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。
+【自】 このカードがアタックした時、クライマックス置場に「何気ない幸せ」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+NONE
+NONE
+
+==========================
+
+恥じらうこなたBlushing Konata
+LS/W05-057S SR
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Otaku オタク,_Net Game ネトゲ
+Card Text/Abilities:
+【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスすべてを、手札に戻し、自分の手札を同じ枚数選び、控え室に置く。
+【起】［(1) 手札のクライマックスを2枚控え室に置く］ あなたは相手の前列のレベル2以下のキャラを1枚選び、山札の上に置く。
+Flavor Text:
+あ　あの　えーっと…
+
+==========================
+
+恥じらうこなたBlushing Konata
+LS/W05-057 R
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Otaku オタク,_Net Game ネトゲ
+Card Text/Abilities:
+【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスすべてを、手札に戻し、自分の手札を同じ枚数選び、控え室に置く。
+【起】［(1) 手札のクライマックスを2枚控え室に置く］ あなたは相手の前列のレベル2以下のキャラを1枚選び、山札の上に置く。
+Flavor Text:
+あ　あの　えーっと…
+
+==========================
+
+もふもふ みなみ
+LS/W05-058 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Infirmary 保健室,_Animal 動物
+Card Text/Abilities:
+【永】 相手の《動物》のキャラがいるなら、このカードはアタックできない。
+Flavor Text:
+おとなしくてイイコイイコ……
+
+==========================
+
+パティシエかがみPatissier, Kagami
+LS/W05-059 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Twins 双子,_Sweets お菓子
+Card Text/Abilities:
+【自】 このカードが【リバース】した時、このカードとバトルしているキャラがレベル1以下で《お菓子》なら、あなたはそのキャラを【リバース】してよい。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+味は　大丈夫だと思うんだけど…
+
+==========================
+
+歩く萌え要素ゆたかTurning to Moe element, Yutaka
+LS/W05-060 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 1500
+Soul: 1
+Traits:: ,_Infirmary 保健室
+Card Text/Abilities:
+【自】 あなたがこのカードの『助太刀』を使った時、あなたの『絆』を持つキャラがいるなら、あなたは自分のバトルしているキャラを1枚選び、そのターン中、パワーを＋1000。
+【起】【カウンター】 助太刀1500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋1500）
+Flavor Text:
+いろいろとご迷惑をおかけすると思いますが…
+よろしくお願いしますっ
+
+==========================
+
+素敵素材ゆたかLovely thing, Yutaka
+LS/W05-061 U
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 6500
+Soul: 1
+Traits:: ,_Infirmary 保健室
+Card Text/Abilities:
+【自】［(1)］ このカードがアタックした時、他のあなたの「趣味の人ひより」がいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「岩崎 みなみ」を1枚選び、手札に戻す。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+変えてみたんだけど　どうかな…みなみちゃん
+
+==========================
+
+メルヘンチックゆたかFairy tale's atmosphere, Yukata
+LS/W05-062 U
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: ,_Infirmary 保健室
+Card Text/Abilities:
+【自】［(2) あなたのクライマックスを1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+いつまでもステキな　お姉ちゃんでいてねっ
+
+==========================
+
+お守りを買うゆたかAmulet to buy, Yutaka
+LS/W05-063 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: ,_Infirmary 保健室
+Card Text/Abilities:
+【自】 絆／「マイペースこなた」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「マイペースこなた」を1枚選び、手札に戻す)
+Flavor Text:
+えっ！？　あ　うん　どうしようか　なぁ……っ
+
+==========================
+
+成美　ゆいMasami Yui
+LS/W05-064 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Police 警察,_Glasses メガネ
+Card Text/Abilities:
+【自】 バトルしているこのカードが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+ハメを外しすぎないよう
+お姉さん達の言う事を聞いて早めに帰りなよ―――？
+
+==========================
+
+こなた＆ゆたかKonata & Yutaka
+LS/W05-065 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Otaku オタク,_Infirmary 保健室
+Card Text/Abilities:
+【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《保健室》のキャラを1枚選び、手札に戻す。
+Flavor Text:
+ゆたか「それに背も小さいですし　体型も子供っぽいので……」
+こなた「大丈夫　ゆーちゃんは相手選ばなきゃ需要バッチリ」
+
+==========================
+
+パジャマの柊姉妹Hiiragi sisters in Pyjamas
+LS/W05-066 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Twins 双子,_Pyjamas パジャマ
+Card Text/Abilities:
+NONE
+NONE
+Flavor Text:
+Tsukasa「Morning,　sis」
+つかさ「おはよー　お姉ちゃん」
+
+==========================
+
+ループシューターゆいちゃんLoop Shooter, Yui
+LS/W05-067 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Police 警察,_Weapon 武器
+Card Text/Abilities:
+【自】［(3) 手札のクライマックスを1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以下のキャラを1枚選び、控え室に置く。
+Flavor Text:
+はっはっは　何を隠そう署では
+ループシューターゆいちゃんといわれるほどの腕前よ？
+
+==========================
+
+誤解されるタイプみなみMisunderstanding Type, Minami
+LS/W05-068 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Infirmary 保健室,_Animal 動物
+Card Text/Abilities:
+NONE
+NONE
+Flavor Text:
+Yutaka「It's different, that is awkward――――」
+ゆたか「違いますよ　あれは照れてるんですよ――――」
+
+==========================
+
+こなた＆かがみKonata & Kagami
+LS/W05-069 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Otaku オタク,_Twins 双子
+Card Text/Abilities:
+NONE
+NONE
+Flavor Text:
+Kagami「The test lately covers a wide range of subject, very troublesome isn't it」
+Konata「I will perfectly overcome it by last minute one night all out's Yama tecnique~」
+かがみ「今回のテストは範囲広くてしんどかったねー」
+こなた「私は一夜漬けのヤマが当たってバッチリだったよ～」
+
+==========================
+
+ダイエットDiet
+LS/W05-070 U
+Type: Event
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+すべてのプレイヤーにＸダメージを与える。Ｘはあなたの《お菓子》のキャラの枚数に等しい。（ダメージキャンセルは発生する）
+Flavor Text:
+かがみ「焼き芋のおいしい季節になったわね――」
+こなた「いや かがみ あのさ…」
+かがみ「いや わかってる わかってるから言うな」
+
+==========================
+
+保存用と宣伝用Storage Business and Advertising Business
+LS/W05-071 U
+Type: Event
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。
+Flavor Text:
+kagami「Oh my, you always buy the same whatsoever books, isn't it 」
+かがみ「まったく 毎回よくそんなに同じ本を何冊も買うわね」
+
+==========================
+
+わんことみなみ
+LS/W05-072 C
+Type: Event
+Level: 2
+Color: Red
+Cost: 4
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+あなたは相手の控え室のカードをＸ枚まで選び、山札に戻す。その山札をシャッフルする。Ｘはあなたの《保健室》のキャラの枚数に等しい。
+Flavor Text:
+ゆかり「みなみちゃーん回覧板ーー」
+ゆかり「みなみちゃんはクールでカッコいいねぇ～」
+
+==========================
+
+何気ない幸せCasual Happiness
+LS/W05-073S SR
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+みなみ（本当にゆたかといると ささいな悩みなど気にならなくなる――）
+
+==========================
+
+何気ない幸せCasual Happiness
+LS/W05-073 CR
+Type: Climax
+Level: N/A
+Color: Red
+Cost: N/A
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+みなみ（本当にゆたかといると ささいな悩みなど気にならなくなる――）
+
+==========================
+
+チョココロネChoco Cornet
+LS/W05-074 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+こなた「頭ってどっち？太い方と細い方」
+
+==========================
+
+バレンタインValentine
+LS/W05-075 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。（拾＠：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）
+Flavor Text:
+はい コレあげるわよ 言っとくけど義理よ？ 義理だからね！？ かっ！！形がいびつで悪かったわねっ
+
+==========================
+
+戦場のこなた Battlefield Konata
+LS/W05-076R RRR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 4500
+Soul: 1
+Traits:: Otaku オタク,_Manga 漫画
+Card Text/Abilities:
+【永】 他のあなたの《オタク》のキャラ1枚につき、このカードのパワーを＋500。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+夏と言えば年に二回の祭典っ　戦場の有明っ　何と言ってもコミケでしょ
+
+==========================
+
+戦場のこなたBattlefield Konata
+LS/W05-076 RR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 4500
+Soul: 1
+Traits:: Otaku オタク,_Manga 漫画
+Card Text/Abilities:
+【永】 他のあなたの《オタク》のキャラ1枚につき、このカードのパワーを＋500。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+この世は常に戦争だよ
+
+==========================
+
+つっぱしる女こなた Charge swiftly girl, Konata
+LS/W05-077 RR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Otaku オタク,_Net Game ネトゲ
+Card Text/Abilities:
+【永】 他のあなたの《オタク》のキャラ1枚につき、このカードのパワーを＋500。
+【自】 このカードがアタックした時、クライマックス置場に「貧乳はステータスだ希少価値だ」があるなら、あなたは自分の山札を見て《オタク》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+……部活に入ると　ゴールデンタイムのアニメが見られないじゃない
+
+==========================
+
+パトリシア＝マーティンPatricia Martin
+LS/W05-078 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Otaku オタク,_Manga 漫画
+Card Text/Abilities:
+【永】 他のあなたの《漫画》のキャラすべてに、パワーを＋500。
+【自】 絆／「戦場のこなた」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「戦場のこなた」を1枚選び、手札に戻す）
+Flavor Text:
+ハローコナターッ　コミフェではありがとベリマッチねー
+
+==========================
+
+泉 そうじろうIzumi Soujirou
+LS/W05-079 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 1000
+Soul: 1
+Traits:: Otaku オタク,_Book 本
+Card Text/Abilities:
+【永】 他のあなたのカード名に「こなた」を含むキャラすべてに、パワーを＋500。
+【自】［(1)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたはカードを1枚引く。
+Flavor Text:
+こなたはこなたのやりたいようにやればいいのさ
+
+==========================
+
+熱い国のパトリシアHot country's Patricia
+LS/W05-080S SR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Otaku オタク,_Manga 漫画
+Card Text/Abilities:
+【永】 相手のターン中、このカードのパワーを＋1000。
+Flavor Text:
+ワタシのカイシャクはこーでス
+カセーフさん→いると助かる人
+メイドさん→いると幸せな気分になれる人
+
+==========================
+
+熱い国のパトリシアHot country's Patricia
+LS/W05-080 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Otaku オタク,_Manga 漫画
+Card Text/Abilities:
+【永】 相手のターン中、このカードのパワーを＋1000。
+Flavor Text:
+ワタシのカイシャクはこーでス
+カセーフさん→いると助かる人
+メイドさん→いると幸せな気分になれる人
+
+==========================
+
+そうじろう＆かなたSoujirou & Kanata
+LS/W05-081S SR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 3000
+Soul: 1
+Traits:: Otaku オタク,_Spirit/Ghost 霊
+Card Text/Abilities:
+【自】 このカードがアタックした時、クライマックス置場に「私が一番安心できる場所」があるなら、あなたは1枚引く。
+【自】［(2)］ このカードが舞台から控え室に置かれた時、他のあなたのカード名に「こなた」か「そうじろう」を含むキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードを1枚選び、山札に戻す。その山札をシャッフルする。
+Flavor Text:
+Yes, I will continue to live inside you all.
+Even from now on, I will be watching fron the top of the sky......
+そう君達の中で私が生きていてくれるなら
+これからも空の上から見守りましょう……
+
+==========================
+
+そうじろう＆かなたSoujirou & Kanata
+LS/W05-081 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 3000
+Soul: 1
+Traits:: Otaku オタク,_Spirit/Ghost 霊
+Card Text/Abilities:
+【自】 このカードがアタックした時、クライマックス置場に「私が一番安心できる場所」があるなら、あなたは1枚引く。
+【自】［(2)］ このカードが舞台から控え室に置かれた時、他のあなたのカード名に「こなた」か「そうじろう」を含むキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードを1枚選び、山札に戻す。その山札をシャッフルする。
+Flavor Text:
+Yes, I will continue to live inside you all.
+Even from now on, I will be watching fron the top of the sky......
+そう君達の中で私が生きていてくれるなら
+これからも空の上から見守りましょう……
+
+==========================
+
+最強キャラみゆきStrongest Character, Miyuki
+LS/W05-082 R
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Glasses メガネ,_Class Rep 委員長
+Card Text/Abilities:
+【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスすべてを、手札に戻し、自分の手札を同じ枚数選び、控え室に置く。
+【起】［(1) 手札のクライマックスを1枚控え室に置く］ あなたは自分のクロックを1枚選び、控え室に置く。
+Flavor Text:
+そ　その……私怖いんです
+コンタクトレンズが　といいますか目に物を入れることが…
+
+==========================
+
+泉 かなたIzumi Kanata
+LS/W05-083 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Will 遺言,_Spirit/Ghost 霊
+Card Text/Abilities:
+【自】［このカードを控え室に置く］ 他のあなたのカード名に「こなた」を含むキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。
+【自】 絆／「泉 そうじろう」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「泉 そうじろう」を1枚選び、手札に戻す)
+Flavor Text:
+私にいっぱいの幸せをくれたそう君達が
+幸せでいられるように……
+
+==========================
+
+眼鏡っ子激LOVEこなたRaging LOVE spectacles girl, Konata
+LS/W05-084 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Otaku オタク,_Love 愛
+Card Text/Abilities:
+【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て、《メガネ》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+My email in romanization is「Raging LOVE spectacles girl」.
+私のメアドはローマ字で「眼鏡っ子激ＬＯＶＥ」だよ
+
+==========================
+
+オンラインゲーマーななこOnline Gamer, Nanako
+LS/W05-085 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Teacher 先生,_Net Game ネトゲ
+Card Text/Abilities:
+【自】 このカードがアタックした時、あなたのレベルが0なら、あなたは自分の手札すべてを、山札に戻してシャッフルしてよい。そうしたら、あなたは同じ枚数引く。
+Flavor Text:
+This weekend have a bit feeling to play online game at full capacity again.
+この週末はちとがっつりネトゲでもするカナー
+
+==========================
+
+そっち思考のひよりDistant thought, Hiyori
+LS/W05-086 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 1
+Power: 3500
+Soul: 1
+Traits:: Otaku オタク,_Glasses メガネ
+Card Text/Abilities:
+【永】 他のあなたの《オタク》のキャラすべてに、パワーを＋500。
+【自】［(1)］ このカードがアタックした時、クライマックス置場に「ひより始まる」があるなら、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。
+【起】［(1)］ あなたはキャラを1枚選び、そのターン中、あなたが指定した特徴を1つ与える。
+Flavor Text:
+Uaaaa...!! Preventing, preventing, myself!!!
+うあああーっ　自重しろ　自重しろ　私―――っ!!!
+
+==========================
+
+高スペックみゆきAmount Specification, Miyuki
+LS/W05-087 U
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Glasses メガネ,_Class Rep 委員長
+Card Text/Abilities:
+【自】［(2) あなたのクライマックスを1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+品行方正成績優秀しかも委員長でお嬢様……
+その上美人で巨乳で天然で眼鏡っ子……!!
+
+==========================
+
+委員長キャラみゆきThe President Character, Miyuki
+LS/W05-088 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Glasses メガネ,_Class Rep 委員長
+Card Text/Abilities:
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】［このカードを控え室に置く］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+こなた「委員長とかって一度やるとキャライメージが固定されちゃって続くよね」
+みゆき「そ　そうですね……　嫌ではないのでいいのですけど……」
+
+==========================
+
+こなた＆ひより＆パティKonata & Hiyori & Patty
+LS/W05-089 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Otaku オタク,_Manga 漫画
+Card Text/Abilities:
+【起】［あなたの《オタク》のキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2500。
+Flavor Text:
+パトリシア「ニホンはセーフクだから
+スバらしいんじゃないですカ!!」
+
+==========================
+
+湯上りのこなたAfter taking bath, Konata
+LS/W05-090 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Otaku オタク,
+Card Text/Abilities:
+NONE
+NONE
+Flavor Text:
+As I thought, Nothing feels better than after taking a bath isn't it!
+やっぱりお風呂上がりはこれにかぎるね！
+
+==========================
+
+歯が痛いみゆきPainful tooth, Miyuki
+LS/W05-091 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Glasses メガネ,_Class Rep 委員長
+Card Text/Abilities:
+NONE
+NONE
+Flavor Text:
+Yesterday I went to see dentist.....On the way, I ran away.....
+昨日歯医者さんに行ってきたのですが……　途中で逃げてしまっておりまして……
+
+==========================
+
+高良　ゆかりTakara Yukari
+LS/W05-092 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【永】 アラーム このカードがクロックの1番上にあるなら、あなたの《メガネ》のキャラすべてに、パワーを＋1000。
+Flavor Text:
+Miyuki, later please help okー♪
+みゆきー あとはお願いねー♪
+
+==========================
+
+黒井 ななこKuroi Nanako
+LS/W05-093 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Teacher 先生,_Net Game ネトゲ
+Card Text/Abilities:
+【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の、《オタク》か《ネトゲ》のキャラを1枚選び、そのターン中、パワーを＋1000。
+【起】【カウンター】助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）
+Flavor Text:
+Such things to be perfectly exhausted!
+こんなことでへばってらんと　ちゃんとしぃ！
+
+==========================
+
+田村 ひよりTamura Hiyori
+LS/W05-094 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: N/A
+Traits:: Otaku オタク,_Glasses メガネ
+Card Text/Abilities:
+NONE
+NONE
+Flavor Text:
+I changed my hairstyle look, how is it?
+髪型かえてみたんすけど　どーっすか？
+
+==========================
+
+１００Ｍショック100M Shock
+LS/W05-095 U
+Type: Event
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【カウンター】 あなたはバトルしているキャラを1枚選び、そのターン中、ソウルを＋6。
+Flavor Text:
+こう「およ？このネタ最近どっかで見た気がするなぁ…」
+
+==========================
+
+Ｂｏｏｏｏ！!Boooo!!
+LS/W05-096 U
+Type: Event
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+あなたは自分の山札を上からＸ枚まで見て、カードを2枚まで選び、手札に加える。残りのカードを控え室に置く。Ｘはあなたの《オタク》のキャラの枚数に等しい。
+Flavor Text:
+こなた「眼鏡と袴は女の子に限る――！！」
+ひより「私的には男の子もありなんですが…！！」
+こなた「え～～～～！？」
+
+==========================
+
+決戦は大晦日Decisive battle is New Year's eve
+LS/W05-097 C
+Type: Event
+Level: 3
+Color: Blue
+Cost: 3
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+相手のレベル3以下のキャラすべては、次の相手のスタンドフェイズに【スタンド】しない。
+Flavor Text:
+Konata「The end of year will not come early」
+Hiyori「Stop the time！！」
+こなた「早く年末来ないかなーっ」
+ひより「時間よ止まれーっ！！」
+
+==========================
+
+貧乳はステータスだ希少価値だLow value status for flat chest
+LS/W05-098 CR
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（引＠：このカードがトリガーした時、あなたは1枚引いてよい）
+Flavor Text:
+言われると確かにそういうニーズもあるわけじゃん？　私は貴重なワケよ
+
+==========================
+
+ひより始まるStarting Hiyori
+LS/W05-099 CC
+Type: Climax
+Level: N/A
+Color: Blue
+Cost: N/A
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+……私はもうダメかもしれない――！！
+
+==========================
+
+私が一番安心できる場所I am the best place to relief mind
+LS/W05-100 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、ソウルを＋3。
+Flavor Text:
+Soujirou「I'm the man who loved Kanata the most in the whole, entire world」
+そうじろう「オレが世界で一番かなたを愛してるってコトだよ」
+
+==========================
+
+私が一番安心できる場所I am the best place to relief mind
+LS/W05-100 SP
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、ソウルを＋3。
+Flavor Text:
+Soujirou「I'm the man who loved Kanata the most in the whole, entire world」
+そうじろう「オレが世界で一番かなたを愛してるってコトだよ」
+
+==========================
+
+怯えるつかさ
+LS/W05-101TDH TD
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Twins 双子,_Sweets お菓子
+Card Text/Abilities:
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+何といってもドリルの回転音がぁ～～～
+
+==========================
+
+怯えるつかさ
+LS/W05-101 TD
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Twins 双子,_Sweets お菓子
+Card Text/Abilities:
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+何といってもドリルの回転音がぁ～～～
+
+==========================
+
+こなた＆ゆい
+LS/W05-102TDH TD
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Otaku オタク,_Police 警察
+Card Text/Abilities:
+【S】［Discard 1 hand card from hand, place this card to waiting room］ Choose 1 of your opponent's cost 0 or below character, place it to waiting room.
+【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは相手のコスト0以下のキャラを1枚選び、控え室に置く
+Flavor Text:
+こなた「ねぇ姉さん　重いんだけど…」
+
+==========================
+
+こなた＆ゆい
+LS/W05-102 TD
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Otaku オタク,_Police 警察
+Card Text/Abilities:
+【S】［Discard 1 hand card from hand, place this card to waiting room］ Choose 1 of your opponent's cost 0 or below character, place it to waiting room.
+【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは相手のコスト0以下のキャラを1枚選び、控え室に置く
+Flavor Text:
+こなた「ねぇ姉さん　重いんだけど…」
+
+==========================
+
+無邪気なこなたInnocence Konata
+LS/W05-103P PR
+Type: Character
+Level: N/A
+Color: Red
+Cost: N/A
+Trigger:
+Power: 2000
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【起】●助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）
+Flavor Text:
+Humph, What's with this hairdo?
+ふふん　どう？　この髪型は
+
+==========================
+
+妹を守るかがみProtecting younger sister, Kagami
+LS/W05-104P PR
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Twins 双子,_Book 本
+Card Text/Abilities:
+【永】他のあなたの「姉を頼るつかさ」すべてに、パワーを+1000
+Flavor Text:
+Hun, even Konata is so free, isn't it?
+ふーん、こなたも暇ね
+
+==========================
+
+姉を頼るつかさRelying on elder sister, Tsukasa
+LS/W05-105P PR
+Type: Character
+Level: N/A
+Color: Green
+Cost: N/A
+Trigger:
+Power: 5500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【永】他のあなたの「妹を守るかがみ」すべてに、パワーを＋1000。
+Flavor Text:
+Becoming like my elder sister...?
+お姉ちゃん、似合うかな…？
+
+==========================
+
+うっかりなみゆきCarelessly Miyuki
+LS/W05-106P PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Glasses メガネ,_Class Rep 委員長
+Card Text/Abilities:
+【起】［あなたは1枚引く］ あなたのメインフェイズを終了しエンドフェイズに進む。
+Flavor Text:
+私　時々考え込むというか　ぼ～っとする事がありまして
+
+==========================
+
+お出かけこなたHanging out, Konata
+LS/W05-107P PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Otaku オタク,_Net Game ネトゲ
+Card Text/Abilities:
+【永】 他のあなたの《双子》のキャラが2枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+Tsukasa「Kona-chan,　where are you going to？」
+Konata「Huh？　Tsukasa don't you want to go together？」
+つかさ「こなちゃん　どこ行くの？」
+こなた「ん？　つかさも一緒に行かない？」
+
+==========================
+
+ノリノリなこなたHigh Spirit Konata
+LS/W05-108P PR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Otaku オタク,_Music 音楽
+Card Text/Abilities:
+【自】 他のあなたの「照れ照れなかがみ」がいるなら、このカードは『【自】アンコール [手札のキャラを1枚控え室に置く]』を得る。
+Flavor Text:
+Everybody, let's go to the next music!
+みんなー 次の曲いくよー！
+
+==========================
+
+照れ照れなかがみShy, Shy, Kagami
+LS/W05-109P PR
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 9000
+Soul: 1
+Traits:: Twins 双子,_Music 音楽
+Card Text/Abilities:
+【永】 他のあなたの「ノリノリなこなた」がいないなら、このカードはアタックできない。
+Flavor Text:
+Eh, next music already?
+え　もう次の曲なの？
+
+==========================
+
+こなたんセイバー＆かがみん凛Konatan Saber & Kagamin Rin
+LS/W05-110P PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Master マスター,_Servant サーヴァント
+Card Text/Abilities:
+【永】あなたのターン中、他のあなた《サーヴァント》のキャラ1枚につき、このカードのパワーを+500。
+【永】相手のターン中、他のあなたの《マスター》のキャラ1枚につき、このカードのパワーを+500。
+Flavor Text:
+かがみんも何だかんだでノリノリじゃないか
+
+==========================
+
+にゃもーNyamoo
+LS/W05-111P PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: ,_Animal 動物
+Card Text/Abilities:
+NONE
+NONE
+Flavor Text:
+Nyamoo♪
+にゃもー♪
+
+==========================
+
+恥ずかしがるかがみFeel shy, Kagami
+LS/W05-112P PR
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Twins 双子,_Book 本
+Card Text/Abilities:
+【自】[②]このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てカード名に「つかさ」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+ば…ばかっ　だからそんなんじゃないってば…っっ
+
+==========================
+
+コロネ奏者 こなた
+LS/W05-113 PR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Otaku オタク,_Music 音楽
+Card Text/Abilities:
+【S】［Put 1 of your 《オタク》 character to REST］ During this turn, this card gets +1000 power.
+【起】［あなたの《オタク》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+
+==========================
+
+大好物 こなた
+LS/W05-114 PR
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 1
+Traits:: Otaku オタク,_Manga 漫画
+Card Text/Abilities:
+【A】When this card comes to Stage from hand, you may place the top card of your Clock into Waiting Room.
+【A】［Put 2 of your character to REST］ Until end of your opponent turn, this card gets +1000 power.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【起】［あなたのキャラを2枚【レスト】する］ 次の相手のターンの終わりまで、このカードのパワーを＋1000。
+Flavor Text:
+チョココロネってどこから食べる？
+
+==========================
+
+かがみ＆つかさKagami & Tsukasa
+LS/W05-T01 TD
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Twins 双子,_Miko 巫女
+Card Text/Abilities:
+【永】他のあなたのカード名に「かがみ」を含むキャラすべてに、パワーを＋500。
+【永】他のあなたのカード名に「つかさ」を含むキャラすべてに、パワーを＋500。
+Flavor Text:
+つかさ「今年もおみくじとかやっていかない？」
+かがみ「いい事が有るか無いかは結局本人の頑張り次第よ」
+
+==========================
+
+世話好きあやの
+LS/W05-T02 TD
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Sweets お菓子,_Forehead オデコ
+Card Text/Abilities:
+【自】このカードがアタックした時、あなたは自分のクライマックスを1枚選び、ストック置場に置いてよい。
+Flavor Text:
+これくらいが好きって言ってたから……
+
+==========================
+
+頑張ちゃったつかさ
+LS/W05-T03 TD
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: N/A
+Traits:: Twins 双子,_Sweets お菓子
+Card Text/Abilities:
+Flavor Text:
+こなた「義理でも男子にはあげない方がいいよー
+絶対勘違いされるから……」
+
+==========================
+
+天原 ふゆき
+LS/W05-T04 TD
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Teacher 先生,_Infirmary 保健室
+Card Text/Abilities:
+【A】 When this card comes to stage from hand, choose 1 of your character, during this turn, it gets +1000 power and 《保健室》 trait.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、《保健室》を与え、パワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+皆が元気なのが保健医としていちばん嬉しいですから
+
+==========================
+
+元気っ娘みさお
+LS/W05-T05 TD
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Sports スポーツ,_Double Tooth 八重歯
+Card Text/Abilities:
+Flavor Text:
+何もしないで夏休みが過ぎてるのは何でだろうな
+
+==========================
+
+かがみ様
+LS/W05-T06 TD
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 1
+Traits:: Twins 双子,_Book 本
+Card Text/Abilities:
+【A】［(1)］ When this card comes to stage from hand, you may pay the cost. If you did this, all your climax in waiting room return to hand, discard your hand card the same amount of climax return to hand.
+【S】［Discard 1 climax from your hand］ Choose 1 of your opponent's character, during this turn, it gets +1000 power.
+【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスすべてを、手札に戻し、自分の手札を同じ枚数選び控え室に置く。
+【起】［手札のクライマックスを1枚控え室に置く］ あなたは相手のキャラを1枚選び、そのターン中、パワーを-1000。
+Flavor Text:
+こなた「おまたせ　かがみ様っ」
+かがみ「私が悪かったから　頼むから普通に呼んでくれ」
+
+==========================
+
+ツインテール
+LS/W05-T07 TD
+Type: Event
+Level: 1
+Color: Green
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+●  Choose 2 of your characters, during this turn, it gets +X power. X equal to number of 《双子》 characters you have.
+【カウンター】 あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《双子》のキャラの枚数×500に等しい。
+Flavor Text:
+最初にやった時〝かわいい〟って言ってもらえたのが嬉しくってね～　
+
+==========================
+
+金魚すくい
+LS/W05-T08 TD
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card comes on Stage from hand, put the top card of your deck to Stock. During this turn, all of your Characters get +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+かわいがろう―――
+このコはうんとかわいがろう―――
+
+==========================
+
+らっきー☆ちゃんねる
+LS/W05-T09 TD
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+おは☆らっきーっ
+お陰さまで「らき☆すた」6巻発売ですっ
+
+==========================
+
+こなた＆ゆたか
+LS/W05-T10 TD
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Otaku オタク,_Infirmary 保健室
+Card Text/Abilities:
+【A】［(2)］ When this card comes to stage from hand, you may pay the cost. If you did, choose 1 《保健室》 character from your waiting room, return it to hand.
+【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《保健室》のキャラを1枚選び、手札に戻す。
+Flavor Text:
+ゆたか「お姉ちゃんは毎日お弁当作ってるの―――？」
+
+==========================
+
+パジャマの柊姉妹
+LS/W05-T11 TD
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Twins 双子,_Book 本
+Card Text/Abilities:
+Flavor Text:
+つかさ「おはよー　お姉ちゃん」
+
+==========================
+
+もふもふ みなみ
+LS/W05-T12 TD
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Infirmary 保健室,_Animal 動物
+Card Text/Abilities:
+【C】 If opponent have 《動物》 character, this card cannot attack.
+【永】 相手の《動物》のキャラがいるなら、このカードはアタックできない。
+Flavor Text:
+おとなしくてイイコイイコ……
+
+==========================
+
+ループシューターゆいちゃん
+LS/W05-T13 TD
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Police 警察,_Weapon 武器
+Card Text/Abilities:
+【A】［(3) Discard 1 climax from hand］ When this card comes to stand from hand, you may pay the cost. If you did, choose 1 of opponent's Level 2 or below character, place it to waiting room.
+【自】［(3) 手札のクライマックスを1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以下のキャラを1枚選び、控え室に置く。
+Flavor Text:
+はっはっは　何を隠そう署ではループシューターゆいちゃんといわれるほどの腕前よ？
+
+==========================
+
+誤解されるタイプみなみ
+LS/W05-T14 TD
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Infirmary 保健室,_Animal 動物
+Card Text/Abilities:
+Flavor Text:
+ゆたか「違いますよ　あれは照れてるんですよ――――」
+
+==========================
+
+こなた＆かがみ
+LS/W05-T15 TD
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Otaku オタク,_Twins 双子
+Card Text/Abilities:
+Flavor Text:
+かがみ「今回のテストは範囲広くてしんどかったわねー」
+こなた「私は一夜漬けのヤマが当たってバッチリだったよ～」
+
+==========================
+
+バレンタイン
+LS/W05-T16 TD
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When you Triggered this card, choose 1 Character from your waiting room, return to hand)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（拾＠：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）
+Flavor Text:
+はい コレあげるわよ
+言っとくけど義理よ?義理だからね!?
+かっ!!形がいびつで悪かったわねっ
+
+==========================
+

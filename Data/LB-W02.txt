@@ -1,0 +1,3116 @@
+あたしたちが付き合おうWe'll Date
+LB/W02-000 PR
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+笹瀬川 佐々美Sasegawa Sasami
+LB/W02-001 RR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Sports スポーツ,
+Card Text/Abilities:
+【C】 SUPPORT All the characters in front of this card get +500 Power.
+【S】［② Put this card to REST］ Search your deck for up to 1 《スポーツ》 character, show it to your opponent and place it into your hand. Shuffle your deck afterwards.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】［② このカードをレストする］あなたは自分の山札を見て《スポーツ》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+さあ、来なさいっ！
+
+==========================
+
+鈴＆理樹Rin & Riki
+LB/W02-002 RR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【A】［①］When this card attacks, if 「鈴と共にある日々」 is in the climax slot, you may pay the cost. If you do, choose 1 of your opponent's characters, return it to hand.
+【自】 絆／「“リーダー”恭介」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“リーダー”恭介」を1枚選び、手札に戻す)
+【自】［①］このカードがアタックした時、クライマックス置場に「鈴と共にある日々」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、手札に戻す。
+【自】 絆／「“リーダー”恭介」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“リーダー”恭介」を1枚選び、手札に戻す)
+Flavor Text:
+Let's go together, Kyousuke
+一緒にいこう、恭介
+
+==========================
+
+“気高き子猫”鈴
+LB/W02-003R RRR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【C】During your turn, all your other characters get +500 Power.
+【A】This skill can be used up to 2 times per turn. When you use a 【S】, choose 1 of your characters, during this turn, it gets +500 Power.
+【永】あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。
+【自】この能力は、1ターンにつき2回しか使えない。あなたが【起】を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+Riki, now's your chance!
+理樹、今だ、いけ！
+
+==========================
+
+“気高き子猫”鈴"High Strung Kitten" Rin
+LB/W02-003 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【C】During your turn, all your other characters get +500 Power.
+【A】This skill can be used up to 2 times per turn. When you use a 【S】, choose 1 of your characters, during this turn, it gets +500 Power.
+【永】あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。
+【自】この能力は、1ターンにつき2回しか使えない。あなたが【起】を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+Hiss!!
+ふかーっ！
+
+==========================
+
+“リーダー”恭介"Leader" Kyousuke
+LB/W02-004 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【A】［①］When this card attacks, if 「リーダーの帰還」 is in the climax slot, you may pay the cost. If you do, choose 1 of your opponent's characters, return it to hand.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【自】［①］このカードがアタックした時、クライマックス置場に「リーダーの帰還」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、手札に戻す。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+Mission Start!
+ミッションスタート！
+
+==========================
+
+“ナース服”小毬
+LB/W02-005 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Fairy Tale 童話,
+Card Text/Abilities:
+【A】If you have 2 or more other 《お菓子》 characters, this card gets +1000 Power.
+【A】During your turn, all your other characters get +X Power. X is equal to that character's level x 500.
+【自】他の《お菓子》のあなたのキャラが二枚以上いるなら、このカードのパワーを＋１０００。
+【自】あなたのターン中、他のあなたのキャラすべてに、パーワを＋ｘ。ｘはそのキャラのレベル＊５００に。
+Flavor Text:
+ミッションスタート！
+
+==========================
+
+“バニーガール”唯湖
+LB/W02-006 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Music 音楽,_Weapon 武器
+Card Text/Abilities:
+【A】When a Level 2 or Above character battling this card becomes REVERSE, choose 1 of your characters, during this turn, it gets +1 Soul.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【自】このカードとバトルしているレベル2以上のキャラがリバースした時、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+I'm always serious.
+私はいつでも本気だ
+
+==========================
+
+来ヶ谷 唯湖
+LB/W02-007 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+【C】All your other 「三枝 葉留佳」 characters get +1000 Power.
+【S】［②］Choose 1 of your opponent's Level 0 or below characters, return it to hand.
+【永】他のあなたの「三枝 葉留佳」すべてに、パワーを＋1000。
+【起】［②］あなたはレベル0以下のキャラを1枚選び、手札に戻す。
+Flavor Text:
+ああ、キミは死なないよ。心配は要らない。
+
+==========================
+
+ソフト部三人組
+LB/W02-008 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Sports スポーツ,
+Card Text/Abilities:
+Flavor Text:
+佐々美先輩、加勢いたしますっ
+
+==========================
+
+“ウェディングドレス”鈴
+LB/W02-009 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【A】When this card is played to stage, place the top card of your deck under this card as a marker.
+【S】［Put this card to REST］If there are 1 or less markers under this card, place the top card of your deck under this card as a marker.
+【S】［Put this card to REST］During this turn, when your yellow characters use an ability, you may pay the markers under this card to place in waiting room instead of stock.
+【自】このカードがプレイされて舞台に置かれた時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。
+【起】［このカードをレストする］このカードの下のマーカーが1枚以下なら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。
+【起】［このカードをレストする］そのターン中、あなたが自分の黄のキャラの能力を使う時、このカードの下のマーカーを、ストックのかわりに控え室に置いてよい。
+Flavor Text:
+…それは…プロポーズか？
+
+==========================
+
+鈴＆佐々美
+LB/W02-010 U
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Animal 動物,_Sports スポーツ
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+“お菓子好き”小毬
+LB/W02-011 U
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Sweets お菓子,_Fairy Tale 童話
+Card Text/Abilities:
+【C】 大活躍 (相手がアタックする時、リバースしていないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする。)
+【A】When this card attacks, if 「二人だけの観測会」 is in the climax slot, you may choose 1 of your opponent's characters, return it to hand.
+【S】［③］Your opponent chooses 1 card from hand and places it in stock.
+【永】 大活躍 (相手がアタックする時、リバースしていないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする。)
+【自】このカードがアタックしたとき、クライマックス置場に「二人だけの観測会」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。
+【起】［③］相手は自分の手札を1枚選び、ストック置場に置く。
+Flavor Text:
+甘いものを食べると、ちょっとは元気出るよ
+
+==========================
+
+神北 小毬
+LB/W02-012 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Sweets お菓子,_Fairy Tale 童話
+Card Text/Abilities:
+【C】All your other 「“ウェディングドレス”鈴」 gets +1000 Power.
+【C】 ALARM When this card is at the top of your clock, all your yellow characters gain the following ability.『【C】This card cannot be targeted by your opponent's effects.』
+【永】他のあなたの「“ウェディングドレス”鈴」すべてに、パワーを＋1000。
+【永】 アラーム このカードがクロックの1番上にあるなら、黄のあなたのキャラすべてに、次の能力を与える。『【永】このカードは相手の効果に選ばれない。』
+Flavor Text:
+あなたの目が、もう少し、ほんのちょっとだけ見えるようになりますように
+
+==========================
+
+井ノ原 真人
+LB/W02-013 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Muscle 筋肉,
+Card Text/Abilities:
+【A】When this card is played to stage, choose 1 of your characters in STAND, put it to REST.
+【自】このカードがプレイされて舞台に置かれた時、あなたはスタンドしている自分のキャラを1枚選び、レストする。
+Flavor Text:
+今！！俺の怒りが…有頂天に達したぁッ！！
+
+==========================
+
+鈴＆小毬
+LB/W02-014 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 3000
+Soul: 1
+Traits:: Animal 動物,_Sweets お菓子
+Card Text/Abilities:
+【A】When your opponent levels up, place the top card of your deck into stock.
+【S】［③］During this turn, all your characters get +1 Soul.
+【自】相手がレベルアップした時、あなたは自分の山札の上から1枚を、ストック置場に置く。
+【起】［③］あなたは自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+りんちゃんと私、お友達だから
+
+==========================
+
+“深窓のクイーンオブハート”唯湖
+LB/W02-015 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Music 音楽,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+断罪してやろう
+
+==========================
+
+恭介＆鈴
+LB/W02-016 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Animal 動物,
+Card Text/Abilities:
+【S】［④］You opponent chooses 1 card from hand and places it in waiting room.
+【起】［④］相手は自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+
+==========================
+
+“神なるノーコン”鈴
+LB/W02-017 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Animal 動物,_Sports スポーツ
+Card Text/Abilities:
+【A】When the character battling this card becomes REVERSE, you may return this card to hand.
+【S】● ASSIST 3000 Level 2 ［Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +3000 Power)
+【自】このカードとバトルしているキャラがリバースした時、あなたはこのカードを手札に戻してよい。
+【起】● 助太刀3000 レベル2 ［① 手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋3000)
+Flavor Text:
+うっさい、手元がくるっただけだっ
+
+==========================
+
+猫使いの秘密兵器
+LB/W02-018 R
+Type: Event
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your opponent's front row level 0 or below characters, return it to hand.
+Place this card in stock.
+あなたはレベル0以下の相手の前列のキャラを1枚選び、手札に戻す。このカードをストック置場に置く。
+Flavor Text:
+この道六十五年の匠がこりこりにこだわった猫じゃらしだ
+
+==========================
+
+夢の中へ
+LB/W02-019 U
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your opponent's Level 1 or below characters, place it in stock.
+あなたはレベル1以下の相手のキャラを1枚選び、ストック置場に置く。
+Flavor Text:
+…くかー
+
+==========================
+
+お背中流しますよー
+LB/W02-020 U
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your characters, during this turn, it gets +2500 Power and +1 Soul.
+あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500し、ソウルを＋1。
+Flavor Text:
+ほら、ちゃんときれいにしてあげるから、おとなしくしましょうー
+
+==========================
+
+コールドゲームだ
+LB/W02-021 C
+Type: Event
+Level: 0
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+If you do not have 《スポーツ》 characters on stage, this card cannot be played from hand.
+If you do not have a yellow card in your clock or level slot, this card cannot be played from hand.
+Your opponent chooses 1 card from hand and places it in stock.
+このカードは《スポーツ》のあなたのキャラがいないなら、手札からプレイできない。このカードは、あなたのレベル置場かクロック置場に黄のカードがないなら、手札からプレイできない。相手は自分の手札を1枚選び、ストックに置く。
+Flavor Text:
+謙吾「茶番だあぁぁぁーーーーーーーーーっ！！」
+
+==========================
+
+相合傘
+LB/W02-022 C
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 2 of your characters, during this turn, it gets +2000 Power.
+あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋2000。
+Flavor Text:
+そうだな…雨の日には、私の頭が働かなくなるのかもしれないな
+
+==========================
+
+鈴と共にある日々
+LB/W02-023 CR
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1W
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Wind：When this card is Triggered, you may choose 1 of your opponent's Characters, return to his/her hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(風：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+あー、もうけんかしちゃめっ
+
+==========================
+
+リーダーの帰還
+LB/W02-024 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +1000 Power, +1 Soul.
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+Flavor Text:
+みんな、揃ってるな
+
+==========================
+
+二人だけの観測会
+LB/W02-025S SP
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+…私も理樹君の幸せになれると、いいな
+
+==========================
+
+二人だけの観測会
+LB/W02-025 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+私と一緒。両思いだ
+
+==========================
+
+“猫まみれ”鈴
+LB/W02-026 RR
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【C】For each of your other 《動物》 characters, this card gets +500 Power.
+【永】他のあなたの《動物》のキャラ1枚につき、このカードのパワーを＋500。
+Flavor Text:
+それが猫の魔力だ
+
+==========================
+
+“着ぐるみ”クド
+LB/W02-027 RR
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【C】If you have 5 or more stock, this card gets +1500 Power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【永】あなたのストックが5枚以上なら、このカードのパワーを＋1500。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+…わふ？
+
+==========================
+
+棗 鈴
+LB/W02-028R RRR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【C】All your other 「“おめかし”小毬」 get +1000 Power.
+【S】［Put this card to REST］Choose 1 of your characters, during this turn, it gets +1000 Power.
+【永】他のあなたの「“おめかし”小毬」すべてに、パワーを＋1000。
+【起】［このカードをレストする］あなたは自分のキャラを１枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+ようこそ、処刑台へ
+
+==========================
+
+棗 鈴
+LB/W02-028 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【C】All your other 「“おめかし”小毬」 get +1000 Power.
+【S】［Put this card to REST］Choose 1 of your characters, during this turn, it gets +1000 Power.
+【永】他のあなたの「“おめかし”小毬」すべてに、パワーを＋1000。
+【起】［このカードをレストする］あなたは自分のキャラを１枚選び、そのターン中、パワーを＋1000
+Flavor Text:
+猫をもてあそぶような奴にはお仕置きだ…
+
+==========================
+
+“マスコット”クド"Mascot" Kud
+LB/W02-029 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+Flavor Text:
+ふつつかものですがよろしくお願いしますっ
+
+==========================
+
+クド＆佐々美Kud & Sasami
+LB/W02-030 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Animal 動物,_Sports スポーツ
+Card Text/Abilities:
+【C】 ALARM When this is at the top of your clock, all your green characters gain the following ability.『【A】When the character battling this card becomes REVERSE, you may place this card in stock.』
+【永】 アラーム このカードがクロックの1番上にあるなら、緑のあなたのキャラすべてに、次の能力を与える。『【自】このカードとバトルしているキャラがリバースした時、あなたはこのカードをストック置場に置いてよい。』
+Flavor Text:
+笹瀬川さんはいいひとなのですね
+
+==========================
+
+三枝 葉留佳
+LB/W02-031 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Marble ビー玉,
+Card Text/Abilities:
+【A】When a Level 2 or Above character battling this card becomes REVERSE, you may place the top card of your deck in stock.
+【A】When this card attacks, if 「たった一つの取り柄」 is in the climax slot, place the top card of your deck in stock, during this turn, this card gets +3000 Power.
+【自】このカードとバトルしているレベル2以上のキャラがリバースした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。
+【自】このカードがアタックした時、クライマックス置場に「たった一つの取り柄」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋3000。
+Flavor Text:
+秘技！ビー玉転がし！
+
+==========================
+
+“トラブルメーカー”葉留佳
+LB/W02-032 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Marble ビー玉,
+Card Text/Abilities:
+【C】All your other characters with 「佳奈多」 in the name get +500 Power.
+【A】 BOND／「“風紀の番人”佳奈多」 ［①］ (When you place this card on stage from hand, you may pay the cost. If you do, choose 1 「“風紀の番人”佳奈多」 from your waiting room and place it into your hand)
+【永】他のあなたのカード名に「佳奈多」を含むキャラすべてに、パワーを＋500。
+【自】 絆／「“風紀の番人”佳奈多」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“風紀の番人”佳奈多」を1枚選び、手札に戻す)
+Flavor Text:
+泥船に乗った気で、お任せあれっ
+
+==========================
+
+神北 小次郎
+LB/W02-033 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【S】［①］Choose 1 of your characters, during this turn, it gets +1500 Power.
+【S】［①］Place this card in memory.
+【起】［①］あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。
+【起】［①］このカードを思い出にする。
+Flavor Text:
+だれがじーさんじゃあああああああああああああああああああ
+あああああああああああああああああああああああっ！！
+
+==========================
+
+“風紀の番人”佳奈多
+LB/W02-034 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Class Rep 委員長,
+Card Text/Abilities:
+【A】When this card attacks, if 「優等生のフリをした偽善者」 is in the climax slot, during this turn, this card gets +3000 Power.
+【S】［② Put this card to REST］Search your deck for up to 1 character with 「葉留佳」 in the name, show it to your opponent and place it into your hand. Shuffle your deck afterwards.
+【自】このカードがアタックした時、クライマックス置場に「優等生のフリをした偽善者」があるなら、そのターン中、このカードのパワーを＋3000。
+【起】［② このカードをレストする］あなたは自分の山札を見てカード名に「葉留佳」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+学園の綱紀粛正にご協力を、という意味よ
+
+==========================
+
+真人＆謙吾
+LB/W02-035 U
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Muscle 筋肉,_Sports スポーツ
+Card Text/Abilities:
+Flavor Text:
+鈴「馬鹿が二体か…困った幼なじみどもだな…」
+
+==========================
+
+“ポニーガール”鈴
+LB/W02-036 U
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Animal 動物,
+Card Text/Abilities:
+【C】 大活躍 (When your opponent attacks, if this card is in the center of the Front Row and is not in REVERSE, your opponent must Front Attack this card.)
+【A】When this card attacks, if 「そよ風のハミング」 is in the climax slot, place the top card of your deck into stock, during this turn, this card gets +3000 Power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【永】 大活躍  (相手がアタックする時、リバースしていないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする。)
+【自】このカードがアタックした時、クライマックス置場に「そよ風のハミング」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋3000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+ぴんちの時にあらわれる、それがエースだ
+
+==========================
+
+能美 クドリャフカ
+LB/W02-037 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【C】 SUPPORT All the characters in front of this card get +500 Power.
+【S】［①］During this turn, all your other characters get 《動物》.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】［①］他のあなたのキャラすべてに、そのターン中、《動物》を与える。
+Flavor Text:
+がんばりますっ
+
+==========================
+
+クド＆佳奈多
+LB/W02-038 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Animal 動物,_Class Rep 委員長
+Card Text/Abilities:
+【C】All your other 《動物》 characters get +500 Power.のあなたのキャラすべてに、パワーを＋500。
+【S】［Put this card to REST］Choose 1 of your characters, place it in stock.
+【永】他の《動物》のあなたのキャラすべてに、パワーを＋500。
+【起】［このカードをレストする］あなたは自分のキャラを1枚選び、ストック置場に置く。
+Flavor Text:
+異常ナシ（ヴゼ・ノルマルノ）！
+
+==========================
+
+“普通の少年”理樹
+LB/W02-039 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+Flavor Text:
+鈴「理樹は単純だからな」
+
+==========================
+
+“女王猫”佐々美
+LB/W02-040 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 1500
+Soul: N/A
+Traits:: Sports スポーツ,
+Card Text/Abilities:
+【C】All your other 「“最強の男児”謙吾」 get +1000 Power.
+【S】● ASSIST 2000 Level 2 ［Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +2000 Power)
+【永】他のあなたの「“最強の男児”謙吾」すべてに、パワーを＋1000。
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋2000)
+Flavor Text:
+ソフトボール部、次期キャプテン候補のこのわたくし、笹瀬川佐々美に勝てると思って？
+
+==========================
+
+“エプロン”葉留佳
+LB/W02-041 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is played to stage, place the top card of your deck under this card as a marker.
+【S】［Put this card to REST］If there are 1 or less markers under this card, place the top card of your deck under this card as a marker.
+【S】［Put this card to REST］During this turn, when your green characters use an ability, you may pay the markers under this card to place in waiting room instead of stock.
+【自】このカードがプレイされて舞台に置かれた時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。
+【起】［このカードをレストする］このカードの下のマーカーが1枚以下なら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。
+【起】［このカードをレストする］そのターン中、あなたが自分の緑のキャラの能力を使う時、このカードの下のマーカーを、ストックのかわりに控え室に置いてよい
+Flavor Text:
+最近はシフォンケーキの勉強もしてるんだけどね。難しい
+
+==========================
+
+“最強の男児”謙吾
+LB/W02-042 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Sports スポーツ,
+Card Text/Abilities:
+【S】［①］Choose 1 of your opponent's characters, during this turn, it gets -500 Power.
+【起】［①］あなたは相手のキャラを1枚選び、そのターン中、パワーを－500
+Flavor Text:
+100戦無敗
+
+==========================
+
+新たな挑戦者
+LB/W02-043 R
+Type: Event
+Level: 2
+Color: Green
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+During this turn, all your characters get +1500 Power.
+あなたは自分のキャラすべてに、そのターン中、パワーを＋1500。
+Flavor Text:
+
+==========================
+
+緊急事態
+LB/W02-044 U
+Type: Event
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+●Choose up to 2 of your characters, during this turn, they get +1000 Power.
+●あなたは自分のキャラを2体まで選び、そのターン中、パワーを＋1000。
+Flavor Text:
+え？そこを妥協！？
+
+==========================
+
+お掃除大すき♪
+LB/W02-045 U
+Type: Event
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose up to 2 of your characters, put them in STAND.
+あなたは自分のキャラを2枚まで選び、スタンドする。
+Flavor Text:
+そうじっ、おそうじっ、おおそうじ～っ♪
+
+==========================
+
+ぶらっくほわいと
+LB/W02-046 C
+Type: Event
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Place your cards in clock in any order.
+Place this card in stock.
+あなたは自分のクロックすべてを、クロック置場に好きな順番で置く。このカードをストック置場に置く。
+Flavor Text:
+あなたは自分のクロックすべてを、クロック置場に好きな順番で置く。このカードをストック置場に置く。
+
+==========================
+
+勉強会
+LB/W02-047 C
+Type: Event
+Level: 3
+Color: Green
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your characters, during this turn, it gains the following ability.『【C】Until you use this card's ability, the cost of stock to place in waiting room to use this card's abilities is -2.』
+あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【永】あなたがこのカードの能力を使うまで、このカードの能力のコストで控え室に置くストックを－2する。』
+Flavor Text:
+いつかの家庭科部室は覚えてますか、リキ？
+
+==========================
+
+たった一つの取り柄
+LB/W02-048S SP
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +1000 Power, +1 Soul.
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+Flavor Text:
+
+==========================
+
+たった一つの取り柄
+LB/W02-048 CR
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +1000 Power, +1 Soul.
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+Flavor Text:
+あは…自惚れ屋さんだよ、理樹くん
+
+==========================
+
+そよ風のハミング
+LB/W02-049 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: S
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +1000 Power, +1 Soul.
+(Bag： When this card is Triggered, you may take the top card of your deck and place it in Stock.)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(袋：このカードがトリガーした時、あなたは自分の山札から1枚を、ストック置場に置いてよい)
+Flavor Text:
+…ん？　起きた？
+
+==========================
+
+優等生のフリをした偽善者
+LB/W02-050 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+…ずっと私はウソツキだから。物心ついたときからね
+
+==========================
+
+“華麗なる剣聖”唯湖
+LB/W02-051 RR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Music 音楽,_Weapon 武器
+Card Text/Abilities:
+【A】When this card becomes REVERSE in battle, you may choose 1 of your opponent's cards in waiting room, place it on top of the deck.
+【S】［①］Choose 1 of your opponent's Front Row Level 0 or Below Characters, place it in waiting room.
+【自】バトルしているこのキャラがリバースした時、あなたは相手の控え室のカードを1枚選び、山札の上に置いてよい。
+【起】［①］あなたはレベル0以下の相手の前列のキャラを1枚選び、控え室に置く。
+Flavor Text:
+虚之太刀・朧月！！其太刀、雲海に朧なる月の如し！
+
+==========================
+
+“捜査官”葉留佳
+LB/W02-052 RR
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Marble ビー玉,_Police 警察
+Card Text/Abilities:
+【A】［①］When a Level 2 or Above character battling this card becomes REVERSE, you may pay the cost. If you do, choose 1 of your characters from your waiting room, return it to hand.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【自】［①］このカードとバトルしているレベル2以上のキャラがリバースした時、あなたはコストを払ってよい。そうしたら、自分の控え室のキャラを1枚選び、手札に戻す。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+三枝葉留佳はヤクタタズからジョブチェンジした！
+
+==========================
+
+西園 美魚
+LB/W02-053 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Book 本,_Parasol 日傘
+Card Text/Abilities:
+【A】 BOND／「西園 美鳥」 ［①］ (When you place this card on stage from hand, you may pay the cost. If you do, choose 1 「西園 美鳥」 from your waiting room and place it into your hand)
+【S】［② Place this card in waiting room］Choose 1 「西園 美鳥」 from your waiting room,, place it on stage in any slot.
+【自】 絆／「西園 美鳥」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「西園 美鳥」を1枚選び、手札に戻す)
+【起】［② このカードを控え室に置く］あなたは自分の控え室の「西園 美鳥」を1枚選び、舞台の好きな枠に置く。
+Flavor Text:
+この日傘がなければ、傍らにいることもできないかも知れません
+
+==========================
+
+西園 美魚
+LB/W02-053 RRR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Book 本,_Parasol 日傘
+Card Text/Abilities:
+【A】 BOND／「西園 美鳥」 ［①］ (When you place this card on stage from hand, you may pay the cost. If you do, choose 1 「西園 美鳥」 from your waiting room and place it into your hand)
+【S】［② Place this card in waiting room］Choose 1 「西園 美鳥」 from your waiting room,, place it on stage in any slot.
+【自】 絆／「西園 美鳥」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「西園 美鳥」を1枚選び、手札に戻す)
+【起】［② このカードを控え室に置く］あなたは自分の控え室の「西園 美鳥」を1枚選び、舞台の好きな枠に置く。
+Flavor Text:
+この川風にうまく乗れば、どこまでも遠くまで飛んでいくかも知れませんね
+
+==========================
+
+棗＆直枝054
+LB/W02-054 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【S】［② Put this card in REST］Deal 1 damage to your opponent.
+【起】［② このカードをレストする］あなたは相手に1ダメージを与える。
+Flavor Text:
+西園「…やはりカップリングはこだわりが大切ですよね…」
+
+==========================
+
+直枝 理樹055
+LB/W02-055 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Sports スポーツ,
+Card Text/Abilities:
+【A】［①］When this card attacks, if 「リトルバスターズ！」 is in your climax slot, you may pay the cost. If you do, choose 1 character from your waiting room, return it to hand.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【自】［①］このカードがアタックした時、クライマックス置場に「リトルバスターズ！」があるなら、あなたはコストを払ってよい。そうしたら、自分の控え室のキャラを1枚選び、手札に戻す。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+可能性はある。
+
+==========================
+
+“姉御肌”唯湖056
+LB/W02-056 R
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Music 音楽,_Weapon 武器
+Card Text/Abilities:
+【C】 大活躍 (When your opponent attacks, if this card is in the center of the Front Row and is not in REVERSE, your opponent must Front Attack this card.)
+【A】When this card attacks, if 「いつかの未来のために」 is in your climax slot, choose 1 of your characters in waiting room, return it to hand.
+【S】［③］Choose 1 of your characters in waiting room, place it on stage in any slot.
+【永】 大活躍 (相手がアタックする時、リバースしていないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする。)
+【自】このカードがアタックしたとき、クライマックス置場に「いつかの未来のために」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+【起】［③］あなたは自分の控え室のキャラを1枚選び、舞台の好きな枠に置く。
+Flavor Text:
+なに、模造刀だ。斬れはしない
+
+==========================
+
+“赤ずきん”美魚057
+LB/W02-057 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Book 本,_Parasol 日傘
+Card Text/Abilities:
+【C】If you have 7 or more stock, this card gets +2500 Power.
+【A】When this card becomes REVERSE, if the character battling this card is Level 0 or Below, you may put that character to REVERSE.
+【永】あなたのストックが7枚以上なら、このカードのパワーを＋2500。
+【自】このカードがリバースした時、このカードとバトルしているキャラのレベルが0以下なら、あなたはそのキャラをリバースしてよい
+Flavor Text:
+責任、取ってくださいね。
+
+==========================
+
+二木 佳奈多058
+LB/W02-058 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Class Rep 委員長,
+Card Text/Abilities:
+【C】 ALARM  When this card is at the top of your clock, if you are at Level 2 or Above, all your red cards gain the following ability. 『【自】When this card becomes REVERSE, if the character battling this card is the same level as this card or below, you may put that character to REVERSE.』
+【永】 アラーム  このカードがクロックの1番上にあり、あなたのレベルが2以上なら、赤のあなたのキャラすべてに次の能力を与える。『【自】このカードがリバースした時、このカードとバトルしているキャラのレベルがこのカードのレベル以下なら、あなたはそのキャラをリバースしてよい。』
+Flavor Text:
+…別に。お礼を言われるようなことは、してないわよ
+
+==========================
+
+夏服の葉留佳059
+LB/W02-059 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 1500
+Soul: 1
+Traits:: Marble ビー玉,
+Card Text/Abilities:
+【C】 SUPPORT  All the characters in front of this card gain the following ability. 『【A】When this card becomes REVERSE in battle, if your stock is less than your opponent's, you may place this card in stock.』
+【S】［② Put this card to REST］Search your deck for up to 1 character with 「唯湖」 in the name, show it to your opponent and place it into your hand. Shuffle your deck afterwards.
+【永】 応援  このカードの前のあなたのキャラすべてに、次の能力を与える。『【自】バトルしているこのカードがリバースした時、あなたのストックが相手のストックより少ないなら、あなたはこのカードをストック置場に置いてよい。』
+【起】［② このカードをレストする］あなたは自分の山札を見てカード名に「唯湖」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+テンション、回復、回復！
+
+==========================
+
+西園 美鳥060
+LB/W02-060 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Shadow 影,
+Card Text/Abilities:
+Flavor Text:
+うーん、できれば美魚って呼んでほしいんだけどなあ
+
+==========================
+
+葉留佳＆佳奈多061
+LB/W02-061 U
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Marble ビー玉,_Class Rep 委員長
+Card Text/Abilities:
+Flavor Text:
+いいの、いいの！はいチーズ！
+
+==========================
+
+“騒がし乙女”葉留佳062
+LB/W02-062 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Marble ビー玉,
+Card Text/Abilities:
+【A】This ability can be used up to 2 times in 1 turn. When you use a 【S】 ability, during this turn, this card gets +1500 Power.
+【自】この能力は、1ターンにつき2回しか使えない。あなたが【起】を使った時、そのターン中、このカードのパワーを＋1500。
+Flavor Text:
+シャカシャカヘイっ！！
+
+==========================
+
+葉留佳＆美魚063
+LB/W02-063 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Marble ビー玉,_Book 本
+Card Text/Abilities:
+Flavor Text:
+葉留佳「エロいなぁー…理樹くんエロいなぁーっ」
+西園「あまつさえ混ざりたいとか考えてませんか」
+
+==========================
+
+“名探偵”唯湖064
+LB/W02-064 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+【A】When this card is played to stage, place the top card of your deck under this card as a marker.
+【S】［Put this card to REST］If there are 1 or less markers under this card, place the top card of your deck under this card as a marker.
+【S】［Put this card to REST］During this turn, when your red characters use an ability, you may pay the markers under this card to place in waiting room instead of stock.
+【自】このカードがプレイされて舞台に置かれた時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。
+【起】［このカードをレストする］このカードの下のマーカーが1枚以下なら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。
+【起】［このカードをレストする］そのターン中、あなたが自分の赤のキャラの能力を使う時、このカードの下のマーカーを、ストックのかわりに控え室に置いてよい
+Flavor Text:
+ちょっとここを使えば、誰でもこれくらいは浮かぶものだよ
+
+==========================
+
+“筋肉馬鹿”真人065
+LB/W02-065 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Muscle 筋肉,
+Card Text/Abilities:
+【A】［①］When this card attacks, if 「託されるもの」 is in your climax slot, you may pay the cost. If you do, choose 1 of your characters from waiting room, return it to hand.
+【A】When you Level Up, place this card in waiting room.
+【自】［①］このカードがアタックした時、クライマックス置場に「託されるもの」があるなら、あなたはコストを支払ってよい。そうしたら、自分の控え室のキャラを1枚選び、手札に戻す。
+【自】あなたがレベルアップした時、このカードを控え室におく。
+Flavor Text:
+ちゃんと考えて筋肉って言ってんだよ、この野郎めが！
+
+==========================
+
+唯湖＆葉留佳066
+LB/W02-066 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 1500
+Soul: 1
+Traits:: Music 音楽,_Marble ビー玉
+Card Text/Abilities:
+【A】［①］When you use this card's 「ASSIST」, you may pay the cost. If you do, choose 1 of your opponent's cards in waiting room, place it on top of the deck.
+【S】● ASSIST 3000 Level 2 ［Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +3000 Power)
+【自】［①］あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードを1枚選び、山札の上に置く。
+【起】● 助太刀3000 レベル2 ［① 手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋3000)
+Flavor Text:
+そういうわけで、今日は姉御の日ー。姉御っ姉御っ
+
+==========================
+
+“文学少女”美魚067
+LB/W02-067 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Book 本,_Parasol 日傘
+Card Text/Abilities:
+【S】［②］Choose 1 of your characters in waiting room, return it to hand. Choose 1 card from hand, place it in waiting room.
+【起】［②］あなたは自分の控え室のキャラを1枚選び、手札に戻す。あなたは自分の手札を1枚選び、控え室に置く
+Flavor Text:
+翼のあるものを縛り付けるなんて、できませんよ
+
+==========================
+
+鏡よ、鏡068
+LB/W02-068 R
+Type: Event
+Level: 2
+Color: Red
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 character from your waiting room with the same name as your characters on stage, return it to hand.
+あなたは自分の控え室の、自分の舞台にいるキャラと同じカード名のキャラを1枚選び、手札に戻す
+Flavor Text:
+あなたは、だれ？
+
+==========================
+
+朝焼けに眠る069
+LB/W02-069 U
+Type: Event
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your opponent's front row characters, place it in waiting room.
+あなたは相手の前列のキャラを1枚選び、控え室に置く。
+Flavor Text:
+…これからは…楽しいことがたくさん待ってんのかな
+
+==========================
+
+非現実的な光景070
+LB/W02-070 U
+Type: Event
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 card from your opponent's waiting room, place it in memory.
+Place this card in memory.
+あなたは相手の控え室のカードを1枚選び、思い出にする。このカードを思い出にする。
+Flavor Text:
+お別れの挨拶は終わった？
+
+==========================
+
+クリムゾンレッドの腕章071
+LB/W02-071 C
+Type: Event
+Level: 3
+Color: Red
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your opponent's Front Row Level 1 or Below characters, place it in waiting room.
+Place this card in stock.
+あなたはレベル1以下の相手の前列のキャラを1枚選び、控え室に置く。このカードをストック置場に置く。
+Flavor Text:
+つまらないことをしているのは、あなたでしょう
+
+==========================
+
+耳掃除072
+LB/W02-072 C
+Type: Event
+Level: 1
+Color: Red
+Cost: 3
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your Level 2 or Below characters from waiting room, place it on stage in REST.
+あなたは自分の控え室のレベル2以下のキャラを1枚選び、舞台の好きな枠にレストして置く。
+Flavor Text:
+そうかそうか。穴をほじられるのが気持ちいいか
+
+==========================
+
+リトルバスターズ！ 073
+LB/W02-073 CR
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +1000 Power, +1 Soul.
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1
+Flavor Text:
+本当に、楽しそうで…それが、今の生活の、象徴のようで…
+
+==========================
+
+いつかの未来のために074
+LB/W02-074S SP
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When this card is Triggered, choose 1 Character from your waiting room, return to hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(扉：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+
+==========================
+
+いつかの未来のために074
+LB/W02-074 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When this card is Triggered, choose 1 Character from your waiting room, return to hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(扉：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+恋してる、って方の、好きだ
+
+==========================
+
+託されるもの075
+LB/W02-075 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+お別れだ、理樹
+
+==========================
+
+“メルヘン少女”小毬076
+LB/W02-076 RR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Sweets お菓子,_Fairy Tale 童話
+Card Text/Abilities:
+【C】All your other 「“着ぐるみ”クド」 get +1000 Power.
+【S】● ASSIST 1000 Level 1 ［Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +1000 Power)
+【永】他のあなたの「“着ぐるみ”クド」すべてに、パワーを＋1000。
+【起】● 助太刀1000 レベル0 ［手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋1000)
+Flavor Text:
+ずっと笑顔でいられるって言うのが、一番の幸せだよ
+
+==========================
+
+“天然素材”美魚077
+LB/W02-077 RR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Book 本,_Parasol 日傘
+Card Text/Abilities:
+【A】When this card attacks, if 「２つの長い影」 is in the climax slot, draw 1 card.
+【S】［③］Place the top card of your clock into waiting room.
+【自】このカードがアタックした時、クライマックス置場に「２つの長い影」があるなら、あなたは1枚引く。
+【起】［③］あなたは自分のクロックを上から1枚選び、控え室に置く
+Flavor Text:
+わたしを、知りたいと思うのですか？
+
+==========================
+
+古式 みゆき078
+LB/W02-078 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Sports スポーツ,
+Card Text/Abilities:
+【A】When you use 『ASSIST』, choose 1 of your characters doing battle, during this turn, it gets +500 Power.
+【A】 BOND／「宮沢 謙吾」 ［①］ (When you place this card on stage from hand, you may pay the cost. If you do, choose 1 「宮沢 謙語」 from your waiting room and place it into your hand)
+【自】あなたが『 助太刀 』を使った時、あなたはバトルしている自分のキャラを1枚選び、そのターン中、パワーを＋500。
+【自】 絆／「宮沢 謙吾」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「宮沢 謙吾」を1枚選び、手札に戻す)
+Flavor Text:
+私は…あなたの夢まで奪ってしまった…
+
+==========================
+
+“ほんわかきゅーと”小毬079
+LB/W02-079R RRR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Sweets お菓子,_Maid メイド
+Card Text/Abilities:
+Flavor Text:
+誰かを幸せにするって、自分もちょっぴり幸せになるよね
+
+==========================
+
+“ほんわかきゅーと”小毬079
+LB/W02-079 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Sweets お菓子,_Maid メイド
+Card Text/Abilities:
+Flavor Text:
+ほわぁっ、ど、どうしよう～っ
+
+==========================
+
+宮沢 謙吾080
+LB/W02-080 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Sports スポーツ,
+Card Text/Abilities:
+【A】［①］When this card attacks, if 「危機一髪！」 is in the climax slot, you may pay the cost. If you do, draw 1 card.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【自】［①］このカードがアタックしたとき、クライマックス置場に「危機一髪！」があるなら、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+…全力で来るがいい。俺は真っ向、立ち向かうッ！！
+
+==========================
+
+“小悪魔少女”美鳥081
+LB/W02-081 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 4500
+Soul: 1
+Traits:: Shadow 影,
+Card Text/Abilities:
+【C】All your other 「“天然素材”美魚」 get +1000 Power.
+【S】［①］During this turn, this card does not receive soul reduction from side attacking.
+【永】他のあなたの「“天然素材”美魚」すべてに、パワーを＋1000。
+【起】［①］そのターン中、このカードはサイドアタックしてもソウルが減少しない。
+Flavor Text:
+影のない女の子は嫌い？
+
+==========================
+
+“ミステリックブルー”美魚082
+LB/W02-082 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Book 本,_Parasol 日傘
+Card Text/Abilities:
+【A】［Place this card in waiting room］When another of your characters is placed in waiting room from stage, if this card is in the back row, you may pay the cost. If you do, place that card in its previous slot in REST.
+【自】［このカードを控え室に置く］他のあなたのキャラが舞台から控え室に置かれたとき、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのカードをそのカードがいた枠にレストして置く。
+Flavor Text:
+最後にあなたとこの場所に来られて良かった
+
+==========================
+
+クド＆小毬083
+LB/W02-083 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 3000
+Soul: 1
+Traits:: Animal 動物,_Sweets お菓子
+Card Text/Abilities:
+【A】When you level up, place the top card of your deck into stock.
+【S】［② Put this card in REST］Place the top card of your clock into the waiting room.
+【自】あなたがレベルアップした時、あなたは自分の山札の上から1枚を、ストック置場に置く。
+【起】［② このカードをレストする］あなたは自分のクロックを上から1枚選び、控え室に置く。
+Flavor Text:
+ふたり揃ってステキにムテキですっ
+
+==========================
+
+棗 恭介084
+LB/W02-084 U
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 4500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【C】 ALARM If this card is in the top of your clock, all your blue cards gain 『【A】ENCORE [Discard 1 Character to Waiting Room from hand]』.
+【永】 アラーム このカードがクロックの1番上にあるなら、青のあなたのキャラすべてに、『 アンコール ［手札のキャラを1枚控え室に置く］』という能力を与える。
+Flavor Text:
+さあ、おまえら準備はいいか？
+
+==========================
+
+マスク・ザ・斉藤085
+LB/W02-085 U
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+Flavor Text:
+ふ…これから激動のランキングが始まるぜ、はりゃほれうまうーっ！
+
+==========================
+
+クドリャフカ・アナトリエヴナ・ストルガツ086
+LB/W02-086 U
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Animal 動物,
+Card Text/Abilities:
+【C】 大活躍 (When your opponent attacks, if this card is in the center of the Front Row and is not in REVERSE, your opponent must Front Attack this card.)
+【A】When this card attacks, if 「深夜の儀式」 is in the climax slot, draw 1 card.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【永】 大活躍  (相手がアタックする時、リバースしていないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする。)
+【自】このカードがアタックしたとき、クライマックス置場に「深夜の儀式」があるなら、あなたは1枚引く。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+私の、もうひとつの名前です
+
+==========================
+
+“３姉妹”クド087
+LB/W02-087 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【C】 SUPPORT All the characters in front of this card get +500 Power.
+【S】［①］Choose 1 of your 《動物》 characters, during this turn it gets +500 Power.
+【永】 応援  このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】［①］あなたは《動物》の自分のキャラを1枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+実は私はストレルカのお姉さんなのですが
+
+==========================
+
+不思議の国のクド088
+LB/W02-088 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【C】During your opponent's turn, all your other characters get +500 Power.
+【S】［② Put this character to REST］Search your deck for up to 1 character with 「小毬」 in the name, show it to your opponent and place it in your hand. Shuffle your deck afterwards.
+【永】相手のターン中、他のあなたのキャラすべてに、パワーを＋500。
+【起】［② このカードをレストする］あなたは自分の山札を見てカード名に「小毬」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする
+Flavor Text:
+わふっ、おはようございまふ
+
+==========================
+
+美魚＆美鳥089
+LB/W02-089 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Book 本,_Shadow 影
+Card Text/Abilities:
+Flavor Text:
+さて、あたしはだーれだ？
+
+==========================
+
+クド＆ストレルカ090
+LB/W02-090 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【A】When this card is played to stage, place the top card of your deck under this card as a marker.
+【S】［Put this card to REST］If there are 1 or less markers under this card, place the top card of your deck under this card as a marker.
+【S】［Put this card to REST］During this turn, when your blue characters use an ability, you may pay the markers under this card to place in waiting room instead of stock.
+【自】このカードがプレイされて舞台に置かれた時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。
+【起】［このカードをレストする］このカードの下のマーカーが１枚以下なら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。
+【起】［このカードをレストする］そのターン中、あなたが自分の青のキャラの能力を使う時、このカードの下のマーカーを、ストックのかわりに控え室に置いてよい
+Flavor Text:
+ストレルカは私より賢いんですよ～
+
+==========================
+
+“マネージャー”美魚091
+LB/W02-091 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Book 本,_Parasol 日傘
+Card Text/Abilities:
+【C】All your other 《スポーツ》 characters get +500 Power.
+【S】［Put this card to REST］Choose 1 of your cards from hand, place it in stock.
+【永】他の《スポーツ》のあなたのキャラすべてに、パワーを＋500。
+【起】［このカードをレストする］あなたは自分の手札を1枚選び、ストック置場に置く。
+Flavor Text:
+…アイドルデビューするのですか？
+
+==========================
+
+“おめかし”小毬092
+LB/W02-092 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Fairy Tale 童話,_Sweets お菓子
+Card Text/Abilities:
+【A】［①］When a Level 2 or Above character battling this card becomes REVERSE, you may pay the cost. If you do, draw 1 card.
+【自】［①］このカードとバトルしているレベル2以上のキャラがリバースした時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。
+Flavor Text:
+一生懸命おめかししてきたんだよ
+
+==========================
+
+あめりかんな遊び093
+LB/W02-093 R
+Type: Event
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Search your deck for up to 1 《動物》 character, show it to your opponent and place it into your hand. Shuffle your deck afterwards.
+あなたは自分の山札を見て《動物》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+フライングディスクです。あめりかんな遊びですよ。
+
+==========================
+
+ロイヤルプリンセスパフェ094
+LB/W02-094 U
+Type: Event
+Level: 1
+Color: Blue
+Cost: 3
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 card in your clock, return it to hand.
+Place this card in memory.
+あなたは自分のクロックを1枚選び、手札に戻す。このカードを思い出にする。
+Flavor Text:
+だってこれ、この下のスポンジはもちろん朝に焼き立てで…
+
+==========================
+
+両手いっぱいの本095
+LB/W02-095 U
+Type: Event
+Level: 1
+Color: Blue
+Cost: 1
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+If you do not have any 《本》 characters, this card cannot be played from hand. Draw 2 cards, choose 1 card from your hand, place it in waiting room.
+このカードは、《本》のあなたのキャラがいないなら、手札からプレイできない。あなたは2枚引き、自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+読んだ本の数だけ、世界が広がります
+
+==========================
+
+鮮やかなしまぱん096
+LB/W02-096 C
+Type: Event
+Level: 2
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+●You may choose 1 card from your hand and place it in stock.
+Choose 1 of your characters, during this turn, it gains the following ability. 『【A】When this card is placed in waiting room from stage, you may place this card on its previous slot in REST.』
+●あなたは自分の手札を1枚選び、ストック置場に置いてよい。あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠にレストして置いてよい。』
+Flavor Text:
+今度は全部見られたぁーーーっ！！
+
+==========================
+
+友情の証097
+LB/W02-097 C
+Type: Event
+Level: 1
+Color: Blue
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+●You may draw 1 card.
+Choose 1 of your characters, during this turn, it gains the following ability. 『【A】When this card is placed in waiting room from stage, you may place this card on its previous slot in REST.』
+●あなたは1枚引いてよい。あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠にレストして置いてよい。』
+Flavor Text:
+リトルバスターズは不滅だ…
+
+==========================
+
+危機一髪！098
+LB/W02-098 CR
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Book：When this card is triggered, you may draw 1 card)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(本：このカードがトリガーした時、あなたは1枚引いてよい)
+Flavor Text:
+う…うおおおぉぉぉおぉぉぉぉぉぉーーーーっっ！！
+
+==========================
+
+深夜の儀式099
+LB/W02-099S SP
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+ひゃん、く、くすぐったいです、リキ
+
+==========================
+
+深夜の儀式099
+LB/W02-099 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+はい…どきどき…優しくしてください
+
+==========================
+
+２つの長い影100
+LB/W02-100 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +1000 Power, +1 Soul.
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+Flavor Text:
+…わたしと同じリズムです
+
+==========================
+
+The confidence of Rin101
+LB/W02-101 PR
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】 Your characters gets soul+2.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+For you, for me and for ones, it is the best way that two of us are together. I belive so, Riki.
+そうしたら何もかもうまくいくんじゃないか？
+
+==========================
+
+“いつも仲良し”鈴と小毬102
+LB/W02-102 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Animal 動物,_Sweets お菓子
+Card Text/Abilities:
+Flavor Text:
+…一番のなかよしさんだから
+
+==========================
+
+“わんこ娘”クド103
+LB/W02-103 PR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【C】 SUPPORT All the characters in front of this card get +500 Power.
+【S】［①］All your other characters get 《動物》.
+【永】応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】［①］他のあなたのキャラすべてに、そのターン中、《動物》を与える。
+Flavor Text:
+わ、わふー･･････とらぶるてりぶるあくしでんとです･･････
+
+==========================
+
+黄昏の街を見下ろす鈴と小毬104
+LB/W02-104 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Animal 動物,_Sweets お菓子
+Card Text/Abilities:
+Flavor Text:
+…一番の仲良しさんだから、かな
+
+==========================
+
+“天然ほわほわガール”小毬105
+LB/W02-105 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Sweets お菓子,_Fairy Tale 童話
+Card Text/Abilities:
+【C】 SUPPORT  All your characters in front of this card get 《お菓子》.
+【永】 応援  このカードの前のあなたのキャラすべてに、《お菓子》を与える。
+Flavor Text:
+お菓子を食べると、ちょっと幸せになります
+
+==========================
+
+“ライバル”佐々美106
+LB/W02-106 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Sports スポーツ,
+Card Text/Abilities:
+【C】For each of your opponent's 「“神なるノーコン”鈴」, this card gets +1000 Power.
+【永】相手の「“神なるノーコン”鈴」1枚につき、このカードのパワーを＋1000。
+Flavor Text:
+こんなところで奇遇ね、わが最強のライバル、棗鈴
+
+==========================
+
+“人見知り”鈴107
+LB/W02-107 PR
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【A】 BOND／「“普通の少年”理樹」 ［①］ (When you place this card on stage from hand, you may pay the cost. If you do, choose 1 「“普通の少年”理樹」 from your waiting room and place it into your hand)
+【自】 絆／「“普通の少年”理樹」 ［①］(このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“普通の少年”理樹」を1枚選び、手札に戻す)
+Flavor Text:
+よ、よろしく
+
+==========================
+
+“素っ気無し 愛想無し 配慮無し”佳奈多108
+LB/W02-108 PR
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Class Rep 委員長,
+Card Text/Abilities:
+【S】［①］During this turn, treat this card as 「三枝 葉留佳」.
+【起】［①］そのターン中、このカードは「三枝 葉留佳」としても扱う。
+Flavor Text:
+そうよ。あなたは気がつかなかった
+
+==========================
+
+“イタズラっ子”葉留佳109
+LB/W02-109 PR
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Marble ビー玉,
+Card Text/Abilities:
+【C】All your other 《ビー玉》 characters get +500 Power.
+【C】 大活躍 (When your opponent attacks, if this card is in the center of the Front Row and is not in REVERSE, your opponent must Front Attack this card.)
+【S】［①］During this turn, this card gets《スポーツ》,《音楽》,《お菓子》.
+【永】他のあなたの《ビー玉》のキャラすべてに、パワーを＋500。
+【永】 大活躍 (相手がアタックする時、リバースしていないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする。)
+【起】［①］そのターン中、このカードは《スポーツ》と《音楽》と《お菓子》を得る。
+Flavor Text:
+…クラス、一緒だったら良かったのにね
+
+==========================
+
+“エレガント”唯湖 110
+LB/W02-110 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+よし、ちょうどいい。今日もお茶会としゃれ込もうか
+
+==========================
+
+“ボケまくり”沙耶111
+LB/W02-111 PR
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+Flavor Text:
+ゲーム…スタート
+
+==========================
+
+“がんばり担当”クド112
+LB/W02-112 PR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 3000
+Soul: 2
+Traits:: Animal 動物,
+Card Text/Abilities:
+【S】● ASSIST 3000 Level 2 ［Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +3000 Power)
+【起】● 助太刀3000 レベル2 ［② 手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋3000)
+Flavor Text:
+ふぁいとですーっ
+
+==========================
+
+“物静か”美魚113
+LB/W02-113 PR
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Book 本,_Parasol 日傘
+Card Text/Abilities:
+【C】 大活躍 (When your opponent attacks, if this card is in the center of the Front Row and is not in REVERSE, your opponent must Front Attack this card.)
+【C】 SUPPORT All the characters in front of this card get +500 Power.
+【永】 大活躍  (相手がアタックする時、リバースしていないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする)
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500
+Flavor Text:
+みなさん、がんばってるじゃないですか。
+わたしも心から応援したくなってきました
+
+==========================
+
+“非情な諜報員”沙耶114
+LB/W02-114 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【S】［③］Choose 1 of your opponent's Front Row Level 1 or Below characters, place it in waiting room.
+【起】［③］あなたは相手の前列のレベル1以下のキャラを1枚選び、控え室に置く。
+Flavor Text:
+じゃ、殺す。今すぐ殺す。とりあえず殺す。
+
+==========================
+
+“わかりやすい”佳奈多115
+LB/W02-115 PR
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Class Rep 委員長,_Twins 双子
+Card Text/Abilities:
+【C】 SUPPORT All the characters in front of this card get +500 Power.
+【永】 応援  このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+お礼よ。取っておきなさい
+
+==========================
+
+“闇の執行部部長”時風116
+LB/W02-116 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Mask 仮面,_Weapon 武器
+Card Text/Abilities:
+【S】［③］Choose 1 of your opponent's Front Row Level 1 or below characters, return it to hand.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【起】［③］あなたは相手の前列のレベル1以下のキャラを1枚選び、手札に戻す。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+わかった。 ゲームスタートといこう
+
+==========================
+
+鈴＆佐々美117
+LB/W02-117 PR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Animal 動物,_Sports スポーツ
+Card Text/Abilities:
+Flavor Text:
+お前らとケンカしてもしょーがない。
+　　　むえきなあらそいだ
+
+==========================
+
+不思議の国のクド118
+LB/W02-118 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【C】During your opponent's turn, all your other characters get +500 Power.
+【S】［② Put this character to REST］Search your deck for up to 1 character with 「小毬」 in the name, show it to your opponent and place it in your hand. Shuffle your deck afterwards.
+【永】相手のターン中、他のあなたのキャラすべてに、パワーを＋500。
+【起】［② このカードをレストする］あなたは自分の山札を見てカード名に「小毬」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+だから、ずっと、ずっと、すきだったんです
+
+==========================
+
+“おめかし”小毬119
+LB/W02-119 PR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Fairy Tale 童話,_Sweets お菓子
+Card Text/Abilities:
+【A】［①］When a Level 2 or Above character battling this card becomes REVERSE, you may pay the cost. If you do, draw 1 card.
+【自】［①］このカードとバトルしているレベル2以上のキャラがリバースした時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。
+Flavor Text:
+一生懸命おめかししてきたんだよ
+
+==========================
+
+“トラブルメーカー”葉留佳120
+LB/W02-120 PR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Marble ビー玉,
+Card Text/Abilities:
+【C】All your other characters with 「佳奈多」 in the name get +500 Power.
+【A】 BOND／「“風紀の番人”佳奈多」 ［①］ (When you place this card on stage from hand, you may pay the cost. If you do, choose 1 「“風紀の番人”佳奈多」 from your waiting room and place it into your hand)
+【永】他のあなたのカード名に「佳奈多」を含むキャラすべてに、パワーを＋500。
+【自】 絆／「“風紀の番人”佳奈多」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“風紀の番人”佳奈多」を1枚選び、手札に戻す)
+Flavor Text:
+いやー、だってアレ私が考えた結末ですヨ
+
+==========================
+
+“犬まみれ”佐々美114
+LB/W02-121 PR
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Sports スポーツ,_Animal 動物
+Card Text/Abilities:
+【C】For each of your opponent's characters in STAND, this card gets +500 Power.
+【永】相手のレストしているキャラ1枚につき、このカードのパワーを＋500。
+Flavor Text:
+ちょっと、くすぐったいですわぁっ！！
+
+==========================
+
+“世話焼き”佐々美
+LB/W02-E01 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Animal 動物,_Sports スポーツ
+Card Text/Abilities:
+【自】［④］このカードがアタックした時、クライマックス置場に「佐々美の手料理」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の手札のレベル0以下の《スポーツ》のキャラを1枚選び、舞台の好きな枠に置く。
+Flavor Text:
+だ・れ・が新婚さんですのっ！！
+
+==========================
+
+“新リーダー”理樹
+LB/W02-E02 R
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: ,
+Card Text/Abilities:
+【自】この能力は1ターンにつき1回まで発動できる。あなたのキャラのトリガーチェックでクライマックスがでた時、他のあなたの、「“兄貴分”恭介」と「“マウンド上の精密機械”鈴」と「“筋肉の革命児”真人」と「“単純馬鹿”謙吾」がいるなら、あなたの前列のキャラすべてを、スタンドする。
+Flavor Text:
+何かを企むってすっごく楽しいね
+
+==========================
+
+“前向きマジック”小毬
+LB/W02-E03 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Sweets お菓子,_Fairy Tale 童話
+Card Text/Abilities:
+【永】 応援 このカードの前のあなたのキャラすべてに、次の能力を与える。『【永】このカードは相手の効果に選ばれない。』
+Flavor Text:
+見られなかったことにしよう
+
+==========================
+
+“兄貴分”恭介
+LB/W02-E04 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【永】他のあなたの赤と青のキャラがいるなら、このカードのソウル＋1。
+Flavor Text:
+こんな往来で舞踏会か？　行儀の悪い連中だな
+
+==========================
+
+佐々美の手料理
+LB/W02-E05 C
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+あら、お帰りなさいませ
+
+==========================
+
+“マウンド上の精密機械”鈴
+LB/W02-E06 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 4500
+Soul: 1
+Traits:: Animal 動物,_Sports スポーツ
+Card Text/Abilities:
+【永】他のあなたの赤と青のキャラがいるなら、このカードのパワーを＋1500。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+ねこの行進、にゃんにゃん
+
+==========================
+
+“アホの子”葉留佳
+LB/W02-E07 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Marble ビー玉,_Twins 双子
+Card Text/Abilities:
+【起】［あなたの《委員長》のキャラを1枚レストする］そのターン中、このカードのパワーを＋1500。
+【起】［このカードをレストする］あなたは自分のカード名に「佳奈多」を含むキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+はるちんアタック！
+
+==========================
+
+“ソフト部のエース”佐々美
+LB/W02-E08 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Sports スポーツ,
+Card Text/Abilities:
+【起】［あなたの《スポーツ》のキャラを1枚レストする］そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+わたくしはソフト部のホープでエース･･･!!
+
+==========================
+
+“掛け持ち委員長”佳奈多
+LB/W02-E09 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Class Rep 委員長,_Twins 双子
+Card Text/Abilities:
+【自】［③］相手のアタックフェイズの初めに、あなたはコストを払ってよい。そうしたら、このカードの正面のキャラを1枚選び、そのターン中、次の能力を与える。『【永】このカードはフロントアタックできない。』 (サイドアタックはできる)
+Flavor Text:
+じーっ、ぼーっ、がーっ、と見てるかもしれないわよ
+
+==========================
+
+朱鷺戸 沙耶
+LB/W02-E10 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【自】［①］このカードがアタックした時、クライマックス置場に「クレーンゲーム」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+あなたはあたしのパートナーだもの
+
+==========================
+
+“無表情で無愛想”佳奈多
+LB/W02-E11 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Class Rep 委員長,_Twins 双子
+Card Text/Abilities:
+【起】［①］次の相手のターンの終わりまで、相手は舞台にいるキャラの【起】を使えない。
+Flavor Text:
+･･･そんなに人付き合い苦手そうに見える？
+
+==========================
+
+“大胆不敵”唯湖
+LB/W02-E12 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+【起】［②］あなたはレベル0以下の相手の前列のキャラを1枚選び、山札の上に置く。
+Flavor Text:
+極　刑
+
+==========================
+
+“筋肉の革命児”真人
+LB/W02-E13 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Muscle 筋肉,
+Card Text/Abilities:
+【自】［①］このカードがアタックした時、他のあなたの黄と緑のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+やっぱり理樹は最高だぜ！！いやっほーぅ！！
+理樹最高！！筋肉さいこーう！！
+
+==========================
+
+クレーンゲーム
+LB/W02-E14 C
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+Flavor Text:
+いよしゃ、とっったああぁぁーーっ！！
+
+==========================
+
+“エキゾチック”クド
+LB/W02-E15 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 4500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【自】このカードがアタックした時、他のあなたの黄と緑のキャラがいるなら、あなたは1枚引く。
+Flavor Text:
+ぐっもーにんえぶりわんはぶあないすでーっ
+
+==========================
+
+“女スパイ”沙耶
+LB/W02-E16 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+ゲームクリアっと
+Flavor Text:
+
+==========================
+
+“読書好き”美魚
+LB/W02-E17 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Book 本,_Parasol 日傘
+Card Text/Abilities:
+【自】［①］あなたのドローフェイズの初めに、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。相手は1枚引く。
+Flavor Text:
+さて、本を読みましょうか･･･
+
+==========================
+
+“単純馬鹿”謙吾
+LB/W02-E18 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 3500
+Soul: 1
+Traits:: Sports スポーツ,
+Card Text/Abilities:
+【永】あなたのレベル置場に黄のカードがあるなら、このカードのパワーを＋2000。
+【永】あなたのレベル置場に緑のカードがあるなら、このカードのパワーを＋2000。
+Flavor Text:
+そこへ俺参上ーーーーっ！！！
+
+==========================
+
+“マスコット”クドT01
+LB/W02-T01 TD
+Type: Character
+Level: 1
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+神北 小次郎T02
+LB/W02-T02 TD
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【S】［①］Choose 1 of your characters, during this turn, it gets +1500 Power.
+【S】［①］Place this card in memory.
+【起】［①］あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。
+【起】［①］このカードを思い出にする。
+Flavor Text:
+
+==========================
+
+“ポニーガール”鈴T03
+LB/W02-T03 TD
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Animal 動物,
+Card Text/Abilities:
+【C】 大活躍 (When your opponent attacks, if this card is in the center of the Front Row and is not in REVERSE, your opponent must Front Attack this card.)
+【A】When this card attacks, if 「そよ風のハミング」 is in the climax slot, place the top card of your deck into stock, during this turn, this card gets +3000 Power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【永】 大活躍  (相手がアタックする時、リバースしていないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする。)
+【自】このカードがアタックした時、クライマックス置場に「そよ風のハミング」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋3000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+ぴんちの時にあらわれる、それがエースだ
+
+==========================
+
+緊急事態T04
+LB/W02-T04 TD
+Type: Event
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+●Choose up to 2 of your characters, during this turn, they get +1000 Power.
+●あなたは自分のキャラを2体まで選び、そのターン中、パワーを＋1000。
+Flavor Text:
+
+==========================
+
+能美 クドリャフカT05
+LB/W02-T05 TD
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【C】 SUPPORT All the characters in front of this card get +500 Power.
+【S】［①］During this turn, all your other characters get 《動物》.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】［①］他のあなたのキャラすべてに、そのターン中、《動物》を与える。
+Flavor Text:
+
+==========================
+
+“普通の少年”理樹T06
+LB/W02-T06 TD
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+“女王猫”佐々美T07
+LB/W02-T07 TD
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 1500
+Soul: 1
+Traits:: Sports スポーツ,
+Card Text/Abilities:
+【C】All your other 「“最強の男児”謙吾」 get +1000 Power.
+【S】● ASSIST 2000 Level 2 ［Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +2000 Power)
+【永】他のあなたの「“最強の男児”謙吾」すべてに、パワーを＋1000。
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋2000)
+Flavor Text:
+
+==========================
+
+“エプロン”葉留佳T08
+LB/W02-T08 TD
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Marble ビー玉,
+Card Text/Abilities:
+【A】When this card is played to stage, place the top card of your deck under this card as a marker.
+【S】［Put this card to REST］If there are 1 or less markers under this card, place the top card of your deck under this card as a marker.
+【S】［Put this card to REST］During this turn, when your green characters use an ability, you may pay the markers under this card to place in waiting room instead of stock.
+【自】このカードがプレイされて舞台に置かれた時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。
+【起】［このカードをレストする］このカードの下のマーカーが1枚以下なら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。
+【起】［このカードをレストする］そのターン中、あなたが自分の緑のキャラの能力を使う時、このカードの下のマーカーを、ストックのかわりに控え室に置いてよい。
+Flavor Text:
+
+==========================
+
+“最強の男児”謙吾T09
+LB/W02-T09 TD
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Sports スポーツ,
+Card Text/Abilities:
+【S】［①］Choose 1 of your opponent's characters, during this turn, it gets -500 Power.
+【起】［①］あなたは相手のキャラを1枚選び、そのターン中、パワーを－500。
+Flavor Text:
+
+==========================
+
+そよ風のハミングT10
+LB/W02-T10 TD
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: S
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +1000 Power, +1 Soul.
+(Bag： When this card is Triggered, you may take the top card of your deck and place it in Stock.)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(袋：このカードがトリガーした時、あなたは自分の山札から1枚を、ストック置場に置いてよい)
+Flavor Text:
+
+==========================
+
+優等生のフリをした偽善者T11
+LB/W02-T11 TD
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+
+==========================
+
+あめりかんな遊びT12
+LB/W02-T12 TD
+Type: Event
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Search your deck for up to 1 《動物》 character, show it to your opponent and place it into your hand. Shuffle your deck afterwards.
+あなたは自分の山札を見て《動物》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+
+==========================
+
+“ミステリックブルー”美魚T13
+LB/W02-T13 TD
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Book 本,_Parasol 日傘
+Card Text/Abilities:
+【A】［Place this card in waiting room］When another of your characters is placed in waiting room from stage, if this card is in the back row, you may pay the cost. If you do, place that card in its previous slot in REST.
+【自】［このカードを控え室に置く］他のあなたのキャラが舞台から控え室に置かれたとき、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのカードをそのカードがいた枠にレストして置く。　
+Flavor Text:
+
+==========================
+
+クド＆小毬T14
+LB/W02-T14 TD
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 3000
+Soul: 1
+Traits:: Animal 動物,_Sweets お菓子
+Card Text/Abilities:
+【A】When you level up, place the top card of your deck into stock.
+【S】［② Put this card in REST］Place the top card of your clock into the waiting room.
+【自】あなたがレベルアップした時、あなたは自分の山札の上から1枚を、ストック置場に置く。
+【起】［② このカードをレストする］あなたは自分のクロックを上から1枚選び、控え室に置く。
+Flavor Text:
+
+==========================
+
+棗 恭介T15
+LB/W02-T15 TD
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 4500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【C】 ALARM If this card is in the top of your clock, all your blue cards gain 『【A】ENCORE [Discard 1 Character to Waiting Room from hand]』.
+【永】 アラーム  このカードがクロックの1番上にあるなら、青のあなたのキャラすべてに、『 アンコール ［手札のキャラを1枚控え室に置く］』という能力を与える。
+Flavor Text:
+
+==========================
+
+ロイヤルプリンセスパフェT16
+LB/W02-T16 TD
+Type: Event
+Level: 1
+Color: Blue
+Cost: 3
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 card in your clock, return it to hand.
+Place this card in memory.
+あなたは自分のクロックを1枚選び、手札に戻す。このカードを思い出にする。
+Flavor Text:
+
+==========================
+
+“３姉妹”クドT17
+LB/W02-T17 TD
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【C】 SUPPORT All the characters in front of this card get +500 Power.
+【S】［①］Choose 1 of your 《動物》 characters, during this turn it gets +500 Power.
+【永】 応援  このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】［①］あなたは《動物》の自分のキャラを1枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+
+==========================
+
+美魚＆美鳥T18
+LB/W02-T18 TD
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Book 本,_Shadow 影
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+“おめかし”小毬T19
+LB/W02-T19 TD
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Fairy Tale 童話,_Sweets お菓子
+Card Text/Abilities:
+【A】［①］When a Level 2 or Above character battling this card becomes REVERSE, you may pay the cost. If you do, draw 1 card.
+【自】［①］このカードとバトルしているレベル2以上のキャラがリバースした時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。
+Flavor Text:
+
+==========================
+
+２つの長い影T20
+LB/W02-T20 TD
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +1000 Power, +1 Soul.
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+Flavor Text:
+
+==========================
+

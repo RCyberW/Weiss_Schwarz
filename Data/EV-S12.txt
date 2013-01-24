@@ -1,0 +1,2455 @@
+“最初の戦い”シンジ
+EV/S12-001 RR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Pilot パイロット,
+Card Text/Abilities:
+【自】このカードがアタックした時、クライマックス置場に「初号機初戦」があるなら、そのターン中、このカードのソウルを＋2。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+やります。僕が乗ります
+
+==========================
+
+“最初の戦い”シンジ
+EV/S12-001 RRR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Pilot パイロット,
+Card Text/Abilities:
+【自】このカードがアタックした時、クライマックス置場に「初号機初戦」があるなら、そのターン中、このカードのソウルを＋2。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+やります。僕が乗ります
+
+==========================
+
+エヴァ初号機(疑似シン化第１覚醒形態)
+EV/S12-002 RR
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Mecha メカ,_Awakened 覚醒
+Card Text/Abilities:
+【永】 経験 あなたのレベル置場のカードのレベルの合計が4以上なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【永】このカードは相手の効果に選ばれない。』
+【自】このカードが手札から舞台に置かれた時か『 チェンジ 』で舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+
+==========================
+
+エヴァ初号機(疑似シン化第１覚醒形態)
+EV/S12-002 SP
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Mecha メカ,_Awakened 覚醒
+Card Text/Abilities:
+【永】 経験 あなたのレベル置場のカードのレベルの合計が4以上なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【永】このカードは相手の効果に選ばれない。』
+【自】このカードが手札から舞台に置かれた時か『 チェンジ 』で舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+
+==========================
+
+お弁当役 シンジ
+EV/S12-003 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Pilot パイロット,_Music 音楽
+Card Text/Abilities:
+【永】他のあなたのカード名に「アスカ」か「綾波」を含むキャラすべてに、パワーを＋500。
+【起】［このカードをレストする］あなたは自分のカード名に「アスカ」か「綾波」を含むキャラを1枚選び、そのターン中、パワーを＋500し、《お弁当》を与える。
+Flavor Text:
+ごめん、綾波。口に合わなかったかな？
+
+==========================
+
+作戦前のシンジ
+EV/S12-004 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Pilot パイロット,
+Card Text/Abilities:
+【自】このカードが手札から舞台に置かれたとき、そのターン中、このカードのパワーを＋1500。
+Flavor Text:
+僕たち、これで死ぬかもしれないね
+
+==========================
+
+葛城 ミサト
+EV/S12-005 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【永】 経験 あなたのターン中、あなたのレベル置場のカードのレベルの合計が1以上なら、このカードのパワーを＋1500。
+【起】 ［あなたの《パイロット》のキャラを1枚レストする］そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+碇司令とシンちゃんをくっつける
+キューピットになりたいみたいよ
+
+==========================
+
+月面のカヲル
+EV/S12-006 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 4500
+Soul: 1
+Traits:: Mystery 謎,
+Card Text/Abilities:
+【永】他のあなたの《パイロット》のキャラすべてに、パワーを＋500。
+【起】［このカードをレストする］あなたは自分のカード名に「シンジ」を含むキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+逢えるときが楽しみだよ。碇シンジ君
+
+==========================
+
+月面のカヲル
+EV/S12-006 SR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 4500
+Soul: 1
+Traits:: Mystery 謎,
+Card Text/Abilities:
+【永】他のあなたの《パイロット》のキャラすべてに、パワーを＋500。
+【起】［このカードをレストする］あなたは自分のカード名に「シンジ」を含むキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+逢えるときが楽しみだよ。碇シンジ君
+
+==========================
+
+未来を託すミサト
+EV/S12-007 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのソウルを＋1。
+【自】［①］あなたのクライマックス置場に「託された未来」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札の上から1枚を公開する。そのカードがレベル2以下のキャラなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを舞台の好きな枠に置く。 (そうしないなら元に戻す)
+Flavor Text:
+今、使徒がサードインパクトを引き起こせば、
+今度こそヒトは滅ぶ
+
+==========================
+
+未来を託すミサト
+EV/S12-007 SR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのソウルを＋1。
+【自】［①］あなたのクライマックス置場に「託された未来」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札の上から1枚を公開する。そのカードがレベル2以下のキャラなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを舞台の好きな枠に置く。 (そうしないなら元に戻す)
+Flavor Text:
+今、使徒がサードインパクトを引き起こせば、
+今度こそヒトは滅ぶ
+
+==========================
+
+ペンペン
+EV/S12-008 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【自】 絆／「葛城 ミサト」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「葛城 ミサト」を1枚選び、手札に戻す)
+【起】［このカードをレストする］あなたは自分のカード名に「ミサト」を含むキャラを1枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+ミサト「名前はペンペン」
+
+==========================
+
+渚 カヲル
+EV/S12-009 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Mystery 謎,
+Card Text/Abilities:
+【永】他のあなたの《謎》のキャラすべてに、パワーを＋500。
+【起】［① このカードをレストする］あなたは自分の《謎》のキャラを1枚選び、そのターン中、ソウルを＋1。
+Flavor Text:
+はじめまして。お父さん
+
+==========================
+
+リビングのミサト
+EV/S12-010 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【自】このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《動物》か《パイロット》のキャラなら、そのターン中、このカードのパワーを＋1500。 (公開したカードは元に戻す)
+Flavor Text:
+風呂は命の洗濯よ
+
+==========================
+
+お払い箱！？シンジ
+EV/S12-011 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Pilot パイロット,
+Card Text/Abilities:
+【永】 応援 あなたのターン中、このカードの前のあなたのキャラすべてに、パワーを＋1000。
+Flavor Text:
+シンジ「？」
+アスカ「あんたお払い箱ってことよ」
+
+==========================
+
+“初号機パイロット”シンジ
+EV/S12-012 U
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Pilot パイロット,
+Card Text/Abilities:
+【自】 チェンジ ［② 手札を1枚控え室に置き、このカードを控え室に置く］あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「エヴァ初号機(疑似シン化第１覚醒形態)」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+ミサトさん！
+
+==========================
+
+写真のミサト
+EV/S12-013 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【永】あなたのターン中、このカードのパワーを＋1000。
+Flavor Text:
+
+==========================
+
+屋上のシンジ
+EV/S12-014 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Pilot パイロット,_Music 音楽
+Card Text/Abilities:
+【起】［あなたの《パイロット》のキャラを1枚レストする］そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+
+==========================
+
+待ち合わせ中のシンジ
+EV/S12-015 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Pilot パイロット,
+Card Text/Abilities:
+Flavor Text:
+待ち合わせは無理か
+
+==========================
+
+エヴァンゲリオン試験初号機
+EV/S12-016 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Mecha メカ,_Weapon 武器
+Card Text/Abilities:
+【永】このカードはサイドアタックできない。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+ミサト「作戦どおり、いいわね。シンジ君」
+
+==========================
+
+緊急事態のミサト
+EV/S12-017 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+Flavor Text:
+救護措置急いで！
+
+==========================
+
+緊急事態のミサト
+EV/S12-018 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Animal 動物,_Glasses メガネ
+Card Text/Abilities:
+【起】● 助太刀3000 レベル2 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000)
+Flavor Text:
+お待たせ
+
+==========================
+
+G型装備 エヴァ初号機
+EV/S12-019 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Mecha メカ,_Weapon 武器
+Card Text/Abilities:
+【自】［②］このカードがアタックした時、クライマックス置場に「ヤシマ作戦」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル2以下のキャラを1枚と相手の後列のレベル2以下のキャラを1枚選び、手札に戻す。
+Flavor Text:
+ミサト「ヤシマ作戦発動！」
+
+==========================
+
+碇 シンジ
+EV/S12-020 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Pilot パイロット,
+Card Text/Abilities:
+Flavor Text:
+こっちでなんとかする。
+ミサトさん！
+
+==========================
+
+使徒の一撃
+EV/S12-021 U
+Type: Event
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+あなたは相手のレベル1以下のキャラを1枚選び、手札に戻す。
+Flavor Text:
+青葉「目標内部に高エネルギー反応！」
+ミサト「何ですって！？」
+
+==========================
+
+セカンドインパクト
+EV/S12-022 U
+Type: Event
+Level: 3
+Color: Yellow
+Cost: 7
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+あなたはすべてのプレイヤーのレベル3以下のキャラすべてを、ストック置場に好きな順番で置く。
+Flavor Text:
+加持「......セカンドインパクト」
+
+==========================
+
+初号機初戦
+EV/S12-023 CR
+Type: Climax
+Level: N/A
+Color: Yellow
+Cost: N/A
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+ヴォッ!!
+
+==========================
+
+ヤシマ作戦
+EV/S12-024 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを+1。
+Flavor Text:
+ミサト「陽電子砲狙撃準備！」
+
+==========================
+
+託された未来
+EV/S12-025 CC
+Type: Climax
+Level: N/A
+Color: Yellow
+Cost: N/A
+Trigger: 1W
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(風：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+理由はないわ。
+その運命があなただったってだけ
+
+==========================
+
+真希波・マリ・イラストリアス
+EV/S12-026 RR
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Pilot パイロット,_Glasses メガネ
+Card Text/Abilities:
+【C】 EXPERIENCE If the total Level of cards in your Level slot is 2 or higher, this card gets +1000 Power.
+【A】When this card attacks, if 「屋上の遭遇」 is in the Climax Slot, you may place the top card of your Deck to Stock.
+【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1000。
+【自】このカードがアタックした時、クライマックス置場に「屋上の遭遇」があるなら、あなたは自分の山札の上から１枚を、ストック置場に置いてよい。
+Flavor Text:
+じゃ、このことは他言無用で♡
+ネルフのワンコくん♡
+
+==========================
+
+真希波・マリ・イラストリアス
+EV/S12-026 RRR
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Pilot パイロット,_Glasses メガネ
+Card Text/Abilities:
+【C】 EXPERIENCE If the total Level of cards in your Level slot is 2 or higher, this card gets +1000 Power.
+【A】When this card attacks, if 「屋上の遭遇」 is in the Climax Slot, you may place the top card of your Deck to Stock.
+【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1000。
+【自】このカードがアタックした時、クライマックス置場に「屋上の遭遇」があるなら、あなたは自分の山札の上から１枚を、ストック置場に置いてよい。
+Flavor Text:
+じゃ、このことは他言無用で♡
+ネルフのワンコくん♡
+
+==========================
+
+ビースト・マリ
+EV/S12-027 RR
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Pilot パイロット,_Glasses メガネ
+Card Text/Abilities:
+【C】If you have 2 or more 《パイロット》 Characters, this card gets +1000 Power.
+【C】 EXPERIENCE If the total Level of cards in your Level slot is 3 or higher, this card gains 『【A】 ENCORE ［Place 1 Character from hand into Waiting Room］』.
+【永】他のあなたの《パイロット》のキャラが2枚以上なら、このカードのパワーを＋1000。
+【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。
+Flavor Text:
+がぁぁぁ……
+
+==========================
+
+ビースト・マリ
+EV/S12-027 SR
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Pilot パイロット,_Glasses メガネ
+Card Text/Abilities:
+【C】If you have 2 or more 《パイロット》 Characters, this card gets +1000 Power.
+【C】 EXPERIENCE If the total Level of cards in your Level slot is 3 or higher, this card gains 『【A】 ENCORE ［Place 1 Character from hand into Waiting Room］』.
+【永】他のあなたの《パイロット》のキャラが2枚以上なら、このカードのパワーを＋1000。
+【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。
+Flavor Text:
+がぁぁぁ……
+
+==========================
+
+空を見上げるマリ
+EV/S12-028 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Pilot パイロット,_Glasses メガネ
+Card Text/Abilities:
+【自】このカードがアタックした時、あなたは他の自分の、《パイロット》か《メカ》のキャラを1枚選び、そのターン中、パワーを＋500。
+【自】 絆／「エヴァンゲリオン局地仕様仮設５号機」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「エヴァンゲリオン局地仕様仮設５号機」を1枚選び、手札に戻す
+Flavor Text:
+自分の目的に大人を巻き込むのは、気後れするなあ
+
+==========================
+
+極秘入国者 マリ
+EV/S12-029 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Pilot パイロット,_Glasses メガネ
+Card Text/Abilities:
+【A】When this card is placed on Stage from hand, choose 1 of your 《パイロット》 Characters, during this turn it gets +1500 Power.
+【自】このカードが手札から舞台に置かれた時、あなたは自分の《パイロット》のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+君、面白いね
+
+==========================
+
+極秘入国者 マリ
+EV/S12-029 SP
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Pilot パイロット,_Glasses メガネ
+Card Text/Abilities:
+【A】When this card is placed on Stage from hand, choose 1 of your 《パイロット》 Characters, during this turn it gets +1500 Power.
+【自】このカードが手札から舞台に置かれた時、あなたは自分の《パイロット》のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+君、面白いね
+
+==========================
+
+伊吹 マヤ
+EV/S12-030 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+だめです!!　完全に制御不能です!!
+
+==========================
+
+エヴァ２号機 獣化第２形態
+EV/S12-031 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Mecha メカ,_Animal 動物
+Card Text/Abilities:
+【自】このカードがアタックした時、クライマックス置場に「最後の１枚」があるなら、あなたのキャラすべてに、そのターン中、パワーを＋2000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+マリ「ザ・ビースト！」
+
+==========================
+
+エヴァ２号機 獣化第２形態
+EV/S12-031 SR
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Mecha メカ,_Animal 動物
+Card Text/Abilities:
+【自】このカードがアタックした時、クライマックス置場に「最後の１枚」があるなら、あなたのキャラすべてに、そのターン中、パワーを＋2000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+マリ「ザ・ビースト！」
+
+==========================
+
+奮戦するマリ
+EV/S12-032 R
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Pilot パイロット,_Glasses メガネ
+Card Text/Abilities:
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】［③ あなたの舞台のレベル1以上の《メカ》のキャラを1枚控え室に置く］このカードがアタックした時、クライマックス置場に「大人の都合と自分の目的」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以下のキャラを1枚選び、クロック置場に置く。
+Flavor Text:
+うおぉりゃっ!!
+
+==========================
+
+もう１人の２号機パイロット マリ
+EV/S12-033 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Pilot パイロット,_Glasses メガネ
+Card Text/Abilities:
+【永】他のあなたの《パイロット》か《メカ》のキャラすべてに、パワーを＋500。
+Flavor Text:
+いい匂い。他人の匂いのするエヴァもワルくない
+
+==========================
+
+第４の使徒
+EV/S12-034 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Mystery 謎,
+Card Text/Abilities:
+【自】このカードのバトル相手がリバースした時、相手の控え室にクライマックスがないなら、あなたは自分の控え室のカードを1枚選び、ストック置場に置いてよい。
+【起】［あなたのキャラを2枚レストする］あなたは自分の《謎》のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+
+==========================
+
+第３の使徒
+EV/S12-035 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Mystery 謎,
+Card Text/Abilities:
+【起】［①］あなたは自分の山札の上から1枚を、控え室に置く。そのカードが《謎》のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+オペレーター「上部外壁破損！
+最終結界が破られます！」
+
+==========================
+
+決意のマリ
+EV/S12-036 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Pilot パイロット,_Glasses メガネ
+Card Text/Abilities:
+【自】 チェンジ ［② 手札を1枚控え室に置き、このカードを控え室に置く］あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ビースト・マリ」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+にゃろー。なんてやつ
+
+==========================
+
+脱出する加持
+EV/S12-037 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 3500
+Soul: 1
+Traits:: Watermelon スイカ,
+Card Text/Abilities:
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】 ［あなたのキャラを2枚レストする］あなたは自分の《パイロット》のキャラを1枚選び、そのターン中、次の能力を与える。『【自】このカードのバトル相手がリバースした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』
+Flavor Text:
+……てな訳で後は、ヨロシク
+
+==========================
+
+出撃するマリ
+EV/S12-038 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Pilot パイロット,_Glasses メガネ
+Card Text/Abilities:
+【起】［①］そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+速攻で片付けないと本部がパーじゃん
+
+==========================
+
+第５の使徒
+EV/S12-039 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Mystery 謎,
+Card Text/Abilities:
+【永】あなたのストックが3枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+
+==========================
+
+新型プラグスーツのマリ
+EV/S12-040 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Pilot パイロット,_Glasses メガネ
+Card Text/Abilities:
+Flavor Text:
+さすが新型、胸もピッタリで気持ちいい！
+
+==========================
+
+青葉 シゲル
+EV/S12-041 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+Flavor Text:
+今の彼ならやりかねませんね
+
+==========================
+
+エヴァンゲリオン局地仕様仮設５号機
+EV/S12-042 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 1500
+Soul: 1
+Traits:: Mecha メカ,_Weapon 武器
+Card Text/Abilities:
+【自】このカードが手札から舞台に置かれた時、あなたは他の自分の《パイロット》か《メカ》のキャラを1枚選び、そのターン中、パワーを＋1000。
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを+2000)
+Flavor Text:
+マリ「こりゃ、力押ししかないじゃん！」
+
+==========================
+
+日向 マコト
+EV/S12-043 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 6500
+Soul: 1
+Traits:: Glasses メガネ,
+Card Text/Abilities:
+【永】 他のあなたの《パイロット》のキャラすべてに、パワーを＋1000。
+Flavor Text:
+ミサト「プラグを緊急射出して！」
+
+==========================
+
+加持 リョウジ
+EV/S12-044 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Watermelon スイカ,
+Card Text/Abilities:
+【永】あなたのストックが7枚以上なら、このカードのパワーを＋2000。
+Flavor Text:
+給料分は働いてもらうぞ
+
+==========================
+
+5号機コクピットのマリ
+EV/S12-045 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Pilot パイロット,_Glasses メガネ
+Card Text/Abilities:
+Flavor Text:
+おっ！　来た♡
+
+==========================
+
+裏コード ザ・ビースト
+EV/S12-046 U
+Type: Event
+Level: 2
+Color: Green
+Cost: 0
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。このカードをストック置場に置く。
+Flavor Text:
+ヒトを捨てたエヴァの力、見せてもらうわ
+
+==========================
+
+デートの誘い
+EV/S12-047 U
+Type: Event
+Level: 2
+Color: Green
+Cost: 0
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+●あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたのレベル置場のカードのレベルの合計×500に等しい。
+Flavor Text:
+加持「愛に性別は関係ないさ」
+
+==========================
+
+屋上の遭遇
+EV/S12-048 CR
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+メガネ……メガネ……
+
+==========================
+
+最後の１枚
+EV/S12-049 CC
+Type: Climax
+Level: N/A
+Color: Green
+Cost: N/A
+Trigger: S
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(袋：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい)
+Flavor Text:
+マリ「あと、いちまいぃぃい！」
+
+==========================
+
+大人の都合と自分の目的
+EV/S12-050 CC
+Type: Climax
+Level: N/A
+Color: Green
+Cost: N/A
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【永】あなたのキャラすべてに、ソウルを+2。
+Flavor Text:
+さよなら、エヴァ５号機。御役目御苦労さん
+
+==========================
+
+式波・アスカ・ラングレー
+EV/S12-051 RR
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Pilot パイロット,_Army 軍隊
+Card Text/Abilities:
+【自】 チェンジ ［③ 手札を1枚控え室に置き、このカードを控え室に置く］あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「テスト用プラグスーツのアスカ」を1枚選び、このカードがいた枠に置く。
+【起】［このカードをレストする］あなたは自分の、《パイロット》か《メカ》のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+
+==========================
+
+式波・アスカ・ラングレー
+EV/S12-051 RRR
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Pilot パイロット,_Army 軍隊
+Card Text/Abilities:
+【自】 チェンジ ［③ 手札を1枚控え室に置き、このカードを控え室に置く］あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「テスト用プラグスーツのアスカ」を1枚選び、このカードがいた枠に置く。
+【起】［このカードをレストする］あなたは自分の、《パイロット》か《メカ》のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+
+==========================
+
+トドメのアスカ
+EV/S12-052 RR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 4500
+Soul: 1
+Traits:: Pilot パイロット,_Army 軍隊
+Card Text/Abilities:
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。
+【起】［① あなたの《パイロット》のカードを2枚レストする］あなたは相手のレベル0以下のキャラを1枚選び、控え室に置く。
+Flavor Text:
+ナナヒカリ！
+
+==========================
+
+トドメのアスカ
+EV/S12-052 SP
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 4500
+Soul: 1
+Traits:: Pilot パイロット,_Army 軍隊
+Card Text/Abilities:
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。
+【起】［① あなたの《パイロット》のカードを2枚レストする］あなたは相手のレベル0以下のキャラを1枚選び、控え室に置く。
+Flavor Text:
+ナナヒカリ！
+
+==========================
+
+洞木 ヒカリ
+EV/S12-053 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Class Rep 委員長,
+Card Text/Abilities:
+【自】 絆／「独り占め？ アスカ」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「独り占め？ アスカ」を1枚選び、手札に戻す)
+【自】 経験 ［①］このカードが手札から舞台に置かれた時、あなたのレベル置場のカードのレベルの合計が3以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+アスカ「残り、食べていいわよ」
+ヒカリ「？」
+
+==========================
+
+エレベーターのアスカ
+EV/S12-054 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Pilot パイロット,_Army 軍隊
+Card Text/Abilities:
+【自】このカードがリバースした時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをリバースしてよい。
+【自】［②］このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《パイロット》のキャラを1枚選び、手札に戻す。
+Flavor Text:
+レイ「エヴァは自分の心の鏡……」
+
+==========================
+
+お引っ越し アスカ
+EV/S12-055 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Pilot パイロット,_Army 軍隊
+Card Text/Abilities:
+【永】他のあなたの《パイロット》のキャラが2枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+あんたバカ？
+
+==========================
+
+お引っ越し アスカ
+EV/S12-055 SR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Pilot パイロット,_Army 軍隊
+Card Text/Abilities:
+【永】他のあなたの《パイロット》のキャラが2枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+あんたバカ？
+
+==========================
+
+納得いかないアスカ
+EV/S12-056 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Pilot パイロット,_Army 軍隊
+Card Text/Abilities:
+【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1000。
+Flavor Text:
+私以外、誰も乗れないのに……
+
+==========================
+
+テスト用プラグスーツのアスカ
+EV/S12-057 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Pilot パイロット,_Army 軍隊
+Card Text/Abilities:
+【自】［①］このカードがアタックした時、クライマックス置場に「最悪の事態」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以下のキャラを1枚選び、山札の上に置き、ターンの終わりに、このカードを控え室に置く。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+このテスト用プラグスーツって
+見えすぎじゃない？
+
+==========================
+
+テスト用プラグスーツのアスカ
+EV/S12-057 SR
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Pilot パイロット,_Army 軍隊
+Card Text/Abilities:
+【自】［①］このカードがアタックした時、クライマックス置場に「最悪の事態」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以下のキャラを1枚選び、山札の上に置き、ターンの終わりに、このカードを控え室に置く。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+このテスト用プラグスーツって
+見えすぎじゃない？
+
+==========================
+
+テスト用プラグスーツのアスカ
+EV/S12-058 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Pilot パイロット,_Army 軍隊
+Card Text/Abilities:
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】［このカードをレストする］あなたは自分の《パイロット》のキャラを1枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+あんた、バカ。肝心な時にいないなんて。
+なんて無自覚
+
+==========================
+
+鈴原 トウジ
+EV/S12-059 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【自】相手のドローフェイズの始めに、前列にこのカードがいるなら、あなたはこのカードを手札に戻してよい。そうしたら、あなたは自分の手札を公開し、自分の手札のレベル0以下のキャラを1枚選び、このカードがいた枠にレストして置く。
+Flavor Text:
+すまんな、転校生。ワシはお前を殴らないかん。
+殴っとかな気がすまへんのや。
+
+==========================
+
+空中挺進専用Ｓ型装備 エヴァ２号機
+EV/S12-060 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Mecha メカ,_Weapon 武器
+Card Text/Abilities:
+【自】あなたのクライマックス置場に「とどめの一撃」が置かれた時、そのターン中、このカードは次の能力を得る。『【自】［①］このカードのバトル相手がリバースした時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。』 (ダメージキャンセルは発生する)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+ミサト「やはり２号機！」
+
+==========================
+
+料理中！？アスカ
+EV/S12-061 U
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Pilot パイロット,_Army 軍隊
+Card Text/Abilities:
+【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのパワーを＋1000。
+Flavor Text:
+話すわけないでしょ。この私が
+
+==========================
+
+“ユーロ空軍のエース”アスカ
+EV/S12-062 U
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Pilot パイロット,_Army 軍隊
+Card Text/Abilities:
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】このカードがアタックした時、クライマックス置場に「３人がかり」があるなら、あなたは相手にＸダメージを与えてよい。Ｘは相手のリバースしているキャラの枚数に等しい。 (ダメージキャンセルは発生する)
+Flavor Text:
+これこそ実戦用に作られた
+世界初の本物のエヴァンゲリオンなのよ
+
+==========================
+
+相田 ケンスケ
+EV/S12-063 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Glasses メガネ,_Camera カメラ
+Card Text/Abilities:
+【起】［② このカードをレストする］あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+悪いね。
+このあいだの騒ぎで、あいつの妹さんケガしちゃってさ
+
+==========================
+
+第７の使徒
+EV/S12-064 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Mystery 謎,
+Card Text/Abilities:
+【自】［②］このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《謎》のキャラを1枚選び、手札に戻す。
+Flavor Text:
+
+==========================
+
+発進準備 アスカ
+EV/S12-065 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Pilot パイロット,_Army 軍隊
+Card Text/Abilities:
+Flavor Text:
+ミサト「あなたたち三人の力が必要なのよ。
+奇跡を起こすために」
+
+==========================
+
+第８の使徒
+EV/S12-066 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Mystery 謎,
+Card Text/Abilities:
+【自】このカードがリバースした時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラをリバースしてよい。
+Flavor Text:
+青葉「目標、変形！　距離１万２千！」
+
+==========================
+
+独り占め？ アスカ
+EV/S12-067 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 1000
+Soul: 1
+Traits:: Pilot パイロット,_Army 軍隊
+Card Text/Abilities:
+【自】［手札を1枚控え室に置く］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《パイロット》のキャラを1枚選び、手札に戻す。
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000)
+Flavor Text:
+いいけど、弁当は分けないわよ
+
+==========================
+
+浄化実験施設のアスカ
+EV/S12-068 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Pilot パイロット,_Army 軍隊
+Card Text/Abilities:
+Flavor Text:
+せっかくの命は、全部もれなく食べ尽くしなさいよ
+
+==========================
+
+エヴァンゲリオン正規実用型２号機
+EV/S12-069 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Mecha メカ,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+アスカ「ダメ！　私じゃ間に合わない！」
+
+==========================
+
+第９の使徒
+EV/S12-070 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Mecha メカ,_Mystery 謎
+Card Text/Abilities:
+【自】［①］このカードのバトル相手でレベル2以上のキャラがリバースした時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+冬月「やはり、浸食タイプか……やっかいだな」
+
+==========================
+
+封印される２号機
+EV/S12-071 U
+Type: Event
+Level: 1
+Color: Red
+Cost: 1
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+あなたは自分の控え室の『 チェンジ 』を持つキャラを1枚まで選び、手札に加える。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+リツコ「……エヴァは実戦兵器よ。
+全てにバックアップを用意しているわ。操縦者も含めてね」
+
+==========================
+
+殺菌処理
+EV/S12-072 U
+Type: Event
+Level: 2
+Color: Red
+Cost: 2
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+あなたは相手のレベル2以下のキャラを1枚選び、控え室に置く。
+Flavor Text:
+加持「最もこっからが、ちょいとめんどうだけどな」
+
+==========================
+
+最悪の事態
+EV/S12-073 CR
+Type: Climax
+Level: N/A
+Color: Red
+Cost: N/A
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(扉：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+そっか……私、笑えるんだ
+
+==========================
+
+とどめの一撃
+EV/S12-074 CC
+Type: Climax
+Level: N/A
+Color: Red
+Cost: N/A
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+アスカ「どおぅりゃあああ！！」
+
+==========================
+
+３人がかり
+EV/S12-075 CC
+Type: Climax
+Level: N/A
+Color: Red
+Cost: N/A
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+レイ「２号機、コアを」
+アスカ「わかってるわよ！」
+
+==========================
+
+非常召集の綾波
+EV/S12-076 RR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Pilot パイロット,_Eyepatch 眼帯
+Card Text/Abilities:
+【自】このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、このカードをレストする。
+Flavor Text:
+先、行くから
+
+==========================
+
+非常召集の綾波
+EV/S12-076 RRR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Pilot パイロット,_Eyepatch 眼帯
+Card Text/Abilities:
+【自】このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、このカードをレストする。
+Flavor Text:
+先、行くから
+
+==========================
+
+零号機パイロット 綾波
+EV/S12-077 RR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Pilot パイロット,
+Card Text/Abilities:
+【自】このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。
+【自】 絆／「エヴァンゲリオン試作零号機(改)」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「エヴァンゲリオン試作零号機(改)」を1枚選び、手札に戻す)
+Flavor Text:
+ミサト「エヴァとあなたたちに全てを賭けるわ」
+
+==========================
+
+零号機パイロット 綾波
+EV/S12-077 SP
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Pilot パイロット,
+Card Text/Abilities:
+【自】このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。
+【自】 絆／「エヴァンゲリオン試作零号機(改)」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「エヴァンゲリオン試作零号機(改)」を1枚選び、手札に戻す)
+Flavor Text:
+ミサト「エヴァとあなたたちに全てを賭けるわ」
+
+==========================
+
+クラスメイト 綾波
+EV/S12-078 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Pilot パイロット,
+Card Text/Abilities:
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードは次の能力を得る。『【起】［このカードをレストする］あなたは自分の《パイロット》か《メカ》のキャラを1枚選び、そのターン中、パワーを＋1000。』
+Flavor Text:
+……あ、ありがと
+
+==========================
+
+クラスメイト 綾波
+EV/S12-078 SR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Pilot パイロット,
+Card Text/Abilities:
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードは次の能力を得る。『【起】［このカードをレストする］あなたは自分の《パイロット》か《メカ》のキャラを1枚選び、そのターン中、パワーを＋1000。』
+Flavor Text:
+……あ、ありがと
+
+==========================
+
+エヴァンゲリオン試作零号機(改)
+EV/S12-079 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Mecha メカ,_Weapon 武器
+Card Text/Abilities:
+【永】他のあなたの《パイロット》のキャラすべてに、パワーを＋500。
+【起】● 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500)
+Flavor Text:
+ミサト「発進」
+
+==========================
+
+命令するゲンドウ
+EV/S12-080 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Glasses メガネ,_Glove 手袋
+Card Text/Abilities:
+【永】他のあなたの《パイロット》のキャラすべてに、パワーを＋500。
+【自】［③］あなたのクライマックスフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードが自分のレベル以下のレベルの《パイロット》のキャラなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを舞台の好きな枠に置く。 (そうしないなら元に戻す)
+Flavor Text:
+エヴァンゲリオン３号機は現時刻をもって破棄。
+監視対象物を第９使徒と識別する
+
+==========================
+
+防御担当 綾波
+EV/S12-081 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Pilot パイロット,
+Card Text/Abilities:
+【自】 チェンジ ［② 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「シンジを守ると誓う綾波」を1枚選び、このカードがいた枠に置く。
+【起】［あなたのキャラを2枚レストする］あなたは自分の、《パイロット》か《メカ》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。
+Flavor Text:
+･･･明日午前0時より発動される
+ヤシマ作戦のスケジュールを伝えます
+
+==========================
+
+シンジを守ると誓う綾波
+EV/S12-082 R
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Pilot パイロット,
+Card Text/Abilities:
+【自】このカードが手札から舞台に置かれた時か『 チェンジ 』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】［手札の「綾波の笑顔」を1枚控え室に置く］相手のアタックフェイズの始めに、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋3500し、このカードのパワーを＋3500。
+Flavor Text:
+さよなら
+
+==========================
+
+シンジを守ると誓う綾波
+EV/S12-082 SR
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Pilot パイロット,
+Card Text/Abilities:
+【自】このカードが手札から舞台に置かれた時か『 チェンジ 』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】［手札の「綾波の笑顔」を1枚控え室に置く］相手のアタックフェイズの始めに、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋3500し、このカードのパワーを＋3500。
+Flavor Text:
+さよなら
+
+==========================
+
+赤木 リツコ
+EV/S12-083 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Science 科学,
+Card Text/Abilities:
+【自】このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。
+【起】［このカードをレストする］あなたは自分の、《パイロット》か《メカ》のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+到着予定時刻を12分もオーバー。
+あんまり遅いので迎えに来たわ
+
+==========================
+
+微笑む綾波
+EV/S12-084 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Pilot パイロット,
+Card Text/Abilities:
+【永】相手のターン中、他のあなたの「碇 ゲンドウ」がいるなら、このカードのパワーを＋2000。
+Flavor Text:
+
+==========================
+
+綾波 レイ
+EV/S12-085 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Pilot パイロット,
+Card Text/Abilities:
+【自】 経験 ［②］このカードが手札から舞台に置かれた時、あなたのレベル置場のカードのレベル合計が2以上なら、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。
+Flavor Text:
+･･････おいしい
+
+==========================
+
+吶喊エヴァ零号機(改)
+EV/S12-086 U
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Mecha メカ,_Weapon 武器
+Card Text/Abilities:
+【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのパワーを＋1000。
+【自】［③］このカードがアタックした時、クライマックス置場に「捨て身の攻撃」があるなら、あなたはコストを払ってよい。そうしたら、すべてのプレイヤーにＸダメージを与える。Ｘはあなたの手札の枚数に等しい。 (ダメージキャンセルは発生する)
+Flavor Text:
+レイ「碇君がもう……
+エヴァに乗らなくていいようにする」
+
+==========================
+
+第１０の使徒
+EV/S12-087 U
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Mystery 謎,
+Card Text/Abilities:
+【起】［手札のクライマックスを1枚控え室に置く］あなたは自分の山札の上から1枚を控え室に置く。そのカードが《謎》のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはこの能力で控え室に置かれたキャラのパワーに等しい。
+Flavor Text:
+
+==========================
+
+碇 ゲンドウ
+EV/S12-088 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Glasses メガネ,_Glove 手袋
+Card Text/Abilities:
+【永】他のあなたのカード名に「綾波」を含むキャラすべてに、パワーを＋500。
+【起】［② このカードをレストする］あなたは1枚引く。
+Flavor Text:
+そのための、ネルフです
+
+==========================
+
+冬月 コウゾウ
+EV/S12-089 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: ,_Glove 手袋
+Card Text/Abilities:
+【起】［あなたのキャラを2枚レストする］あなたは自分の山札を上から見て、山札の上か下に置く。
+【起】［①］あなたは1枚引き、自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+3年振りの再会か……
+
+==========================
+
+包帯姿の綾波
+EV/S12-090 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Pilot パイロット,_Eyepatch 眼帯
+Card Text/Abilities:
+Flavor Text:
+ゲンドウ「予備が使えなくなった。もう１度だ」
+
+==========================
+
+エヴァンゲリオン試作零号機
+EV/S12-091 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Mecha メカ,_Weapon 武器
+Card Text/Abilities:
+【永】あなたの後列のキャラが1枚以下なら、このカードはアタックできない。
+【永】相手のターン中、このカードのパワーを＋1000。
+Flavor Text:
+主伝導システム、混戦！流動中！
+
+==========================
+
+第６の使徒
+EV/S12-092 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Mystery 謎,
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+自宅の綾波
+EV/S12-093 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Pilot パイロット,
+Card Text/Abilities:
+【自】［①］このカードがアタックした時、クライマックス置場に「どいてくれる？」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル1以下のキャラを1枚選び、山札の下に置く。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+
+==========================
+
+再会のリツコ
+EV/S12-094 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Science 科学,_Glasses メガネ
+Card Text/Abilities:
+【自】［①］このカードのバトル相手でレベル2以上のキャラがリバースした時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+リョウちゃん、お久しぶり
+
+==========================
+
+あいさつする綾波
+EV/S12-095 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Pilot パイロット,
+Card Text/Abilities:
+Flavor Text:
+……おはよう
+
+==========================
+
+ダミーシステム
+EV/S12-096 U
+Type: Event
+Level: 2
+Color: Blue
+Cost: 0
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+あなたは自分の山札を見て『 チェンジ 』を持つキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+ミサト「あれが、ダミーシステム……」
+
+==========================
+
+謎の施設
+EV/S12-097 U
+Type: Event
+Level: 2
+Color: Blue
+Cost: 1
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+あなたは自分のスタンドしている、《メガネ》か《パイロット》のキャラを1枚選びレストする。そうしたら、あなたは自分の山札を上から4枚まで見て、カードを1枚選び、手札に加え、残りのカードを山札の上に好きな順番で置き、自分のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+ゲンドウ「食事にしよう」
+レイ「ハイ」
+
+==========================
+
+捨て身の攻撃
+EV/S12-098 CR
+Type: Climax
+Level: N/A
+Color: Blue
+Cost: N/A
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+ミサト「エヴァ単機では
+あのA．T．フィールドを破れない･･････」
+
+==========================
+
+綾波の笑顔
+EV/S12-099 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(本：このカードがトリガーした時、あなたは1枚引いてよい)
+Flavor Text:
+シンジ「…笑えばいいと思うよ」
+
+==========================
+
+どいてくれる？
+EV/S12-100 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+
+==========================
+
+作戦部長 ミサト
+EV/S12-101 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【永】あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。
+【起】［①］あなたは自分の《パイロット》のキャラを1枚選び、そのターン中、パワーを+1000。
+Flavor Text:
+…ま、色々と貸しがあるのよ
+
+==========================
+
+窓辺の綾波
+EV/S12-102 TD
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Pilot パイロット,_Eyepatch 眼帯
+Card Text/Abilities:
+【永】他のあなたの、《パイロット》のキャラが2枚以上なら、このカードのパワーを+1000。
+Flavor Text:
+
+==========================
+
+綾波＆ゲンドウ
+EV/S12-103 TD
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Pilot パイロット,_Glasses メガネ
+Card Text/Abilities:
+Flavor Text:
+ゲンドウ「レイ…大丈夫か？レイ！」
+
+==========================
+
+エントリープラグの綾波
+EV/S12-104 TD
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Pilot パイロット,
+Card Text/Abilities:
+【永】相手のターン中、このカードのパワーを＋1000。
+【自】このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+Flavor Text:
+ごめんなさい。こういう時、
+どんな顔すればいいのか、わからないの
+
+==========================
+
+転校生 シンジ
+EV/S12-105 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Pilot パイロット,
+Card Text/Abilities:
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+ミサト「あらためてよろしくね。碇シンジ君」
+
+==========================
+
+出撃する綾波
+EV/S12-106 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Pilot パイロット,
+Card Text/Abilities:
+Flavor Text:
+時間よ。 行きましょ
+
+==========================
+
+旧型プラグスーツのマリ
+EV/S12-107 PR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Pilot パイロット,_Glasses メガネ
+Card Text/Abilities:
+Flavor Text:
+エヴァンゲリオン仮設５号機、起動！
+
+==========================
+
+隔離待機室のアスカ
+EV/S12-108 PR
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Pilot パイロット,_Army 軍隊
+Card Text/Abilities:
+【永】このカードがアタックした時、あなたは他の自分の《パイロット》のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+誰かと話すって心地いいのね
+
+==========================
+
+ヒミツの綾波
+EV/S12-109 PR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Pilot パイロット,
+Card Text/Abilities:
+【起】● 助太刀3000 レベル2 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000)
+Flavor Text:
+シンジ「何してたの？」
+レイ「…ヒミツ。もう少しうまくなったら話す」
+
+==========================
+
+ゼロ距離射撃のマリ
+EV/S12-110 PR
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Pilot パイロット,_Glasses メガネ
+Card Text/Abilities:
+【自】このカードが手札から舞台に置かれた時、あなたは他の自分の《メカ》のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+ゼロ距離ならば！
+
+==========================
+
+屋上のシンジ
+EV/S12-T01 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Pilot パイロット,_Music 音楽
+Card Text/Abilities:
+【S】［REST 1 of your 《パイロット》 Characters］During this turn, this card gets +1000 Power.
+【起】［あなたの《パイロット》のキャラを1枚レストする］そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+
+==========================
+
+写真のミサト
+EV/S12-T02 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【C】During this turn, this card gets +1000 Power.
+【永】あなたのターン中、このカードのパワーを＋1000。
+Flavor Text:
+
+==========================
+
+待ち合わせ中のシンジ
+EV/S12-T03 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Pilot パイロット,
+Card Text/Abilities:
+Flavor Text:
+待ち合わせは無理か
+
+==========================
+
+エヴァンゲリオン試験初号機
+EV/S12-T04 TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Mecha メカ,_Weapon 武器
+Card Text/Abilities:
+【C】This card cannot Side Attack.
+【A】 ENCORE ［Place 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【永】このカードはサイドアタックできない。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+ミサト「作戦どおり、いいわね。シンジ君」
+
+==========================
+
+緊急事態のミサト
+EV/S12-T05 TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+Flavor Text:
+救護措置急いで！
+
+==========================
+
+ドライバー ミサト
+EV/S12-T06 TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Animal 動物,_Glasses メガネ
+Card Text/Abilities:
+【S】● ASSIST 3000 Level 2［① Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)
+【起】● 助太刀3000 レベル2 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000)
+Flavor Text:
+お待たせ
+
+==========================
+
+G型装備 エヴァ初号機
+EV/S12-T07 TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Mecha メカ,_Weapon 武器
+Card Text/Abilities:
+【A】［②］When this card attacks, if 「ヤシマ作戦」 is in your Climax slot, you may pay this cost. If you do, choose 1 of your opponent's Character in the Front Row with Level 2 or less and 1 of your opponent's Character in the Back Row with Level 2 or less, return them to hand.
+【自】［②］このカードがアタックした時、クライマックス置場に「ヤシマ作戦」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル2以下のキャラを1枚と相手の後列のレベル2以下のキャラを1枚選び、手札に戻す。
+Flavor Text:
+ミサト「ヤシマ作戦発動！」
+
+==========================
+
+使徒の一撃
+EV/S12-T08 TD
+Type: Event
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your opponent's Characters with Level 1 or less, return it to hand.
+あなたは相手のレベル1以下のキャラを1枚選び、手札に戻す。
+Flavor Text:
+青葉「目標内部に高エネルギー反応！」
+ミサト「何ですって！？」
+
+==========================
+
+ヤシマ作戦
+EV/S12-T09 TD
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed on Stage from hand, place the top card of your deck to Stock. During this turn, all of your Characters get +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを+1。
+Flavor Text:
+ミサト「陽電子砲狙撃準備！」
+
+==========================
+
+包帯姿の綾波
+EV/S12-T10 TD
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Pilot パイロット,_Eyepatch 眼帯
+Card Text/Abilities:
+Flavor Text:
+ゲンドウ「予備が使えなくなった。もう１度だ」
+
+==========================
+
+第６の使徒
+EV/S12-T11 TD
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Mystery 謎,
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+自宅の綾波
+EV/S12-T12 TD
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Pilot パイロット,
+Card Text/Abilities:
+【A】［①］When this card attacks, if 「どいてくれる？」 is in your Climax slot, you may pay this cost. If you did, choose 1 of your opponent's Characters in the Front Row with Level 1 or below, place it to bottom of Deck.
+【A】 ENCORE ［Place 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】［①］このカードがアタックした時、クライマックス置場に「どいてくれる？」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル1以下のキャラを1枚選び、山札の下に置く。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+
+==========================
+
+綾波の笑顔
+EV/S12-T13 TD
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Book：When this card is triggered, you may draw 1 card)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(本：このカードがトリガーした時、あなたは1枚引いてよい)
+Flavor Text:
+シンジ「…笑えばいいと思うよ」
+
+==========================
+
+どいてくれる？
+EV/S12-T14 TD
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed on Stage from hand, place the top card of your deck to Stock. During this turn, all of your Characters get +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+
+==========================
+

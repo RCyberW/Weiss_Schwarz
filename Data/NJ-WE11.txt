@@ -1,0 +1,911 @@
+“単純な馬鹿”ゆっこ
+NJ/WE11-01 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【C】During your turn, all your other Characters get +500 Power.
+【S】［② REST this card］Search your Deck for up to 1 《漫画》 or 《仏像》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【永】あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。
+【起】 ［② このカードをレストする］あなたは自分の山札を見て《漫画》か《仏像》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+あ…あ、ああ…
+あ、あ…くっ…くくくくく…くっ…
+
+==========================
+
+水上 麻衣
+NJ/WE11-02 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Glasses メガネ,_Buddha Statue 仏像
+Card Text/Abilities:
+【C】If you have another 「長野原 みお」, this card gains the following ability.『【S】[REST this card]Choose 1 of your Characters, during this turn, it gets +1 Level, +1500 Power.』
+【C】SUPPORT All your Characters in front of this card get +500 Power.
+【永】他のあなたの「長野原 みお」がいるなら、このカードは次の能力を得る。「【起】[このカードをレストする]あなたは自分のキャラを１枚選び、そのターン中レベルを+1し、パワーを+1500。」
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+……
+
+==========================
+
+水上 麻衣
+NJ/WE11-02 SP
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Glasses メガネ,_Buddha Statue 仏像
+Card Text/Abilities:
+【C】If you have another 「長野原 みお」, this card gains the following ability.『【S】[REST this card]Choose 1 of your Characters, during this turn, it gets +1 Level, +1500 Power.』
+【C】SUPPORT All your Characters in front of this card get +500 Power.
+【永】他のあなたの「長野原 みお」がいるなら、このカードは次の能力を得る。「【起】[このカードをレストする]あなたは自分のキャラを１枚選び、そのターン中レベルを+1し、パワーを+1500。」
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+スラマッマラム
+
+==========================
+
+長野原 みお
+NJ/WE11-03 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Manga 漫画,
+Card Text/Abilities:
+【C】If you have another 「相生 祐子」, this card gets +2000 Power.
+【永】他のあなたの「相生 祐子」がいるなら、このカードのパワーを+2000。
+Flavor Text:
+ゆっこ！
+
+==========================
+
+長野原 みお
+NJ/WE11-03 SP
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Manga 漫画,
+Card Text/Abilities:
+【C】If you have another 「相生 祐子」, this card gets +2000 Power.
+【永】他のあなたの「相生 祐子」がいるなら、このカードのパワーを+2000。
+Flavor Text:
+ゆっこ、おはよー
+
+==========================
+
+相生 祐子
+NJ/WE11-04 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【A】When this card's battle opponent becomes REVERSE, if you have another 「水上 麻衣」, choose 1 of your other Characters, during this turn, it gets +1 Soul.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, place this card in its previous slot in REST)
+【自】このカードのバトル相手がリバースした時、他のあなたの「水上 麻衣」がいるなら、あなたは他の自分のキャラを1枚選び、そのターン中、ソウルを+1。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+麻衣ちゃん!?
+
+==========================
+
+相生 祐子
+NJ/WE11-04 SP
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【A】When this card's battle opponent becomes REVERSE, if you have another 「水上 麻衣」, choose 1 of your other Characters, during this turn, it gets +1 Soul.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, place this card in its previous slot in REST)
+【自】このカードのバトル相手がリバースした時、他のあなたの「水上 麻衣」がいるなら、あなたは他の自分のキャラを1枚選び、そのターン中、ソウルを+1。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+
+==========================
+
+ハートブレイク みお
+NJ/WE11-05 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Manga 漫画,
+Card Text/Abilities:
+【A】［①］When this card attacks, if 「みおの暴走」 is in your Climax slot, you may pay the cost. If you did, during this turn, this card gains 1 of the following abilities.『【C】This card gets +6000 Power, +1 Soul.』『【A】When this card's battle opponent becomes REVERSE, you may choose 1 of your opponent's Characters with Cost 1 or less, place it into Stock.』
+【自】［①］このカードがアタックした時、クライマックス置場に「みおの暴走」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードは以下の能力のうちあなたが選んだ1つを得る。『【永】このカードのパワーを＋6000し、ソウルを＋1。』『【自】このカードのバトル相手がリバースした時、あなたは相手のコスト1以下のキャラを1枚選び、ストック置場に置いてよい。』
+Flavor Text:
+笹原先輩が…先輩が…
+先輩…先輩…
+
+==========================
+
+お調子者 ゆっこ
+NJ/WE11-06 R
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.
+【A】［①］When 「時定高校の日常」 is placed into your Climax slot, if this card is in the Front Row, you may pay the cost. If you did, choose 1 of your opponent's Characters, return it to Hand, all your Characters, during this turn, get +2000 Power.
+【自】このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】［①］あなたのクライマックス置場に「時定高校の日常」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、手札に戻し、自分のキャラすべてに、そのターン中、パワーを＋2000。
+Flavor Text:
+じゃあ、写したらすぐ返すね
+
+==========================
+
+桜井先生
+NJ/WE11-07 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Teacher 先生,
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card get +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+あっ。はい。
+いませんよ？
+
+==========================
+
+“ふっかつのじゅもん”麻衣
+NJ/WE11-08 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Glasses メガネ,_Buddha Statue 仏像
+Card Text/Abilities:
+【S】CONCENTRATION ［① REST this card］Flip 4 cards from the top of your Deck, place them into Waiting Room. For each Climax among those cards, search your Deck for up to 1 Character with Level 1 or less, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【起】 集中 ［① このカードをレストする］あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見てレベル1以下のキャラを1枚まで選んで相手に見せ、手札に加える。その後山札をシャッフルする。
+Flavor Text:
+ち…よ…た…に・け・と・ら・は、と、ほ・ら・すて・む
+の・は・て・け、ら・と・な・り・は・し・て…と…
+
+==========================
+
+中之条 剛
+NJ/WE11-09 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Mohawk モヒカン,
+Card Text/Abilities:
+【S】［REST 2 of your Characters］During this turn, this card gets +2000 Power.
+【起】［あなたのキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+なんだ…この、どうしようもない感覚は…！
+
+==========================
+
+“囲碁サッカー部”大工＆関口
+NJ/WE11-10 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Go Soccer 囲碁サッカー,
+Card Text/Abilities:
+【C】During your turn, this card gets +1000 Power.
+【永】あなたのターン中、このカードのパワーを＋1000。
+Flavor Text:
+なんか行っちゃたぞ。
+これから勧誘しに行こうってのに
+
+==========================
+
+スターラ姫
+NJ/WE11-11 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Royal Family 王族,
+Card Text/Abilities:
+Flavor Text:
+次
+
+==========================
+
+憤慨 みお
+NJ/WE11-12 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Manga 漫画,
+Card Text/Abilities:
+【C】The Character facing this card gets +1 Soul.
+【永】このカードの正面のキャラのソウルを＋1。
+Flavor Text:
+ゆっこ「え？焼きサバでしょ？」
+みお「焼きそばだよっ!!」
+
+==========================
+
+笹原 幸治郎
+NJ/WE11-13 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Glasses メガネ,_Theater 演劇
+Card Text/Abilities:
+【S】● ASSIST 2000 LEVEL 1 ［① Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +2000 Power)
+【起】● 助太刀2000 レベル1 ［①手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋2000)
+Flavor Text:
+ぬかしおる
+
+==========================
+
+立花 みさと
+NJ/WE11-14 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Weapon 武器,_Sports スポーツ
+Card Text/Abilities:
+Flavor Text:
+別にあんたなんか、
+何とも思っていないんだからっ！！
+
+==========================
+
+安中 榛名
+NJ/WE11-15 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 4500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card get +1000 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。
+Flavor Text:
+まあ、なけなしのお金払っちゃったんだし、
+やつは持って帰んなきゃね
+
+==========================
+
+高崎先生
+NJ/WE11-16 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Teacher 先生,_Go Soccer 囲碁サッカー
+Card Text/Abilities:
+【C】For each of your 「桜井先生」, this card gets +1000 Power.
+【永】他のあなたの「桜井先生」1枚につき、このカードのパワーを＋1000。
+Flavor Text:
+失神よりも不純異性交遊を取り締まることのほうが、
+教育者としての…なんだ！その…教育者だ！
+
+==========================
+
+仏像フェチ 麻衣
+NJ/WE11-17 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Glasses メガネ,_Buddha Statue 仏像
+Card Text/Abilities:
+【A】When this card Side Attacks, during this turn, this card gets +1 Soul.
+【自】このカードがサイドアタックした時、そのターン中、このカードのソウルを＋1。
+Flavor Text:
+弥勧菩薩…
+
+==========================
+
+時定高校の日常
+NJ/WE11-18a C
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置き場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+だるまさんがころんだ
+
+==========================
+
+時定高校の日常
+NJ/WE11-18b C
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置き場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+みお「は～い撮るよ」
+
+==========================
+
+時定高校の日常
+NJ/WE11-18c C
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置き場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+ゆっこ「ナムサーン!!」
+
+==========================
+
+時定高校の日常
+NJ/WE11-18d C
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置き場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+みお「カッコイイっていうのは…！
+こういうことでしょうが!!!」
+
+==========================
+
+みおの暴走
+NJ/WE11-19 C
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1W
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return to Hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(風：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+み、みおちゃん！
+
+==========================
+
+ポニーテール はかせ
+NJ/WE11-20 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Science 科学,_Sweets お菓子
+Card Text/Abilities:
+【A】［Place 1 card from Hand into Clock］When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 card with 「なの」 or 「阪本」 in its name, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【自】［手札を1枚クロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てカード名に「なの」か「阪本」を
+含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+ねーねー、はかせ、
+どんくらいお姉さんっぽい？
+
+==========================
+
+コスプレ はかせ
+NJ/WE11-21 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Science 科学,_Sweets お菓子
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +500 Power.
+【S】［② Place the top card of your Deck into Clock］Choose 1 of your card with 「なの」 in its name, until end of turn, it gains 《武器》 and the following ability.『【C】When this card attacks, you may choose an opponent's Back Row Character, this card may Front Attack that Character instead.』
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】［② あなたの山札の上から1枚をクロック置場に置く］あなたは自分のカード名に「なの」を含むキャラを1枚選び、そのターン中、《武器》を与え、次の能力を与える。『【永】このカードがアタックする時、あなたはかわりに相手の後列のキャラを1枚選び、このカードはそのキャラを防御キャラとしてフロントアタックしてよい。』
+Flavor Text:
+ちょっと阪本と散歩してくる
+
+==========================
+
+はかせの発明品 なの
+NJ/WE11-22 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Mecha メカ,
+Card Text/Abilities:
+【A】When 「なののギミック」 is placed into your Climax slot, if this card is in the Front Row, you may search your Deck for up to 1 「雨がっぱ はかせ」, place it into any slot on Stage. Shuffle your Deck afterwards.
+【自】 あなたのクライマックス置場に「なののギミック」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見て「雨がっぱ はかせ」を1枚まで選び、舞台の好きな枠に置く。その山札をシャッフルする。
+Flavor Text:
+も～。なんでこんなウエポンつけるんですか～
+
+==========================
+
+“おたんじょうび”なの
+NJ/WE11-23 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 9000
+Soul: 1
+Traits:: Mecha メカ,
+Card Text/Abilities:
+【C】If you do not have another Character with 「はかせ」 in its name, this card gains the following ability.『【C】This card cannot Front Attack.』
+【永】他のあなたのカード名に「はかせ」を含むキャラがいないなら、このカードは次の能力を得る。『【永】このカードはフロントアタックできない。』
+Flavor Text:
+どうしてみんな知ってたんだろう？
+私の誕生日…
+
+==========================
+
+はかせ
+NJ/WE11-24 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Science 科学,_Sweets お菓子
+Card Text/Abilities:
+【A】［② Place 1 card from Hand into Waiting Room］When 「東雲研究所の日常」 is placed into your Climax slot, if this card is in the Front Row, you may pay the cost. If you did, search your Deck for up to 1 「東雲 なの」, place it into any slot on Stage. Shuffle your Deck afterwards.
+【自】［② 手札を1枚控え室に置く］あなたのクライマックス置場に「東雲研究所の日常」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「東雲 なの」を1枚まで選び、舞台の好きな枠に置く。その山札をシャッフルする。
+Flavor Text:
+ねーねー。なにして遊ぶ？
+
+==========================
+
+はかせ
+NJ/WE11-24 SP
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Science 科学,_Sweets お菓子
+Card Text/Abilities:
+【A】［② Place 1 card from Hand into Waiting Room］When 「東雲研究所の日常」 is placed into your Climax slot, if this card is in the Front Row, you may pay the cost. If you did, search your Deck for up to 1 「東雲 なの」, place it into any slot on Stage. Shuffle your Deck afterwards.
+【自】［② 手札を1枚控え室に置く］あなたのクライマックス置場に「東雲研究所の日常」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「東雲 なの」を1枚まで選び、舞台の好きな枠に置く。その山札をシャッフルする。
+Flavor Text:
+なのー！
+
+==========================
+
+東雲 なの
+NJ/WE11-25 R
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Mecha メカ,
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand or Deck, if you have another 「はかせ」 and 「阪本さん」, return the top card of your Clock into Hand.
+【A】When a Climax appears during your Character's Trigger Check, until the end of your opponent's next turn, this card gets +1000 Power.
+【自】このカードが、手札か山札から舞台に置かれた時、他のあなたの、「はかせ」と「阪本さん」がいるなら、あなたは自分のクロックの上から1枚を、手札に戻してよい。
+【自】あなたのキャラのトリガーチェックでクライマックスが出た時、次の相手のターンの終わりまで、このキャラのパワーを＋1000。
+Flavor Text:
+遅刻しちゃいますよ～
+
+==========================
+
+東雲 なの
+NJ/WE11-25 SP
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Mecha メカ,
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand or Deck, if you have another 「はかせ」 and 「阪本さん」, return the top card of your Clock into Hand.
+【A】When a Climax appears during your Character's Trigger Check, until the end of your opponent's next turn, this card gets +1000 Power.
+【自】このカードが、手札か山札から舞台に置かれた時、他のあなたの、「はかせ」と「阪本さん」がいるなら、あなたは自分のクロックの上から1枚を、手札に戻してよい。
+【自】あなたのキャラのトリガーチェックでクライマックスが出た時、次の相手のターンの終わりまで、このキャラのパワーを＋1000。
+Flavor Text:
+よーし、じゃあ探しますよ～
+
+==========================
+
+ねじまき なの
+NJ/WE11-26 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Mecha メカ,
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, look at the top card of your Deck, place it at the top or bottom of Deck.
+【A】 BOND／「はかせ」［①］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「はかせ」 from your Waiting Room, return to Hand)
+【自】このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚見て、山札の上か下に置く。
+【自】 絆／「はかせ」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「はかせ」を1枚選び、手札に戻す)
+Flavor Text:
+ちゃんとお布団で寝ないと風邪ひきますよ
+
+==========================
+
+阪本さん
+NJ/WE11-27 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Animal 動物,_Scarf スカーフ
+Card Text/Abilities:
+【C】All your other Characters with 「なの」 or 「はかせ」 in its name get +500 Power.
+【永】他のあなたのカード名に「なの」か「はかせ」を含むキャラすべてに、パワーを＋500。
+Flavor Text:
+今度は俺が鬼だな！
+次、はじめるぞっ！
+
+==========================
+
+寝起きのはかせ
+NJ/WE11-28 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Science 科学,_Sweets お菓子
+Card Text/Abilities:
+【C】During your opponent's turn, all your other 「学校デビュー なの」 get +2000 Power.
+【永】 相手のターン中、他のあなたの「学校デビュー なの」すべてに、パワーを＋2000。
+Flavor Text:
+ふぁー。おはよ
+
+==========================
+
+学校デビュー なの
+NJ/WE11-29 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Mecha メカ,
+Card Text/Abilities:
+Flavor Text:
+ふ…普通の…女の子っぽく…見えますかっ？
+
+==========================
+
+“だにゃん”はかせ
+NJ/WE11-30 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Science 科学,_Sweets お菓子
+Card Text/Abilities:
+【A】At the beginning of your Climax Phase, choose 1 of your STAND Characters, REST it.
+【自】あなたのクライマックスフェイズの始めに、あなたは自分のスタンドしているキャラを1枚選び、レストする。
+Flavor Text:
+はっかせだにゃん！
+
+==========================
+
+雨がっぱ はかせ
+NJ/WE11-31 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Science 科学,_Sweets お菓子
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand, during this turn, this card gets -1500 Power.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを－1500。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+えーっ!?
+
+==========================
+
+夏祭り なの
+NJ/WE11-32 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Mecha メカ,
+Card Text/Abilities:
+【C】 During your opponent's turn, this card gets +1000 Power.
+【永】 相手のターン中、このカードのパワーを＋1000。
+Flavor Text:
+屋台が出てますねー
+
+==========================
+
+夏祭り はかせ
+NJ/WE11-33 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Science 科学,_Sweets お菓子
+Card Text/Abilities:
+【S】● ASSIST 3000 Level 2 ［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)
+【起】● 助太刀3000 レベル2 ［①手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋3000)
+Flavor Text:
+あ、なの。サメカステラだ
+
+==========================
+
+くろねこ なの
+NJ/WE11-34 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Mecha メカ,
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+東雲研究所の日常
+NJ/WE11-35a C
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置き場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+なの「う～～ん」
+
+==========================
+
+東雲研究所の日常
+NJ/WE11-35b C
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置き場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+オムライス!!
+
+==========================
+
+東雲研究所の日常
+NJ/WE11-35c C
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置き場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+はかせ・なの「ジャンケンポン！」
+
+==========================
+
+東雲研究所の日常
+NJ/WE11-35d C
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置き場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+好きですー、阪本さん大好きーっ
+
+==========================
+
+なののギミック
+NJ/WE11-36 C
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Book：When this card is triggered, you may draw 1 card)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(本：このカードがトリガーした時、あなたは1枚引いてよい)
+Flavor Text:
+シビビーン、シビビーン、
+シビビーン、シビビーン
+
+==========================
+
+おやすみ なの&はかせ
+NJ/WE11-37 PR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Sweets お菓子,_Mecha メカ
+Card Text/Abilities:
+【S】● ASSIST 1500 Level 1 ［Place this card from Hand to Waiting Room］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +1500 Power)
+【起】● 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋1500)
+Flavor Text:
+はかせ「ひとりだとちょっとおっかないけど…
+一緒だと、ちょっと大丈夫だけど」
+
+==========================
+
+ゆっこ＆みお＆麻衣
+NJ/WE11-38 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Manga 漫画,_Buddha Statue 仏像
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+

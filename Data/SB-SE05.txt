@@ -1,0 +1,875 @@
+“禍々しい狂気”明智　光秀“Sinisterly Crazy” Akechi Mitsuhide
+SB/SE05-01 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger:
+Power: 5000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【A】When this card is in battle, if the damage dealt to you is not cancelled, during this turn, this card gets +1500 Power.
+【自】このカードのバトル中、あなたの受けたダメージがキャンセルされなかった時、そのターン中、このカードのパワーを+1500。
+Flavor Text:
+クッククク…さあ、仲良く踊って戴きましょう
+
+==========================
+
+“戦国の魔王”織田　信長“Devil King of the Warring States” Oda Nobunaga
+SB/SE05-02 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【A】When this card attacks, if you have 「天下布武の大号令」 in your Climax slot, during this turn, this card gets +4000 Power, +1 Soul.
+【自】このカードがアタックした時、クライマックス置場に「天下布武の大号令」があるなら、そのターン中、このカードのパワーを＋4000し、ソウルを＋1。
+Flavor Text:
+余が直々に比良坂へ送ってくれようぞ…!!
+
+==========================
+
+“二丁拳銃”濃姫“Dual Pistol” Nouhime
+SB/SE05-03 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Weapon 武器,_Love 愛
+Card Text/Abilities:
+【A】When this card attacks, if you have 1 or less other Character in the Front Row, all your Characters, during this turn, gets +1000 Power.
+【自】このカードがアタックした時、他のあなたの前列のキャラが1枚以下なら、あなたのキャラすべてに、そのターン中、パワーを＋1000。
+Flavor Text:
+ごめんあそばせ…！
+
+==========================
+
+“弦月の兜”伊達 政宗
+SB/SE05-046 PR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Weapon 武器,_Eyepatch 眼帯
+Card Text/Abilities:
+【起】［あなたの《武器》のキャラ1枚をレストする］そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+派手に行くぜ。Let's Party!!!
+
+==========================
+
+“裂かれた絆”長政＆お市“Broken Bond” Nagamasa & Oichi
+SB/SE05-04 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Weapon 武器,_Hero 勇者
+Card Text/Abilities:
+【C】During your turn, this card gets +1000 Power.
+【A】 ENCORE ［Discard 1 Character from hand to Waiting Room］ (When this card is put into Waiting Room from Stage, you may pay this cost. If you do, return this card to its previous slot in REST)
+【永】あなたのターン中、このカードのパワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+長政「市…私は間違っていなかったと、言ってくれ…」
+
+==========================
+
+天下布武の大号令
+SB/SE05-05 C
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card comes on Stage from hand, put the top card of your deck to Stock. During this turn, all of your Characters get +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+…滅せよッ!!
+
+==========================
+
+“切り開こうとする者”前田　慶次
+SB/SE05-06 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Weapon 武器,_Animal 動物
+Card Text/Abilities:
+【A】［②］When you use this card's 「ASSIST」, you may pay this cost. If you do, search your deck for a 《武器》 Character, show it to your opponent, then put into your hand. Shuffle your deck afterwards.
+【S】● ASSIST 1000 Level 1 ［Discard this card from hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +1000 Power)
+【自】［②］あなたがこのカードの「 助太刀 」を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《武器》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+【起】● 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000。)
+Flavor Text:
+さすがにもう、寝てる場合じゃないだろう？
+
+==========================
+
+“冷徹な将”毛利　元就“Coolheaded Leader” Mouri Motonari
+SB/SE05-07 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Weapon 武器,_Sun 日輪
+Card Text/Abilities:
+【S】［① Place 1 of your 《武器》 Character from Stage to Waiting Room］During this turn, this card gets +5500 Power.
+【起】［① あなたの舞台の《武器》のキャラを1枚控え室に置く］そのターン中、このカードのパワーを＋5500。
+Flavor Text:
+捨て時を謝らば、駒の持ち腐れとなろう
+
+==========================
+
+“豊臣の軍師”竹中　半兵衛
+SB/SE05-08 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Weapon 武器,_Mask 仮面
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +X Power. X is equals to that Character's Level ×500.
+【S】［Put this card to REST］Choose 1 of your Level 3 Character, during this turn, it gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋X。Xはそのキャラのレベル×500に等しい。
+【起】［このカードをレストする］あなたは自分のレベル3以上のキャラを1枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+君もきっと心酔するよ。
+彼の、圧倒的な“強さ”にね――
+
+==========================
+
+“良妻賢母”まつ
+SB/SE05-09 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Weapon 武器,_Animal 動物
+Card Text/Abilities:
+【A】［Discard 1 card from hand］When this card comes from hand to Stage, you may pay this cost. If you do, choose 1 of your 《動物》 Character, during this turn, it gets +3500 Power.
+【自】［手札を1枚控え室に置く］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。 そうしたら、あなたは自分の《動物》のキャラを1枚選び、そのターン中、パワーを＋3500。
+Flavor Text:
+――そうでございますか、ウフフ…
+
+==========================
+
+“豊臣軍総大将”秀吉
+SB/SE05-10 R
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: ,
+Card Text/Abilities:
+【A】When this card comes to Stage from hand, you may take the top card of your Clock, put into Waiting Room.
+【A】［③］When the Character battling this card becomes REVERSE, you may pay this cost. If you do, place that Character into Clock.
+【自】このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】［③］このカードのバトル相手がリバースした時、あなたはコストを払ってよい。そうしたら、あなたはそのキャラをクロック置場に置く
+Flavor Text:
+･･･我が最強の兵たちよ！　我と共に覇を唱えよ！
+
+==========================
+
+“大黒柱”前田　利家
+SB/SE05-11 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 1
+Power: 500
+Soul: 1
+Traits:: Weapon 武器,_Animal 動物
+Card Text/Abilities:
+【C】 SUPPORT All Characters in front of this card gets +500 Power.
+【A】When this card comes to Stage from hand, choose 1 of your other Character with 「まつ」 in its name, during this turn, it gets +1000 Power.
+【永】 応援  このカードの前のあなたのキャラすべてに、パワーを＋500。
+【自】このカードが手札から舞台に置かれた時、あなたは他の自分のカード名に「まつ」を含むキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+秀吉殿は、愛する人を失っても、
+悲しみにくじけること無く、一途な志を胸に…
+
+==========================
+
+“かぶき者”前田　慶次
+SB/SE05-12 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Weapon 武器,_Animal 動物
+Card Text/Abilities:
+【C】If you have 5 stocks or more, all your other Characters get +500 Power.
+【永】あなたのストックが5枚以上なら、他のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+恋ってのはいいもんだ
+
+==========================
+
+“希代の策士”毛利　元就
+SB/SE05-13 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Weapon 武器,_Sun 日輪
+Card Text/Abilities:
+【S】［①］Choose 1 of your Characters, during this turn, it gets +2500 Power. At the end of turn, place that card into Waiting Room.
+【起】［①］あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。ターンの終わりに、そのキャラを控え室に置く。
+Flavor Text:
+束ねるのが誰であれ、我が策に拝伏いたすは自明――
+
+==========================
+
+“潜伏侵略”竹中　半兵衛
+SB/SE05-14 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Weapon 武器,_Mask 仮面
+Card Text/Abilities:
+【C】For each of your other Characters in STAND, this card gets +500 Power.
+【永】他のあなたのスタンドしているキャラ1枚につき、このカードのパワーを+500。
+Flavor Text:
+少しもったいないけど、潰すしかなさそうだ
+
+==========================
+
+“覇の剛拳”豊臣　秀吉
+SB/SE05-15 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+Flavor Text:
+強さこそが国を富ませ、強き者こそが世界を統べる
+
+==========================
+
+“戦国の覇王”豊臣　秀吉
+SB/SE05-16 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【A】[Discard 1 「乱世再び！」 from hand] At the beginning of your opponent's Counter Step, you may pay this cost. If you do, choose 1 Character battling this card, during this turn, it gets -3000 Power.
+【自】［手札の「乱世再び！」を1枚控え室に置く］相手のターンのカウンターステップの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードのバトル相手を1枚選び、そのターン中、パワーを－3000。
+Flavor Text:
+我には貴様がいればよい
+
+==========================
+
+“戦国を駆ける”前田　慶次
+SB/SE05-17 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Weapon 武器,_Animal 動物
+Card Text/Abilities:
+Flavor Text:
+俺はそいつを、どうしても――
+黙って見過ごすわけにはいかねえんだ…！
+
+==========================
+
+“戦国を駆ける”前田　慶次
+SB/SE05-17 SP
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Weapon 武器,_Animal 動物
+Card Text/Abilities:
+Flavor Text:
+SP：俺はそいつを、どうしても――
+黙って見過ごすわけにはいかねえんだ…！
+
+==========================
+
+“強固なる意志”毛利　元就
+SB/SE05-18 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Weapon 武器,_Sun 日輪
+Card Text/Abilities:
+Flavor Text:
+我が智略の前に、為す術もなく散るがよい！
+
+==========================
+
+まつのめし
+SB/SE05-19 C
+Type: Event
+Level: 2
+Color: Green
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+If you do not have a 《動物》 Character, you cannot play this card.
+Choose 1 card from your Clock, return it to hand, choose 1 of your Characters, during this turn, it gets +2000 Power. Place this card to Clock.
+このカードは、あなたの《動物》のキャラがいないなら、手札からプレイできない。
+あなたは自分のクロック置場のキャラを1枚選び、手札に戻し、自分のキャラを1枚選び、そのターン中、パワーを＋2000。このカードをクロック置場に置く。
+Flavor Text:
+これが前田のまつ様の手料理にございまするか…
+
+==========================
+
+乱世再び！
+SB/SE05-20 C
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: G
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gold：When this card is Triggered, put this card in your hand. You may put the top card of your deck to Stock)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(宝：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい)
+Flavor Text:
+我の前に屈し、我の下でひとつとなれ。
+強き兵として、この国を富めんがために！
+
+==========================
+
+“若き猛将”真田　幸村
+SB/SE05-21 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Weapon 武器,_Headband 鉢巻
+Card Text/Abilities:
+【A】 BOND／「“甲斐の虎”武田　信玄」 ［Put the top card of your Deck to Clock］ (When this card is played to Stage, you may pay this cost. If you do, choose 1 「“甲斐の虎”武田　信玄」 from your Waiting Room, return to hand)
+【S】［Put 2 of your Characters to REST］During this turn, this card gets +2000 Power.
+【自】 絆／「“甲斐の虎”武田 信玄」 ［あなたの山札の上から1枚をクロック置場に置く］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“甲斐の虎”武田 信玄」を1枚選び、手札に戻す)
+【起】［あなたのキャラを2枚レストする］そのターン中、このカードのパワーを+2000。
+Flavor Text:
+お館様！この幸村、必ずやお館様の
+ご期待に応えてみせまする！
+
+==========================
+
+“海賊の流儀”長曾我部　元親
+SB/SE05-22 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Weapon 武器,_Eyepatch 眼帯
+Card Text/Abilities:
+【C】If you have 3 or more other 《武器》 Characters, this card gets +1000 Power.
+【A】 ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot.
+【永】他のあなたの《武器》のキャラが3枚以上なら、このカードのパワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+野郎共！　いよいよ天下へ打って出るぜ！
+
+==========================
+
+“甲斐の虎”武田　信玄
+SB/SE05-23 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Weapon 武器,_Animal 動物
+Card Text/Abilities:
+【A】 CHANGE ［④ Discard 1 Climax from hand, place this card to Waiting Room］At the beginning of your Encore step, if this card is in REST, you may pay this cost. If you do, choose 1 「“紅い炎”真田　幸村」 from Waiting Room, put in this card's previous slot.
+【自】 チェンジ ［④ 手札のクライマックスを1枚控え室に置き、このカードを控え室に置く］あなたのアンコールステップの始めに、このカードがレストしているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“紅い炎”真田 幸村」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+幸村よ、強うなれ――。道を見失うでない･･･！
+
+==========================
+
+“紅い炎”真田　幸村
+SB/SE05-24 R
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Weapon 武器,_Headband 鉢巻
+Card Text/Abilities:
+【A】When this card comes to Stage from hand or through 「CHANGE」, take the top card of your Clock, put to Waiting Room.
+【A】［③］When this card attacks, if 「死闘」 is in your Climax slot, you may pay this cost. If you do, deal 5 damage to your opponent. (Damage can be cancelled)
+【自】 このカードが手札から舞台に置かれた時か「 チェンジ 」で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】［③］このカードがアタックした時、クライマックス置場に「死闘」があるなら、あなたはコストを払ってよい。そうしたら、相手に5ダメージを与える。 (ダメージキャンセルは発生する)
+Flavor Text:
+真田幸村、いざ全力で―――参るッ！
+
+==========================
+
+“紅い炎”真田　幸村
+SB/SE05-24 SP
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Weapon 武器,_Headband 鉢巻
+Card Text/Abilities:
+【A】When this card comes to Stage from hand or through 「CHANGE」, take the top card of your Clock, put to Waiting Room.
+【A】［③］When this card attacks, if 「死闘」 is in your Climax slot, you may pay this cost. If you do, deal 5 damage to your opponent. (Damage can be cancelled)
+【自】 このカードが手札から舞台に置かれた時か「 チェンジ 」で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】［③］このカードがアタックした時、クライマックス置場に「死闘」があるなら、あなたはコストを払ってよい。そうしたら、相手に5ダメージを与える。 (ダメージキャンセルは発生する)
+Flavor Text:
+真田幸村、いざ全力で―――参るッ！
+
+==========================
+
+“四国の長”長曾我部　元親
+SB/SE05-25 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Weapon 武器,_Eyepatch 眼帯
+Card Text/Abilities:
+【S】［Put 1 of your 《武器》 to REST］During this turn, this card gets +1000 Power.
+【起】［あなたの《武器》のキャラを1枚レストする］そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+――で、この西海の鬼に何の用だい？
+遠慮しねえで、言ってみなよ
+
+==========================
+
+“熱き魂”真田　幸村
+SB/SE05-26 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Weapon 武器,_Headband 鉢巻
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+“純朴な人柄”真田　幸村
+SB/SE05-27 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Weapon 武器,_Headband 鉢巻
+Card Text/Abilities:
+【C】All your other 《武器》 Characters gets +500 Power.
+【S】［② Put this card to REST］Choose 1 《武器》 Character from your waiting room, return it to hand.
+Flavor Text:
+
+==========================
+
+“六爪”正宗＆“ニ槍”幸村
+SB/SE05-28 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Weapon 武器,_Headband 鉢巻
+Card Text/Abilities:
+【S】［Put 2 of your 《武器》 Characters to REST］Choose 1 of your Characters, during this turn, it gets +2000 Power.
+Flavor Text:
+
+==========================
+
+“移動要塞・富獄”長曾我部　元親
+SB/SE05-29 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Weapon 武器,_Eyepatch 眼帯
+Card Text/Abilities:
+【A】［② Discard 1 Climax from hand］When this card comes to Stage from hand, you may pay this cost. If you do, choose 1 of your opponent's Characters with Cost 1 or less, place it to Waiting Room.
+Flavor Text:
+
+==========================
+
+“戦場を駆ける隠密”猿飛　佐助
+SB/SE05-30 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Ninja 忍,_Weapon 武器
+Card Text/Abilities:
+【A】If you have 2 or more other 《忍》 Characters, this card gains 「【A】 ENCORE ［Discard 1 Character from hand to Waiting Room］」.
+【永】他のあなたの《忍》のキャラが2枚以上なら、このカードは「【自】 アンコール ［手札のキャラを1枚控え室に置く］」を得る。
+Flavor Text:
+俺様を誰だと思ってんの。ま、ちょいと危なかったけど
+
+==========================
+
+小田原城を攻める！
+SB/SE05-31 C
+Type: Event
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+● Choose 1 of your 《武器》 Characters, during this turn, it gets +2000 Power.
+Flavor Text:
+
+==========================
+
+死闘
+SB/SE05-32 C
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When you Triggered this card, choose 1 Character from your waiting room, return to hand)
+Flavor Text:
+
+==========================
+
+“大胆不敵”伊達 政宗
+SB/SE05-33 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Weapon 武器,_Eyepatch 眼帯
+Card Text/Abilities:
+【S】 CONCENTRATE［①］Place the top 4 cards of your Deck into Waiting Room. For every Climax in those cards, choose 1 of your 《武器》 Characters, until the end of opponent's next turn, it gets +1000 Power.
+【起】 集中 ［①］あなたは自分の山札から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の《武器》のキャラを1枚選び、次の相手ターンの終わりまで、パワーを＋1000。
+Flavor Text:
+最高の気合を入れて、俺を楽しませてくれよ！
+
+==========================
+
+“冷静沈着”片倉　小十郎
+SB/SE05-34 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【A】When the Character with Level 1 or above battling this card becomes REVERSE, choose 1 of your other Characters, put it to REST, place it to an empty Back Row slot.
+Flavor Text:
+
+==========================
+
+“伊達の軍師”片倉　小十郎
+SB/SE05-35 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【A】At the beginning of your opponent's Attack Phase, choose 1 of your Characters, during this turn, it gets +1500 Power.
+【A】［②］When this card comes to Stage from hand, you may pay this cost. If you do, choose 2 of your opponent's Characters, put them to STAND and exchange their positions.
+【自】相手のアタックフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。
+【自】［②］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを2枚選び、それぞれをスタンドして入れ替える。
+Flavor Text:
+一人たりとも無駄死にはさせねえ。
+それが伊達の流儀。そして政宗様のご意思
+
+==========================
+
+“蒼い雷光”伊達 政宗
+SB/SE05-36 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Weapon 武器,_Eyepatch 眼帯
+Card Text/Abilities:
+【A】When 「蒼鬼」 comes into your Climax slot, if you have 1 or less other Characters in the Front Row, look at up to 5 cards from the top of opponent's Deck, choose up to 5 of those cards, place them to Waiting Room. Return the remaining cards into the Deck, then shuffle it. All your 《武器》 Characters, until the end of opponent's next turn, get +2000 Power.
+【自】あなたのクライマックス置場に「蒼鬼」が置かれた時、他のあなたの前列のキャラが1枚以下なら、あなたは相手の山札の上から5枚まで見てカードを5枚まで選び、控え室に置く。その後、残りのカードを山札に戻し、その山札をシャッフルし、あなたの《武器》のキャラすべてに、次の相手のターンの終わりまで、パワーを＋2000。
+Flavor Text:
+せいぜい楽しませてくれよ。
+Gambleをけしかけやがったからにはな
+
+==========================
+
+“蒼い雷光”伊達 政宗
+SB/SE05-36 SP
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Weapon 武器,_Eyepatch 眼帯
+Card Text/Abilities:
+【A】When 「蒼鬼」 comes into your Climax slot, if you have 1 or less other Characters in the Front Row, look at up to 5 cards from the top of opponent's Deck, choose up to 5 of those cards, place them to Waiting Room. Return the remaining cards into the Deck, then shuffle it. All your 《武器》 Characters, until the end of opponent's next turn, get +2000 Power.
+【自】あなたのクライマックス置場に「蒼鬼」が置かれた時、他のあなたの前列のキャラが1枚以下なら、あなたは相手の山札の上から5枚まで見てカードを5枚まで選び、控え室に置く。その後、残りのカードを山札に戻し、その山札をシャッフルし、あなたの《武器》のキャラすべてに、次の相手のターンの終わりまで、パワーを＋2000。
+Flavor Text:
+せいぜい楽しませてくれよ。
+Gambleをけしかけやがったからにはな
+
+==========================
+
+“若きカリスマ”伊達　政宗
+SB/SE05-37 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Weapon 武器,_Eyepatch 眼帯
+Card Text/Abilities:
+【A】When this card attacks, all your Characters with 「小十郎」 in its name, during this turn, gets +500 Power.
+【A】 BOND／「“冷静沈着”片倉　小十郎」 ［Put the top card of your Deck to Clock］ (When this card is played to Stage, you may pay this cost. If you do, choose 1 「“冷静沈着”片倉　小十郎」 from your Waiting Room, return to hand)
+Flavor Text:
+
+==========================
+
+“竜の爪”伊達　政宗
+SB/SE05-38 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Weapon 武器,_Eyepatch 眼帯
+Card Text/Abilities:
+【C】If you have 1 or less other Characters in the Front Row, all your other Characters get +500 Power, gains  「【A】 ENCORE ［Discard 1 Character from hand to Waiting Room］」.
+Flavor Text:
+
+==========================
+
+“奥州の独眼竜”伊達　政宗
+SB/SE05-39 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Weapon 武器,_Eyepatch 眼帯
+Card Text/Abilities:
+【C】During your opponent's turn, this card gets +1000 Power.
+Flavor Text:
+
+==========================
+
+“毘沙門天の化身”上杉　謙信
+SB/SE05-40 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Weapon 武器,_Rose 薔薇
+Card Text/Abilities:
+【A】［Place this card to Waiting Room］When any of your other 《忍》 Characters is being Front Attacked, you may pay this cost. If you do, choose 1 of battling Characters, during this turn, it gets +1000 Power.
+Flavor Text:
+
+==========================
+
+“上杉軍”かすが
+SB/SE05-41 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Ninja 忍,_Love 愛
+Card Text/Abilities:
+【A】If you have 2 stocks or less, this card gets +1000 Power, gains 「【A】 ENCORE ［Discard 1 Character from hand to Waiting Room］」.
+Flavor Text:
+
+==========================
+
+“独眼竜の腹心”片倉　小十郎
+SB/SE05-42 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+“軍神”謙信＆“つるぎ”かすが
+SB/SE05-43 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Weapon 武器,_Ninja 忍
+Card Text/Abilities:
+【C】If you have 5 stocks or more, this card gets +1000 Power.
+Flavor Text:
+
+==========================
+
+“双竜”正宗＆小十郎
+SB/SE05-44 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Weapon 武器,_Eyepatch 眼帯
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+蒼鬼
+SB/SE05-45 C
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card comes on Stage from hand, draw 1 card. During this turn, choose 1 of your Characters, it gets +2000 Power, +1 Soul.
+Flavor Text:
+
+==========================
+

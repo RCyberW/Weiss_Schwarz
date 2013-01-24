@@ -1,0 +1,580 @@
+/**
+ * @file Game.java
+ * @author Jia Chen
+ * @date Sept 06, 2011
+ * @description 
+ * 		Game.java is used to create and start a match between players
+ * 		on the Internet. It automate some phases while leaving other 
+ * 		phases with players to decide what to do.
+ */
+
+/**
+ * TODO:
+ * drag and drop, swapping cards around
+ * options on discarding/peek/swap/etc. between zones
+ * display counts (deck, climax, stock, waiting room)
+ * change the display on selected card (fix tail issue on selecting card from hand)
+ * manual refresh and refresh damage
+ * shuffle deck after search
+ * swap cards for clock/level zones
+ * 		DONE shift
+ * pay for stock from bottom/discard stock from top
+ * 
+ * ISSUES:
+ * leaving traces
+ * field does not refresh when a card is placed
+ */
+
+package Game;
+
+import java.awt.Color;
+import java.awt.Dimension;
+import java.awt.Font;
+import java.awt.Graphics;
+import java.awt.Graphics2D;
+import java.awt.Rectangle;
+import java.awt.event.MouseEvent;
+import java.awt.event.MouseListener;
+import java.awt.event.MouseMotionListener;
+import java.awt.font.FontRenderContext;
+import java.awt.font.LineBreakMeasurer;
+import java.awt.font.TextAttribute;
+import java.awt.font.TextLayout;
+import java.text.AttributedCharacterIterator;
+import java.text.AttributedString;
+import java.util.ArrayList;
+import java.util.Hashtable;
+
+import javax.swing.JPanel;
+
+import CardAssociation.CCode;
+import CardAssociation.Card;
+import CardAssociation.State;
+import CardAssociation.Type;
+import Field.*;
+
+public class Game extends JPanel implements MouseListener, MouseMotionListener {
+
+	/**
+	 * static variables
+	 */
+	private static final long serialVersionUID = -4141688861533493929L;
+	public static double gameScale = 0.6;
+	public static int translatedY = 0;
+	public static int maxWidth = 1600;
+	public static int maxHeight = 1000;
+	// public static Connector connect;
+
+	public Phase currPhase;
+	public NewMainField defendingField;
+	public NewMainField attackingField;
+	private int gameStatus = 0;
+	public Player player1;
+	public Player player2;
+	// public Player currentPlayer;
+	private int offsetX = 150;
+	private int offsetY = 20;
+	private boolean hasClocked = false;
+	private int gameID;
+
+	private boolean standAllCards = true;
+
+	// private ArrayList<BufferedImage> phaseImages;
+
+	// create a new game
+	public Game(Player p1, Player p2) {
+		setBackground(Color.white);
+		addMouseMotionListener(this);
+		addMouseListener(this);
+		player1 = p1;
+		player2 = p2;
+		// currentPlayer = p1;
+		// connect = new Connector("WeissSchwarz", 5000);
+	}
+
+	public Game(Player p1) {
+		setBackground(Color.white);
+		addMouseMotionListener(this);
+		addMouseListener(this);
+		player1 = p1;
+		player2 = p1;
+	}
+
+	public String getPlayersID() {
+		return player1.getPlayerID() + ":" + player2.getPlayerID();
+	}
+
+	// start the game
+	public void playGame() {
+		System.out.println("play game");
+		// player1.initField();
+		// player2.initField();
+
+		defendingField = player1.getField();
+		System.out.println("player 1 is " + player1.getPlayerID());
+		attackingField = player2.getField();
+		// phaseImages = playingField.getPhaseImages();
+
+		defendingField.getDeckZone().drawCard();
+		defendingField.getDeckZone().drawCard();
+		defendingField.getDeckZone().drawCard();
+		defendingField.getDeckZone().drawCard();
+		defendingField.getDeckZone().drawCard();
+
+		// attackingField.getDeckZone().drawCard();
+		// attackingField.getDeckZone().drawCard();
+		// attackingField.getDeckZone().drawCard();
+		// attackingField.getDeckZone().drawCard();
+		// attackingField.getDeckZone().drawCard();
+
+		// currPhase = currentPlayer.getCurrentPhase();
+		currPhase = player1.getCurrentPhase();
+		nextPhase();
+	}
+
+	public void testGame() {
+		System.out.println("test game");
+		defendingField = player1.getField();
+		attackingField = player1.getField();
+		// phaseImages = playingField.getPhaseImages();
+
+		defendingField.getDeckZone().drawCard();
+		defendingField.getDeckZone().drawCard();
+		defendingField.getDeckZone().drawCard();
+		defendingField.getDeckZone().drawCard();
+		defendingField.getDeckZone().drawCard();
+
+		player1.setCurrentPhase(Phase.DRAW_PHASE);
+		currPhase = player1.getCurrentPhase();
+
+		// System.out.println("testGame()");
+		nextPhase();
+		System.out.println("HUGE ERROR");
+	}
+
+	public void nextPhase() {
+
+		levelUp(null);
+		if (gameStatus == 1)
+			return;
+
+		repaint();
+
+		System.out.println(currPhase);
+
+		if (currPhase == Phase.STAND_PHASE) {
+			standPhase();
+
+			currPhase = Phase.DRAW_PHASE;
+			player1.setCurrentPhase(Phase.DRAW_PHASE);
+
+		} else if (currPhase == Phase.DRAW_PHASE) {
+			drawPhase();
+			currPhase = Phase.CLOCK_PHASE;
+			player1.setCurrentPhase(Phase.CLOCK_PHASE);
+
+		} else if (currPhase == Phase.CLOCK_PHASE) {
+			clockPhase();
+			currPhase = Phase.MAIN_PHASE;
+			player1.setCurrentPhase(Phase.MAIN_PHASE);
+
+		} else if (currPhase == Phase.MAIN_PHASE) {
+			mainPhase();
+			currPhase = Phase.CLIMAX_PHASE;
+			player1.setCurrentPhase(Phase.CLIMAX_PHASE);
+
+		} else if (currPhase == Phase.CLIMAX_PHASE) {
+			climaxPhase();
+			currPhase = Phase.ATTACK_PHASE;
+			player1.setCurrentPhase(Phase.ATTACK_PHASE);
+
+		} else if (currPhase == Phase.ATTACK_PHASE) {
+			attackPhase();
+			currPhase = Phase.END_PHASE;
+			player1.setCurrentPhase(Phase.END_PHASE);
+
+		} else if (currPhase == Phase.END_PHASE) {
+			endPhase();
+			currPhase = Phase.STAND_PHASE;
+			player2.setCurrentPhase(Phase.STAND_PHASE);
+		}
+	}
+
+	/**
+	 * Display the card information on the right TODO: need fixing
+	 * 
+	 * @param g
+	 */
+	private void paintWords(Graphics g) {
+		Card selectedCard = player1.getHand().getSelected();
+		if (selectedCard == null)
+			selectedCard = defendingField.getSelected();
+
+		if (selectedCard != null) {
+			// initialize repaint
+			Graphics2D g2d = (Graphics2D) g;
+
+			g2d.setPaint(Color.cyan);
+			g2d.fillRect(0, 0, (int) ((maxWidth) * gameScale),
+					(int) ((maxHeight) * gameScale));
+
+			int flew = maxWidth;
+
+			if (selectedCard.getC() == CCode.RED)
+				g2d.setPaint(Color.RED);
+			else if (selectedCard.getC() == CCode.BLUE)
+				g2d.setPaint(Color.CYAN);
+			else if (selectedCard.getC() == CCode.YELLOW)
+				g2d.setPaint(Color.YELLOW);
+			else if (selectedCard.getC() == CCode.GREEN)
+				g2d.setPaint(Color.GREEN);
+
+			g2d.fillRect((int) (0 * gameScale), 0,
+					(int) ((maxWidth) * gameScale),
+					(int) ((maxHeight) * gameScale));
+			g2d.setPaint(Color.BLACK);
+
+			final Hashtable<TextAttribute, Object> map = new Hashtable<TextAttribute, Object>();
+			map.put(TextAttribute.SIZE, new Float(12));
+
+			// paint card
+			selectedCard.setDisplay(true, false);
+			selectedCard.toCanvas().setLocation((int) (1255 * gameScale),
+					(int) (50 * gameScale));
+			selectedCard.toCanvas().paint(g);
+
+			// write level/cost/soul values
+			String str = "level: " + selectedCard.getLevel() + " cost: "
+					+ selectedCard.getCost() + " soul: "
+					+ selectedCard.getSoul() + " power: "
+					+ selectedCard.getPower();
+
+			AttributedString effects = new AttributedString(str, map);
+			LineBreakMeasurer effectMeasurer = null;
+
+			float breakWidth = (float) ((flew) * gameScale);
+			float drawPosY = 200;
+
+			int paragraphStart = 0;
+			int paragraphEnd = 0;
+
+			if (effectMeasurer == null) {
+				AttributedCharacterIterator paragraph = effects.getIterator();
+				paragraphStart = paragraph.getBeginIndex();
+				paragraphEnd = paragraph.getEndIndex();
+				FontRenderContext frc = g2d.getFontRenderContext();
+				effectMeasurer = new LineBreakMeasurer(paragraph, frc);
+			}
+
+			effectMeasurer.setPosition(paragraphStart);
+			while (effectMeasurer.getPosition() < paragraphEnd) {
+
+				TextLayout layout = effectMeasurer.nextLayout(breakWidth);
+
+				float drawPosX = (float) (layout.isLeftToRight() ? 1210 * gameScale
+						: breakWidth - layout.getAdvance());
+
+				drawPosY += layout.getAscent();
+
+				layout.draw(g2d, drawPosX, drawPosY);
+
+				drawPosY += layout.getDescent() + layout.getLeading();
+			}
+
+			// write effect
+			str = selectedCard.getEffects();
+			effects = new AttributedString(str, map);
+			effectMeasurer = null;
+
+			if (effectMeasurer == null) {
+				AttributedCharacterIterator paragraph = effects.getIterator();
+				paragraphStart = paragraph.getBeginIndex();
+				paragraphEnd = paragraph.getEndIndex();
+				FontRenderContext frc = g2d.getFontRenderContext();
+				effectMeasurer = new LineBreakMeasurer(paragraph, frc);
+			}
+
+			effectMeasurer.setPosition(paragraphStart);
+			while (effectMeasurer.getPosition() < paragraphEnd) {
+
+				TextLayout layout = effectMeasurer.nextLayout(breakWidth);
+
+				float drawPosX = (float) (layout.isLeftToRight() ? 1200 * gameScale
+						: breakWidth - layout.getAdvance());
+
+				drawPosY += layout.getAscent();
+
+				layout.draw(g2d, drawPosX, drawPosY);
+
+				drawPosY += layout.getDescent() + layout.getLeading();
+			}
+		}
+	}
+
+	public void paint(Graphics g) {
+		Graphics2D g2 = (Graphics2D) g;
+		paintWords(g);
+		g2.setColor(Color.pink);
+		g2.setBackground(Color.pink);
+		Font original = g2.getFont();
+		g2.setFont(new Font("Arial", Font.BOLD, (int) (22 * gameScale)));
+
+		player1.getHand().paint(g2);
+
+		attackingField.paint(g);
+
+		// initialize nextRect
+		int initialX, initialY;
+		initialX = 50; // placeholder
+		initialY = 700; // placeholder
+
+		int i = 0;
+
+		for (Phase phase : Phase.values()) {
+			if (currPhase == phase) {
+				g2.setColor(Color.RED);
+				g2.drawString(phase.toString(),
+						(int) ((initialX + i * offsetX) * (gameScale)),
+						(int) ((initialY) * (gameScale) + translatedY));
+				g2.setColor(Color.BLUE);
+			} else {
+				g2.drawString(phase.toString(),
+						(int) ((initialX + i * offsetX) * (gameScale)),
+						(int) ((initialY) * (gameScale) + translatedY));
+			}
+			i++;
+		}
+
+		if (player1.getCurrentPhase() == Phase.STAND_PHASE) {
+			// g.drawImage(bound, initialX, initialY, null);
+			nextRect = new Rectangle(
+					(int) ((initialX + 1 * offsetX) * (gameScale)),
+					(int) ((initialY) * (gameScale) + translatedY),
+					(int) (offsetX * gameScale), (int) (offsetY * gameScale));
+		} else if (player1.getCurrentPhase() == Phase.DRAW_PHASE) {
+			// g.drawImage(bound, initialX + 1 * offset, initialY, null);
+			nextRect = new Rectangle(
+					(int) ((initialX + 2 * offsetX) * (gameScale)),
+					(int) ((initialY) * (gameScale) + translatedY),
+					(int) (offsetX * gameScale), (int) (offsetY * gameScale));
+		} else if (player1.getCurrentPhase() == Phase.CLOCK_PHASE) {
+			// g.drawImage(bound, initialX + 2 * offset, initialY, null);
+			nextRect = new Rectangle(
+					(int) ((initialX + 3 * offsetX) * (gameScale)),
+					(int) ((initialY) * (gameScale) + translatedY),
+					(int) (offsetX * gameScale), (int) (offsetY * gameScale));
+		} else if (player1.getCurrentPhase() == Phase.MAIN_PHASE) {
+			// g.drawImage(bound, initialX + 3 * offset, initialY, null);
+			nextRect = new Rectangle(
+					(int) ((initialX + 4 * offsetX) * (gameScale)),
+					(int) ((initialY) * (gameScale) + translatedY),
+					(int) (offsetX * gameScale), (int) (offsetY * gameScale));
+		} else if (player1.getCurrentPhase() == Phase.CLIMAX_PHASE) {
+			// g.drawImage(bound, initialX + 4 * offset, initialY, null);
+			nextRect = new Rectangle(
+					(int) ((initialX + 5 * offsetX) * (gameScale)),
+					(int) ((initialY) * (gameScale) + translatedY),
+					(int) (offsetX * gameScale), (int) (offsetY * gameScale));
+		} else if (player1.getCurrentPhase() == Phase.ATTACK_PHASE) {
+			// g.drawImage(bound, initialX + 5 * offset, initialY, null);
+			nextRect = new Rectangle(
+					(int) ((initialX + 6 * offsetX) * (gameScale)),
+					(int) ((initialY) * (gameScale) + translatedY),
+					(int) (offsetX * gameScale), (int) (offsetY * gameScale));
+		} else if (player1.getCurrentPhase() == Phase.END_PHASE) {
+			// g.drawImage(bound, initialX + 6 * offset, initialY, null);
+			nextRect = new Rectangle(
+					(int) ((initialX + 0 * offsetX) * (gameScale)),
+					(int) ((initialY) * (gameScale) + translatedY),
+					(int) (offsetX * gameScale), (int) (offsetY * gameScale));
+		}
+		if (nextRect != null) {
+			g.drawRect(nextRect.x, nextRect.y, nextRect.width, nextRect.height);
+		}
+		g2.setFont(original);
+
+		// player1.getHand().paint(g, 0, 0, null);
+	}
+
+	// representation of STAND PHASE
+	private void standPhase() {
+		if (standAllCards) {
+			// get all the cards in both front and back row
+			ArrayList<Card> temp = new ArrayList<Card>();
+			temp.add(defendingField.getFrontRow1().showCard());
+			temp.add(defendingField.getFrontRow2().showCard());
+			temp.add(defendingField.getFrontRow3().showCard());
+
+			temp.add(defendingField.getBackRow1().showCard());
+			temp.add(defendingField.getBackRow2().showCard());
+
+			// stand all rested character
+			for (Card c : temp) {
+				if (c != null && c.getCurrentState() == State.REST) {
+					c.setCurrentState(State.STAND);
+				}
+			}
+		}
+	}
+
+	// representation of DRAW PHASE
+	private void drawPhase() {
+		// draw card
+		defendingField.getDeckZone().drawCard();
+
+		hasClocked = false;
+	}
+
+	// representation of CLOCK PHASE
+	private void clockPhase() {
+		// TODO check for CLOCK action
+		Card c = defendingField.getSelected();
+
+		if (c != null && !hasClocked) {
+
+			// if clock has 7 or more, level up
+			levelUp(c);
+
+			// draw twice
+			defendingField.getDeckZone().drawCard();
+			defendingField.getDeckZone().drawCard();
+			hasClocked = true;
+		}
+	}
+
+	// representation of MAIN PHASE
+	private void mainPhase() {
+		// advance to next phase only when the player clicks on the next
+		// phase tag
+	}
+
+	// representation of CLIMAX PHASE
+	private void climaxPhase() {
+		Card c = defendingField.getSelected();
+
+		if (c != null && c.getT() == Type.CLIMAX) {
+			defendingField.getClimaxZone().setCard(c);
+		}
+	}
+
+	// representation of ATTACK PHASE
+	private void attackPhase() {
+		// TODO fill in ATTACK PHASE
+
+		// advance to next phase only when the player clicks on the next
+		// phase tag
+	}
+
+	// representation of END PHASE
+	private void endPhase() {
+		// removing climax card from climax zone into waiting room
+		Card climaxCard = defendingField.getClimaxZone().showCard();
+		if (climaxCard != null) {
+			defendingField.getClimaxZone().removeCard();
+			defendingField.getWaitingRoom().setCard(climaxCard);
+		}
+	}
+
+	private void levelUp(Card c) {
+		if (c != null) {
+			defendingField.getClockZone().setCard(c);
+		}
+
+		if (defendingField.getClockZone().getDamage() >= 7) {
+			Card card = null;
+			do {
+				card = defendingField.getClockZone().getSelected();
+			} while (card == null);
+			defendingField.getLevelZone().setCard(card);
+		}
+
+		if (defendingField.getLevelZone().currentLevel() == 4
+				|| attackingField.getLevelZone().currentLevel() == 4) {
+			gameStatus = 1;
+		}
+	}
+
+	Rectangle nextRect;
+
+	/**
+	 * MainPhase : character swapping field field left click playing character
+	 * hand field right click startup effects event activation hand resolution
+	 * right click ClimaxPhase : climax activation hand field AttackPhase :
+	 * tapping character field field right click : auto effects : counter hand
+	 * field right click
+	 */
+	@Override
+	public void mouseClicked(MouseEvent e) {
+		System.out.println("game click: " + e.getX() + ", " + e.getY());
+		if (gameStatus == 2) {
+		} else {
+			if (nextRect != null && nextRect.contains(e.getX(), e.getY())) {
+				nextPhase();
+			} else {
+				// currentPlayer.getHand().mouseClicked(e);
+				player1.getHand().mouseClicked(e);
+				defendingField.mouseClicked(e);
+
+				if (// currentPlayer.getCurrentPhase() == Phase.CLOCK_PHASE
+				player1.getCurrentPhase() == Phase.CLOCK_PHASE
+						&& e.getButton() == MouseEvent.BUTTON3) {
+					if (!hasClocked)
+						nextPhase();
+				}
+			}
+		}
+		repaint();
+		defendingField.repaint();
+
+	}
+
+	public void mouseEntered(MouseEvent e) {
+		defendingField.mouseEntered(e);
+	}
+
+	public void mouseExited(MouseEvent e) {
+		defendingField.mouseExited(e);
+	}
+
+	public void mousePressed(MouseEvent e) {
+		// System.out.println("game press " + e.getX() + ", " + e.getY());
+		// defendingField.mousePressed(e);
+		// currentPlayer.getHand().mousePressed(e);
+		// player1.getHand().mousePressed(e);
+		repaint();
+	}
+
+	public void mouseReleased(MouseEvent e) {
+		defendingField.mouseReleased(e);
+		// currentPlayer.getHand().mouseReleased(e);
+		player1.getHand().mouseReleased(e);
+		repaint();
+		// update();
+	}
+
+	public void mouseDragged(MouseEvent e) {
+		System.out.println("game drag " + e.getX() + ", " + e.getY());
+		defendingField.mouseDragged(e);
+		// player1.getField().mouseDragged(e);
+		repaint();
+	}
+
+	public void mouseMoved(MouseEvent e) {
+		defendingField.mouseMoved(e);
+	}
+
+	public Dimension getPreferredSize() {
+		return new Dimension((int) (maxWidth * gameScale),
+				(int) (maxHeight * gameScale));
+	}
+
+	// assign the game a game instance id
+	public void setGameID(int x) {
+		gameID = x;
+	}
+
+	// get the game instance id
+	public int getGameID() {
+		return gameID;
+	}
+}

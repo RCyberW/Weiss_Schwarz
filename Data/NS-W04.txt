@@ -1,0 +1,2836 @@
+キャロ・ル・ルシエCaro Ru Rushe
+NS/W04-001S SR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+【A】When this card attacks, choose 1 of your 「エリオ・モンディアル」 on Stage, return it to Hand.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】 このカードがアタックした時、あなたは自分の舞台にいる「エリオ・モンディアル」を1枚選び、手札に戻す。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+若き槍騎士に駆け抜ける力を！
+
+==========================
+
+キャロ・ル・ルシエCaro Ru Rushe
+NS/W04-001 RR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+【A】When this card attacks, choose 1 of your 「エリオ・モンディアル」 on Stage, return it to Hand.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】 このカードがアタックした時、あなたは自分の舞台にいる「エリオ・モンディアル」を1枚選び、手札に戻す。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+若き槍騎士に駆け抜ける力を！
+
+==========================
+
+“真ソニックフォーム”フェイト“True Sonic Form” Fate
+NS/W04-002S SR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【A】［②］When this card attacks, if 「迷いが晴れた時」 is in the Climax slot, you may pay the cost. If you did, choose 1 of opponent's Character with Level 2 or below, place it into Stock.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】［②］ このカードがアタックした時、クライマックス置場に「迷いが晴れた時」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以下のキャラを1枚選び、ストック置場に置く。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+Overdrive......True......Sonic Form.....
+オーバードライブ……真……ソニックフォーム……
+
+==========================
+
+“真ソニックフォーム”フェイト“True Sonic Form” Fate
+NS/W04-002 RR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【A】［②］When this card attacks, if 「迷いが晴れた時」 is in the Climax slot, you may pay the cost. If you did, choose 1 of opponent's Character with Level 2 or below, place it into Stock.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】［②］ このカードがアタックした時、クライマックス置場に「迷いが晴れた時」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以下のキャラを1枚選び、ストック置場に置く。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+Overdrive......True......Sonic Form.....
+オーバードライブ……真……ソニックフォーム……
+
+==========================
+
+槍騎士見習いエリオApprentice Lancer Erio
+NS/W04-003 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【A】［②］When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《竜》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【自】［②］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《竜》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+一閃必中！
+
+==========================
+
+竜召喚士キャロDragon Summoner Caro
+NS/W04-004 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+【A】 BOND／「エリオ＆キャロ」［①］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「エリオ＆キャロ」 from your Waiting Room, return to Hand)
+【S】［REST this card］Choose 1 of your Characters with 「エリオ」 in its name, during this turn, it gets +500 Power.
+【自】 絆／「エリオ＆キャロ」 ［①］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「エリオ＆キャロ」を1枚選び、手札に戻す）
+【起】［このカードを【レスト】する］ あなたは自分のカード名に「エリオ」を含むキャラを1枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+I want to protect those those who have given my smiles back to my with my own power!
+わたしに笑いかけてくれる人たちを……自分の力で……守りたいっ！
+
+==========================
+
+キャロ＆フリードリヒCaro and Friedrich
+NS/W04-005 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+【C】 CONCENTRATE［①］Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, during this turn, this card gets +1000 Power, +1 Soul.
+【起】 集中 ［①］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、そのターン中、このカードのパワーを＋1000し、ソウルを＋1。
+Flavor Text:
+Friedrich......! Blast Ray!
+フリード……！ブラストレイッ！
+
+==========================
+
+なのは＆フェイトNanoha and Fate
+NS/W04-006S RRR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【C】 During your turn, all your other Characters get +X Power. X is equal to that Character's Level ×500.
+【S】［② REST this card］ Search your Deck for up to 1 《魔法》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。
+【起】［② このカードを【レスト】する］ あなたは自分の山札を見て《魔法》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+Nanoha 「That's why, you must come back today too」
+なのは「だから、今日もちゃんと帰ってくる」
+
+==========================
+
+なのは＆フェイトNanoha and Fate
+NS/W04-006 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【C】 During your turn, all your other Characters get +X Power. X is equal to that Character's Level ×500.
+【S】［② REST this card］ Search your Deck for up to 1 《魔法》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。
+【起】［② このカードを【レスト】する］ あなたは自分の山札を見て《魔法》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+We'll help them...... both of us...... for sure......!
+助けよう……二人で……きっと……！
+
+==========================
+
+使い魔アルフ Familiar Arf
+NS/W04-007 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Familiar 使い魔
+Card Text/Abilities:
+【C】All your other Characters with 「フェイト」 in its name get +500 Power.
+【C】During your turn, all your other Characters get +500 Power.
+【永】 他のあなたのカード名に「フェイト」を含むキャラすべてに、パワーを＋500。
+【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+Because I'm a familiar of the Harlaown family, looking after the kids are fun.
+ハラオウン家の使い魔だからな、チビ達の世話楽しいし
+
+==========================
+
+エリオ・モンディアルErio Mondial
+NS/W04-008 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【S】● ASSIST 2000 Level 1［① Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +2000 Power.)
+【起】【カウンター】 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ （あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋2000）
+Flavor Text:
+Lets go, Strada!
+行くよ、ストラーダっ！
+
+==========================
+
+金の閃光フェイトFlash of Gold Fate
+NS/W04-009 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【C】SUPPORT All your 《魔法》 Characters in front of this card gets +1 Level, +500 Power.
+【S】［① REST this card］Choose 1 of your 《魔法》 Characters, during this turn, it gets +1 Soul.
+【永】 応援 このカードの前のあなたの《魔法》のキャラすべてに、レベルを＋1し、パワーを＋500。
+【起】［① このカードを【レスト】する］ あなたは自分の《魔法》のキャラを1枚選び、そのターン中、ソウルを＋1。
+Flavor Text:
+Let's go, Bardiche!
+いくよ、バルディッシュ！
+
+==========================
+
+烈火の将シグナムCommander of Raging Fire Signum
+NS/W04-010 U
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Magic 魔法,_Unison ユニゾン
+Card Text/Abilities:
+【C】When you have another 「エリオ＆キャロ」 and 「金の閃光フェイト」, all your Characters gain the following ability.『【C】This card cannot be chosen by your opponent's effects.』
+【A】［②］When this card attacks, if 「火龍・一閃！！」 is in the Climax slot, you may pay the cost. If you did, choose 1 of your opponent's Characters with Level 2 or less, place it into Stock.
+【永】 他のあなたの、「エリオ＆キャロ」と「金の閃光フェイト」がいるなら、あなたのキャラすべてに、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』
+【自】［②］ このカードがアタックした時、クライマックス置場に「火龍・一閃！！」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以下のキャラを1枚選び、ストック置場に置く。
+Flavor Text:
+Unison with you...is mysterious and warms the heart
+おまえとの融合は……不思議と心が温かい
+
+==========================
+
+キャロ＆ヴォルテールCaro and Voltaire
+NS/W04-011 U
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.
+【A】［④］When 「龍騎招来」 is placed into your Climax slot, if you have no other Characters, you may pay the cost. If you did, place all your opponent's Characters into Stock.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】［④］ あなたのクライマックス置場に「龍騎招来」が置かれた時、他のあなたのキャラがいないなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラすべてを、ストック置場に置く。
+Flavor Text:
+Come to my aid, Black Fire Guardian of the Earth
+我がもとに来よ、黒き炎の大地の守護者
+
+==========================
+
+二児の母エイミィMother of Twins Amy
+NS/W04-012 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【A】［① Place 1 《魔法》 Character from Hand into Waiting Room］When this card is placed into Waiting Room from Hand, you may pay the cost. If you did, choose 1 Character with Level 0 or less from your Waiting Room, place it into any slot in your Back Row.
+【自】［① 手札の《魔法》のキャラを1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル0以下のキャラを1枚選び、後列の好きな枠に置く。
+Flavor Text:
+Currently, I'm the mother of twins...... and
+現在、二人の子供の母……と
+
+==========================
+
+フェイト＆アルフFate and Arf
+NS/W04-013 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Familiar 使い魔
+Card Text/Abilities:
+Flavor Text:
+Fate: 「You seem to be in high spirits」
+Arf: 「Yeah!」
+フェイト「元気そうだね」
+アルフ「元気！」
+
+==========================
+
+副隊長シグナムVice-Commander Signum
+NS/W04-014 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【C】During your turn, this card gets +1000 Power.
+【永】 あなたのターン中、このカードのパワーを＋1000。
+Flavor Text:
+We Protector Knights...together with you
+我ら守護騎士……あなたとともに
+
+==========================
+
+総務統括官リンディDirector of the General Affairs Bureau Lindy
+NS/W04-015 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +500 Power.
+【S】［REST this card］Choose 1 「なのは＆フェイト」, during this turn, it gets +2500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】［このカードを【レスト】する］ あなたは自分の「なのは＆フェイト」を1枚選び、そのターン中、パワーを＋2500。
+Flavor Text:
+娘が母親に連絡するのに、急にも何もないじゃない
+
+==========================
+
+クラウディア艦長クロノCaptain of the Claudia Chrono
+NS/W04-016 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【C】 ALARM If this card is at the top of your Clock, all your Characters with Level 2 or more get +1 Soul.
+【永】 アラーム このカードがクロックの1番上にあるなら、あなたのレベル2以上のキャラすべてに、ソウルを＋1。
+Flavor Text:
+Welcome to the Claudia
+ようこそ、クラウディアへ
+
+==========================
+
+シグナム＆リイン Signum and Rein
+NS/W04-017 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Magic 魔法,_Unison ユニゾン
+Card Text/Abilities:
+Flavor Text:
+Signum 「...... let's go」
+シグナム「……行きます」
+
+==========================
+
+エリオ＆キャロErio and Caro
+NS/W04-018 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+Flavor Text:
+きっかけひとつ……思いひとつで……変わっていけるんだ……！
+
+==========================
+
+早朝訓練Early Morning Training
+NS/W04-019 R
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 0
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+All your Characters, during this turn, get +1 Soul.
+あなたのキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+Mission Start!
+ミッションスタートッ！
+
+==========================
+
+Ｆの遺産Legacy of F
+NS/W04-020 U
+Type: Event
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Look at up to 3 cards from the top of your Deck, choose up to 1 Character with 「フェイト」 or 「エリオ」 in its name, show it to your opponent, add it to Hand. Place the remaining cards into Waiting Room.
+あなたは自分の山札を上から3枚まで見て、カード名に「フェイト」か「エリオ」を含むキャラを1枚まで選んで相手に見せ、手札に加える。残りのカードを控え室に置く。
+Flavor Text:
+But really...... these subjects are excellent......。
+それにしても……この案件はやはり素晴らしい……。
+
+==========================
+
+ちょっと一工夫してましてLooks like you need more training
+NS/W04-021 U
+Type: Event
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+● If you have no Characters in your Back Row, you cannot play this card from Hand. Choose 1 of your opponent's Back Row Characters with Level 0 or less, return it to Hand.
+【カウンター】 このカードは、あなたの後列にキャラがいないなら、手札からプレイできない。あなたは相手の後列のレベル0以下のキャラを1枚選び、手札に戻す。
+Flavor Text:
+Just like this
+こんな感じで
+
+==========================
+
+着地失敗Failed Landing
+NS/W04-022 C
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 0
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your 《武器》 Characters, during this turn, it gets +1000 Power, +1 Soul. Choose 1 of your 《竜》 Characters, during this turn, it gets +1000 Power, +1 Soul.
+あなたは自分の《武器》のキャラを1枚選び、そのターン中、パワーを＋1000し、ソウルを＋1。あなたは自分の《竜》のキャラを1枚選び、そのターン中、パワーを＋1000し、ソウルを＋1。
+Flavor Text:
+Thank you so much... you've really saved me...
+ありがとうございました……助かりました……
+
+==========================
+
+迷いが晴れた時When my doubts are cleared
+NS/W04-023 CR
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+All of that......is still me......
+それも全部……私なんだ……
+
+==========================
+
+龍騎招来Guardian Dragon Summoning
+NS/W04-024S SP
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1W
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return to Hand)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（戻＠：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）
+Flavor Text:
+Don't destroy...... the place that we belong to!
+わたしたちの居場所を……壊さないでェッッ！
+
+==========================
+
+龍騎招来Guardian Dragon Summoning
+NS/W04-024 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1W
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return to Hand)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（戻＠：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）
+Flavor Text:
+Don't destroy...... the place that we belong to!
+わたしたちの居場所を……壊さないでェッッ！
+
+==========================
+
+火龍・一閃Fire Dragon Flash!!
+NS/W04-025 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +3 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋3。
+Flavor Text:
+Signum　「Shall we do it, Agito... ...」
+Agito 「Yes! Signum!」
+シグナム「やれるか、アギト……」
+アギト「おう！シグナム！」
+
+==========================
+
+センターガード ティアナCenter Guard Teana
+NS/W04-026S SR
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【C】All your other 《魔法》 Characters get +500 Power.
+【A】When this card is placed on Stage from Hand, choose 1 「スバル」 from your Clock, you may return it to Hand. If you did, place 1 card from your Hand into Clock.
+【永】 他のあなたの《魔法》のキャラすべてに、パワーを＋500。
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロック置場のカード名に「スバル」を含むキャラを1枚選び、手札に戻してよい。そうしたら、あなたは自分の手札を1枚選び、クロック置場に置く。
+Flavor Text:
+Cross．Fire......! Shoot!!
+クロス・ファイア……！シュート――ッ！！
+
+==========================
+
+センターガード ティアナCenter Guard Teana
+NS/W04-026 RR
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【C】All your other 《魔法》 Characters get +500 Power.
+【A】When this card is placed on Stage from Hand, choose 1 「スバル」 from your Clock, you may return it to Hand. If you did, place 1 card from your Hand into Clock.
+【永】 他のあなたの《魔法》のキャラすべてに、パワーを＋500。
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロック置場のカード名に「スバル」を含むキャラを1枚選び、手札に戻してよい。そうしたら、あなたは自分の手札を1枚選び、クロック置場に置く。
+Flavor Text:
+Cross．Fire......! Shoot!!
+クロス・ファイア……！シュート――ッ！！
+
+==========================
+
+フロントアタッカー スバルFront Attacker Subaru
+NS/W04-027S SR
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Magic 魔法,_Mecha メカ
+Card Text/Abilities:
+【A】When this card attacks, if 「最後の模擬戦」 is in your Climax slot, place the top card of your Deck into Stock, all your Characters, during this turn, get +1000 Power.
+【自】 このカードがアタックした時、クライマックス置場に「最後の模擬戦」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、パワーを＋1000。
+Flavor Text:
+Revolver! SHOOT!!
+リボルバーッ！シュ――――トっ！！
+
+==========================
+
+フロントアタッカー スバルFront Attacker Subaru
+NS/W04-027 RR
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Magic 魔法,_Mecha メカ
+Card Text/Abilities:
+【A】When this card attacks, if 「最後の模擬戦」 is in your Climax slot, place the top card of your Deck into Stock, all your Characters, during this turn, get +1000 Power.
+【自】 このカードがアタックした時、クライマックス置場に「最後の模擬戦」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、パワーを＋1000。
+Flavor Text:
+Revolver! SHOOT!!
+リボルバーッ！シュ――――トっ！！
+
+==========================
+
+スバル・ナカジマ Subaru Nakajima
+NS/W04-028 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Mecha メカ
+Card Text/Abilities:
+【C】If you have another 「ティアナ・ランスター」, this card gets +1000 Power.
+【永】 他のあなたの「ティアナ・ランスター」がいるなら、このカードのパワーを＋1000。
+Flavor Text:
+Let's go!!
+いくぞォ――っ！！
+
+==========================
+
+ルーテシア・アルピーノLutecia Alpine
+NS/W04-029 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Magic 魔法,_Mecha メカ
+Card Text/Abilities:
+【A】［②］When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《メカ》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【自】［②］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《メカ》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+...... shall we go, Garyuu
+……行こうか、ガリュー
+
+==========================
+
+スカリエッティの秘書ウーノScaglietti's Secretary Uno
+NS/W04-030 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 3500
+Soul: 1
+Traits:: Mecha メカ,_Secretary 秘書
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card with 『【A】ENCORE［Place 1 Character from Hand into Waiting Room］』 get +1000 Power.
+【C】If you have another 「次元犯罪者スカリエッティ」 and 「幻惑の使い手クアットロ」, all your other 《メカ》 Characters gain 『【A】ENCORE［Place 1 Character from Hand into Waiting Room］』.
+【永】 応援 このカードの前のあなたの『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を持つキャラすべてに、パワーを＋1000。
+【永】 他のあなたの、「次元犯罪者スカリエッティ」と「幻惑の使い手クアットロ」がいるなら、他のあなたの《メカ》のキャラすべてに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』という能力を与える。
+Flavor Text:
+Magical levels...... increasing......?
+魔力値が……増大……？
+
+==========================
+
+ギンガ・ナカジマGinga Nakajima
+NS/W04-031 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Magic 魔法,_Mecha メカ
+Card Text/Abilities:
+【S】［REST 1 of your 《メカ》 Character］During this turn, this card gets +1000 Power.
+【起】［あなたの《メカ》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+Officer Ginga Nakajima from the 108th Battallion
+１０８部隊、ギンガ・ナカジマ陸曹です
+
+==========================
+
+ゲンヤ・ナカジマGenya Nakajima
+NS/W04-032 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【C】 ALARM If this card is at the top of your Clock, all your Characters get +500 Power.
+【永】 アラーム このカードがクロックの1番上にあるなら、あなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+Hurry up and go......your subordinates are waiting.
+さっさと行ってやんな……部下が待ってんだろ
+
+==========================
+
+刃舞う爆撃手チンクExploding Knives User Cinque
+NS/W04-033 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Mecha メカ,_Eyepatch 眼帯
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, you may place the top card of your Deck into Clock.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、クロック置場に置いてよい。
+Flavor Text:
+I'll restrain her down, leave to your big sis......
+あれは姉が抑える……
+
+==========================
+
+無限書庫司書長ユーノChief Librarian of the Infinite Library Yuuno
+NS/W04-034 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【S】［① REST this card］Choose 1 card from your Clock, return it to Hand. Place 1 card from your Hand, place it into Clock.
+【起】［① このカードを【レスト】する］ あなたは自分のクロックを1枚選び、手札に戻す。あなたは自分の手札を1枚選び、クロック置場に置く。
+Flavor Text:
+Ah...... thank you, good afternoon
+ああ……どうも、こんにちは
+
+==========================
+
+なのは＆スバルNanoha and Subaru
+NS/W04-035 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Magic 魔法,_Mecha メカ
+Card Text/Abilities:
+【A】 BOND／「ギンガ・ナカジマ」［①］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「ギンガ・ナカジマ」 from your Waiting Room, return to Hand)
+【自】 絆／「ギンガ・ナカジマ」 ［①］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ギンガ・ナカジマ」を1枚選び、手札に戻す）
+Flavor Text:
+You've grown a lot, Subaru.
+Yes...... meeting you again, I'm very happy
+背伸びたね、スバル
+ん……また会えて、嬉しいよ
+
+==========================
+
+スバル＆ティアナSubaru and Teana
+NS/W04-036S RRR
+Type: Character
+Level: 3
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Magic 魔法,_Mecha メカ
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.
+【A】When 「助けに来ました！」 is placed into your Climax slot, choose 1 Character with Level 2 or less and with 「なのは」 in its name from your Clock, place it into any slot on Stage.
+【A】ENCORE［Place 1 Character from Hand into Waiting Room］
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】 あなたのクライマックス置場に「助けに来ました！」が置かれた時、あなたは自分のクロック置場のレベル2以下のカード名に「なのは」を含むキャラを1枚選び、舞台の好きな枠に置く。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］
+Flavor Text:
+Teana 「Subaru! Cross Shift A, let's do it!」
+ティアナ「スバル！　クロスシフトＡ、行くわよ！」
+
+==========================
+
+スバル＆ティアナSubaru and Teana
+NS/W04-036 U
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Magic 魔法,_Mecha メカ
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.
+【A】When 「助けに来ました！」 is placed into your Climax slot, choose 1 Character with Level 2 or less and with 「なのは」 in its name from your Clock, place it into any slot on Stage.
+【A】ENCORE［Place 1 Character from Hand into Waiting Room］
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】 あなたのクライマックス置場に「助けに来ました！」が置かれた時、あなたは自分のクロック置場のレベル2以下のカード名に「なのは」を含むキャラを1枚選び、舞台の好きな枠に置く。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］
+Flavor Text:
+With the both of us, we'll definitely be able to do it......
+２人でやれば、きっとできる……
+
+==========================
+
+メカニックマイスター マリエルMechanic Meister Mariel
+NS/W04-037 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Glasses メガネ,
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card get +500 Power.
+【S】［①］Choose 1 of your 《メカ》 Characters, during this turn, it gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】［①］ あなたは自分の《メカ》のキャラを１枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+気軽に声をかけてね
+
+==========================
+
+ティアナ・ランスターTeana Lanster
+NS/W04-038 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+I can't afford to stand still!
+あたしは、立ち止まるわけにはいかないんだ！
+
+==========================
+
+狙撃する砲撃手ディエチRear Support Artillery Bombardment Dieci
+NS/W04-039 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Mecha メカ,_Weapon 武器
+Card Text/Abilities:
+【S】CONCENTRATE［②］Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose 1 of your opponent's Front Row Characters, during this turn, it gets -4000 Power.
+【起】 集中 ［②］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－4000。
+Flavor Text:
+遮蔽物もないし、空気も済んでる……よく見える……
+
+==========================
+
+オットー＆ディードOtto and Deed
+NS/W04-040 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Mecha メカ,_Weapon 武器
+Card Text/Abilities:
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+Resistance...... is futile
+抵抗は……無意味だ
+
+==========================
+
+キャリバーズ スバル＆ギンガCalibers Subaru and Ginga
+NS/W04-041 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Magic 魔法,_Mecha メカ
+Card Text/Abilities:
+【A】 When this card attacks, if 「ディバインバスター」 is in the Climax slot, all your Characters, during this turn, get +1000 Power.
+【S】［①］Choose 1 of your  《メカ》 Characters, during this turn, it gets +1500 Power.
+【自】 このカードがアタックした時、クライマックス置場に「ディバインバスター」があるなら、あなたのキャラすべてに、そのターン中、パワーを＋1000。
+【起】［①］ あなたは自分の《メカ》のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+Ginga 「Subaru, can you finish it in one shot?」
+Subaru 「Of course!!」
+ギンガ「スバル、一撃で決められる？」
+スバル「決める！！」
+
+==========================
+
+ルーテシア&白天王Lutecia and Hakutenou
+NS/W04-042 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+Flavor Text:
+All of you...... don't understand......you have people who treat you dearly......
+あなた達には……わからない……優しくしてくれる人がいて……
+
+==========================
+
+ノーヴェ＆ウェンディNove and Wendi
+NS/W04-043 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Mecha メカ,_Shield 盾
+Card Text/Abilities:
+【S】● ASSIST 3000 Level 2［① Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)
+【起】 助太刀3000 レベル2 ［① 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）
+Flavor Text:
+ノーヴェ「幻術バカの、１つ覚えがッ！見えてんだよォォッ！」
+
+==========================
+
+ひとりぼっちはいやだ！I Hate Being Alone!
+NS/W04-044 R
+Type: Event
+Level: 2
+Color: Green
+Cost: 4
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+If you have 2 or more Characters, you cannot play this card from Hand. Choose 1 Character from your Clock with Level equal or less than your Level, place it into any slot on Stage.
+このカードは、あなたのキャラが2枚以上なら、手札からプレイできない。あなたは自分のクロック置場の自分のレベル以下のレベルのキャラを1枚選び、舞台の好きな枠に置く。
+Flavor Text:
+Being lonely....... I don't want it anymore......
+寂しいのは……もういやだ……
+
+==========================
+
+勝手にすれば？ Why don't you just buy it?
+NS/W04-045 U
+Type: Event
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose up to 2 of your Characters, during this turn, they get +3000 Power.
+あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋3000。
+Flavor Text:
+Tea and me are a team...... let's work hard together
+あたしとティアはコンビなんだから……一緒に頑張るの
+
+==========================
+
+ウィングロードWing Road
+NS/W04-046 U
+Type: Event
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+All your Characters, during this turn, gain the following ability.『【A】When this card's battling opponent becomes REVERSE, you may place the top card of your Deck into Stock』
+あなたは自分のキャラすべてに、そのターン中、次の能力を与える。『【自】 このカードとバトルしているキャラが【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい』
+Flavor Text:
+I've decided......! To become as strong as that person......
+決めたんだ……！あの人みたいに強くなるって……
+
+==========================
+
+『練習通りです』"Just as practiced"
+NS/W04-047 C
+Type: Event
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+● Choose 1 of your Characters, during this turn, it gets +2500 Power.
+【カウンター】 あなたのキャラを1枚選び、そのターン中、パワーを＋2500。
+Flavor Text:
+......hey...... Mach Caliber......?
+……え……マッハキャリバー……？
+
+==========================
+
+最後の模擬戦The final mock battle
+NS/W04-048 CR
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: S
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Bag：When this card is Triggered, you may place the top card of your Deck into Stock)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（溜＠：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい）
+Flavor Text:
+Ready...... Go!
+レディー……ゴーッ！
+
+==========================
+
+ディバインバスターDivine Buster
+NS/W04-049S SP
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +3 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、ソウルを＋3。
+Flavor Text:
+One hit.......one kill....!
+一撃……必倒……ッッ！
+
+==========================
+
+ディバインバスターDivine Buster
+NS/W04-049 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +3 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、ソウルを＋3。
+Flavor Text:
+One hit.......one kill....!
+一撃……必倒……ッッ！
+
+==========================
+
+助けに来ました！I've come to help!
+NS/W04-050 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+Sorry to have kept you waiting......!
+お待たせしました……っ！
+
+==========================
+
+ヴィヴィオVivio
+NS/W04-051S SR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Odd Eye オッドアイ,_Royal Family 王族
+Card Text/Abilities:
+【Continuous】 All your 「"Ace of Aces" Nanoha」 and 「"True Sonic Form" Fate」 characters in the Frontline +1000 Power.
+【永】 他のあなたの、「“エース・オブ・エース”なのは」と「“真ソニックフォーム”フェイト」すべてに、パワーを＋1000。
+Flavor Text:
+Mama
+ママー
+
+==========================
+
+ヴィヴィオVivio
+NS/W04-051 RR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Odd Eye オッドアイ,_Royal Family 王族
+Card Text/Abilities:
+【Continuous】 All your 「"Ace of Aces" Nanoha」 and 「"True Sonic Form" Fate」 characters in the Frontline +1000 Power.
+【永】 他のあなたの、「“エース・オブ・エース”なのは」と「“真ソニックフォーム”フェイト」すべてに、パワーを＋1000。
+Flavor Text:
+Mama
+ママー
+
+==========================
+
+“エース・オブ・エース”なのは“Ace of Aces” Nanoha
+NS/W04-052R RRR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【Auto】 [④] When this card attacks and the Climax 「Starlight Breaker」 is in play, you pay the cost. Deal X damage to your opponent where X is the number of Climax cards in your Waiting Room. (Damage Cancellation still applies)
+【自】［④］ このカードがアタックした時、クライマックス置場に「スターライトブレイカー」があるなら、あなたはコストを払ってよい。そうしたら、相手にＸダメージを与える。Ｘはあなたの控え室のクライマックスの枚数に等しい。（ダメージキャンセルは発生する）
+Flavor Text:
+......I'll save you......! At any place, anytime!
+･･････助けるよ･･････！いつだって、どんな時だって！
+
+==========================
+
+“エース・オブ・エース”なのは“Ace of Aces” Nanoha
+NS/W04-052 RR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【Auto】 [④] When this card attacks and the Climax 「Starlight Breaker」 is in play, you pay the cost. Deal X damage to your opponent where X is the number of Climax cards in your Waiting Room. (Damage Cancellation still applies)
+【自】［④］ このカードがアタックした時、クライマックス置場に「スターライトブレイカー」があるなら、あなたはコストを払ってよい。そうしたら、相手にＸダメージを与える。Ｘはあなたの控え室のクライマックスの枚数に等しい。（ダメージキャンセルは発生する）
+Flavor Text:
+StarS 1, Takamachi Nanoha! Taking off!
+スターズ１、高町なのは！いきまーすっ！
+
+==========================
+
+高町 ヴィヴィオTakamachi Vivio
+NS/W04-053 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Odd Eye オッドアイ,_Royal Family 王族
+Card Text/Abilities:
+【Continuous】 All your Frontline Characters with 「Nanoha」　in their names, +500 Power.
+【Activate】 Concentrate [②] Flip over the top 4 cards of your Deck and put them in to the Waiting Room. For each Climax card revealed this way, choose one Character from your Waiting Room and put it in to your hand.
+【永】 他のあなたのカード名に「なのは」を含むキャラすべてに、パワーを＋500。
+【起】 集中 ［②］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。
+Flavor Text:
+Good morning~
+おはよー
+
+==========================
+
+幻惑の使い手クアットロIllusionist Quattro
+NS/W04-054 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 3500
+Soul: 1
+Traits:: Mecha メカ,_Glasses メガネ
+Card Text/Abilities:
+【Continuous】 Support All Characters in front of this card gain the ability 『【Auto】 [①] When this card is put in to 【Reverse】, if the level of card battling this character is less than the level of this card, you may pay the cost. Put the card in to 【Reverse】.』
+【Activate】 [①] Choose one of your Characters with 《Mecha》　trait. During this turn, the Character gains +1000 Power. Put the Character in to your Waiting Room when the turn ends.
+【永】 応援 このカードの前のあなたのキャラすべてに、次の能力を与える。『【自】［①］このカードが【リバース】した時、このカードとバトルしているキャラのレベルがこのカードのレベル以下なら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを【リバース】する。』
+【起】［①］ あなたは自分の《メカ》のキャラを1枚選び、そのターン中、パワーを＋1000。ターンの終わりに、そのキャラを控え室に置く。
+Flavor Text:
+With this even that little lady, should be easily used......
+これであのお嬢様も、大分扱いやすくなる……
+
+==========================
+
+次元犯罪者スカリエッティ Dimensional Criminal Scaglietti
+NS/W04-055 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Science 科学,
+Card Text/Abilities:
+【Continuous】 If your Frontline has a Character with 《Mecha》　trait, this card gains +500 Power.
+【Continuous】 If your Frontline has the card 「Scaglietti's Secretary Uno」, this card gains the following ability 『【Auto】 Encore [Put one Character card from hand to the Waiting Room]』
+【永】 他のあなたの《メカ》のキャラ1枚につき、このカードのパワーを＋500。
+【永】 他のあなたの「スカリエッティの秘書ウーノ」がいるなら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。
+Flavor Text:
+Yes...... it's finally time for me rise up......
+さあ……いよいよ復活の時だ……
+
+==========================
+
+鉄槌の騎士ヴィータKnight of Iron Hammer Vita
+NS/W04-056S SR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【Auto】[①] When this card attacks and the Climax 「Break through it!」 is in play, you may pay the cost. Deal one Damage to your opponent. (Damage Cancellation still applies)
+【Auto】 When this card is Reversed and the card battling this Character is Level 2 or below, Reverse the card as well.
+【自】［①］ このカードがアタックした時、クライマックス置場に「ぶち抜けー！」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）
+【自】 このカードがリバース＠した時、このカードとバトルしているキャラのレベルが2以下なら、あなたはそのキャラをリバース＠してよい。
+Flavor Text:
+Let's go, Eisen!
+いくぞ、アイゼン！
+
+==========================
+
+鉄槌の騎士ヴィータIron Hammer Knight Vita
+NS/W04-056 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【Auto】[①] When this card attacks and the Climax 「Break through it!」 is in play, you may pay the cost. Deal one Damage to your opponent. (Damage Cancellation still applies)
+【Auto】 When this card is Reversed and the card battling this Character is Level 2 or below, Reverse the card as well.
+【自】［①］ このカードがアタックした時、クライマックス置場に「ぶち抜けー！」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）
+【自】 このカードがリバース＠した時、このカードとバトルしているキャラのレベルが2以下なら、あなたはそのキャラをリバース＠してよい。
+Flavor Text:
+Let's go, Eisen!
+いくぞ、アイゼン！
+
+==========================
+
+戦闘教官ヴィータBattle Instructor Vita
+NS/W04-057 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【Auto】 When this card goes into 【Reverse】 and if this card battles a Character that is Level 0 or below, you may put that card in 【Reverse】.
+【自】 このカードが【リバース】した時、このカードとバトルしているキャラのレベルが0以下なら、あなたはそのキャラを【リバース】してよい。
+Flavor Text:
+That's because to smash and break through defences is my area of specialty.
+防御ごと潰す打撃は、あたしの専門分野だからな
+
+==========================
+
+烈火の剣精アギトFlaming Swords Spirit Agito
+NS/W04-058 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Unison ユニゾン
+Card Text/Abilities:
+【Auto】 Partner／「Zest Grangaitz」 [①](When this card comes into play, you can pay the cost to activate this ability, then search your Waiting Room for 1 「Zest Grangaitz」 card and add it to your hand.
+【Activate】[Put this card to 【Rest】 mode] Choose 1 Character card with 《Unison》. During this turn that card gains +1000 Power.
+【自】 絆／「ゼスト・グランガイツ」 ［①］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ゼスト・グランガイツ」を1枚選び、手札に戻す）
+【起】［このカードを【レスト】する］ あなたは自分の《ユニゾン》のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+I'll protect you, my master
+旦那のこと、守ってあげるよ
+
+==========================
+
+放浪の騎士ゼストWandering Knight Zest
+NS/W04-059 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【Activate】【Counter】 Assisting Blade 2000 Level 1 [① send this card from hand to Waiting Room] (In response to your opponent's Front Attack, choose one of your Character card. During this turn, that Character gains +2000 Power.
+【起】【カウンター】 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ （あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋2000）
+Flavor Text:
+Truly wanting to protect something...... just doing that.... how difficult it is to accomplish
+本当に守りたいものを守る……ただそれだけのことの……なんと難しいことか……
+
+==========================
+
+高町 なのはTakamachi Nanoha
+NS/W04-060 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【Continuous】 If your Frontline has 「Center Guard Teana」 and 「Calibers Subaru and Ginga」, this card gains +2000 Power.
+【永】 他のあなたの、「センターガード ティアナ」と「キャリバーズ スバル＆ギンガ」がいるなら、このカードのパワーを＋2000。
+Flavor Text:
+Let's go, Raising Heart!
+いくよ、レイジングハート！
+
+==========================
+
+聖王ヴィヴィオSaint King Vivio
+NS/W04-061 U
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,_Royal Family 王族
+Card Text/Abilities:
+【Continuous】 The Character facing this card -1 Soul.
+【Auto】 When this card is put in to 【Reverse】, if the card battling this Character is Level 2 or below, put that card in to 【Reverse】 as well.
+【永】 このカードの正面のキャラのソウルを－1。
+【自】 このカードが【リバース】した時、このカードとバトルしているキャラのレベルが2以下なら、あなたはそのキャラを【リバース】してよい。
+Flavor Text:
+Someone like you...... isn't my mama
+あんたなんか……ママじゃない
+
+==========================
+
+姿偽る諜報者ドゥーエInfiltration and Espionage expert Due
+NS/W04-062 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Mecha メカ,_Secretary 秘書
+Card Text/Abilities:
+【Auto】[②] When this card is played from your hand to the Stage, you may pay the cost. Search your Waiting Room for a Character with 《Mecha》 trait and put it in to your hand.
+【自】［②］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《メカ》のキャラを1枚選び、手札に戻す。
+Flavor Text:
+With this, your duties and vengence has ended
+これにて、あなたの役目も復讐も終わりです
+
+==========================
+
+潜行する密偵セインUnderground Spy Sein
+NS/W04-063 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Mecha メカ,
+Card Text/Abilities:
+【Auto】 [② Return this card to your hand.] If your Frontline has a Character put in to 【Reverse】 in battle, you may pay the cost. Return the Character in to your hand.
+【自】［② このカードを手札に戻す］ 他のあなたのバトルしているキャラが【リバース】した時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻す。
+Flavor Text:
+Sein, arrived!
+セインさん、到着ッ！
+
+==========================
+
+戦技教導官なのはChief Combat Technique Instructor Nanoha
+NS/W04-064 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+And now, with vigour, let's try our best!
+それじゃあ、元気に、頑張っていくよっ！
+
+==========================
+
+トーレ＆セッテTre and Sette
+NS/W04-065 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Mecha メカ,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+こちらにいらしたのは『帰還』ですか……？
+それとも『反逆』ですか……？
+
+==========================
+
+なのは＆ヴィヴィオNanoha and Vivio
+NS/W04-066 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Odd Eye オッドアイ
+Card Text/Abilities:
+【Auto】 When this card attacks, if the Climax 「Promise With Mama」 is in play, choose one card from your opponent's Waiting Room and put it to the top of their Deck.
+【自】 このカードがアタックした時、クライマックス置場に「ママと約束ね」があるなら、あなたは相手の控え室のカードを1枚選び、山札の上に置いてよい。
+Flavor Text:
+Nanoha 「Have you been a good girl?」
+Vivio 「... ... yes... ...」
+なのは「いい子にしてた？」
+ヴィヴィオ「……うん……」
+
+==========================
+
+なのは＆ヴィータNanoha and Vita
+NS/W04-067 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【Auto】 Encore [Put 1 Character card from your hand into the Waiting Room] (When this card is put to the Waiting Room from the Stage, you may pay the cost. Return the card in 【Rest】 position on it's previous Border.
+【Activate】【②】 Choose one of your opponent's Frontline Character that costs 0 or below and put it in to the Waiting Room.
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+【起】［②］ あなたは相手の前列のコスト0以下のキャラを1枚選び、控え室に置く。
+Flavor Text:
+I will definitely...... protect you
+おまえのことは……あたしが守ってやる
+
+==========================
+
+ゼスト・グランガイツZest Grangaitz
+NS/W04-068 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Magic 魔法,_Unison ユニゾン
+Card Text/Abilities:
+Flavor Text:
+若いな……だがいい騎士だ……
+
+==========================
+
+WAS ワイドエリアサーチ Wide Area Search
+NS/W04-069 R
+Type: Event
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose one of your opponent's Back Row Characters that is Level 2 or below and put it to the Waiting Room.
+あなたは相手の後列のレベル2以下のキャラを1枚選び、控え室に置く。
+Flavor Text:
+......found you......
+……見つけた……
+
+==========================
+
+シルバーカーテンSilver Curtain
+NS/W04-070 U
+Type: Event
+Level: 1
+Color: Red
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【Counter】 All your characters gain the following ability during this turn 『【Auto】 When this card battles and is put to 【Reverse】, if your hand is smaller than your opponent's hand, return this card your hand.』
+【カウンター】 あなたのキャラすべてに、そのターン中、次の能力を与える。『【自】 バトルしているこのカードが【リバース】した時、あなたの手札が相手の手札以下なら、このカードを手札に戻してよい。』
+Flavor Text:
+嘘と幻のイリュージョンで……回ってもらいましょ……♪……
+
+==========================
+
+ユニゾンインUnison!
+NS/W04-071 U
+Type: Event
+Level: 2
+Color: Red
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【Counter】 Choose one your Characters Level 2 or below, during this turn +1 Level and +2000 Power.
+【カウンター】 あなたは自分のレベル2以上のキャラを1枚選び、そのターン中、レベルを＋1し、 パワーを＋2000。
+Flavor Text:
+Vita 「Rein! Let's Unison!」
+ヴィータ「リイン！ユニゾン行くぞ！！」
+
+==========================
+
+ママ、いい子Mama, Good Girl
+NS/W04-072 C
+Type: Event
+Level: 1
+Color: Red
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose up to three Characters from the Waiting Room and add it to your hand, then choose 2 cards from your hand and put them to the Waiting Room.
+あなたは自分の控え室のキャラを3枚まで選び、手札に戻し、自分の手札を2枚選び、控え室に置く。
+Flavor Text:
+Mama...... Don't be so downhearted......
+ママ……しょんぼりしてたから……
+
+==========================
+
+スターライトブレイカーStarlight Breaker
+NS/W04-073S SP
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【Continuous】 All your Characters +2 Soul.
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+Full power...... full blast....
+全力……全開……ッ
+
+==========================
+
+スターライトブレイカー Starlight Breaker
+NS/W04-073 CR
+Type: Climax
+Level: N/A
+Color: Red
+Cost: N/A
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【Continuous】 All your Characters +2 Soul.
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+Full power...... full blast....
+全力……全開……ッ
+
+==========================
+
+ぶち抜けー！Break through it!
+NS/W04-074
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【Continuous】 All your Characters +1000 Power and +1 Soul.
+(Door@: When this card is revealed during your Trigger Phase, choose one Character from your Waiting Room and return it to your hand.)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（拾＠：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）
+Flavor Text:
+Zerstörungform......Hammer!!
+Aaaaaaaaaaaaaaaaaahhhhhhhhh.......!!
+ツェアシュテーレン……ハンマ――ッッ！！
+うおおおおおおおォ……っ！！
+
+==========================
+
+ママと約束ねPromise With Mama
+NS/W04-075 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【Auto】 When this card is played from your hand to the Climax slot, draw one card from your Deck. Choose one of your Characters, during this turn it gains +3 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、ソウルを＋3。
+Flavor Text:
+ヴィヴィオ「……ぜったい……？」
+なのは「ぜったいにぜったい」
+
+==========================
+
+“祝福の風”リインフォースＩＩ
+NS/W04-076S SR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Unison ユニゾン
+Card Text/Abilities:
+【Activate】[Put this card in to the 【Rest】 state] Put this card to Memory. Choose one Character with 《Unison》 that has a Level not higher than yours and　put it to the Border of this card.
+【起】［このカードを【レスト】する］ このカードを思い出にする。あなたは自分の手札の自分のレベル以下のレベルの《ユニゾン》のキャラを1枚選び、このカードがいた枠に置く。
+Flavor Text:
+Capture! Steel Binds
+捕えよ！凍てつく足枷
+
+==========================
+
+“祝福の風”リインフォースＩＩ"Blessed Wind" Reinforce II
+NS/W04-076 RR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Unison ユニゾン
+Card Text/Abilities:
+【Activate】[Put this card in to the 【Rest】 state] Put this card to Memory. Choose one Character with 《Unison》 that has a Level not higher than yours and　put it to the Border of this card.
+【起】［このカードを【レスト】する］ このカードを思い出にする。あなたは自分の手札の自分のレベル以下のレベルの《ユニゾン》のキャラを1枚選び、このカードがいた枠に置く。
+Flavor Text:
+Capture! Steel Binds
+捕えよ！凍てつく足枷
+
+==========================
+
+はやて＆リインHayate and Rein
+NS/W04-077S SR
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Magic 魔法,_Unison ユニゾン
+Card Text/Abilities:
+【Continuous】 If the cards 「Commander of Raging Fire Signum」, 「Iron Hammer Knight Vita」, 「Healing Wind Shamal」 and 「Shielding Guardian Beast Zafira」 is in play, the card facing this card loses -4 Souls. All your other Characters gain the ability 『【Auto】 Encore [①]』.
+【Auto】 When this card attacks and the Climax 「Things that can't be broken」 is in play, put the top card of your Clock to the Waiting Room.
+【永】 他のあなたの、「烈火の将シグナム」と「鉄槌の騎士ヴィータ」と「風の癒し手シャマル」と「猛き守護獣ザフィーラ」がいるなら、このカードの正面のキャラのソウルを－4し、あなたのキャラすべてに、『【自】 アンコール ［①］』を与える。
+【自】 このカードがアタックした時、クライマックス置場に「砕けないものなんて」があるなら、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+Flavor Text:
+Hayate 「Let's go, Rein......」
+Reinforce II 「Proceeding to shoot down targets!」
+はやて「いくよ、リイン……」
+リインフォースＩＩ「撃ち抜いて、進みますっ！」
+
+==========================
+
+はやて＆リインHayate and Rein
+NS/W04-077 RR
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Magic 魔法,_Unison ユニゾン
+Card Text/Abilities:
+【Continuous】 If the cards 「Commander of Raging Fire Signum」, 「Iron Hammer Knight Vita」, 「Healing Wind Shamal」 and 「Shielding Guardian Beast Zafira」 is in play, the card facing this card loses -4 Souls. All your other Characters gain the ability 『【Auto】 Encore [①]』.
+【Auto】 When this card attacks and the Climax 「Things that can't be broken」 is in play, put the top card of your Clock to the Waiting Room.
+【永】 他のあなたの、「烈火の将シグナム」と「鉄槌の騎士ヴィータ」と「風の癒し手シャマル」と「猛き守護獣ザフィーラ」がいるなら、このカードの正面のキャラのソウルを－4し、あなたのキャラすべてに、『【自】 アンコール ［①］』を与える。
+【自】 このカードがアタックした時、クライマックス置場に「砕けないものなんて」があるなら、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+Flavor Text:
+Hayate 「Let's go, Rein......」
+Reinforce II 「Proceeding to shoot down targets!」
+はやて「いくよ、リイン……」
+リインフォースＩＩ「撃ち抜いて、進みますっ！」
+
+==========================
+
+風の癒し手シャマルHealing Wind Shamal
+NS/W04-078 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【Continuous】 All your Characters on Stage with 「Hayate」　in their names, +500 Power.
+【Continuous】 During your opponent's turn, all your Characters on Stage +500 Power.
+【永】 他のあなたのカード名に「はやて」を含むキャラすべてに、パワーを＋500。
+【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+You can't run away from Klarer Wind's sensors......
+クラールヴィントのセンサーからは逃げられない……
+
+==========================
+
+カリム・グラシアCarim Gracia
+NS/W04-079 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_God 神
+Card Text/Abilities:
+【Auto】 When the Climax card 「Limiter Release」 is in play, all your cards with 「Nanoha」 or 「Fate」　or 「Hayate」 in their names, during this turn +1500 Power.
+【自】 あなたのクライマックス置場に「限定解除」が置かれた時、他のあなたのカード名に「フェイト」か「なのは」か「はやて」を含むキャラすべてに、そのターン中、パワーを＋1500。
+Flavor Text:
+Both of you, no need to be so formal
+お二人とも、そう硬くならないで
+
+==========================
+
+守護騎士シャマル＆守護獣ザフィーラGuardian Knight Shamal and Guardian Beast Zafira
+NS/W04-080 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 4500
+Soul: 1
+Traits:: Magic 魔法,_Familiar 使い魔
+Card Text/Abilities:
+【Continuous】 Support All the your Characters in front of this card gains +X Power, where X is the Character's Level x 500.
+【Activate】[② Put this card in to the 【Rest】 state] Put the top card of your Clock to the Waiting Room.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。
+【起】［② このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。
+Flavor Text:
+Zafira. We're chasing them. There's 3 units over there.
+ザフィーラ。追いこんだわ。そっちに３体
+
+==========================
+
+“最後の夜天の主”はやて
+NS/W04-081S RRR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【Continuous】 If the cards 「Guardian Knight Shamal and Guardian Beast Zafira」 and 「Carim Gracia」 is on the Stage, this card +2000 Power.
+【Auto】[①] When this card attacks and the Climax 「Hræsvelgr」 is in play, you may pay the cost. Remove the top card from your Clock and put it in to the Waiting Room.
+【永】 他のあなたの、「守護騎士シャマル＆守護獣ザフィーラ」と「カリム・グラシア」がいるなら、このカードのパワーを＋2000。
+【自】［①］ このカードがアタックした時、クライマックス置場に「フレースヴェルグ」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。
+Flavor Text:
+To the furthest lands...... sink in to darkness......Diabolic Emission!
+遠き地にて…闇に沈め……　ディアボリックエミッション！
+
+==========================
+
+“最後の夜天の主”はやて"Final Mistress of the Night Sky" Hayate
+NS/W04-081 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【Continuous】 If the cards 「Guardian Knight Shamal and Guardian Beast Zafira」 and 「Carim Gracia」 is on the Stage, this card +2000 Power.
+【Auto】[①] When this card attacks and the Climax 「Hræsvelgr」 is in play, you may pay the cost. Remove the top card from your Clock and put it in to the Waiting Room.
+【永】 他のあなたの、「守護騎士シャマル＆守護獣ザフィーラ」と「カリム・グラシア」がいるなら、このカードのパワーを＋2000。
+【自】［①］ このカードがアタックした時、クライマックス置場に「フレースヴェルグ」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。
+Flavor Text:
+Clearing the skies, leave that to me......
+空の掃除は、私がやるよ……
+
+==========================
+
+メカニックデザイナー シャリオMechanical Designer Shario
+NS/W04-082 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Glasses メガネ,
+Card Text/Abilities:
+【Continuous】 All your Characters with 《Mecha》 or 《Weapon》　on the Stage, +500 Power.
+【永】 他のあなたの、《武器》か《メカ》のキャラすべてに、パワーを＋500。
+Flavor Text:
+If you have anything to discuss about the devices, feel free to do so
+デバイスについて相談とかあったら、遠慮なく言ってね
+
+==========================
+
+通信士 アルト＆ルキノCommunications Officer Alto and Lucino
+NS/W04-083 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【Auto】[① Put one Character with 《Weapon》 trait from your hand to the Waiting Room] When this card is put in to play from your hand to the Stage, you may pay the cost. Search your Deck for one Character with 《Weapon》 trait, show it to your opponent and put it to your hand. Shuffle the Deck afterwards.
+【自】［① 手札の《武器》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《武器》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+ルキノ「給湯室でお茶入れて、一段落しよっか」
+
+==========================
+
+リインフォースＩＩ Reinforce II
+NS/W04-084 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Magic 魔法,_Unison ユニゾン
+Card Text/Abilities:
+【Auto】 Bonds／「"Final Mistress of the Night Sky" Hayate」[①] (When this card is played from your hand to the Stage, you may pay the cost. Search your Waiting Room for one 「"Final Mistress of the Night Sky" Hayate」 card and put it in to your hand.)
+【自】 絆／「“最後の夜天の主”はやて」 ［①］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“最後の夜天の主”はやて」を1枚選び、手札に戻す）
+Flavor Text:
+It's not good if you don't do it properly!
+ちゃんとしてないとダメですよ！
+
+==========================
+
+猛き守護獣ザフィーラShielding Guardian Beast Zafira
+NS/W04-085 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Magic 魔法,_Familiar 使い魔
+Card Text/Abilities:
+【Auto】[Put this card in to the Waiting Room] When your Frontline Character is put in to the Waiting Room from the Stage and this card is in the Back Row, you may pay the cost. Return the Character to its original Border in the 【Rest】 state.
+【自】［このカードを控え室に置く］ 他のあなたのキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く
+Flavor Text:
+There are things that I must do
+やらねばならぬことがある
+
+==========================
+
+ヴェロッサ＆シャッハVerossa and Schach
+NS/W04-086 U
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Magic 魔法,_Secretary 秘書
+Card Text/Abilities:
+Flavor Text:
+Investigation is Rossa's specialty
+探査はロッサの専門です
+
+==========================
+
+ラグナ・グランセニックLaguna Granscenic
+NS/W04-087 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【Activate】[①] Draw one card from the Deck, then choose one card from your hand and put it to the Waiting Room.
+【起】［①］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+Will we be able to talk together just like the past!?
+私達、また昔みたいに話せるかな！？
+
+==========================
+
+八神 はやてYagami Hayate
+NS/W04-088 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+Flavor Text:
+Let's go!
+いってみよか！
+
+==========================
+
+グリフィス・ロウランGriffith Lowran
+NS/W04-089 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Glasses メガネ,
+Card Text/Abilities:
+【Continuous】 Support Characters in front of this card +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+Beginning from the four fowards, Riot Force 6, all present
+フォワード四名をはじめ、機動六課部隊員、全員揃いました
+
+==========================
+
+狙撃手ヴァイスSniper Vice
+NS/W04-090 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【Activate】【Counter】 Assisting Blade 2000 Level 1[① Put this card from your hand to the Waiting Room](Choose one of your Character's under Front Attack, during this turn +2000 Power)
+【起】【カウンター】 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）
+Flavor Text:
+Making a route for my juniors...... is the least I can do.
+後輩の道を造ってやるくらいのことは……できらぁな
+
+==========================
+
+査察官ヴェロッサInvestigator Verossa
+NS/W04-091 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 1000
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【Continuous】 Alarm When this card is on the top of your Clock, all your Characters gain the following ability 『【Auto】 When this card battles and is put in to 【Rest】, draw one card from the Deck then choose one card from your hand and put it in to the Waiting Room.』
+【永】 アラーム このカードがクロックの1番上にあるなら、あなたのキャラすべてに、次の能力を与える。『【自】 このカードとバトルしているキャラが【リバース】した時、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。』
+Flavor Text:
+君の頭の中……ちょいと査察させてもらうよ……
+
+==========================
+
+シャッハ・ヌエラSchach Nouera
+NS/W04-092 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+切り裂け、ヴィンデルシャフト！
+
+==========================
+
+修道女シャッハSaint Church Nun Schach
+NS/W04-093 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【Auto】 Encore [Put a Character card from your hand to the Waiting Room] (If this card is put to the Waiting Room from the Stage, you may pay the cost. Return this card to its original Border on the Stage in the 【Rest】 state.)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+逃がさない……！烈風、一陣ッッ！
+
+==========================
+
+協力してくれへんかな？Will you help me out?
+NS/W04-094 R
+Type: Event
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Search your Deck for a Character with 《Magic》　trait, show it to your opponent and put it to your hand. Shuffle the Deck afterwards.
+あなたは自分の山札を見て《魔法》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+Hayate 「I...... really would like to establish my own unit」
+はやて「わたし……やっぱ、自分の部隊をもちたいんよ」
+
+==========================
+
+アルトの誓いAlto's Oath
+NS/W04-095 U
+Type: Event
+Level: 1
+Color: Blue
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【Counter】 Choose one Character, during this turn it gains the ability 『【Auto】 When this card is put in to the Waiting Room from the Stage, draw two cards from the Deck.』
+【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードが舞台から控え室に置かれた時、あなたは2枚引いてよい。』
+Flavor Text:
+The duty of transporting everyone...... I shall take that on!
+みんなを運ぶ仕事は……私が引き継ぎます！
+
+==========================
+
+守るべきものThe thing worth protecting
+NS/W04-096 U
+Type: Event
+Level: 2
+Color: Blue
+Cost: 4
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose up to three cards from your Clock and put them in to the Waiting Room. Put this card in to Memory.
+あなたは自分のクロックを3枚まで選び、控え室に置く。このカードを思い出にする。
+Flavor Text:
+Zest: 「The justice that we both championed togher...... what has happened to it......」
+ゼスト「共に語り合った、俺とお前の正義は……
+今は、どうなっている……」
+
+==========================
+
+預言者の著書Book of the Prophet
+NS/W04-097 C
+Type: Event
+Level: 2
+Color: Blue
+Cost: 2
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Draw one card from the Deck. Choose one card from your Clock and put in to the Waiting Room.
+あなたは1枚引き、自分のクロックを1枚選び、控え室に置く。このカードを思い出にする。
+Flavor Text:
+私の能力……プロフェーティン・シュリフテン
+
+==========================
+
+フレースヴェルグHræsvelgr
+NS/W04-098S SP
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【Continuous】 All your Characters gain +1000 Power and +1 Soul
+(Draw＠: When this card is revealed during your Trigger Phase, you may draw one card from your Deck)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（引＠：このカードがトリガーした時、あなたは1枚引いてよい）
+Flavor Text:
+Alright...... first up, let's do it!!
+おし……第一波、いくよ――っ！！
+
+==========================
+
+フレースヴェルグHræsvelgr
+NS/W04-098 CR
+Type: Climax
+Level: N/A
+Color: Blue
+Cost: N/A
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【Continuous】 All your Characters gain +1000 Power and +1 Soul
+(Draw＠: When this card is revealed during your Trigger Phase, you may draw one card from your Deck)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（引＠：このカードがトリガーした時、あなたは1枚引いてよい）
+Flavor Text:
+Alright...... first up, let's do it!!
+おし……第一波、いくよ――っ！！
+
+==========================
+
+砕けないものなんてThings that can't be broken
+NS/W04-099 CC
+Type: Climax
+Level: N/A
+Color: Blue
+Cost: N/A
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【Continuous】 All your Characters gain +2 Soul.
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+There's nothing that you should be apologizing for......
+謝ることなんて……なんもあらへん
+
+==========================
+
+限定解除Limiter Release
+NS/W04-100 CC
+Type: Climax
+Level: N/A
+Color: Blue
+Cost: N/A
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【Auto】 When this card is played from your Hand to the Climax slot, draw one card from the Deck. Choose one Character, during this turn it gains +3 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、ソウルを＋3。
+Flavor Text:
+機動六課隊長、副隊長一同……能力限定、完全解除……
+Riot Force 6 Captain, Vice-Captains......Power Limiters, total release......
+
+==========================
+
+なのは＆フェイト＆はやてNanoha & Fate & Hayate
+NS/W04-101S TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【Continuous】 When this card is in battle, your opponent cannot play an Event card.
+【永】 このカードのバトル中、相手はイベントを手札からプレイできない。
+Flavor Text:
+Friends, i would think that this is what it's called.
+友達って、そういうもんだと思うよ
+
+==========================
+
+なのは＆フェイト＆はやてNanoha & Fate & Hayate
+NS/W04-101 TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【Continuous】 When this card is in battle, your opponent cannot play an Event card.
+【永】 このカードのバトル中、相手はイベントを手札からプレイできない。
+Flavor Text:
+Friends, i would think that this is what it's called.
+友達って、そういうもんだと思うよ
+
+==========================
+
+二人のママ The Two Mamas
+NS/W04-102S TD
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【Continuous】 When there are other cards with 「Vivio」 in name in your control, this card gains +1500
+Power.
+【永】 他のあなたのカード名に「ヴィヴィオ」を含むキャラがいるなら、このカードのパワーを＋1500。
+Flavor Text:
+Nanoha mama and... Fate mama....?
+なのはママと……フェイトママ……？
+
+==========================
+
+二人のママ The Two Mamas
+NS/W04-102 TD
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【Continuous】 When there are other cards with 「Vivio」 in name in your control, this card gains +1500
+Power.
+【永】 他のあなたのカード名に「ヴィヴィオ」を含むキャラがいるなら、このカードのパワーを＋1500。
+Flavor Text:
+Nanoha mama and... Fate mama....?
+なのはママと……フェイトママ……？
+
+==========================
+
+八神家の一員 Members of the Yagami Household
+NS/W04-103 PR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+【C】 All your 《本》 Characters get +500 Power.
+【永】他のあなたの《本》のキャラすべてに、パワー+500。
+Flavor Text:
+Vita「Because there are things I want to protect...... that is why I fight!」
+ヴィータ「守らなきゃならねえもんがある……だから戦うんだ！」
+
+==========================
+
+空を舞うなのは＆フェイトSoaring in the Sky Nanoha & Fate
+NS/W04-104 PR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【S】● ASSIST 3000 Level 2［① Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)
+【起】● 助太刀3000 レベル2 [①手札のこのカードを控え室に置く]（あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを+3000）
+Flavor Text:
+Nanoha, leave this to me.
+なのは、こっちは私にまかせて。
+
+==========================
+
+高町一等空尉 First Air Lieutenant Takamachi
+NS/W04-105 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Dress ドレス
+Card Text/Abilities:
+Flavor Text:
+We'll be patrolling the inside of the building......
+私達は建物の中の警備に回るから……
+
+==========================
+
+フェイト・T・ハラオウン執務官 Officer Fate T. Harlaown
+NS/W04-106 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Dress ドレス
+Card Text/Abilities:
+【A】 [②] Choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【起】[②] あなたは自分のキャラを1枚選び、そのターン中、パワーを+2000し、ソウルを+1。
+Flavor Text:
+私にとっては……いろんなことの、はじまりのきっかけでもあったから……
+
+==========================
+
+八神機動六課部隊長 Riot 6 Commander Hayate
+NS/W04-107 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Dress ドレス
+Card Text/Abilities:
+【A】［②］When this card is placed on Stage from Hand, you may pay the cost. If you did, place the top card of your Clock into Waiting Room.
+【自】［②］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。 そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。
+Flavor Text:
+ま、どっちにしても、私達の出番は、ほんまの非常事態だけや
+
+==========================
+
+空戦魔導師 高町なのは25歳 Aerial Mage Takamachi Nanoha 25 years old
+NS/W04-108 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【C】If you have another 「フェイト＆アルフ」 and 「八神 はやて」, this card gets +2000 Power.
+【永】他のあなたの、「フェイト＆アルフ」と「八神 はやて」がいるなら、このカードのパワーを+2000。
+Flavor Text:
+教えるよ。 力も技術も、私が全部！
+
+==========================
+
+高町一等空尉First Air Lieutenant Takamachi
+NS/W04-109P PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Dress ドレス
+Card Text/Abilities:
+Flavor Text:
+We'll be patrolling the inside of the building......
+私達は建物の中の警備に回るから……
+
+==========================
+
+使い魔アルフ Familiar Arf
+NS/W04-T01 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Familiar 使い魔,_Magic 魔法
+Card Text/Abilities:
+【Continuous】 All other characters you control with 「Fate」in their name gain +500 Power.
+【Continuous】 During your turn, all other characters you control gain +500 Power.
+【永】 他のあなたのカード名に「フェイト」を含むキャラすべてに、パワーを＋500。
+【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+Because I'm a familiar of the Harlaown family, looking after the kids are fun.
+ハラオウン家の使い魔だからな、
+チビ達の世話楽しいし
+
+==========================
+
+フェイト＆アルフ Fate & Arf
+NS/W04-T02 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Familiar 使い魔
+Card Text/Abilities:
+Flavor Text:
+Fate: "You seem to be in high spirits" Arf: "Yeah!"
+フェイト「元気そうだね」
+アルフ「元気！」
+
+==========================
+
+副隊長シグナム Vice-Commander Signum
+NS/W04-T03 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【Continuous】 During your turn, this character gains +1000 Power.
+【永】 あなたのターン中、このカードのパワーを＋1000。
+Flavor Text:
+We Protector Knights...together with you
+我ら守護騎士……あなたとともに
+
+==========================
+
+エリオ・モンディアル Erio Mondial
+NS/W04-T04 TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【Activate】【Counter】　Assisting Blade 2000 Level 1 [① send this card from hand to Waiting Room] (In response
+to your opponent's Front Attack, choose one of your Character card. During this turn, that Character gains
++2000 Power.
+【起】【カウンター】 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）
+Flavor Text:
+Lets go, Strada!
+行くよ、ストラーダっ！
+
+==========================
+
+金の閃光フェイト Flash of Gold Fate
+NS/W04-T05 TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【Passive】 Support: 《Magic》 characters in front of this card gain +1 Level and +500 Power.
+【Activate】[① Put this card to 【Rest】] One 《Magic》　character of your choice gains +1 soul for the turn.
+【永】 応援 このカードの前のあなたの《魔法》のキャラすべてに、レベルを＋1し、パワーを＋500。
+【起】［① このカードを【レスト】する］ あなたは自分の《魔法》のキャラを1枚選び、そのターン中、ソウルを＋1。
+Flavor Text:
+Let's go, Bardiche!
+いくよ、バルディッシュ！
+
+==========================
+
+エリオアンドキャロErio & Caro
+NS/W04-T06 TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+Flavor Text:
+With one motive...with one heart...we can change...!
+きっかけひとつ……思いひとつで……
+変わっていけるんだ……！
+
+==========================
+
+烈火の将シグナム Commander of Raging Fire Signum
+NS/W04-T07 TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Magic 魔法,_Unison ユニゾン
+Card Text/Abilities:
+【Passive】 If 「Flash of Gold Fate」 and 「Erio & Caro」 are in play,
+all of your characters gain the following ability. 『【Passive】 This card cannot be selected by any of your
+opponent's effects』.
+【Auto】【②】 When this card attacks, if 」「Fire Dragon Flash!!」 is in play, you may pay the cost　to activate this ability. If you do so, send one of your opponent's character card of Level 2　and below to their Stock.
+【永】 他のあなたの、「金の閃光 フェイト」と「エリオ＆キャロ」がいるなら、あなたのキャラすべてに、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』
+【自】［②］ このカードがアタックした時、クライマックス置場に「火龍・一閃！！」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以下のキャラを１枚選び、ストック置場に置く。
+Flavor Text:
+Unison with you...is mysterious and warms the heart
+おまえとの融合は……不思議と心が温かい
+
+==========================
+
+着地失敗 Failed Landing
+NS/W04-T08 TD
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose one of your 《Weapon》 Characters, during this turn, that card gains +1000 Power, +1 Soul. Choose one of your 《Dragon》 Characters, during this turn,　this card gains +1000 Power, +1 Soul.
+あなたは自分の《武器》のキャラを1枚選び、そのターン中、パワーを＋1000し、ソウルを＋1。あなたは自分の《竜》のキャラを1枚選び、そのターン中、パワーを＋1000し、ソウルを＋1。
+Flavor Text:
+Thank you so much... you've really saved me...
+ありがとうございました……助かりました……
+
+==========================
+
+火龍・一閃！！ Fire Dragon Flash!!
+NS/W04-T09 TD
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【Auto】 When you play this card from hand to the Stage, draw 1 card. Choose one of your Characters. During this turn, that Character gains +3 Souls.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、ソウルを＋3。
+Flavor Text:
+Let's do it, Agito... ...
+Sword Flash of the Raging Fire
+やれるか、アギト……
+剣閃烈火ッ
+
+==========================
+
+戦闘教官ヴィータ Battle Instructor Vita
+NS/W04-T10 TD
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【Auto】 When this card goes into 【Reverse】and if this card battles a Character that is Level 0 or below, you may put that card in 【Reverse】.
+【自】 このカードが【リバース】した時、このカードとバトルしているキャラのレベルが0以下なら、あなたはそのキャラを【リバース】してよい。
+Flavor Text:
+That's because to smash and break through defences is my area of specialty.
+防御ごと潰す打撃は、あたしの専門分野だからな
+
+==========================
+
+烈火の剣精アギト Flaming Swords Spirit Agito
+NS/W04-T11 TD
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Unison ユニゾン
+Card Text/Abilities:
+【Auto】 Partner/ 「Zest Grangaitz」 [①](When this card comes into play, you can pay the cost to activate this ability, then search your Waiting Room for 1 「Zest Grangaitz」
+card and add it to your hand.
+【Activate】[Put this card to 【Rest】 mode] Choose 1 Character card with 《Unison》. During this turn that
+card gains +1000 Power.
+【自】 絆／「ゼスト・グランガイツ」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ゼスト・グランガイツ」を1枚選び、手札に戻す）
+【起】［このカードを【レスト】する］ あなたは自分の《ユニゾン》のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+I'll protect you, my master
+旦那のこと、守ってあげるよ
+
+==========================
+
+戦技教導官なのは Chief Combat Technique Instructor Nanoha
+NS/W04-T12 TD
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+And now, with vigour, let's try our best!
+それじゃあ、元気に、頑張っていくよっ！
+
+==========================
+
+なのは＆ヴィヴィオ Nanoha & Vivio
+NS/W04-T13 TD
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Odd Eye オッドアイ
+Card Text/Abilities:
+【Auto】 When this card attacks, if 「Promise With Mama」 is in play, you may activate this ability. If you do so, choose one card from your opponent's Waiting Room and add it to his the top of his deck.
+【自】 このカードがアタックした時、クライマックス置場に「ママと約束ね」があるなら、あなたは相手の控え室のカードを1枚選び、山札の上に置いてよい。
+Flavor Text:
+Nanoha 「Have you been a good girl?」
+Vivio 「... ... yes... ...」
+なのは「いい子にしてた？」
+ヴィヴィオ「……うん……」
+
+==========================
+
+放浪の騎士ゼスト Wandering Knight Zest
+NS/W04-T14 TD
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【Activate】【Counter】 Assisting Blade 2000 Level 1 [① send this card from hand to Waiting Room] (In response
+to your opponent's Front Attack, choose one of your Character card. During this turn, that Character gains
++2000 Power.
+【起】【カウンター】 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）
+Flavor Text:
+Truely wanting to protect something......
+Just doing that.... how difficult it is to accomplish
+本当に守りたいものを守る……
+ただそれだけのことの……なんと難しいことか……
+
+==========================
+
+なのは＆ヴィータ Nanoha & Vita
+NS/W04-T15 TD
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【Auto】 Encore [Place 1 Character card from your hand into Waiting Room] (When this card leaves the Stage
+into the Waiting Room, you may pay cost to activate this ability. After that, this card is placed in
+【Rest】 on it's previous Border.
+【Activate】【②】  Choose one of your opponent's Level 0 and below Frontline Characters. send it the Waiting
+Room.
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+【起】［(2)］ あなたは相手の前列のコスト0以下のキャラを1枚選び、控え室に置く。
+Flavor Text:
+I will definitely...... protect you
+おまえのことは……あたしが守ってやる
+
+==========================
+
+ゼスト・グランガイツ Zest Grangaitz
+NS/W04-T16 TD
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Magic 魔法,_Unison ユニゾン
+Card Text/Abilities:
+Flavor Text:
+So young...... But a fine warrior nonetheless......
+若いな……だがいい騎士だ……
+
+==========================
+
+ママ、いい子 Mama, Good Girl
+NS/W04-T17 TD
+Type: Event
+Level: 1
+Color: Red
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+From your Waiting Room, choose 3 cards and add it to your hand. Then, from your hand put 2 cards into your Waiting Room.
+あなたは自分の控え室のキャラを3枚まで選び、手札に戻し、自分の手札を2枚選び、控え室に置く。
+Flavor Text:
+Mama...... Don't be so downhearted......
+ママ……しょんぼりしてたから……
+
+==========================
+
+ママと約束ね Promise With Mama
+NS/W04-T18 TD
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【Auto】　When you play this card from hand to the Stage, draw 1 card. Choose one of your Characters. During this turn, that Character gains +3 Souls.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、ソウルを＋3。
+Flavor Text:
+Vivio 「……absolutely……?」
+Nanoha 「Absolutely absolute」
+ヴィヴィオ「……ぜったい……？」
+なのは「ぜったいにぜったい」
+
+==========================
+

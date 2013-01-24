@@ -1,0 +1,2616 @@
+天田 乾Amada Ken
+P3/S01-001 RR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【A】When this card is played on Stage, choose 1 of your Level 1 or above Characters, during this turn it gets +1 Soul.
+【自】このカードがプレイされて舞台に置かれた時、あなたはレベル1以上の自分のキャラを1枚選び、そのターン中、ソウルを＋1。
+Flavor Text:
+子供だからって侮らないでください！
+
+==========================
+
+主人公＆オルフェウスProtagonist & Orpheus
+P3/S01-002 RR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【A】 ENCORE ［Place 1 Character from hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【S】［② REST this card］Place this card into Memory. Choose 1 「主人公＆タナトス」 from your hand, place it onto this card's previous position.
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+【起】［② このカードをレストする］このカードを思い出にする。あなたは自分の手札の「主人公＆タナトス」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+我は汝･･･汝は我･･･。
+我は汝の心の海より出でし者、幽玄の奏者オルフェウスなり･･･。
+
+==========================
+
+ファルロスPharos
+P3/S01-003 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Death 死,
+Card Text/Abilities:
+【A】 BOND／「主人公＆タナトス」 ［①］ (When this card is played on Stage, you may pay this cost. If you do, choose 1 「主人公＆タナトス」 from your Waiting Room, return it to hand)
+【自】 絆／「主人公＆タナトス」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「主人公＆タナトス」を1枚選び、手札に戻す)
+Flavor Text:
+僕は、いつだって君の傍に居るよ･･･
+
+==========================
+
+望月 綾時Mochizuki Ryoji
+P3/S01-004R RRR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Death 死,
+Card Text/Abilities:
+【C】 ALARM When this card is on the top of the Clock, if you are Level 1 or above, all your Yellow Characters get +1 Soul.
+【A】When this card attacks, if 「露天風呂」 is in the Climax Slot, you choose 1 of the opponent's Characters, you may return it to hand.
+【永】 アラーム このカードがクロックの1番上にあり、あなたのレベルが1以下なら、黄のあなたのキャラすべてに、ソウルを＋1。
+【自】このカードがアタックしたとき、クライマックス置場に「露天風呂」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。
+Flavor Text:
+分からない事、優しく教えてくれると嬉しいな。
+
+==========================
+
+望月 綾時Mochizuki Ryoji
+P3/S01-004 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Death 死,
+Card Text/Abilities:
+【C】 ALARM When this card is on the top of the Clock, if you are Level 1 or above, all your Yellow Characters get +1 Soul.
+【A】When this card attacks, if 「露天風呂」 is in the Climax Slot, you choose 1 of the opponent's Characters, you may return it to hand.
+【永】 アラーム このカードがクロックの1番上にあり、あなたのレベルが1以下なら、黄のあなたのキャラすべてに、ソウルを＋1。
+【自】このカードがアタックしたとき、クライマックス置場に「露天風呂」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。
+Flavor Text:
+分からない事、優しく教えてくれると嬉しいな。
+
+==========================
+
+天田＆カーラ・ネミAmada & Kala-Nemi
+P3/S01-005 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Magic 魔法,_God 神
+Card Text/Abilities:
+【A】When this card is played on Stage, during that turn, this card's Soul +1.
+【A】When this card attacks, if 「復讐の終わり」 is in the Climax Slot, you choose 1 of the opponent's Characters, you may return it to hand.
+【自】このカードがプレイされて舞台に置かれたとき、そのターン中、このカードのソウルを＋1。
+【自】このカードがアタックしたとき、クライマックス置場に「復讐の終わり」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。
+Flavor Text:
+だから全力を尽くして戦います。復讐じゃなくて、生きる為に。
+
+==========================
+
+主人公＆メサイアProtagonist & Messiah
+P3/S01-006 R
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Magic 魔法,_God 神
+Card Text/Abilities:
+【C】This card cannot be targeted by the opponent's abilities.
+【C】 GRAND PARTICIPATION (When the opponent attacks, if this card is not in REVERSE and is in the center front position, the opponent front attacks this card instead.
+【S】［⑥］All your other characters and opponent's Characters, return to hand.
+【永】このカードは相手の効果に選ばれない。
+【永】 大活躍 (相手がアタックする時、リバースしていないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする)
+【起】［⑥］あなたは他の自分と相手のキャラすべてを、手札に戻す。
+Flavor Text:
+おめでとう。奇跡は･･･果された。
+
+==========================
+
+友近 健二Tomochika Kenji
+P3/S01-007 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Ramen ラーメン,
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card get +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+オレはいつでも、お前の味方だからさ。
+
+==========================
+
+主人公
+P3/S01-008 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【A】［①］ When this card play to stage from hand, you may pay the cost. If you did, choose one 「タルタロス」 from your waiting room, put it into your hand.
+【S】［① Put this card to REST］ Choose 1 of your opponent Level 0 character, return it to hand.
+【自】［①］このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「タルタロス」を1枚選び、手札に戻す。
+【起】［① このカードをレストする］あなたは他のレベル0以下のあなたか相手の前列のキャラを1枚選び、手札に戻す。
+Flavor Text:
+美鶴「君はまだまだ強くなれそうだな」
+
+==========================
+
+コロマル＆ケルベロス
+P3/S01-009 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Animal 動物,_Weapon 武器
+Card Text/Abilities:
+【S】● ASSIST 2000 Level 1 ［① Discard this card from hand to Waiting Room］ (Choose 1 character that is being Front Attacked, during this turn, it gets +2000 Power.)
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋2000)
+Flavor Text:
+ワオーン！
+
+==========================
+
+たなか社長President Tanaka
+P3/S01-010 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 1500
+Soul: 1
+Traits:: Television Mail Order テレビ通販,
+Card Text/Abilities:
+【A】 When this card play to stage from hand, choose 1 of your character, during this turn, it gets +2000 power and 1 Soul.
+【S】［② Put this card to REST］ Return this card to hand.
+【自】このカードがプレイされて舞台に置かれたとき、あなたは自分のキャラ1枚を選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+【起】［② このカードをレストする］あなたはこのカードを手札に戻す。
+Flavor Text:
+あなたの～♪テレビに～♪時価ネットたなか～♪
+
+==========================
+
+神郷 慎
+P3/S01-011 U
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: ,
+Card Text/Abilities:
+Flavor Text:
+キミ、俺と会ったことない？　前にどっかで
+
+==========================
+
+コロマルKoromaru
+P3/S01-012 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Animal 動物,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card play to stage from hand, during this turn, this card gets +1500 power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【自】このカードがプレイされて舞台に置かれたとき、そのターン中、このカードのパワーを＋1500。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+ワン！
+
+==========================
+
+ベベBebe
+P3/S01-013 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Fan 扇子,
+Card Text/Abilities:
+Flavor Text:
+拙者ハマダ、黙ッテ語レル程ノ、
+背中ヲ持チ合ワセテ、オリマセーヌ･･･
+
+==========================
+
+神木 秋成
+P3/S01-014 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 1500
+Soul: 1
+Traits:: Sickness 病気,_Fairy Tale 童話
+Card Text/Abilities:
+【A】When you level up, place this card into the waiting room.
+【A】 When this card place into waiting room from stage, your opponent choose 1 of his hand card and place it into waiting room.
+【自】あなたがレベルアップした時、このカードを控え室に置く。
+【自】このカードが舞台から控え室に置かれた時、相手は自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+この間から考えてた。僕のための幸せな話を書きたいって。
+
+==========================
+
+舞子
+P3/S01-015 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Knapsack ランドセル,
+Card Text/Abilities:
+【C】 During your turn, all your other characters gets +500 power.
+【永】あなたのターン中、他のあなたのキャラをすべてに＋500。
+Flavor Text:
+だから舞子、寂しくなんかないよ！
+
+==========================
+
+天田＆ネメシス
+P3/S01-016 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Magic 魔法,_God 神
+Card Text/Abilities:
+Flavor Text:
+僕にだって、力があります！
+
+==========================
+
+主人公＆タナトス
+P3/S01-017 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Magic 魔法,_God 神
+Card Text/Abilities:
+【A】 When this card attacks, if you have 「最後の選択」 in your climax slot, choose 1 of your opponent character and return it to hand.
+【S】［①］ During your turn, this card gets +1 soul.
+【自】このカードがアタックした時、クライマックス置場に「最後の選択」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。
+【起】［①］そのターン中、このカードのソウルを＋1。
+Flavor Text:
+イゴール「それは”ペルソナ”という力･･･
+もう１つの貴方自身なのです」
+
+==========================
+
+タルタロス
+P3/S01-018 R
+Type: Event
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your opponent character, during this turn, it gets -1 Level.
+あなたは相手のキャラを1枚選び、そのターン中、レベルを－1。
+Flavor Text:
+これが”タルタロス”･･･影時間の中だけに現れる”迷宮”だ。
+
+==========================
+
+影時間
+P3/S01-019 U
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your character, return it to hand. If you did  that, choose 1 of your opponent Level 2 or below character, place it into stock.
+あなたは自分のキャラを1枚選び、手札に戻す。そうしたら、レベル2以下の相手キャラを1枚選び、ストック置場に置く。
+Flavor Text:
+あれは”影時間”…
+１日と１日の狭間にある”隠された時間”だ
+
+==========================
+
+天田＆カーラ・ネミAmada & Kala-Nemi
+P3/S01-01T TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Magic 魔法,_God 神
+Card Text/Abilities:
+【A】When this card is played and placed on Stage, during that turn, this card's Soul +1.
+【A】When this card attacks, if 「復讐の終わり」 is in the Climax Slot, you choose 1 of the opponent's Characters, you may return it to hand.
+【自】このカードがプレイされて舞台に置かれたとき、そのターン中、このカードのソウルを＋1。
+【自】このカードがアタックしたとき、クライマックス置場に「復讐の終わり」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。
+Flavor Text:
+だから全力を尽くして戦います。復讐じゃなくて、生きる為に。
+
+==========================
+
+不死鳥戦隊フェザーマンR
+P3/S01-020 U
+Type: Event
+Level: 3
+Color: Yellow
+Cost: 6
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+All your characters and your opponent's characters return it to hand.
+あなたは自分と相手のキャラすべてを、手札に戻す。
+Flavor Text:
+ポロニアンモールで僕と握手！
+
+==========================
+
+真夏の夜の夢
+P3/S01-021 C
+Type: Event
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Randomly choose 1 of your opponent hand card and place it into waiting room. If that card is a climax card, randomly choose 2 of your hand card and place it into your waiting room.
+あなたは相手の手札をランダムに1枚選び、控え室に置く。そのカードがクライマックスなら、あなたは自分の手札をランダムに2枚選び、控え室に置く。
+Flavor Text:
+何が起こるかわからない
+
+==========================
+
+真宵堂
+P3/S01-022 C
+Type: Event
+Level: 1
+Color: Yellow
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+●Choose 1 of your character, during this turn, it gets +3000 power and +1 soul.
+●あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000し、ソウルを＋1。
+Flavor Text:
+また”ペルソナ使い”と関わるときがくるとはね。
+
+==========================
+
+露天風呂
+P3/S01-023S SP
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1W
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+(Wind：When this card is Triggered, you may choose 1 of opponent's Characters, return to his/her hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(風：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+わぁー！！　やっぱ、ここの露天、ひっろーい！！
+
+==========================
+
+露天風呂
+P3/S01-023 CR
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1W
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+(Wind：When this card is Triggered, you may choose 1 of opponent's Characters, return to his/her hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(風：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+わぁー！！　やっぱ、ここの露天、ひっろーい！！
+
+==========================
+
+復讐の終わり
+P3/S01-024 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+･･･さよなら･･･母さん。僕は、もう大丈夫だから･･･
+
+==========================
+
+最後の選択
+P3/S01-025 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+Flavor Text:
+
+==========================
+
+水着の風花
+P3/S01-026 RR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Swimsuit 水着,
+Card Text/Abilities:
+【A】 When this card play to stage from hand, choose 1 of your character, during this turn, it gets +1000 power.
+【自】このカードがプレイされて舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+順平「つーか･･･風花おまえ…メッチャ着痩せするタイプ･･･！？」
+
+==========================
+
+アイギス＆パラディオン
+P3/S01-027 RR
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Mecha メカ,_God 神
+Card Text/Abilities:
+【C】 If you have other 2 or more 《メカ》 characters, this card gets +1000 power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【永】他の《メカ》のあなたのキャラが2枚以上いるなら、このカードのパワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+“耐力”は防御力の要。
+それが高い私は、つまりタフガイであります。
+
+==========================
+
+神郷 洵
+P3/S01-028 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Twins 双子,
+Card Text/Abilities:
+【S】［②］ During this turn, this card gets +5000 power.
+【起】［②］そのターン中、このカードのパワーを＋5000。
+Flavor Text:
+どうしたの？
+
+==========================
+
+アイギスAigis
+P3/S01-029 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 3500
+Soul: 1
+Traits:: Mecha メカ,_Weapon 武器
+Card Text/Abilities:
+【C】 For each card on your Level slot, this card gets +1000 power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【永】あなたのレベル置場のカード1枚につき、このカードのパワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+わたしの一番の大切は、あなたの傍にいることであります。
+
+==========================
+
+友近 健二Tomochika Kenji
+P3/S01-02T TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Ramen ラーメン,
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card get +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+オレはいつでも、お前の味方だからさ。
+
+==========================
+
+風花＆ユノ
+P3/S01-030 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 4500
+Soul: 2
+Traits:: Magic 魔法,_God 神
+Card Text/Abilities:
+【C】 ALARM When this card is on the top of the Clock, all your green color characters gets +1000 power.
+【A】 When this card attacks, if you have 「切れない絆」 in your climax slot, place the top card of your deck into Stock, during this turn, this card gets +3000 power.
+【永】 アラーム このカードがクロックの1番上にあるなら、緑のあなたのキャラすべてに、パワーを＋1000。
+【自】このカードがアタックした時、クライマックス置場に「切れない絆」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋3000。
+Flavor Text:
+お待たせしました！　オラクル発動します！
+
+==========================
+
+メティス＆プシュケイ
+P3/S01-031R RRR
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Mecha メカ,_God 神
+Card Text/Abilities:
+【A】 When this card attacks, if you have 「機械の乙女」 in your climax slot, place the top card of your deck into Stock, during this turn, this card gets +3000 power.
+【S】［③］ All your opponent's Front Row characters, during this turn, it gets -1500 power.
+【自】このカードがアタックした時、クライマックス置場に「機械の乙女」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋3000。
+【起】［③］あなたは相手の前列のキャラすべてに、そのターン中、パワーを－1500。
+Flavor Text:
+唸れ、パピヨンハート！！
+
+==========================
+
+メティス＆プシュケイ
+P3/S01-031 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Mecha メカ,_God 神
+Card Text/Abilities:
+【A】 When this card attacks, if you have 「機械の乙女」 in your climax slot, place the top card of your deck into Stock, during this turn, this card gets +3000 power.
+【S】［③］ All your opponent's Front Row characters, during this turn, it gets -1500 power.
+【自】このカードがアタックした時、クライマックス置場に「機械の乙女」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋3000。
+【起】［③］あなたは相手の前列のキャラすべてに、そのターン中、パワーを－1500。
+Flavor Text:
+唸れ、パピヨンハート！！
+
+==========================
+
+森山 夏紀
+P3/S01-032 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Bully いじめ,
+Card Text/Abilities:
+【A】 BOND／「風花＆ユノ」 ［①］(When you play this card to Stage, you may pay this cost. If you do, choose 1 「風花＆ユノ」 from your Waiting Room, put it into your hand)
+【自】 絆／「風花＆ユノ」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「風花＆ユノ」を1枚選び、手札に戻す)
+Flavor Text:
+･･･でも、あたし、風花のこと好きよ。
+風花自身が、自分の事嫌いでもね･･
+
+==========================
+
+風花＆ルキア
+P3/S01-033 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_God 神
+Card Text/Abilities:
+【S】● ASSIST 2000 Level 1 ［① Discard this card from hand to Waiting Room］ (Choose 1 character that is being Front Attacked, during this turn, it gets +2000 Power.)
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋2000)
+Flavor Text:
+こんなところで、負けられませんよね！
+
+==========================
+
+メティスMetis
+P3/S01-034 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 4500
+Soul: 1
+Traits:: Mecha メカ,_Weapon 武器
+Card Text/Abilities:
+【C】 If you have other character named 「アイギス」, this card gets +1500 power.
+【S】［①］ During this turn, this card gets +2000 power.
+【永】他のあなたのカード名に「アイギス」を含むキャラがいるなら、このカードのパワーを＋1500。
+【起】［①］そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+汚い手で姉さんに触るな！
+
+==========================
+
+ワンピースのアイギスOne Piece Dress Aigis
+P3/S01-035 U
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Mecha メカ,
+Card Text/Abilities:
+Flavor Text:
+海岸で、何かの任務でしょうか？
+
+==========================
+
+アイギス＆アテナ
+P3/S01-036 U
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Mecha メカ,_God 神
+Card Text/Abilities:
+【C】 BODYGUARD(When your opponent attack, If this card is not reverse and is in the front row center stage,opponent will front attack this character instead)
+【A】 When this card attacks, if you have 「命あるもの」 in your climax slot, place the top card of your deck into Stock, during this turn, this card gets +3000 power.
+【S】［④］ Choose 1 of your 「命あるもの」 from your Clock or waiting room, place it onto your climax slot.
+【永】 大活躍 (相手がアタックする時、リバースしていないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする)
+【自】このカードがアタックした時、クライマックス置場に「命あるもの」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋3000。
+【起】［④］あなたは自分のクロックか控え室の「命あるもの」を1枚選び、クライマックス置場に置く。
+Flavor Text:
+この力が私の、覚悟の証！
+
+==========================
+
+文吉＆光子
+P3/S01-037 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Glasses メガネ,_Book 本
+Card Text/Abilities:
+【A】 When you play other 《メガネ》 characters to stage from hand, you may place the top card of your deck onto your clock.
+【自】他の《メガネ》のあなたのキャラがプレイされて舞台に置かれた時、あなたは自分の山札の上から1枚を、クロック置場に置いてよい。
+Flavor Text:
+いらっしゃいませ、また来てくれたんかい。
+
+==========================
+
+山岸 風花
+P3/S01-038 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】［①］ When this card play to stage from hand, you may pay the cost. If you did, choose 1 of your 「アナライズ」 in your waiting room, return it to hand.
+【S】［① Put this card to REST］ Choose 1 of your clock, return it to hand, choose 1 of your hand and place it onto your clock.
+【自】［①］このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「アナライズ」を1枚選び、手札に戻す。
+【起】［① このカードをレストする］あなたは自分のクロックを1枚選び、手札に戻す。あなたは自分の手札を1枚選び、クロック置場に置く。
+Flavor Text:
+がんばってっ！ 応援してます。
+
+==========================
+
+宮本 一志
+P3/S01-039 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Sports スポーツ,
+Card Text/Abilities:
+Flavor Text:
+とにかく気合じゃー！　根性で乗り切れえー！
+
+==========================
+
+コロマル＆ケルベロス
+P3/S01-03T TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Animal 動物,_Weapon 武器
+Card Text/Abilities:
+【S】● ASSIST 2000 Level 1 ［① Discard this card from hand to Waiting Room］ (Choose 1 character that is being Front Attacked, during this turn, it gets +2000 Power.)
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋2000)
+Flavor Text:
+ワオーン！
+
+==========================
+
+西脇 結子
+P3/S01-040 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Sports スポーツ,_Manager マネージャー
+Card Text/Abilities:
+【A】［Put this card to REST］ When you play other 《スポーツ》 onto stage, you may pay the cost. If you did that, place the top card of your deck into your stock.
+【自】［このカードをレストする］他の《スポーツ》のあなたのキャラがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、ストック置場に置く。
+Flavor Text:
+ぜ、全然心配なんてしなかったよ！皆、がんばってたからね！
+
+==========================
+
+鳥海先生
+P3/S01-041 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Teacher 先生,_Net Game ネトゲ
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card with 『【A】ENCORE [Discard 1 Character to Waiting Room from hand]』 gets +1000 Power.
+【永】 応援 このカードの前の『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を持つあなたのキャラすべてに、パワーを＋1000。
+Flavor Text:
+･･･先生、いま良いこと言ったから、期末にこのまま出すよ？
+
+==========================
+
+早瀬 護
+P3/S01-042 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Sports スポーツ,
+Card Text/Abilities:
+Flavor Text:
+俺は家族を支えたい。
+
+==========================
+
+総攻撃チャンス！
+P3/S01-043 R
+Type: Event
+Level: 2
+Color: Green
+Cost: 3
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+●All your characters, during this turn gets +1000 power. If all your opponent's front row characters is REST, all your characters gets +3000 power instead of +1000 power.
+●あなたは自分のキャラすべてに、そのターン中、パワーを＋1000。そうする時、相手の前列のキャラすべてがレストしているなら、かわりにパワーを＋3000。
+Flavor Text:
+きたっ！　総攻撃チャンスッ！！
+
+==========================
+
+アナライズ
+P3/S01-044 U
+Type: Event
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Look at the top 2 of cards of your opponent's top deck, choose 1 of them and place it into the bottom deck. Place the remaining card onto the top deck.
+あなたは相手の山札を上から2枚まで見てカードを1枚まで選び、山札の下に置く。残りのカードを山札の上に好きな順番で置く。
+Flavor Text:
+了解、分析してみます。少し時間をください。
+
+==========================
+
+保健室
+P3/S01-045 U
+Type: Event
+Level: 2
+Color: Green
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 2 of your opponent's Front Row characters, during this turn, it gets -1000 power.
+あなたは相手の前列のキャラを2枚まで選び、そのターン中、パワーを－1000。
+Flavor Text:
+ずいぶんと調子悪そうですねぇ。
+これは･･･出番ですね、イヒヒヒヒヒヒヒヒ。
+
+==========================
+
+レベルアップ
+P3/S01-046 C
+Type: Event
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+This card cannot be play from hand if you do not have a green color character. Repeat this effect until you Level up.『Place the top card of your deck onto your clock.』
+このカードは、緑のあなたのキャラがいないなら、手札からプレイできない。
+次の行動を、あなたがレベルアップするまで繰り返す。『あなたは自分の山札の上から1枚を、クロック置場に置く。』
+Flavor Text:
+テレッテッテー、順平はレベルアップー。
+
+==========================
+
+アイギスの見る夢
+P3/S01-047 C
+Type: Event
+Level: 2
+Color: Green
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Place the top card of your deck into your stock. Choose 1 of your character, during this turn, it gets +1500 power.
+あなたは自分の山札の上から1枚を、ストック置場に置く。あなたは自分のキャラを選び、そのターン中、パワーを＋1500。
+Flavor Text:
+目を閉じると･･･“彼”と最後に話した時の事が浮かぶ。
+
+==========================
+
+機械の乙女
+P3/S01-048 CR
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+Flavor Text:
+彼らは、あなたを危険に晒す存在･･･　よって、排除します。
+
+==========================
+
+切れない絆
+P3/S01-049S SP
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: S
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Bag：When this card is Triggered, you may take the top card of your deck, put to Stock.)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(袋：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい)
+Flavor Text:
+私のペルソナは･･･“結ぶ者。･･･私が願う“絆”そのもの。
+
+==========================
+
+切れない絆
+P3/S01-049 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: S
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Bag：When this card is Triggered, you may take the top card of your deck, put to Stock.)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(袋：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい)
+Flavor Text:
+私のペルソナは･･･“結ぶ者。･･･私が願う“絆”そのもの。
+
+==========================
+
+たなか社長President Tanaka
+P3/S01-04T TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 1500
+Soul: 1
+Traits:: Television Mail Order テレビ通販,
+Card Text/Abilities:
+【A】 When this card play to stage from hand, choose 1 of your character, during this turn, it gets +2000 power and 1 Soul.
+【S】［② Put this card to REST］ Return this card to hand.
+【自】このカードがプレイされて舞台に置かれたとき、あなたは自分のキャラ1枚を選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+【起】［② このカードをレストする］あなたはこのカードを手札に戻す。
+Flavor Text:
+あなたの～♪テレビに～♪時価ネットたなか～♪
+
+==========================
+
+命あるもの
+P3/S01-050 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+わたしは…”生きろ”と命じられた機械。
+命じたのは…わたし自身。
+
+==========================
+
+チドリ
+P3/S01-051 RR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【A】 BOND／「順平＆トリスメギストス」［①］(When you play this card to Stage, you may pay this cost. If you do, choose 1 「順平＆トリスメギストス」 from your Waiting Room, put it into your hand)
+【S】［①］ Choose 1 of your character named 「順平」, during this turn, it gets +1000 power.
+【自】 絆／「順平＆トリスメギストス」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「順平＆トリスメギストス」を1枚選び、手札に戻す)
+【起】［①］あなたは自分のカード名に「順平」を含むキャラを1枚選び、そのターン中、パワー＋1000。
+Flavor Text:
+順平は・・・こんな所で死んじゃダメ。
+
+==========================
+
+真田 明彦
+P3/S01-052 RR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Magic 魔法,_Sports スポーツ
+Card Text/Abilities:
+【A】［①］ When this card play onto stage, you may pay the cost. If you did, choose 1 「辰巳東交番」 from your waiting room, return it to hand.
+【S】［③］ Choose 1 of your opponent's Level 1 Front Row character,place it into waiting room.
+【自】［①］このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「辰巳東交番」を1枚選び、手札に戻す。
+【起】［③］あなたはレベル1以下の相手の前列キャラを1枚選び、控え室に置く。
+Flavor Text:
+俺はただ、自分の力を鍛えたいだけだ。
+
+==========================
+
+真次郎＆カストール
+P3/S01-053 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Sports スポーツ,_God 神
+Card Text/Abilities:
+【C】 SUPPORT All cards in front of this character get 『【A】［①］When this card becomes REVERSE, if this card battles the Character with Level equal or less than this card's Level, you may pay the cost. If you did, put that Character to REVERSE.』
+【永】 応援 このカードの前のあなたのキャラすべてに、次の能力を与える。『【自】［①］このカードがリバースした時、このカードとバトルしているキャラのレベルがこのカードのレベル以下なら、あなたはコストを払ってもよい。そうしたら、あなたはそのキャラをリバースする。』
+Flavor Text:
+こんな俺の命でも、
+奪えばお前は、俺と同じ重みを背負うことになる。
+
+==========================
+
+茅野 めぐみ
+P3/S01-054 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Sports スポーツ,
+Card Text/Abilities:
+Flavor Text:
+影抜きは絶対ダメよ！
+
+==========================
+
+順平＆トリスメギストス
+P3/S01-055 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Weapon 武器,_God 神
+Card Text/Abilities:
+【A】 When your other battling character becomes REVERSE, during this turn, this card gets +2000 power.
+【A】 When this card attacks, if you have 「ありがとう」 in your climax slot, choose 1 character from your waiting room, return it to hand.
+【自】他のバトルしているあなたのキャラがリバースした時、そのターン中、このカードのパワーを＋2000。
+【自】このカードがアタックした時、クライマックス置場に「ありがとう」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+チ･･･ドリ？･･･うそだろ？
+
+==========================
+
+明彦＆カエサル
+P3/S01-056R RRR
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Magic 魔法,_Sports スポーツ
+Card Text/Abilities:
+【A】 When this card attacks, if you have 「友への誓い」 in your climax slot, choose 1 character from your waiting room, return it to hand.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【自】このカードがアタックした時、クライマックス置場に「友への誓い」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+だが、関係ない。俺はもう“目を背けない”と決めたんだ。
+
+==========================
+
+明彦＆カエサル
+P3/S01-056 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Magic 魔法,_Sports スポーツ
+Card Text/Abilities:
+【A】 When this card attacks, if you have 「友への誓い」 in your climax slot, choose 1 character from your waiting room, return it to hand.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【自】このカードがアタックした時、クライマックス置場に「友への誓い」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+だが、関係ない。俺はもう“目を背けない”と決めたんだ。
+
+==========================
+
+荒垣 真次郎
+P3/S01-057 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card play onto stage, choose 1 of your opponent's event card from his waiting room, place it onto memory.
+【A】 When this card becomes REVERSE, if the character battling this card is Level 0 or below, you may put that card to REVERSE.
+【自】このカードがプレイされて舞台に置かれた時、あなたは相手の控え室のイベントを1枚選び、思い出にしてよい。
+【自】このカードがリバースした時、このカードとバトルしているキャラのレベルが0以下なら、あなたはそのキャラをリバースしてよい。
+Flavor Text:
+チッ、もう来んじゃねえぞ。
+
+==========================
+
+無達
+P3/S01-058 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Alcohol 酒,_Zen 禅
+Card Text/Abilities:
+【A】 When this card becomes REVERSE, if the character battling this card is Level 1 or below, you may put that card to REVERSE.
+【自】このカードがリバースした時、このカードとバトルしているキャラのレベルが1以下なら、あなたはそのキャラをリバースしてよい。
+Flavor Text:
+色即是空、空即是色。
+
+==========================
+
+順平＆ヘルメス
+P3/S01-059 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Weapon 武器,_God 神
+Card Text/Abilities:
+【C】 If you have other character named 「チドリ」, this card gets +1000 power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【永】他のあなたの「チドリ」がいるなら、このカードのパワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+見てろよ、俺の大・活・躍！
+
+==========================
+
+神郷 慎
+P3/S01-05T TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: ,
+Card Text/Abilities:
+Flavor Text:
+キミ、俺と会ったことない？　前にどっかで
+
+==========================
+
+ジン＆モロス
+P3/S01-060 U
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Weapon 武器,_God 神
+Card Text/Abilities:
+【A】［①］ When this card play onto stage, you may pay the cost. If you did, choose 1 of your opponent's Level 1 character or below, place it into the waiting room.
+【自】［①］このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたはレベル1以下の相手のキャラを1枚選び、控え室に置く。
+Flavor Text:
+本気で相手したる。･･･来いや。
+
+==========================
+
+タカヤ＆ヒュプノス
+P3/S01-061 U
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Magic 魔法,_God 神
+Card Text/Abilities:
+【C】 BODYGUARD(When your opponent attack, If this card is not reverse and is in the front row center stage,opponent will front attack this character instead)
+【A】 When this card play onto the stage, choose 1 of your opponent's card from his waiting room, place it on top of the deck.
+【A】 When this card attacks, if you have 「ニュクス・アバター」 in your climax slot, choose 1 character from your waiting room, return it to your hand.
+【永】 大活躍 (相手がアタックする時、リバースしていないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする)
+【自】このカードがプレイされて舞台に置かれた時、あなたは相手の控え室のカードを1枚選び、山札の上に置いてよい。
+【自】このカードがアタックした時、クライマックス置場に「ニュクス・アバター」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+互いの力と運命とが、残るべき者を決めるでしょう。･･･来なさい。
+
+==========================
+
+タカヤ
+P3/S01-062 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【C】 ALARM When this card is on the top of the Clock, all your Red color character gets the following effect.『【A】［①］ When this card becomes REVERSED from battle, you may pay the cost. If you did, return this card to your hand.』
+【永】 アラーム このカードがクロックの1番上にあるなら、赤のあなたのキャラすべてに、次の能力を与える。『【自】［①］バトルしているこのカードがリバースした時、あなたはコストを払ってよい。そうしたら、このカードを手札に戻す。』
+Flavor Text:
+愚か者に、死の静寂を･･･。
+
+==========================
+
+末光 望美
+P3/S01-063 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Gourmet グルメ,
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワー＋500。
+Flavor Text:
+ボクが頼んであげるよカモン、マイ牛丼ハウス！
+
+==========================
+
+伊織 順平
+P3/S01-064 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+ハイ、アナタも一緒にお手上げ侍。
+
+==========================
+
+チドリ＆メーディア
+P3/S01-065 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card play onto stage, deal 1 damage to all players.
+【A】 When this card play onto stage, deal 1 damage to all players.
+【A】［①］ When this card place into waiting room from stage, you may pay the cost. If you did, choose 1 card named 「順平＆トリスメギストス」 from your waiting room, return it to hand.
+【自】このカードがプレイされて舞台に置かれた時、あなたはすべてのプレイヤーに、1ダメージを与える。
+【自】［①］このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「順平＆トリスメギストス」を1枚選び、手札に戻す。
+Flavor Text:
+死なんて、あした目が覚めないってだけ･･･
+ただそれだけじゃないの。
+
+==========================
+
+ジン
+P3/S01-066 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card play onto stage, deal 1 damage to all players.
+【A】［①］ When this card place into waiting room from stage, you may pay the cost. If you did, choose 1 card named 「タカヤ」 from your waiting room, return it to hand.
+【自】このカードがプレイされて舞台に置かれた時、あなたはすべてのプレイヤーに、1ダメージを与える。
+【自】［①］このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカード名に「タカヤ」を含むキャラを1枚選び、手札に戻す。
+Flavor Text:
+よう見とけ！わしらの生きざま！
+
+==========================
+
+明彦＆ポリデュークス
+P3/S01-067 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Sports スポーツ,_God 神
+Card Text/Abilities:
+【S】● ASSIST 3000 Level 2 ［① Discard this card from hand to Waiting Room］ (Choose 1 character that is being Front Attacked, during this turn, it gets +3000 Power.)
+【起】● 助太刀3000 レベル2 ［① 手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋3000)
+Flavor Text:
+この瞬間を待っていた！仕掛けるっ！
+
+==========================
+
+辰巳東交番
+P3/S01-068 R
+Type: Event
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 character from your waiting room, return it to hand.
+あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+俺は、俺が正しいと信じる事をする。･･･それだけだ。
+
+==========================
+
+DEATH > 死神
+P3/S01-069 U
+Type: Event
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your opponent's Level 2 Front Row character, place it into waiting room.
+あなたはレベル2以下の相手の前列のキャラを1枚選び、控え室に置く。
+Flavor Text:
+僕は･･･存在そのものが、滅びの確約なんだ。
+
+==========================
+
+影時間
+P3/S01-06T TD
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your character, return it to hand. If you did that, choose 1 of your opponent Level 2 or below character, place it into stock.
+あなたは自分のキャラを1枚選び、手札に戻す。そうしたら、レベル2以下の相手キャラを1枚選び、ストック置場に置く。
+Flavor Text:
+あれは”影時間”…
+１日と１日の狭間にある”隠された時間”だ
+
+==========================
+
+ハルマゲドン
+P3/S01-070 U
+Type: Event
+Level: 3
+Color: Red
+Cost: 7
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Place all of your opponent's characters with power less then 9999 into the waiting room.
+あなたはパワー9999以下の相手の前列キャラすべてを、控え室に置く。
+Flavor Text:
+
+==========================
+
+象徴化
+P3/S01-071 C
+Type: Event
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Deal 1 damage to your opponent.
+あなたは相手に1ダメージを与える。
+Flavor Text:
+影時間に気づかない人は、
+その間、棺おけのように”象徴化”する。
+
+==========================
+
+刈り取る者
+P3/S01-072 C
+Type: Event
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your opponent Level 1 or below character, place it on top of the deck.
+あなたはレベル1以下の相手のキャラを1枚選び、山札の上に置く。
+Flavor Text:
+”死神”タイプが出現！気をつけてください！
+
+==========================
+
+ありがとうThank You
+P3/S01-073S SP
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get ＋2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+大好き･･･　順･･･平･･･　あり･･･が･･･とう･･･
+
+==========================
+
+ありがとうThank You
+P3/S01-073 CR
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get ＋2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+大好き･･･　順･･･平･･･　あり･･･が･･･とう･･･
+
+==========================
+
+ニュクス・アバター
+P3/S01-074 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When you Triggered this card, choose 1 Character from your waiting room, return to hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(扉：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+知恵の実を食べた人間は、その瞬間より旅人となった･･･
+
+==========================
+
+友への誓い
+P3/S01-075 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+Flavor Text:
+･･･いいぜ、シンジ。美紀と2人で、そこから見ていろ･･･
+まだ･･･俺にはやることがある。･･･そうだろ？
+
+==========================
+
+水着の美鶴
+P3/S01-076 RR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Swimsuit 水着,_Student Council 生徒会
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card with 『【A】ENCORE [Discard 1 Character to Waiting Room from hand]』 gets +1000 Power.
+【A】［① Put this card to REST］ When your other 《生徒会》 is play onto stage, you may pay the cost. If you did, draw 1 card.
+【永】 応援 このカードの前の『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を持つあなたのキャラすべてに、パワーを＋1000。
+【自】［① このカードをレストする］他の《生徒会》のあなたのキャラがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。
+Flavor Text:
+風花「うわー、桐条先輩、キレイ･･･」
+
+==========================
+
+エリザベス
+P3/S01-077 RR
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Magic 魔法,_God 神
+Card Text/Abilities:
+【C】 BODYGUARD(When your opponent attack, If this card is not reverse and is in the front row center stage,opponent will front attack this character instead)
+【A】 When this card attacks, if you have 「最強なる者」 in your climax slot, draw 1 card.
+【S】［④］ Search 1 event card from your deck and show it to your opponent, place it into your hand. Shuffle your deck afterwards.
+【永】 大活躍 (相手がアタックする時、リバースしていないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする)
+【自】このカードがアタックした時、クライマックス置場に「最強なる者」があるなら、あなたは1枚引く。
+【起】［④］あなたは自分の山札を見てイベントを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+そう･･･今回のターゲットは、私、エリザベスでございます。
+
+==========================
+
+美鶴＆ペンテシレア
+P3/S01-078 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Student Council 生徒会,_God 神
+Card Text/Abilities:
+【C】 During your opponent's turn, this card gets +1000 power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【永】相手のターン中、このカードのパワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+やはり私はこちらの方が向いている。
+
+==========================
+
+水着のゆかりSwimsuit Yukari
+P3/S01-079 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Swimsuit 水着,
+Card Text/Abilities:
+Flavor Text:
+順平「おーっ、ゆかり選手、
+想像より結構強気のデザインですな！」
+
+==========================
+
+コロマルKoromaru
+P3/S01-07T TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Animal 動物,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card play to stage from hand, during this turn, this card gets +1500 power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【自】このカードがプレイされて舞台に置かれたとき、そのターン中、このカードのパワーを＋1500。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+ワン！
+
+==========================
+
+イゴール
+P3/S01-080 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: God 神,_Demon 悪魔
+Card Text/Abilities:
+【A】 When this card play onto stage, you may draw 1 card.
+【A】［①］ When this card play onto stage, you may pay the cost. If you did, choose 1 「ベルベットルーム」 from your waiting room and return it your hand.
+【S】［② Put this card to REST］ Choose 1 card other than climax from your waiting room, place that card into your deck and then shuffle your deck. Draw 1 card.
+【自】このカードがプレイされて舞台に置かれた時、あなたは1枚引いてよい。
+【自】［①］このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ベルベットルーム」を1枚選び、手札に戻す。
+【起】［② このカードをレストする］あなたはクライマックス以外の自分の控え室のカードを1枚選び、そのカードとこのカードを山札に戻す。その山札をシャッフルする。あなたは1枚引く。
+Flavor Text:
+私の名は、イゴール。･･･お初にお目にかかります
+
+==========================
+
+ゆかり＆イシス
+P3/S01-081R RRR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Magic 魔法,_God 神
+Card Text/Abilities:
+【A】 When this card attacks, if you have 「父の遺志」 at your climax slot, draw 1 card.
+【S】［④］ Choose 1 card from your clock, return it to hand.
+【自】このカードがアタックした時、クライマックス置場に「父の遺志」があるなら、あなたは1枚引く。
+【起】［④］あなたは自分のクロックを1枚選び、手札に戻す。
+Flavor Text:
+私･･･影時間を無くす為に戦いたい。
+お父さんの遺志を…継ぎたいから。
+
+==========================
+
+ゆかり＆イシス
+P3/S01-081 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Magic 魔法,_God 神
+Card Text/Abilities:
+【A】 When this card attacks, if you have 「父の遺志」 at your climax slot, draw 1 card.
+【S】［④］ Choose 1 card from your clock, return it to hand.
+【自】このカードがアタックした時、クライマックス置場に「父の遺志」があるなら、あなたは1枚引く。
+【起】［④］あなたは自分のクロックを1枚選び、手札に戻す。
+Flavor Text:
+私･･･影時間を無くす為に戦いたい。
+お父さんの遺志を…継ぎたいから。
+
+==========================
+
+岳羽 詠一朗
+P3/S01-082 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Will 遺言,
+Card Text/Abilities:
+【A】 BOND／「ゆかり＆イシス」［①］(When you play this card to Stage, you may pay this cost. If you do, choose 1 「ゆかり＆イシス」 from your Waiting Room, put it into your hand)
+【自】 絆／「ゆかり＆イシス」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ゆかり＆イシス」を1枚選び、手札に戻す)
+Flavor Text:
+･･･愛してるよ、ゆかり。どうか、元気でいて欲しい･･･
+
+==========================
+
+幾月 修司
+P3/S01-083 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Glasses メガネ,_Pun だじゃれ
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+これで預言書に示された段取りはすべて完了だ。
+
+==========================
+
+桐条 美鶴
+P3/S01-084 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+【C】 All your other 《生徒会》 characters gets +500 power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【永】他の《生徒会》のあなたのキャラすべてに、パワーを＋500。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+･･･倒したい相手がいる。
+
+==========================
+
+ゆかり＆イオ
+P3/S01-085 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Magic 魔法,_God 神
+Card Text/Abilities:
+【C】 ALARM When this card is on the top of the Clock,if you are Level 2 or above, at the end of your turn, place this card into your waiting room.
+【自】 アラーム このカードがクロックの1番上にあり、あなたのレベルが2以上なら、あなたのターンの終わりに、このカードを控え室に置く。
+Flavor Text:
+そうよ、怖がってなんていられない！
+
+==========================
+
+神郷 諒
+P3/S01-086 U
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Glasses メガネ,
+Card Text/Abilities:
+Flavor Text:
+今さら家族でもないさ。男兄弟ってのは特に。
+
+==========================
+
+伏見 千尋
+P3/S01-087 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Student Council 生徒会,_Glasses メガネ
+Card Text/Abilities:
+【A】 When you play other 《生徒会》 onto stage, look at the top of your deck, place it on top or bottom of your deck.
+【S】［② このカードをレストする］ Draw 1 card.
+【自】他の《生徒会》のあなたのキャラがプレイされて舞台に置かれた時、あなたは山札を上から1枚見て、山札の上か下に置く。
+【起】［② このカードをレストする］あなたは1枚引く。
+Flavor Text:
+･･･このお店、空調効きすぎじゃないですか？
+
+==========================
+
+平賀 慶介
+P3/S01-088 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Glasses メガネ,
+Card Text/Abilities:
+【A】［②］ When this card is play onto stage, you may pay the cost. If you did, choose 1 top card of your Clock, place it into your waiting room.
+【自】［②］このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚選び、控え室に置く。
+Flavor Text:
+大切な人を目の前で失う気持ち･･･
+さっきの君を見て、わかった気がする。
+
+==========================
+
+小田桐 秀利
+P3/S01-089 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Student Council 生徒会,
+Card Text/Abilities:
+Flavor Text:
+僕は無能な奴が嫌いだ。口をききたいとも思わない。
+
+==========================
+
+ベベBebe
+P3/S01-08T TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Fan 扇子,
+Card Text/Abilities:
+Flavor Text:
+拙者ハマダ、黙ッテ語レル程ノ、
+背中ヲ持チ合ワセテ、オリマセーヌ･･･
+
+==========================
+
+桐条 武治
+P3/S01-090 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Will 遺言,
+Card Text/Abilities:
+【A】［① Place this card into waiting room］ When your other character is place into waiting room from stage, you may pay the cost. If you did, return that card into your hand.
+【自】［① このカードを控え室に置く］他のあなたのキャラが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、そのカードを手札に戻す。
+Flavor Text:
+左様、全ては大人の･･･我々の罪だ。
+
+==========================
+
+岳羽 ゆかり
+P3/S01-091 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 1500
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【S】● ASSIST 2000 Level 1 ［① Discard this card from hand to Waiting Room］ (Choose 1 character that is being Front Attacked, during this turn, it gets +2000 Power.)
+【S】［② Put this card to REST］ Return this card to your hand.
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋2000)
+【起】［② このカードをレストする］あなたはこのカードを手札に戻す。
+Flavor Text:
+でもさ･･･この”浴衣”って、
+何て言うか･･･だいぶ無防備な服だよね。
+
+==========================
+
+美鶴＆アルテミシア
+P3/S01-092 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Student Council 生徒会,_God 神
+Card Text/Abilities:
+【A】［①］ When this card play onto stage, you may pay the cost. If you did, choose 1 of your opponent's character, move it to another slot with no character on it.
+【A】 When this card attacks if you have 「誓い合った約束」 in your climax slot, draw 1 card.
+【自】［①］このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、キャラのいない他の枠に動かす。
+【自】このカードがアタックした時、クライマックス置場に「誓い合った約束」があるなら、あなたは1枚引く。
+Flavor Text:
+今はもう護るだけの戦いじゃない！
+
+==========================
+
+ベルベットルームVelvet Room
+P3/S01-093 R
+Type: Event
+Level: 2
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Draw 1 card.
+あなたは1枚引く。
+Flavor Text:
+ここは夢と現実、精神と物質の狭間にある場所･･･
+
+==========================
+
+ジャックブラザーズJack Brothers
+P3/S01-094 U
+Type: Event
+Level: 2
+Color: Blue
+Cost: 4
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+● Choose 1 of your opponent's character, REST it.
+●あなたは相手のキャラを1枚選び、レストする。
+Flavor Text:
+ヒーホー！　俺たちジャックブラザーズ！
+
+==========================
+
+処刑
+P3/S01-095 U
+Type: Event
+Level: 3
+Color: Blue
+Cost: 8
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Place all cards from your clock into your hand. Place this card into memory.
+あなたは自分のクロックすべてを、手札に戻す。このカードを思い出にする。
+Flavor Text:
+しょ、処刑するっ！
+
+==========================
+
+青ひげファーマシー
+P3/S01-096 C
+Type: Event
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+●Choose 1 of your character, during this turn gets the following effect.『【A】 When this card place to waiting room from stage, return this card in REST to it's previous slot』
+●あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠にレストして置いてよい。』
+Flavor Text:
+新しい商品を入荷したぞ！　たっぷり買っていけ！
+
+==========================
+
+シャッフルタイムShuffle Time
+P3/S01-097 C
+Type: Event
+Level: 3
+Color: Blue
+Cost: 3
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Place all of your opponent's character into memory. Flip those card face down and shuffle it, place each of them back on to the stage and then flip them back face up.
+あなたは相手キャラすべてを、思い出にする。それらのキャラを裏向きにシャッフルし、それぞれを舞台の別々の枠に裏向きで置く。それらのキャラを表向きにする。
+Flavor Text:
+
+==========================
+
+最強なる者
+P3/S01-098S SP
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Book：When you Triggered this card, you may draw 1 card)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(本：このカードがトリガーした時、あなたは1枚引いてよい)
+Flavor Text:
+ドロー！　ペルソナカード！！
+
+==========================
+
+最強なる者
+P3/S01-098 CR
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Book：When you Triggered this card, you may draw 1 card)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(本：このカードがトリガーした時、あなたは1枚引いてよい)
+Flavor Text:
+ドロー！　ペルソナカード！！
+
+==========================
+
+誓い合った約束
+P3/S01-099 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get ＋2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+ゆかり、来てくれるか･･･一緒に。
+
+==========================
+
+舞子
+P3/S01-09T TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Knapsack ランドセル,
+Card Text/Abilities:
+【C】 During your turn, all your other characters gets +500 power.
+【永】あなたのターン中、他のあなたのキャラをすべてに＋500。
+Flavor Text:
+だから舞子、寂しくなんかないよ！
+
+==========================
+
+父の遺志
+P3/S01-100 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+Flavor Text:
+私、なんとかしてみるよ。それでいいよね、父さん･･･
+
+==========================
+
+“死神”タナトス
+P3/S01-101P PR
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get ＋2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+それは”ペルソナ”という力･･･。もう1つの貴方自身なのです
+
+==========================
+
+“死神”タナトス
+P3/S01-101 PR
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get ＋2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+「それは”ペルソナ”という力･･･。もう1つの貴方自身なのです」
+
+==========================
+
+雪に戯れる慎と洵
+P3/S01-102 PR
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Twins 双子,_Honest Person 正直者
+Card Text/Abilities:
+Flavor Text:
+「兄ちゃん、またこうやって並んで帰ろうね」
+
+==========================
+
+兄弟の絆
+P3/S01-103 PR
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+Flavor Text:
+生き方は違えど、想いはひとつ。
+
+==========================
+
+主人公＆ゆかり
+P3/S01-104 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【S】［② Put this card to REST］ Draw 1 card.
+【起】［② このカードをレストする］あなたはカードを1枚引く。
+Flavor Text:
+やるしか･･･ないんだよね。
+
+==========================
+
+機械の姉妹
+P3/S01-105 PR
+Type: Character
+Level: 0
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Mecha メカ,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+安心して･･･わたしがいつでも、そばで守るから･･･
+
+==========================
+
+慎＆真田
+P3/S01-106 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Glove 手袋,
+Card Text/Abilities:
+【S】［③］ Choose 1 of your opponent's Level 1 or below Front Row character, return it to hand.
+【起】［③］あなたは相手のレベル1以下の前列のキャラを1枚選び、手札に戻す。
+Flavor Text:
+慎「兄貴･･･そこをどいてくれっ！！」
+
+==========================
+
+諒＆真田
+P3/S01-107 PR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Glove 手袋,_Glasses メガネ
+Card Text/Abilities:
+【S】［④］ Choose 1 of your opponent's Level 1 or below Front Row character, place it on top of the deck.
+【起】［④］あなたは相手の前列のレベル1以下のキャラを1枚選び、山札の上に置く。
+Flavor Text:
+諒「終わらせる。今度こそ、本当に」
+
+==========================
+
+守本 叶鳴
+P3/S01-108 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Doll 人形,
+Card Text/Abilities:
+【A】［Put this card to waiting room］ When your other character place into waiting room from stage, if this card is in Back Row, you may pay the cost. If you did,  return that card in REST to it's previous slot
+【自】［このカードを控え室に置く］他のあなたのキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのカードをそのカードがいた枠にレストして置く。
+Flavor Text:
+神郷君の目に私は、どんな風に映っていますか？
+
+==========================
+
+洵＆結祈
+P3/S01-109 PR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Twins 双子,_Will 遺言
+Card Text/Abilities:
+【S】［① Put this card to REST］ Choose 1 of your clock, return it to hand. Choose 1 card from your hand, place it onto your clock.
+【起】［① このカードをレストする］あなたは自分のクロックを1枚選び、手札に戻す。あなたは自分の手札を1枚選び、クロック置場に置く。
+Flavor Text:
+洵「諒兄ちゃんにとって、僕たちは一番重い十字架」
+
+==========================
+
+天田＆ネメシス
+P3/S01-10T TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Magic 魔法,_God 神
+Card Text/Abilities:
+Flavor Text:
+僕にだって、力があります！
+
+==========================
+
+決意の美鶴
+P3/S01-110 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Love 愛
+Card Text/Abilities:
+【A】［②］ When this card comes to stage from hand, you may pay the cost. If you did, search your deck for 1 card named 「美鶴」 and show it to your opponent, place it into your hand. Shuffle your deck afterwards.
+【自】［②］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てカード名に「美鶴」を含むキャラを1枚選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+お父様を守るためなら･･･
+
+==========================
+
+主人公＆タナトス
+P3/S01-11T TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Magic 魔法,_God 神
+Card Text/Abilities:
+【A】 When this card attacks, if you have 「最後の選択」 in your climax slot, choose 1 of your opponent's character, return it to hand.
+【S】［①］ During this turn, this card gets +1 soul.
+【自】このカードがアタックした時、クライマックス置場に「最後の選択」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。
+【起】［①］そのターン中、このカードのソウルを＋1。
+Flavor Text:
+イゴール「それは”ペルソナ”という力･･･
+もう１つの貴方自身なのです」
+
+==========================
+
+真宵堂
+P3/S01-12T TD
+Type: Event
+Level: 1
+Color: Yellow
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+●Choose 1 of your character, during this turn, it gets +3000 power and +1 soul.
+●あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000し、ソウルを＋1。
+Flavor Text:
+また”ペルソナ使い”と関わるときがくるとはね。
+
+==========================
+
+復讐の終わり
+P3/S01-13T TD
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+･･･さよなら･･･母さん。僕は、もう大丈夫だから･･･
+
+==========================
+
+最後の選択
+P3/S01-14T TD
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+Flavor Text:
+
+==========================
+
+美鶴＆ペンテシレア
+P3/S01-15T TD
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Student Council 生徒会,_God 神
+Card Text/Abilities:
+【C】 During your opponent's turn, this card gets +1000 power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【永】相手のターン中、このカードのパワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+やはり私はこちらの方が向いている。
+
+==========================
+
+伏見 千尋
+P3/S01-16T TD
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Student Council 生徒会,_Glasses メガネ
+Card Text/Abilities:
+【A】 When you play other 《生徒会》 onto stage, look at the top of your deck, place it on top or bottom of your deck.
+【S】［② このカードをレストする］ Draw 1 card.
+【自】他の《生徒会》のあなたのキャラがプレイされて舞台に置かれた時、あなたは山札を上から1枚見て、山札の上か下に置く。
+【起】［② このカードをレストする］あなたは1枚引く。
+Flavor Text:
+･･･このお店、空調効きすぎじゃないですか？
+
+==========================
+
+小田桐 秀利
+P3/S01-17T TD
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Student Council 生徒会,
+Card Text/Abilities:
+Flavor Text:
+僕は無能な奴が嫌いだ。口をききたいとも思わない。
+
+==========================
+
+桐条 武治
+P3/S01-18T TD
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Will 遺言,
+Card Text/Abilities:
+【A】［① Place this card into waiting room］ When your other character is place into waiting room from stage, you may pay the cost. If you did, return that card into your hand.
+【自】［① このカードを控え室に置く］他のあなたのキャラが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、そのカードを手札に戻す。
+Flavor Text:
+左様、全ては大人の･･･我々の罪だ。
+
+==========================
+
+美鶴＆アルテミシア
+P3/S01-19T TD
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Student Council 生徒会,_God 神
+Card Text/Abilities:
+【A】［①］ When this card play onto stage, you may pay the cost. If you did, choose 1 of your opponent's character, move it to another slot with no character on it.
+【A】 When this card attacks if you have 「誓い合った約束」 in your climax slot, draw 1 card.
+【自】［①］このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、キャラのいない他の枠に動かす。
+【自】このカードがアタックした時、クライマックス置場に「誓い合った約束」があるなら、あなたは1枚引く。
+Flavor Text:
+今はもう護るだけの戦いじゃない！
+
+==========================
+
+誓い合った約束
+P3/S01-20T TD
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get ＋2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+ゆかり、来てくれるか･･･一緒に。
+
+==========================
+
+神郷 慎
+P3/S01-21T TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: ,
+Card Text/Abilities:
+Flavor Text:
+キミ、俺と会ったことない？　前にどっかで
+
+==========================
+

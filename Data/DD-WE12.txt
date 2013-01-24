@@ -1,0 +1,937 @@
+レオンミシェリ・ガレット・デ・ロワ
+DD/WE12-01 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Animal 動物,_Royal Family 王族
+Card Text/Abilities:
+【A】［①］When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 of your 《動物》 Characters, during this turn, it gets +2000 Power.
+【A】［②］When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, search your Deck for up to 1 《動物》 Character, show it to your opponent, add it to hand. Shuffle your Deck afterwards.
+【自】［①］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の《動物》のキャラを1枚選び、そのターン中、パワーを＋2000。
+【自】［②］このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《動物》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+フランボワーズ「すぐさま向かってたたき落とす、その事です」
+
+==========================
+
+レオンミシェリ・ガレット・デ・ロワ
+DD/WE12-01 SP
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Animal 動物,_Royal Family 王族
+Card Text/Abilities:
+【A】［①］When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 of your 《動物》 Characters, during this turn, it gets +2000 Power.
+【A】［②］When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, search your Deck for up to 1 《動物》 Character, show it to your opponent, add it to hand. Shuffle your Deck afterwards.
+【自】［①］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の《動物》のキャラを1枚選び、そのターン中、パワーを＋2000。
+【自】［②］このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《動物》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+
+==========================
+
+ガレット王子 ガウ
+DD/WE12-02 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Animal 動物,_Royal Family 王族
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, until the end of your opponent's next turn, this card gets +1500 Power.
+【自】このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードのパワーを＋1500。
+Flavor Text:
+大変な思いをしていいのは、王族だけさ
+
+==========================
+
+正々堂々 レオ
+DD/WE12-03 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Animal 動物,_Royal Family 王族
+Card Text/Abilities:
+【A】When your opponent's Character is returned to Hand from Waiting Room, choose 1 of your Characters, during this turn, it gets +2000 Power.
+【S】［REST this card］Choose up to 1 of your 《動物》 Characters, during this turn, it gets +1500 Power.
+【自】相手のキャラが、控え室から手札に戻った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。
+【起】［このカードをレストする］あなたは自分の《動物》のキャラを1枚まで選び、そのターン中、パワーを＋1500。
+Flavor Text:
+フン…面白い
+
+==========================
+
+戦無双 レオ
+DD/WE12-04 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Animal 動物,_Royal Family 王族
+Card Text/Abilities:
+【A】［①］When this card attacks, if 「獅子王炎陣大爆破」 is in your Climax Slot, you may pay the cost. If you did, choose 1 card from your Clock, return it to Hand, place the top card from your Deck into Clock.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, place this card in its previous slot in REST)
+【自】［①］このカードがアタックした時、クライマックス置場に「獅子王炎陣大爆破」があるなら、あなたはコストを払ってよい。そうしたらあなたは自分のクロックを1枚選び、手札に戻し、自分の山札から上から1枚を、クロック置場に置く。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く）
+Flavor Text:
+獅子王炎陣！！
+
+==========================
+
+“獅子王”レオ
+DD/WE12-05 R
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Animal 動物,_Royal Family 王族
+Card Text/Abilities:
+【C】BODYGUARD(When your opponent attacks, if this card is in the center slot of the Front Row and is not REVERSE, your opponent must Front Attack this card.)
+【A】［Place 1 card from Hand into Waiting Room］When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 「魔戦斧グランヴェール」 from your Waiting Room, return it to Hand.
+【永】 大活躍 (相手がアタックする時、リバースしていないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする)
+【自】［手札を1枚控え室に置く］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「魔戦斧グランヴェール」を1枚選び、手札に戻す。
+Flavor Text:
+ワシを以前のワシと思うなよ
+
+==========================
+
+単騎突入 レオ
+DD/WE12-06 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Animal 動物,_Royal Family 王族
+Card Text/Abilities:
+【C】When you have no other Characters, this card gets +1500 Power, this card cannot be REVERSE by opponent's 【A】 abilities.
+【永】他のあなたのキャラがいないなら、このカードのパワーを＋1500し、このカードは相手のキャラの【自】の効果によってリバースされない。
+Flavor Text:
+ガウル「姉上ッ！？」
+
+==========================
+
+“ジェノワーズ”ジョーヌ
+DD/WE12-07 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Animal 動物,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+ガウ様直属、秘密諜報部隊！
+
+==========================
+
+“ジェノワーズ”ベール
+DD/WE12-08 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Animal 動物,_Weapon 武器
+Card Text/Abilities:
+【C】Your other Character in the center slot of your Front Row gets +1000 Power.
+【永】他のあなたの前列の中央の枠のキャラに、パワーを＋1000。
+Flavor Text:
+我ら、ガレット獅子団領
+
+==========================
+
+ガウル・ガレット・デ・ロワ
+DD/WE12-09 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Animal 動物,_Royal Family 王族
+Card Text/Abilities:
+【C】For each of your other 《動物》 Characters, this card gets +500 Power.
+【永】他のあなたの《動物》のキャラ1枚につき、このカードのパワーを＋500。
+Flavor Text:
+強さと華麗さ、豪快さ！そのヘんが、騎士と戦士の必須事項！
+
+==========================
+
+静かな決意 レオ
+DD/WE12-10 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Animal 動物,_Royal Family 王族
+Card Text/Abilities:
+【S】● ASSIST 3000 Level 2［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)
+【起】● 助太刀3000 レベル2 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000)
+Flavor Text:
+･･････
+
+==========================
+
+お側役 ビオレ
+DD/WE12-11 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【C】Your other Character in the center slot of your Front Row gets +2000 Power.
+【A】◆ SHIFT Level 2 (At the beginning of your Main Phase, you may choose 1 Green card from your Hand and this card in your Clock and exchange them.)
+【永】他のあなたの前列の中央の枠のキャラに、パワーを＋2000。
+【自】◆ シフト レベル2 (あなたのメインフェイズの始めに、あなたは自分の手札の緑のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい)
+Flavor Text:
+フランボワーズ「レオンミシェリ姫のお側役、ビオレさんに来ていただいております」
+
+==========================
+
+突然の宣戦布告 レオ
+DD/WE12-12 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Animal 動物,_Royal Family 王族
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, your opponent may choose 1 Character from his/her Waiting Room, return it to Hand.
+【A】［② Place 1 card from Hand into Waiting Room］When 「魔神旋光破」 is placed into your Climax slot, if this card is in the Front Row, you may pay the cost. If you did, choose 1 《動物》 Character with Level equal or lower than your Level from your Clock, place it into any slot on Stage.
+【自】このカードが手札から舞台に置かれた時、相手は自分の控え室のキャラを1枚選び、手札に戻してよい。
+【自】［② 手札を1枚控え室に置く］あなたのクライマックス置場に「魔神旋光破」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場の自分のレベル以下のレベルの《動物》のキャラを1枚選び、舞台の好きな枠に置く。
+Flavor Text:
+ガレット・ビスコッティ両国民。己の国のため、自らのため……！
+
+==========================
+
+魔戦斧グランヴェール
+DD/WE12-13 C
+Type: Event
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your Characters, until the end of your opponent's next turn, it gets +2000 Power.
+あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2000。
+Flavor Text:
+レオ「ガレットの宝剣、魔戦斧グランヴェールと、神剣エクスマキナ」
+
+==========================
+
+獅子王炎陣大爆破
+DD/WE12-14 C
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+どおりゃあ――――！！
+
+==========================
+
+魔神旋光破
+DD/WE12-15 C
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: S
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(宝：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい)
+Flavor Text:
+魔神ッッ！！旋光破ァァッ！！
+
+==========================
+
+魔神ッッ！！旋光破ァァッ！！
+DD/WE12-16 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Hero 勇者,_Sports スポーツ
+Card Text/Abilities:
+【A】［② Place the top card of your Deck into Clock］When this card is being Front Attacked, you may pay the cost. If you did, choose another of your 《動物》 Character and this card, return them to Hand.
+【自】［② あなたの山札の上から1枚をクロック置場に置く］このカードがフロントアタックされた時、あなたはコストを払ってよい。 そうしたら、あなたは他の自分の《動物》のキャラを1枚と、このカードを選び、手札に戻す。
+Flavor Text:
+
+==========================
+
+召喚主 ミルヒ
+DD/WE12-17 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Animal 動物,_Music 音楽
+Card Text/Abilities:
+【C】All your other 《動物》 and 《勇者》 Characters get +500 Power.
+【A】［①］When another of your 「シンク・イズミ」 becomes REVERSE in battle, you may pay the cost. If you did, place that Character into Memory.
+【C】［③ Place 1 「勇者降臨！」 from your Hand into Waiting Room, REST this card］Choose 1 「シンク・イズミ」 from your Waiting Room, place it in any slot on Stage.
+【永】他のあなたの、《動物》か《勇者》のキャラすべてに、パワーを＋500。
+【自】［①］他のあなたのバトル中の「シンク・イズミ」がリバースした時、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを思い出にする。
+【起】［③ 手札の「勇者降臨！」を1枚控え室に置き、このカードをレストする］あなたは自分の控え室の「シンク・イズミ」を1枚選び、舞台の好きな枠に置く。
+Flavor Text:
+ビスコッティの皆さん、ガレット獅子団領の皆さん、
+お待たせしました！
+
+==========================
+
+召喚主 ミルヒ
+DD/WE12-17 SP
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Animal 動物,_Music 音楽
+Card Text/Abilities:
+【C】All your other 《動物》 and 《勇者》 Characters get +500 Power.
+【A】［①］When another of your 「シンク・イズミ」 becomes REVERSE in battle, you may pay the cost. If you did, place that Character into Memory.
+【C】［③ Place 1 「勇者降臨！」 from your Hand into Waiting Room, REST this card］Choose 1 「シンク・イズミ」 from your Waiting Room, place it in any slot on Stage.
+【永】他のあなたの、《動物》か《勇者》のキャラすべてに、パワーを＋500。
+【自】［①］他のあなたのバトル中の「シンク・イズミ」がリバースした時、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを思い出にする。
+【起】［③ 手札の「勇者降臨！」を1枚控え室に置き、このカードをレストする］あなたは自分の控え室の「シンク・イズミ」を1枚選び、舞台の好きな枠に置く。
+Flavor Text:
+ビスコッティの皆さん、ガレット獅子団領の皆さん、
+お待たせしました！
+
+==========================
+
+自由騎士 ダルキアン
+DD/WE12-18 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 1500
+Soul: 1
+Traits:: Animal 動物,_Weapon 武器
+Card Text/Abilities:
+When you use this card's 「ASSIST」, if you have 3 or more 《動物》 or 《勇者》 Characters, choose 1 of your battling Characters, during this turn, it gets +X Power. X is equals to your Level ×500.
+【S】● ASSIST 1500 LEVEL 1 ［① Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +1500 Power)
+【自】あなたがこのカードの「助太刀」を使った時、あなたの《動物》か《勇者》のキャラが3枚以上なら、あなたの自分のバトル中のキャラを1枚選び、そのターン中パワーを＋Ｘ。Ｘはあなたのレベル×500に等しい。
+【起】● 助太刀1500 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500)
+Flavor Text:
+勇者殿もなかなかどうして、大胆にござるな
+
+==========================
+
+領主の覚悟 ミルヒ
+DD/WE12-19 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Animal 動物,_Music 音楽
+Card Text/Abilities:
+【C】If you have 3 or more other 《動物》 Characters, this card gains the following ability.『【S】［② REST this card］Choose 1 「シンク・イズミ」 from your Memory, place it into any slot on Stage.』
+【C】SUPPORT All your Characters in front of this card gets +1000 Power.
+【永】他のあなたの《動物》のキャラが3枚以上なら、このカードは次の能力を得る。『【起】［② このカードをレストする］あなたは自分の思い出置場の「シンク・イズミ」を1枚選び、舞台の好きな枠に置く。』
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。
+Flavor Text:
+勝って、楽しい明日を掴みましょう！
+
+==========================
+
+リコッタ・エルマール
+DD/WE12-20 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【A】［①］When 「リコのサポート」 is placed into your Climax slot, if this card is in the Front Row, you may pay the cost. If you did, choose 1 of your opponent's Characters with Level 1 or less, place it into Waiting Room.
+【S】［REST 2 of your 《動物》 Characters］Choose 1 of your Characters, during this turn, it gets +1500 Power.
+【自】［①］あなたのクライマックス置場に「リコのサポート」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル1以下のキャラを1枚選び、控え室に置く。
+【起】［あなたの《動物》のキャラを2枚レストする］あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+
+==========================
+
+エクレール・マルティノッジ
+DD/WE12-21 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Animal 動物,_Weapon 武器
+Card Text/Abilities:
+【C】If you have 3 or more other 《動物》 Characters, this card gains 『【A】ENCORE［Place 1 Character from Hand into Waiting Room］』.
+【A】When this card is placed on Stage from Hand, during this turn, this card gains +X Power. X is equals to the number of 《動物》 Characters you have ×500.
+【永】他のあなたの《動物》のキャラが3枚以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。
+【自】このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《動物》のキャラの枚数×500に等しい。
+Flavor Text:
+
+==========================
+
+ミルヒオーレ・フィリアンノ・ビスコッティ
+DD/WE12-22 R
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Animal 動物,_Music 音楽
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.
+【A】［②］When this card's battling opponent becomes REVERSE, you may pay the cost. If you did, deal 1 Damage to your opponent. (Damage can be cancelled)
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】［②］このカードのバトル相手がリバースした時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。 (ダメージキャンセルは発生する)
+Flavor Text:
+今日の勝利を糧に…
+今日よりもっと素敵な明日を皆さんに送れるように
+
+==========================
+
+ビスコッティ領主 ミルヒ
+DD/WE12-23 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Animal 動物,_Music 音楽
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +500 Power.
+【A】［②］When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《勇者》 Character from your Waiting Room, return it to Hand.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【自】［②］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《勇者》のキャラを1枚選び、手札に戻す。
+Flavor Text:
+
+==========================
+
+オンミツ部隊筆頭 ユキカゼ
+DD/WE12-24 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Animal 動物,_God 神
+Card Text/Abilities:
+【A】When this card becomes REVERSE, if this card's battling opponent is Level 0 or less, you may REVERSE that Character.
+【A】［①］At the beginning of your opponent's Attack Phase, you may pay the cost. If you did, choose 1 of your other 《勇者》 Characters, during this turn, it gets +1500 Power.
+【自】このカードがリバースした時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをリバースしてよい。
+【自】［①］相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《勇者》のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+今回はちと様子が違いそうでござる
+
+==========================
+
+タレミミ隊長 エクレ
+DD/WE12-25 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Animal 動物,_Weapon 武器
+Card Text/Abilities:
+【A】When this card attacks, choose 1 of your other 《勇者》 Characters, during this turn, it gets +1000 Power.
+【S】［Place this card into Waiting Room］Choose 1 of your 《勇者》 Characters, during this turn, it gets +2000 Power.
+【自】このカードがアタックした時、あなたは他の自分の《勇者》のキャラを1枚選び、そのターン中、パワーを＋1000。
+【起】［このカードを控え室に置く］あなたは自分の《勇者》のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+
+==========================
+
+機械大好き！ リコ
+DD/WE12-26 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【A】◆ SHIFT Level 0 (At the beginning of your Main Phase, you may choose 1 Red card from your Hand and this card in your Clock and exchange them.)
+【S】［①］Choose 1 of your opponent's Front Row Character with Level 0 or less, place it into Waiting Room.
+【自】◆ シフト レベル0 (あなたのメインフェイズの始めに、あなたは自分の手札の赤のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい)
+【起】［①］あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置く。
+Flavor Text:
+見知らぬ機械を見つけると、
+自分はしっぽのつけねと研究心が
+キュンキュンきちゃうのであります！
+
+==========================
+
+替え玉作戦 ミルヒ
+DD/WE12-27 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Animal 動物,_Music 音楽
+Card Text/Abilities:
+【C】If 「リコッタ・エルマール」 is in your Clock, this card gets +2000 Power.
+【永】あなたのクロック置場に「リコッタ・エルマール」があるなら、このカードのパワーを＋2000。
+Flavor Text:
+騎士「わかりました。お通ししてください」
+
+==========================
+
+見つめる ミルヒ
+DD/WE12-28 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Animal 動物,_Music 音楽
+Card Text/Abilities:
+Flavor Text:
+勇者シンク様ですね……存じ上げております
+
+==========================
+
+主席研究士 リコ
+DD/WE12-29 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Animal 動物,_Science 科学
+Card Text/Abilities:
+【A】At the beginning of your opponent's Attack Phase, you may choose 1 of your Character with 「ミルヒ」 in its name and this card, STAND and exchange them.
+【自】相手のアタックフェイズの始めに、あなたは自分のカード名に「ミルヒ」を含むキャラを1枚とこのカードを選び、それぞれをスタンドして入れ替えてよい。
+Flavor Text:
+姫様の命を受けて誠心誠意、
+勇者様がご帰還される方法を探していたでありますが！
+
+==========================
+
+召喚勇者 シンク
+DD/WE12-30 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Hero 勇者,_Sports スポーツ
+Card Text/Abilities:
+【A】When this card is being Front Attacked, you may place the top card of your Deck into Waiting Room. If that card is a Climax, choose 1 Character facing this card, during this turn, it gets -1 Soul.
+【自】このカードがフロントアタックされた時、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがクライマックスなら、あなたはこのカードの正面のキャラを1枚選び、そのターン中、ソウルを－1。
+Flavor Text:
+姫様からのお呼びに預かり……
+勇者シンク、ただいま見ッ参ッッ!!!
+
+==========================
+
+親衛隊長 エクレ
+DD/WE12-31 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Animal 動物,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+お風呂で遭遇！ ミルヒ
+DD/WE12-32 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Animal 動物,_Music 音楽
+Card Text/Abilities:
+【C】If your Stock is 3 or less, this card gets +1000 Power.
+【永】あなたのストックが3枚以下なら、このカードのパワーを+1000。
+Flavor Text:
+
+==========================
+
+シンク・イズミ
+DD/WE12-33 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Hero 勇者,_Sports スポーツ
+Card Text/Abilities:
+【A】When this card is placed into Waiting Room, from Stage, place the top card of your Deck into Clock.
+【自】このカードが舞台から控え室に置かれた時、あなたは自分の山札の上から1枚を、クロック置場に置く。
+Flavor Text:
+
+==========================
+
+ケモノダマ
+DD/WE12-34 C
+Type: Event
+Level: 1
+Color: Red
+Cost: 2
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+● Choose up to 2 of your 《動物》 Characters, during this turn, it gains the following ability. 『【A】When this card is placed into Waiting Room from Stage, you may place this card into its previous slot in REST.』
+● あなたは自分の《動物》のキャラを2枚まで選び、そのターン中、次の能力を与える。『【自】このカードが舞台から控え室に置かれた時、あなたはこのカードがいた枠にレストして置いてよい。』
+Flavor Text:
+
+==========================
+
+勇者降臨！
+DD/WE12-35 C
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When this card is Triggered, choose 1 Character from your Waiting Room, return it to Hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(扉：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+
+==========================
+
+リコのサポート
+DD/WE12-36 C
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置き場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+
+==========================
+
+メイド服のリコ
+DD/WE12-54 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Animal 動物,_Maid メイド
+Card Text/Abilities:
+【A】When another of your Characters becomes REVERSE in battle, choose 1 of your Characters, during this turn, it gets +1000 Power.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】 他のあなたのバトル中のキャラがリバースした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+一緒に姫様のところに行くでありますよ！
+
+==========================
+
+ビスコッティの歌姫 ミルヒ
+DD/WE12-55 PR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Animal 動物,_Music 音楽
+Card Text/Abilities:
+【S】［REST 1 of your 《音楽》 Characters］During this turn, it gets +1000 Power.
+【起】［あなたの《音楽》のキャラを1枚レストする］そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+いっしょうけんめい、歌いますッ！
+
+==========================
+
+姫殿下 ミルヒ
+DD/WE12-56 PR
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Animal 動物,_Music 音楽
+Card Text/Abilities:
+【C】If your Stock is 4 or less, this card gets +1000 Power.
+【永】あなたのストックが4枚以下なら、このカードのパワーを＋1000。
+Flavor Text:
+私たちが見つけて、私が迷う事なくこの人と決めた……
+この国の勇者様です！
+
+==========================
+
+武芸百般 レオ
+DD/WE12-T01 TD
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Animal 動物,_Royal Family 王族
+Card Text/Abilities:
+【S】［REST 2 of your Characters］During this turn, this card gets +2000 Power.
+【起】［あなたのキャラを2枚レストする］ そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+……
+
+==========================
+
+“ジェノワーズ”ノワール
+DD/WE12-T02 TD
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Animal 動物,_Book 本
+Card Text/Abilities:
+Flavor Text:
+バッチリとご参加です」
+
+==========================
+
+近衛メイド ルージュ
+DD/WE12-T03 TD
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Animal 動物,_Maid メイド
+Card Text/Abilities:
+【A】ENCORE［②］(When this card is placed into Waiting Room from Stage, you may pay the cost. If you do, place this card in its previous slot in REST)
+【自】 アンコール ［②］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+これを奪えば……！
+
+==========================
+
+百獣王の騎士 レオ
+DD/WE12-T04 TD
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Animal 動物,_Royal Family 王族
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, draw up to 2 cards, choose 1 card from your Hand, place it into Waiting Room.
+【S】［①］During this turn, this card gets +2000 Power.
+【自】このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。
+【起】［①］ そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+ガレット獅子団領国の王にして、百獣王の騎士！！
+
+==========================
+
+姫様の秘書 アメリタ
+DD/WE12-T05 TD
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Animal 動物,_Glasses メガネ
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+お邪魔が入らぬようにいたします……
+大丈夫ですよね、騎士団長？
+
+==========================
+
+メイド長 リゼル
+DD/WE12-T06 TD
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Animal 動物,_Maid メイド
+Card Text/Abilities:
+Flavor Text:
+姫様…勇者様とお約束ですか？
+
+==========================
+
+ミルヒの勇者 シンク
+DD/WE12-T07 TD
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Hero 勇者,_Sports スポーツ
+Card Text/Abilities:
+【A】［①］When this card attacks, if 「ホーリーセイバー」 is in your Climax slot, you may pay the cost. If you did, choose 1 Character from your Waiting Room, return it to Hand, during this turn, this card gets +3000 Power.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】［①］このカードがアタックした時、クライマックス置場に「ホーリーセイバー」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻し、そのターン中、このカードのパワーを＋3000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+輝力、全開ィィッッ!!
+
+==========================
+
+ホーリーセイバー
+DD/WE12-T08 TD
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, place the top card of your Deck into Stock, during this turn, all your Characters get +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+シンク・ミルヒ「ホーリーセイバー！！」
+
+==========================
+
+きっと恋をしている
+DD/WE12-T09 TD
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+頑張る勇気を乗せて歌います……
+
+==========================
+

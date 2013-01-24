@@ -1,0 +1,1063 @@
+プリニー殲滅部隊のリーダー フーカPrinny Exterminator Force Leader Fuuka
+DG/SE08-01 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 1500
+Soul: 1
+Traits:: Prinny プリニー,_Death 死
+Card Text/Abilities:
+【A】When you use this card's 『ASSIST』, if you have a 《プリニー》 Character, choose 1 Character in battle, during this turn, it gets +1000 Power.
+【S】● ASSIST 1500 Level 1 ［Place this card from Hand into Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +1500 Power)
+【自】あなたがこのカードの『 助太刀 』を使った時、あなたの《プリニー》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。
+【起】● 助太刀1500 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500)
+Flavor Text:
+アタシはプリニーじゃない！！　風祭フーカよ！！
+
+==========================
+
+“乙女の思い込み”フーカ"Maiden's Belief" Fuuka
+DG/SE08-02 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Prinny プリニー,_Death 死
+Card Text/Abilities:
+【A】［Place 1 card from Hand into Waiting Room］When 「プリニー・ウォーズ」 is placed into your Climax slot, if this card is in the Front Row, you may pay this cost. If you did, choose the Character opposing this card with Level 2 or below, return it to Deck. Opponent shuffles that Deck afterwards.
+【A】 ENCORE ［Place the top card of your Deck into Clock］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】［手札を1枚控え室に置く］あなたのクライマックス置場に「プリニー・ウォーズ」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたはこのカードの正面のレベル2以下のキャラを1枚選び、山札に戻す。相手はその山札をシャッフルする。
+【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+ハッピーエンド以外の夢は、お断りよ！！
+
+==========================
+
+“乙女の思い込み”フーカ"Maiden's Belief" Fuuka
+DG/SE08-02 SP
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Prinny プリニー,_Death 死
+Card Text/Abilities:
+【A】［Place 1 card from Hand into Waiting Room］When 「プリニー・ウォーズ」 is placed into your Climax slot, if this card is in the Front Row, you may pay this cost. If you did, choose the Character opposing this card with Level 2 or below, return it to Deck. Opponent shuffle that Deck afterwards.
+【A】 ENCORE ［Place the top card of your Deck into Clock］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】［手札を1枚控え室に置く］あなたのクライマックス置場に「プリニー・ウォーズ」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたはこのカードの正面のレベル2以下のキャラを1枚選び、山札に戻す。相手はその山札をシャッフルする。
+【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+そう！　これはアタシの夢の中！　それを知ってるアタシには、
+やってやれないことなんて、ないッ！！！！
+
+==========================
+
+死神 エミーゼルDeath Reaper Emizel
+DG/SE08-03 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Demon 悪魔,_Death 死
+Card Text/Abilities:
+【C】If your Hand has 4 or less cards, this card gets +1000 Power.
+【A】When this card's battle opponent becomes REVERSE, you may place that card into Stock.
+【永】あなたの手札が4枚以下なら、このカードのパワーを＋1000．
+【自】このカードのバトル相手がリバースした時、あなたはそのキャラをストック置場に置いてよい。
+Flavor Text:
+よし、わかった。連れてってやるよ！
+この死神エミーゼル様がな！！
+
+==========================
+
+風祭 フーカKazamatsuri Fuuka
+DG/SE08-04 R
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Prinny プリニー,_Death 死
+Card Text/Abilities:
+【C】If your Deck has 5 or less cards, this card gets -1 Level in your Hand.
+【A】When this card comes to Stage from Hand, during this turn, this card gets +3000 Power, +2 Soul.
+【A】［①］When the damage dealt by this card is cancelled, you may pay this cost. If you did, during this turn, opponent cannot use 「【A】ENCORE」.(「【A】ENCORE［③］」 cannot be used as well)
+【永】あなたの山札が5枚以下なら、あなたの手札のこのカードのレベルを－1。
+【自】このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000し、ソウルを＋2。
+【自】［①］このカードの与えたダメージがキャンセルされた時、あなたはコストを払ってよい。そうしたら、そのターン中、相手は「【自】 アンコール 」を使えない。 (ルールによる「【自】アンコール［③］」も使えない)
+Flavor Text:
+さすがアタシの夢！　ハッピーエンドも近そうね！！
+
+==========================
+
+“おねえさま”フーカ"Big Sis" Fuuka
+DG/SE08-05 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Prinny プリニー,_Death 死
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +500 Power.
+【A】When this card is placed on Stage from Hand, choose 1 of your other 《クローン》 Characters, during this turn, it gets +1 Level, +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【自】このカードが手札から舞台に置かれた時、あなたは他の自分の《クローン》のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋500。
+Flavor Text:
+守ってくれるんでしょ？　ラスボスとして
+
+==========================
+
+生意気なお坊ちゃん エミーゼル
+DG/SE08-06 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Demon 悪魔,_Death 死
+Card Text/Abilities:
+【C】When your opponent's Climax slot has a Climax, the Character opposing this card gets -1 Soul.
+【永】相手のクライマックス置場にクライマックスがあるなら、このカードの正面のキャラのソウルを－1。
+Flavor Text:
+オレ様のことは、エミーゼル様と呼ぶんだ。
+大統領の御曹司、エミーゼル様とな！！
+
+==========================
+
+特殺任務部隊のリーダー エミーゼル
+DG/SE08-07 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Demon 悪魔,_Death 死
+Card Text/Abilities:
+【S】CONCENTRATION［①］Flip 4 cards from the top of your Deck, place them into Waiting Room. Search your Deck for up to X 《死》 Characters, show them to your opponent, add them to Hand. Shuffle your Deck afterwards. Choose X cards from your Hand, place them into your Waiting Room. X is equals to the number of Climax among those cards.
+【起】 集中 ［①］あなたは自分の山札の上から4枚をめくり、控え室に置く。あなたは自分の山札を見て《死》のキャラをＸ枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。あなたは自分の手札をＸ枚選び、控え室に置く。Ｘはそれらのカードのクライマックスの枚数に等しい。
+Flavor Text:
+うるさいっ！　オレ様は弱くない！！
+
+==========================
+
+プリニー帽子の少女 フーカ
+DG/SE08-08 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Prinny プリニー,_Death 死
+Card Text/Abilities:
+【S】［REST 2 of your Characters］During this turn, this card gets +1 Level, +1500 Power.
+【起】［あなたのキャラを2枚レストする］そのターン中、このカードのレベルを＋1し、パワーを＋1500。
+Flavor Text:
+フフフ！　待っていたわよ！
+
+==========================
+
+地獄に堕ちてきた中学生 フーカ
+DG/SE08-09 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Prinny プリニー,_Death 死
+Card Text/Abilities:
+【A】When this card is place on Stage from Hand, you may choose 1 Climax from your opponent's Waiting Room, add it to Deck. If you did, shuffle that Deck afterwards, choose 1 of your Characters, during this turn, it gets +3000 Power.
+【自】このカードが手札から舞台に置かれた時、あなたは相手の控え室のクライマックスを1枚選び、山札に戻してよい。そうしたら、その山札をシャッフルし、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。
+Flavor Text:
+これは戦争よ！！　悪夢を断ち切り、もっと乙女チックな
+夢を手に入れるための自由と青春の闘争なのよ！
+
+==========================
+
+魔界大統領Jr エミーゼル
+DG/SE08-10 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 3500
+Soul: 1
+Traits:: Demon 悪魔,_Death 死
+Card Text/Abilities:
+【C】During your turn, all your other Characters get +X Power. X is equals to that Character's Level ×500
+【A】［② Place this card into Waiting Room］When 「不死鳥の誓い」 is placed into your Climax slot, you may pay this cost. If you did, choose 1 「死神 エミーゼル」 from your Waiting Room, place it into this card's previous slot.
+【永】あなたのターン中、他のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。
+【自】［② このカードを控え室に置く］あなたのクライマックス置場に「不死鳥の誓い」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「死神 エミーゼル」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+ボクは自分のチカラで、
+絶対に一人前の悪魔になってみせる！！
+
+==========================
+
+ラズベリル大統領閣下
+DG/SE08-11 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Demon 悪魔,_Delinquent 不良
+Card Text/Abilities:
+【A】When you use 「CONCENTRATION」, if there're Climax placed into Waiting Room by that effect, during this turn, this card gets +2000 Power.
+【A】When the Damage dealt by this card is cancelled, during this turn, this card gets +3000 Power.
+【自】あなたが「 集中 」を使った時、その効果でクライマックスが控え室に置かれたなら、そのターン中、このカードのパワーを＋2000。
+【自】このカードの与えたダメージがキャンセルされた時、そのターン中、このカードのパワーを＋3000。
+Flavor Text:
+魔ニフェストは一日一善！
+この魔界を 不良 (ワル)の巣窟にしてみせるぜ！！
+
+==========================
+
+プリニー・ウォーズ
+DG/SE08-12 C
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card comes to Stage from hand, draw 1 card. Choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+プリニーも、プリニー達の教育係のアンタたちも
+みんなそろって殲滅よ、センメツ！！
+
+==========================
+
+不死鳥の誓い
+DG/SE08-13 C
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1F
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Flame：When this card is Triggered, if your current attacking Character's damage is cancelled, deal 1 damage to opponent.)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(炎：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える。)
+Flavor Text:
+ボクは自分のチカラで
+絶対に一人前の悪魔になってみせる！！
+
+==========================
+
+怪盗天使 アルティナ
+DG/SE08-14 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Angel 天使,_Phantom Thief 怪盗
+Card Text/Abilities:
+【A】［REST 2 of your STAND Characters］When this card is placed on Stage from Hand, you may pay this cost. If you did, choose 1 of your Characters, during this turn, it gains the following ability.『【A】When this card's battle opponent becomes REVERSE, you may place the top card of your Deck into Stock.』
+【自】［あなたのスタンドしているキャラを2枚レストする］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】このカードのバトル相手がリバースした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』
+Flavor Text:
+もちろん、わたくしは最初から全力で祈ってますわよ？
+
+==========================
+
+天使長 フロン
+DG/SE08-15 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 3500
+Soul: 1
+Traits:: Angel 天使,_Love 愛
+Card Text/Abilities:
+【C】 SUPPORT All your Level 2 and above Characters in front of this card gets +1000 Power.
+【S】［② REST 2 of your Characters］Search your Deck for up to 1 《悪魔》 or 《天使》 or 《愛》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。
+【起】 ［② あなたのキャラを2枚レストする］あなたは自分の山札を見て《悪魔》か《天使》か《愛》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+ふっふっふ……これこそ、月をも包みこむ愛のチカラ！！
+名づけて『愛フィールド』の効果です！
+
+==========================
+
+神出鬼没 アルティナ
+DG/SE08-16 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Angel 天使,_Phantom Thief 怪盗
+Card Text/Abilities:
+【C】Your other Character in the Center slot of your Front Row gets +1000 Power.
+【A】At the beginning of your Encore Step, if 「悪魔と天使の絆」 is in your Climax Slot, REST this card, move it to any slot on Stage. (You may also choose the current slot)
+【永】他のあなたの前列の中央の枠のキャラに、パワーを＋1000。
+【自】あなたのアンコールステップの始めに、クライマックス置場に「悪魔と天使の絆」があるなら、あなたはこのカードをレストし、舞台の好きな枠に動かす。（今いる枠を選んでもよい）
+Flavor Text:
+フフフッ。それでは皆さん、ごきげんよう
+
+==========================
+
+看護師 アルティナ
+DG/SE08-17 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Nurse ナース,_Love 愛
+Card Text/Abilities:
+【A】 BOND／「暴君 ヴァルバトーゼ」［①］(When this card is played to Stage, you may pay this cost. If you do, choose 1 「暴君 ヴァルバトーゼ」 from your Waiting Room, return to Hand)
+【自】 絆／「暴君 ヴァルバトーゼ」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「暴君 ヴァルバトーゼ」を1枚選び、手札に戻す)
+Flavor Text:
+じゃあ、約束です。わたくしを怖がらせるまで、
+誰の血も吸わないでくださいね？
+
+==========================
+
+断罪者 ネモ
+DG/SE08-18 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Spirit/Ghost 霊,_Glasses メガネ
+Card Text/Abilities:
+【A】When this card becomes REVERSE in battle, you may choose 1 from your opponent's Clock, place it into Waiting Room. If you did, your opponent places the top card of the Deck into Clock.
+【自】バトル中のこのカードがリバースした時、あなたは相手のクロックを1枚選び、控え室に置いてよい。そうしたら、相手は山札の上から1枚を、クロック置場に置く。
+Flavor Text:
+ボクは犯罪者じゃない。
+人間どもの罪を処断するために生まれた断罪者だ！
+
+==========================
+
+“業欲の天使”ブルカノ（？）
+DG/SE08-19 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Angel 天使,_Phantom Thief 怪盗
+Card Text/Abilities:
+悪魔なのに世直しですか？　フフッ、変な吸血鬼さん
+Flavor Text:
+わたくしのことは、そうですね……
+「ブルカノ」とでも呼んでもらいましょうか
+
+==========================
+
+ナイスバディ・エトナ
+DG/SE08-20 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Demon 悪魔,_Weapon 武器
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, choose 1 Climax in your opponent's Waiting Room, return it to Deck. Your opponent shuffle the Deck afterwards.
+【自】このカードが手札から舞台に置かれた時、あなたは相手の控え室のクライマックスを1枚選び、山札に戻す。相手はその山札をシャッフルする。
+Flavor Text:
+ナイスバディだけは、
+譲れないのよォォォォーッッ！！！！
+
+==========================
+
+天界からの密入界者 アルティナ
+DG/SE08-21 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Angel 天使,_Phantom Thief 怪盗
+Card Text/Abilities:
+【C】If your Stock has 4 cards or more, this card gets +1000 Power.
+【A】 ENCORE ［Place 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【永】 あなたのストックが4枚以上なら、このカードのパワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+お待ちください、天使長様。
+あと少しで、目標金額達成ですわ
+
+==========================
+
+超合金ロボ グレートフロンガーＸ
+DG/SE08-22 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Mecha メカ,_Love 愛
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, if your Deck has 5 or less cards, return all cards in your Waiting Room into Deck. If you did, shuffle your Deck afterwards, until the end of your opponent's next turn, this card gets +3000 Power.
+【自】このカードが手札から舞台に置かれた時、あなたの山札が5枚以下なら、あなたは自分の控え室のカードすべてを山札に戻す。そうしたら、その山札をシャッフルし、次の相手のターンの終わりまで、このカードのパワーを＋3000。
+Flavor Text:
+天使長フロン「青い地球を守るため！
+時空を超えてやってきた！　愛の祈りが呼ぶチカラ！！」
+
+==========================
+
+悪魔と天使の絆
+DG/SE08-23 C
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: G
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gold：When this card is Triggered, put this card in your hand. You may put the top card of your deck to Stock)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(宝：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい)
+Flavor Text:
+ヴァルバトーゼ「おい……、なぜ俺をかばった！」
+
+==========================
+
+プリニーの世話係 フェンリッヒ
+DG/SE08-24 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Demon 悪魔,_Animal 動物
+Card Text/Abilities:
+【A】［②］When this card is placed on Stage from Hand, you may pay this cost. If you did, choose 1 《プリニー》 from your Waiting Room, return it to Hand.
+【A】［②］When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, choose 1 《血》 Character from your Waiting Room, return it to Hand.
+【自】［②］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《プリニー》のキャラを1枚選び、手札に戻す。
+【自】［②］このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《血》のキャラを1枚選び、手札に戻す。
+Flavor Text:
+……ここは先手を打っておきますか
+
+==========================
+
+“イワシのチカラ”ヴァルバトーゼ
+DG/SE08-25 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Demon 悪魔,_Blood 血
+Card Text/Abilities:
+【C】If you have 1 or less other Characters, this card gets +1000 Power, and gains the following ability.『【C】This card cannot become REVERSE by your opponent's Characters' 【A】 effects.』
+【永】他のあなたのキャラが1枚以下なら、このカードのパワーを＋1000し、このカードは次の能力を得る。『【永】このカードは相手のキャラの【自】の効果によってリバースされない。』
+Flavor Text:
+最高だ―――この『イワシ』という小魚はッ！！！
+
+==========================
+
+悪の美学 ヴァルバトーゼ
+DG/SE08-26 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Demon 悪魔,_Blood 血
+Card Text/Abilities:
+【S】CONCENTRATION［①］Flip 4 cards from the top of your Deck, place them into Waiting Room. For each Climax among those cards, choose 1 of your 《悪魔》 Characters, during this turn, it gets +2000 Power.
+【起】 集中 ［①］あなたは自分の山札から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の《悪魔》のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+何度言えば、分かるのだ！？　誇り高き悪魔である
+この俺が約束を破ることなど、ありえんと！！
+
+==========================
+
+悪の美学 ヴァルバトーゼ
+DG/SE08-26 SP
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Demon 悪魔,_Blood 血
+Card Text/Abilities:
+【S】CONCENTRATION［①］Flip 4 cards from the top of your Deck, place them into Waiting Room. For each Climax among those cards, choose 1 of your 《悪魔》 Characters, during this turn, it gets +2000 Power.
+【起】 集中 ［①］あなたは自分の山札から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の《悪魔》のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+すべての者を再教育するために、
+世界を地獄に変えてやるぞッ！！！
+
+==========================
+
+暴君 ヴァルバトーゼ
+DG/SE08-27 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Demon 悪魔,_Blood 血
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, choose 1 of your other 《悪魔》 Characters, during this turn, it gets +1000 Power.
+【A】When this card becomes REVERSE, if this card's battle opponent is Level 2 or below, you may REVERSE that Characters.
+【自】このカードが手札から舞台に置かれた時、あなたは他の自分の《悪魔》のキャラを1枚選び、そのターン中、パワーを＋1000。
+【自】このカードがリバースした時、このカードのバトル相手のレベルが2以下なら、あなたはそのキャラをリバースしてよい。
+Flavor Text:
+よかろう！　約束してやるとも！
+キサマを恐怖に陥れるなど容易きことだからな！
+
+==========================
+
+ヴァル様の参謀 フェンリッヒ
+DG/SE08-28 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 6500
+Soul: 1
+Traits:: Demon 悪魔,_Animal 動物
+Card Text/Abilities:
+【A】If another of your 《悪魔》 Characters become REVERSE in battle, choose 1 of your Characters, during this turn, it gets +2000 Power.
+【自】他のあなたのバトル中の《悪魔》のキャラがリバースした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+その悪魔らしからぬ『仲間を信じる心』もまた
+我が主、ヴァルバトーゼ様の恐るべき特殊能力……
+
+==========================
+
+ヴァル様の参謀 フェンリッヒ
+DG/SE08-28 SP
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 6500
+Soul: 1
+Traits:: Demon 悪魔,_Animal 動物
+Card Text/Abilities:
+【A】If another of your 《悪魔》 Characters become REVERSE in battle, choose 1 of your Characters, during this turn, it gets +2000 Power.
+【自】他のあなたのバトル中の《悪魔》のキャラがリバースした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+すでに手は打ってあります。このフェンリッヒにお任せを
+
+==========================
+
+プリニーの教育係 ヴァルバトーゼ
+DG/SE08-29 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Demon 悪魔,_Blood 血
+Card Text/Abilities:
+【C】All your other 《プリニー》 Characters get +500 Power.
+【A】When this card becomes REVERSE, if this card's battle opponent is Level 0 or below, you may REVERSE that Character.
+【永】他のあなたの《プリニー》のキャラすべてに、パワーを＋500。
+【自】このカードがリバースした時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをリバースしてよい。
+Flavor Text:
+よかろう！見せてやるとも！戦うプリニー教育係の姿をな！！
+
+==========================
+
+人狼族の執事 フェンリッヒ
+DG/SE08-30 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Demon 悪魔,_Animal 動物
+Card Text/Abilities:
+【C】If you have 1 or less other Character, all your other Characters get +1500 Power.
+【永】他のあなたのキャラが1枚以下なら、他のあなたのキャラすべてに、パワーを＋1500。
+Flavor Text:
+閣下……！　そんなにポンポンと
+くだらない約束をしてもらっては困ります！
+
+==========================
+
+絶対の忠誠 フェンリッヒ
+DG/SE08-31 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Demon 悪魔,_Animal 動物
+Card Text/Abilities:
+【A】When the Damage dealt by this card is cancelled, if 「月の誓い」 is in your Climax slot, choose 1 Character in your Waiting Room, return it to Hand.
+【自】このカードの与えたダメージがキャンセルされた時、あなたのクライマックス置場に「月の誓い」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+月は、わたくしにとって閣下に対する忠誠の証
+よかろう！見せてやるとも！戦うプリニー教育係の姿をな！！
+
+==========================
+
+魔王ラハール大統領閣下
+DG/SE08-32 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Demon 悪魔,_Weapon 武器
+Card Text/Abilities:
+この世界に主役は、ただひとり！　それが、このオレさま！
+魔王ラハール大統領閣下だ！！
+Flavor Text:
+
+==========================
+
+誇り高き悪魔 ヴァルバトーゼ
+DG/SE08-33 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Demon 悪魔,_Blood 血
+Card Text/Abilities:
+【S】● ASSIST 3000 Level 2［① Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)
+【起】● 助太刀3000 レベル2 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000)
+Flavor Text:
+心配には及ばぬ。俺に任せておけ
+
+==========================
+
+神への反逆者 ヴァルバトーゼ
+DG/SE08-34 C
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Demon 悪魔,_Blood 血
+Card Text/Abilities:
+【C】If you have 3 or more other 《悪魔》, 《天使》 or 《プリニー》 Characters, this card gets +1000 Power.
+【C】Character opposing this card gets -1 Soul.
+【A】［①］When 「「絆」のチカラ」 is placed into your Climax slot, if this card is in the Front Row, you may pay this cost. If you did, choose 1 of your opponent's Front Row Character with Level 3 or below, place it into Waiting Room.
+【永】他のあなたの《悪魔》か《天使》か《プリニー》のキャラが3枚以上なら、このカードのパワーを＋1000。
+【永】このカードの正面のキャラのソウルを－1。
+【自】［①］あなたのクライマックス置場に「「絆」のチカラ」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル3以下のキャラを1枚選び、控え室に置く。
+Flavor Text:
+……では、ゆくとするか。神への反逆の道を！
+
+==========================
+
+『絆』のチカラ
+DG/SE08-35 C
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When this card is Triggered, choose 1 Character from your waiting room, return to hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(扉：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+―――神よ！！　人間に罪を償わせるのは
+悪魔の役目！　キサマの出番は終了だ！！
+
+==========================
+
+月の誓い
+DG/SE08-36 C
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+
+==========================
+
+ラスボスを目指す乙女 デスコ
+DG/SE08-37 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Demon 悪魔,_Clone クローン
+Card Text/Abilities:
+【C】All your other 《クローン》 or 《死》 Characters get +500 Power.
+【S】CONCENTRATION［① REST this card］Flip 4 cards from the top of your Deck, place them into Waiting Room. For each Climax among those cards, draw 1 card.
+【永】他のあなたの《クローン》か《死》のキャラすべてに、パワーを＋500。
+【起】 集中 ［① このカードをレストする］あなたは自分の山札から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。
+Flavor Text:
+お、おねえさまに、なんてことを！
+デスコ、許さないデスよ！
+
+==========================
+
+夢見がちでファンシー デスコ
+DG/SE08-38 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Demon 悪魔,_Clone クローン
+Card Text/Abilities:
+【A】When you use 「CONCENTRATION」, if a Climax is placed into Waiting Room by that effect, during this turn, this card gets +2000 Power.
+【自】あなたが「 集中 」を使った時、その効果でクライマックスが控え室に置かれたなら、そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+……じゃあ、三段変身とか、
+世界の半分をエサに勇者さんを誘惑したりもできるデスか？
+
+==========================
+
+“最終兵器ＤＥＳＣＯ”
+DG/SE08-39 C
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Demon 悪魔,_Clone クローン
+Card Text/Abilities:
+【C】This card gets +X Power. X is equals to the Level of the Character opposing this card ×500.
+【A】When this card is placed on Stage from Hand or through 「CHANGE」, you may place the top card of your Clock into Waiting Room.
+【A】When this card is placed on Stage from Hand, choose 1 of your STAND Characters, REST it.
+【永】このカードのパワーを＋Ｘ。Ｘはこのカードの正面のキャラのレベル×500に等しい。
+【自】このカードが手札から舞台に置かれた時か「 チェンジ 」で舞台に置かれた時、あなたは自分のクロックの上から1枚を控え室に置いてよい。
+【自】このカードが手札から舞台に置かれた時、あなたは自分のスタンドしているキャラを1枚選び、レストする。
+Flavor Text:
+我こそが……全世界を獄炎の海に沈めたもう混沌の根源、
+
+==========================
+
+“最終兵器ＤＥＳＣＯ”
+DG/SE08-39 SP
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Demon 悪魔,_Clone クローン
+Card Text/Abilities:
+【C】This card gets +X Power. X is equals to the Level of the Character opposing this card ×500.
+【A】When this card is placed on Stage from Hand or through 「CHANGE」, you may place the top card of your Clock into Waiting Room.
+【A】When this card is placed on Stage from Hand, choose 1 of your STAND Characters, REST it.
+【永】このカードのパワーを＋Ｘ。Ｘはこのカードの正面のキャラのレベル×500に等しい。
+【自】このカードが手札から舞台に置かれた時か「 チェンジ 」で舞台に置かれた時、あなたは自分のクロックの上から1枚を控え室に置いてよい。
+【自】このカードが手札から舞台に置かれた時、あなたは自分のスタンドしているキャラを1枚選び、レストする。
+Flavor Text:
+我こそが……全世界を獄炎の海に沈めたもう混沌の根源、
+
+==========================
+
+特別房のヌシ デスコ
+DG/SE08-40 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Demon 悪魔,_Clone クローン
+Card Text/Abilities:
+【C】During your opponent's turn, this card gets +1000 Power.
+【永】相手のターン中、このカードのパワーを＋1000。
+Flavor Text:
+ウソじゃないデス！！　デスコはラスボスなんです！！
+
+==========================
+
+第62代魔界大統領 アクターレ
+DG/SE08-41 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Demon 悪魔,_Dark Hero ダークヒーロー
+Card Text/Abilities:
+【A】When this card becomes REVERSE in battle, place this card to the bottom of Deck.
+【S】［REST 2 of your 《悪魔》 Characters］Choose 1 of your Characters, during this turn, it gets +2000 Power.
+【自】バトル中のこのカードがリバースした時、このカードを山札の下に置く。
+【起】［あなたの《悪魔》のキャラを2枚レストする］あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+
+==========================
+
+地獄の獄長 アクターレ
+DG/SE08-42 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Demon 悪魔,_Dark Hero ダークヒーロー
+Card Text/Abilities:
+Flavor Text:
+イッツ　ア　アクターレ　ワールド！！
+
+==========================
+
+ラスボス修行 デスコ
+DG/SE08-43 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Demon 悪魔,_Clone クローン
+Card Text/Abilities:
+【A】［①］When 「最終兵器、現る」 is placed into your Climax slot, if this card is in the Front Row, you may pay this cost. If you did, choose 1 of your opponent's Characters with Cost 0 or less, place it to bottom of Deck.
+【A】CHANGE［② Place this card into Waiting Room］At the beginning of your Encore Step, if this card is in REST, you may pay this cost. If you did, choose 1 「“最終兵器ＤＥＳＣＯ”」 from your Waiting Room, place it into this card's previous slot.
+【自】［①］あなたのクライマックス置場に「最終兵器、現る」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のコスト0以下のキャラを1枚選び、山札の下に置く。
+【自】 チェンジ ［② このカードを控え室に置く］あなたのアンコールステップの始めに、このカードがレストしているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“最終兵器ＤＥＳＣＯ”」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+デスコ、立派なラスボスになるまで、
+ついて行くって約束するデス！
+
+==========================
+
+“パーフェクトバージョン”デスゼット
+DG/SE08-44 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Demon 悪魔,_Clone クローン
+Card Text/Abilities:
+【C】If your opponent is Level 3 or above, this card gets +500 Power and gains 『【A】ENCORE［Place 1 Character from Hand to Waiting Room］』.
+【永】相手のレベルが3以上なら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。
+Flavor Text:
+アタシこそが史上最強のラスボス、デスゼット様なんだからね！！
+
+==========================
+
+最終兵器、現る
+DG/SE08-45 C
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Book：When this card is triggered, you may draw 1 card)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(本：このカードがトリガーした時、あなたは1枚引いてよい)
+Flavor Text:
+ククク……　せっかく閉じた地獄の釜を
+再び開く愚か者がいるとは……
+
+==========================
+
+地獄の反逆者
+DG/SE08-46 PR
+Type: Event
+Level: 3
+Color: Red
+Cost: 3
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Deal 5 Damage to your opponent. (Damage can be cancelled)
+あなたは相手に5ダメージを与える。 (ダメージキャンセルは発生する)
+Flavor Text:
+ヴァルバトーゼ「この戦いはプリニーのためではない!!
+俺が約束を果たすための……
+イワシのための戦いなのだッッ!!!!」
+
+==========================
+
+プレネールさんPleinair-san
+DG/SE08-47 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Doll 人形,
+Card Text/Abilities:
+【C】When you have no other Characters, this card gets +2000 Power.
+【永】他のあなたのキャラがいないなら、このカードのパワーを＋2000。
+Flavor Text:
+
+==========================
+
+史上最弱の主人公 プリニー
+DG/SE08-48 PR
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Prinny プリニー,_Weapon 武器
+Card Text/Abilities:
+【A】［(2)］ When this comes to stage from hand, you may pay the cost. If you did, search your deck up to 1 《プリニー》 character and show it to opponent. Shuffle your deck afterwards.
+【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《プリニー》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+万能型ザコキャラって…オレ達主人公ッスよ！
+
+==========================
+
+パーソナリティ フーカ
+DG/SE08-49 PR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Prinny プリニー,_Death 死
+Card Text/Abilities:
+Flavor Text:
+日本　一人前になるわ！
+
+==========================
+
+“スッポンパワー”フーカ
+DG/SE08-50 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Prinny プリニー,_Death 死
+Card Text/Abilities:
+Flavor Text:
+もっと美味しいものが良かったなぁ…
+
+==========================
+
+仙丹で回復中 フーカ
+DG/SE08-51 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Prinny プリニー,_Death 死
+Card Text/Abilities:
+【A】 When this card attacks, during this turn, all your character gets +500 power.
+【自】 このカードがアタックした時、あなたのキャラすべてに、そのターン中、パワーを＋500。
+Flavor Text:
+この監獄からの～卒業～～♪
+
+==========================
+

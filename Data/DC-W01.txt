@@ -1,0 +1,3001 @@
+学園長のさくら
+DC/W01-001 RR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】 BOND／「桜内 義之」［①］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「桜内 義之」 from your Waiting Room, return to Hand)
+【S】［① Put this card to REST］ Choose one of your 《魔法》 character, during this turn, it gets +1 soul.
+【自】 絆／「桜内 義之」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「桜内 義之」を1枚選び、手札に戻す)
+【起】［① このカードをレストする］あなたは《魔法》の自分のキャラを1枚選び、そのターン中、ソウル＋1。
+Flavor Text:
+まあ、ボクも長いこと学園にいるからさ。思い出がいっぱいになっちゃうんだよ
+
+==========================
+
+朝倉 音姫
+DC/W01-002 RR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+【A】 When you play this card to stage, choose one of your STAND character and REST it.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is placed in Waiting Room from Stage, you may pay the cost. If you do, return this card in REST to its previous slot.)
+【自】このカードがプレイされて舞台に置かれた時、あなたはスタンドしている自分のキャラを1枚選び、レストする。　
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+お昼まだでしょ？ 私、お弁当作ってきたんだ。一緒に食べよ？
+
+==========================
+
+音夢＆さくら
+DC/W01-003 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【C】 During your turn, all other character gets +500 power.
+【A】 When this card attacks, all your characters, during this turn, gets +500 power.
+【永】あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。
+【自】このカードがアタックした時、あなたのキャラすべてに、そのターン中、パワーを＋500。
+Flavor Text:
+純一「しかし、お前らの兄さんとかお兄ちゃん、
+ってどうにかならないか？」
+
+==========================
+
+霧羽 明日美
+DC/W01-004 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 5000
+Soul: 2
+Traits:: ,
+Card Text/Abilities:
+【C】 ALARM If this card is at the top of your clock, if you are level 2 or above, all your yellow character get +1 soul.
+【永】 アラーム このカードがクロックの1番上にあり、あなたのレベルが2以上なら、黄のあなたのキャラ全てに、ソウル＋1。
+Flavor Text:
+･･････また 風見学園
+ここ
+にきてもいいでしょうか
+
+==========================
+
+鷺澤 頼子
+DC/W01-005 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 3000
+Soul: 1
+Traits:: Animal 動物,_Maid メイド
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +1 soul.
+【A】 When your other character REVERSED the battling character, choose one of your character, during this turn, it gets +1000 power.
+【永】 応援 このカードの前のあなたのキャラすべてに、ソウルを＋1。
+【自】他のあなたのキャラとバトルしているキャラがリバースした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+いっぱい･･････食べてくださいね
+
+==========================
+
+由夢＆音姫
+DC/W01-006 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+Flavor Text:
+あー、お姉ちゃん！よけいなこと言わないで！
+
+==========================
+
+由夢＆音姫
+DC/W01-006 RRR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+Flavor Text:
+うわ、兄さんって贅沢だよね。両手に花状態だって言うのにさ
+
+==========================
+
+鷺澤 美咲
+DC/W01-007 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【C】 During your turn, this card gets +1000 power.
+【永】あなたのターン中、このカードのパワーを＋1000。
+Flavor Text:
+205時間も待ったから、今ここで、告白しちゃいます
+
+==========================
+
+簡易スーツの和泉子
+DC/W01-008 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 1500
+Soul: 1
+Traits:: Alien 宇宙人,_Salmon シャケ
+Card Text/Abilities:
+【C】 This card cannot be chosen by opponent's abilities.
+【A】 When this card is being front attacked, opponent choose one of his hand card and discard it to waiting room.
+【永】このカードは相手の効果に選ばれない。
+【自】このカードがフロントアタックされた時、相手は自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+最後だから、どうしても私の本当の姿を見てほしくて
+
+==========================
+
+桜内 義之
+DC/W01-009 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 1
+Power: 3500
+Soul: 1
+Traits:: Magic 魔法,_Sweets お菓子
+Card Text/Abilities:
+【C】 This card cannot be play from hand if you do not have 《魔法》 character.
+【C】 All your other 《魔法》 character gets +500 power.
+【S】［④］ Choose 1 of your opponent's Front Row Level 2 or below character, return it to hand.
+【永】このカードは、《魔法》のあなたのキャラがいないなら、手札からプレイできない。
+【永】他の《魔法》のあなたのキャラすべてに、パワーを＋500。
+【起】［④］あなたはレベル2以下の相手の前列のキャラを1枚選び、手札に戻す。
+Flavor Text:
+こんな能力、別に何かの役に立つわけでもないけどな
+
+==========================
+
+巫女装束の音姫
+DC/W01-010 U
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Magic 魔法,_Miko 巫女
+Card Text/Abilities:
+【A】When this card attacks, if 「存在のなくなる日」 is in the Climax slot, choose 1 of your opponent's Characters, you may return it to Hand.
+【S】［(1)］ そのターン中、このカードのソウルを＋1。
+【自】 このカードがアタックした時、クライマックス置場に「存在のなくなる日」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。
+【起】［①］During this turn, this card gets +1 Soul.
+Flavor Text:
+あ、あはは。いつもと違う格好だから、ちょっと転んじゃった
+
+==========================
+
+水着のさくら
+DC/W01-011 U
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Magic 魔法,_Swimsuit 水着
+Card Text/Abilities:
+【C】 BODYGUARD(When your opponent attack, If this card is not reverse and is in the front row center stage,opponent will front attack this character instead)
+【A】 When this card attacks, if your have 「魔法使いの見る夢」 in your climax slot, choose 1 of your opponent's character, you may return it to hand.
+【S】［⑥］ Return all opponent front row character back to hand.
+【永】 大活躍 (相手がアタックする時、リバースしていないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする)
+【自】このカードがアタックした時、クライマックス置場に「魔法使いの見る夢」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。
+【起】［⑥］あなたは相手の前列のキャラすべてを、手札に戻す。
+Flavor Text:
+もう子供じゃないですよ～だ！
+
+==========================
+
+うたまる
+DC/W01-012 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【C】 All your other 「水着のさくら」 gets +1000 power.
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【永】他のあなたの「水着のさくら」すべてに、パワーを＋1000。
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+にゃっ、にゃにゃっ、にゃ～にゃ～
+
+==========================
+
+はりまお
+DC/W01-013 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+Flavor Text:
+あんあん!!
+
+==========================
+
+紫 和泉子
+DC/W01-014 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Alien 宇宙人,_Animal 動物
+Card Text/Abilities:
+【S】［③］Choose 1 opponent front row character level 1 or below, return it to hand.
+【起】［③］あなたはレベル1以下の相手の前列のキャラを1枚選び、手札に戻す。
+Flavor Text:
+シャケおにぎり、おいし･･････
+
+==========================
+
+芳乃 さくら
+DC/W01-015 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Teacher 先生,_Magic 魔法
+Card Text/Abilities:
+【S】● ASSIST 2000 Level 1 ［Discard this card from hand to Waiting Room］ (Choose 1 character that is being Front Attacked, during this turn, it gets +2000 Power.)
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋2000)
+Flavor Text:
+ボディーランゲージは愛情表現の基本だよっ
+
+==========================
+
+霧羽 香澄
+DC/W01-016 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Spirit/Ghost 霊,
+Card Text/Abilities:
+【A】 When this card becomes REVERSE, if the character battling this card is Level 1 or below, you may put that card to REVERSE.
+【A】［①］ When this card attacks, if you have 「あたし･･････そろそろ行かなきゃ･･････」 in your climax slot,you may pay the cost, if you did, choose opponent 1 character, return it to hand.
+【自】このカードがリバースした時、このカードとバトルしているキャラのレベルが1以下なら、あなたはそのキャラを手札に戻してよい。
+【自】［①］このカードがアタックした時、クライマックス置場に「あたし･･････そろそろ行かなきゃ･･････」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、手札に戻す。
+Flavor Text:
+これだけはっきりと足が見えてるのに失礼ね
+
+==========================
+
+才色兼備の生徒会長 音姫
+DC/W01-017 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+Flavor Text:
+生徒会長をなめたらダメだよ。
+弟くんの情報は全部筒抜けなんだから♪
+
+==========================
+
+記憶消去
+DC/W01-018 R
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Opponent choose 1 of his hand card, discard it to waiting room.
+相手は自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+え？あやや･･････その、ちょっとごめんなさい！
+
+==========================
+
+決意
+DC/W01-019 U
+Type: Event
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your 《魔法》 character, during this turn, is gets +2000 power and +2 soul. At the end of turn, place that character into memory.
+あなたは《魔法》の自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋2。ターンの終わりに、そのキャラを思い出にする。
+Flavor Text:
+うん、バッサリやっちゃって。女の子が失恋した時くらい
+
+==========================
+
+水着の音姫
+DC/W01-01 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Student Council 生徒会,_Swimsuit 水着
+Card Text/Abilities:
+【自】このカードがアタックした時、あなたのキャラすべてに、そのターン中、パワーを＋500。
+Flavor Text:
+弟くんのことなら、何でもわかるんだから
+
+==========================
+
+ネコ耳メイドさん
+DC/W01-020 U
+Type: Event
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+● Choose one of your character, during this turn, it gets +1500 power and +1 soul.
+●あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500し、ソウルを＋1。
+Flavor Text:
+私･･････私を･･････メイドとしてここに置いて下さい･･････！
+
+==========================
+
+着ぐるみの中の人
+DC/W01-021 C
+Type: Event
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose opponent 1 character, during this turn, reduce it's level by 2.
+あなたは相手のキャラを1枚選び、そのターン中、レベルを－2。
+Flavor Text:
+え、これ、その、誰、誰だっけ？
+
+==========================
+
+朝倉姉妹のお料理
+DC/W01-022 C
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 0
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose one of your character, during this turn, it gets +6000 power.
+あなたは自分のキャラを1枚選び、そのターン中、パワーを＋6000。
+Flavor Text:
+あっ、包丁、そんな風に持っちゃ危ないよ。
+ちゃんと手を添えて、こう･･････
+
+==========================
+
+存在のなくなる日
+DC/W01-023 CR
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1W
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return to Hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(風：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+大好きなのに･･････誰よりも大好きな人なのに･･････
+絶対絶対、離れたくないのにっ･･････！
+
+==========================
+
+存在のなくなる日
+DC/W01-023 SP
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1W
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return to Hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(風：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+･･････私、魔法を使って、
+どうしても助けてあげなきゃならない人がいるんです
+
+==========================
+
+魔法使いの見る夢
+DC/W01-024 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+Flavor Text:
+ここはみんなの夢の通り道･･････
+
+==========================
+
+あたし･･････そろそろ行かなきゃ･･････
+DC/W01-025 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+『アスミノコト　ヨロシクネ　カスミ』
+
+==========================
+
+晴れ着のななか
+DC/W01-026 RR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Music 音楽,_Wafuku 和服
+Card Text/Abilities:
+【C】 All your other 「月島 小恋」 gets +1000 power.
+【A】 BOND／「月島 小恋」［①］(When you play this card to Stage, you may pay this cost. If you do, choose 1 「月島 小恋」 from your Waiting Room, put it into your hand)
+【永】他のあなたの「月島 小恋」すべてに、パワーを＋1000。
+【自】 絆／「月島 小恋」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「月島 小恋」を1枚選び、手札に戻す)
+Flavor Text:
+あけましておめでとーございまーーーっす！
+
+==========================
+
+晴れ着の小恋
+DC/W01-027 RR
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 3000
+Soul: 1
+Traits:: Music 音楽,_Wafuku 和服
+Card Text/Abilities:
+【A】 When this card attacks, if your have 「伝わる温もり」 in your climax slot, place the top card of your Deck into Stock, during this turn, this card gets +3000 power.
+【S】 ［Put this card to REST］ Place the top card of your Deck into Stock
+【自】このカードがアタックした時、クライマックス置場に「伝わる温もり」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋3000。
+【起】［このカードをレストする］あなたは自分の山札の上から1枚を、ストック置場に置く。
+Flavor Text:
+あけましておめでとう～
+
+==========================
+
+胡ノ宮 環
+DC/W01-028 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Miko 巫女
+Card Text/Abilities:
+【S】［Put this card to REST］ Choose one of your character, during this turn, it gets +1000 power.
+【起】［このカードをレストする］あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+わたくしの大切な人のために･･････
+
+==========================
+
+パジャマの茜
+DC/W01-029 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【A】When you use this card's 「ASSIST」,if you have character name 「小恋」 or 「杏」. You may place the top card of your Deck into Stock
+【S】● ASSIST 2000 Level 1 ［Discard this card from hand to Waiting Room］ (Choose 1 character that is being Front Attacked, during this turn, it gets +2000 Power.)
+【自】 あなたがこのカードの『 助太刀 』を使った時、あなたのカード名に「小恋」か「杏」を含むキャラがいるなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋2000)
+Flavor Text:
+そりゃもちろん、『愛してるよ･･････』に決まってるじゃない！
+
+==========================
+
+水着の音夢＆さくら
+DC/W01-02 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Magic 魔法,_Swimsuit 水着
+Card Text/Abilities:
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+それで、どうですか？　私の水着姿は
+
+==========================
+
+月島 小恋
+DC/W01-030 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+【A】 ENCORE ［Put 1 Character from hand to Waiting Room］ (When this card is put into Waiting Room from Stage, you may pay this cost. If you do, return that card to its original slot in REST)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+水泳の授業のときにね･･････、着替えてて、バレたの･･････
+
+==========================
+
+月島 小恋
+DC/W01-030 RRR
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+【A】 ENCORE ［Put 1 Character from hand to Waiting Room］ (When this card is put into Waiting Room from Stage, you may pay this cost. If you do, return that card to its original slot in REST)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+水泳の授業のときにね･･････、着替えてて、バレたの･･････
+
+==========================
+
+学園のアイドルことり
+DC/W01-031 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Music 音楽
+Card Text/Abilities:
+【C】 ALARM If this card is at the top of your clock, if you are level 2 or above, all your green character gets +1500 power.
+【永】 アラーム このカードがクロックの1番上にあり、あなたのレベルが2以上なら、緑のあなたのキャラすべてに、パワーを＋1500。
+Flavor Text:
+大好きな人に、膝枕をして上げたいんです
+
+==========================
+
+工藤 叶
+DC/W01-032 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Wafuku 和服,
+Card Text/Abilities:
+【C】 This card cannot be play from hand if you do not have 「学生服の工藤」.
+【永】このカードは、あなたの「学生服の工藤」がいないなら、手札からプレイできない。
+Flavor Text:
+私をずっと守ってくれる――
+それがあなたの今でも変わらない想いですか？
+
+==========================
+
+みっくん＆ともちゃん
+DC/W01-033 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 3000
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+【C】 SUPPORT All your Level 2 and above Characters in front of this card gets +1000 Power.
+【S】 ［Put this card to REST］ All your other 《音楽》 character, during this turn, gets +500 power.
+【永】 応援 このカードの前のレベル2以上のあなたのキャラすべてに、パワーを＋1000。
+【起】［このカードをレストする］他の《音楽》のあなたのキャラすべてに、そのターン中、パワーを＋500。
+Flavor Text:
+よろしくお願いします
+
+==========================
+
+スキーウェアのななか
+DC/W01-034 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 3000
+Soul: 1
+Traits:: Music 音楽,_Sports スポーツ
+Card Text/Abilities:
+【A】［①］ When the character battling this card becomes REVERSE, you may pay the cost, if you did, Search your Deck for up to 1 《音楽》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【S】［②］During this turn, this card gets +5000 power.
+【自】［①］このカードとバトルしているキャラがリバースした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+【起】［②］そのターン中、このカードのパワーを＋5000。
+Flavor Text:
+最初は皆、初心者コースで滑ろうだって
+
+==========================
+
+朝倉 純一
+DC/W01-035 U
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Magic 魔法,_Sweets お菓子
+Card Text/Abilities:
+Flavor Text:
+人を笑顔にするには自分も笑顔でなきゃね
+
+==========================
+
+私服のことり
+DC/W01-036 U
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Music 音楽,_Magic 魔法
+Card Text/Abilities:
+【C】 BODYGUARD(When your opponent attack, If this card is not reverse and is in the front row center stage,opponent will front attack this character instead)
+【A】When you play this card to stage, look at opponent hand card.
+【A】When this card attacks, if 「結婚式の歌姫」 is in your climax slot, place up to 1 cards from the top of your Deck into Stock,during this turn, this card gets +3000 power.
+【永】 大活躍 (相手がアタックする時、リバースしていないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする)
+【自】このカードがプレイされて舞台に置かれた時、あなたは相手の手札を見る。
+【自】このカードがアタックした時、クライマックス置場に「結婚式の歌姫」があるなら、あなたは山札の上から1枚選び、ストック置場に置き、そのターン中、このカードのパワーを＋3000。
+Flavor Text:
+･･････私に分かるのは、心だけだから･･････
+
+==========================
+
+板橋 渉
+DC/W01-037 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+【S】［Put this card to REST］ Place the top card of your Deck to your Clock.
+【起】［このカードをレストする］あなたは自分の山札の上から1枚を、クロック置場に置く。
+Flavor Text:
+いいんだよ。マジメに音楽をやらない奴は、俺は嫌いなんだ
+
+==========================
+
+花咲 茜
+DC/W01-038 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【S】［①］ During this turn, this card gets +2000 power.
+【起】［①］そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+大丈夫大丈夫～♪ 女の子には、涙って武器があるんだから
+
+==========================
+
+学生服の工藤
+DC/W01-039 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+。
+Flavor Text:
+俺、女の子と付き合う気はないからさ
+
+==========================
+
+水着の由夢＆さくら
+DC/W01-03 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Magic 魔法,_Swimsuit 水着
+Card Text/Abilities:
+【自】このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、そのターン中、このカードのソウルを＋1。 (クライマックスのレベルは0として扱う)
+Flavor Text:
+やっほー！　元気ー！
+
+==========================
+
+雪月花三人娘
+DC/W01-040 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Music 音楽,_Magic 魔法
+Card Text/Abilities:
+。
+Flavor Text:
+そうそう、女の子３人に囲まれてのハーレム状態だよ
+
+==========================
+
+小恋＆ななか
+DC/W01-041 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Music 音楽,_Magic 魔法
+Card Text/Abilities:
+【S】［①］Choose opponent 1 front row character, during this turn, it gets -1000 power.
+【起】［①］あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。
+Flavor Text:
+ぬくぬく～。ななかの手、暖かい～。ほわ～
+
+==========================
+
+大和撫子 環
+DC/W01-042 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 6500
+Soul: 2
+Traits:: Magic 魔法,_Miko 巫女
+Card Text/Abilities:
+【A】When your play this card to stage, look up to 3 cards at opponent top deck, arrange it in any order and place it back to the top deck
+【A】 When this card attack, if you have 「わたくしの大切な人のために･･････」 in your climax slot, place the top card of your Deck into you Stock, during this turn, this card gets +3000.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【自】このカードがプレイされて舞台に置かれた時、あなたは相手の山札を上から3枚まで見て、山札の上に好きな順番で置く。
+【自】このカードがアタックした時、クライマックス置場に「わたくしの大切な人のために･･････」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋3000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+･･････人の未来なんて知りたくないのに･･････
+
+==========================
+
+耳かき
+DC/W01-043 R
+Type: Event
+Level: 2
+Color: Green
+Cost: 0
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose one of your character and STAND it. Choose one of your character, during this turn, it gets +3000.
+あなたは自分のキャラを1枚選び、スタンドする。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。
+Flavor Text:
+弟くんにはやっぱり私がついていてあげないと
+
+==========================
+
+ミス風見学園コンテスト
+DC/W01-044 U
+Type: Event
+Level: 1
+Color: Green
+Cost: 0
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Place 1 cards from the top of your Deck into Stock. Choose one of your character, during this turn, it gets +500 power.
+あなたは山札を上から1枚選び、ストック置場に置く。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+手芸部主催の
+“ミス風見学園コンテスト”を実施します！
+
+==========================
+
+仲間と大切な人に
+DC/W01-045 U
+Type: Event
+Level: 2
+Color: Green
+Cost: 1
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+●Choose 1 of your characters, during this turn, it gets ＋3500 power.
+●あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3500。
+Flavor Text:
+ななかには、もー、兄ちゃんがいるからな～
+
+==========================
+
+音夢のお弁当
+DC/W01-046 C
+Type: Event
+Level: 2
+Color: Green
+Cost: 1
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose opponent 1 front row character, during this turn, it gets -4500.
+あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－4500。
+Flavor Text:
+ね、兄さん。騙されたと思って♪
+
+==========================
+
+転入生
+DC/W01-047 C
+Type: Event
+Level: 1
+Color: Green
+Cost: 0
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Look at your top card of your stock. If that card is a Level 1 or below Character, you may place it into any slot on Stage.
+あなたは自分のストックを上から1枚見る。そのカードがレベル1以下のキャラなら、舞台のいずれかの枠に置いてよい。
+Flavor Text:
+はじめまして････････････になるんでしょうか
+
+==========================
+
+伝わる温もり
+DC/W01-048 CR
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: S
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Bag：When this card is Triggered, you may take the top card of your deck, put to Stock.)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(袋：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい)
+Flavor Text:
+こうやって義之におんぶされるの･･････幼い頃以来だね
+
+==========================
+
+伝わる温もり
+DC/W01-048 SP
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: S
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Bag：When this card is Triggered, you may take the top card of your deck, put to Stock.)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(袋：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい)
+Flavor Text:
+言っておくけど･･････寒いだけだからね。
+　だからくっついてんだからね
+
+==========================
+
+結婚式の歌姫
+DC/W01-049 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+Flavor Text:
+ことりの歌声が、ふたりをそっと、優しく包み込んでいた･･････。
+
+==========================
+
+水着の和泉子
+DC/W01-04 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 6500
+Soul: 1
+Traits:: Alien 宇宙人,_Swimsuit 水着
+Card Text/Abilities:
+【自】このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、あなたは相手のキャラを2枚まで選び、手札に戻す。
+Flavor Text:
+朝倉さん、朝倉さん、カニです！　カニがいます！
+
+==========================
+
+わたくしの大切な人のために･･････
+DC/W01-050 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+この舞は･･････私にとって、
+とてもとても大切な意味を持つ舞ですから･･････
+
+==========================
+
+ゴキゲンな由夢
+DC/W01-051 RR
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】［①］ When this card attacks, if you have 「おかえりなさい」 at your climax slot, you may pay the cost, if you did, choose 1 character at your waiting room, return it to hand.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【自】［①］このカードがアタックした時、クライマックス置場に「おかえりなさい」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+そんなことないよ。
+この世の中に絶対なんてことはないんだよーーっと
+
+==========================
+
+お手製弁当を持つ音夢と由夢
+DC/W01-052 RR
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Lunch お弁当
+Card Text/Abilities:
+【S】［③ Put this card to waiting room］ Choose 1 opponent front stage level 2 or below, move it to waiting room.
+【起】［③ このカードを控え室に置く］あなたはレベル2以下の相手の前列のキャラを1枚選び、控え室に置く。
+Flavor Text:
+兄さん･･･これ、お弁当
+
+==========================
+
+天枷 美春
+DC/W01-053 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Banana バナナ,
+Card Text/Abilities:
+【C】 All your other character named 「音夢」 gets +500 power.
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【永】他のあなたのカード名に「音夢」を含むキャラすべてに、パワーを＋500。
+【永】 応援 このカードの前のあなたのキャラすべてに、パワー＋500。
+Flavor Text:
+焼きバナナでも冷やしバナナでもドンと来いですぅ！
+
+==========================
+
+Ｙシャツの美夏
+DC/W01-054 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 3500
+Soul: 1
+Traits:: Mecha メカ,_Banana バナナ
+Card Text/Abilities:
+【C】 All your other 「雪村 杏」 gets +1000 power.
+【C】 SUPPORT All your Characters in front of this card gets the following effect.『【A】［①］ When this card becomes REVERSE, if the character battling this card is the same level as this card or below, you may put that card to REVERSE.』
+【永】他のあなたの「雪村 杏」すべてに、パワーを＋1000。
+【永】 応援 このカードの前のあなたのキャラすべてに、次の能力を与える。『【自】［①］このカードがリバースした時、このカードとバトルしているキャラのレベルがこのカードのレベル以下なら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラをリバースする。』
+Flavor Text:
+えへへ。ニオイを満喫していたのだ･･････
+
+==========================
+
+漫画家のななこ
+DC/W01-055 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 7000
+Soul: 2
+Traits:: Glasses メガネ,_Manga 漫画
+Card Text/Abilities:
+【A】 When your other battling character becomes REVERSE, choose one of your character, during this turn, it gets +1000.
+【S】［③］Choose 1 character from your waiting room, return it to hand.
+【自】他のバトルしているあなたのキャラがリバースした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+【起】［③］あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+･･････あ、あたしはァ、おっ、面白い話を聞くのが趣味でして！
+
+==========================
+
+朝倉 音夢
+DC/W01-056 R
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【C】 BODYGUARD(When your opponent attack, If this card is not reverse and is in the front row center stage,opponent will front attack this character instead)
+【A】 When this card attacks, if you have 「迷子の夢」 in your climax slot, choose one character at your waiting room, return it to hand.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【永】 大活躍 (相手がアタックする時、リバースしていないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする)
+【自】このカードがアタックした時、クライマックス置場に「迷子の夢」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+兄さんとふたりきりでいられれば、
+私はどこでも、どこまでも幸せだから！
+
+==========================
+
+朝倉 音夢
+DC/W01-056 RRR
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【C】 BODYGUARD(When your opponent attack, If this card is not reverse and is in the front row center stage,opponent will front attack this character instead)
+【A】 When this card attacks, if you have 「迷子の夢」 in your climax slot, choose one character at your waiting room, return it to hand.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【永】 大活躍 (相手がアタックする時、リバースしていないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする)
+【自】このカードがアタックした時、クライマックス置場に「迷子の夢」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+おはよう兄さん
+
+==========================
+
+彩珠 ななこ
+DC/W01-057 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Glasses メガネ,_Manga 漫画
+Card Text/Abilities:
+【C】 ALARM If this card is at the top of your clock,if you are level 2 or above, all your red character gets the following ability.『【A】When this card becomes REVERSE, if the character battling this card is same level or below with this card, you may put that card to REVERSE.』
+【永】 アラーム このカードがクロックの1番上にあり、あなたのレベルが2以上なら、赤のあなたのキャラすべてに、次の能力を与える『【自】このカードがリバースした時、このカードとバトルしているキャラのレベルがこのカードのレベル以下なら、あなたはそのキャラをリバースしてよい。』
+Flavor Text:
+かっ、かっ、かわっ、かわいいって、その、
+あっ、あたっ、あたしが･･････ですか？
+
+==========================
+
+白河 暦
+DC/W01-058 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Teacher 先生,_Glasses メガネ
+Card Text/Abilities:
+【C】 All your other character with name 「美春」gets +500 power.
+【A】 BOND／「ロボ美春」［①］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「ロボ美春」 from your Waiting Room, return to Hand)
+【永】他のあなたのカード名に「美春」を含むキャラすべてに、パワーを＋500。
+【自】 絆／「ロボ美春」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ロボ美春」を1枚選び、手札に戻す)
+Flavor Text:
+頼れよな。これでもお前たちより２歳くらい年は取ってるんだ
+
+==========================
+
+ロボ美春
+DC/W01-059 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 4500
+Soul: 1
+Traits:: Mecha メカ,_Banana バナナ
+Card Text/Abilities:
+【A】When the Character battling this card becomes REVERSE, you may place it at the top of the Deck.
+【A】［①］When this card attacks, if 「美春のオルゴール」 is in your climax slot, you may pay the cost. If your did, choose one character from your waiting room and return it to hand.
+【自】このカードとバトルしているキャラがリバースした時、あなたはそのキャラを山札の上に置いてよい。
+【自】［①］このカードがアタックした時、クライマックス置場に「美春のオルゴール」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+もともと、美春は人間を幸せにするために
+作られたロボットなんですよ
+
+==========================
+
+水着のななか
+DC/W01-05 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Music 音楽,_Swimsuit 水着
+Card Text/Abilities:
+【自】このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、あなたは自分の山札の上から1枚を、ストック置場に置く。 (クライマックスのレベルは0として扱う)
+Flavor Text:
+せっかくだから、ふたりっきりで遊ぼ？
+
+==========================
+
+美春＆音夢
+DC/W01-060 U
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Magic 魔法,_Banana バナナ
+Card Text/Abilities:
+Flavor Text:
+ちっちっちっ･･････
+　女の子はなにかを買う目的なんかなくても買い物するんですよ
+
+==========================
+
+水越 舞佳
+DC/W01-061 U
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 3500
+Soul: 1
+Traits:: Teacher 先生,_Glasses メガネ
+Card Text/Abilities:
+【A】［①］ When this card is play into stage, you may pay the cost, if you did, search your Deck for up to 1 《メカ》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【自】［①］このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《メカ》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+良かったわね～。物分りのいい先生が保健室にいて♪
+
+==========================
+
+μ（ミュー）
+DC/W01-062 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Mecha メカ,_Maid メイド
+Card Text/Abilities:
+【A】 When this card becomes REVERSE, if the character battling this card is Level 0 or below, you may put that card to REVERSE.
+【A】 When this card battling becomes REVERSED, choose one of your character, during this turn, it gets +1000 power.
+【自】このカードがリバースした時、このカードとバトルしているキャラのレベルが0以下なら、あなたはそのキャラをリバースしてよい。
+【自】バトルしているこのカードがリバースした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+今、ご購入なさるともれなく付属品として
+ネコミミセットがついてきます
+
+==========================
+
+HM-A06型 ミナツ
+DC/W01-063 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Mecha メカ,_Banana バナナ
+Card Text/Abilities:
+【C】If you have other 《バナナ》, this card gets +1500 power.
+【S】［② Put this card to REST］ Choose one character in your waiting room, return it to hand.
+【永】他の《バナナ》のあなたのキャラがいるなら、このカードのパワーを＋1500。
+【起】［② このカードをレストする］あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+美夏はな、義之･･････
+人間とロボットをつなぐ懸け橋になりたいのだ
+
+==========================
+
+浴衣の音夢
+DC/W01-064 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Wafuku 和服
+Card Text/Abilities:
+Flavor Text:
+もう、情緒がないなぁ
+
+==========================
+
+体操着の由夢
+DC/W01-065 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+Flavor Text:
+兄さんの、ばーか
+
+==========================
+
+ゆず＆慎
+DC/W01-066 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【C】 If your have  other 2 《音楽》 character or above, this card gets +1000 power.
+【A】When this card becomes REVERSED,if the Character battling this card is Level 1 or below, you may place that Character to stock.
+【永】他の《音楽》のあなたのキャラが2枚以上いるなら、このカードのパワーを＋1000。
+【自】このカードがリバースした時、このカードとバトルしているキャラのレベルが1以下なら、あなたはそのキャラをリバースしてもよい。
+Flavor Text:
+父ちゃん寂しがり屋なんだー。ゆずがいないと何もできない
+
+==========================
+
+パジャマの由夢
+DC/W01-067 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Pyjamas パジャマ
+Card Text/Abilities:
+【S】● ASSIST 3000 Level 2 ［① Discard this card from hand to Waiting Room］ (Choose 1 character that is being Front Attacked, during this turn, it gets +3000 Power.)
+【起】● 助太刀3000 レベル2 ［① 手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋3000)
+Flavor Text:
+や、こんな格好どうせ兄さんくらいにしか見せませんから
+
+==========================
+
+美夏、覚醒！
+DC/W01-068 R
+Type: Event
+Level: 2
+Color: Red
+Cost: 2
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your opponent's Front Row Level 2 or below character, place it to the top Deck.
+あなたはレベル2以下の相手の前列のキャラを1枚選び、山札の上に置く。
+Flavor Text:
+なぜ美夏を起動した？　なにが目的だ？
+
+==========================
+
+かけがえのない仲間
+DC/W01-069 U
+Type: Event
+Level: 2
+Color: Red
+Cost: 2
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose up to 2 character from your waiting room and return it to hand.
+あなたは自分の控え室のキャラを2枚まで選び、手札に戻す。
+Flavor Text:
+ななかの声が･･････みんなの演奏が、ずっと聞こえてたよ･･････
+
+==========================
+
+水着のことり
+DC/W01-06 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Music 音楽,_Swimsuit 水着
+Card Text/Abilities:
+【永】他のあなたの《先生》のキャラがいるなら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。
+Flavor Text:
+ふふ、私ともっと一緒にいたいですか？
+
+==========================
+
+見事なカウンター
+DC/W01-070 U
+Type: Event
+Level: 3
+Color: Red
+Cost: 3
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Deal 5 damage to your opponent.
+あなたは相手に5ダメージ与える。
+Flavor Text:
+･･････痛い
+
+==========================
+
+ななことヤギ
+DC/W01-071 C
+Type: Event
+Level: 2
+Color: Red
+Cost: 1
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 opponent character level 1 or below, move it to waiting room.
+あなたはレベル1以下の相手キャラを1枚選び、控え室に置く。
+Flavor Text:
+ひゃうううう！　やーめーてー！　それを食べないでーーー！！！
+
+==========================
+
+バナナパフェ
+DC/W01-072 C
+Type: Event
+Level: 2
+Color: Red
+Cost: 5
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 2 card at your opponent waiting room, place it to memory. Place this card to memory.
+あなたは相手の控え室のカードを2枚まで選び、思い出にする。このカードを思い出にする。
+Flavor Text:
+すっごい、おいしそうですねぇ！
+
+==========================
+
+迷子の夢
+DC/W01-073 CR
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+Flavor Text:
+
+==========================
+
+迷子の夢
+DC/W01-073 SP
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+Flavor Text:
+
+==========================
+
+美春のオルゴール
+DC/W01-074 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When this card is triggered, choose 1 Character from your waiting room, return to hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(扉：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+美春は幸せでした･･････とっても幸せでした･･････
+
+==========================
+
+おかえりなさい
+DC/W01-075 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+――おかえりなさい、兄さん！
+
+==========================
+
+水越 萌
+DC/W01-076 RR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,_Hotpot 鍋
+Card Text/Abilities:
+【C】 During opponent turn, all your other 《鍋》 character gets +1000 power.
+【C】 SUPPORT All cards in front of this character get 『【A】ENCORE [Discard 1 Character to Waiting Room from hand]』.
+【永】相手のターン中、他の《鍋》のあなたのキャラすべてに、パワーを＋1000。
+【永】 応援 このカードの前のあなたのキャラすべてに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』という能力を与える。
+Flavor Text:
+やっぱり、眠りながら歩くのって、危険なんでしょうか？
+
+==========================
+
+水越 眞子
+DC/W01-077 RR
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Music 音楽,_Hotpot 鍋
+Card Text/Abilities:
+【C】 BODYGUARD(When your opponent attack, If this card is not reverse and is in the front row center stage,opponent will front attack this character instead)
+【A】［③］ When this card is play onto stage, you may pay the cost, if you did, choose one event at your waiting room, return it to hand.
+【永】 大活躍 (相手がアタックする時、リバースしていないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする)
+【自】［③］このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のイベントを1枚選び、手札に戻す。
+Flavor Text:
+か、勘違いしないでよね。恋人って言っても、“フリ”だから
+
+==========================
+
+高坂 まゆき
+DC/W01-078 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Student Council 生徒会,
+Card Text/Abilities:
+【A】When you use this card's 「ASSIST」, Choose one 「非公式新聞部 杉並」 from your Clock, place it to your Stock.
+【S】● ASSIST 1000 Level 1 ［Discard this card from hand to Waiting Room］ (Choose 1 character that is being Front Attacked, during this turn, it gets +1000 Power.)
+【自】あなたがこのカードの『 助太刀 』を使った時、あなたは自分のクロックの「非公式新聞部 杉並」を1枚選び、ストック置場に置いてよい。
+【起】● 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋1000)
+Flavor Text:
+安心して。そんな心配しなくても今回こそ完全に叩き潰してあげるわよ
+
+==========================
+
+雪村 杏
+DC/W01-079 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】［①］ When this card attacks, you may pay the cost, if you did that, draw 1 card.
+【A】 When this card attack, if you have 「もう、忘れない」 at your climax slot, draw 1 card.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【自】［①］このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。
+【自】このカードがアタックした時、クライマックス置場に「もう、忘れない」があるなら、あなたは1枚引く。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+自分の欲求に素直になる。それが一番よ
+
+==========================
+
+水着の小恋
+DC/W01-07 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Music 音楽,_Swimsuit 水着
+Card Text/Abilities:
+【起】［あなたの《音楽》のキャラを2枚レストする］あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+そんなじろじろ見ないでよ～
+
+==========================
+
+ピロスを抱くアリス
+DC/W01-080 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Doll 人形,
+Card Text/Abilities:
+【A】 When this card attacks, if you have 「アリスの願い」 in your climax slot, draw 1 card.
+【S】［①］ During this turn, even if this Character Side Attacks, no Soul is deducted.
+【自】このカードがアタックした時、クライマックス置場に「アリスの願い」があるなら、あなたは1枚引く。
+【起】［①］そのターン中、このカードはサイドアタックしてもソウルが減少しない。
+Flavor Text:
+先輩に会えて、私、変われたから･･････
+
+==========================
+
+美夏＆麻耶
+DC/W01-081 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Mecha メカ,_Class Rep 委員長
+Card Text/Abilities:
+【C】 During opponent turn, this card gets +1000 power.
+【S】［② Put this card to REST］ Place the top card of your Clock into Waiting Room.
+【永】相手のターン中、このカードのパワーを＋1000。
+【起】［② このカードをレストする］あなたは自分のクロックを上から1枚選び、控え室に置く。
+Flavor Text:
+行く行く。沢井が行くならなおさらだ。美夏は行くぞ。
+
+==========================
+
+美夏＆麻耶
+DC/W01-081 RRR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Mecha メカ,_Class Rep 委員長
+Card Text/Abilities:
+【C】 During opponent turn, this card gets +1000 power.
+【S】［② Put this card to REST］ Place the top card of your Clock into Waiting Room.
+【永】相手のターン中、このカードのパワーを＋1000。
+【起】［② このカードをレストする］あなたは自分のクロックを上から1枚選び、控え室に置く。
+Flavor Text:
+行く行く。沢井が行くならなおさらだ。美夏は行くぞ。
+
+==========================
+
+木ブリッヂ長官
+DC/W01-082 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【C】If this card battle with 《本》 or 《漫画》, this card gets +2000 power.
+【A】［Place this card to waiting room］ When your character move to waiting room from stage, if this card is on the back stage, you may pay the cost. if you did,  return that card in REST to it's previous slot
+【永】このカードが《本》か《漫画》のキャラとバトルしているなら、このカードのパワーを＋2000。
+【自】［このカードを控え室に置く］他のあなたのキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのカードをそのカードがいた枠にレストして置く。
+Flavor Text:
+杉並「ブリッヂ長官は、
+いつも町の平和のためにご尽力されている方なんだぞ？」
+
+==========================
+
+瀬場
+DC/W01-083 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Butler 執事,
+Card Text/Abilities:
+【C】 During opponent turn, all your other 《人形》 character gets +500 power.
+【A】 BOND／「ピロスを抱くアリス」［①］(When you play this card to Stage, you may pay this cost. If you do, choose 1 「ピロスを抱くアリス」 from your Waiting Room, put it into your hand)
+【永】相手のターン中、他の《人形》のあなたのキャラすべてに、パワーを＋500。
+【自】 絆／「ピロスを抱くアリス」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ピロスを抱くアリス」を1枚選び、手札に戻す)
+Flavor Text:
+はい、そうでございますが、なにか？
+
+==========================
+
+杉並
+DC/W01-084 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 1000
+Soul: 1
+Traits:: Occult オカルト,
+Card Text/Abilities:
+【A】 When this card battling becomes REVERSED, draw 1 card.
+【自】バトルしているこのカードがリバースした時、あなたは1枚引いて良い。
+Flavor Text:
+「みんな信じないだろうが、世界の平和は俺が守っているんだぞ」
+
+==========================
+
+沢井 麻耶
+DC/W01-085 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Glasses メガネ,_Class Rep 委員長
+Card Text/Abilities:
+Flavor Text:
+ご名答。成績も授業態度も悪いのに、
+空気を読むのだけは得意みたいだね
+
+==========================
+
+美夏＆杏＆小恋
+DC/W01-086 U
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Mecha メカ,_Music 音楽
+Card Text/Abilities:
+Flavor Text:
+よし、行こう。先輩たち
+
+==========================
+
+月城 アリス
+DC/W01-087 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Doll 人形,
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+私は･･････もう、寂しくありません
+
+==========================
+
+音楽部の眞子
+DC/W01-088 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Music 音楽,_Hotpot 鍋
+Card Text/Abilities:
+【C】 During opponent turn, all your other character gets +500 power.
+【永】相手ターン中、他のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+わかんないところがあったら、あたしが教えてあげるから
+
+==========================
+
+眞子＆萌
+DC/W01-089 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Music 音楽,_Hotpot 鍋
+Card Text/Abilities:
+【C】 During opponent turn, this card gets +1000 power.
+【S】［② Put this card to REST］ Draw one card.
+【永】相手のターン中、このカードのパワーを＋1000。
+【起】［② このカードをレストする］あなたは1枚引く。
+Flavor Text:
+お姉ちゃん、そろそろ行こうか
+
+==========================
+
+水着のななか＆由夢
+DC/W01-08 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,_Swimsuit 水着
+Card Text/Abilities:
+【自】このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、そのターン中、このカードのパワーを＋2000。 (クライマックスのレベルは0として扱う)
+Flavor Text:
+ななか「楽しいことはあっという間だね」
+
+==========================
+
+非公式新聞部 杉並
+DC/W01-090 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Occult オカルト,
+Card Text/Abilities:
+Flavor Text:
+「何を言い出すかと思えば･･････
+あまり非公式新聞部をなめない方が賢明だぞ？」
+
+==========================
+
+水着の杏
+DC/W01-091 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Swimsuit 水着
+Card Text/Abilities:
+【C】 ALARM If this card is at the top of your clock, if your are level 2 or above, move this card to waiting room.
+【自】 アラーム あなたのターンの終わりに、このカードがクロックの1番上にあり、あなたのレベルが2以上なら、このカードを控え室に置く。
+Flavor Text:
+いいのよ。『ないちち』には『ないちち』の良さがあるから
+
+==========================
+
+おねむな萌
+DC/W01-092 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Music 音楽,_Hotpot 鍋
+Card Text/Abilities:
+【A】 When this card attacks, if you have 「思い出の･･････品なんです」 in your climax slot, draw 1 card.
+【S】［③］ Draw 2 card, choose 1 hand card, place it to waiting room.
+【自】このカードがアタックした時、クライマックス置場に「思い出の･･････品なんです」があるなら、あなたは1枚引く。
+【起】［③］あなたは2枚引き、自分の手札を1枚選び、控え室に置く。　
+Flavor Text:
+くぅ･･････
+
+==========================
+
+ホラーは苦手
+DC/W01-093 R
+Type: Event
+Level: 2
+Color: Blue
+Cost: 3
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+●Choose one of the battling character, during this turn gets the following effect.『【C】This card cannot deal damage to the player.』
+●あなたはバトルしているキャラを1枚選び、そのターン中、次の能力を与える。『【永】このカードはプレイヤーにダメージを与えることができない。』
+Flavor Text:
+ひっ！
+
+==========================
+
+人形劇
+DC/W01-094 U
+Type: Event
+Level: 2
+Color: Blue
+Cost: 2
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Draw 2 card.
+あなたは2枚まで引く。
+Flavor Text:
+だって、私はエトが･･････エトが、好きだから
+
+==========================
+
+木琴占い
+DC/W01-095 U
+Type: Event
+Level: 2
+Color: Blue
+Cost: 2
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose up to 2 card at your clock, move it to your waiting room. Place this card to memory.
+あなたは自分のクロックを2枚まで選び、控え室に置く。このカードを思い出にする。
+Flavor Text:
+それで１００年後の運勢は･･････
+
+==========================
+
+集合写真
+DC/W01-096 C
+Type: Event
+Level: 1
+Color: Blue
+Cost: 0
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Draw 1 card, Choose one of your hand card and move it to your waiting room.
+あなたは1枚引き、自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+はい、チーズ！
+
+==========================
+
+個人指導
+DC/W01-097 C
+Type: Event
+Level: 1
+Color: Blue
+Cost: 2
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+●Choose one of your character, during this turn, it gets +1500 power. choose one of the battling character, during this turn, it's soul reduce by 1.
+●あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。あなたはバトルしているキャラを1枚選び、そのターン中、ソウルを－1。
+Flavor Text:
+違うってば！そうじゃなくて、こうッ！
+
+==========================
+
+アリスの願い
+DC/W01-098 CR
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+私の願い、叶いました･･････。
+とっても素敵なお友達が、たくさん出来ました
+
+==========================
+
+もう、忘れない
+DC/W01-099 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Book：When this card is triggered, you may draw 1 card)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(本：このカードがトリガーした時、あなたは1枚引いてよい
+Flavor Text:
+義之のことだけは、もう絶対に忘れないんだから･･････
+
+==========================
+
+もう、忘れない
+DC/W01-099 SP
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Book：When this card is triggered, you may draw 1 card)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(本：このカードがトリガーした時、あなたは1枚引いてよい
+Flavor Text:
+義之のことだけは、もう絶対に忘れないんだから･･････
+
+==========================
+
+水着の環
+DC/W01-09 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Miko 巫女,_Swimsuit 水着
+Card Text/Abilities:
+【自】このカードが手札から舞台に置かれた時、あなたは相手の山札を上から2枚まで見てカードを1枚まで選び、山札の下に置く。残りのカードを山札の上に好きな順番で置く。
+Flavor Text:
+もう、恥ずかしいです
+
+==========================
+
+思い出の･･････品なんです
+DC/W01-100 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+Flavor Text:
+いい･･････ですよね
+
+==========================
+
+ディーラーの音姫
+DC/W01-101 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Poker ポーカー,
+Card Text/Abilities:
+Flavor Text:
+「うー、まだ弟くん分の補充が済んでないよぉ～」
+
+==========================
+
+夕暮れにたたずむ由夢
+DC/W01-102 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+Flavor Text:
+「や、たまには兄さんと一緒に帰ろうかなと思って」
+
+==========================
+
+Yume in the warm glow of the setting sun.
+DC/W01-102e PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger:
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+Flavor Text:
+Just thought that we haven\'t gone home together in a while…
+
+==========================
+
+優等生の委員長 沢井麻耶
+DC/W01-103 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger:
+Power: 3000
+Soul: 1
+Traits:: Class Rep 委員長,_Glasses メガネ
+Card Text/Abilities:
+Flavor Text:
+「まったく……」
+
+==========================
+
+登校する朝倉姉妹
+DC/W01-104 PR
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+Flavor Text:
+「今度からは一緒に勉強しようね。 お姉ちゃんが教えてあげるから」
+
+==========================
+
+BNNエージェント 美夏
+DC/W01-105 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger:
+Power: 1000
+Soul: 1
+Traits:: Mecha メカ,_Banana バナナ
+Card Text/Abilities:
+【C】If you have  other 《バナナ》 characters, this card gets +1500 Power.
+【S】［(2) Put this card to REST］Choose 1 character from your waiting room, return it to hand
+【永】 他の《バナナ》のあなたのキャラがいるなら、このカードのパワーを＋1500。
+【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+バナナに代わっておしおきだ！
+
+==========================
+
+かき氷を食べる音姫
+DC/W01-106 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Shaved Ice かき氷
+Card Text/Abilities:
+【S】● ASSIST 2000 Level 1［① Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +2000 Power.)
+【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋2000）
+Flavor Text:
+はい。弟くん、あ～ん♪
+
+==========================
+
+不安な幼なじみ小恋
+DC/W01-107 PR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger:
+Power: 2000
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+【S】［①］Choose 1 of your Characters, during this turn, it gets 1500.
+【起】 [(1)] あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+太ってない、太ってないよね、わたし！
+
+==========================
+
+メイド服の美夏
+DC/W01-108 PR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Mecha メカ,_Maid メイド
+Card Text/Abilities:
+【S】［Put 1 of your 《メガネ》 characters to REST］During this turn, this card gets +1000 Power.
+【起】 [あなたの《メガネ》のキャラを1枚【レスト】する] そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+これはあくまで美夏の性能実験なのだ。勘違いするなよ！
+
+==========================
+
+不敵に微笑む杏
+DC/W01-109 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+Flavor Text:
+ふふ。 そういうときは深く考えないのが一番よ
+
+==========================
+
+スイカ割り
+DC/W01-10 C
+Type: Event
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、あなたは自分の山札の上から2枚を、ストック置場に置く。
+Flavor Text:
+ななか「いっくよ～、えいっ！」
+
+==========================
+
+レッツ! ダ・カーポーカー!!
+DC/W01-110 PR
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+
+==========================
+
+特別留学生エリカ
+DC/W01-111 PR
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: ,_Royal Family 王族
+Card Text/Abilities:
+Flavor Text:
+主導権はわたし！
+
+==========================
+
+旅人アイシア
+DC/W01-112 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Toy オモチャ
+Card Text/Abilities:
+【S】● ASSIST 2000 Level 1［① Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +2000 Power.)
+【起】【カウンター】 助太刀2000 レベル1 [(1) 手札のこのカードを控え室に置く] （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを+2000）
+Flavor Text:
+よーし、がんばるぞ～！
+
+==========================
+
+付属1年生まひる
+DC/W01-113 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Myth たとえ話,
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを+500。
+Flavor Text:
+先輩って呼んでいいですか？
+
+==========================
+
+恋する女の子 音姫
+DC/W01-114 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Love 愛
+Card Text/Abilities:
+【S】［Put 1 of your characters name 「義之」 to REST］During this turn, this card gets +2000 Power.
+【起】[あなたのカード名に「義之」を含むキャラを1枚【レスト】する] そのターン中、このカードのパワーを+2000。
+Flavor Text:
+すごくすごく好きなんだからねっ！
+
+==========================
+
+才色兼備の生徒会長 音姫
+DC/W01-115 PR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+Flavor Text:
+さーて、次は抜き打ちで各教室を回って違法品の没収を行います
+
+==========================
+
+不安な幼なじみ小恋
+DC/W01-116 PR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger:
+Power: 2000
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+【S】［①］Choose 1 of your Characters, during this turn, it gets 1500.
+【起】 [(1)] あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+太ってない、太ってないよね、わたし！
+
+==========================
+
+水着の音夢
+DC/W01-11 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Magic 魔法,_Swimsuit 水着
+Card Text/Abilities:
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+ほら、兄さんも泳ぎましょうよ
+
+==========================
+
+水着の美春
+DC/W01-12 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Banana バナナ,_Swimsuit 水着
+Card Text/Abilities:
+【起】［このカードをレストする］あなたは自分の控え室の《人形》のキャラを1枚選び、手札に戻す。あなたは自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+バナナの世界にようこそ！
+
+==========================
+
+水着の由夢
+DC/W01-13 C
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Magic 魔法,_Swimsuit 水着
+Card Text/Abilities:
+【自】このカードが手札から舞台に置かれた時、あなたは自分の山札を上から4枚まで見て、山札の上に好きな順番で置く。
+【自】このカードがアタックした時、クライマックス置場に「ねことお風呂で」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+あぁもう！兄さんの鈍感！
+
+==========================
+
+ねことお風呂で
+DC/W01-14 C
+Type: Climax
+Level: N/A
+Color: Red
+Cost: N/A
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+Flavor Text:
+にゃ？
+
+==========================
+
+小悪魔 杏
+DC/W01-15 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Swimsuit 水着
+Card Text/Abilities:
+【自】このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。
+Flavor Text:
+本当は好きなんでしょ？　こーゆーのも
+
+==========================
+
+水着のアリス
+DC/W01-16 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 1000
+Soul: 1
+Traits:: Doll 人形,_Swimsuit 水着
+Card Text/Abilities:
+【自】このカードが手札から舞台に置かれた時、あなたは山札の上から1枚を公開する。そのカードが自分のレベル以下のキャラなら、舞台のいずれかの枠に置いてよい。
+Flavor Text:
+子供っぽいですか･･････
+
+==========================
+
+水着の麻耶
+DC/W01-17 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Class Rep 委員長,_Swimsuit 水着
+Card Text/Abilities:
+【起】● 助太刀3000 レベル2 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000)
+Flavor Text:
+んもう！静かにしなさーーーい！！
+
+==========================
+
+小川で遊ぼう！
+DC/W01-18 C
+Type: Event
+Level: 1
+Color: Blue
+Cost: 0
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+あなたは2枚まで引き、自分の手札を2枚選び、山札の上に置く。
+Flavor Text:
+環「ええ、とっても。気持ち良いですよ」
+
+==========================
+
+胡ノ宮 環
+DC/W01-T01 TD
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Miko 巫女
+Card Text/Abilities:
+【S】［Put this card to REST］ Choose one of your character, during this turn, it gets +1000 Power.
+【起】［このカードをレストする］あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+
+==========================
+
+私服のことり
+DC/W01-T02 TD
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Music 音楽,_Magic 魔法
+Card Text/Abilities:
+【C】 BODYGUARD(When your opponent attack, If this card is not reverse and is in the front row center stage,opponent will front attack this character instead)
+【A】When you play this card to stage, look at opponent hand card.
+【A】When this card attacks, if 「結婚式の歌姫」 is in your climax slot, place up to 1 cards from the top of your Deck into Stock,during this turn, this card gets +3000 power.
+【永】 大活躍 (相手がアタックする時、リバースしていないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする)
+【自】このカードがプレイされて舞台に置かれた時、あなたは相手の手札を見る。
+【自】このカードがアタックした時、クライマックス置場に「結婚式の歌姫」があるなら、あなたは山札の上から1枚選び、ストック置場に置き、そのターン中、このカードのパワーを＋3000。
+Flavor Text:
+
+==========================
+
+ミス風見学園コンテスト
+DC/W01-T03 TD
+Type: Event
+Level: 1
+Color: Green
+Cost: 0
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Place 1 cards from the top of your Deck into Stock. Choose one of your character, during this turn, it gets +500 power.
+あなたは山札を上から1枚選び、ストック置場に置く。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+
+==========================
+
+花咲 茜
+DC/W01-T04 TD
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【S】［①］ During this turn, this card gets +2000 power.
+【起】［①］そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+
+==========================
+
+小恋＆ななか
+DC/W01-T05 TD
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Music 音楽,_Magic 魔法
+Card Text/Abilities:
+【S】［①］Choose 1 of opponent front row character, during this turn. it gets -1000 power.
+【起】［①］あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。
+Flavor Text:
+
+==========================
+
+結婚式の歌姫
+DC/W01-T06 TD
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+Flavor Text:
+
+==========================
+
+漫画家のななこ
+DC/W01-T07 TD
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 7000
+Soul: 2
+Traits:: Glasses メガネ,_Manga 漫画
+Card Text/Abilities:
+【A】 When your other battling character becomes REVERSE, choose one of your character, during this turn, it gets +1000.
+【S】［③］Choose 1 character from your waiting room, return it to hand.
+【自】他のバトルしているあなたのキャラがリバースした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+【起】［③］あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+
+==========================
+
+彩珠 ななこ
+DC/W01-T08 TD
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Glasses メガネ,_Manga 漫画
+Card Text/Abilities:
+【C】 ALARM If this card is at the top of your clock,if you are level 2 or above, all your red character  gets the following ability.『【A】When this card becomes REVERSE, if the character battling this card is same level or below with this card, you may put that card to REVERSE.』
+【永】 アラーム このカードがクロックの1番上にあり、あなたのレベルが2以上なら、赤のあなたのキャラすべてに、次の能力を与える『【自】このカードがリバースした時、このカードとバトルしているキャラのレベルがこのカードのレベル以下なら、あなたはそのキャラをリバースしてよい。』
+Flavor Text:
+
+==========================
+
+白河 暦
+DC/W01-T09 TD
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Teacher 先生,_Glasses メガネ
+Card Text/Abilities:
+【C】 All your other character with name 「美春」gets +500 power.
+【A】 BOND／「ロボ美春」［①］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「ロボ美春」 from your Waiting Room, return to Hand)
+【永】他のあなたのカード名に「美春」を含むキャラすべてに、パワーを＋500。
+【自】 絆／「ロボ美春」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ロボ美春」を1枚選び、手札に戻す)
+Flavor Text:
+頼れよな。これでもお前たちより２歳くらい年は取ってるんだ
+
+==========================
+
+ロボ美春
+DC/W01-T10 TD
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 4500
+Soul: 1
+Traits:: Mecha メカ,_Banana バナナ
+Card Text/Abilities:
+【A】When the Character battling this card becomes REVERSE, you may place it at the top of the Deck.
+【A】［①］When this card attacks, if 「美春のオルゴール」 is in your climax slot, you may pay the cost. If your did, choose one character from your waiting room and return it to hand.
+【自】このカードとバトルしているキャラがリバースした時、あなたはそのキャラを山札の上に置いてよい。
+【自】［①］このカードがアタックした時、クライマックス置場に「美春のオルゴール」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+
+==========================
+
+美春＆音夢
+DC/W01-T11 TD
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Magic 魔法,_Banana バナナ
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+かけがえのない仲間
+DC/W01-T12 TD
+Type: Event
+Level: 2
+Color: Red
+Cost: 2
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose up to 2 character from your waiting room and return it to hand.
+あなたは自分の控え室のキャラを2枚まで選び、手札に戻す。
+Flavor Text:
+ななかの声が･･････みんなの演奏が、ずっと聞こえてたよ･･････
+
+==========================
+
+HM-A06型 ミナツ
+DC/W01-T13 TD
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Mecha メカ,_Banana バナナ
+Card Text/Abilities:
+【C】If you have other 《バナナ》, this card gets +1500 power.
+【S】［② Put this card to REST］ Choose one character in your waiting room, return it to hand.
+【永】他の《バナナ》のあなたのキャラがいるなら、このカードのパワーを＋1500。
+【起】［② このカードをレストする］あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+美夏はな、義之･･････
+人間とロボットをつなぐ懸け橋になりたいのだ
+
+==========================
+
+浴衣の音夢
+DC/W01-T14 TD
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Wafuku 和服
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+体操着の由夢
+DC/W01-T15 TD
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+Flavor Text:
+兄さんの、ばーか
+
+==========================
+
+ゆず＆慎
+DC/W01-T16 TD
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【C】 If your have 2 or more other 《音楽》 Character, this card gets +1000 power.
+【A】When this card becomes REVERSED,if the Character battling this card is Level 1 or below, you may REVERSE that Character.
+【永】他の《音楽》のあなたのキャラが2枚以上いるなら、このカードのパワーを＋1000。
+【自】このカードがリバースした時、このカードとバトルしているキャラのレベルが1以下なら、あなたはそのキャラをリバースしてもよい。
+Flavor Text:
+父ちゃん寂しがり屋なんだー。ゆずがいないと何もできない
+
+==========================
+
+パジャマの由夢
+DC/W01-T17 TD
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Pyjamas パジャマ
+Card Text/Abilities:
+【S】● ASSIST 3000 Level 2［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)
+【起】● 助太刀3000 レベル2 ［① 手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋3000)
+Flavor Text:
+
+==========================
+
+ななことヤギ
+DC/W01-T18 TD
+Type: Event
+Level: 2
+Color: Red
+Cost: 1
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 opponent character level 1 or below, move it to waiting room.
+あなたはレベル1以下の相手キャラを1枚選び、控え室に置く。
+Flavor Text:
+ひゃうううう！　やーめーてー！　それを食べないでーーー！！！
+
+==========================
+
+美春のオルゴール
+DC/W01-T19 TD
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When this card is Triggered, choose 1 Character from your waiting room, return to hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(扉：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+
+==========================
+
+おかえりなさい
+DC/W01-T20 TD
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+
+==========================
+

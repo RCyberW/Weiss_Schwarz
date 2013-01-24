@@ -1,0 +1,785 @@
+キョン＆古泉Kyon & Koizumi
+SY/WE09-01 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Psychic Power 超能力,_SOS Dan SOS団
+Card Text/Abilities:
+【A】When this card becomes REVERSE, if the Character battling this card is Level 0 or less, you may place that Character into Stock. If you do, place the bottom card of your opponent's Stock to Waiting Room.
+【自】このカードがリバースした時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。
+Flavor Text:
+古泉「世界は平和そのものです」
+
+==========================
+
+星を語る古泉Talking About The Stars Koizumi
+SY/WE09-02 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Psychic Power 超能力,_SOS Dan SOS団
+Card Text/Abilities:
+【C】If you have another 《SOS団》 Character in the Center of your Front Row, this card gets +1000 Power.
+【永】あなたの前列の中央の枠に他の《SOS団》のキャラがいるなら、このカードのパワーを＋1000。
+Flavor Text:
+始めて木星の衛星を捉えた時は、
+けっこう感動しましたよ
+
+==========================
+
+夜空を見上げるキョンLooking At The Night Sky Kyon
+SY/WE09-03 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: SOS Dan SOS団,
+Card Text/Abilities:
+【C】During your turn, this card gets +1000 Power.
+【A】 ENCORE ［Place 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【永】あなたのターン中、このカードのパワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+失った時間ねえ･･･
+
+==========================
+
+小学五年生 キョンの妹Grade School Fifth Grade Student Kyon's Sister
+SY/WE09-04 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Animal 動物,
+Card Text/Abilities:
+【A】When an opponent's Character battling your other Characters becomes REVERSE, during this turn, this card gets +1000 Power.
+【自】他のあなたのキャラのバトル相手がリバースした時、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+キョンくん電話
+
+==========================
+
+星に願うみくるWish Upon A Star Mikuru
+SY/WE09-05 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Time 時間,_Maid メイド
+Card Text/Abilities:
+【C】If your Stock has 2 or less cards, this card gets +1500 Power.
+【S】［②］Choose 1 of your 《時間》 Characters, during this turn, it gets +4000 Power.
+【永】あなたのストックが2枚以下なら、このカードのパワーを＋1500。
+【起】［②］あなたは自分の《時間》のキャラを1枚選び、そのターン中、パワーを＋4000。
+Flavor Text:
+『お裁縫がうまくなりますように』
+
+==========================
+
+時間跳躍 キョン＆みくるTime Travelling Kyon & Mikuru
+SY/WE09-06 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Time 時間,_SOS Dan SOS団
+Card Text/Abilities:
+【C】All your other 《SOS団》 Characters gain 『【A】ENCORE ［Place 1 Character from Hand to Waiting Room］』.
+【A】［REST this card］When your other Character is placed into Clock from Stage, if this card is in STAND, you may pay this cost. If you do, place the top card of your Deck into Stock.
+【永】他のあなたの《SOS団》のキャラすべてに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。
+【自】［このカードをレストする］他のあなたのキャラが舞台からクロック置場に置かれた時、このカードがスタンドしているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、ストック置場に置く。
+Flavor Text:
+みくる(大)「チュウくらいならしちゃってもいいよ。
+ただし、寝てる間にね」
+
+==========================
+
+みくるとの出会い みくる(大)Encounter With Mikuru Mikuru (Adult)
+SY/WE09-07 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Time 時間,
+Card Text/Abilities:
+【A】When this card becomes REVERSE in battle, if 「導く役目」 is in your Climax slot, return this card to your hand, choose 1 of your 《時間》 Characters, during this turn, it gets +3000 Power.
+【S】● ASSIST 3000 Level 2［① Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)
+【自】バトル中のこのカードがリバースした時、あなたのクライマックス置場に「導く役目」があるなら、あなたはこのカードを手札に戻し、自分の《時間》のキャラを1枚選び、そのターン中、パワーを＋3000。
+【起】● 助太刀3000 レベル2 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000)
+Flavor Text:
+このときの私って、こんなだったのね。ふふふ･･･
+
+==========================
+
+元気な先輩 鶴屋さんEnergetic Senior Tsuruya-san
+SY/WE09-08 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Forehead オデコ,_Double Tooth 八重歯
+Card Text/Abilities:
+【C】All your other 《時間》 and 《オデコ》 Characters get +500 Power.
+【A】When a Climax is revealed during your Character's Trigger Check, if that card's Trigger Icon is GOLD, choose 1 of your Characters, during this turn, it gets +2000 Power.
+【永】他のあなたの、《時間》か《オデコ》のキャラすべてに、パワーを＋500。
+【自】あなたのキャラのトリガーチェックでクライマックスがでた時、そのカードのトリガーアイコンが宝なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+みくる可愛いなぁっ。うちで飼いたいくらいだねっ！
+
+==========================
+
+バイト中のみくるPart-Timing Mikuru
+SY/WE09-09 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Time 時間,_Frog カエル
+Card Text/Abilities:
+Flavor Text:
+はぁ･･･
+
+==========================
+
+お花見 みくるSakura Viewing Mikuru
+SY/WE09-10 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Time 時間,_SOS Dan SOS団
+Card Text/Abilities:
+【A】When this card is placed on Stage from hand, choose 1 of your 《時間》 or 《SOS団》 Characters, during this turn, it gets +1500 Power.
+【自】このカードが手札から舞台に置かれた時、あなたは自分の、《時間》か《SOS団》のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+わーきれい～
+
+==========================
+
+セミ採り合戦 みくるCicada Catching Mikuru
+SY/WE09-11 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Time 時間,_SOS Dan SOS団
+Card Text/Abilities:
+【C】If you have 3 or more other 《時間》 or 《SOS団》 Characters, this card gets +1000 Power.
+【永】他のあなたの、《時間》か《SOS団》のキャラが3枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+ハルヒ「そう、これはSOS団内のセミ採り合戦なのよ！」
+
+==========================
+
+導く役目Leading Role
+SY/WE09-12 C
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: G
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gold：When this card is Triggered, place this card in your hand. You may put the top card of your deck to Stock)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(宝：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい)
+Flavor Text:
+みくる(大)「これからあなたを導くのは
+わたしの役目です」
+
+==========================
+
+“超監督”ハルヒ“Ultra-Director” Haruhi
+SY/WE09-13 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 3500
+Soul: 1
+Traits:: Dancho 団長,_SOS Dan SOS団
+Card Text/Abilities:
+【C】SUPPORT All your Characters with Level 2 or higher in front of this card gets +1000 Power.
+【S】［REST this card］Choose 1 of your 《SOS団》 Characters, during this turn, it gets +500 Power.
+【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。
+【起】［このカードをレストする］あなたは自分の《SOS団》のキャラを1枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+ハイ！ じゃあ本番いってみよーう！
+
+==========================
+
+お花見 ハルヒSakura Viewing Haruhi
+SY/WE09-14 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 1
+Traits:: Dancho 団長,_SOS Dan SOS団
+Card Text/Abilities:
+Flavor Text:
+決まってるでしょ！ほら
+
+==========================
+
+お花見 ハルヒSakura Viewing Haruhi
+SY/WE09-14 SP
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 1
+Traits:: Dancho 団長,_SOS Dan SOS団
+Card Text/Abilities:
+Flavor Text:
+決まってるでしょ！ほら
+
+==========================
+
+“笹の葉ラプソディ”ハルヒ“Bamboo Leaf Rhapsody” Haruhi
+SY/WE09-15 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【A】［①］When this card is placed on Stage from hand, you may pay this cost. If you do, choose 1 《SOS団》 Character in your Waiting Room, return it to hand.
+【A】When this card attacks, if 「私はここにいる」 is in your Climax slot, you may choose 1 Character from your Waiting Room, return it to hand.
+【自】［①］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《SOS団》のキャラを1枚選び、手札に戻す。
+【自】このカードがアタックした時、クライマックス置場に「私はここにいる」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。
+Flavor Text:
+誰だか知らないけどヒマなら手伝いなさいよ
+
+==========================
+
+“笹の葉ラプソディ”ハルヒ“Bamboo Leaf Rhapsody” Haruhi
+SY/WE09-15 SP
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【A】［①］When this card is placed on Stage from hand, you may pay this cost. If you do, choose 1 《SOS団》 Character in your Waiting Room, return it to hand.
+【A】When this card attacks, if 「私はここにいる」 is in your Climax slot, you may choose 1 Character from your Waiting Room, return it to hand.
+【自】［①］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《SOS団》のキャラを1枚選び、手札に戻す。
+【自】このカードがアタックした時、クライマックス置場に「私はここにいる」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。
+Flavor Text:
+誰だか知らないけどヒマなら手伝いなさいよ
+
+==========================
+
+世界を変える少女 ハルヒGirl Who Will Change The World Haruhi
+SY/WE09-16 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Dancho 団長,_SOS Dan SOS団
+Card Text/Abilities:
+【S】［REST 1 of your 《SOS団》 Characters］During this turn, this card gets +1000 Power.
+【起】［あなたの《SOS団》のキャラを1枚レストする］そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+あたし達SOS団はもっと面白い事をするわよ！
+
+==========================
+
+水着のハルヒSwimsuit Haruhi
+SY/WE09-17 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Dancho 団長,_Swimsuit 水着
+Card Text/Abilities:
+【A】［② Place this card into Clock］When 「夏の終わり」 is placed into your Climax slot, you may pay this cost. If you do, choose 1 「お花見 ハルヒ」 from your Waiting Room, place it into this card's previous slot.
+【自】［② このカードをクロック置場に置く］あなたのクライマックス置場に「夏の終わり」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「お花見 ハルヒ」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+知らないわよそんなの
+
+==========================
+
+夏祭りのハルヒSummer Festival Haruhi
+SY/WE09-18 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Dancho 団長,_Wafuku 和服
+Card Text/Abilities:
+Flavor Text:
+一個だけなら食べてもいいわよ
+
+==========================
+
+エンドレスエイトEndless Eight
+SY/WE09-19a C
+Type: Event
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】You can place up to 8 cards with this card's name into your Deck.
+●Place this card into Memory.
+Choose 1 of your 《SOS団》 Character, during this turn, it gets +X.
+X is equals to the number of 「エンドレスエイト」 cards in your Memory ×1000.
+【永】このカードと同じ名前のカードは、デッキに8枚まで入れることができる。
+●このカードを思い出にする。
+あなたは自分の《SOS団》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。
+Ｘはあなたの思い出置場の「エンドレスエイト」の枚数×1000に等しい。
+Flavor Text:
+ハルヒ「夏は夏らしく夏じみた事をしないといけないの！」
+
+==========================
+
+エンドレスエイトEndless Eight
+SY/WE09-19b C
+Type: Event
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】You can place up to 8 cards with this card's name into your Deck.
+●Place this card into Memory.
+Choose 1 of your 《SOS団》 Character, during this turn, it gets +X.
+X is equals to the number of 「エンドレスエイト」 cards in your Memory ×1000.
+【永】このカードと同じ名前のカードは、デッキに8枚まで入れることができる。
+●このカードを思い出にする。
+あなたは自分の《SOS団》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。
+Ｘはあなたの思い出置場の「エンドレスエイト」の枚数×1000に等しい。
+Flavor Text:
+古泉「でも微笑ましいですね」
+
+==========================
+
+エンドレスエイトEndless Eight
+SY/WE09-19c C
+Type: Event
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】You can place up to 8 cards with this card's name into your Deck.
+●Place this card into Memory.
+Choose 1 of your 《SOS団》 Character, during this turn, it gets +X.
+X is equals to the number of 「エンドレスエイト」 cards in your Memory ×1000.
+【永】このカードと同じ名前のカードは、デッキに8枚まで入れることができる。
+●このカードを思い出にする。
+あなたは自分の《SOS団》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。
+Ｘはあなたの思い出置場の「エンドレスエイト」の枚数×1000に等しい。
+Flavor Text:
+やり残した事が沢山あるような気がするのに！
+
+==========================
+
+エンドレスエイトEndless Eight
+SY/WE09-19d C
+Type: Event
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】You can place up to 8 cards with this card's name into your Deck.
+●Place this card into Memory.
+Choose 1 of your 《SOS団》 Character, during this turn, it gets +X.
+X is equals to the number of 「エンドレスエイト」 cards in your Memory ×1000.
+【永】このカードと同じ名前のカードは、デッキに8枚まで入れることができる。
+●このカードを思い出にする。
+あなたは自分の《SOS団》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。
+Ｘはあなたの思い出置場の「エンドレスエイト」の枚数×1000に等しい。
+Flavor Text:
+ハルヒ「そう。夏休みはもうあとニ週間しかないのよね」
+
+==========================
+
+エンドレスエイトEndless Eight
+SY/WE09-19e C
+Type: Event
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】You can place up to 8 cards with this card's name into your Deck.
+●Place this card into Memory.
+Choose 1 of your 《SOS団》 Character, during this turn, it gets +X.
+X is equals to the number of 「エンドレスエイト」 cards in your Memory ×1000.
+【永】このカードと同じ名前のカードは、デッキに8枚まで入れることができる。
+●このカードを思い出にする。
+あなたは自分の《SOS団》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。
+Ｘはあなたの思い出置場の「エンドレスエイト」の枚数×1000に等しい。
+Flavor Text:
+キョン「それ、セミじゃないぞ」
+
+==========================
+
+エンドレスエイトEndless Eight
+SY/WE09-19f C
+Type: Event
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】You can place up to 8 cards with this card's name into your Deck.
+●Place this card into Memory.
+Choose 1 of your 《SOS団》 Character, during this turn, it gets +X.
+X is equals to the number of 「エンドレスエイト」 cards in your Memory ×1000.
+【永】このカードと同じ名前のカードは、デッキに8枚まで入れることができる。
+●このカードを思い出にする。
+あなたは自分の《SOS団》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。
+Ｘはあなたの思い出置場の「エンドレスエイト」の枚数×1000に等しい。
+Flavor Text:
+みくる「あ、ありがとう…ございまーす」
+
+==========================
+
+エンドレスエイトEndless Eight
+SY/WE09-19g C
+Type: Event
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】You can place up to 8 cards with this card's name into your Deck.
+●Place this card into Memory.
+Choose 1 of your 《SOS団》 Character, during this turn, it gets +X.
+X is equals to the number of 「エンドレスエイト」 cards in your Memory ×1000.
+【永】このカードと同じ名前のカードは、デッキに8枚まで入れることができる。
+●このカードを思い出にする。
+あなたは自分の《SOS団》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。
+Ｘはあなたの思い出置場の「エンドレスエイト」の枚数×1000に等しい。
+Flavor Text:
+みくる「ひゃぁっ～～！」
+
+==========================
+
+エンドレスエイトEndless Eight
+SY/WE09-19h C
+Type: Event
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】You can place up to 8 cards with this card's name into your Deck.
+●Place this card into Memory.
+Choose 1 of your 《SOS団》 Character, during this turn, it gets +X.
+X is equals to the number of 「エンドレスエイト」 cards in your Memory ×1000.
+【永】このカードと同じ名前のカードは、デッキに8枚まで入れることができる。
+●このカードを思い出にする。
+あなたは自分の《SOS団》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。
+Ｘはあなたの思い出置場の「エンドレスエイト」の枚数×1000に等しい。
+Flavor Text:
+長門「今回が1万5千5百32回目に該当する」
+
+==========================
+
+私はここにいるI'm Here
+SY/WE09-20 C
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card comes on Stage from hand, put the top card of your Deck to Stock. During this turn, all of your Characters get +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+なによ、あんた
+
+==========================
+
+夏の終わりThe End of Summer
+SY/WE09-21 C
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+あたしも行くからね！
+
+==========================
+
+観察者 長門Observer Nagato
+SY/WE09-22 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Alien 宇宙人,_SOS Dan SOS団
+Card Text/Abilities:
+【C】During your opponent's turn, all your other 《宇宙人》 Characters get +500 Power.
+【永】相手のターン中、他のあなたの《宇宙人》のキャラすべてに、パワーを＋500。
+Flavor Text:
+元気
+
+==========================
+
+魔法使い長門＆シャミセンWitch Nagato & Shamisen
+SY/WE09-23 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Alien 宇宙人,_Animal 動物
+Card Text/Abilities:
+【A】When you use this card's ASSIST, if you have 2 or more 《宇宙人》 Characters, choose 1 of your Characters, during this turn, it gets +1000 Power.
+【S】● ASSIST 1000 Level 1 ［Place this card from Hand to Waiting Room］ (Choose 1 Character being Front Attacked, during this turn, it gets +1000 Power)
+【自】あなたがこのカードの『 助太刀 』を使った時、あなたの《宇宙人》のキャラが2枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+【起】● 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000)
+Flavor Text:
+くらうがいい…
+
+==========================
+
+夏祭りの長門Summer Festival Nagato
+SY/WE09-24 R
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Alien 宇宙人,_Mask 仮面
+Card Text/Abilities:
+【C】If you have 4 or more 《宇宙人》 Characters, this card gets -1 Level in your hand.
+【A】When this card attacks, if 「残り二週間の夜」 is in your Climax slot, choose up to 1 card from the top of your Clock, place it into Waiting Room, during this turn, this card gets +3000 Power.
+【永】あなたの《宇宙人》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。
+【自】このカードがアタックした時、クライマックス置場に「残り二週間の夜」があるなら、あなたは自分のクロックの上から1枚までを、控え室に置き、そのターン中、このカードのパワーを＋3000。
+Flavor Text:
+ハルヒ「あれ、有希そのお面どうしたの？」
+長門「買った」
+
+==========================
+
+待機モード 長門Standby Mode Nagato
+SY/WE09-25 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Alien 宇宙人,_Glasses メガネ
+Card Text/Abilities:
+Flavor Text:
+役目だから
+
+==========================
+
+お花見 長門Sakura Viewing Nagato
+SY/WE09-26 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Alien 宇宙人,_SOS Dan SOS団
+Card Text/Abilities:
+【S】CONCENTRATION ［①］Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose 1 of your 《宇宙人》 Characters, during this turn, it gets +2000 Power.
+【起】 集中 ［①］あなたは自分の山札から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の《宇宙人》のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+十分
+
+==========================
+
+残り二週間の夜
+SY/WE09-27 C
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Book：When this card is triggered, you may draw 1 card)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(本：このカードがトリガーした時、あなたは1枚引いてよい)
+Flavor Text:
+
+==========================
+
+文芸部の有希Literature Club Yuki
+SY/WE09-28 PR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Glasses メガネ,_Book 本
+Card Text/Abilities:
+【C】During your opponent's turn, this card gets +1000 Power.
+【永】相手のターン中、このカードのパワーを＋1000。
+Flavor Text:
+……
+
+==========================
+
+唯我独尊 ハルヒSelf-Centered Haruhi
+SY/WE09-29 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Dancho 団長,_SOS Dan SOS団
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, during this turn, for every 2 different traits among your Characters, this card gets +500 Power.
+【自】このカードが手札から舞台に置かれた時、そのターン中、あなたのキャラすべての持つ異なる特徴2つにつき、このカードのパワーを＋500。
+Flavor Text:
+団員全員で盛大にやるわよ！
+
+==========================
+
+夏祭りの夜 ハルヒSummer Festival Night Haruhi
+SY/WE09-30 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Dancho 団長,_Wafuku 和服
+Card Text/Abilities:
+【S】［② REST this card］Choose 1 Character from your Waiting Room, return it to hand.
+【起】［② このカードをレストする］あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+大漁だったけど、そんなに要らないから一匹だけもらってきたわ
+
+==========================
+
+体育祭のハルヒ
+SY/WE09-32 PR
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 6500
+Soul: 1
+Traits:: Dancho 団長,_SOS Dan SOS団
+Card Text/Abilities:
+【A】 ［(2)］ When this card comes to stage from hand, you may pay the cost. If you did, choose 《SOS団》 character from your waiting room, return it to hand.
+【自】 ［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《SOS団》のキャラを1枚選び、手札に戻す。
+Flavor Text:
+あたしが最後に全員ごぼう抜きしてやろうと思ってたのに
+
+==========================
+

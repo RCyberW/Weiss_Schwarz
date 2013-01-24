@@ -1,0 +1,380 @@
+“心の海より出でし者”イザナギ
+P4/SE01-019 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Weapon 武器,_Magic 魔法
+Card Text/Abilities:
+【S】［①］ Choose 1 of your 《魔法》 character, during this turn, it gets +1 soul.
+【起】［①］あなたは自分の《魔法》のキャラを1枚選び、そのターン中、ソウルを＋1。
+Flavor Text:
+クマ「こんなすごい力を隠していたなんて･･･
+シャドウがおびえていたのも分かるクマ！」
+
+==========================
+
+主人公（Ｐ４）
+P4/SE01-01 R
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Magic 魔法,_Glasses メガネ
+Card Text/Abilities:
+【A】［①］ When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《メガネ》 Character and up to 1 Character with 「＆」 in its name, show them to the opponent, add them to Hand. Shuffle your Deck afterwards.
+【A】 When this card attacks, you may declare 1 trait. If you did, until the next declaration of this ability, this card gains that trait.
+【A】 When this card attacks, if 「イザナギ覚醒」 is in the Climax Slot, all your 《魔法》 Characters, during this turn, gets +2000 Power, +1 Soul
+【自】［①］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《メガネ》のキャラを1枚までとカード名に「＆」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+【自】このカードがアタックした時、。あなたは特徴を1つ選んでよいそうしたら次にこの能力で特徴を選ぶまで、このカードは選んだ特徴を得る。
+【自】このカードがアタックした時、クライマックス置場に「イザナギ覚醒」があるなら、あなたの《魔法》のキャラすべてに、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+イザナギ！！
+
+==========================
+
+陽介＆ジライヤ
+P4/SE01-02 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Junes ジュネス,_Magic 魔法
+Card Text/Abilities:
+【C】 Upon playing this card from Hand, choose 1 of your 「花村 陽介」, you may place it into Waiting Room. If you did, this card can be played with Cost 0.
+【A】 When this card is placed on Stage from Hand, during this turn, it gets +1 Soul.
+【永】手札のこのカードをプレイするにあたり、あなたは自分の「花村 陽介」を1枚選び、控え室に置いてよい。そうしたら、このカードをコスト0でプレイできる。
+【自】このカードが手札から舞台に置かれた時、そのターン中、このカードのソウルを＋1。
+Flavor Text:
+お前は、俺で･･･俺は、お前か。
+全部ひっくるめて、俺って事だな
+
+==========================
+
+堂島 遼太郎
+P4/SE01-03 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Police 警察,
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand, choose 1 of your 《勇者》 Characters or Character with 「主人公」 in its name, during this turn, it gets +3000 Power, +1 Soul.
+【A】 At the end of your turn, if you have a Character in Memory, return this card to Hand.
+【自】このカードが手札から舞台に置かれた時、あなたは自分の《勇者》かカード名に「主人公」を含むキャラを1枚選び、そのターン中、パワーを＋3000し、ソウルを＋1。
+【自】あなたのターンの終わりに、あなたの思い出置場にキャラがあるなら、このカードを手札に戻す。
+Flavor Text:
+これからしばらくは家族同士だ。
+自分んちと思って気楽にやってくれ
+
+==========================
+
+花村 陽介
+P4/SE01-04 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Junes ジュネス,_Glasses メガネ
+Card Text/Abilities:
+【C】 During your turn, this card gets +1000 power.
+【永】あなたのターン中、このカードのパワーを＋1000。
+Flavor Text:
+行くぜ、相棒！
+
+==========================
+
+堂島 菜々子
+P4/SE01-05 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Television テレビ,_Junes ジュネス
+Card Text/Abilities:
+【A】 BOND／「主人公（Ｐ４）」［①］(When you play this card to Stage, you may pay this cost. If you do, choose 1 「主人公（Ｐ４）」 from your Waiting Room, put it into your hand)
+【A】［① Put this card to REST］ Choose 1 of your 《勇者》 or character named 「主人公」, during this turn, it gets +1 soul.
+【自】 絆／「主人公（Ｐ４）」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「主人公（Ｐ４）」を1枚選び、手札に戻す)
+【自】［① このカードをレストする］あなたは自分の、《勇者》かカード名に「主人公」を含むキャラを1枚選び、そのターン中、ソウルを＋1。
+Flavor Text:
+とちゅうまで、おんなじ道だから
+･･･いっしょに行こ
+
+==========================
+
+イザナギ覚醒
+P4/SE01-06 C
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+我は汝、汝は我、
+双眸を見開きて、今こそ発せよ
+
+==========================
+
+千枝＆トモエ
+P4/SE01-07 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 0
+Power: 8500
+Soul: 2
+Traits:: Sports スポーツ,_Magic 魔法
+Card Text/Abilities:
+【C】 Upon playing this card from Hand, you may choose 1 of your 「里中 千枝」, place it into Waiting Room. If you did, this card can be played with Cost 0.
+【A】［②］ During your turn, when the opponent's Character in STAND becomes REST, you may pay the cost. If you did, choose 1 of the opponent's Character in STAND, place it into Memory.
+【永】手札のこのカードをプレイするにあたり、あなたは自分の「里中 千枝」を1枚選び、控え室に置いてよい。そうしたら、このカードをコスト0でプレイできる。
+【自】［②］あなたのターン中、相手のスタンドしているキャラがレストした時、あなたはコストを払ってよい。そうしたら、あなたは相手のスタンドしているキャラを1枚選び思い出にする。
+Flavor Text:
+吹き飛べー！
+
+==========================
+
+久慈川 りせ
+P4/SE01-08 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 3500
+Soul: 1
+Traits:: Music 音楽,_Television テレビ
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card with Level 2 or above get +1000 Power.
+【A】［①］ When 「現役美少女アイドル」 is placed into your Climax Slot, you may pay the cost. If you did, choose 1 of your 《魔法》 or 《メガネ》 Characters, during this turn, it gets +1 Level, +4000 Power.
+【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。
+【自】［①］あなたのクライマックス置場に「現役美少女アイドル」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の、《魔法》か《メガネ》のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋4000。
+Flavor Text:
+お豆腐は、みんなにおまけ。
+なんか、心配してもらったみたいだし
+
+==========================
+
+里中 千枝
+P4/SE01-09 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Sports スポーツ,_Glasses メガネ
+Card Text/Abilities:
+Flavor Text:
+これで、終わりだーっ！
+
+==========================
+
+現役美少女アイドル
+P4/SE01-10 C
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】　When you play this card from hand to the Stage, draw 1 card. Choose one of your Characters. During this turn, that Character gains +3 Souls.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、ソウルを＋3。
+Flavor Text:
+こんなトコまで来るなんて
+りせちー、超うれしー！
+
+==========================
+
+雪子＆コノハナサクヤ
+P4/SE01-11 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 7000
+Soul: 2
+Traits:: Fan 扇子,_Magic 魔法
+Card Text/Abilities:
+【C】 Upon playing this card from Hand, you may choose 1 of your 「天城 雪子」, place it into Waiting Room. If you did, this card can be played with Cost 0.
+【C】 For each of the opponent's Characters in REST, this card gets +500 Power.
+【A】 When this card is placed on Stage from Hand, choose 1 of the opponent's Characters in STAND, REST it.
+【永】手札のこのカードをプレイするにあたり、あなたは自分の「天城 雪子」を1枚選び、控え室に置いてよい。そうしたら、このカードをコスト0でプレイできる。
+【永】相手のレストしているキャラ1枚につき、このカードのパワーを＋500。
+【自】このカードが手札から舞台に置かれた時、あなたはスタンドしている相手のキャラを1枚選び、レストする。
+Flavor Text:
+逃げたい･･･誰かに救って欲しい･･･
+そうね･･･確かに、私の気持ち
+
+==========================
+
+完二＆タケミカヅチ
+P4/SE01-12 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Delinquent 不良,_Magic 魔法
+Card Text/Abilities:
+【A】 This ability can only be activated 1 time per turn. When you use 『ASSIST』, choose 1 of your Characters in battle, during this turn, it gets +1000 Power.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】この能力は1ターンにつき1回しか発動しない。あなたが『 助太刀 』を使った時、あなたは自分のバトルしているキャラを1枚選び、そのターン中、パワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+男だ女だってんじゃねぇ･･･
+拒絶されるのが怖くて。ビビってよ･･･
+
+==========================
+
+天城 雪子
+P4/SE01-13 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Fan 扇子,_Glasses メガネ
+Card Text/Abilities:
+【A】［①］ When 「突撃逆ナン大作戦」 is placed into your Climax Slot, you may pay the cost. If you did, choose 1 「雪子＆コノハナサクヤ」 from your Waiting Room, return it to Hand.
+【S】［REST this card］ Choose 1 of your Characters with 「千枝」 it its name, during this turn, it gets +1500 Power.
+【自】［①］あなたのクライマックス置場に「突撃逆ナン大作戦」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「雪子＆コノハナサクヤ」を1枚選び、手札に戻す。
+【起】［このカードをレストする］あなたは自分のカード名に「千枝」を含むキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+よし、怯んだ！
+仕掛けるよ！
+
+==========================
+
+巽 完二
+P4/SE01-14 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Delinquent 不良,_Glasses メガネ
+Card Text/Abilities:
+【A】When this card becomes REVERSE, if this card's battle opponent is Level 0 or below, you may REVERSE that Character.
+【自】このカードがリバースした時、このカードとバトルしているキャラのレベルが0以下なら、あなたはそのキャラをリバースしてよい。
+Flavor Text:
+どいつもこいつも、１０年早ぇ
+
+==========================
+
+オレの出番ッス！
+P4/SE01-15 C
+Type: Event
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Put 1 of your Characters from STAND to REST. If you did, choose 1 of the opponent's Characters in STAND, REST it, choose 1 of the opponent's Characters in the Front Row with Level 2 or lower, place it into Waiting Room.
+あなたは自分のスタンドしているキャラを1枚選びレストする。そうしたら、あなたは相手のスタンドしているキャラを1枚選び、レストし、相手の前列のレベル2以下のキャラを1枚選び控え室に置く。
+Flavor Text:
+行くぜぇ、ペルソナァ！
+
+==========================
+
+突撃逆ナン大作戦
+P4/SE01-16 C
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When this card is Triggered, choose 1 Character from your Waiting Room, return it to Hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(扉：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+今日は私、天城雪子がナンパ、
+逆ナンに挑戦してみたいと思います
+
+==========================
+
+白鐘 直斗
+P4/SE01-17 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 500
+Soul: 1
+Traits:: Detective 探偵,_Police 警察
+Card Text/Abilities:
+【A】 When you use this card's 『ASSIST』, choose 1 of your 《警察》 Characters or Character with 「主人公」 in its name, during this turn, it gets +1000 Power.
+【S】● ASSIST 2000 Level 1［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +2000 Power.)
+【自】あなたがこのカードの『 助太刀 』を使った時、あなたは自分の、《警察》かカード名に「主人公」を含むキャラを1枚選び、そのターン中、パワーを＋1000。
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000)
+Flavor Text:
+皆さんの“遊び”も、
+間もなく終わりになるかも知れない･･･
+
+==========================
+
+クマ
+P4/SE01-18 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Animal 動物,_Shadow 影
+Card Text/Abilities:
+【C】 All your other 《メガネ》 Characters get +500 Power.
+【S】［REST this card］ Choose 1 of your Characters, during this, turn it gains 《メガネ》.
+【永】他のあなたの《メガネ》のキャラすべてに、パワーを＋500。
+【起】［このカードをレストする］あなたは自分のキャラを1枚選び、そのターン中、《メガネ》を与える。
+Flavor Text:
+当然みんなの分のメガネも用意しておいたクマよ
+
+==========================
+

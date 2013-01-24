@@ -1,0 +1,712 @@
+Ｏ(≧◇≦)人(≧◇≦)Ｏ 亜美＆真美
+IM/SE04-01 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,_Twins 双子
+Card Text/Abilities:
+【S】CONCENTRATE［①］Flip the top 4 cards of your Deck, place them into Waiting Room.For each Climax among those cards, during this turn, this card gets +1000 Power, +1 Soul.
+【起】 集中 ［①］あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、そのターン中、このカードのパワーを＋1000し、ソウルを＋1。
+Flavor Text:
+絵理おねーちゃん、こっちこっち、早くー！
+ここが、亜美たち行きつけの服屋さんだよ！
+
+==========================
+
+やさしい先輩 雪歩
+IM/SE04-02 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Music 音楽,_Tea お茶
+Card Text/Abilities:
+【A】［①］When you use this card's 『助太刀』, you may pay the cost. If you did, choose 1 「明るい親子 愛＆舞」 from your Waiting Room, place it into Memory.
+【S】● ASSIST 1500 Level 1 ［Place this card from Hand to Waiting Room］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +1500 Power)
+【自】［①］あなたがこのカードの『 助太刀 』を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「明るい親子 愛＆舞」を1枚選び、思い出にする。
+【起】● 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500)
+Flavor Text:
+「泣くことは恥ずかしいことじゃない」その言葉
+をもらえたから、アイドルやってこられたんです
+
+==========================
+
+売れっ子アイドル伊織
+IM/SE04-03 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 7000
+Soul: 2
+Traits:: Music 音楽,_Doll 人形
+Card Text/Abilities:
+【A】 ENCORE ［②］(When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【S】［REST 1 of your Character］During this turn, this card gets +1000 Power.
+【自】 アンコール ［②］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+【起】［あなたのキャラを1枚レストする］そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+フフン、なかなか、言ってくれるじゃない♪
+この私に勝とうなんて、100年早いんだから！
+
+==========================
+
+夢への一歩 涼
+IM/SE04-04 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Music 音楽,_Crossdress 女装
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a Climax, place this card into Waiting Room.(Return revealed card to its original position)
+【自】このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのクライマックスなら、このカードを控え室に置く。 (公開したカードは元に戻す)
+Flavor Text:
+うう、この格好、恥ずかしいよぉ。足元が
+スースーするし、それに、すごくこすれるし……
+
+==========================
+
+トロピカルガール響
+IM/SE04-05 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Music 音楽,_Animal 動物
+Card Text/Abilities:
+【A】When the Character with Level 1 or higher battling this card becomes REVERSE, you may place the top card of your Deck into Stock.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】このカードとバトル中のレベル1以上のキャラがリバースした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+はいさい！！！！　あ、もしかして声、大きかった？
+自分、我那覇響！よろしくねっ！！
+
+==========================
+
+大きな秘密 涼
+IM/SE04-06 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Music 音楽,_Crossdress 女装
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a Climax, place this card into Waiting Room.(Return revealed card to its original position)
+【自】このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、このカードを控え室に置く。 (公開したカードは元に戻す)
+Flavor Text:
+うう、愛ちゃんや絵理ちゃんにバレたら、
+どんな目で見られるか。絶対に秘密にしないと！
+
+==========================
+
+夢をあきらめない涼
+IM/SE04-07 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Music 音楽,_Crossdress 女装
+Card Text/Abilities:
+【A】［②］When this card attacks, if 「Dazzling World」 is in the Climax slot, you may pay the cost. If you did, choose 1 card from your opponent's Waiting Room, place it into Memory.
+【自】［②］このカードがアタックした時、クライマックス置場に「Dazzling World」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードを1枚選び、思い出にする。
+Flavor Text:
+僕が、こうして、男の子アイドルとして、
+最高の舞台に立てたように……君も！
+
+==========================
+
+石川社長
+IM/SE04-08 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Music 音楽,_Shadow 影
+Card Text/Abilities:
+【A】［②］When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《音楽》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【自】［②］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+トップアイドルの道は1日にしてならずよ。
+経験と努力を積み重ねて、大きく羽ばたいてね
+
+==========================
+
+アイドルのいとこ涼
+IM/SE04-09 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Music 音楽,_Crossdress 女装
+Card Text/Abilities:
+Flavor Text:
+うう、すごく不安だけど、いつかイケメンに
+なるためだっ。がんばろー！　うん！
+
+==========================
+
+凸凹コンビ 涼＆夢子
+IM/SE04-10 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Music 音楽,_Crossdress 女装
+Card Text/Abilities:
+【C】For each Marker under this card, this card gets +1 Level, +1500 Power.
+【A】When the Character battling this card becomes REVERSE, you may place the top card of your Deck under this card as a Marker.
+【永】このカードの下のマーカー1枚につき、このカードのレベルを＋1し、パワーを＋1500。
+【自】このカードとバトル中のキャラがリバースした時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置いてよい。
+Flavor Text:
+私がアイドル始めて以来の大一番なんだから
+あなたも、できる限り、手を貸すこと。いいわね！
+
+==========================
+
+ビューティフルガール貴音
+IM/SE04-11 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Music 音楽,_Royal Family 王族
+Card Text/Abilities:
+【A】This ability can only be activated 1 time each turn. When you play an Event, during this turn, this card gets +2000 Power.
+【自】この能力は1ターンに1回まで発動する。あなたがイベントをプレイした時、そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+突き刺さるように青い月の光……。
+月は、私の心をいつも、ざわつかせるのです……
+
+==========================
+
+歌への自信 美希
+IM/SE04-12 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+【S】［REST 2 of your Characters］During this turn, this card gains the following ability.『【A】When the Character battling this card becomes REVERSE, you may place the top card of your Deck into Stock.』
+【起】［あなたのキャラを2枚レストする］そのターン中、このカードは次の能力を得る。『【自】このカードとバトル中のキャラがリバースした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』
+Flavor Text:
+ミキの歌には、思い出がたくさん詰まってるの。
+だから、そうカンタンには勝てないって思うな！
+
+==========================
+
+桜井 夢子
+IM/SE04-13 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+【A】This ability can only be activated 1 time each turn. When you use a 【S】, you may place the top card of your opponent's Stock into Waiting Room. If you did, choose 1 card from your opponent's Waiting Room, place it into Stock.
+【自】この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたは相手のストックの上から1枚を、控え室に置いてよい。そうしたら、あなたは相手の控え室のカードを1枚選び、ストック置き場に置く。
+Flavor Text:
+冗談じゃないわ。このキャンディを食べて、
+私のこわさを思い知ってもらわないとね！
+
+==========================
+
+Dazzling WorldDazzling World
+IM/SE04-14 C
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: G
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(宝：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい)
+Flavor Text:
+時が流れて　光りだす
+思い出一杯　作るのよ
+
+==========================
+
+スペシャルコーチ真
+IM/SE04-15 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Music 音楽,_Sports スポーツ
+Card Text/Abilities:
+【C】All your other Characters with 「涼」 in its name get +1 Level.
+【S】［① Place 1 Climax from Hand into Waiting Room］Choose 1 Character from your Waiting Room, return it to Hand.
+【永】他のあなたのカード名に「涼」を含むキャラすべてに、レベルを＋1。
+【起】［① 手札のクライマックスを1枚控え室に置く］あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+え？　こんなにかわいい涼が男の子だって？
+アハハ！ナイスジョーク！
+
+==========================
+
+どこまでもまっすぐな愛
+IM/SE04-16 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+【A】［① Place the top card of your Deck into Clock］When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, choose up to 1 Character with 「愛」 in its name, return it to Hand.
+【自】［① あなたの山札の上から1枚をクロック置場に置く］このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカード名に「愛」を含むキャラを1枚選び、手札に戻す。
+Flavor Text:
+あたし、前に進むことしかできないんです。
+押してだめなら、押し破っちゃえばいいんです
+
+==========================
+
+“限界にチャレンジ”愛
+IM/SE04-17 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+【A】［②］When 「ALIVE」 is placed into your Climax slot, you may pay the cost. If you did, place this card into Waiting Room, choose 1 「アイドルとしての才能 愛」 from your Waiting Room, place it into this card's previous slot.
+【自】［②］あなたのクライマックス置場に「ALIVE」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたはこのカードを控え室に置き、自分の控え室の「アイドルとしての才能 愛」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+そうだ。あたしにしかできない歌い方じゃないと
+ママの伝説なんて、超えられない！
+
+==========================
+
+伝説のアイドル舞
+IM/SE04-18 R
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Music 音楽,
+Card Text/Abilities:
+【C】The Character facing this card gets -1 Soul.
+【C】This card gets +X Power. X is equal to highest Level among Characters with 「愛」 in its name ×500.
+【A】When 「ALIVE」 is placed into your Climax slot, if this card is in the Front Row, choose 1 「アイドルとしての才能 愛」 from your Waiting Room, place it into any slot on Stage.
+【永】このカードの正面のキャラのソウルを－1。
+【永】このカードのパワーを＋X。Xは他のあなたのカード名に「愛」を含むキャラの中でレベルが1番高いキャラのレベル×500に等しい。
+【自】 あなたのクライマックス置場に「ALIVE」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室の「アイドルとしての才能 愛」を1枚選び、舞台の好きな枠に置く。
+Flavor Text:
+今夜は、私たちのお祭り♪
+私の生きてきた中で、最高の刻がはじまるわ！
+
+==========================
+
+サポート役まなみ
+IM/SE04-19 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Manager マネージャー,_Glasses メガネ
+Card Text/Abilities:
+【C】This card cannot Front Attack.
+【C】All your Characters with 「愛」 or 「舞」 in its name get +500 Power, gains 『【A】ENCORE［②］』.
+【永】このカードはフロントアタックできない。
+【永】他のあなたのカード名に「愛」か「舞」を含むキャラ全てに、パワーを＋500し、『【自】 アンコール ［②］』を与える。
+Flavor Text:
+私、今回だけは、マネージャーの立場じゃなく、
+あなたを応援するから。最後まで、がんばろ？
+
+==========================
+
+明るい親子 愛＆舞
+IM/SE04-20 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+【A】［①］When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, place this card into Memory.
+【A】 CHANGE ［Place 1 card into Waiting Room from Hand, place this card into Waiting Room］At the beginning of your Climax phase, you may pay this cost. If you did, choose 1 「“とつげき豆タンク”愛」 from your Waiting Room, place it into this card's previous slot.
+【自】［①］このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたはこのカードを思い出にする。
+【自】 チェンジ ［手札を1枚控え室に置き、このカードを控え室に置く］あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“とつげき豆タンク”愛」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+舞「あなたが一番したいことをすればいいじゃない？」
+愛「ママ、あたし歌ってくる。アイドルするために！」
+
+==========================
+
+みんなのアイドルやよい
+IM/SE04-21 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Music 音楽,_Frog カエル
+Card Text/Abilities:
+【C】For each of your other Character with Level 0 or less, this card gets +500 Power.
+【永】他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋500。
+Flavor Text:
+うっう～！会場の屋根、吹き飛ばしちゃうぐらい
+元気爆発で、頑張っちゃいますよーっ！
+
+==========================
+
+“とつげき豆タンク”愛
+IM/SE04-22 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+Flavor Text:
+はーい！今日も全力で、アイドル活動、
+がんばりましょーっ！
+
+==========================
+
+特別審査員 春香
+IM/SE04-23 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Music 音楽,_Sweets お菓子
+Card Text/Abilities:
+【C】If you have 2 or more cards in Memory, all your other Characters with 「愛」 in its name gains 『【A】ENCORE［Place 1 Character from Hand into Waiting Room］』, this card gains 『【A】ENCORE［Place 1 Character from Hand into Waiting Room］』.
+【永】あなたの思い出が2枚以上なら、他のあなたのカード名に「愛」を含むキャラ全てに『【自】アンコール［手札のキャラを1枚控え室に置く］』を与え、このカードは『 アンコール ［手札のキャラを1枚控え室に置く］』を得る。
+Flavor Text:
+元気出して、ね？　本当に好きなら、
+いつか絶対、思いは届くから……！
+
+==========================
+
+アイドルとしての才能 愛
+IM/SE04-24 C
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Music 音楽,
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand or Waiting Room, during this turn, this card gains the following ability.『【A】When the Character battling this card becomes REVERSE, you may place the top card of your Clock into Waiting Room.』
+【S】［REST 1 of your Characters, place 1 「明るい親子 愛＆舞」 from your Memory into Waiting Room］Choose 1 card from your opponent's Waiting Room, place it to the top of the Deck.
+【自】このカードが手札か控え室から、舞台に置かれた時、そのターン中、このカードは次の能力を得る。『【自】このカードとバトル中のキャラがリバースした時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。』
+【起】［あなたのキャラを1枚レストし、あなたの思い出置場の「明るい親子 愛＆舞」を1枚控え室に置く］あなたは相手の控え室のカードを1枚選び、山札の上に置く。
+Flavor Text:
+ママ、あたし、どんな夢もあきらめない！
+このまま、ずっと……上だけを見て、進むから！
+
+==========================
+
+ALIVEALIVE
+IM/SE04-25 C
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When this card is Triggered, you may choose 1 Character from your Waiting Room, return it to Hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(扉：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+Keep your dreams
+どんな夢も　願っていればいつかは叶うよ
+
+==========================
+
+事件の予感 律子
+IM/SE04-26 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Music 音楽,_Glasses メガネ
+Card Text/Abilities:
+【C】All your other Characters with 「涼」 in its name get +500 Power.
+【S】［REST this card］Reveal the top card of your Deck. If that card is a Climax, add it to Hand, choose 1 card from your Hand, place it into Waiting Room.(If its not, return it to its original position)
+【永】他のあなたのカード名に「涼」を含むキャラすべてに、パワーを＋500。
+【起】［このカードをレストする］あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら手札に加え、自分の手札1枚を選び、控え室に置く。 (そうでないなら元に戻す)
+Flavor Text:
+う～ん、何か変なのよね。意志を感じるの。
+真相をごまかそうとしているような意志を
+
+==========================
+
+ちょっぴり不思議 絵理
+IM/SE04-27 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Music 音楽,_Net ネット
+Card Text/Abilities:
+【A】At the beginning of your Climax Phase, reveal the top card of your Deck. If that card is a Climax, choose 1 of your other Characters, place it into Waiting Room.(Return revealed card to its original position)
+【自】あなたのクライマックスフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、あなたは他の自分のキャラを1枚選び、控え室に置く。 (公開したカードは元に戻す)
+Flavor Text:
+おはよう……ございます？
+朝でも、夜でも、おはようございます？
+
+==========================
+
+水谷 絵理
+IM/SE04-28 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Music 音楽,_Net ネット
+Card Text/Abilities:
+【A】［Place this card into Clock］When 「プリコグ」 is placed into your Climax slot, you may pay the cost. If you did, search your Deck for up to 1 「受け継いだ夢 絵理」, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【自】［このカードをクロック置場に置く］あなたのクライマックス置場に「プリコグ」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「受け継いだ夢 絵理」を1枚まで選び、このカードがいた枠に置く。その山札をシャッフルする。
+Flavor Text:
+ふんふん、ふんふんふふん♪
+わたし、自分のチカラでこの歌、作り上げる！
+
+==========================
+
+歌の助言 千早
+IM/SE04-29 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Music 音楽,
+Card Text/Abilities:
+【C】If all your Characters are 《音楽》, this card gets +1000 Power.
+【永】あなたのキャラ全てが《音楽》なら、このカードのパワーを＋1000。
+Flavor Text:
+あなたの思いと、そして、ファンの皆の思いが
+重なった時……。歌は、より大きく深くなるの
+
+==========================
+
+プロデューサー尾崎
+IM/SE04-30 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card get +500 Power.
+【A】When the Character battling your other 「ちょっぴり不思議 絵理」 becomes REVERSE, you may draw 1 card. If you did, choose 1 card from your Hand, place it into Waiting Room.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【自】他のあなたの「ちょっぴり不思議 絵理」とバトル中のキャラがリバースした時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+がんばってみない？　わたしといっしょに。
+ひとりじゃ見られない夢、きっと見られるから
+
+==========================
+
+合同レッスン絵理
+IM/SE04-31 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,_Net ネット
+Card Text/Abilities:
+【S】［REST 2 of your other Characters］Choose 1 of your Characters with 「愛」 in its name, during this turn, it gets +1 Soul, this card gets +1000 Power.
+【起】［他のあなたのキャラを2枚レストする］あなたは自分のカード名に「愛」を含むキャラを1枚選び、そのターン中、ソウルを＋1し、このカードのパワーを＋1000。
+Flavor Text:
+愛ちゃん、やさしく大きな声、出してみて？
+ボリュームは大きく、ニュアンスはやわらかく
+
+==========================
+
+マルチアーティスト絵理
+IM/SE04-32 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Music 音楽,_Net ネット
+Card Text/Abilities:
+【S】［② REST this card］Draw 1 card.
+【S】［REST this card］Choose 1 of your 《音楽》 Character, during this turn, it gets +1000 Power.
+【S】［② REST this card］Choose the top card of your Clock, place it into Waiting Room.
+【起】［② このカードをレストする］あなたは1枚引く。
+【起】［このカードをレストする］あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。
+【起】［② このカードをレストする］あなたは自分のクロックの上から1枚を、控え室に置く。
+Flavor Text:
+ステージをフカンで見て、自分の位置を確認？
+客席からの見え方を考えて、ジャンプすれば……
+
+==========================
+
+夢を想う あずさ
+IM/SE04-33 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Music 音楽,_Love 愛
+Card Text/Abilities:
+【C】SUPPORT All your Characters with Level 2 or higher in front of this card gets +1000 Power.
+【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。
+Flavor Text:
+夢、か……。ふふ、私の夢は、小さいけれど、
+でも、なににも変えられない、大切なものなの
+
+==========================
+
+ネットアイドルCINERIA
+IM/SE04-34 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Music 音楽,_Otaku オタク
+Card Text/Abilities:
+【A】 BOND／「マルチアーティスト絵理」 ［Place the top card from your Deck into Clock］ (When this card is played on Stage, you may pay the cost. If you do, choose 1 「マルチアーティスト絵理」 from your Waiting Room, return it to Hand)
+【自】 絆／「マルチアーティスト絵理」 ［あなたの山札の上から1枚をクロック置場に置く］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「マルチアーティスト絵理」を1枚選び、手札に戻す)
+Flavor Text:
+エヘヘヘヘッ、アタシはいっつも
+ELLIEセンパイの味方デスヨ♪
+
+==========================
+
+受け継いだ夢 絵理
+IM/SE04-35 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Music 音楽,_Net ネット
+Card Text/Abilities:
+【C】During your opponent's turn, for each of your other 《音楽》 Characters, this card gets +500 Power.
+【永】相手のターン中、他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。
+Flavor Text:
+誰かがいるから、がんばれる！誰かがいるから
+……楽しいの！　ただ、それだけなのっ！
+
+==========================
+
+プリコグ
+IM/SE04-36 C
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+を浴びてとろけるみたい
+予知夢へと　その向こう側へと
+
+==========================
+

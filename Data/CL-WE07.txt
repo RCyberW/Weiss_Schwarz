@@ -1,0 +1,567 @@
+光坂高校の生徒 渚Hikarizaka High School Student Nagisa
+CL/WE07-01 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Theater 演劇,_Dango だんご
+Card Text/Abilities:
+【C】During your turn, if you have 2 or more other 《演劇》, this card gets +2000 Power.
+【A】 ENCORE ［Put 1 Character from hand to Waiting Room］ (When this card is put into Waiting Room from Stage, you may pay this cost. If you do, return that card to its original slot in REST)
+【永】あなたのターン中、他のあなたの《演劇》のキャラが2枚以上いるなら、このカードのパワーを＋2000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+私は、とってもとっても好きです
+
+==========================
+
+デートに誘う朋也Invitation For Date Tomoya
+CL/WE07-02 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Delinquent 不良,_Sports スポーツ
+Card Text/Abilities:
+【C】 SUPPORT During your turn, all Characters in front of this card gets +1000 Power.
+【A】 BOND／「だんご大好き渚」［①］(When you play this card to Stage, you may pay this cost. If you do, choose 1 「だんご大好き渚」 from your Waiting Room, put it into your hand)
+【永】 応援 あなたのターン中、このカードの前のあなたのキャラすべてに、パワーを+1000。
+【自】 絆/「だんご大好き渚」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「だんご大好き渚」を1枚選び、手札に戻す)
+Flavor Text:
+今度の日曜日、どっかにいかないか？
+
+==========================
+
+病弱な少女 渚Weak Girl Nagisa
+CL/WE07-03 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Theater 演劇,_Dango だんご
+Card Text/Abilities:
+【A】［① Put 1 card to Waiting Room from hand, put this card into Memory］When the Climax 「出会いと別れ」 comes to Stage, you may pay this cost. If you do, choose 1 「渚の娘 汐」 from your Waiting Room, put it into this card's previous slot.
+【自】［①手札を1枚控え室に置き、このカードを思い出にする］あなたのクライマックス置き場に「出会いと別れ」が置かれた時、あなたはコストを払ってよい。そうしたらあなたは自分の控え室から「渚の娘 汐」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+私、去年学校を長い間お休みしてたんです
+
+==========================
+
+渚の娘 汐Nagisa's Daughter Ushio
+CL/WE07-04 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 4500
+Soul: 1
+Traits:: Dango だんご,_Starfish ヒトデ
+Card Text/Abilities:
+【C】 SUPPORT All Characters in front of this card gets +X. X is equal to that Character's Level x 500.
+【A】 CHANGE ［② Put 1 card to Waiting Room from hand, put this card to Memory］At the beginning of your Climax phase, you may pay this cost. If you do, take 1 「だんご大好き渚」 from your Waiting Room, put into this card's previous slot.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋X。Xはそのキャラのレベル×500に等しい。
+【自】 チェンジ ［② 手札を1枚控え室に置き、このカードを思い出にする］あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「だんご大好き渚」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+いただきます！
+
+==========================
+
+朋也の恋人 渚Tomoya's Lover Nagisa
+CL/WE07-05 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Theater 演劇,_Dango だんご
+Card Text/Abilities:
+【A】If you have another Character with 「朋也」 in its name, this card gets +500 Power, and gains 『【A】 ENCORE ［Put 1 Character to Waiting Room from hand］』.
+Flavor Text:
+
+==========================
+
+だんご大好き渚Dango Lover Nagisa
+CL/WE07-06 R
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Theater 演劇,_Dango だんご
+Card Text/Abilities:
+【A】When this card comes to Stage from hand or Waiting Room, choose up to 2 other Characters, during this turn, they get +1000 Power, +1 Soul.
+【A】［①］When this card comes to Stage from hand or Waiting Room, you may pay this cost. If you do, choose 1 card with 「渚」 or 「汐」 in its name from Memory, return it to your hand.
+【自】このカードが手札か控え室から、舞台に置かれた時、あなたは他の自分のキャラを2枚まで選び、そのターン中、パワーを+1000し、ソウルを+1。
+【自】［①］このカードが手札か控え室から、舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の思い出置場のカード名に「渚」か「汐」を含むキャラを1枚選び、手札に戻す。
+Flavor Text:
+だんご大家族です！
+
+==========================
+
+だんご大好き渚Dango Lover Nagisa
+CL/WE07-06 SP
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Theater 演劇,_Dango だんご
+Card Text/Abilities:
+【A】When this card comes to Stage from hand or Waiting Room, choose up to 2 other Characters, during this turn, they get +1000 Power, +1 Soul.
+【A】［①］When this card comes to Stage from hand or Waiting Room, you may pay this cost. If you do, choose 1 card with 「渚」 or 「汐」 in its name from Memory, return it to your hand.
+【自】このカードが手札か控え室から、舞台に置かれた時、あなたは他の自分のキャラを2枚まで選び、そのターン中、パワーを+1000し、ソウルを+1。
+【自】［①］このカードが手札か控え室から、舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の思い出置場のカード名に「渚」か「汐」を含むキャラを1枚選び、手札に戻す。
+Flavor Text:
+だんご大家族です！
+
+==========================
+
+岡崎 汐Okazaki Ushio
+CL/WE07-07 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Animal 動物,_Dango だんご
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【S】［Put this card to REST］ Choose 1 《演劇》 Character, during this turn, it gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを+500。
+【起】［このカードをレストする］あなたは自分の《演劇》のキャラを1枚選び、そのターン中、パワーを+500。
+Flavor Text:
+Papa~!
+パパ～！
+
+==========================
+
+町を愛する渚Loving This Town Nagisa
+CL/WE07-08 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Theater 演劇,_Dango だんご
+Card Text/Abilities:
+【C】If you have 1 or less other Character in the Front Row, this card gets +1 Soul.
+【永】他のあなたの前列のキャラが1枚以下なら、このカードのソウルを+1。
+Flavor Text:
+私たちは町を愛して、町に育まれてるんです
+
+==========================
+
+渚＆芽衣Nagisa & Mei
+CL/WE07-09 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Theater 演劇,_Dango だんご
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+仲良し親子 渚＆早苗Intimate Parent and Child Nagisa & Sanae
+CL/WE07-10 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Bread パン,_Theater 演劇
+Card Text/Abilities:
+【A】 ENCORE ［Put 1 Character from hand to Waiting Room］ (When this card is put into Waiting Room from Stage, you may pay this cost. If you do, return that card to its original slot in REST)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+早苗「渚が幸せでいてくれることが、私たちの幸せです」
+
+==========================
+
+温かな家庭 渚＆朋也＆秋生Warm Household Nagisa & Tomoya & Akio
+CL/WE07-11 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Bread パン,_Theater 演劇
+Card Text/Abilities:
+【C】 RECOLLECTION During your turn, if you have 3 or more cards in Memory, this card gets +2000 Power.
+【永】 記憶 あなたのターン中、あなたの思い出が3枚以上なら、このカードのパワーを+2000。
+Flavor Text:
+秋生「よーし、お前ら！野球やりにいくぞー」
+
+==========================
+
+“恋人同士”渚＆朋也 “Lovers” Nagisa & Tomoya
+CL/WE07-12 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Theater 演劇,_Delinquent 不良
+Card Text/Abilities:
+【A】［①］When this card attacks, if the Climax 「家族の絆」 is on Stage, you may pay this cost. If you do, during this turn, all other Characters get +2500 Power, +1 Soul.
+【自】［①］このカードがアタックした時、クライマックス置場に「家族の絆」があるなら、あなたはコストを払ってよい。そうしたら、他のあなたのキャラすべてに、そのターン中、パワーを+2500し、ソウルを+1。
+Flavor Text:
+渚「どこでもいいです、その……朋也君と一緒なら」
+
+==========================
+
+出会いと別れMeetings & Farewells
+CL/WE07-13 C
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this Climax comes to Stage from hand, draw 1 card. Choose 1 of your Character, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置き場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+渚「少し疲れてしまいました。ちょっとだけ、休ませてください…」
+
+==========================
+
+家族の絆Family Bonds
+CL/WE07-14 C
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1F
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Flame：When this card is Triggered, if your current attacking Character's damage is cancelled, deal 1 damage to opponent.)
+Flavor Text:
+
+==========================
+
+転校生 智代Transfer Student Tomoyo
+CL/WE07-15 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Student Council 生徒会,_Sports スポーツ
+Card Text/Abilities:
+【C】If you have 2 or more other 《スポーツ》 Characters, this card gains the following ability.「【S】［①］During this turn, this card gets +3000 Power.」
+【永】他のあなたの《スポーツ》のキャラが2枚以上なら、このカードは次の能力を得る。
+「【起】［①］そのターン中、このカードのパワーを＋3000。」
+Flavor Text:
+お前のおかげで悪い噂もどこかに行ってしまった。ありがとう
+
+==========================
+
+転校生 智代Transfer Student Tomoyo
+CL/WE07-15 SP
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Student Council 生徒会,_Sports スポーツ
+Card Text/Abilities:
+【C】If you have 2 or more other 《スポーツ》 Characters, this card gains the following ability.「【S】［①］During this turn, this card gets +3000 Power.」
+【永】他のあなたの《スポーツ》のキャラが2枚以上なら、このカードは次の能力を得る。
+「【起】［①］そのターン中、このカードのパワーを＋3000。」
+Flavor Text:
+お前のおかげで悪い噂もどこかに行ってしまった。ありがとう
+
+==========================
+
+パジャマの智代Pajama Tomoyo
+CL/WE07-16 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger:
+Power: 2500
+Soul: 1
+Traits:: Student Council 生徒会,_Sports スポーツ
+Card Text/Abilities:
+【S】［Put this card to REST］Choose 1 of your 《不良》 Character, during this turn, it gets +1000 Power.
+Flavor Text:
+
+==========================
+
+汐の友達 風子Ushio's Friend Fuuko
+CL/WE07-17 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Starfish ヒトデ,
+Card Text/Abilities:
+【A】[Reveal 1 《ヒトデ》 Character from your hand] When this card comes to Stage from hand, you may pay this cost. If you do, during this turn, it gets +2500 Power.
+【自】[手札の《ヒトデ》のキャラを1枚公開する] このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2500。
+Flavor Text:
+This child will be Fuuko's sister!
+この子は風子の妹にします！
+
+==========================
+
+相楽 美佐枝Sagara Misae
+CL/WE07-18 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【C】 SUPPORT All Characters in front of this card with Level 2 or above gets +500 Power and gains 「【A】 ENCORE ［Put 1 Character to Waiting Room from hand］」.
+【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを+500し、「【自】 アンコール ［手札のキャラを1枚控え室に置く］」を与える。
+Flavor Text:
+あなたって変わってるわねぇ…
+
+==========================
+
+最強の女 智代Strongest Girl Tomoyo
+CL/WE07-19 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Student Council 生徒会,_Sports スポーツ
+Card Text/Abilities:
+【A】［①］At the beginning of opponent's Attack Phase, you may pay this cost. If you do, during this turn, this card gets +2000 Power.
+【自】［①］相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+お前だけは特別に相手をしてやろう
+
+==========================
+
+汐の担任 杏Ushio's Caretaker Kyou
+CL/WE07-20 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Twins 双子,_Teacher 先生
+Card Text/Abilities:
+【A】［②］When this card comes to Stage from hand, you may pay this cost. If you do, choose 1 《双子》 Character from your Waiting Room, put it in your hand.
+Flavor Text:
+
+==========================
+
+“お姉ちゃん”杏“Onee-chan” Kyou
+CL/WE07-21 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Twins 双子,_Sports スポーツ
+Card Text/Abilities:
+【C】If you have 4 or more cards in your Stock, this card gains the following ability.「【A】When this card becomes REVERSE, if the battling opponent's Cost is 0 or less, put that card into REVERSE.」
+【永】あなたのストックが4枚以上なら、このカードは次の能力を得る。「【自】このカードがリバースした時、このカードのバトル相手のコストが0以下なら、あなたはそのキャラをリバースしてよい。」
+Flavor Text:
+椋にも声かけとくから、後でどっか面白いとこに連れてってよ！
+
+==========================
+
+“お姉ちゃん”杏“Onee-chan” Kyou
+CL/WE07-21 SP
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Twins 双子,_Sports スポーツ
+Card Text/Abilities:
+【C】If you have 4 or more cards in your Stock, this card gains the following ability.「【A】When this card becomes REVERSE, if the battling opponent's Cost is 0 or less, put that card into REVERSE.」
+【永】あなたのストックが4枚以上なら、このカードは次の能力を得る。「【自】このカードがリバースした時、このカードのバトル相手のコストが0以下なら、あなたはそのキャラをリバースしてよい。」
+Flavor Text:
+椋にも声かけとくから、後でどっか面白いとこに連れてってよ！
+
+==========================
+
+渚＆杏＆椋Nagisa & Kyou & Ryou
+CL/WE07-22 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Theater 演劇,_Twins 双子
+Card Text/Abilities:
+【C】If you have 2 or more other Characters with 「SUPPORT」, this card gets +1000 Power.
+【永】他のあなたの「 応援 」を持つキャラが2枚以上なら、このカードのパワーを+1000。
+Flavor Text:
+杏「ほらいじめないから、いい子いい子～」
+
+==========================
+
+天然娘 ことみDaughter of Nature Kotomi
+CL/WE07-23 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Book 本,_Music 音楽
+Card Text/Abilities:
+【A】When this card comes to Stage from hand, draw 1 card, then choose 1 card from your hand, put into Waiting Room.
+【自】このカードが手札から舞台に置かれた時、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+
+==========================
+
+終わった世界の少女Girl From The Ended World
+CL/WE07-24 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Doll 人形,
+Card Text/Abilities:
+【A】［①］When this card becomes REVERSE in battle, you may pay this cost. If you do, put this card into Memory.
+【A】 RECOLLECTION ［① Put this card into Waiting Room］At the beginning of opponent's Encore Step, if you have cards in Memory and this card is in the back row, you may pay this cost. If you do, choose up to 2 other Characters, during this turn, they gain the following ability.「【A】When this card is put into Waiting Room from Stage, put that card back to its previous slot in REST position.」
+【自】［①］バトル中のこのカードがリバースした時、あなたはコストを払ってよい。そうしたら、このカードを思い出にする。
+【自】 記憶 ［①このカードを控え室に置く］相手のアンコールステップの始めに、あなたの思い出置場にカードがあり、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを2枚まで選び、そのターン中、次の能力を与える。「【自】このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠にレストして置いてよい。」
+Flavor Text:
+キミの声、やっと聞けたね
+
+==========================
+
+宮沢 有紀寧Miyazawa Yukine
+CL/WE07-25 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Book 本,
+Card Text/Abilities:
+【自】［① Put 1 card into Waiting Room from hand］When this card comes to Stage from hand, you may pay this cost. If you do, search your deck for 1 《不良》 Character, show it to opponent, then put into your hand. Shuffle your deck afterwards.
+【S】● ASSIST 1500 Level 1 ［Put this card to Waiting Room from hand］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +1500 Power)
+【自】［①手札を1枚控え室に置く］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《不良》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+【起】● 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを+1500)
+Flavor Text:
+今日はどうかされましたか？
+
+==========================
+
+ことみ＆智代Kotomi & Tomoyo
+CL/WE07-26 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Book 本,_Student Council 生徒会
+Card Text/Abilities:
+【C】All your cards with 「朋也」 in its name gains 『【A】 ENCORE [Put 1 Character into Waiting Room from hand]』.
+【A】[Put this card to REST] Choose 1 card with 「朋也」 in its name, during this turn, it gains the following ability. 「【C】No Soul will be deducted when Side Attacking with this Character.」
+【永】他のあなたのカード名に「朋也」を含むキャラすべてに、『【自】 アンコール [手札のキャラを1枚控え室に置く]』を与える。
+【自】[このカードをレストする] あなたは自分のカード名に「朋也」を含むキャラを１枚選び、そのターン中、次の能力を与える。「【永】このカードはサイドアタックしてもソウルが減少しない。」
+Flavor Text:
+智代「まったく、お前たちはいつも元気だな」
+
+==========================
+
+ウェイトレスの渚＆杏＆椋Waitress Nagisa & Kyou & Ryou
+CL/WE07-27 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Theater 演劇,_Twins 双子
+Card Text/Abilities:
+【A】 ENCORE ［Put 1 Character from hand to Waiting Room］ (When this card is put into Waiting Room from Stage, you may pay this cost. If you do, return that card to its original slot in REST)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+
+==========================
+
+夏祭りの智代＆風子＆渚At The Festival Tomoyo & Fuuko & Nagisa
+CL/WE07-73 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Theater 演劇,_Starfish ヒトデ
+Card Text/Abilities:
+【A】When this card attacks, all your Characters get +500 Power.
+【自】このカードがアタックした時、あなたのキャラすべてに、そのターン中、パワーを＋500。
+Flavor Text:
+
+==========================
+

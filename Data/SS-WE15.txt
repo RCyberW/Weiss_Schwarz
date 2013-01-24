@@ -1,0 +1,782 @@
+悠二の消えた日 シャナ
+SS/WE15-01 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 7000
+Soul: 2
+Traits:: Flame 炎,_Melon Pan メロンパン
+Card Text/Abilities:
+【A】 When this card attacks, choose 1 of your other 《炎》 Characters, during this turn, it gets +2000 Power.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, place this card in its previous slot in REST)
+【自】 このカードがアタックした時、あなたは他の自分の《炎》のキャラを1枚選び、そのターン中、パワーを＋2000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+……悠二
+
+==========================
+
+囚われのシャナ
+SS/WE15-02 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Flame 炎,_Melon Pan メロンパン
+Card Text/Abilities:
+【A】 CHANGE ［Place 1 card from Hand into Waiting Room, place this card into Waiting Room］ At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 「闘争の渦 シャナ」 from your Waiting Room, place it into this card's previous slot.
+【自】 チェンジ [手札を1枚控え室に置き、このカードを控え室に置く] あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。
+そうしたら、あなたは控え室の「闘争の渦 シャナ」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+悠二の、手……。恐くて、たまらなかった
+
+==========================
+
+ネコミミ 一美
+SS/WE15-03 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Love 愛,_Animal 動物
+Card Text/Abilities:
+【A】 This card cannot become REVERSE by your opponent's Characters' 【A】 ability.
+【永】このカードは相手のキャラの【自】の効果によってリバースされない。
+Flavor Text:
+このくらいならいいかも
+
+==========================
+
+揺れる想い 一美
+SS/WE15-04 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Love 愛,
+Card Text/Abilities:
+Flavor Text:
+二人とも、相手を確かに、誰より想っていて…… なのにどうして、望まないものを、ぶつけあうの……？
+
+==========================
+
+逃げない勇気 一美
+SS/WE15-05 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Love 愛,
+Card Text/Abilities:
+【S】● ASSIST 1500 Level 1 ［Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +1500 Power.)
+【起】 ● 助太刀 1500 レベル1 [手札のこのカードを控え室に置く] (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを+1500)
+Flavor Text:
+今、逃げたら……私は本当に、踏み込んだはずの場所から放り出されてしまう気がする
+
+==========================
+
+成長の鍵 シャナ
+SS/WE15-06 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Flame 炎,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card attacks, choose 1 of your other 《炎》 Characters, during this turn, it gets +500 Power.
+【A】 BOND／「“ペルソナ”装着 ヴィルヘルミナ」［①］(When this card is played onto Stage, you may pay the cost. If you did, choose 1 「“ペルソナ”装着 ヴィルヘルミナ」 from your Waiting Room, place it into Hand)
+【自】 このカードがアタックした時、あなたは他の自分の《炎》のキャラを1枚選び、そのターン中、パワーを+500。
+【自】 絆／「“ペルソナ”装着 ヴィルヘルミナ」 [①] (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“ペルソナ”装着 ヴィルヘルミナ」を1枚選び、手札に戻す)
+Flavor Text:
+わたしと…わたし…どういうこと？
+
+==========================
+
+一流の自在師 マージョリー
+SS/WE15-07 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Flame 炎,_Book 本
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand, choose 1 of your 《炎》 Characters, during this turn, it gets +1500 Power.
+【S】 [①] Place the top card of your opponent's Deck into Waiting Room, choose 1 card from your opponent's Waiting Room, place it on top of the Deck.
+【自】 このカードが手札から舞台に置かれたとき、あなたは自分の《炎》のキャラを1枚選び、そのターン中、パワーを+1500。
+【起】 [①] あなたは相手の山札の上から1枚を控え室に置き、相手の控え室のカードを1枚選び、山札の上に置く。
+Flavor Text:
+ふん、どうだかね
+
+==========================
+
+この刃に懸けて シャナ
+SS/WE15-08 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Flame 炎,_Weapon 武器
+Card Text/Abilities:
+【C】 EXPERIENCE If the total Level of cards in your Level slot is 2 or higher, all your other 《炎》 Characters get +500 Power.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, place this card in its previous slot in REST)
+【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、他のあなたの《炎》のキャラすべてに、パワーを＋500。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+まだ終わってない
+
+==========================
+
+この刃に懸けて シャナ
+SS/WE15-08 SP
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Flame 炎,_Weapon 武器
+Card Text/Abilities:
+【C】 EXPERIENCE If the total Level of cards in your Level slot is 2 or higher, all your other 《炎》 Characters get +500 Power.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, place this card in its previous slot in REST)
+【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、他のあなたの《炎》のキャラすべてに、パワーを＋500。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+まだ終わってない
+
+==========================
+
+最終決戦 マージョリー
+SS/WE15-09 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Flame 炎,_Book 本
+Card Text/Abilities:
+【S】 ［① REST 1 of your 《炎》 Characters］ During this turn, this card gets +3000 Power.
+【起】 ［① あなたの《炎》のキャラを1枚レストする］ そのターン中、このカードのパワーを＋3000。
+Flavor Text:
+最後のお仕事、ね
+
+==========================
+
+“ペルソナ”装着 ヴィルヘルミナ
+SS/WE15-10 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Flame 炎,_Maid メイド
+Card Text/Abilities:
+【C】 If you have another Character with 「シャナ」 in its name, this card gets +1500 Power.
+【永】 他のあなたのカード名に「シャナ」を含むキャラがいるなら、このカードのパワーを＋1500。
+Flavor Text:
+ヴィルヘルミナ「まただ……、また、私は拒まれて……」
+　　 　ティアマトー「使命、消失」
+
+==========================
+
+愛がすべて シャナ
+SS/WE15-11 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Flame 炎,_Weapon 武器
+Card Text/Abilities:
+【C】 EXPERIENCE If the total Level of cards in your Level slot is 3 or higher, this card gets +1000 Power and gains 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』.
+【A】 When this card attacks, if 「新世界へ」 is in the Climax Slot, choose 1 Character in your Waiting Room, you may return it to Hand.
+【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのパワーを+1000し、このカードは「【自】 アンコール [手札のキャラを1枚控え室に置く]」を得る。
+【自】 このカードがアタックした時、クライマックス置き場に「新世界へ」があるなら、あなたは控え室のキャラを1枚選び、手札に戻してよい。
+Flavor Text:
+アラストール「行くか、新世界、ザナドゥへ」
+
+==========================
+
+悠二と歩む道 シャナ
+SS/WE15-12 R
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Flame 炎,_Weapon 武器
+Card Text/Abilities:
+【C】 The Character facing this card gets -1 Soul.
+【C】 EXPERIENCE If the total Level of cards in your Level slot is 5 or higher, this card gets +1000 Power.
+【A】 ［①］ When this card attacks, if 「ぶつかる想い」 is in the Climax Slot, you may pay the cost. If you did, deal 1 Damage to your opponent, during this turn, this card gets +3000 Power. (Damage can be cancelled)
+【永】 このカードの正面のキャラのソウルを－1。
+【永】 経験 あなたのレベル置場のカードのレベルの合計が5以上なら、このカードのパワーを＋1000。
+【自】 ［①］ このカードがアタックした時、クライマックス置場に「ぶつかる思い」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与え、そのターン中、このカードのパワーを＋3000。 (ダメージキャンセルは発生する)
+Flavor Text:
+　　　悠二の理屈はわかった。
+でもそうじゃない、悠二の気持ちが聞きたい
+
+==========================
+
+悠二と歩む道 シャナ
+SS/WE15-12 SP
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Flame 炎,_Weapon 武器
+Card Text/Abilities:
+【C】 The Character facing this card gets -1 Soul.
+【C】 EXPERIENCE If the total Level of cards in your Level slot is 5 or higher, this card gets +1000 Power.
+【A】 ［①］ When this card attacks, if 「ぶつかる想い」 is in the Climax Slot, you may pay the cost. If you did, deal 1 Damage to your opponent, during this turn, this card gets +3000 Power. (Damage can be cancelled)
+【永】 このカードの正面のキャラのソウルを－1。
+【永】 経験 あなたのレベル置場のカードのレベルの合計が5以上なら、このカードのパワーを＋1000。
+【自】 ［①］ このカードがアタックした時、クライマックス置場に「ぶつかる思い」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与え、そのターン中、このカードのパワーを＋3000。 (ダメージキャンセルは発生する)
+Flavor Text:
+　　　悠二の理屈はわかった。
+でもそうじゃない、悠二の気持ちが聞きたい
+
+==========================
+
+最強の自在法 シャナ
+SS/WE15-13 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Flame 炎,_Weapon 武器
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card, gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+シロ……私、見つけたよ
+
+==========================
+
+使命の為に ヴィルヘルミナ
+SS/WE15-14 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Flame 炎,_Maid メイド
+Card Text/Abilities:
+【A】 You can only activate this ability once per turn. If you use 【S】, choose 1 of your 《炎》 Characters, during this turn, it gets +1000 Power.
+【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたは自分の《炎》のキャラを1枚選び、そのターン中、パワーを+1000。
+Flavor Text:
+あの方と無事に出会えるかどうか、これもまた運任せでありますな
+
+==========================
+
+『鬼功の繰り手』サーレ・ハビヒツブルグ
+SS/WE15-15 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Flame 炎,_Sacred Treasure 神器
+Card Text/Abilities:
+【A】 When this card becomes REVERSE in battle, choose 1 of your 《炎》 Characters, during this turn, it gets +1000 Power.
+【自】 バトル中のこのカードがリバースした時、あなたは自分の《炎》のキャラを1枚選び、そのターン中、パワーを+1000。
+Flavor Text:
+どうなってんだ、こりゃ
+
+==========================
+
+揺るがぬ心 シャナ
+SS/WE15-16 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Flame 炎,_Weapon 武器
+Card Text/Abilities:
+【C】 If you have 2 or less other 《炎》 Characters, this card cannot STAND during your Stand Phase.
+【永】 他のあなたの《炎》のキャラが2枚以下なら、このカードはあなたのスタンドフェイズにスタンドしない。
+Flavor Text:
+誰もやらないのだから、私達がやる。 意思を持って、力を尽くして、策を巡らせ―――結果を、掴む
+
+==========================
+
+『輝爍の撒き手』レベッカ・リード
+SS/WE15-17 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Flame 炎,_Sacred Treasure 神器
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand, during this turn, this card gets +1500 Power.
+【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを+1500。
+Flavor Text:
+レベッカ「美味しいところ取ってくようで悪いけどよ」 バラル「そこは適材適所ってことでご勘弁願いたいね」
+
+==========================
+
+乾坤一擲 シャナ
+SS/WE15-18 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Flame 炎,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+アラストール「対策はないが……」　シャナ「押し切る！」
+
+==========================
+
+闘争の渦 シャナ
+SS/WE15-19 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Flame 炎,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand, choose 1 of your 《炎》 Characters in STAND, REST it.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のスタンドしている《炎》のキャラを1枚選び、レストする。
+Flavor Text:
+私は悠二の採点係じゃ、ない！
+
+==========================
+
+『調律師』カムシン・ネブハーウ
+SS/WE15-20 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 3000
+Soul: 1
+Traits:: Flame 炎,_Sacred Treasure 神器
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card, gets +500 Power.
+【A】 This ability can only be activated once per turn. When another of your 《炎》 Characters becomes REVERSE in battle, choose 1 of your Characters, during this turn, it gets +1500 Power.
+【永】 応援 このカードの前のキャラすべてに、パワーを+500。
+【自】 この能力は1ターンにつき1回まで発動する。他のあなたのバトル中の《炎》のキャラがリバースした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを+1500。
+ノーマル：
+Flavor Text:
+懐かしい名ですね
+
+==========================
+
+『極光の射手』キアラ・トスカナ
+SS/WE15-21 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Flame 炎,_Sacred Treasure 神器
+Card Text/Abilities:
+Flavor Text:
+私は……もう、決めてます
+
+==========================
+
+理屈と気持ち シャナ
+SS/WE15-22 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Flame 炎,_Weapon 武器
+Card Text/Abilities:
+【A】 When your other 《炎》 Character attacks, during this turn, this card gets +1000 Power.
+【自】 他のあなたの《炎》のキャラがアタックした時、そのターン中、このカードのパワーを+1000。
+Flavor Text:
+私はこの今からでも、悠二と一緒に歩いて行ける！
+
+==========================
+
+『震威の結い手』ゾフィー・サバリッシュ
+SS/WE15-23 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Flame 炎,_Sacred Treasure 神器
+Card Text/Abilities:
+【S】 ［①］ During this turn, this card gets +X Power. X is equals to the number of your 《炎》 Characters ×500.
+【起】 [①] そのターン中、このカードのパワーを+X。Xはあなたの《炎》のキャラの枚数×500に等しい。
+Flavor Text:
+今頃、レベッカから連絡を受けている頃でしょうね。　それに、私の手紙も……
+
+==========================
+
+新世界へ
+SS/WE15-24 C
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】 All your Characters get +1000 Power, +1 Soul.
+(Gate： When this card is Triggered, choose 1 Character from your Waiting Room, return it to Hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(扉：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+
+==========================
+
+ぶつかる想い
+SS/WE15-25 C
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】 When this card is placed into the Climax Slot from Hand, place the top card of your Deck into Stock, all your Characters, during this turn, get +1 Soul.
+【自】 このカードが手札からクライマックス置き場に置かれた時、あなたは自分の山札の上から1枚を、ストック置き場に置き、自分のキャラすべてに、そのターン中、ソウルを+1。
+Flavor Text:
+それが、そんなものが、絶対に私と立てない理由なの？
+
+==========================
+
+『巫女』ヘカテー
+SS/WE15-26 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Flame 炎,_Miko 巫女
+Card Text/Abilities:
+【C】 EXPERIENCE If the total Level of cards in your Level slot is 5 or higher, this card gains the following ability. 『【A】 This ability can only be activated once per turn. If you use 【S】, choose 1 of your Characters, during this turn, it gets +1500 Power.』
+【S】 [② REST this card] Draw 1 card.
+【永】 経験 あなたのレベル置場のカードの合計が5以上なら、このカードは次の能力を得る「【自】この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを+1500。」
+【起】 [② このカードをレストする] あなたは1枚引く。
+Flavor Text:
+おまえは……要らない
+
+==========================
+
+『巫女』ヘカテー
+SS/WE15-26 SP
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Flame 炎,_Miko 巫女
+Card Text/Abilities:
+【C】 EXPERIENCE If the total Level of cards in your Level slot is 5 or higher, this card gains the following ability. 『【A】 This ability can only be activated once per turn. If you use 【S】, choose 1 of your Characters, during this turn, it gets +1500 Power.』
+【S】 [② REST this card] Draw 1 card.
+【永】 経験 あなたのレベル置場のカードの合計が5以上なら、このカードは次の能力を得る「【自】この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを+1500。」
+【起】 [② このカードをレストする] あなたは1枚引く。
+Flavor Text:
+おまえは……要らない
+
+==========================
+
+『参謀』ベルペオル
+SS/WE15-27 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Flame 炎,
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gains 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』.
+【S】 ［①］ Draw 1 card, choose 1 card from your Hand, place it into Waiting Room.
+【永】 応援 このカードの前のあなたのキャラすべてに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。
+【起】 ［①］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+断割せよ、タルタロス
+
+==========================
+
+創造神“祭礼の蛇”
+SS/WE15-28 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Flame 炎,_Snake 蛇
+Card Text/Abilities:
+【C】 Unless you have 「『巫女』ヘカテー」 and 「『将軍』シュドナイ」 and 「『参謀』ベルペオル」, you cannot play this card from Hand.
+【C】 All your other 《炎》 Characters get +1000 Power.
+【永】 このカードは、あなたの、「『巫女』ヘカテー」と「『将軍』シュドナイ」と「『参謀』ベルペオル」がいる場合を除き、手札からプレイできない。
+【永】 他のあなたの《炎》のキャラすべてに、パワーを＋1000。
+Flavor Text:
+余は新たに、この世の写し世――『無何有鏡』を創造する
+
+==========================
+
+神威召還 ヘカテー
+SS/WE15-29 R
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Flame 炎,_Miko 巫女
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand or through 『CHANGE』, you may place the top card of your Clock into Waiting Room.
+【A】 ［①］ When 「次の願いの結実まで」 is placed into the Climax Slot, you may pay the cost. If you did, draw 1 card, place the top card of your Clock into Waiting Room, at the beginning of your Encore Step, place this card into Stock.
+【自】 このカードが手札から舞台に置かれた時か「 チェンジ 」で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】 ［①］ あなたのクライマックス置場に「次の願いの結実まで」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは１枚引き、自分のクロックの上から1枚を、控え室に置き、アンコールステップの始めに、このカードをストック置場に置く。
+Flavor Text:
+儀式の祈りを始めます
+
+==========================
+
+別れの哀愁 シュドナイ
+SS/WE15-30 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Flame 炎,_Tabacco タバコ
+Card Text/Abilities:
+【C】 If you have another Character with 「ヘカテー」 in its name, this card gets +1500 Power.
+【永】 他のあなたのカード名に「ヘカテー」を含むキャラがいるなら、このカードのパワーを+1500。
+Flavor Text:
+じゃあ、な。俺の可愛い“頂の座”ヘカテー
+
+==========================
+
+確かな存在 悠二
+SS/WE15-31 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Flame 炎,_Snake 蛇
+Card Text/Abilities:
+Flavor Text:
+何でも出来る、そんな気がする
+
+==========================
+
+理屈と気持ち 悠二
+SS/WE15-32 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Flame 炎,_Snake 蛇
+Card Text/Abilities:
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, place this card in its previous slot in REST)
+【自】 アンコール [手札のキャラを1枚控え室に置く] (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+言ったろ、一人じゃなきゃ罰の意味がないって！
+
+==========================
+
+神算鬼謀 ベルペオル
+SS/WE15-33 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Flame 炎,_Eyepatch 眼帯
+Card Text/Abilities:
+【S】● ASSIST 3000 Level 2［① Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power)
+【起】● 助太刀 3000 レベル2 [① 手札のこのカードを控え室に置く] (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを+3000)
+Flavor Text:
+
+==========================
+
+幾万の願いの結晶 ヘカテー
+SS/WE15-34 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Flame 炎,_Miko 巫女
+Card Text/Abilities:
+【A】 CHANGE ［② Place 1 card from Hand into Waiting Room, place this card into Waiting Room］ At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 「神威召還 ヘカテー」 from your Waiting Room, place it into this card's previous slot.
+【自】 チェンジ [② 手札を1枚控え室に置き、このカードを控え室に置く] あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「神威召還 ヘカテー」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+
+==========================
+
+『将軍』シュドナイ
+SS/WE15-35 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Flame 炎,_Weapon 武器
+Card Text/Abilities:
+【S】 When this card is placed on Stage from Hand, during this turn, this card gets +X Power. X is equal to the number of your 《炎》 Characters ×500.
+【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《炎》のキャラの枚数×500に等しい。
+Flavor Text:
+は、ご照覧あれ
+
+==========================
+
+次の願いの結実まで
+SS/WE15-36 C
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】 When this card is placed into the Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを+2000し、ソウル+1
+Flavor Text:
+シュドナイ「いつかまた3人で」　ヘカテー「盟主も合わせて4人で」
+
+==========================
+
+屈せぬ心 シャナ
+SS/WE15-P01 PR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Flame 炎,_Weapon 武器
+Card Text/Abilities:
+【A】 When your other Characters in battle become REVERSE, during this turn, this card gets +1000 Power.
+【自】 他のあなたのバトル中のキャラがリバースした時、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+私は……あなたを、討滅する
+
+==========================
+
+水着のシャナ
+SS/WE15-P02 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Flame 炎,_Melon Pan メロンパン
+Card Text/Abilities:
+Flavor Text:
+うるさいうるさいうるさい！
+
+==========================
+
+チャイナドレスのシャナ
+SS/WE15-P03 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Flame 炎,_Melon Pan メロンパン
+Card Text/Abilities:
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, place this card in its previous slot in REST)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+――はっ！
+
+==========================
+

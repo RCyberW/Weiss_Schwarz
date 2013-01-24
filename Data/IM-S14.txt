@@ -1,0 +1,3034 @@
+ソロデビュー！ 真美
+IM/S14-001 RR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,_Twins 双子
+Card Text/Abilities:
+【A】［Place 1 「LUCKY RABBIT」 from your Memory into Waiting Room］When you use this card's 『ASSIST』, you may pay the cost. If you did, all your 《音楽》 Characters, during this turn, gain 『【A】ENCORE ［Place 1 Character from Hand into Waiting Room］』.
+【S】● ASSIST 3000 Level 2［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)
+【自】［あなたの思い出置場のLUCKY RABBITを1枚控え室に置く］あなたがこのカードの『 助太刀 』を使った時、あなたはコストを払ってよい。そうしたら、あなたの《音楽》のキャラすべてに、そのターン中、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。
+【起】● 助太刀3000 レベル2 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000)
+Flavor Text:
+双海真美、ギによってスケダチいたすー！
+……ところで、スケダチって何？
+
+==========================
+
+みんなのお姉さん やよい
+IM/S14-002 RR
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Music 音楽,_Frog カエル
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, you may place 1 card from the top of your Clock into Waiting Room.
+【A】［⑤］This ability only activate up to 1 time each turn. When another of your Characters attack, if 「おはよう！！朝ご飯」 is in your Climax slot, you may pay the cost. If you did, STAND this card.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】［⑤］この能力は1ターンに1回まで発動する。他のあなたのキャラがアタックした時、あなたのクライマックス置場に「おはよう！！朝ご飯」があるなら、あなたはコストを払ってよい。そうしたら、このカードをスタンドする。
+Flavor Text:
+プロデューサー！　私、みんなの
+お姉さんになりますね！
+
+==========================
+
+みんなのお姉さん やよい
+IM/S14-002 SP
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Music 音楽,_Frog カエル
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, you may place 1 card from the top of your Clock into Waiting Room.
+【A】［⑤］This ability only activate up to 1 time each turn. When another of your Characters attack, if 「おはよう！！朝ご飯」 is in your Climax slot, you may pay the cost. If you did, STAND this card.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】［⑤］この能力は1ターンに1回まで発動する。他のあなたのキャラがアタックした時、あなたのクライマックス置場に「おはよう！！朝ご飯」があるなら、あなたはコストを払ってよい。そうしたら、このカードをスタンドする。
+Flavor Text:
+プロデューサー！　私、みんなの
+お姉さんになりますね！
+
+==========================
+
+双海姉妹の癒し系 真美
+IM/S14-003 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,_Twins 双子
+Card Text/Abilities:
+【A】［② Place 1 card from Hand into Waiting Room］When 「Do-Dai」 is placed into your Climax slot, you may pay this cost. If you did, choose up to 3 「双海姉妹の癒し系 真美」 from your Waiting Room, place them into separate slots on Stage, search your Deck for up to 3 「双海姉妹の癒し系 真美」, place them into separate slots on Stage. Shuffle your Deck afterwards.
+【自】［② 手札を1枚控え室に置く］あなたのクライマックス置場に「Do-Dai」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「双海姉妹の癒し系 真美」を3枚まで選び、舞台の別々の枠に置き、自分の山札を見て「双海姉妹の癒し系 真美」を3枚まで選び、舞台の別々の枠に置く。その山札をシャッフルする。
+Flavor Text:
+兄ちゃ～ん！　特別に真美の
+アイスをあげちゃうよ～！
+
+==========================
+
+双海姉妹の癒し系 真美
+IM/S14-003 SR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,_Twins 双子
+Card Text/Abilities:
+【A】［② Place 1 card from Hand into Waiting Room］When 「Do-Dai」 is placed into your Climax slot, you may pay this cost. If you did, choose up to 3 「双海姉妹の癒し系 真美」 from your Waiting Room, place them into separate slots on Stage, search your Deck for up to 3 「双海姉妹の癒し系 真美」, place them into separate slots on Stage. Shuffle your Deck afterwards.
+【自】［② 手札を1枚控え室に置く］あなたのクライマックス置場に「Do-Dai」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「双海姉妹の癒し系 真美」を3枚まで選び、舞台の別々の枠に置き、自分の山札を見て「双海姉妹の癒し系 真美」を3枚まで選び、舞台の別々の枠に置く。その山札をシャッフルする。
+Flavor Text:
+兄ちゃ～ん！　特別に真美の
+アイスをあげちゃうよ～！
+
+==========================
+
+いつもオドオド 雪歩
+IM/S14-004 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Music 音楽,_Tea お茶
+Card Text/Abilities:
+【A】When this card becomes REVERSE in battle, if you have 1 or less other 《音楽》 Character, place this card into Clock.
+【自】バトル中のこのカードがリバースした時、他のあなたの《音楽》のキャラが1枚以下なら、このカードをクロック置場に置く。
+Flavor Text:
+わ、私なんて、穴を掘って埋まって
+一生、閉じこもってます～～！
+
+==========================
+
+いつもオドオド 雪歩
+IM/S14-004 SR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Music 音楽,_Tea お茶
+Card Text/Abilities:
+【A】When this card becomes REVERSE in battle, if you have 1 or less other 《音楽》 Character, place this card into Clock.
+【自】バトル中のこのカードがリバースした時、他のあなたの《音楽》のキャラが1枚以下なら、このカードをクロック置場に置く。
+Flavor Text:
+わ、私なんて、穴を掘って埋まって
+一生、閉じこもってます～～！
+
+==========================
+
+等身大アイドル やよい
+IM/S14-005 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Music 音楽,_Frog カエル
+Card Text/Abilities:
+【C】If you have 3 or more other 《音楽》 Characters, this card gets +1000 Power.
+【永】他のあなたの《音楽》のキャラが3枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+えへへ♪　鳩さんも一緒に
+歌ってくださいね～！
+
+==========================
+
+等身大アイドル やよい
+IM/S14-005 SR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Music 音楽,_Frog カエル
+Card Text/Abilities:
+【C】If you have 3 or more other 《音楽》 Characters, this card gets +1000 Power.
+【永】他のあなたの《音楽》のキャラが3枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+えへへ♪　鳩さんも一緒に
+歌ってくださいね～！
+
+==========================
+
+ポートレート 雪歩
+IM/S14-006 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,_Tea お茶
+Card Text/Abilities:
+【C】During your turn, all your other Characters get +1000 Power.
+【A】When 「First Stage」 is placed into your Climax slot, reveal 1 card from the top of your Deck, reveal 1 card from the top of your opponent's Deck. (Return revealed cards to its original position)
+【永】あなたのターン中、他のあなたのキャラすべてに、パワーを＋1000。
+【自】あなたのクライマックス置場に「First Stage」が置かれた時、あなたは自分の山札の上から1枚を公開し、相手の山札の上から1枚を公開する。 (公開したカードは元に戻す)
+Flavor Text:
+プロデューサー、わ、私といっしょに
+写真を…。うう、なんでもないですぅ！
+
+==========================
+
+約束の日 雪歩
+IM/S14-007 U
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Music 音楽,_Tea お茶
+Card Text/Abilities:
+【C】If this card is in the Center slot of the Front Row, this card gains ｢【自】ENCORE [Place 1 card from Hand into Waiting Room]｣.
+【C】RECOLLECTION If your Memory has 2 or more 「LUCKY RABBIT」, this card gets +1500 Power.
+【永】前列の中央の枠にこのカードがいるなら、このカードは｢【自】 アンコール [手札のキャラを1枚控え室に置く]｣を得る。
+【永】 記憶 あなたの思い出置場の「LUCKY RABBIT」が2枚以上なら、このカードのパワーを＋1500。
+Flavor Text:
+プロデューサーとの約束があるから、
+私、強くなれるんですっ！
+
+==========================
+
+私服の真美
+IM/S14-008 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Music 音楽,_Twins 双子
+Card Text/Abilities:
+【A】 BOND／「竜宮小町 亜美」［Place the top card of your Deck to Clock］(When this card is played to Stage, you may pay this cost. If you do, choose 1 「竜宮小町 亜美」 from your Waiting Room, return to Hand)
+【S】［REST 2 of your Characters］Choose 1 of your opponent's Front Row Characters with Level 0 or less, return it to Hand.
+【自】 絆／「竜宮小町 亜美」 ［あなたの山札の上から1枚をクロック置場に置く］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「竜宮小町 亜美」を1枚選び、手札に戻す)
+【起】［あなたのキャラを2枚【レスト】する］ あなたは相手の前列のレベル0以下のキャラを1枚選び、手札に戻す。
+Flavor Text:
+ねえねえ、亜美～！
+亜美もグラウンド整備手伝ってよー！
+
+==========================
+
+ピンクダイヤモンド７６５ やよい
+IM/S14-009 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Music 音楽,_Frog カエル
+Card Text/Abilities:
+【C】All your other 「ピンクダイヤモンド７６５ 雪歩」 and 「ピンクダイヤモンド７６５ 真美」 get +500 Power.
+【C】SUPPORT All your Characters in front of this card get +500 Power.
+【永】他のあなたの「ピンクダイヤモンド７６５ 雪歩」と「ピンクダイヤモンド７６５ 真美」すべてに、パワーを＋500。
+【永】 応援 このカードの前のあなたのキャラすべてに、パワー＋500。
+Flavor Text:
+雪歩さん、真美！みんなで、
+ババーンってがんばりましょーっ！
+
+==========================
+
+職場のアイドル 小鳥さん
+IM/S14-010 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+【A】［①］At the beginning of your opponent's Attack Phase, you may pay the cost. If you did, choose up to 1 「神出鬼没？ 小鳥さん」 from your Hand, place it into any slot on Stage.
+【自】［①］相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「神出鬼没？ 小鳥さん」を1枚まで選び、舞台の好きな枠に置く。
+Flavor Text:
+―はっ！　プロデューサーさんが
+私を呼んでいる！　ような気がする！
+
+==========================
+
+ピンクダイヤモンド７６５ 雪歩
+IM/S14-011 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Music 音楽,_Tea お茶
+Card Text/Abilities:
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you did, place this card in its previous slot in REST)
+【S】［①］Choose 1 of your 《音楽》 Characters, during this turn, it gets +1500 Power.
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+【起】［①］あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+やよいちゃん、それに真美ちゃんも
+いるから、私もがんばれますっ！えへへ♪
+
+==========================
+
+サイキョー姉妹！ 真美
+IM/S14-012 U
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Music 音楽,_Twins 双子
+Card Text/Abilities:
+【A】This ability can activate only up to 2 times each turn. When another of your 《双子》 Character is placed on Stage from Hand, during this turn, this card gets +1000 Power.
+【自】この能力は1ターンにつき2回まで発動する。他のあなたの《双子》のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+真美達が、あの姉妹を抜いて
+芸能界サイキョー姉妹だよ～！
+
+==========================
+
+私服の雪歩Daily Clothes Yukiho
+IM/S14-013 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Music 音楽,_Tea お茶
+Card Text/Abilities:
+【A】When another of your Character's battle opponent becomes REVERSE, choose 1 of your Characters, during this turn, it gets +1000 Power.
+【自】他のあなたのキャラのバトル相手がリバースした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+えへへっ　みんな楽しそうですね！
+
+==========================
+
+チャーミングヴィーナス 真美Charming Venus Mami
+IM/S14-014 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,_Twins 双子
+Card Text/Abilities:
+【C】If you have no other Characters in the Front Row, this card gets +1 Level, +1000 Power.
+【永】他のあなたの前列のキャラがいないなら、このカードのレベルを＋1し、パワーを＋1000。
+Flavor Text:
+ここはこのすぅぱあアイドル真美に、
+おまかせあれ～！
+
+==========================
+
+私服のやよいDaily Clothes Yayoi
+IM/S14-015 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Music 音楽,_Frog カエル
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, if your opponent has 「私服のやよい」 and all players agree to this ability, do a High Touch. If its done, all players place the top card of their Deck into Stock.(Lets keep the noise down)
+【自】このカードが手札から舞台に置かれた時、相手の「私服のやよい」がいて、すべてのプレイヤーが認めたなら、ハイタッチする。そうしたら、すべてのプレイヤーは自分の山札の上から1枚を、ストック置場に置く。 (音には注意しましょう)
+Flavor Text:
+プロデューサー！
+ハイ、ターッチ、いぇい！
+
+==========================
+
+神出鬼没？ 小鳥さんUnexpected Appearance? Kotori-san
+IM/S14-016 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: ,_Music 音楽
+Card Text/Abilities:
+【A】［①］When this card is placed on Stage from Hand, you may pay this cost. If you did, choose 1 of your Characters, during this turn, it gets +2000 Power.
+【自】［①］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを１枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+お呼びですか、プロデューサーさん！
+
+==========================
+
+チャーミングヴィーナス やよい
+IM/S14-017 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Music 音楽,_Frog カエル
+Card Text/Abilities:
+【A】RECOLLECTION When this card is placed on Stage from Hand, if your Memory has 「LUCKY RABBIT」, during this turn, this card gets +2500 Power.
+【自】 記憶 このカードが手札から舞台に置かれた時、あなたの思い出置場に「LUCKY RABBIT」があるなら、そのターン中、このカードのパワーを＋2500。
+Flavor Text:
+わ～っ！この衣装、ピカピカで
+キラキラで、きれいかもーっ！
+
+==========================
+
+ピンクダイヤモンド７６５ 真美
+IM/S14-018 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Music 音楽,_Twins 双子
+Card Text/Abilities:
+Flavor Text:
+ゆきぴょん、やよいっち！
+みんなで、いくかんね！
+
+==========================
+
+べろちょろ やよいPerochoro Yayoi
+IM/S14-019 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Music 音楽,_Frog カエル
+Card Text/Abilities:
+【C】This card cannot be chosen by opponent's effects.
+【C】SUPPORT All your Characters in front of this card gets +X. X is equals to that Character's Level ×500.
+【永】このカードは相手の効果に選ばれない。
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。ＸはそのキャラのレベルＸ500に等しい。
+Flavor Text:
+
+==========================
+
+チャーミングヴィーナス 雪歩Charming Venus Yukiho
+IM/S14-020 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Music 音楽,_Tea お茶
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+LUCKY RABBIT
+IM/S14-021 U
+Type: Event
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your STAND 《音楽》 Characters, REST it. If you did, look at up to 3 cards from the top of your Deck, choose up to 1 card, add it to Hand. Place the remaining cards into Waiting Room.
+Place this card into Memory.
+あなたは自分のスタンドしている《音楽》のキャラを1枚選びレストする。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを１枚まで選び、手札に加える。残りのカードを控え室に置く。
+このカードを思い出にする。
+Flavor Text:
+今日もステキなアクセを用意したわ～！
+
+==========================
+
+バーストアピール
+IM/S14-022 U
+Type: Event
+Level: 3
+Color: Yellow
+Cost: 3
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+All your 《音楽》 Characters, during this turn, they get +4500 Power, gains the following ability.『【A】When this card's battling opponent becomes REVERSE, you may place that Character into Stock.』
+あなたの《音楽》のキャラすべてに、そのターン中、パワーを＋4500し、次の能力を与える。『【自】 このカードのバトル相手がリバースした時、あなたはそのキャラをストック置場に置いてよい。』
+Flavor Text:
+
+==========================
+
+おはよう！！朝ご飯
+IM/S14-023 CR
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1F
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Flame：When this card is Triggered, if the current attacking Character's next dealt damage is cancelled, deal 1 damage to opponent.)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（火：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）
+Flavor Text:
+キラキラ朝陽　地球におはよう
+（ララララ朝だ！　ララララ起きよう！）
+
+==========================
+
+Do-DaiDo-Dai
+IM/S14-024 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+
+==========================
+
+First Stage
+IM/S14-025 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1W
+Power: N/A
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return to Hand)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（風：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）
+Flavor Text:
+私に気づいたら　少しだけ意識してください
+It's my first stage
+
+==========================
+
+影の支配者！ 律子
+IM/S14-026 RR
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Music 音楽,_Glasses メガネ
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card get +1000 Power.
+【A】［REST this card］When 「魔法をかけて！」 is placed into your Climax slot, if this card is in STAND, you may pay the cost. If you did, choose 1 Character with Level 2 or higher from your Clock, return it to Hand, place the top card of your Deck into Clock.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。
+【自】［このカードをレストする］あなたのクライマックス置場に「魔法をかけて！」が置かれた時、このカードがスタンドしているなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場のレベル2以上のキャラを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。
+Flavor Text:
+ふふっ、私の魔法も、
+捨てたもんじゃないでしょう？
+
+==========================
+
+私こそアイドル！ 伊織
+IM/S14-027 RR
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Music 音楽,_Doll 人形
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, choose 1 of your Characters, until the end of your opponent's next turn, it gets +3000 Power.
+【A】［③］When 「Here we go!」 is placed into your Climax slot, if this card is in the Front Row, you may pay the cost. If you did, choose 1 《音楽》 Character from your Clock, place it into any slot on Stage, until the end of your opponent's next turn, it gets +1000 Power.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋3000。
+【自】［(3)］ あなたのクライマックス置場に「Here we go!」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場の《音楽》のキャラを1枚選び、舞台の好きな枠に置き、次の相手のターンの終わりまで、そのキャラのパワーを＋1000。
+Flavor Text:
+ほら、アンタもステージに上がってきなさーい！
+
+==========================
+
+私こそアイドル！ 伊織
+IM/S14-027 SP
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Music 音楽,_Doll 人形
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, choose 1 of your Characters, until the end of your opponent's next turn, it gets +3000 Power.
+【A】［③］When 「Here we go!」 is placed into your Climax slot, if this card is in the Front Row, you may pay the cost. If you did, choose 1 《音楽》 Character from your Clock, place it into any slot on Stage, until the end of your opponent's next turn, it gets +1000 Power.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋3000。
+【自】［(3)］ あなたのクライマックス置場に「Here we go!」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場の《音楽》のキャラを1枚選び、舞台の好きな枠に置き、次の相手のターンの終わりまで、そのキャラのパワーを＋1000。
+Flavor Text:
+ほら、アンタもステージに上がってきなさーい！
+
+==========================
+
+竜宮小町のリーダー伊織
+IM/S14-028 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Music 音楽,_Doll 人形
+Card Text/Abilities:
+【C】All your other 《音楽》 Characters get +500 Power.
+【A】When this card is placed on Stage from Hand, choose 1 of your other 《カエル》 Characters, during this turn, it gets +1 Level, +500 Power.
+【永】他のあなたの《音楽》のキャラすべてに、パワーを＋500。
+【自】このカードが手札から舞台におかれた時、あなたは他の自分の《カエル》のキャラを1枚選び、そのターン中、レベルを+1し、パワーを+500。
+Flavor Text:
+やよい！　そこはもっと、
+ああして、こうして、そうするのよ！
+
+==========================
+
+竜宮小町のリーダー伊織
+IM/S14-028 SR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Music 音楽,_Doll 人形
+Card Text/Abilities:
+【C】All your other 《音楽》 Characters get +500 Power.
+【A】When this card is placed on Stage from Hand, choose 1 of your other 《カエル》 Characters, during this turn, it gets +1 Level, +500 Power.
+【永】他のあなたの《音楽》のキャラすべてに、パワーを＋500。
+【自】このカードが手札から舞台におかれた時、あなたは他の自分の《カエル》のキャラを1枚選び、そのターン中、レベルを+1し、パワーを+500。
+Flavor Text:
+やよい！　そこはもっと、
+ああして、こうして、そうするのよ！
+
+==========================
+
+竜宮小町のプロデューサー 律子
+IM/S14-029 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Music 音楽,_Glasses メガネ
+Card Text/Abilities:
+【C】RECOLLECTION If your Memory has 「どっとっぷＴＶ」, this card gets +1000 Power.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you did, place this card in its previous slot in REST)
+【永】 記憶 あなたの思い出置場に「どっとっぷＴＶ」があるなら、このカードのパワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+プロデューサー殿？　私の
+プロデュース手腕、どうですか？
+
+==========================
+
+竜宮小町のプロデューサー 律子
+IM/S14-029 SR
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Music 音楽,_Glasses メガネ
+Card Text/Abilities:
+【C】RECOLLECTION If your Memory has 「どっとっぷＴＶ」, this card gets +1000 Power.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you did, place this card in its previous slot in REST)
+【永】 記憶 あなたの思い出置場に「どっとっぷＴＶ」があるなら、このカードのパワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+プロデューサー殿？　私の
+プロデュース手腕、どうですか？
+
+==========================
+
+竜宮小町 亜美
+IM/S14-030 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Music 音楽,_Twins 双子
+Card Text/Abilities:
+【A】When 「ポジティブ！」 is placed into your Climax slot, if this card is in the Front Row, all your Front Row 《音楽》 Characters, during this turn, gains the following 2 abilities.『【C】This card cannot Side Attack.』『【A】When this card is placed into Waiting Room from Stage, you may place this card into its previous slot in REST.』
+【自】あなたのクライマックス置場に「ポジティブ！」が置かれた時、前列にこのカードがいるなら、あなたの前列の《音楽》のキャラすべてに、そのターン中、次の2つの能力を与える。『【永】このカードはサイドアタックできない。』『【自】このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠にレストして置いてよい。』
+Flavor Text:
+さあ、兄ちゃん！　今日も
+ガンガンギンギンいくＹＯ→！
+
+==========================
+
+竜宮小町 亜美
+IM/S14-030 SR
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Music 音楽,_Twins 双子
+Card Text/Abilities:
+【A】When 「ポジティブ！」 is placed into your Climax slot, if this card is in the Front Row, all your Front Row 《音楽》 Characters, during this turn, gains the following 2 abilities.『【C】This card cannot Side Attack.』『【A】When this card is placed into Waiting Room from Stage, you may place this card into its previous slot in REST.』
+【自】あなたのクライマックス置場に「ポジティブ！」が置かれた時、前列にこのカードがいるなら、あなたの前列の《音楽》のキャラすべてに、そのターン中、次の2つの能力を与える。『【永】このカードはサイドアタックできない。』『【自】このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠にレストして置いてよい。』
+Flavor Text:
+さあ、兄ちゃん！　今日も
+ガンガンギンギンいくＹＯ→！
+
+==========================
+
+竜宮小町 あずさ
+IM/S14-031 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Music 音楽,_Love 愛
+Card Text/Abilities:
+【A】When this card attacks, if 「9:02pm」 is in your Climax slot, until the end of your opponent's next turn, this card gets +2500 Power, you cannot play Events and 『ASSIST』 from Hand.
+【自】このカードがアタックした時、クライマックス置場に「9:02pm」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋2500し、あなたはイベントと『 助太刀 』を、手札からプレイできない。
+Flavor Text:
+今日は、プロデューサーさんと２人きりですね。
+たまにはご飯でもいかがですか？　ふふっ！
+
+==========================
+
+竜宮小町 あずさ
+IM/S14-031 SR
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Music 音楽,_Love 愛
+Card Text/Abilities:
+【A】When this card attacks, if 「9:02pm」 is in your Climax slot, until the end of your opponent's next turn, this card gets +2500 Power, you cannot play Events and 『ASSIST』 from Hand.
+【自】このカードがアタックした時、クライマックス置場に「9:02pm」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋2500し、あなたはイベントと『 助太刀 』を、手札からプレイできない。
+Flavor Text:
+今日は、プロデューサーさんと２人きりですね。
+たまにはご飯でもいかがですか？　ふふっ！
+
+==========================
+
+アンコールですよ！ 小鳥さん
+IM/S14-032 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+【C】RECOLLECTION If your Memory has 2 or more Events, this card gets +2000 Power.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you did, place this card in its previous slot in REST)
+【永】 記憶 あなたの思い出置場のイベントが2枚以上なら、このカードのパワーを＋2000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+え？　私がアンコールに、ですか！？
+ちょ、ちょっと待ってくださいよ！
+
+==========================
+
+アンコールですよ！ 小鳥さん
+IM/S14-032 SR
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+【C】RECOLLECTION If your Memory has 2 or more Events, this card gets +2000 Power.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you did, place this card in its previous slot in REST)
+【永】 記憶 あなたの思い出置場のイベントが2枚以上なら、このカードのパワーを＋2000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+え？　私がアンコールに、ですか！？
+ちょ、ちょっと待ってくださいよ！
+
+==========================
+
+チャーミングヴィーナス 亜美
+IM/S14-033 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Music 音楽,_Twins 双子
+Card Text/Abilities:
+【A】 BOND／「ソロデビュー！ 真美」［①］(When this card is played to Stage, you may pay this cost. If you do, choose 1 「ソロデビュー！ 真美」 from your Waiting Room, return to Hand)
+【S】［Place 1 card from Hand into Waiting Room］During this turn, this card gets +2500 Power.
+【自】 絆／「ソロデビュー！ 真美」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ソロデビュー！ 真美」を1枚選び、手札に戻す)
+【起】［手札を1枚控え室に置く］そのターン中、このカードのパワーを＋2500。
+Flavor Text:
+ねえねえ、真美もいっしょに歌ってよー！
+
+==========================
+
+チャーミングヴィーナス 律子
+IM/S14-034 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Music 音楽,_Glasses メガネ
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card get +500 Power.
+【S】［① REST this card］Choose 1 of your 《お菓子》 Characters, STAND it.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】 ［① このカードをレストする］ あなたは自分の《お菓子》のキャラを1枚選び、スタンドする。
+Flavor Text:
+しょうがないわねぇ。
+後ろは、全部私に任せなさい！
+
+==========================
+
+高木 順二郎
+IM/S14-035 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Music 音楽,_Shadow 影
+Card Text/Abilities:
+【S】［① REST this card］Choose 1 card from your Clock, return it to Hand. Choose 1 card from your Hand, place it into Clock.
+【起】 ［① このカードをレストする］ あなたは自分のクロックを1枚選び、手札に戻す。あなたは自分の手札を1枚選び、クロック置場に置く。
+Flavor Text:
+キミは新人だが、なかなか見所があるねえ！
+いや～、私の見る目はやはり最高だな！
+
+==========================
+
+サポート役 あずさ
+IM/S14-036 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Music 音楽,_Love 愛
+Card Text/Abilities:
+【A】 CHANGE ［② Place 1 card from Hand and this card into Waiting Room］At the beginning of your Climax phase, you may pay the cost. If you did, choose 1 「愛を歌うあずさ」 from your Waiting Room, place it into this card's previous slot.
+【S】● ASSIST 1500 Level 1［Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +1500 Power.)
+【自】 チェンジ ［② 手札を1枚控え室に置き、このカードを控え室に置く］あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「愛を歌うあずさ」を1枚選び、このカードがいた枠に置く。
+【起】● 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋1500)
+Flavor Text:
+ふふっ、たまには私を頼りに
+してくださいね。プロデューサーさん！
+
+==========================
+
+ムテキ姉妹！ 亜美
+IM/S14-037 U
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Music 音楽,_Twins 双子
+Card Text/Abilities:
+【C】If you have 3 or more other 《音楽》 Characters, this card gets +1000 Power.
+【永】 他のあなたの《音楽》のキャラが3枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+亜美、みんながいれば
+☆をとった時みたいにムテキだよ！
+
+==========================
+
+暗躍する黒井社長
+IM/S14-038 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Music 音楽,_Shadow 影
+Card Text/Abilities:
+【A】When this card becomes REVERSE in battle, you may choose 1 card from your opponent's Clock, place it into Waiting Room. If you did, your opponent will place the top card of his/her Deck into Clock.
+【S】［①］Choose 1 of your opponent's Front Row Characters, during this turn, it gets -1000 Power.
+【自】バトル中のこのカードがリバースした時、あなたは相手のクロックを1枚選び、控え室に置いてよい。そうしたら、相手は山札の上から1枚を、クロック置場に置く。
+【起】［①］あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。
+Flavor Text:
+クックックッ……。
+私の邪魔をすると、こうなるのだ！
+
+==========================
+
+双海姉妹のかわいい系！ 亜美
+IM/S14-039 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Music 音楽,_Twins 双子
+Card Text/Abilities:
+【C】RECOLLECTION If your Memory has 「どっとっぷＴＶ」, your other Character in the Center slot of the Front Row gets +1000 Power.
+【S】［REST this card］Choose 1 《音楽》 Character, during this turn, it gets +1000 Power.
+【永】 記憶 あなたの思い出置場に「どっとっぷＴＶ」があるなら、他のあなたの前列の中央の枠のキャラに、パワーを＋1000。
+【起】［このカードをレストする］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+亜美のメチャイケパワー、
+ちょっとだけ、わけてあげるね！
+
+==========================
+
+チャーミングヴィーナス あずさ
+IM/S14-040 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,_Love 愛
+Card Text/Abilities:
+【S】［①］During this turn, this card gets +2000 Power.
+【起】［①］そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+うふふっ♪　なんだか
+私もキラキラ、輝いているみたいですね
+
+==========================
+
+アイドル兼任！ 律子
+IM/S14-041 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Music 音楽,_Glasses メガネ
+Card Text/Abilities:
+Flavor Text:
+ちょっと、プロデューサー。
+私まで、ステージに上げるつもりですか？
+
+==========================
+
+チャーミングヴィーナス 伊織
+IM/S14-042 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Music 音楽,_Love 愛
+Card Text/Abilities:
+Flavor Text:
+みんな～～♪　スーパーセレブアイドル、
+水瀬伊織ちゃんを応援してね～！
+
+==========================
+
+９６１プロの刺客 ジュピター
+IM/S14-043 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+【A】［Place the top card of your Deck into Clock］When this card is placed on Stage from Hand, you may pay the cost. If you did, your opponent shall return all cards from his/her Waiting Room into Deck and shuffle the Deck afterwards.
+【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手は自分の控え室のカードすべてを、山札に戻す。その山札をシャッフルする。
+Flavor Text:
+冬馬「邪魔だ。俺の道をふさぐんじゃねえ！」
+翔太「もう、冬馬くんは乱暴だな～」
+北斗「女の子にはもっと優しくエレガントにね」
+
+==========================
+
+愛を歌う あずさ
+IM/S14-044 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 9000
+Soul: 1
+Traits:: Music 音楽,_Love 愛
+Card Text/Abilities:
+【C】When your Memory does not have 「どっとっぷＴＶ」, this card gains the following ability.『【C】This card cannot Front Attack.』
+【永】あなたの思い出置場に「どっとっぷＴＶ」がないなら、このカードは次の能力を得る。『【永】このカードはフロントアタックできない。』
+Flavor Text:
+私、今は少しだけ先を行ってますけど…。
+きっと皆なら、すぐに追いついてきますよね？
+
+==========================
+
+最初のライバル 伊織
+IM/S14-045 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Music 音楽,_Doll 人形
+Card Text/Abilities:
+【C】RECOLLECTION If your Memory has 2 or more 「どっとっぷＴＶ」, this card gets +1500 Power.
+【永】 記憶 あなたの思い出置場の「どっとっぷＴＶ」が2枚以上なら、このカードのパワーを＋1500。
+Flavor Text:
+フフンっ！　私が、胸を貸してあげるから、
+ドーンといらっしゃい！
+
+==========================
+
+どっとっぷＴＶ
+IM/S14-046 U
+Type: Event
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose up to 1 Character from your Clock, return it to Hand, place the top card of your Deck into Clock.
+Choose 1 of your Character, during this turn, it gets +1000 Power. Place this card into Memory.
+あなたは自分のクロック置場のキャラを1枚選び、手札に戻し、自分の山札の上から1枚をクロック置場に置く。
+あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。このカードを思い出にする。
+Flavor Text:
+今週のランキングを紹介するどっと！
+
+==========================
+
+9:02pm
+IM/S14-047 CR
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, place the top card of your Deck into Stock. During this turn, all of your Characters get +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+君を今、感じたら…　「好き」　ずっと…
+
+==========================
+
+魔法をかけて！
+IM/S14-048 CR
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: G
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gold：When this card is Triggered, place this card into your Hand. You may place the top card of your Deck into Stock)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(宝：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい)
+Flavor Text:
+机の中　書きかけのラブレター
+まだ見ぬ貴方に、思いを馳せる
+
+==========================
+
+Here we go!
+IM/S14-049 CR
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+幸せいっぱい　キュッ！
+夢いっぱいの今日を見よう
+
+==========================
+
+ポジティブ！
+IM/S14-050 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+１、２、３！　行けばわかるのさ！
+
+==========================
+
+Ｖサイン 響
+IM/S14-051 RR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,_Animal 動物
+Card Text/Abilities:
+【S】［② Place the top card of your Deck into Clock, REST this card］Choose 1 《音楽》 Character with Level equal or lower than your Level from your Waiting Room, place it into any slot on Stage.
+【起】［② あなたの山札の上から1枚をクロック置場に置き、このカードをレストする］あなたは自分の控え室の自分のレベル以下の《音楽》のキャラを1枚選び、舞台の好きな枠に置く。
+Flavor Text:
+みんな～！　自分についてくれば、
+楽しいことが、いっぱいだぞー！　きっと！
+
+==========================
+
+アイドル一直線！ 春香
+IM/S14-052 RR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Music 音楽,_Sweets お菓子
+Card Text/Abilities:
+【A】When 「GO MY WAY!!」 is placed into your Climax slot, if this card is in the Front Row, all your 《音楽》 Characters, during this turn, they get +3000 Power, gains the following ability.『【C】This card cannot Side Attack.』
+【自】 あなたのクライマックス置場に「GO MY WAY!!」が置かれた時、前列にこのカードがいるなら、あなたの《音楽》のキャラすべてに、そのターン中、パワーを＋3000し、次の能力を与える。『【永】このカードはサイドアタックできない。』
+Flavor Text:
+私、絶対トップアイドルに
+なりたいんです！　頑張ります！
+
+==========================
+
+アイドル一直線！ 春香
+IM/S14-052 SP
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Music 音楽,_Sweets お菓子
+Card Text/Abilities:
+【A】When 「GO MY WAY!!」 is placed into your Climax slot, if this card is in the Front Row, all your 《音楽》 Characters, during this turn, they get +3000 Power, gains the following ability.『【C】This card cannot Side Attack.』
+【自】 あなたのクライマックス置場に「GO MY WAY!!」が置かれた時、前列にこのカードがいるなら、あなたの《音楽》のキャラすべてに、そのターン中、パワーを＋3000し、次の能力を与える。『【永】このカードはサイドアタックできない。』
+Flavor Text:
+私、絶対トップアイドルに
+なりたいんです！　頑張ります！
+
+==========================
+
+肉食小悪魔系 美希
+IM/S14-053 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Music 音楽,_Love 愛
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card get +500 Power.
+【A】［② Place 2 cards from Hand into Waiting Room］When 「relations」 is placed into your Climax slot, you may pay the cost. If you did, place up to 1 「ラブアタック！ 美希」 from your Hand into any slot on Stage.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【自】［② 手札を2枚控え室に置く］あなたのクライマックス置場に「relations」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「ラブアタック！ 美希」を1枚まで選び、舞台の好きな枠に置く。
+Flavor Text:
+ミキ、こう見えても一直線だよ？
+一度、試してみる？
+
+==========================
+
+肉食小悪魔系 美希
+IM/S14-053 SR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Music 音楽,_Love 愛
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card get +500 Power.
+【A】［② Place 2 cards from Hand into Waiting Room］When 「relations」 is placed into your Climax slot, you may pay the cost. If you did, place up to 1 「ラブアタック！ 美希」 from your Hand into any slot on Stage.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【自】［② 手札を2枚控え室に置く］あなたのクライマックス置場に「relations」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「ラブアタック！ 美希」を1枚まで選び、舞台の好きな枠に置く。
+Flavor Text:
+ミキ、こう見えても一直線だよ？
+一度、試してみる？
+
+==========================
+
+前のめりに元気！ 春香
+IM/S14-054 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Music 音楽,_Sweets お菓子
+Card Text/Abilities:
+【C】All your other 《お菓子》 Characters gain 『【A】ENCORE [Place 1 Character from Hand into Waiting Room]』.
+【S】［REST this card］Choose 1 Character, during this turn, it gains 《お菓子》.
+【永】他のあなたの《お菓子》のキャラすべてに、『【自】 アンコール [手札のキャラを1枚控え室に置く]』を与える。
+【起】［このカードをレストする］あなたはキャラを1枚選び、そのターン中、《お菓子》を与える。
+Flavor Text:
+あ、あの、私、お菓子作ってきたんですけど、
+良かったら食べて下さい！
+
+==========================
+
+前のめりに元気！ 春香
+IM/S14-054 SR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Music 音楽,_Sweets お菓子
+Card Text/Abilities:
+【C】All your other 《お菓子》 Characters gain 『【A】ENCORE [Place 1 Character from Hand into Waiting Room]』.
+【S】［REST this card］Choose 1 Character, during this turn, it gains 《お菓子》.
+【永】他のあなたの《お菓子》のキャラすべてに、『【自】 アンコール [手札のキャラを1枚控え室に置く]』を与える。
+【起】［このカードをレストする］あなたはキャラを1枚選び、そのターン中、《お菓子》を与える。
+Flavor Text:
+あ、あの、私、お菓子作ってきたんですけど、
+良かったら食べて下さい！
+
+==========================
+
+南国少女 響
+IM/S14-055 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Music 音楽,_Animal 動物
+Card Text/Abilities:
+【A】When this card attacks, if 「shiny smile」 is in your Climax slot, during this turn, this card gets +X. X is equals to the Level of the Character facing this card ×1500.
+【自】このカードがアタックした時、クライマックス置場に「shiny smile」があるなら、そのターン中、このカードのパワーを+X。Xはこのカードの正面のキャラのレベル×1500に等しい。
+Flavor Text:
+あははは！ やっぱり砂浜はいいな！
+なんか童心に帰れる気がするぞ！
+
+==========================
+
+南国少女 響
+IM/S14-055 SR
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Music 音楽,_Animal 動物
+Card Text/Abilities:
+【A】When this card attacks, if 「shiny smile」 is in your Climax slot, during this turn, this card gets +X. X is equals to the Level of the Character facing this card ×1500.
+【自】このカードがアタックした時、クライマックス置場に「shiny smile」があるなら、そのターン中、このカードのパワーを+X。Xはこのカードの正面のキャラのレベル×1500に等しい。
+Flavor Text:
+あははは！ やっぱり砂浜はいいな！
+なんか童心に帰れる気がするぞ！
+
+==========================
+
+ピンクダイヤモンド７６５ 美希
+IM/S14-056 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 1000
+Soul: 1
+Traits:: Music 音楽,_Love 愛
+Card Text/Abilities:
+【C】All your other 「ピンクダイヤモンド７６５ 春香」 and 「ピンクダイヤモンド７６５ 響」 get +1000 Power.
+【S】● ASSIST 2000 Level 1［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +2000 Power.)
+【永】他のあなたの「ピンクダイヤモンド７６５ 春香」と「ピンクダイヤモンド７６５ 響」すべてに、パワーを＋1000。
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000)
+Flavor Text:
+春香、響。
+たまにはミキが助けてあげるの！
+
+==========================
+
+ピンクダイヤモンド７６５ 響
+IM/S14-057 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 7000
+Soul: 2
+Traits:: Music 音楽,_Animal 動物
+Card Text/Abilities:
+【C】For each of your other 《音楽》 Characters, this card gets +500 Power.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you did, place this card in its previous slot in REST)
+【永】他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く）
+Flavor Text:
+春香や美希、それにみんながいるから、
+自分は強くなれるんだ！
+
+==========================
+
+妄想大王!? 小鳥さん
+IM/S14-058 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+【A】RECOLLECTION When another of your Characters become REVERSE in battle, if your Memory has an Event, choose 1 of your Characters, during this turn, it gets +1500 Power.
+【自】 記憶 他のあなたのバトル中のキャラがリバースした時、あなたの思い出置場にイベントがあるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+ああ、プロデューサーさんが、あんなことや
+こんなことを…。 ふふっ、ふふふっ……
+
+==========================
+
+チャーミングヴィーナス 春香Charming Venus Haruka
+IM/S14-059 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Music 音楽,_Sweets お菓子
+Card Text/Abilities:
+【C】RECOLLECTION　If there's 「BK MANIAC」 in your Memory, this card gains the following ability.「音楽》 Characters, during this turn, it gets +2000 Power.">【S】［REST this card］Choose 1 of your 《音楽》 Characters, during this turn, it gets +2000 Power.」
+【A】When this card attacks, REST all your other STAND Characters.
+【永】記憶　あなたの思い出に「BK MANIAC」があるなら、このカードは次の能力を得る。「［【起】このカードをレストする。］あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋2000。」
+【自】このカードがアタックした時、他のあなたのスタンドしてるキャラ全てを、レストする。
+Flavor Text:
+プロデューサーさん、この衣装、
+似合ってますか？
+
+==========================
+
+ハートマーク 春香
+IM/S14-060 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Music 音楽,_Sweets お菓子
+Card Text/Abilities:
+【A】ENCORE ［① REST 2 of your STAND 《音楽》 Characters］(When this card is placed into Waiting Room from Stage, you may pay this cost. If you did, place this card in its previous slot in REST)
+【自】 アンコール ［① あなたのスタンドしている《音楽》のキャラを2枚レストする］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+えへへっ、プロデューサーさん！
+私のハート、届きましたか？
+
+==========================
+
+スタイル抜群！ 美希
+IM/S14-061 U
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Music 音楽,_Love 愛
+Card Text/Abilities:
+【A】［③］When this card is placed on Stage from Hand, you may pay the cost. If you did, choose up to 2 《音楽》 Characters from your Waiting Room, return them to Hand.
+【A】 RECOLLECTION When this card becomes REVERSE in battle, if you have 「BK MANIAC」 in your Memory, choose 1 of your Characters, during this turn, it gets +1500 Power.
+【自】［③］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを2枚まで選び、手札に戻す。
+【自】 記憶 バトル中のこのカードがリバースした時、あなたの思い出置場に「BK MANIAC」があるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+ミキ、スタイルにはけっこう
+自信あるよ？　もっと近くで見る？
+
+==========================
+
+みんな大好き！ 響
+IM/S14-062 U
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Music 音楽,_Animal 動物
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.
+【S】［① Place 1 「BK MANIAC」 from Memory into Waiting Room］Choose 1 《音楽》 from your Waiting Room, return it to Hand.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【起】［① あなたの思い出置場の「BK MANIAC」を1枚控え室に置く］ あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。
+Flavor Text:
+ねえねえ、プロデューサー！
+自分をほめて！　いや、ほめろー！
+
+==========================
+
+ペット大捜索！ 響
+IM/S14-063 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Music 音楽,_Animal 動物
+Card Text/Abilities:
+【A】［④］When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 2 《動物》 Characters, add them to Hand. Shuffle your Deck afterwards.
+【自】［④］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《動物》のキャラを2枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+いぬ美～！どこに行ったんだ～！エサを
+食べちゃったのは謝るから出てきて～！
+
+==========================
+
+私服の美希
+IM/S14-064 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,_Love 愛
+Card Text/Abilities:
+【S】［REST 1 of your 《愛》 Characters］During this turn, this card gets +1000 Power.
+【起】［あなたの《愛》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+えへへっ、
+これが愛のチカラってやつなの！
+
+==========================
+
+チャーミングヴィーナス 響Charming Venus Hibiki
+IM/S14-065 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Music 音楽,_Animal 動物
+Card Text/Abilities:
+Flavor Text:
+自分、今日はとっても調子がいいぞー！
+
+==========================
+
+チャーミングヴィーナス 美希Charming Venus Miki
+IM/S14-066 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Music 音楽,_Love 愛
+Card Text/Abilities:
+Flavor Text:
+みんなー！今日はミキ達のライブ、
+いーっぱい楽しむのーっ！
+
+==========================
+
+私服の響
+IM/S14-067 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 3500
+Soul: 1
+Traits:: Music 音楽,_Animal 動物
+Card Text/Abilities:
+【A】When this card becomes REVERSE, if this card's battling opponent's Cost is 1 or less, you may REVERSE that Character.
+【自】このカードがリバースした時、このカードのバトル相手のコストが1以下なら、あなたはそのキャラをリバースしてよい。
+Flavor Text:
+ねえ、プロデューサー！
+自分が海に連れて行ってあげるよ！
+
+==========================
+
+私服の春香Daily Clothes Haruka
+IM/S14-068 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Music 音楽,_Sweets お菓子
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is not a 《音楽》 Character, REST this card.(Return revealed card to its original position)
+【A】CHANGE ［② Place 1 card into Waiting Room from Hand, place this card into Waiting Room］At the beginning of your Climax phase, you may pay this cost. If you did, choose 1 「ピンクダイヤモンド765　春香」 from your Waiting Room, place it into this card's previous slot.
+【自】このカードが手札から場に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラでないなら、このカードをレストする。（公開したカードは元に戻す）
+【自】 チェンジ ［② 手札を1枚控え室に置き、このカードを控室に置く］あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ピンクダイヤモンド765　春香」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+さあ、次のお仕事に行きましょう！
+
+==========================
+
+ラブアタック！ 美希Love Attack! Miki
+IM/S14-069 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Music 音楽,_Love 愛
+Card Text/Abilities:
+【A】 ENCORE ［Place top card of your Deck into Clock］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】 アンコール ［あなたの山札の上から1枚をクロックに置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+
+==========================
+
+ピンクダイヤモンド765 春香Pink Diamond 765 Haruka
+IM/S14-070 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Music 音楽,_Sweets お菓子
+Card Text/Abilities:
+Flavor Text:
+響ちゃん、美希、準備はいい？
+
+==========================
+
+BK MANIACBK MANIAC
+IM/S14-071 U
+Type: Event
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your Characters, during this turn, it gets +3000 Power.
+You may place the top card of your Deck into Clock. If you did, choose 1 《音楽》 Character from your Waiting Room, return it to Hand.
+Place this card into Memory.
+あなたは、自分のキャラを１枚選び、そのターン中、パワー＋3000。
+あなたは、自分の山札の上から1枚をクロックに置いてよい。そうしたら、あなたは自分の控室の《音楽》のキャラを1枚選び、手札に戻す。
+このカードを思い出にする。
+Flavor Text:
+ふははは、その衣装か？
+765,000マニーで売ってやろう！
+
+==========================
+
+クインテットライブ
+IM/S14-072 U
+Type: Event
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+CONCENTRATE Flip 3 cards from the top of your Deck, place them into Waiting Room. If there's a Climax among those cards, choose up to 2 Characters with Cost 1 or less and has 「SUPPORT」 from your Waiting Room, place them into separate slots on Stage.
+Place this card into Memory.
+集中 あなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分の控え室のコスト1以下の 応援 を持つキャラを2枚まで選び、舞台の別々の枠に置く。
+このカードを思い出にする。
+Flavor Text:
+響「もう時間なのに、まだ２人が来ないぞー！」
+春香「あれ？美希も居なくなってる！？
+ど、どうしましょう、プロデューサーさん！」
+
+==========================
+
+relations
+IM/S14-073 CR
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When this card is Triggered, choose 1 Character from your Waiting Room, return to Hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(扉：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+アノコにもしも飽きたら　すぐに呼び出して
+壊れるくらいに抱きしめて
+
+==========================
+
+GO MY WAY!!GO MY WAY!!
+IM/S14-074 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, place the top card of your Deck to Stock. During this turn, all of your Characters get +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+笑顔も涙でも　この世界中が
+Wonder Land な Never Land
+
+==========================
+
+shiny smile
+IM/S14-075 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+いつだってキラキラでいるよ
+私、shiny smile
+
+==========================
+
+ピンクダイヤモンド７６５ 千早
+IM/S14-076 RR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+【C】For each of your other 「ピンクダイヤモンド７６５ 真」, all your other 「ピンクダイヤモンド７６５ 貴音」 get +1000 Power.
+【C】SUPPORT All your Characters in Front of this card gains ｢【A】ENCORE ［Place 1 Character from Hand into Waiting Room］｣.
+【永】他のあなたの「ピンクダイヤモンド７６５ 真」1枚につき、他のあなたの「ピンクダイヤモンド７６５ 貴音」すべてに、パワーを＋1000。
+【永】 応援 このカードの前のあなたのキャラすべてに、｢【自】 アンコール ［手札のキャラを1枚控え室に置く］｣を与える。
+Flavor Text:
+四条さん、それに、真。
+このステージ、大事にしていきましょう！
+
+==========================
+
+頂点を目指す 貴音
+IM/S14-077 RR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Music 音楽,_Royal Family 王族
+Card Text/Abilities:
+【S】［Place 1 「765プロ地獄の特訓」 from your Memory into Waiting Room］Until the end of your opponent's next turn, this card gets +1500 Power.
+【起】［あなたの思い出置場の「765プロ地獄の特訓」を1枚控え室に置く］次の相手のターンの終わりまで、このカードのパワーを＋1500。
+Flavor Text:
+あの地獄のような特訓の日々も、
+今は良き思い出となりました。ふふっ！
+
+==========================
+
+歌に全てを賭ける 千早
+IM/S14-078 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+【C】During your opponent's turn, all your other 《音楽》 Characters get +500 Power.
+【C】 RECOLLECTION During your opponent's turn, if your Memory has 「７６５プロ地獄の特訓」, all your other Characters get +500 Power.
+【永】相手のターン中、他のあなたの《音楽》のキャラすべてに、パワーを＋500。
+【永】 記憶 相手のターン中、あなたの思い出置場に「７６５プロ地獄の特訓」があるなら、他のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+私、歌います！　私の歌が、
+みんなの力になるというのなら…！
+
+==========================
+
+歌に全てを賭ける 千早
+IM/S14-078 SR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+【C】During your opponent's turn, all your other 《音楽》 Characters get +500 Power.
+【C】 RECOLLECTION During your opponent's turn, if your Memory has 「７６５プロ地獄の特訓」, all your other Characters get +500 Power.
+【永】相手のターン中、他のあなたの《音楽》のキャラすべてに、パワーを＋500。
+【永】 記憶 相手のターン中、あなたの思い出置場に「７６５プロ地獄の特訓」があるなら、他のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+私、歌います！　私の歌が、
+みんなの力になるというのなら…！
+
+==========================
+
+私服の貴音
+IM/S14-079 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Music 音楽,_Royal Family 王族
+Card Text/Abilities:
+【A】［Place this card into Waiting Room］When another of your 《音楽》 Character is placed into Waiting Room from Stage, if this card is in the Back Row, you may pay the cost. If you did, place that Character into its previous slot in REST.
+【S】［② REST this card］Draw 1 card.
+【自】［このカードを控え室に置く］他のあなたの《音楽》のキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠にレストして置く。
+【起】［② このカードをレストする］あなたは1枚引く。
+Flavor Text:
+プロデューサー、この場は私に
+任せていただけませんか？
+
+==========================
+
+青空の様な女の子！ 真
+IM/S14-080 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Music 音楽,_Sports スポーツ
+Card Text/Abilities:
+【C】RECOLLECTION If your Memory has 「７６５プロ地獄の特訓」, this card gets +1000 Power.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you did, place this card in its previous slot in REST)
+【永】 記憶 あなたの思い出置場に「７６５プロ地獄の特訓」があるなら、このカードのパワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く）
+Flavor Text:
+地獄の特訓を乗りこえたボク達に
+できないことなんてないですよね！
+
+==========================
+
+青空の様な女の子！ 真
+IM/S14-080 SR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Music 音楽,_Sports スポーツ
+Card Text/Abilities:
+【C】RECOLLECTION If your Memory has 「７６５プロ地獄の特訓」, this card gets +1000 Power.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you did, place this card in its previous slot in REST)
+【永】 記憶 あなたの思い出置場に「７６５プロ地獄の特訓」があるなら、このカードのパワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く）
+Flavor Text:
+地獄の特訓を乗りこえたボク達に
+できないことなんてないですよね！
+
+==========================
+
+高貴なプリンセス 貴音
+IM/S14-081 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Music 音楽,_Royal Family 王族
+Card Text/Abilities:
+【A】When this card attacks, if 「My Best Friend」 is in your Climax slot, reveal the top card of your Deck. If that card is a 《音楽》 Character, add it to Hand. (If its not, return it to its original position)
+【自】このカードがアタックした時、クライマックス置場に「My Best Friend」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら手札に加える。 （そうでないなら元に戻す）
+Flavor Text:
+あなた様のおかげで、
+私には素晴らしき友ができたようです
+
+==========================
+
+高貴なプリンセス 貴音
+IM/S14-081 SR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Music 音楽,_Royal Family 王族
+Card Text/Abilities:
+【A】When this card attacks, if 「My Best Friend」 is in your Climax slot, reveal the top card of your Deck. If that card is a 《音楽》 Character, add it to Hand. (If its not, return it to its original position)
+【自】このカードがアタックした時、クライマックス置場に「My Best Friend」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら手札に加える。 （そうでないなら元に戻す）
+Flavor Text:
+プロデューサー、この場は私に
+任せていただけませんか？
+
+==========================
+
+スーパーレディ 真
+IM/S14-082 R
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Music 音楽,_Sports スポーツ
+Card Text/Abilities:
+【C】The Character facing this card gets -1 Soul.
+【C】During your opponent's turn, if this card is in the Front Row and not REVERSE, all your other Characters get +1000 Power.
+【A】This ability can activate only 1 time each turn. When you played an Event, during this turn, this card gets +2000 Power.
+【永】 このカードの正面のキャラのソウルを－1。
+【永】 相手のターン中、前列にリバースしていないこのカードがいるなら、他のあなたのキャラすべてに、パワーを＋1000。
+【自】 この能力は1ターンにつき1回まで発動する。あなたがイベントをプレイした時、そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+ボク、みんなを守れる強くてカワイイ
+女の子に、なってみせますね！
+
+==========================
+
+私服の真
+IM/S14-083 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,_Sports スポーツ
+Card Text/Abilities:
+【A】 CHANGE ［① Place 1 card from Hand and this card into Waiting Room］At the beginning of your Climax phase, you may pay the cost. If you did, choose 1 「青空の様な女の子！ 真」 from your Waiting Room, place it into this card's previous slot.
+【自】 チェンジ ［① 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「青空の様な女の子！ 真」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+プロデューサー、次の仕事まだですか？
+ボク、待ちきれません！
+
+==========================
+
+チャーミングヴィーナス 貴音
+IM/S14-084 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,_Royal Family 王族
+Card Text/Abilities:
+【A】This ability can activate only up to 2 times each turn. When another of your 《王族》 is placed on Stage from Hand, during this turn, this card gets +1000 Power.
+【自】 この能力は1ターンにつき2回まで発動する。他のあなたの《王族》のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+あなた様が私と共に歩んで
+くれること、大変心強く思います
+
+==========================
+
+イメージチェンジ！ 真
+IM/S14-085 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Music 音楽,_Sports スポーツ
+Card Text/Abilities:
+【A】［Place 2 cards from Hand to Waiting Room］When 「エージェント夜を往く」 is placed into your Climax slot, if this card is in the Front Row, you may pay the cost. If you did, search your Deck for up to 1 《音楽》 Character with Cost 1 or less, place it into any slot on Stage, Shuffle your Deck afterwards, at the beginning of your Encore Step, if that Character is on Stage, return that Character to Hand.
+【自】［手札を2枚控え室に置く］あなたのクライマックス置場に「エージェント夜を往く」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てコスト1以下の《音楽》のキャラを1枚まで選び、舞台の好きな枠に置く。その後、その山札をシャッフルし、アンコールステップの始めに、そのキャラが舞台にいるなら、そのキャラを手札に戻す。
+Flavor Text:
+あの、ボク髪を伸ばしてみたんですけど
+どうですか？ちょっとは…かわいいですか？
+
+==========================
+
+ピンクダイヤモンド７６５ 貴音
+IM/S14-086 U
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Music 音楽,_Royal Family 王族
+Card Text/Abilities:
+【A】When this card's battling opponent becomes REVERSE, if you have other 「ピンクダイヤモンド７６５ 千早」 and 「ピンクダイヤモンド７６５ 真」, you may place that battling opponent to bottom of Deck.
+【自】 このカードのバトル相手がリバースした時、他のあなたの、「ピンクダイヤモンド７６５ 千早」と「ピンクダイヤモンド７６５ 真」がいるなら、あなたはそのバトル相手を山札の下に置いてよい。
+Flavor Text:
+ここは私たちの舞台です。千早と真の
+邪魔をする輩は、ご遠慮願います
+
+==========================
+
+不死鳥の歌姫 千早
+IM/S14-087 SP
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Music 音楽,
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, place the top card of your Deck under this card as a Marker.
+【A】At the beginning of your Climax Phase, if there's a Marker below this card, place the top card of your Stock into Waiting Room.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you did, place this card in its previous slot in REST)
+【自】このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。
+【自】あなたのクライマックスフェイズの始めに、このカードの下にマーカーがあるなら、あなたは自分のストックの上から1枚を、控え室に置く。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く）
+Flavor Text:
+あなたのために、今日は最後まで
+歌わせてください
+
+==========================
+
+不死鳥の歌姫 千早
+IM/S14-087 U
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Music 音楽,
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, place the top card of your Deck under this card as a Marker.
+【A】At the beginning of your Climax Phase, if there's a Marker below this card, place the top card of your Stock into Waiting Room.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you did, place this card in its previous slot in REST)
+【自】このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。
+【自】あなたのクライマックスフェイズの始めに、このカードの下にマーカーがあるなら、あなたは自分のストックの上から1枚を、控え室に置く。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く）
+Flavor Text:
+あなたのために、今日は最後まで
+歌わせてください
+
+==========================
+
+チャーミングヴィーナス 真
+IM/S14-088 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Music 音楽,_Sports スポーツ
+Card Text/Abilities:
+【C】During your opponent's turn, if this card is in the Center slot of the Front Row, all your other Characters get +1000 Power.
+【永】相手のターン中、前列の中央の枠にこのカードがいるなら、他のあなたのキャラすべてに、パワーを＋1000。
+Flavor Text:
+ボクがセンターなんですか！？
+よーし、やる気出てきた～っ
+
+==========================
+
+準備万端 貴音
+IM/S14-089 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,_Royal Family 王族
+Card Text/Abilities:
+【S】［①］Draw 1 card, choose 1 card from your Hand, place it into Waiting Room.
+【起】［①］あなたは1枚引き、自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+プロデューサー。くれぐれも準備の方、
+お忘れ無きように、お願いいたします
+
+==========================
+
+いつでもサポート！ 小鳥さん
+IM/S14-090 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+【C】If your opponent has 「いつでもサポート！ 小鳥さん」, this card gains 《ネット》.
+【永】相手の「いつでもサポート！ 小鳥さん」がいるなら、このカードは《ネット》を得る。
+Flavor Text:
+わからないことがあったら、
+なんでも私に聞いてくださいね！
+
+==========================
+
+チャーミングヴィーナス 千早
+IM/S14-091 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+【A】When your opponent place a Climax into his/her Climax slot, place this card into Waiting Room.
+【自】相手のクライマックスがクライマックス置場に置かれた時、このカードを控え室に置く。
+Flavor Text:
+私の歌、聞いてください。
+必ず、あなたを虜にしてみせますから！
+
+==========================
+
+私服の千早
+IM/S14-092 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+【S】● ASSIST 1500 Level 1［Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +1500 Power.)
+【起】● 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋1500)
+Flavor Text:
+あ、あの……。
+私の部屋、何もなくてすみません
+
+==========================
+
+王女の休日 貴音
+IM/S14-093 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Music 音楽,_Royal Family 王族
+Card Text/Abilities:
+Flavor Text:
+たまには１日羽を伸ばすことも大切な
+ことですよ？　さあ、行きましょう！
+
+==========================
+
+今日もレッスン 千早
+IM/S14-094 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Music 音楽,_Headphones ヘッドフォン
+Card Text/Abilities:
+【A】［①］When 「蒼い鳥」 is placed into your Climax slot, you may pay the cost. If you did, during this turn, this card gains the following ability.『【C】When this card attacks, you may instead choose 1 of your opponent's Back Row Characters, this card will Front Attack that Character.』
+【自】［①］あなたのクライマックス置場に「蒼い鳥」が置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードは次の能力を得る。『【永】このカードがアタックする時、あなたはかわりに相手の後列のキャラを1枚選び、このカードはそのキャラを防御キャラとしてフロントアタックしてよい。』
+Flavor Text:
+ボーカルレッスン。よろしく
+お願いします、プロデューサー！
+
+==========================
+
+ピンクダイヤモンド７６５ 真
+IM/S14-095 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Music 音楽,_Sports スポーツ
+Card Text/Abilities:
+Flavor Text:
+千早、貴音。このステージは、
+ボク達の力で盛り上げていくよ！
+
+==========================
+
+765プロ地獄の特訓
+IM/S14-096 U
+Type: Event
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your Characters, until the end of your opponent's next turn, it gets +3000 Power. Place this card into Memory.
+あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋3000。このカードを思い出にする。
+Flavor Text:
+
+==========================
+
+ジュピターとの対決！
+IM/S14-097 U
+Type: Event
+Level: 3
+Color: Blue
+Cost: 1
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+●You may place the top card of your Clock into Waiting Room.
+Choose 1 of your Characters, during this turn, it gets +2000 Power. Place this card into Memory.
+●あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。このカードを思い出にする。
+Flavor Text:
+千早「プロデューサー、見ていてください。
+私達は負けません、この絆がある限り！」
+
+==========================
+
+エージェント夜を往く
+IM/S14-098 CR
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: S
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Book：When this card is triggered, you may draw 1 card)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(本：このカードがトリガーした時、あなたは1枚引いてよい)
+Flavor Text:
+情熱 快楽の　開放待ち望む
+そうよ　乱れる悦びを…
+
+==========================
+
+蒼い鳥
+IM/S14-099 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+私は飛ぶ　未来を信じて
+
+==========================
+
+My Best Friend
+IM/S14-100 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, place the top card of your Deck into Stock. During this turn, all of your Characters get +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+さりげなくクレル　そんなやさしさが気になるのでした！
+
+==========================
+
+ユニットメンバー 雪歩Unit Member Yukiho
+IM/S14-101 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Music 音楽,_Tea お茶
+Card Text/Abilities:
+【A】When this card attacks, choose 1 of your 《音楽》 Characters, during this turn, it gets +1 Level, +1000 Power.
+【自】このカードがアタックした時、あなたの自分の《音楽》のキャラを1枚選び、そのターン中、レベルを+1し、パワーを+1000。
+Flavor Text:
+
+==========================
+
+ユニットメンバー 美希Unit Member Miki
+IM/S14-102 TD
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Music 音楽,_Love 愛
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, choose 2 of your STAND Characters, REST them.
+【自】このカードが手札から舞台に置かれた時、あなたは自分のスタンドしているキャラを2枚選び、レストする。
+Flavor Text:
+
+==========================
+
+ユニットメンバー やよいUnit Member Yayoi
+IM/S14-103 TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Music 音楽,_Frog カエル
+Card Text/Abilities:
+【S】● ASSIST 1500 LEVEL 1 [Place this card to Waiting Room from hand] (Choose 1 of your Characters that is being Front Attacked, during this turn it gets +1500 Power)
+【起】● 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500)
+Flavor Text:
+
+==========================
+
+正統派アイドル！ 春香Old School Idol! Haruka
+IM/S14-104 TD
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Music 音楽,_Sweets お菓子
+Card Text/Abilities:
+【A】［①］When this card is placed on Stage from Hand, you may pay this cost. If you did, deal 1 Damage to your opponent.(Damage can be cancelled)
+【A】When your Climax is placed into your Climax slot, during this turn, this card gets +1500 Power.
+【自】［①］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。 (ダメージキャンセルは発生する)
+【自】あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。
+Flavor Text:
+私、今日はどんな歌でも歌えそうです！
+
+==========================
+
+ある日の765プロA Day at 765 Pro
+IM/S14-105 TD
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into your Climax Slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+
+==========================
+
+無敵のスマイル 伊織Invincible Smile Iori
+IM/S14-106 PR
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Music 音楽,_Doll 人形
+Card Text/Abilities:
+【S】［REST 2 of your Characters］During this turn, this card gets +2000 Power.
+【起】［あなたのキャラを2枚レストする］そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+私が来たからには、勝利は確実よ！にひひっ♪
+
+==========================
+
+アニメ化ですよ！765プロAnimated! 765 Pro
+IM/S14-107 PR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Music 音楽,_Television テレビ
+Card Text/Abilities:
+【A】When another of your 《音楽》 becomes REVERSE in battle, choose 1 of your Characters, during this turn, it gets +1000 Power.
+【自】他のあなたのバトル中の《音楽》のキャラがリバースしたとき、あなたは自分のキャラを1枚選び、そのターン中、パワーを+1000。
+Flavor Text:
+春香「プロデューサーさんっ！アニメ化ですよ、アニメ化っ！」
+
+==========================
+
+新たなる挑戦！765プロNew Challenge! 765 Pro
+IM/S14-108 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,_Television テレビ
+Card Text/Abilities:
+【S】［② REST this card］Choose 1 《音楽》 Character from your Waiting Room, return it to Hand.
+【起】［② このカードをレストする］あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。
+Flavor Text:
+律子「アニメの方も、しっかりチェックしてくださいね！」
+
+==========================
+
+スノーフレークリリパット 伊織＆やよいSnowflake Lilypad Iori & Yayoi
+IM/S14-109 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,_Frog カエル
+Card Text/Abilities:
+【C】During your turn, this card gets +1000 Power.
+【永】あなたのターン中、このカードのパワーを＋1000。
+Flavor Text:
+伊織「やよいもなかなか似合ってるじゃない！」
+やよい「伊織ちゃんもすっごくかわいいですー！」
+
+==========================
+
+L･O･B･ML･O･B･M
+IM/S14-110 PR
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, place the top card of your Deck into Stock. During this turn, all of your Characters get +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+765プロみ～んなの、ラブミサイル。
+全弾発射しま～す♪
+
+==========================
+
+きゅんっ！ヴァンパイアガール
+IM/S14-111 PR
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, all your Characters, during this turn, get +1000 Power.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラすべてに、そのターン中、パワーを＋1000。
+Flavor Text:
+パッと舞って
+ガッとやって チュッと吸って h～an！
+
+==========================
+
+愛 LIKE ハンバーガー
+IM/S14-112 PR
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +3 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、ソウルを＋3。
+Flavor Text:
+大好き好きハンバーガー
+ステキ　I LIKE HAMBURGER
+
+==========================
+
+Honey HeartbeatHoney Heartbeat
+IM/S14-113 PR
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +3 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、ソウルを＋3。
+Flavor Text:
+ずんずん　ずんずん　ムーディーR＆B
+
+==========================
+
+天使のミズギ！ 765プロ
+IM/S14-114 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Music 音楽,_Swimsuit 水着
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card get +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+美希「みんな、もっと前へ行くの！」
+真「うん！」　貴音「ええ」
+千早「あ、あの、これ以上前はちょっと！？」
+
+==========================
+
+キャンペーンガール 美希＆春香
+IM/S14-115 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Music 音楽,_Television テレビ
+Card Text/Abilities:
+【A】［②］When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《音楽》 Character from your Waiting Room, return it to Hand.
+【自】［②］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。
+Flavor Text:
+春香「765プロは、みんなを応援します！」
+
+==========================
+
+“眠り姫”千早
+IM/S14-116 PR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+【C】If your Hand has 5 cards or more, this card gets +1000 Power.
+【永】 あなたの手札が5枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+「……私は、いつか自分の思い描く歌を歌うことができるかしら……」
+
+==========================
+
+パレスオブドラゴン あずさ
+IM/S14-117 PR
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Music 音楽,_Love 愛
+Card Text/Abilities:
+Flavor Text:
+ふふっ。伊織ちゃん、亜美ちゃん。
+私も負けないようにがんばるわね♪
+
+==========================
+
+パレスオブドラゴン 伊織
+IM/S14-118 PR
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Music 音楽,_Doll 人形
+Card Text/Abilities:
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you did, place this card in its previous slot in REST)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+あずさ、亜美！　私達の本当の力、
+みんなに見せつけてやるわよ！
+
+==========================
+
+パレスオブドラゴン 亜美
+IM/S14-119 PR
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Music 音楽,_Twins 双子
+Card Text/Abilities:
+【C】If you have another 「パレスオブドラゴン あずさ」, all your other 「パレスオブドラゴン 伊織」 get +1500 Power.
+【C】All your other 《音楽》 Characters get +500 Power.
+【永】他のあなたの「パレスオブドラゴン あずさ」がいるなら、他のあなたの「パレスオブドラゴン 伊織」すべてに、パワーを＋1500。
+【永】他のあなたの《音楽》のキャラすべてに、パワーを＋500。
+Flavor Text:
+オッケーだよ、いおりん！
+あずさお姉ちゃんも、よろよろ～！！
+
+==========================
+
+バイタルサンフラワー 律子
+IM/S14-120 PR
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Music 音楽,_Glasses メガネ
+Card Text/Abilities:
+【A】When the Character battling this card with Level 1 or higher becomes REVERSE, if you have 3 or more other 《メガネ》 Characters, you may place the top card of your Deck to your Stock.
+【自】 このカードのバトル相手でレベル1以上のキャラが【リバース】した時、他のあなたの《メガネ》のキャラが3枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。
+Flavor Text:
+ちょっと照れくさいけど、
+ステージでも全力出していきますよ！
+
+==========================
+
+Little Match Girl
+IM/S14-121 PR
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, all your Characters, during this turn, get +1000 Power.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラすべてに、そのターン中、パワーを＋1000。
+Flavor Text:
+春香・雪歩・貴音「私達の歌、聞いてください！」
+
+==========================
+
+SWEETキャンペーンガール 響
+IM/S14-122 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Music 音楽,_Animal 動物
+Card Text/Abilities:
+【C】 All your other 《動物》 characters gets +500 power.
+【永】 他のあなたの《動物》のキャラすべてに、パワーを＋500。
+Flavor Text:
+プロデューサー！自分、この衣装もカンペキに
+着こなしたぞ！ねえ、ほめてほめて！
+
+==========================
+
+悪の天才! ハルシュタイン閣下
+IM/S14-123 PR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Music 音楽,_Movie 映画
+Card Text/Abilities:
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+畏れ、平伏し――崇め奉りなさい！
+
+==========================
+
+IMR-765-S キサラギ
+IM/S14-124 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Music 音楽,_Mecha メカ
+Card Text/Abilities:
+Flavor Text:
+キサラギ「くっ」
+
+==========================
+
+新生765プロRenewed 765 Pro
+IM/S14-765 PR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+Flavor Text:
+きらめく 舞台 (ステージ)はさらなる高みへ！
+
+==========================
+
+私服の雪歩Daily Clothes Yukiho
+IM/S14-T01 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Music 音楽,_Tea お茶
+Card Text/Abilities:
+【A】When another of your Character's battle opponent becomes REVERSE, choose 1 of your Characters, during this turn, it gets +1000 Power.
+【自】他のあなたのキャラのバトル相手がリバースした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+えへへっ　みんな楽しそうですね！
+
+==========================
+
+チャーミングヴィーナス 真美Charming Venus Mami
+IM/S14-T02 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,_Twins 双子
+Card Text/Abilities:
+【C】If you have no other Characters in the Front Row, this card gets +1 Level, +1000 Power.
+【永】他のあなたの前列のキャラがいないなら、このカードのレベルを＋1し、パワーを＋1000。
+Flavor Text:
+ここはこのすぅぱあアイドル真美に、
+おまかせあれ～！
+
+==========================
+
+私服のやよいDaily Clothes Yayoi
+IM/S14-T03 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Music 音楽,_Frog カエル
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, if your opponent has 「私服のやよい」 and all players agree to this ability, do a High Touch. If its done, all players place the top card of their Deck into Stock.(Lets keep the noise down)
+【自】このカードが手札から舞台に置かれた時、相手の「私服のやよい」がいて、すべてのプレイヤーが認めたなら、ハイタッチする。そうしたら、すべてのプレイヤーは自分の山札の上から1枚を、ストック置場に置く。 (音には注意しましょう)
+Flavor Text:
+プロデューサー！
+ハイ、ターッチ、いぇい！
+
+==========================
+
+神出鬼没？ 小鳥さんUnexpected Appearance? Kotori-san
+IM/S14-T04 TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: ,_Music 音楽
+Card Text/Abilities:
+【A】［①］When this card is placed on Stage from Hand, you may pay this cost. If you did, choose 1 of your Characters, during this turn, it gets +2000 Power.
+【自】［①］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを１枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+お呼びですか、プロデューサーさん！
+
+==========================
+
+べろちょろ やよいPerochoro Yayoi
+IM/S14-T05 TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Music 音楽,_Frog カエル
+Card Text/Abilities:
+【C】This card cannot be chosen by opponent's effects.
+【C】SUPPORT All your Characters in front of this card gets +X. X is equals to that Character's Level ×500.
+【永】このカードは相手の効果に選ばれない。
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。ＸはそのキャラのレベルＸ500に等しい。
+Flavor Text:
+
+==========================
+
+チャーミングヴィーナス 雪歩Charming Venus Yukiho
+IM/S14-T06 TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Music 音楽,_Tea お茶
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+Do-DaiDo-Dai
+IM/S14-T07 TD
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+
+==========================
+
+チャーミングヴィーナス 春香Charming Venus Haruka
+IM/S14-T08 TD
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Music 音楽,_Sweets お菓子
+Card Text/Abilities:
+【C】RECOLLECTION　If there's 「BK MANIAC」 in your Memory, this card gains the following ability.「音楽》 Characters, during this turn, it gets +2000 Power.">【S】［REST this card］Choose 1 of your 《音楽》 Characters, during this turn, it gets +2000 Power.」
+【A】When this card attacks, REST all your other STAND Characters.
+【永】記憶　あなたの思い出に「BK MANIAC」があるなら、このカードは次の能力を得る。「［【起】このカードをレストする。］あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋2000。」
+【自】このカードがアタックした時、他のあなたのスタンドしてるキャラ全てを、レストする。
+Flavor Text:
+プロデューサーさん、この衣装、
+似合ってますか？
+
+==========================
+
+チャーミングヴィーナス 響Charming Venus Hibiki
+IM/S14-T09 TD
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Music 音楽,_Animal 動物
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+チャーミングヴィーナス 美希Charming Venus Miki
+IM/S14-T10 TD
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Music 音楽,_Love 愛
+Card Text/Abilities:
+Flavor Text:
+みんなー！今日はミキ達のライブ、
+いーっぱい楽しむのーっ！
+
+==========================
+
+私服の春香Daily Clothes Haruka
+IM/S14-T11 TD
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Music 音楽,_Sweets お菓子
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is not a 《音楽》 Character, REST this card.(Return revealed card to its original position)
+【A】CHANGE ［② Place 1 card into Waiting Room from Hand, place this card into Waiting Room］At the beginning of your Climax phase, you may pay this cost. If you did, choose 1 「ピンクダイヤモンド765　春香」 from your Waiting Room, place it into this card's previous slot.
+【自】このカードが手札から場に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラでないなら、このカードをレストする。（公開したカードは元に戻す）
+【自】 チェンジ ［② 手札を1枚控え室に置き、このカードを控室に置く］あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ピンクダイヤモンド765　春香」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+
+==========================
+
+ラブアタック！ 美希Love Attack! Miki
+IM/S14-T12 TD
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Music 音楽,_Love 愛
+Card Text/Abilities:
+【A】 ENCORE ［Place top card of your Deck into Clock］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】 アンコール ［あなたの山札の上から1枚をクロックに置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+
+==========================
+
+ピンクダイヤモンド765 春香Pink Diamond 765 Haruka
+IM/S14-T13 TD
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Music 音楽,_Sweets お菓子
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+BK MANIACBK MANIAC
+IM/S14-T14 TD
+Type: Event
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your Characters, during this turn, it gets +3000 Power.
+You may place the top card of your Deck into Clock. If you did, choose 1 《音楽》 Character from your Waiting Room, return it to Hand.
+Place this card into Memory.
+あなたは、自分のキャラを１枚選び、そのターン中、パワー＋3000。
+あなたは、自分の山札の上から1枚をクロックに置いてよい。そうしたら、あなたは自分の控室の《音楽》のキャラを1枚選び、手札に戻す。
+このカードを思い出にする。
+Flavor Text:
+
+==========================
+
+GO MY WAY!!GO MY WAY!!
+IM/S14-T15 TD
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, place the top card of your Deck to Stock. During this turn, all of your Characters get +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+
+==========================
+

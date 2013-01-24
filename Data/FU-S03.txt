@@ -1,0 +1,18 @@
+セイバー・リリィSaber Lily
+FU/S03-108 PR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Servant サーヴァント,_Weapon 武器
+Card Text/Abilities:
+【S】［Put 2 of your 《マスター》 characters to REST］During this turn, this card gets +1 soul.
+【起】［あなたの《マスター》のキャラを2枚レストする］そのターン中、このカードのソウルを＋1。
+Flavor Text:
+この剣にかけて勝利を
+
+==========================
+

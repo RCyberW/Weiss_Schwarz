@@ -1,0 +1,2828 @@
+銀の魔銃 マミ
+MM/W17-001 RR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Magic 魔法,_Tea お茶
+Card Text/Abilities:
+【C】During your turn, if the Character facing this card is Level 3 or above, this card gets +4000 Power, +1 Soul.
+【永】あなたのターン中、このカードの正面のキャラのレベルが3以上なら、このカードのパワーを＋4000し、ソウルを＋1。
+Flavor Text:
+今日という今日は速攻で片付けるわよ！
+
+==========================
+
+銀の魔銃 マミ
+MM/W17-001 SR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Magic 魔法,_Tea お茶
+Card Text/Abilities:
+【C】During your turn, if the Character facing this card is Level 3 or above, this card gets +4000 Power, +1 Soul.
+【永】あなたのターン中、このカードの正面のキャラのレベルが3以上なら、このカードのパワーを＋4000し、ソウルを＋1。
+Flavor Text:
+今日という今日は速攻で片付けるわよ！
+
+==========================
+
+巴 マミ
+MM/W17-002 RR
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,_Tea お茶
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.
+【A】［②］When this card attacks, if 「ティロ・フィナーレ」 is in your Climax slot, you may pay the cost. If you did, choose 1 of your opponent's Front Row Characters with Level 3 or below, place it into Stock, during this turn, your opponent cannot use 『【A】ENCORE』. (Rule-based 『【A】ENCORE［③］』 cannot be used as well)
+【自】このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】［②］このカードがアタックした時、クライマックス置場に「ティロ・フィナーレ」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル3以下のキャラを1枚まで選び、ストック置場に置き、そのターン中、相手は『【自】 アンコール 』を使えない。 (ルールによる『【自】 アンコール ［③］』も使えない)
+Flavor Text:
+せっかくのとこ悪いけど、一気に決めさせて――もらうわよ！
+
+==========================
+
+巴 マミ
+MM/W17-002 SP
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,_Tea お茶
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.
+【A】［②］When this card attacks, if 「ティロ・フィナーレ」 is in your Climax slot, you may pay the cost. If you did, choose 1 of your opponent's Front Row Characters with Level 3 or below, place it into Stock, during this turn, your opponent cannot use 『【A】ENCORE』. (Rule-based 『【A】ENCORE［③］』 cannot be used as well)
+【自】このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】［②］このカードがアタックした時、クライマックス置場に「ティロ・フィナーレ」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル3以下のキャラを1枚まで選び、ストック置場に置き、そのターン中、相手は『【自】 アンコール 』を使えない。 (ルールによる『【自】 アンコール ［③］』も使えない)
+Flavor Text:
+せっかくのとこ悪いけど、一気に決めさせて――もらうわよ！
+
+==========================
+
+契約をせまるキュゥべえ
+MM/W17-003 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Alien 宇宙人,_Magic 魔法
+Card Text/Abilities:
+【C】All your other 《魔法》 Characters get +500 Power.
+【C】When your Character's 「CHANGE」 cost is being paid, you may place a Marker from under this card into Waiting Room instead for each Stock.
+【A】When this card is placed on Stage from Hand, place the top card of your Deck under this card as a Marker.
+【永】他のあなたの《魔法》のキャラすべてに、パワーを＋500。
+【永】あなたが自分のキャラの「 チェンジ 」のコストを払うとき、このカードの下のマーカーを、ストック1枚のかわりに控え室に置いてよい。
+【自】このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。
+Flavor Text:
+僕と契約して魔法少女になってよ！
+
+==========================
+
+先輩魔法少女 マミ
+MM/W17-004 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Tea お茶
+Card Text/Abilities:
+【A】［②］When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《魔法》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【A】◆ SHIFT Level 0 (At the beginning of your Main Phase, you may choose 1 Yellow card from your Hand and this card in your Clock and exchange them.)
+【自】［②］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《魔法》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+【自】◆ シフト レベル0 (あなたのメインフェイズの始めに、あなたは自分の手札の黄のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい)
+Flavor Text:
+そして、キュゥべえと契約した魔法少女よ
+
+==========================
+
+先輩魔法少女 マミ
+MM/W17-004 SR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Tea お茶
+Card Text/Abilities:
+【A】［②］When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《魔法》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【A】◆ SHIFT Level 0 (At the beginning of your Main Phase, you may choose 1 Yellow card from your Hand and this card in your Clock and exchange them.)
+【自】［②］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《魔法》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+【自】◆ シフト レベル0 (あなたのメインフェイズの始めに、あなたは自分の手札の黄のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい)
+Flavor Text:
+そして、キュゥべえと契約した魔法少女よ
+
+==========================
+
+パジャマのマミ
+MM/W17-005 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Tea お茶
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, if you have 2 or more other 《魔法》 Characters, during this turn, this card gets +2000 Power.
+【自】 このカードが手札から舞台に置かれた時、他のあなたの《魔法》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+
+==========================
+
+宿命を背負うマミ
+MM/W17-006 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Magic 魔法,_Tea お茶
+Card Text/Abilities:
+【C】During this card's battle, all players cannot play 『ASSIST』 from Hand.
+【永】このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。
+Flavor Text:
+私の場合は……考えている余裕さえなかったってだけ
+
+==========================
+
+宿命を背負うマミ
+MM/W17-006 RRR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Magic 魔法,_Tea お茶
+Card Text/Abilities:
+【C】During this card's battle, all players cannot play 『ASSIST』 from Hand.
+【永】このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。
+Flavor Text:
+私の場合は……考えている余裕さえなかったってだけ
+
+==========================
+
+“お菓子の魔女”シャルロッテ
+MM/W17-007 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Sweets お菓子
+Card Text/Abilities:
+【C】The Character facing this card gets +1 Soul.
+【A】During this card's battle, if the damage you received was cancelled, until the end of your next turn, this card gets +1000 Power.
+【永】このカードの正面のキャラのソウルを＋1。
+【自】このカードのバトル中、あなたの受けたダメージがキャンセルされた時、次のあなたのターンの終わりまで、このカードのパワーを＋1000。
+Flavor Text:
+
+==========================
+
+“もうひとりじゃない”マミ
+MM/W17-008 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Tea お茶
+Card Text/Abilities:
+【A】When this card Front Attacks, if 「もう何も恐くない」 is in your Climax slot, reveal the top card of your Deck. If that card is a Climax, during this turn, this card gets -4500 Power. If it is not, during this turn, this card gets +4500 Power.(Return revealed card to it original position)
+【自】このカードがフロントアタックした時、クライマックス置場に「もう何も恐くない」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、そのターン中、このカードのパワーを－4500。そうでないなら、そのターン中、このカードのパワーを＋4500。 （公開したカードは元に戻す）
+Flavor Text:
+身体が、軽い。こんな幸せな気持ちで戦うのなんて初めて
+
+==========================
+
+生きるための願い マミ
+MM/W17-009 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Tea お茶
+Card Text/Abilities:
+【C】During your turn, all your other Characters get +1000 Power.
+【A】 CHANGE ［① Place this card into Waiting Room］At the beginning of your Draw Phase, you may pay this cost. If you do, choose 1 「宿命を背負うマミ」 from your Waiting Room, place it into this card's previous slot.
+【永】あなたのターン中、他のあなたのキャラすべてに、パワーを＋1000。
+【自】 チェンジ ［① このカードを控え室に置く］あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「宿命を背負うマミ」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+いいものじゃないわよ……魔法少女なんて
+
+==========================
+
+束縛魔法 マミ
+MM/W17-010 U
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Tea お茶
+Card Text/Abilities:
+【S】● ASSIST 3000 Level 2［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)
+【起】● 助太刀3000 レベル2 ［① 手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋3000)
+Flavor Text:
+暁美さん、お願い！！
+
+==========================
+
+お茶をたしなむマミ
+MM/W17-011 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Tea お茶
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +500 Power.
+【S】［REST this card］Choose 1 of your Characters with 「まどか」 in its name, during this turn, it gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】［このカードをレストする］あなたは自分のカード名に「まどか」を含むキャラを1枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+そう、命懸けよ。
+だからあなたたちも慎重に選んだほうがいい
+
+==========================
+
+忠告するマミ
+MM/W17-012 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Tea お茶
+Card Text/Abilities:
+【C】During your turn, this card gets +1000 Power.
+【永】あなたのターン中、このカードのパワーを＋1000。
+Flavor Text:
+――なら二度と遭うことのないよう努力して
+
+==========================
+
+ベテラン魔法少女 マミ
+MM/W17-013 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Tea お茶
+Card Text/Abilities:
+Flavor Text:
+大丈夫。未来の後輩に、
+あんまり格好悪いとこ見せられないものね！
+
+==========================
+
+希望を託すマミ
+MM/W17-014 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Magic 魔法,_Tea お茶
+Card Text/Abilities:
+Flavor Text:
+あなた自身が希望になるのよ。私達、全ての希望に
+
+==========================
+
+優しく見守るマミ
+MM/W17-015 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Magic 魔法,_Tea お茶
+Card Text/Abilities:
+Flavor Text:
+まいったなぁ……まだまだちゃんと
+先輩ぶってなきゃいけないのになぁ……
+やっぱり私、駄目な子だ…
+
+==========================
+
+優雅なるマミ
+MM/W17-016 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Magic 魔法,_Tea お茶
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+グリーフシード
+MM/W17-017 U
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+● Choose 1 of your Characters, during this turn, it gets +X. X is equals to the number of your 《魔法》 Characters ×1000.
+● あなたは自分のキャラを1枚選び、そのターン中、パワーを＋X。Xはあなたの《魔法》のキャラの枚数×1000に等しい。
+Flavor Text:
+マミ「これがグリーフシード。魔女の卵よ」
+
+==========================
+
+一瞬の出来事
+MM/W17-018 U
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your opponent's Front Row Characters with Level 2 or below, place it into Memory.
+あなたは相手の前列のレベル2以下のキャラを1枚選び、思い出にする。
+Flavor Text:
+――えっ？
+
+==========================
+
+もう何も恐くない
+MM/W17-019 CR
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1W
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return to Hand)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（戻：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）
+Flavor Text:
+――私、ひとりぼっちじゃないもの
+
+==========================
+
+ティロ・フィナーレ
+MM/W17-020 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+ティロ・フィナ――――レ!!
+
+==========================
+
+悲壮な覚悟 ほむら
+MM/W17-021 RR
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Magic 魔法,_Time 時間
+Card Text/Abilities:
+【A】When this card attacks, if 「もう誰にも頼らない」 is in your Climax slot, if there is no other of your Front Row Character in STAND, during this turn, this card gets +7000 Power.
+【A】◆ SHIFT Level 2 (At the beginning of your Main Phase, you may choose 1 Green card from your Hand and this card in your Clock and exchange them.)
+【自】このカードがアタックした時、クライマックス置場に「もう誰にも頼らない」があり、他のあなたの前列のスタンドしているキャラがいないなら、そのターン中、このカードのパワーを＋7000。
+【自】◆ シフト レベル2 (あなたのメインフェイズの始めに、あなたは自分の手札の緑のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい)
+Flavor Text:
+あなたには、関係ないわ
+
+==========================
+
+悲壮な覚悟 ほむら
+MM/W17-021 SP
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Magic 魔法,_Time 時間
+Card Text/Abilities:
+【A】When this card attacks, if 「もう誰にも頼らない」 is in your Climax slot, if there is no other of your Front Row Character in STAND, during this turn, this card gets +7000 Power.
+【A】◆ SHIFT Level 2 (At the beginning of your Main Phase, you may choose 1 Green card from your Hand and this card in your Clock and exchange them.)
+【自】このカードがアタックした時、クライマックス置場に「もう誰にも頼らない」があり、他のあなたの前列のスタンドしているキャラがいないなら、そのターン中、このカードのパワーを＋7000。
+【自】◆ シフト レベル2 (あなたのメインフェイズの始めに、あなたは自分の手札の緑のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい)
+Flavor Text:
+あなたには、関係ないわ
+
+==========================
+
+“内緒”のまどか
+MM/W17-022 RR
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【C】If you have 3 or more other 《魔法》 Characters, this card gets +1000 Power.
+【A】When this card attacks, if 「クラスのみんなには、内緒だよ！」 is in your Climax slot, choose up to 1 of your other Characters, place it into Memory, at the beginning of your next Draw Phase, place that Character from your Memory into any slot on Stage.
+【A】When this card attacks, if 「クラスのみんなには、内緒だよ！」 is in your Climax slot, until the end of your opponent's next turn, this card gets +2000 Power.
+【永】他のあなたの《魔法》のキャラが3枚以上なら、このカードのパワーを＋1000。
+【自】このカードがアタックした時、クライマックス置場に「クラスのみんなには、内緒だよ！」があるなら、あなたは他の自分のキャラを1枚まで選び、思い出にし、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場のそのキャラを舞台の好きな枠に置く。
+【自】このカードがアタックした時、クライマックス置場に「クラスのみんなには、内緒だよ！」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋2000。
+Flavor Text:
+いきなり、秘密がばれちゃったね
+
+==========================
+
+“内緒”のまどか
+MM/W17-022 SP
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【C】If you have 3 or more other 《魔法》 Characters, this card gets +1000 Power.
+【A】When this card attacks, if 「クラスのみんなには、内緒だよ！」 is in your Climax slot, choose up to 1 of your other Characters, place it into Memory, at the beginning of your next Draw Phase, place that Character from your Memory into any slot on Stage.
+【A】When this card attacks, if 「クラスのみんなには、内緒だよ！」 is in your Climax slot, until the end of your opponent's next turn, this card gets +2000 Power.
+【永】他のあなたの《魔法》のキャラが3枚以上なら、このカードのパワーを＋1000。
+【自】このカードがアタックした時、クライマックス置場に「クラスのみんなには、内緒だよ！」があるなら、あなたは他の自分のキャラを1枚まで選び、思い出にし、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場のそのキャラを舞台の好きな枠に置く。
+【自】このカードがアタックした時、クライマックス置場に「クラスのみんなには、内緒だよ！」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋2000。
+Flavor Text:
+いきなり、秘密がばれちゃったね
+
+==========================
+
+容姿端麗 ほむら
+MM/W17-023 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Time 時間
+Card Text/Abilities:
+【A】［Return 2 Characters from your Waiting Room into Deck. Shuffle your Deck afterwards］When this card is placed on Stage from Hand, you may pay the cost. If you did, during this turn, this card gets +2000 Power.
+【A】◆ SHIFT Level 0 (At the beginning of your Main Phase, you may choose 1 Green card from your Hand and this card in your Clock and exchange them.)
+【自】［あなたの控え室のキャラを2枚山札に戻す。その山札をシャッフルする］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000。
+【自】◆ シフト レベル0 (あなたのメインフェイズの始めに、あなたは自分の手札の緑のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい)
+Flavor Text:
+あなたは、鹿目まどかのままでいいればいい。
+今まで通りに、これからも
+
+==========================
+
+容姿端麗 ほむら
+MM/W17-023 SR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Time 時間
+Card Text/Abilities:
+【A】［Return 2 Characters from your Waiting Room into Deck. Shuffle your Deck afterwards］When this card is placed on Stage from Hand, you may pay the cost. If you did, during this turn, this card gets +2000 Power.
+【A】◆ SHIFT Level 0 (At the beginning of your Main Phase, you may choose 1 Green card from your Hand and this card in your Clock and exchange them.)
+【自】［あなたの控え室のキャラを2枚山札に戻す。その山札をシャッフルする］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000。
+【自】◆ シフト レベル0 (あなたのメインフェイズの始めに、あなたは自分の手札の緑のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい)
+Flavor Text:
+
+==========================
+
+見守るほむら
+MM/W17-024 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Time 時間
+Card Text/Abilities:
+【S】 CONCENTRATION ［① REST 2 of your Characters］Flip the top 4 cards of your Deck into Waiting Room. For each Climax among those cards, search your Deck for up to 1 《魔法》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【起】 集中 ［① あなたのキャラを2枚レストする］あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《魔法》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+彼女だけは、契約させるわけにはいかない
+
+==========================
+
+隠された思い ほむら
+MM/W17-025 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Magic 魔法,_Time 時間
+Card Text/Abilities:
+【C】If you have 2 or less 《魔法》 Characters, you cannot play this card from Hand.
+【永】 このカードは、あなたの《魔法》のキャラが2枚以下なら、手札からプレイできない。
+Flavor Text:
+本当の気持ちなんて、伝わるわけないのよ
+
+==========================
+
+隠された思い ほむら
+MM/W17-025 SR
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Magic 魔法,_Time 時間
+Card Text/Abilities:
+【C】If you have 2 or less 《魔法》 Characters, you cannot play this card from Hand.
+【永】 このカードは、あなたの《魔法》のキャラが2枚以下なら、手札からプレイできない。
+Flavor Text:
+本当の気持ちなんて、伝わるわけないのよ
+
+==========================
+
+弓の魔法少女 まどか
+MM/W17-026 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【C】If your Stock is 4 or more, this card gets +1000 Power.
+【永】 あなたのストックが4枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+それでも――わたしは魔法少女だから。
+みんなのこと守らなきゃいけないから
+
+==========================
+
+弓の魔法少女 まどか
+MM/W17-026 SR
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【C】If your Stock is 4 or more, this card gets +1000 Power.
+【永】 あなたのストックが4枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+それでも――わたしは魔法少女だから。
+みんなのこと守らなきゃいけないから
+
+==========================
+
+揺れ動く気持ち まどか
+MM/W17-027 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +X Power. X is equals to that Character's Level ×500.
+【A】 CHANGE ［① Place this card into Waiting Room］At the beginning of your Draw Phase, you may pay this cost. If you do, choose 1 「アルティメットまどか」 from your Waiting Room, place it into this card's previous slot.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。
+【自】 チェンジ ［① このカードを控え室に置く］あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「アルティメットまどか」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+……ごめんなさい……わたし、弱い子で……
+ごめんなさい……
+
+==========================
+
+時の魔法少女 ほむら
+MM/W17-028 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Magic 魔法,_Time 時間
+Card Text/Abilities:
+【C】If your Stock is 5 or more, this card gets +1000 Power.
+【自】［Place 1 《魔法》 Character from your Hand into Waiting Room, place this card into Memory］When this card becomes REVERSE in battle, you may pay the cost. If you did, at the beginning of your next Draw Phase, choose 1 「時の魔法少女 ほむら」 from your Memory, place it into any slot on Stage.
+【永】あなたのストックが5枚以上なら、このカードのパワーを＋1000。
+【自】［手札の《魔法》のキャラを1枚控え室に置き、このカードを思い出にする］バトル中のこのカードがリバースした時、あなたはコストを払ってよい。そうしたら、次のあなたのドローフェイズのはじめに、あなたは自分の思い出置き場の「時の魔法少女 ほむら」を1枚選び、舞台の好きな枠に置く。
+Flavor Text:
+誰も、未来を受け止められない。だったら、私は――
+
+==========================
+
+時の魔法少女 ほむら
+MM/W17-028 RRR
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Magic 魔法,_Time 時間
+Card Text/Abilities:
+【C】If your Stock is 5 or more, this card gets +1000 Power.
+【自】［Place 1 《魔法》 Character from your Hand into Waiting Room, place this card into Memory］When this card becomes REVERSE in battle, you may pay the cost. If you did, at the beginning of your next Draw Phase, choose 1 「時の魔法少女 ほむら」 from your Memory, place it into any slot on Stage.
+【永】あなたのストックが5枚以上なら、このカードのパワーを＋1000。
+【自】［手札の《魔法》のキャラを1枚控え室に置き、このカードを思い出にする］バトル中のこのカードがリバースした時、あなたはコストを払ってよい。そうしたら、次のあなたのドローフェイズのはじめに、あなたは自分の思い出置き場の「時の魔法少女 ほむら」を1枚選び、舞台の好きな枠に置く。
+Flavor Text:
+あなたの為なら、私は永遠の迷路に閉じ込められても、構わない
+
+==========================
+
+因果の終着点 まどか
+MM/W17-029 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【C】For each Marker under this card, this card gets +1500 Power.
+【A】When your Deck is Refreshed, you may place the top card of your Deck under this card as a Marker.
+【永】このカードの下のマーカー1枚につき、このカードのパワーを＋1500。
+【自】あなたが山札をリフレッシュした時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置いてよい。
+Flavor Text:
+キュゥべえ「まどかが産み出すかもしれない
+ソウルジェムの大きさは、僕にも測定しきれない」
+
+==========================
+
+因果の終着点 まどか
+MM/W17-029 SR
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【C】For each Marker under this card, this card gets +1500 Power.
+【A】When your Deck is Refreshed, you may place the top card of your Deck under this card as a Marker.
+【永】このカードの下のマーカー1枚につき、このカードのパワーを＋1500。
+【自】あなたが山札をリフレッシュした時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置いてよい。
+Flavor Text:
+キュゥべえ「まどかが産み出すかもしれない
+ソウルジェムの大きさは、僕にも測定しきれない」
+
+==========================
+
+アルティメットまどか
+MM/W17-030 R
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand or through 「CHANGE」, you may place the top card of your Clock into Waiting Room.
+【A】［Place this card into Memory］When 「まどかの願い」 is placed into your Climax slot, you may pay the cost. If you did, search your Deck for up to 1 「“戦い続ける”ほむら」, place it into this card's previous slot. Shuffle your Deck afterwards, until the end of your opponent's next turn, that Character gets +3000 Power.
+【自】このカードが手札から舞台に置かれたときか「 チェンジ 」で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室においてよい。
+【自】［このカードを思い出にする］あなたのクライマックス置場に「まどかの願い」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「“戦い続ける”ほむら」を1枚まで選び、このカードがいた枠に置く。その後、その山札をシャッフルし、次の相手のターンの終わりまで、そのキャラのパワーを＋3000。
+Flavor Text:
+わたしの願いは、すべての魔女を消し去ること
+
+==========================
+
+アルティメットまどか
+MM/W17-030 RRR
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand or through 「CHANGE」, you may place the top card of your Clock into Waiting Room.
+【A】［Place this card into Memory］When 「まどかの願い」 is placed into your Climax slot, you may pay the cost. If you did, search your Deck for up to 1 「“戦い続ける”ほむら」, place it into this card's previous slot. Shuffle your Deck afterwards, until the end of your opponent's next turn, that Character gets +3000 Power.
+【自】このカードが手札から舞台に置かれたときか「 チェンジ 」で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室においてよい。
+【自】［このカードを思い出にする］あなたのクライマックス置場に「まどかの願い」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「“戦い続ける”ほむら」を1枚まで選び、このカードがいた枠に置く。その後、その山札をシャッフルし、次の相手のターンの終わりまで、そのキャラのパワーを＋3000。
+Flavor Text:
+わたしの願いは、すべての魔女を消し去ること
+
+==========================
+
+ほむらとの絆 まどか
+MM/W17-031 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】［②］When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《魔法》 Character from your Clock, return it to Hand, place the top card of your Deck into Clock.
+【A】 BOND／「隠された思い ほむら」［①］(When this card is played onto Stage, you may pay the cost. If you do, choose 1 「隠された思い ほむら」 from your Waiting Room, return it to Hand)
+【自】［②］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場の《魔法》のキャラを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。
+【自】 絆／「隠された思い ほむら」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「隠された思い ほむら」を1枚選び、手札に戻す)
+Flavor Text:
+わたし、魔法少女になる
+
+==========================
+
+ワルプルギスの夜に挑むまどか
+MM/W17-032 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【C】If you have 2 or less other Characters, this card gets +1500 Power.
+【永】 他のあなたのキャラが2枚以下なら、このカードのパワーを＋1500。
+Flavor Text:
+さよなら、ほむらちゃん。元気でね
+
+==========================
+
+希望を守る まどか
+MM/W17-033 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 1500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】When you use this card's 『ASSIST』, choose 1 of your battling Green Characters, during this turn, it gets +1000 Power.
+【S】● ASSIST 1500 Level 1［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +1500 Power.)
+【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中の緑のキャラを1枚選び、そのターン中、パワーを＋1000。
+【起】● 助太刀1500 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500)
+Flavor Text:
+わたしなんかが人の役に立てていることが嬉しい
+
+==========================
+
+決意のほむら
+MM/W17-034 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Magic 魔法,_Time 時間
+Card Text/Abilities:
+【A】CHANGE［① Place this card into Waiting Room］At the beginning of your Draw Phase, you may pay this cost. If you do, choose 1 「時の魔法少女 ほむら」 from your Waiting Room, place it into this card's previous slot.
+【S】［REST this card］Choose 1 of your 《魔法》 Characters, until the end of your opponent's next turn, it gets +1000 Power.
+【自】チェンジ［① このカードを控え室に置く］あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「時の魔法少女 ほむら」を1枚選び、このカードがいた枠に置く。
+【起】［このカードをレストする］あなたは自分の《魔法》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。
+Flavor Text:
+誰も……未来を信じない……
+
+==========================
+
+時間遡行者 ほむら
+MM/W17-035 U
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Magic 魔法,_Time 時間
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, if your Deck has 5 cards or less, return all cards from your Waiting Room into Deck. If you did, shuffle your Deck afterwards, choose 1 of your 「因果の終着点 まどか」, place up to 2 cards from the top of your Deck under that Character as Markers, all your Characters, during this turn, get +2000 Power.
+【自】このカードが手札から舞台に置かれた時、あなたの山札が5枚以下なら、あなたは自分の控え室のカードすべてを山札に戻す。そうしたら、その山札をシャッフルし、あなたは自分の「因果の終着点 まどか」を1枚選び、自分の山札の上から2枚までを、そのキャラの下にマーカーとして置き、あなたのキャラすべてに、そのターン中、パワーを＋2000。
+Flavor Text:
+――繰り返す。
+――私は、何度でも繰り返す
+
+==========================
+
+“戦い続ける”ほむら
+MM/W17-036 U
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,_Time 時間
+Card Text/Abilities:
+【C】RECOLLECTION If your Memory has 「アルティメットまどか」, this card gets +1500 Power.
+【A】When this card is being Front Attacked, look at the top card of your Deck, place it onto the top of Deck or into Waiting Room.
+【永】 記憶 あなたの思い出置場に「アルティメットまどか」があるなら、このカードのパワーを＋1500。
+【自】このカードがフロントアタックされた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。
+Flavor Text:
+ぼやいたって仕方ないわ。
+――さあ、行くわよ
+
+==========================
+
+鹿目 まどか
+MM/W17-037 U
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【C】When you have 3 or more other 《魔法》 Characters, this card gets +1000 Power.
+【A】When this card is placed on Stage from Hand, during this turn, all your Characters get +2000 Power.
+【S】［①］During this turn, this card gets +2000 Power.
+【永】他のあなたの《魔法》のキャラが3枚以上なら、このカードのパワーを＋1000。
+【自】このカードが手札から舞台に置かれたとき、あなたのキャラすべてに、そのターン中、パワーを＋2000。
+【起】［①］そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+だから魔法少女になって本当に良かったって、そう思うんだ
+
+==========================
+
+暁美 ほむら
+MM/W17-038 U
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,_Time 時間
+Card Text/Abilities:
+【C】When your Stock is 4 or less, this card gets +500 Power and gains 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』.
+【C】The Character facing this card gets -1 Soul.
+【永】あなたのストックが4枚以下なら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。
+【永】このカードの正面のキャラのソウルを－1。
+Flavor Text:
+私は冷静な人の味方で、無駄な争いをする馬鹿の敵
+
+==========================
+
+転校生 ほむら
+MM/W17-039 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Magic 魔法,_Time 時間
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+あああ暁美、ほ、ほむら、です。
+その……どうか、よよよろしくお願いします
+
+==========================
+
+絆を抱く少女 ほむら
+MM/W17-040 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Magic 魔法,_Time 時間
+Card Text/Abilities:
+【A】 BOND／「揺れ動く気持ち まどか」［①］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「揺れ動く気持ち まどか」 from your Waiting Room, return to Hand)
+【自】 絆／「揺れ動く気持ち まどか」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「揺れ動く気持ち まどか」を1枚選び、手札に戻す)
+Flavor Text:
+あなたは自分を責めすぎてるわ。鹿目まどか
+
+==========================
+
+まどかを想うほむら
+MM/W17-041 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Time 時間
+Card Text/Abilities:
+【C】If you have another Character with 「まどか」 in its name, this card gets +1500 Power.
+【永】他のあなたのカード名に「まどか」を含むキャラがいるなら、このカードのパワーを＋1500。
+Flavor Text:
+すべての魔女は、わたし一人で片付ける
+
+==========================
+
+“みんなを守るために” まどか
+MM/W17-042 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】When this card attacks, choose 1 of your other 《魔法》 Characters, until the end of your opponent's next turn, it gets +1000 Power.
+【自】このカードがアタックした時、あなたは他の自分の《魔法》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。
+Flavor Text:
+魔女をやっつければ
+それだけ大勢の人を助けることができて――
+それが怖さよりも嬉しいの
+
+==========================
+
+保健係 まどか
+MM/W17-043 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】［①］When this card attacks, if 「夢に出てきた少女」 is in your Climax Slot, you may pay the cost. If you do, choose 1 Character from your Clock, return it to Hand, place the top card of your Deck into Clock.
+【自】［①］このカードがアタックした時、クライマックス置場に「夢に出てきた少女」があるなら、あなたはコストを払ってよい。そうしたらあなたは自分のクロック置場のキャラを1枚選び、手札に戻し、自分の山札から上から1枚を、クロック置場に置く。
+Flavor Text:
+ほむら「鹿目、まどかさん。
+あなたが、このクラスの保健係よね？」
+
+==========================
+
+志筑 仁美
+MM/W17-044 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+【A】When this card attacks, all your other Characters, during this turn, get +1 Level.
+【自】このカードがアタックした時、他のあなたのキャラすべてに、そのターン中、レベルを＋1。
+Flavor Text:
+まどかのお母さんみたいに、
+きっぱり割り切れたらいいんだけど……
+
+==========================
+
+黒髪の少女 ほむら
+MM/W17-045 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Time 時間
+Card Text/Abilities:
+Flavor Text:
+暁美ほむらです。よろしくお願いします
+
+==========================
+
+見滝原中学二年生 まどか
+MM/W17-046 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】◆ SHIFT Level 1 (At the beginning of your Main Phase, you may choose 1 Green card from your Hand and this card in your Clock and exchange them.)
+【S】CONCENTRATE［①］Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose 1 of your 《魔法》 Characters, during this turn, it gets +2000 Power.
+【自】◆ シフト レベル1 (あなたのメインフェイズの始めに、あなたは自分の手札の緑のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい)
+【起】集中［①］あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+わ、わたし……呼ばれたんです。
+頭の中に直接、この子の声が
+
+==========================
+
+最高の友達 まどか＆ほむら
+MM/W17-047 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Time 時間
+Card Text/Abilities:
+【A】［①］When this card attacks, if 「わたしの、最高の友達」 is in your Climax slot, you may pay the cost. If you did, all your 《魔法》 Characters, during this turn, get +2500 Power.
+【自】［①］このカードがアタックした時、クライマックス置場に「わたしの、最高の友達」があるなら、あなたはコストを払ってよい。そうしたら、あなたの《魔法》のキャラすべてに、そのターン中、パワーを＋2500。
+Flavor Text:
+ほむら「だとしてもここは、
+かつてあの子が守ろうとした場所だった」
+
+==========================
+
+青空のまどか
+MM/W17-048 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+Flavor Text:
+それは、いつかなりたい、理想の自分でした
+
+==========================
+
+鹿目 詢子
+MM/W17-049 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【C】All your other Characters with 「まどか」 in its name, get +1000 Power.
+【永】他のあなたのカード名に「まどか」を含むキャラすべてに、パワーを＋1000。
+Flavor Text:
+女は外見で舐められたら終わりだよ？
+
+==========================
+
+孤独な戦い ほむら
+MM/W17-050 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Magic 魔法,_Time 時間
+Card Text/Abilities:
+【A】［②］When 「時間操作」 is placed into your Climax slot, you may pay the cost. If you did, during this turn, this card gains the following ability.『【C】When this card attacks, you may choose an opponent's Back Row Character, this card may Front Attack that Character instead.』
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】［②］ あなたのクライマックス置場に「時間操作」が置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードは次の能力を得る。『【永】 このカードがアタックする時、あなたはかわりに相手の後列のキャラを1枚選び、このカードはそのキャラを防御キャラとしてフロントアタックしてよい。』
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+キュゥべえ「彼女が、まだ希望を求めているからさ」
+
+==========================
+
+“舞台装置の魔女”ワルプルギスの夜
+MM/W17-051 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【S】［②］During this turn, this card gets +5000 Power.
+【起】［②］そのターン中、このカードのパワーを＋5000。
+Flavor Text:
+ほむら「この街に、ワルプルギスの夜が来る」
+
+==========================
+
+ふわふわスカート まどか
+MM/W17-052 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Magic 魔法,
+Card Text/Abilities:
+Flavor Text:
+と、とりあえず、衣装だけでも考えておこうかと思って……
+
+==========================
+
+円環の理
+MM/W17-053 U
+Type: Event
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Search your Deck for up to 1 《魔法》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+あなたは自分の山札を見て《魔法》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+あなたたちの祈りを、絶望で終わらせたりなんかしない
+
+==========================
+
+無意味な連鎖
+MM/W17-054 U
+Type: Event
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Look at up to 3 cards from the top of your opponent's Deck and choose up to 1 card, place it to the bottom of the Deck. Place the remaining cards on top of the Deck in any order.
+あなたは相手の山札を上から3枚まで見てカードを1枚まで選び、山札の下に置く。残りのカードを山札の上に好きな順番で置く。
+Flavor Text:
+まどか「……希望を持つ限り、救われないっていうの？」
+
+==========================
+
+まどかの願い
+MM/W17-055 CR
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: G
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(宝：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい)
+Flavor Text:
+わたしだって――もう絶望する必要なんて、ない
+
+==========================
+
+もう誰にも頼らない
+MM/W17-056 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: G
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(宝：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい)
+Flavor Text:
+もう誰にも頼らない。誰にわかってもらう必要もない
+
+==========================
+
+時間操作
+MM/W17-057 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+まどかとは、違う時間を生きてるんだもの
+
+==========================
+
+わたしの、最高の友達
+MM/W17-058 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: S
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Bag：When this card is Triggered, you may place the top card of your Deck into Stock)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(袋：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい)
+Flavor Text:
+それを覚えてる。けして忘れたりしない
+
+==========================
+
+クラスのみんなには、内緒だよ！
+MM/W17-059 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+キュゥべえ「彼女たちは、魔法少女」
+
+==========================
+
+夢に出てきた少女
+MM/W17-060 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, place the top card of your Deck into Stock, during this turn, all your Characters get +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+まどか「あ――暁美さん？」
+ほむら「ほむら、でいいわ」
+
+==========================
+
+好戦的 杏子
+MM/W17-061 RR
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Magic 魔法,_Sweets お菓子
+Card Text/Abilities:
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【S】［REST 1 of your 《魔法》 Characters］During this turn, this card gets +1500 Power.
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+【起】［あなたの《魔法》のキャラを1枚レストする］そのターン中、このカードのパワーを＋1500。
+Flavor Text:
+退屈すぎてもなんだしさ、ちったぁ面白みもないとねぇ
+
+==========================
+
+好戦的 杏子
+MM/W17-061 RRR
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Magic 魔法,_Sweets お菓子
+Card Text/Abilities:
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【S】［REST 1 of your 《魔法》 Characters］During this turn, this card gets +1500 Power.
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+【起】［あなたの《魔法》のキャラを1枚レストする］そのターン中、このカードのパワーを＋1500。
+Flavor Text:
+退屈すぎてもなんだしさ、ちったぁ面白みもないとねぇ
+
+==========================
+
+佐倉 杏子
+MM/W17-062 RR
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,_Sweets お菓子
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand or through 「CHANGE」, choose 1 《魔法》 Character from your Waiting Room, you may return it to Hand.
+【S】［① REST 2 of your Characters］During this turn, this card gets +2000 Power and gains the following ability. 『【A】When the Character battling this card becomes REVERSE, you may place it at the top of the Deck.』
+【自】このカードが手札から舞台に置かれた時か「 チェンジ 」で舞台に置かれた時、あなたは自分の控え室の《魔法》のキャラを1枚選び、手札に戻してよい。
+【起】［① あなたのキャラを2枚レストする］そのターン中、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】このカードのバトル相手がリバースした時、あなたはそのキャラを山札の上に置いてよい。』
+Flavor Text:
+そういうもんじゃん？
+最後に愛と勇気が勝つストーリーってのは
+
+==========================
+
+佐倉 杏子
+MM/W17-062 SP
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,_Sweets お菓子
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand or through 「CHANGE」, choose 1 《魔法》 Character from your Waiting Room, you may return it to Hand.
+【S】［① REST 2 of your Characters］During this turn, this card gets +2000 Power and gains the following ability. 『【A】When the Character battling this card becomes REVERSE, you may place it at the top of the Deck.』
+【自】このカードが手札から舞台に置かれた時か「 チェンジ 」で舞台に置かれた時、あなたは自分の控え室の《魔法》のキャラを1枚選び、手札に戻してよい。
+【起】［① あなたのキャラを2枚レストする］そのターン中、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】このカードのバトル相手がリバースした時、あなたはそのキャラを山札の上に置いてよい。』
+Flavor Text:
+そういうもんじゃん？
+最後に愛と勇気が勝つストーリーってのは
+
+==========================
+
+林檎のおすそわけ 杏子
+MM/W17-063 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Sweets お菓子
+Card Text/Abilities:
+【C】All your other 「見滝原中学二年生 さやか」 get +1000 Power.
+【A】 BOND／「見滝原中学二年生 さやか」 ［①］ (When this card is played to Stage, you may pay this cost. If you do, choose 1 「見滝原中学二年生 さやか」 from your Waiting Room, return it to Hand.
+【永】他のあなたの「見滝原中学二年生 さやか」すべてに、パワーを＋1000。
+【自】 絆／「見滝原中学二年生 さやか」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「見滝原中学二年生 さやか」を1枚選び、手札に戻す)
+Flavor Text:
+食うかい？
+
+==========================
+
+多節棍 杏子
+MM/W17-064 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Sweets お菓子
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card get +X Power. X is equals to the number of your Characters with 「SUPPORT」×500.
+【A】［②］When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《魔法》 Character from your Waiting Room, return it to Hand.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの「 応援 」を持つキャラの枚数×500に等しい。
+【自】［②］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《魔法》のキャラを１枚選び、手札に戻す。
+Flavor Text:
+何なんだアンタ？　いったい誰の味方だ？
+
+==========================
+
+利己主義者 杏子
+MM/W17-065 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Magic 魔法,_Sweets お菓子
+Card Text/Abilities:
+【A】［②］When this card attacks, if 「さやか VS 杏子」 is in your Climax slot, you may pay the cost. If you did, choose up to 2 Characters from your Waiting Room, return it to Hand.
+【自】［②］ このカードがアタックした時、クライマックス置場に「さやか VS 杏子」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを2枚まで選び、手札に戻す。
+Flavor Text:
+アンタ、タマゴ産む前のニワトリ締めてどーすんのさ
+
+==========================
+
+利己主義者 杏子
+MM/W17-065 SR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Magic 魔法,_Sweets お菓子
+Card Text/Abilities:
+【A】［②］When this card attacks, if 「さやか VS 杏子」 is in your Climax slot, you may pay the cost. If you did, choose up to 2 Characters from your Waiting Room, return it to Hand.
+【自】［②］ このカードがアタックした時、クライマックス置場に「さやか VS 杏子」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを2枚まで選び、手札に戻す。
+Flavor Text:
+アンタ、タマゴ産む前のニワトリ締めてどーすんのさ
+
+==========================
+
+吠える杏子
+MM/W17-066 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Magic 魔法,_Sweets お菓子
+Card Text/Abilities:
+【C】If you have another Character with 「さやか」 in its name, this card gets +1500 Power.
+【永】他のあなたのカード名に「さやか」を含むキャラがいるなら、このカードのパワーを＋1500。
+Flavor Text:
+テメェいったい何なんだ！？
+さやかに何をしやがったッ！？
+
+==========================
+
+吠える杏子
+MM/W17-066 SR
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Magic 魔法,_Sweets お菓子
+Card Text/Abilities:
+【C】If you have another Character with 「さやか」 in its name, this card gets +1500 Power.
+【永】他のあなたのカード名に「さやか」を含むキャラがいるなら、このカードのパワーを＋1500。
+Flavor Text:
+テメェいったい何なんだ！？
+さやかに何をしやがったッ！？
+
+==========================
+
+サポート役 キュゥべえ
+MM/W17-067 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Alien 宇宙人,_Magic 魔法
+Card Text/Abilities:
+【C】If this card is in the Front Row, your other 《魔法》 Character in the Center slot of the Front Row gains 『【A】ENCORE［Place the top card of your Deck into Clock］』.
+【永】前列にこのカードがいるなら、他のあなたの前列の中央の枠の《魔法》のキャラに、『【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］』を与える。
+Flavor Text:
+訳がわからないよ。
+どうして人間はそんなに、魂の在処にこだわるんだい？
+
+==========================
+
+過去の告白 杏子
+MM/W17-068 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Magic 魔法,_Sweets お菓子
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, if there are 3 or more Climax in your Waiting Room, place the top card of your Deck into Clock.
+【自】このカードが手札から舞台に置かれた時、あなたの控え室のクライマックスが3枚以上なら、あなたは自分の山札の上から1枚を、クロック置場に置く。
+Flavor Text:
+あたしたちは一家そろって食う物にも事欠くありさまだった
+
+==========================
+
+奇跡を願う杏子
+MM/W17-069 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Sweets お菓子
+Card Text/Abilities:
+【A】［Place 1 card from Hand into Waiting Room］When 「独りぼっちは、寂しいもんな」 is placed into your Climax slot, if this card is in the Front Row, you may pay the cost. If you did, choose 1 of your opponent's Front Row Characters with Level 2 or below, place it into Waiting Room, at the end of turn, place this card into Waiting Room.
+【自】［手札を1枚控え室に置く］あなたのクライマックス置場に「独りぼっちは、寂しいもんな」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル2以下のキャラを1枚選び、控え室に置き、ターンの終わりに、このカードを控え室に置く。
+Flavor Text:
+頼むよ、神様……こんな人生だったんだ……
+せめて一度くらい、幸せな夢を見させてよ……
+
+==========================
+
+路地裏の杏子
+MM/W17-070 U
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Magic 魔法,_Sweets お菓子
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card get +1000 Power.
+【A】CHANGE ［① Place this card into Waiting Room］At the beginning of your Draw Phase, you may pay the cost. If you did, choose 1 「佐倉 杏子」 from your Waiting Room, place it into any slot on Stage.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。
+【自】 チェンジ ［① このカードを控え室に置く］あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「佐倉 杏子」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+ちょっと話があるんだ。顔貸してくれる？
+
+==========================
+
+赤いソウルジェム 杏子
+MM/W17-071 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Magic 魔法,_Sweets お菓子
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+文句あるっての？　アンタ
+
+==========================
+
+地下鉄ホームでの別れ 杏子
+MM/W17-072 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Sweets お菓子
+Card Text/Abilities:
+【A】When this card becomes REVERSE, if this card's battle opponent is Level 0 or below, you may REVERSE that Character.
+【自】このカードがリバースした時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをリバースしてよい。
+Flavor Text:
+あんたさぁ、いつまで強情張ってるわけ？
+
+==========================
+
+新たなる魔法少女 杏子
+MM/W17-073 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Sweets お菓子
+Card Text/Abilities:
+Flavor Text:
+キュゥべえ「まさか君が来るとはね」
+
+==========================
+
+やって来た杏子
+MM/W17-074 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Magic 魔法,_Sweets お菓子
+Card Text/Abilities:
+【S】● ASSIST 1500 Level 1 ［Place this card from Hand to Waiting Room］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +1500 Power)
+【起】● 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋1500)
+Flavor Text:
+こんな絶好のナワバリ、みすみすルーキーの
+ひよっこにくれてやるってのもしゃくだよね？
+
+==========================
+
+地球外生命体 キュゥベえ
+MM/W17-075 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Alien 宇宙人,_Magic 魔法
+Card Text/Abilities:
+Flavor Text:
+まったく、人類とのコミュニケーションは本当に難しいなあ
+
+==========================
+
+槍の魔法少女 杏子
+MM/W17-076 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Magic 魔法,_Sweets お菓子
+Card Text/Abilities:
+【C】If you have 3 or more other 《魔法》 Characters, this card gets +1000 Power.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【永】他のあなたの《魔法》のキャラが3枚以上なら、このカードのパワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+フン、ウザイ奴にはウザイ仲間がいるもんだねぇ
+
+==========================
+
+杏子の覚悟
+MM/W17-077 U
+Type: Event
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+All your 《魔法》 Characters, during this turn, get +1500 Power.
+あなたの《魔法》のキャラすべてに、そのターン中、パワーを＋1500。
+Flavor Text:
+
+==========================
+
+魔法少女現る
+MM/W17-078 U
+Type: Event
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose up to 2 Characters from your Waiting Room, return to Hand, choose 1 card from your Hand, place it into Waiting Room.
+あなたは自分の控え室のキャラを2枚まで選び、手札に戻し、自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+ブッ潰しちゃえばいいんでしょ？ その子
+
+==========================
+
+さやか VS 杏子
+MM/W17-079 CR
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】 All your Characters get +1000 Power, +1 Soul.
+(Gate：When this card is Triggered, choose 1 Character from your Waiting Room, you may return it to Hand)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(扉：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい)
+Flavor Text:
+遊び半分で首突っ込まれるのってさぁ……
+ほんとムカツクんだわ
+
+==========================
+
+独りぼっちは、寂しいもんな
+MM/W17-080 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+独りぼっちは、寂しいもんな……いいよ。
+一緒にいてやるよ。さやか……
+
+==========================
+
+新人魔法少女 さやか
+MM/W17-081 RR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Love 愛
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gains 『【A】ENCORE［Place 1 Character from Hand into Waiting Room］』.
+【A】CHANGE［① Place this card into Waiting Room］At the beginning of your Draw Phase, you may pay the cost. If you did, choose 1 「虚ろな目 さやか」 from your Waiting Room, place it into this card's previous slot.
+【永】 応援 このカードの前のあなたのキャラすべてに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。
+【自】 チェンジ ［① このカードを控え室に置く］あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「虚ろな目 さやか」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+この町は、これからあたしが守る
+
+==========================
+
+新人魔法少女 さやか
+MM/W17-081 RRR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Love 愛
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gains 『【A】ENCORE［Place 1 Character from Hand into Waiting Room］』.
+【A】CHANGE［① Place this card into Waiting Room］At the beginning of your Draw Phase, you may pay the cost. If you did, choose 1 「虚ろな目 さやか」 from your Waiting Room, place it into this card's previous slot.
+【永】 応援 このカードの前のあなたのキャラすべてに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。
+【自】 チェンジ ［① このカードを控え室に置く］あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「虚ろな目 さやか」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+この町は、これからあたしが守る
+
+==========================
+
+美樹 さやか
+MM/W17-082 RR
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,_Love 愛
+Card Text/Abilities:
+【C】For each of your other 《魔法》 Characters, this card gets +500 Power.
+【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.
+【A】When this card becomes REVERSE in battle, place this card into Memory.
+【永】他のあなたの《魔法》のキャラ1枚につき、このカードのパワーを＋500。
+【自】このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】バトル中のこのカードがリバースした時、このカードを思い出にする。
+Flavor Text:
+私はね、ただ魔女と戦うだけじゃなくて、
+大切な人を守るためにこの力を望んだの
+
+==========================
+
+美樹 さやか
+MM/W17-082 SP
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,_Love 愛
+Card Text/Abilities:
+【C】For each of your other 《魔法》 Characters, this card gets +500 Power.
+【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.
+【A】When this card becomes REVERSE in battle, place this card into Memory.
+【永】他のあなたの《魔法》のキャラ1枚につき、このカードのパワーを＋500。
+【自】このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】バトル中のこのカードがリバースした時、このカードを思い出にする。
+Flavor Text:
+私はね、ただ魔女と戦うだけじゃなくて、
+大切な人を守るためにこの力を望んだの
+
+==========================
+
+人の為に戦う さやか
+MM/W17-083 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Love 愛
+Card Text/Abilities:
+【C】All your other 「吠える杏子」 Characters get +500 Power, gains 『【A】ENCORE［Place 1 Character from Hand into Waiting Room］』.
+【C】SUPPORT All your Characters in front of this card get +500 Power.
+【永】他のあなたの「吠える杏子」すべてに、パワーを＋500し、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+私は人の為に祈った事を後悔してない
+
+==========================
+
+マミへの憧れ さやか
+MM/W17-084 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Magic 魔法,_Love 愛
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, look at the top card of your Deck, place it at the top or bottom of Deck.
+【A】When this card attacks, reveal the top card of your Deck. If that card is a 《魔法》 Character, add it to Hand, choose 1 card from your Hand, place it into Waiting room.(If not, return to its original position)
+【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。
+【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《魔法》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。 （そうでないなら元に戻す）
+Flavor Text:
+さやか「やっぱマミさんってかっこいいね！」
+
+==========================
+
+癒しの祈り さやか
+MM/W17-085 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Magic 魔法,_Love 愛
+Card Text/Abilities:
+【A】When this card becomes REVERSE in battle, place the top card from your Deck into Clock, REST this card.
+【自】バトル中のこのカードがリバースした時、あなたは自分の山札の上から1枚を、クロック置き場に置き、このカードをレストする。
+Flavor Text:
+キュウべえ｢彼女は癒しの祈りを契約にして
+魔法少女になったからね｣
+
+==========================
+
+癒しの祈り さやか
+MM/W17-085 SR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Magic 魔法,_Love 愛
+Card Text/Abilities:
+【A】When this card becomes REVERSE in battle, place the top card from your Deck into Clock, REST this card.
+【自】バトル中のこのカードがリバースした時、あなたは自分の山札の上から1枚を、クロック置き場に置き、このカードをレストする。
+Flavor Text:
+キュウべえ｢彼女は癒しの祈りを契約にして
+魔法少女になったからね｣
+
+==========================
+
+虚ろな目 さやか
+MM/W17-086 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Love 愛
+Card Text/Abilities:
+【C】During your opponent's turn, all your other Characters get +1000 Power.
+【A】［① Place this card into Waiting Room］When 「あたしって、ほんとバカ」 is placed into your Climax slot, you may pay the cost. If you did, choose 1 「“人魚の魔女”」 or 「傷つきながら戦うさやか」 from your Waiting Room, place it into this card's previous slot, draw 1 card, until the end of your opponent's next turn, that Character gets +1500 Power.
+【永】相手のターン中、他のあなたのキャラすべてに、パワーを＋1000。
+【自】［① このカードを控え室に置く］あなたのクライマックス置場に「あたしって、ほんとバカ」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“人魚の魔女”」か「傷つきながら戦うさやか」を1枚選び、このカードがいた枠に置き、1枚引き、次の相手のターンの終わりまで、そのキャラのパワーを＋1500。
+Flavor Text:
+邪魔、しないで……
+
+==========================
+
+虚ろな目 さやか
+MM/W17-086 SR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Love 愛
+Card Text/Abilities:
+【C】During your opponent's turn, all your other Characters get +1000 Power.
+【A】［① Place this card into Waiting Room］When 「あたしって、ほんとバカ」 is placed into your Climax slot, you may pay the cost. If you did, choose 1 「“人魚の魔女”」 or 「傷つきながら戦うさやか」 from your Waiting Room, place it into this card's previous slot, draw 1 card, until the end of your opponent's next turn, this card gets +1500 Power.
+【永】相手のターン中、他のあなたのキャラすべてに、パワーを＋1000。
+【自】［① このカードを控え室に置く］あなたのクライマックス置場に「あたしって、ほんとバカ」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“人魚の魔女”」か「傷つきながら戦うさやか」を1枚選び、このカードがいた枠に置き、1枚引き、次の相手のターンの終わりまで、そのキャラのパワーを＋1500。
+Flavor Text:
+邪魔、しないで……
+
+==========================
+
+クラスメイト さやか
+MM/W17-087 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Magic 魔法,_Love 愛
+Card Text/Abilities:
+【C】If this card is in the Front Row, this card cannot STAND during your Stand Phase.
+【永】前列にこのカードがいるなら、このカードはあなたのスタンドフェイズにスタンドしない。
+Flavor Text:
+いやー、相変わらず、まどかのママはかっこいいなぁ
+
+==========================
+
+願いを見つけたさやか
+MM/W17-088 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Love 愛
+Card Text/Abilities:
+【A】［① Place this card into Waiting Room］When 「奇跡も、魔法も、あるんだよ」 is placed into your Climax slot, you may pay the cost. If you did, choose 1 「虚ろな目 さやか」 from your Hand, place it into this card's previous slot, choose 1 Character from your Waiting Room with Level 0 or less and 「上条」 in its name, place it into any slot on Stage.
+【自】［① このカードを控え室に置く］あなたのクライマックス置場に「奇跡も、魔法も、あるんだよ」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「虚ろな目 さやか」を1枚選び、このカードがいた枠に置き、自分の控え室からレベル0以下のカード名に「上条」を含むキャラを1枚選び、舞台の好きな枠に置く。
+Flavor Text:
+願い事、見つけたんだもの
+
+==========================
+
+正義の味方 さやか
+MM/W17-089 U
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Magic 魔法,_Love 愛
+Card Text/Abilities:
+【C】If you have 3 or more other 《魔法》 Characters, this card gets +1000 Power.
+【永】他のあなたの《魔法》のキャラが3枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+これからも見滝原市の平和は、
+この魔法少女さやかちゃんが
+ガンガン護りまくっちゃいますからね！
+
+==========================
+
+“人魚の魔女”
+MM/W17-090 U
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,_Music 音楽
+Card Text/Abilities:
+【A】［Place 1 Character from Hand into Waiting Room］When this card is placed on Stage from Hand, you may pay the cost. If you do not, place this card into Waiting Room.
+【自】［手札のキャラを1枚控え室に置く］このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしないなら、このカードを控え室に置く。
+Flavor Text:
+まどか「ねぇお願い……もとのさやかちゃんに戻って！
+わたしの大好きなさやかちゃんに戻って！」
+
+==========================
+
+対決するさやか
+MM/W17-091 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Magic 魔法,_Love 愛
+Card Text/Abilities:
+【A】 BOND／「奇跡を願う杏子」［①］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「奇跡を願う杏子」 from your Waiting Room, return to Hand)
+【自】 絆／「奇跡を願う杏子」 ［①］ (このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「奇跡を願う杏子」を1枚選び、手札に戻す)
+Flavor Text:
+魔女に襲われてる人たちを……
+あんた、見殺しにするっていうの!?
+
+==========================
+
+上条 恭介
+MM/W17-092 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+【A】When this card attacks, look at the top card of your Deck, place it at the  top or bottom of the Deck.
+【自】このカードがアタックした時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。
+Flavor Text:
+さやか「願い事って、自分の事柄じゃなきゃだめなのかな」
+
+==========================
+
+上条君の幼なじみ さやか
+MM/W17-093 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Music 音楽
+Card Text/Abilities:
+Flavor Text:
+うゎぁ
+
+==========================
+
+見滝原中学二年生 さやか
+MM/W17-094 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Magic 魔法,_Love 愛
+Card Text/Abilities:
+Flavor Text:
+……昨日の続きかよ？
+
+==========================
+
+剣の魔法少女 さやか
+MM/W17-095 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Love 愛
+Card Text/Abilities:
+【S】● ASSIST 2000 Level 1［① Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +2000 Power.)
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋2000)
+Flavor Text:
+
+==========================
+
+傷つきながら戦うさやか
+MM/W17-096 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Magic 魔法,_Love 愛
+Card Text/Abilities:
+【A】When this card becomes REVERSE in battle, place the top card of your Deck into Clock, REST this card.
+【S】［REST 1 of your 《魔法》 Characters］During this turn, this card gets +1000 Power.
+【自】バトル中のこのカードがリバースした時、あなたは自分の山札の上から1枚を、クロック置き場に置き、このカードをレストする。
+【起】［あなたの《魔法》のキャラを1枚レストする］そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+その気になれば、痛みなんて……
+完全に消しちゃえるんだぁ……
+
+==========================
+
+孵卵器
+MM/W17-097 U
+Type: Event
+Level: 2
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your 《魔法》 Characters in STAND, REST it. If you did, draw up to 2 cards, choose 1 card from Hand, place it into Waiting Room.
+あなたは自分のスタンドしている《魔法》のキャラを1枚選び、レストする。そうしたら、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+代わりはいくらでもあるけど、
+無意味に潰されるのは困るんだよね
+
+==========================
+
+さやかの願い
+MM/W17-098 U
+Type: Event
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+●Choose 1 of your Characters with 「さやか」 in its name, place it into Waiting Room. If you did, return the top card of your Clock to Hand, place this card into Memory.
+●あなたは自分のカード名に「さやか」を含むキャラを1枚選び、控え室に置く。そうしたら、あなたは自分のクロックの上から1枚を、手札に戻し、このカードを思い出にする。
+Flavor Text:
+後悔なんて、あるわけない
+
+==========================
+
+あたしって、ほんとバカ
+MM/W17-099 CR
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Book：When this card is triggered, you may draw 1 card)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(本：このカードがトリガーした時、あなたは1枚引いてよい)
+Flavor Text:
+心には恨みや妬みが溜まって、
+いちばん大切な友達さえ傷つけて……
+
+==========================
+
+奇跡も、魔法も、あるんだよ
+MM/W17-100 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+これで、トドメだぁーーッ！
+
+==========================
+
+ワルプルギスの夜に挑むほむら
+MM/W17-101 TD
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Magic 魔法,_Time 時間
+Card Text/Abilities:
+【A】When this card attacks, look up to 2 cards from the top of your Deck and choose 1, place it on top of your Deck. Place the remaining card into Waiting Room.
+【自】このカードがアタックした時、あなたは自分の山札を上から2枚まで見てカードを1枚選び、山札の上に置く。残りのカードを控え室に置く。
+Flavor Text:
+今度こそ、決着をつけてやる
+
+==========================
+
+同じ願い さやか＆杏子
+MM/W17-102 TD
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Magic 魔法,_Love 愛
+Card Text/Abilities:
+【C】During your opponent's turn, for each of your other 《魔法》 Characters, this card gets +500 Power.
+【永】相手のターン中、他のあなたの《魔法》のキャラ1枚につき、このカードのパワーを＋500。
+Flavor Text:
+
+==========================
+
+孤独な戦い ほむら
+MM/W17-103 TD
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Time 時間
+Card Text/Abilities:
+【C】If you have no other Characters, this card gets +1 Level, +1500 Power.
+【A】◆ SHIFT Level 0 (At the beginning of your Main Phase, you may choose 1 Green card from your Hand and this card in your Clock and exchange them.)
+【永】他のあなたのキャラがいないなら、このカードのレベルを＋1し、パワーを＋1500。
+【自】◆ シフト レベル0 (あなたのメインフェイズの始めに、あなたは自分の手札の緑のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい)
+Flavor Text:
+一人で十分よ
+
+==========================
+
+笑顔のさやか
+MM/W17-104 TD
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Love 愛
+Card Text/Abilities:
+【C】 ASSIST All the Characters in front of this card get +X Power. X is equals to the number of your Characters with 「ASSIST」 x500.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの「 応援 」を持つキャラの枚数×500に等しい。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+初めてにしちゃ、うまくやったでしょ？　あたし
+
+==========================
+
+平凡な少女 まどか
+MM/W17-105 TD
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【C】 ASSIST All your Characters in front of this card get +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+いいなあ、わたしも一通くらいもらってみたいなあ...ラブレター
+
+==========================
+
+ちびマミ
+MM/W17-106 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Tea お茶
+Card Text/Abilities:
+【S】● ASSIST 2000 Level 1 ［① Place this card from Hand to Waiting Room］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +1500 Power)
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000)
+Flavor Text:
+危なかったわね。でももう大丈夫
+
+==========================
+
+ちびまどか
+MM/W17-107 PR
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ (このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く)
+Flavor Text:
+私、鹿目まどか。まどかって呼んで
+
+==========================
+
+ちびほむら
+MM/W17-108 PR
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Magic 魔法,_Time 時間
+Card Text/Abilities:
+Flavor Text:
+きっともう人間じゃないから、かもね
+
+==========================
+
+ちび杏子
+MM/W17-109 PR
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Magic 魔法,_Sweets お菓子
+Card Text/Abilities:
+Flavor Text:
+いつまでもショボくれてんじゃねえぞ、ボンクラ
+
+==========================
+
+ちびさやか
+MM/W17-110 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Magic 魔法,_Love 愛
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+私はさ、なるべくして魔法少女になったわけ
+
+==========================
+
+運命に挑むまどか
+MM/W17-P01 PR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+Flavor Text:
+きっとほんの少しなら、本当の奇跡があるかもしれない。そうでしょ？
+
+==========================
+
+運命に挑むほむら
+MM/W17-P02 PR
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Magic 魔法,_Time 時間
+Card Text/Abilities:
+【S】［①］ During this turn, this card gets +2000 Power.
+【起】［①］ そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+それが、魔法少女になった者の、逃れられない運命
+
+==========================
+
+運命に挑むさやか
+MM/W17-P03 PR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand, choose 1 of your 《魔法》 Characters, during this turn, it gets +1500 Power.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+あんた達とは違う魔法少女になる。私はそう決めたんだ。
+
+==========================
+
+運命に挑むマミ
+MM/W17-P04 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Magic 魔法,_Tea お茶
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+ちょっと、悪い夢を見てただけですよ
+
+==========================
+
+運命に挑む杏子
+MM/W17-P05 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Sweets お菓子
+Card Text/Abilities:
+【A】 When this card becomes REVERSE in battle, choose 1 of your Characters, during this turn, it gets +1000 Power.
+【自】 バトル中のこのカードがリバースした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+助けられないとしたら、放っとくか？
+
+==========================
+
+水着のマミ
+MM/W17-P06 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Magic 魔法,_Tea お茶
+Card Text/Abilities:
+【A】 When this card attacks, all your characters, during this turn gets +500 power.
+【自】 このカードがアタックした時、あなたのキャラすべてに、そのターン中、パワーを＋500。
+Flavor Text:
+もう、見世物じゃないのよ
+
+==========================
+
+黒髪の少女 ほむら
+MM/W17-T01 TD
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Time 時間
+Card Text/Abilities:
+Flavor Text:
+暁美ほむらです。よろしくお願いします
+
+==========================
+
+保健係 まどか
+MM/W17-T02 TD
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】［①］When this card attacks, if 「夢に出てきた少女」 is in your Climax Slot, you may pay the cost. If you do, choose 1 Character from your Clock, return it to Hand, place the top card of your Deck into Clock.
+【自】［①］このカードがアタックした時、クライマックス置場に「夢に出てきた少女」があるなら、あなたはコストを払ってよい。そうしたらあなたは自分のクロック置場のキャラを1枚選び、手札に戻し、自分の山札から上から1枚を、クロック置場に置
+Flavor Text:
+ほむら「鹿目、まどかさん。
+あなたが、このクラスの保健係よね？」
+
+==========================
+
+青空のまどか
+MM/W17-T03 TD
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+Flavor Text:
+それは、いつかなりたい、理想の自分でした
+
+==========================
+
+鹿目 まどか
+MM/W17-T04 TD
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【C】When you have 3 or more other 《魔法》 Characters, this card gets +1000 Power.
+【A】When this card is placed on Stage from Hand, during this turn, all your Characters get +2000 Power.
+【S】［①］During this turn, this card gets +2000 Power.
+【永】他のあなたの《魔法》のキャラが3枚以上なら、このカードのパワーを＋1000。
+【自】このカードが手札から舞台に置かれたとき、あなたのキャラすべてに、そのターン中、パワーを＋2000。
+【起】［①］そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+だから魔法少女になって本当に良かったって、そう思うんだ
+
+==========================
+
+暁美 ほむら
+MM/W17-T05 TD
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,_Time 時間
+Card Text/Abilities:
+【C】When your Stock is 4 or less, this card gets +500 Power and gains 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』.
+【C】The Character facing this card gets -1 Soul.
+【永】あなたのストックが4枚以下なら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。
+【永】このカードの正面のキャラのソウルを－1。
+Flavor Text:
+私は冷静な人の味方で、無駄な争いをする馬鹿の敵
+
+==========================
+
+円環の理
+MM/W17-T06 TD
+Type: Event
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Search your Deck for up to 1 《魔法》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+あなたは自分の山札を見て《魔法》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+あなたたちの祈りを、絶望で終わらせたりなんかしない
+
+==========================
+
+もう誰にも頼らない
+MM/W17-T07 TD
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: G
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)
+【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+(宝：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい)
+Flavor Text:
+――もう誰にも頼らない。誰にわかってもらう必要もない
+
+==========================
+
+夢に出てきた少女
+MM/W17-T08 TD
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, place the top card of your Deck into Stock, during this turn, all your Characters get +1 Soul.
+【自】このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+まどか「あ――暁美さん？」
+ほむら「ほむら、でいいわ」
+
+==========================
+
+上条 恭介
+MM/W17-T09 TD
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+【A】When this card attacks, look at the top card of your Deck, place it at the  top or bottom of the Deck.
+【自】このカードがアタックした時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。
+Flavor Text:
+さやか「願い事って、自分の事柄じゃなきゃだめなのかな」
+
+==========================
+
+上条君の幼なじみ さやか
+MM/W17-T10 TD
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Music 音楽
+Card Text/Abilities:
+Flavor Text:
+うゎぁ
+
+==========================
+
+見滝原中学二年生 さやか
+MM/W17-T11 TD
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Magic 魔法,_Love 愛
+Card Text/Abilities:
+Flavor Text:
+……昨日の続きかよ？
+
+==========================
+
+剣の魔法少女 さやか
+MM/W17-T12 TD
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Love 愛
+Card Text/Abilities:
+【S】● ASSIST 2000 Level 1［① Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +2000 Power.)
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋2000)
+Flavor Text:
+
+==========================
+
+正義の味方 さやか
+MM/W17-T13 TD
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Magic 魔法,_Love 愛
+Card Text/Abilities:
+【C】If you have 3 or more other 《魔法》 Characters, this card gets +1000 Power.
+【永】他のあなたの《魔法》のキャラが3枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+これからも見滝原市の平和は、
+この魔法少女さやかちゃんが
+ガンガン護りまくっちゃいますからね！
+
+==========================
+
+奇跡も、魔法も、あるんだよ
+MM/W17-T14 TD
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+これで、トドメだぁーーッ！
+
+==========================
+

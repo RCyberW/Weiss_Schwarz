@@ -1,0 +1,2737 @@
+雪風のタバサ
+ZM/W03-001SP SP
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Magic 魔法,_Glasses メガネ
+Card Text/Abilities:
+【C】 During your turn, this card gets +2000 power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【永】 あなたのターン中、このカードのパワーを＋2000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+行かせない…
+
+==========================
+
+雪風のタバサ
+ZM/W03-001 RR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Magic 魔法,_Glasses メガネ
+Card Text/Abilities:
+【C】 During your turn, this card gets +2000 power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【永】 あなたのターン中、このカードのパワーを＋2000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+話しても…ムダ
+
+==========================
+
+メイド服のルイズ
+ZM/W03-002S SR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Magic 魔法,_Maid メイド
+Card Text/Abilities:
+【A】 When this card attacks, if you have 「契約」 in your climax slot, choose 1 of your opponent's character, return it to hand.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【自】 このカードがアタックした時、クライマックス置場に「契約」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+ルルル…ルイズなのです
+
+==========================
+
+メイド服のルイズ
+ZM/W03-002 RR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Magic 魔法,_Maid メイド
+Card Text/Abilities:
+【A】 When this card attacks, if you have 「契約」 in your climax slot, choose 1 of your opponent's character, return it to hand.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【自】 このカードがアタックした時、クライマックス置場に「契約」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+見てなさいよ私が本気出せばすごいんだから
+
+==========================
+
+“平民の使い魔”サイト
+ZM/W03-003 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Familiar 使い魔,_Weapon 武器
+Card Text/Abilities:
+【C】 All your other 「メイド服のルイズ」 gets +1000 power.
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【永】 他のあなたの「メイド服のルイズ」すべてに、パワーを＋1000。
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+サイト「嬉しいような腹立つような…」
+
+==========================
+
+ジュリオ・チェザーレ
+ZM/W03-004 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Familiar 使い魔,_Odd Eye オッドアイ
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +1 Soul.
+【S】［(1) Put this card to REST］ Choose one of your 《動物》 or 《竜》 character, during this turn, it gets +1 soul.
+【永】 応援 このカードの前のあなたのレベル1以上のキャラすべてに、ソウルを＋1。
+【起】［(1) このカードを【レスト】する］ あなたは自分の、《動物》か《竜》のキャラを１枚選び、そのターン中、ソウルを＋1。
+Flavor Text:
+フ…勝ち負けには興味ないんでね
+
+==========================
+
+ルイズ＆シエスタ
+ZM/W03-005R RRR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Magic 魔法,_Maid メイド
+Card Text/Abilities:
+【S】● ASSIST 1500 Level 1 ［Discard this card from hand to Waiting Room］ (Choose 1 character that is being Front Attacked, during this turn, it gets +1500 Power.)
+【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）
+Flavor Text:
+
+==========================
+
+ルイズ＆シエスタ
+ZM/W03-005S SR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Magic 魔法,_Maid メイド
+Card Text/Abilities:
+【S】● ASSIST 1500 Level 1 ［Discard this card from hand to Waiting Room］ (Choose 1 character that is being Front Attacked, during this turn, it gets +1500 Power.)
+【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）
+Flavor Text:
+
+==========================
+
+ルイズ＆シエスタ
+ZM/W03-005 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Magic 魔法,_Maid メイド
+Card Text/Abilities:
+【S】● ASSIST 1500 Level 1 ［Discard this card from hand to Waiting Room］ (Choose 1 character that is being Front Attacked, during this turn, it gets +1500 Power.)
+【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）
+Flavor Text:
+打倒！ティファニアっ！！
+
+==========================
+
+サイト＆シエスタ
+ZM/W03-006 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Familiar 使い魔,_Maid メイド
+Card Text/Abilities:
+Flavor Text:
+シエスタ「サイトさんのおかげで、私これからもガンバれます」
+
+==========================
+
+シルフィード
+ZM/W03-007 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Familiar 使い魔,_Dragon 竜
+Card Text/Abilities:
+【C】 All your other character named 「タバサ」 or 「シャルロット」gets +500 power.
+【A】 BOND／「シャルロット・エレーヌ・オルレアン」［①］(When you play this card to Stage, you may pay this cost. If you do, choose 1 「シャルロット・エレーヌ・オルレアン」 from your Waiting Room, put it into your hand)
+【永】 他のあなたのカード名に「タバサ」か「シャルロット」を含むキャラすべてに、パワーを＋500。
+【自】 絆／「シャルロット・エレーヌ・オルレアン」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「シャルロット・エレーヌ・オルレアン」を1枚選び、手札に戻す）
+Flavor Text:
+
+==========================
+
+ヴァリエール公爵夫人
+ZM/W03-008 U
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+Flavor Text:
+この子は本当にいくつになっても心配をかけて…
+
+==========================
+
+シャルロット・エレーヌ・オルレアン
+ZM/W03-009 U
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Magic 魔法,_Royal Family 王族
+Card Text/Abilities:
+【C】 BODYGUARD(When your opponent attack, If this card is not reverse and is in the front row center stage,opponent will front attack this character instead)
+【C】When this card attacks, if your have 「タバサの秘密」 in your climax slot, choose 1 of your opponent's character, return it to hand.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【永】 大活躍
+【自】 このカードがアタックした時、クライマックス置場に「タバサの秘密」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+ペルスラン「ですが、お嬢様は
+この理不尽な命令を、すべて完遂させました」
+
+==========================
+
+黒ネコのルイズ
+ZM/W03-010 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Magic 魔法,_Void 虚無
+Card Text/Abilities:
+【S】 CONCENTRATION ［(1) Put this card to REST］ Place the top 4 cards of your Deck into Waiting Room. For each climax in those cards, search your deck up to 1 《使い魔》 character, show it to your opponent. Shuffle your deck
+【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《使い魔》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+きょ、きょ、きょ、
+今日はあなたが御主人様にゃんにゃん
+
+==========================
+
+竜使い タバサ
+ZM/W03-011 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+【C】 ALARM If this card is at the top of your clock,if you are level 2 or above, all your yellow character gets +1 soul.
+【A】 When this card battling get REVERSED, you may place this card to your clock.
+【永】 アラーム このカードがクロックの１番上にあり、あなたのレベルが2以上なら、あなたの黄のキャラすべてに、ソウルを＋1。
+【自】 バトルしているこのカードが【リバース】した時、あなたはこのカードをクロック置場に置いてよい。
+Flavor Text:
+知らない
+
+==========================
+
+“ゼロの使い魔”サイト
+ZM/W03-012 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Familiar 使い魔,_Weapon 武器
+Card Text/Abilities:
+【A】 When you use CONCENTRATE, if there is climax in those card, during this turn, this card gets +3000.
+【自】 あなたが『集中』を使った時、その効果でクライマックスが控え室に置かれたなら、そのターン中、このカードのパワーを＋3000。
+Flavor Text:
+くそっ、無駄にヒラヒラしてて洗いにくいったら…
+
+==========================
+
+ゼロのルイズ
+ZM/W03-013 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Void 虚無
+Card Text/Abilities:
+【S】 CONCENTRATE ［(1) Put this card to rest ］Place the top 2 cards of your deck into the waiting room. For each climax in those cards, all your character, during this turn, this card gets +2000 Power and +1 soul.
+【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から2枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたのキャラすべてに、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+私、召喚魔法、サモン・サーヴァントだけは
+自信があるの！
+
+==========================
+
+無口なタバサ
+ZM/W03-014 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Glasses メガネ
+Card Text/Abilities:
+Flavor Text:
+……
+
+==========================
+
+タバサ＆イルククゥ
+ZM/W03-015 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+【C】 During this card's battle, opponent cannot play event card.
+【A】 When your character trigger check a climax, choose one of your character, during this turn, it gets +1 soul.
+【永】 このカードのバトル中、相手はイベントを手札からプレイできない。
+【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。
+Flavor Text:
+イルククゥ「お姉さま、何を読んでるの？」
+
+==========================
+
+ウェールズ・テューダー
+ZM/W03-016 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Magic 魔法,_Royal Family 王族
+Card Text/Abilities:
+【S】［(4)］ Choose 1 of your opponent's Front Row Level 2 or below character, return it to hand.
+【起】［(4)］ あなたは相手の前列のレベル2以下のキャラを1枚選び、手札に戻す。
+Flavor Text:
+その代償が我が命であろうとも、だ
+
+==========================
+
+閃光のワルド
+ZM/W03-017 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【A】 When you use CONCENTRATE, if there is climax place in to your waiting room, during this turn, this card gets +3000.
+【A】 When this card attacks. if your have 「手合わせ」 in your climax, choose 1 of your opponent's character, return it to hand.
+【自】 あなたが『集中』を使った時、その効果でクライマックスが控え室に置かれたなら、そのターン中、このカードのパワーを＋3000。
+【自】 このカードがアタックした時、クライマックス置場に「手合わせ」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。
+Flavor Text:
+僕は魔法衛士隊の隊長で終わるつもりはない！
+
+==========================
+
+ディスペル・マジック
+ZM/W03-018 R
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+CONCENTRATION  Place the top 3 cards of your Deck into Waiting Room. If there is climax in those cards, Opponent choose 2 of his hand cards and discard it to waiting room.
+集中 あなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードにクライマックスがあるなら、相手は自分の手札を2枚選び、控え室に置く。
+Flavor Text:
+デルフリンガー「そいつだ！解除だよ！」
+
+==========================
+
+軍事教練
+ZM/W03-019 U
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+CONCENTRATION Choose 2 of your character, during this turn, it gets +2000 power. Place the top 3 cards of your Deck into Waiting Room. If there is climax in those cards, choose up to 2 of your characters, during this turn, it gets +1 soul.
+集中 あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋2000。あなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分のキャラを2枚まで選び、そのターン中、ソウルを＋1。
+Flavor Text:
+ジュリオ「ダメダメそんな突き方じゃね」
+
+==========================
+
+竜の羽衣
+ZM/W03-020 U
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your opponents level 2 or below character, place it on to the stock.
+あなたは相手のレベル2以下のキャラを1枚選び、ストック置場に置く。
+Flavor Text:
+サイト「まちがいねえ…ゼロ戦だ…」
+
+==========================
+
+使い魔品評会
+ZM/W03-021 C
+Type: Event
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+●Choose 1 of your character, during this turn, it gets +1500 power. Choose 1 of your 《使い魔》 character, during this turn, it gets +1500 power.
+【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。あなたは自分の《使い魔》のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+コルベール「ただいまより、本年度の
+使い魔おひろめをとりおこないます」
+
+==========================
+
+ヘキサゴン・マジック
+ZM/W03-022 C
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+If your have yellow 《王族》 character, all your character, during this turn +1 soul.
+If you have blue 《王族》 character, draw 1 card.
+あなたの黄の《王族》のキャラがいるなら、あなたのキャラすべてに、そのターン中、ソウルを＋1。
+あなたの青の《王族》のキャラがいるなら、あなたは1枚引く。
+Flavor Text:
+ウェールズ「水のトライアングルには風のトライアングルを！」
+
+==========================
+
+契約
+ZM/W03-023 CR
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get ＋2 Soul.
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+ルイズ「五つの力を司るペンタゴン。
+この者に祝福を与え 我の使い魔となせ！」
+
+==========================
+
+タバサの秘密
+ZM/W03-024 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+(Wind：When this card is Triggered, you may choose 1 of opponent's Characters, return to his/her hand)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（戻＠：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）
+Flavor Text:
+ペルスラン「王家は、困難な生還不可能と言われるような仕事を言いつけるようになったのです」
+
+==========================
+
+手合わせ
+ZM/W03-025 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+Flavor Text:
+君ではルイズを守れない
+
+==========================
+
+ハーフエルフ ティファニア
+ZM/W03-026R RRR
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Void 虚無
+Card Text/Abilities:
+【C】 ALARM If this card is at the top of your clock, all your green character gets +1000 power.
+【A】 When this card battling get REVERSED, you may place this card to your clock.
+【永】 アラーム このカードがクロックの１番上にあるなら、あなたの緑のキャラすべてに、パワーを＋1000。
+【自】 バトルしているこのカードが【リバース】した時、あなたはこのカードをクロック置場に置いてよい。
+Flavor Text:
+サイト「こ、これはまさに…バストレヴォリューション！！」
+
+==========================
+
+ハーフエルフ ティファニア
+ZM/W03-026 RR
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Void 虚無
+Card Text/Abilities:
+【C】 ALARM If this card is at the top of your clock, all your green character gets +1000 power.
+【A】 When this card battling get REVERSED, you may place this card to your clock.
+【永】 アラーム このカードがクロックの１番上にあるなら、あなたの緑のキャラすべてに、パワーを＋1000。
+【自】 バトルしているこのカードが【リバース】した時、あなたはこのカードをクロック置場に置いてよい。
+Flavor Text:
+ルイズ「な、なにあれ…」
+シエスタ「たぶん…む、胸……」
+
+==========================
+
+カトレア・イヴェット・ラ・ボーム・ル・ ブラン・ド・ラ・フォンティーヌ
+ZM/W03-027 RR
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Magic 魔法,_Animal 動物
+Card Text/Abilities:
+【A】 When this card attacks, if 「動物合唱隊」 is in your climax slot, place the top card of your deck onto your stock, during this turn, this card gets +3000 power.
+【A】 When your character trigger check a climax, you may place the top card of your deck onto your stock.
+【自】 このカードがアタックした時、クライマックス置場に「動物合唱隊」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋3000。
+【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。
+Flavor Text:
+あなたとルイズに始祖のご加護がありますように
+
+==========================
+
+スカロン
+ZM/W03-028 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Occult オカルト,_Transvestite オカマ
+Card Text/Abilities:
+【C】 All your other 《メイド》 or 《ウェイトレス》character gets +500 power.
+【S】［Put this card to REST］ All your other 《メイド》 or 《ウェイトレス》character, during this turn gets +500 power.
+【永】 他のあなたの、《メイド》と《ウェイトレス》のキャラすべてに、パワーを＋500。
+【起】［このカードを【レスト】する］ 他のあなたの、《メイド》と《ウェイトレス》のキャラすべてに、そのターン中、パワーを＋500。
+Flavor Text:
+スカロン「遂にわたしの美しさが世間に認められたのよ！」
+
+==========================
+
+次女 カトレア
+ZM/W03-029S SR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Animal 動物
+Card Text/Abilities:
+【C】 All your other character named 「ルイズ」 gets +500 power.
+【S】［(1) Put this card to REST］  Choose 1 of your 《虚無》 character and STAND it.
+【永】 他のあなたのカード名に「ルイズ」を含むキャラすべてに、パワーを＋500。
+【起】［(1) このカードを【レスト】する］ あなたは自分の《虚無》のキャラを１枚選び、【スタンド】する。
+Flavor Text:
+カトレア「…誰かのことを考えていたの？」
+
+==========================
+
+次女 カトレア
+ZM/W03-029 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Animal 動物
+Card Text/Abilities:
+【C】 All your other character named 「ルイズ」 gets +500 power.
+【S】［(1) Put this card to REST］  Choose 1 of your 《虚無》 character and STAND it.
+【永】 他のあなたのカード名に「ルイズ」を含むキャラすべてに、パワーを＋500。
+【起】［(1) このカードを【レスト】する］ あなたは自分の《虚無》のキャラを１枚選び、【スタンド】する。
+Flavor Text:
+カトレア「…お帰りなさい　小さなルイズ」
+
+==========================
+
+水着のシエスタ
+ZM/W03-030S SR
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Maid メイド,_Swimsuit 水着
+Card Text/Abilities:
+【C】 SUPPORT All your Level 2 and above Characters in front of this card gets +1000 Power.
+【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。
+Flavor Text:
+シエスタ「どう見ても私の方が勝っているところだってあるし！」
+
+==========================
+
+水着のシエスタ
+ZM/W03-030 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Maid メイド,_Swimsuit 水着
+Card Text/Abilities:
+【C】 SUPPORT All your Level 2 and above Characters in front of this card gets +1000 Power.
+【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。
+Flavor Text:
+シエスタ「女としての魅力でミスヴァリエールに勝ってみせるわ！」
+
+==========================
+
+エレオノール＆カトレア
+ZM/W03-031R RRR
+Type: Character
+Level: 1
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Magic 魔法,_Animal 動物
+Card Text/Abilities:
+Flavor Text:
+エレオノール「お姉様たちがいてくれればでしょ！」
+
+==========================
+
+エレオノール＆カトレア
+ZM/W03-031 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Magic 魔法,_Animal 動物
+Card Text/Abilities:
+Flavor Text:
+カトレア「あなたが可愛いのよ、可愛くて心配なの」
+
+==========================
+
+ティファニア・ウエストウッド
+ZM/W03-032 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 1
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Void 虚無
+Card Text/Abilities:
+【A】 When your deck refresh, you may choose to place this card onto your stock.
+【S】 CONCENTRATION ［(1) Put this card to REST］ Place the top 4 cards of your deck into the waiting room. For each climax in those cards, all your character during this turn gets +2000 power.
+【自】 あなたが山札をリフレッシュした時、このカードをストック置場に置いてよい。
+【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分のキャラすべてに、そのターン中、パワーを＋2000。
+Flavor Text:
+わたし……、みんなと仲良くしたいの！
+
+==========================
+
+“ちい姉さま”カトレア
+ZM/W03-033 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Magic 魔法,_Animal 動物
+Card Text/Abilities:
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+愛しているから、ルイズのことが何でもわかっちゃうの
+
+==========================
+
+オールド・オスマン
+ZM/W03-034 U
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Teacher 先生
+Card Text/Abilities:
+【S】● ASSIST 3000 Level 2 ［① Discard this card from hand to Waiting Room］ (Choose 1 character that is being Front Attacked, during this turn, it gets +3000 Power.)
+【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）
+Flavor Text:
+人質が欲しいのだろう？
+この私でがまんしてくれないか
+
+==========================
+
+ルイズ＆カトレア
+ZM/W03-035 U
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Magic 魔法,_Void 虚無
+Card Text/Abilities:
+Flavor Text:
+エレオノール「…どうしても
+ルイズのそばにいたいっていうものだから」
+
+==========================
+
+シエスタ
+ZM/W03-036 U
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Maid メイド,
+Card Text/Abilities:
+【C】 BODYGUARD(When your opponent attack, If this card is not reverse and is in the front row center stage,opponent will front attack this character instead)
+【A】 When this card attacks, if you have 「二人でお風呂」 in your climax slot, place the top card of your deck onto your stock, during this turn, this card gets +3000 power.
+【S】［(4)］ All your characters, during this turn, gets +3000 power.
+【永】 大活躍
+【自】 このカードがアタックした時、クライマックス置場に「二人でお風呂」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋3000。
+【起】［(4)］ あなたは自分のキャラすべてに、そのターン中、パワーを＋3000。
+Flavor Text:
+サイトさんも頑張って下さいね！
+
+==========================
+
+ヴェルダンデ
+ZM/W03-037 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Familiar 使い魔,_Animal 動物
+Card Text/Abilities:
+【A】 BOND／「青銅のギーシュ」［①］(When you play this card to Stage, you may pay this cost. If you do, choose 1 「青銅のギーシュ」 from your Waiting Room, put it into your hand)
+【自】 絆／「青銅のギーシュ」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「青銅のギーシュ」を1枚選び、手札に戻す）
+Flavor Text:
+この知的な瞳 官能的な触り心地、まさに僕の使い魔になるべくしてなった…
+
+==========================
+
+ジェシカ
+ZM/W03-038 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Waitress ウェイトレ,
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+なっ！！
+
+==========================
+
+ルイズ＆ティファニア
+ZM/W03-039 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Void 虚無
+Card Text/Abilities:
+Flavor Text:
+ルイズ「あんたがティファニア…森の妖精さんっていうワケ？」
+
+==========================
+
+青銅のギーシュ
+ZM/W03-040 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 4500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】 When this card is play from hand, choose 1 opponent's character, during this turn, it gets -500 power.
+【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚選び、そのターン中、パワーを-500。
+Flavor Text:
+僕は君の瞳に嘘はつかないよ
+
+==========================
+
+ミシェル
+ZM/W03-041 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【S】［(1) Place this card to waiting room］ All the cards at your clock, arrange it in any order on the clock.
+【S】 CONCENTRATION ［(1) Put this card to REST］ Place the top 2 cards of your deck into the waiting room. For each climax in those cards, choose  1 of your opponent's Front Row character, during this turn, it gets -6000 power.
+【起】［(1) このカードを控え室に置く］ あなたは自分のクロックすべてを、クロック置場に好きな順番で並べ直す。
+【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から2枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを-6000。
+Flavor Text:
+お前がいては足手まといだ。私の邪魔をするな
+
+==========================
+
+土くれのフーケ
+ZM/W03-042 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】 When this card attacks, if your have 「ゴーレム」 in your climax slot, place the top card of your deck onto your stock, during this turn, this card gets +3000 power.
+【S】［(1)］ Choose 1 of your opponent's Front Row character, during this turn, it gets -1000 power.
+【自】 このカードがアタックした時、クライマックス置場に「ゴーレム」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋3000。
+【起】［(1)］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを-1000。
+Flavor Text:
+破壊の杖…ぶっそうな名前ですこと
+
+==========================
+
+ルイズのアルバイト
+ZM/W03-043 R
+Type: Event
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose one 《メイド》 or 《ウェイトレス》 character from your clock, return it to hand. Place this card to your clock on the previous slot. Place the top card of your deck onto your stock.
+あなたは自分のクロック置場の、《メイド》か《ウェイトレス》のキャラを1枚まで選び、手札に戻す。このカードをクロック置場に置く。あなたは自分の山札の上から1枚を、ストック置場に置く。
+Flavor Text:
+ふざけないで！！
+
+==========================
+
+お仕置き
+ZM/W03-044 U
+Type: Event
+Level: 2
+Color: Green
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+CONCENTRATION Place the top 3 cards of your Deck into Waiting Room. If there is climax in those card, choose 1 of your opponent's Front Row characters, during this turn, it gets -7000 power.
+集中 あなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードにクライマックスがあるなら、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを-7000。
+Flavor Text:
+この……バカ犬～！！
+
+==========================
+
+魅惑の妖精のビスチェ
+ZM/W03-045 U
+Type: Event
+Level: 2
+Color: Green
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your character and STAND it. All your 《メイド》 or 《ウェイトレス》, during this turn gets +1000 power.
+あなたは自分のキャラを1枚選び、【スタンド】する。あなたの、《メイド》と《ウェイトレス》のキャラすべてに、そのターン中、パワーを＋1000。
+Flavor Text:
+せ…せっかくだから、借りてみたの。
+だ、だって…もったいないでしょ？
+
+==========================
+
+メドゥーサの眼鏡
+ZM/W03-046 C
+Type: Event
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Look up to 4 cards at your opponent's top deck, arrange it at any order and place to on top the deck.
+あなたは相手の山札を上から4枚まで見て、山札の上に好きな順番で置く。
+Flavor Text:
+あれ？　は、はずれね～！
+
+==========================
+
+サイトの意地
+ZM/W03-047 C
+Type: Event
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+● CONCENTRATION Choose 1 of your character, during this turn, it gets +2000 power. Place the top 3 cards of your Deck into Waiting Room. If there is climax in those card, choose one of your character, during this turn, it gets +2000 power.
+【カウンター】 集中 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。あなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+ちょっくら…七万の敵とやらに会ってくる
+
+==========================
+
+動物合唱隊
+ZM/W03-048 CR
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+Flavor Text:
+みんなは仲良しさんなのね
+
+==========================
+
+二人でお風呂
+ZM/W03-049 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: S
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Bag：When this card is Triggered, you may take the top card of your deck, put to Stock.)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（溜＠：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい）
+Flavor Text:
+シエスタ「サイトさんは変なことする人じゃないって、分かってますから」
+
+==========================
+
+ゴーレム
+ZM/W03-050 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get ＋2 Soul.
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+フーケ「行けッ！　ゴーレム」
+
+==========================
+
+微熱のキュルケ
+ZM/W03-051SP SP
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【A】 When your character trigger check climax, choose 1 card from your opponent's waiting room, place it on top of the deck.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは相手の控え室のカードを1枚選び、山札の上に置いてよい。
+Flavor Text:
+ごめんあそばせ～
+
+==========================
+
+微熱のキュルケ
+ZM/W03-051 RR
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【A】 When your character trigger check climax, choose 1 card from your opponent's waiting room, place it on top of the deck.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは相手の控え室のカードを1枚選び、山札の上に置いてよい。
+Flavor Text:
+うふふ、今夜は微熱じゃすまなそう…
+
+==========================
+
+“ガンダールヴ”サイト
+ZM/W03-052 RR
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Familiar 使い魔,_Weapon 武器
+Card Text/Abilities:
+【C】 All your other character named 「ルイズ」 gets +2000 power.
+【A】［(1)］ When this card attacks if there is 「伝説の使い魔」 in your climax slot, you may pay the cost, if you did, choose 1 character from your waiting room, return it to hand.
+【永】 他のあなたのカード名に「ルイズ」を含むキャラがいるなら、このカードのパワーを＋2000。
+【自】［(1)］ このカードがアタックした時、クライマックス置場に「伝説の使い魔」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+俺、手加減とかできませんよ？
+
+==========================
+
+虚無のルイズ
+ZM/W03-053R SR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Void 虚無
+Card Text/Abilities:
+【S】 CONCENTRATION ［(1) Put this card to REST］ Place the top 2 cards of your Deck into Waiting Room. For each climax in those cards, choose 2 character from your waiting room, return it to hand.
+【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から2枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを2枚まで選び、手札に戻す。
+Flavor Text:
+ゼロのルイズなんかじゃないんだから！
+
+==========================
+
+虚無のルイズ
+ZM/W03-053SP SP
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Void 虚無
+Card Text/Abilities:
+【S】 CONCENTRATION ［(1) Put this card to REST］ Place the top 2 cards of your Deck into Waiting Room. For each climax in those cards, choose 2 character from your waiting room, return it to hand.
+【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から2枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを2枚まで選び、手札に戻す。
+Flavor Text:
+私の使い魔は…あんたしかいないんだからーっ！！
+
+==========================
+
+虚無のルイズ
+ZM/W03-053 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Void 虚無
+Card Text/Abilities:
+【S】 CONCENTRATION ［(1) Put this card to REST］ Place the top 2 cards of your Deck into Waiting Room. For each climax in those cards, choose 2 character from your waiting room, return it to hand.
+【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から2枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを2枚まで選び、手札に戻す。
+Flavor Text:
+胃が痛くなるほど悩んだけど、
+あきらめてあなたを使い魔にすることにしたわ
+
+==========================
+
+サイト＆デルフリンガー
+ZM/W03-054 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Familiar 使い魔,_Weapon 武器
+Card Text/Abilities:
+【C】 All your other 「ウェディングドレスのルイズ」 gets +1000 power.
+【S】● ASSIST 1500 Level 1 ［Discard this card from hand to Waiting Room］ (Choose 1 character that is being Front Attacked, during this turn, it gets +1500 Power.)
+【永】 他のあなたの「ウェディングドレスのルイズ」すべてに、パワーを＋1000。
+【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）
+Flavor Text:
+デルフリンガー「そうだ！　戦うのは俺じゃねえ！
+お前の心の震えが俺を振るんだ！！」
+
+==========================
+
+キュルケ＆タバサ
+ZM/W03-055S R
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+Flavor Text:
+「タバサ！出かけるわよ！仕度をして！」
+
+==========================
+
+キュルケ＆タバサ
+ZM/W03-055 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Magic 魔法,_Book 本
+Card Text/Abilities:
+Flavor Text:
+タバサ「危険…」
+キュルケ「だから一緒に行くの」
+
+==========================
+
+犬猿の仲 ルイズ＆キュルケ
+ZM/W03-056 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 6000
+Soul: 2
+Traits:: Magic 魔法,_Void 虚無
+Card Text/Abilities:
+【A】When this card becomes REVERSE, if this card battles the character is Level 2 or below, put that character to REVERSE.
+【自】 このカードが【リバース】した時、このカードとバトルしているキャラのレベルが2以下なら、あなたはそのキャラを【リバース】してよい。
+Flavor Text:
+キュルケ「笑わせないでよゼロのルイズ！」
+
+==========================
+
+キュルケ・アウグスタ・フレデリカ・ フォン・アンハルツ・ツェルプストー
+ZM/W03-057 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【S】［(1) Place this card to waiting room］ Choose 1 card from opponent's waiting room, place it onto the top deck.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】［(1) このカードを控え室に置く］ あなたは相手の控え室のカードを1枚選び、山札の上に置く。
+Flavor Text:
+微熱のキュルケの名にふさわしい結果ですわ
+
+==========================
+
+燠火のケティ
+ZM/W03-058 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】 When you use CONCENTRATION, if there is climax in those card, during this turn, this card gets +2000 power.
+【自】 あなたが『集中』を使った時、その効果でクライマックスが控え室に置かれなかったなら、そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+ひどいですわ！　私だけって仰ってましたのに！
+
+==========================
+
+伝説の剣 デルフリンガー
+ZM/W03-059 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 3000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【C】 All your other 《武器》 gets +500 power.
+【S】 CONCENTRATION ［(1) Put this card to REST］ Place the top 4 cards of your deck into the waiting room. Deal your opponent X damage. X is equal to the number of climax placed into the Waiting Room in this way.
+【永】 他のあなたの《武器》のキャラすべてに、パワーを＋500。
+【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。あなたは相手にＸダメージを与える。Ｘはそれらのカードのクライマックスの枚数に等しい。（ダメージキャンセルは発生する）
+Flavor Text:
+ワゴンセールの投げ売り品かよ
+
+==========================
+
+ルイズ＆サイト
+ZM/W03-060 U
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Magic 魔法,_Familiar 使い魔
+Card Text/Abilities:
+Flavor Text:
+サイト「俺がお前の全存在を肯定してやる」
+
+==========================
+
+水着のルイズ
+ZM/W03-061 U
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Magic 魔法,_Swimsuit 水着
+Card Text/Abilities:
+【C】 BODYGUARD(When your opponent attack, If this card is not reverse and is in the front row center stage,opponent will front attack this character instead)
+【A】 When you use CONCENTRATION, if there is climax in those card, during this turn, this card gets +2000 power.
+【A】ENCORE [Discard 1 《使い魔》 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【永】 大活躍
+【自】 あなたが『集中』を使った時、その効果でクライマックスが控え室に置かれなかったなら、そのターン中、このカードのパワーを＋2000。
+【自】 アンコール ［あなたの《使い魔》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+こ…これからはあんたも、私だけを見るようにしなさい！
+
+==========================
+
+平賀 才人
+ZM/W03-062 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Familiar 使い魔,
+Card Text/Abilities:
+【A】 BOND／「水着のルイズ」［①］(When you play this card to Stage, you may pay this cost. If you do, choose 1 「水着のルイズ」 from your Waiting Room, put it into your hand)
+【自】 絆／「水着のルイズ」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「水着のルイズ」を1枚選び、手札に戻す）
+Flavor Text:
+ルイズ「あんた…誰？」
+
+==========================
+
+乙女モードのサイト
+ZM/W03-063 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Familiar 使い魔,_Maid メイド
+Card Text/Abilities:
+【C】 All your other 《メイド》 character gets +500 power.
+【S】［Put this card to REST］ Choose 1 of your 《武器》 character, during this turn, it gets +1000 power.
+【永】 他のあなたの《メイド》のキャラすべてに、パワーを＋500。
+【起】［このカードを【レスト】する］ あなたは自分の《武器》のキャラを１枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+見えないとこも オ・シャ・レ…
+
+==========================
+
+セーラー服のルイズ
+ZM/W03-064 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Void 虚無
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+ウェディングドレスのルイズ
+ZM/W03-065 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Void 虚無
+Card Text/Abilities:
+【A】［(1)］ When this card attacks, if your have 「ご褒美」 in your climax slot, you may pay the cost. If you did, choose 1 of your character from you waiting room, return it to hand.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【自】［(1)］ このカードがアタックした時、クライマックス置場に「ご褒美」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+…主人と使い魔ってだけじゃなくてもっと確かな絆が欲しいの
+
+==========================
+
+炎蛇のコルベール
+ZM/W03-066 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 4500
+Soul: 1
+Traits:: Magic 魔法,_Glasses メガネ
+Card Text/Abilities:
+【C】 ALARM If this card is at the top of your clock, if your are level 2 or above, all your red character gets the following effect.『【A】When this card becomes REVERSE, if this card battles the Character with Level equal or less than this card's Level, you may put that Character to REVERSE.』
+【A】 When this card battling get REVERSED, you may place this card to your clock.
+【永】 アラーム このカードがクロックの1番上にあり、あなたのレベルが2以上なら、あなたの赤のキャラすべてに、次の能力を与える。『【自】 このカードが【リバース】した時、このカードとバトルしているキャラのレベルがこのカードのレベル以下なら、あなたはそのキャラを【リバース】してよい。』
+【自】 バトルしているこのカードが【リバース】した時、あなたはこのカードをクロック置場に置いてよい。
+Flavor Text:
+人の『死』に慣れるな。
+戦いに慣れるな、殺し合いに慣れるな
+
+==========================
+
+恋多き女 キュルケ
+ZM/W03-067 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】 When this card attacks, if your have 「微熱の誘惑」 in your climax slot, choose 1 character from your waiting room, return it to hand.
+【S】［(4)］ Choose 1 of your opponent's Front Row Level 2 or below character, move it to waiting room.
+【自】 このカードがアタックした時、クライマックス置場に「微熱の誘惑」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+【起】［(4)］ あなたは相手の前列のレベル2以下のキャラを1枚選び、控え室に置く。
+Flavor Text:
+契約を交わした使い魔は主人に絶対忠実…
+
+==========================
+
+虚無の力
+ZM/W03-068 R
+Type: Event
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+This card cannot be play from hand if you do not have 《虚無》.
+Choose 1 of your opponent's Front Row Level 2 or below character, move it to waiting room. Choose 1 of your 《使い魔》 character from your waiting room, return it to hand.
+このカードは、あなたの《虚無》のキャラがいないなら、手札からプレイできない。
+あなたは相手の前列のレベル2以下のキャラを1枚選び、控え室に置く。あなたは自分の控え室の《使い魔》のキャラを1枚選び、手札に戻す。
+Flavor Text:
+サイトのバカあああ～！
+
+==========================
+
+再契約の証
+ZM/W03-069 U
+Type: Event
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Search your deck up to 1 《武器》 character, show it to your opponent, place it into your hand, shuffle your deck afterwards.
+あなたは自分の山札を見て《武器》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+ルイズ「いいこと？　これ、再契約の証だからね」
+
+==========================
+
+人質救出作戦
+ZM/W03-070 U
+Type: Event
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+CONCENTRATION Choose 1 character from your waiting room, return it to hand.Place the top 3 cards of your Deck into Waiting Room.If there is climax in those card, choose 1 character from your waiting room, return it to hand.
+集中 あなたは自分の控え室のキャラを1枚選び、手札に戻す。あなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+キュルケ「タバサ、行くわよ」
+タバサ「うん」
+
+==========================
+
+ワルドの裏切り
+ZM/W03-071 C
+Type: Event
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+CONCENTRATION Place the top 3 cards of your Deck into Waiting Room. If there is climax in those card, choose 1 of your opponent's character, place it onto the top deck.
+集中 あなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードにクライマックスがあるなら、あなたは相手のキャラを1枚選び、山札の上に置く。
+Flavor Text:
+ウェールズ「ワルド殿！ 何を…」
+
+==========================
+
+ダングルテールの虐殺
+ZM/W03-072 C
+Type: Event
+Level: 3
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+CONCENTRATION Place the top 1 cards of your Deck into Waiting Room. Deal X damage to your opponent. X is equal to the level of the card placed into the Waiting Room in this way. (The damage can be cancel)
+集中 あなたは自分の山札の上から1枚をめくり、控え室に置く。あなたは相手にＸダメージを与える。Ｘはそのカードのレベルに等しい。（クライマックスのレベルは0として扱う）（ダメージキャンセルは発生する）
+Flavor Text:
+アニエス「私の生まれた村は軍によって焼き払われた…」
+
+==========================
+
+伝説の使い魔
+ZM/W03-073 CR
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+Flavor Text:
+デルフリンガー「６０００年前も今も、
+オレの相棒はガンダールヴに決まってらあな」
+
+==========================
+
+ご褒美
+ZM/W03-074 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When this card is triggered, you may choose 1 Character from your waiting room, return it to hand)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（拾＠：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）
+Flavor Text:
+サイト「好きだ、ルイズ大好き」
+
+==========================
+
+微熱の誘惑
+ZM/W03-075 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get ＋2 Soul.
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+キュルケ「いけないことだとは思うわ、でもあたしの二つ名は微熱…」
+
+==========================
+
+長女 エレオノール
+ZM/W03-076 RR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Magic 魔法,_Glasses メガネ
+Card Text/Abilities:
+【C】 During opponent turn, all other character named 「ルイズ」 gets +1000 power.
+【永】 相手のターン中、他のあなたのカード名に「ルイズ」を含むキャラすべてに、パワーを＋1000。
+Flavor Text:
+私はラ・ヴァリエール家の長女よ
+
+==========================
+
+ルイズ＆アンリエッタ
+ZM/W03-077R RRR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Magic 魔法,_Void 虚無
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【S】［Put this card to REST］ :Look at the top card of your deck, place it on top or bottom of your deck.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】［このカードを【レスト】する］ あなたは自分の山札を上から1枚見て、山札の上か下に置く。
+Flavor Text:
+アンリエッタ「ありがとう、ルイズ・フランソワーズ」
+
+==========================
+
+ルイズ＆アンリエッタ
+ZM/W03-077 RR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Magic 魔法,_Void 虚無
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【S】［Put this card to REST］ :Look at the top card of your deck, place it on top or bottom of your deck.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】［このカードを【レスト】する］ あなたは自分の山札を上から1枚見て、山札の上か下に置く。
+Flavor Text:
+アンリエッタ「私たちはお友達じゃないの！」
+
+==========================
+
+ルイズ＆エレオノール
+ZM/W03-078 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Void 虚無
+Card Text/Abilities:
+【C】 During opponent turn, this card gets +1000 power.
+【永】 相手のターン中、このカードのパワーを＋1000。
+Flavor Text:
+ルイズ「…エレオノール姉さまは どうして私に意地悪ばかりするのかしら」
+
+==========================
+
+トリステインの王女 アンリエッタ
+ZM/W03-079SP SP
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Royal Family 王族
+Card Text/Abilities:
+【C】 If your have 2 or more other 《武器》 character, this card gets +1000 power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【永】 他のあなたの《武器》のキャラが2枚以上なら、このカードのパワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+降伏はありません！
+
+==========================
+
+トリステインの王女 アンリエッタ
+ZM/W03-079 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Royal Family 王族
+Card Text/Abilities:
+【C】 If your have 2 or more other 《武器》 character, this card gets +1000 power.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【永】 他のあなたの《武器》のキャラが2枚以上なら、このカードのパワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+貴族としての誇りを失う事は死も同然！
+私が軍隊の指揮をとります
+
+==========================
+
+特別講師 エレオノール
+ZM/W03-080S SR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Royal Family 王族
+Card Text/Abilities:
+【S】 CONCENTRATION ［(1) Put this card to REST］ Place the top 4 cards of your Deck into Waiting Room. For each of those climax, choose 1 of your opponent's character, on your opponent next stand phase that character cannot STAND.
+【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは相手のキャラを1枚選ぶ。それらのキャラは次の相手のスタンドフェイズに【スタンド】しない。
+Flavor Text:
+いつまでそうやっているつもり？泣き虫ルイズ！
+
+==========================
+
+特別講師 エレオノール
+ZM/W03-080 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Royal Family 王族
+Card Text/Abilities:
+【S】 CONCENTRATION ［(1) Put this card to REST］ Place the top 4 cards of your Deck into Waiting Room. For each of those climax, choose 1 of your opponent's character, on your opponent next stand phase that character cannot STAND.
+【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは相手のキャラを1枚選ぶ。それらのキャラは次の相手のスタンドフェイズに【スタンド】しない。
+Flavor Text:
+いい機会だから私はここであなたの行動を監視します
+
+==========================
+
+バニーガールのシエスタ
+ZM/W03-081S SR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Maid メイド,_Animal 動物
+Card Text/Abilities:
+【S】［(3)］ Choose up to 2 of your opponent's characters, on your opponent next stand phase those characters cannot STAND.
+【起】［(3)］ あなたは相手のキャラを2枚まで選ぶ。それらのキャラは次の相手のスタンドフェイズに【スタンド】しない。
+Flavor Text:
+ね～どっちぴょん？
+
+==========================
+
+バニーガールのシエスタ
+ZM/W03-081 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Maid メイド,_Animal 動物
+Card Text/Abilities:
+【S】［(3)］ Choose up to 2 of your opponent's characters, on your opponent next stand phase those characters cannot STAND.
+【起】［(3)］ あなたは相手のキャラを2枚まで選ぶ。それらのキャラは次の相手のスタンドフェイズに【スタンド】しない。
+Flavor Text:
+ミスヴァリエールとどっちが可愛いぴょん
+
+==========================
+
+銃士隊隊長 アニエス
+ZM/W03-082 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【A】 BOND／「トリステインの王女 アンリエッタ」［①］(When you play this card to Stage, you may pay this cost. If you do, choose 1 「トリステインの王女 アンリエッタ」 from your Waiting Room, put it into your hand)
+【自】 絆／「トリステインの王女 アンリエッタ」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「トリステインの王女 アンリエッタ」を1枚選び、手札に戻す）
+Flavor Text:
+ヘタな魔法より銃の方が早いですぞ！
+
+==========================
+
+セーラー服のシエスタ
+ZM/W03-083 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Maid メイド,
+Card Text/Abilities:
+【C】 All your other 「サイト」 gets +500 power.
+【S】 CONCENTRATION ［(1) Put this card to REST］ Place the top 2 cards of your Deck into Waiting Room. For each of those climax, draw 2 card.
+【永】 他のあなたのカード名に「サイト」を含むキャラすべてに、パワーを＋500。
+【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から2枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは2枚まで引く。
+Flavor Text:
+サイトさんにもらった服～着てみたんです～
+
+==========================
+
+シェフィールド
+ZM/W03-084 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Familiar 使い魔,_Magic 魔法
+Card Text/Abilities:
+Flavor Text:
+…まだまだ戦争は続いてもらわねばならんからな
+
+==========================
+
+アンリエッタ＆ウェールズ
+ZM/W03-085 U
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Magic 魔法,_Royal Family 王族
+Card Text/Abilities:
+Flavor Text:
+ウェールズ「もうすぐ、僕たちが初めて出会った場所…
+ラグドリアン湖だよ」
+
+==========================
+
+アンリエッタ・ド・トリステイン
+ZM/W03-086 U
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Magic 魔法,_Royal Family 王族
+Card Text/Abilities:
+【C】 BODYGUARD(When your opponent attack, If this card is not reverse and is in the front row center stage,opponent will front attack this character instead)
+【A】 When this card attacks, if you have 「風と水の誓い」 in your climax slot, draw 1 card.
+【A】 When your character trigger check climax, you may place the top card of your clock into the waiting room.
+【永】 大活躍
+【自】 このカードがアタックした時、クライマックス置場に「風と水の誓い」があるなら、あなたは1枚引く。
+【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のクロックを上から1枚を、控え室に置いてよい。
+Flavor Text:
+ああ、ずっと会いたかった…
+
+==========================
+
+香水のモンモランシー
+ZM/W03-087 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】 When this card play to stage from hand, look at the top card of your deck, place it on top or bottom of your deck.
+【A】 When there is card place on to your clock, if this card is battling, during this turn, this card gets +500 power.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。
+【自】 カードがあなたのクロック置場に置かれた時、このカードがバトルしているなら、そのターン中、このカードのパワーを＋500。
+Flavor Text:
+なぁに、あの呪文？
+
+==========================
+
+幼なじみ アンリエッタ姫
+ZM/W03-088 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Royal Family 王族
+Card Text/Abilities:
+Flavor Text:
+じゃあ私もルイズが困った時は必ず助けてあげる！
+
+==========================
+
+アニエス・シュヴァリエ・ド・ミラン
+ZM/W03-089 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【C】 All your other 《王族》 character gets +500 power.
+【A】［Put this card to waiting room］When your character move to waiting room from stage, if this card is on the back stage, you may pay the cost. if you did, return that card in REST to it's previous slot
+【永】 他のあなたの《王族》のキャラすべてに、パワーを＋500。
+【自】［このカードを控え室に置く］ 他のあなたのキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのカードをそのカードがいた枠に【レスト】して置く。
+Flavor Text:
+私はメイジが嫌いだ！　特に炎を使う奴がな…
+
+==========================
+
+オリヴァー・クロムウェル
+ZM/W03-090 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【C】 ALARM If this card is at the top of your clock, all your green character gets the following effect, 『【A】ENCORE [Discard 1 Character to Waiting Room from hand]』.
+【A】 When this card battling get REVERSED, you may place this card to your clock.
+【永】 アラーム このカードがクロックの1番上にあるなら、あなたの青のキャラすべてに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』という能力を与える。
+【自】 バトルしているこのカードが【リバース】した時、あなたはこのカードをクロック置場に置いてよい。
+Flavor Text:
+……時は満ちた……いよいよ実行の時……
+
+==========================
+
+エレオノール・アルベルティーヌ・ル・ ブラン・ド・ラ・ブロワ・ド・ラ・ヴァリエール
+ZM/W03-091 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Magic 魔法,_Glasses メガネ
+Card Text/Abilities:
+【A】 When this card attacks, if you have 「刻印を探せ！」 in your climax slot, draw 1 card.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【自】 このカードがアタックした時、クライマックス置場に「刻印を探せ！」があるなら、あなたは1枚引く。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+ほんのわずかな間だとは思いますが
+皆さん一緒に楽しくお勉強しましょうね
+
+==========================
+
+犯人を追うアニエス
+ZM/W03-092 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Weapon 武器,
+Card Text/Abilities:
+【A】 When this card attacks, if you have 「復讐の刃」 in your climax slot, draw 1 card.
+【S】● ASSIST 3000 Level 2 ［① Discard this card from hand to Waiting Room］ (Choose 1 character that is being Front Attacked, during this turn, it gets +3000 Power.)
+【自】 このカードがアタックした時、クライマックス置場に「復讐の刃」があるなら、あなたは1枚引く。
+【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）
+Flavor Text:
+陛下に当ててはとり返しがつかぬ！！
+
+==========================
+
+惚れ薬の力
+ZM/W03-093 R
+Type: Event
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+CONCENTRATION Place the top 3 cards of your deck into the waiting room. If there is climax in those card, choose up to 2 card at your clock, move it to waiting room. Place this card to memory.
+集中 あなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分のクロックを2枚まで選び、控え室に置く。このカードを思い出にする。
+Flavor Text:
+ルイズ「うん、寂しいけど待ってる」
+
+==========================
+
+水の精霊
+ZM/W03-094 U
+Type: Event
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+CONCENTRATION Draw 1 card. Place the top 3 cards of your deck into the waiting room. If there is climax in those card, draw 1 card.
+集中 あなたは1枚引く。あなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードにクライマックスがあるなら、あなたは1枚引く。
+Flavor Text:
+貴様の身体に流れる液体を我は覚えている
+
+==========================
+
+エクレールダムールの花
+ZM/W03-095 U
+Type: Event
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+● Choose one of your character, during this turn it gets the following ability 『【A】When this card is placed into the waiting room from the stage, you may place that card back into it's previous slot in REST position.』
+Choose one of the battling character, during this turn, it gets -1 soul.
+【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』
+あなたはバトルしているキャラを1枚選び、そのターン中、ソウルを-1。
+Flavor Text:
+ジュリオ「離れていてもお互いの事がわかる マジックフラワー…」
+
+==========================
+
+王家に架かる虹
+ZM/W03-096 C
+Type: Event
+Level: 1
+Color: Blue
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Search your deck up to 2 《王族》 characters, show it to your opponent. Shuffle your deck afterwards. Choose 1 of your hand card, discard it to waiting room.
+あなたは自分の山札を見て《王族》のキャラを2枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。あなたは自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+ウェールズ「水と風は虹を作る。王家にかかる虹を」
+
+==========================
+
+ちびルイズつねられる
+ZM/W03-097 C
+Type: Event
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+● CONCENTRATION Place the top 1 cards of your Deck into Waiting Room. Choose one of the battling character, during this turn, it gets -X soul. X is equal to the level of the card placed into the Waiting Room in this way. ( If the card is climax, the level will treat as 0)
+【カウンター】 集中 あなたは自分の山札の上から1枚をめくり、控え室に置く。あなたはバトルしているキャラを1枚選び、そのターン中、ソウルを-Ｘ。Ｘは控え室に置かれたカードのレベル＋1に等しい。（クライマックスのレベルは0として扱う）
+Flavor Text:
+あびぃ～ずびばせんでえざば～
+
+==========================
+
+刻印を探せ！
+ZM/W03-098 CR
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Book： When this card is triggered, you may draw 1 card)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（引＠：このカードがトリガーした時、あなたは1枚引いてよい）
+Flavor Text:
+平民、あいかわらず大胆だな
+
+==========================
+
+風と水の誓い
+ZM/W03-099 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+ウェールズ「誓ってくれ…アンリエッタ…ぼくを忘れると」
+
+==========================
+
+復讐の刃
+ZM/W03-100 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+Flavor Text:
+我が故郷の恨み…！
+
+==========================
+
+鳶色の瞳のルイズ
+ZM/W03-101P PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Void 虚無
+Card Text/Abilities:
+Flavor Text:
+「感謝しなさいよね。貴族にこんなことされるなんて、普通は一生無いんだから」
+
+==========================
+
+鳶色の瞳のルイズ
+ZM/W03-101 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Void 虚無
+Card Text/Abilities:
+Flavor Text:
+「感謝しなさいよね。貴族にこんなことされるなんて、普通は一生無いんだから」
+
+==========================
+
+負けず嫌いなルイズ
+ZM/W03-102 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Magic 魔法,_Void 虚無
+Card Text/Abilities:
+【A】 When this card becomes REVERSE, if the character battling this card is Level 1 or below, you may put that card to REVERSE.
+【自】このカードが【リバース】した時、このカードとバトルしているキャラのレベルが1以下なら、あなたはそのキャラを【リバース】してよい。
+Flavor Text:
+借りはちゃんと返すのが貴族ってものよ
+
+==========================
+
+虚無の担い手たち
+ZM/W03-103 PR
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Magic 魔法,_Void 虚無
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card with the ability of 「【A】ENCORE [Discard 1 Character to Waiting Room from hand]」 gets +1000 power.
+【永】応援 このカードの前のあなたの「【自】アンコール[手札のキャラを1枚控え室に置く]」を持つキャラすべてに、パワーを+1000。
+Flavor Text:
+ティファニア「ねえ、お友達になってくれる？」
+
+==========================
+
+負けず嫌いなルイズ
+ZM/W03-104 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Magic 魔法,_Void 虚無
+Card Text/Abilities:
+【A】 When this card becomes REVERSE, if the character battling this card is Level 1 or below, you may put that card to REVERSE.
+【自】このカードが【リバース】した時、このカードとバトルしているキャラのレベルが1以下なら、あなたはそのキャラを【リバース】してよい。
+Flavor Text:
+魔法が使える者を貴族と呼ぶんじゃない。
+敵に後ろを見せない者を貴族と呼ぶのよ！
+
+==========================
+
+幼い頃の約束
+ZM/W03-105 PR
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Book：When you Triggered this card, you may draw 1 card)
+【永】 あなたのキャラすべてに、パワーを+1000し、ソウルを+1。
+（このカードがトリガーした時、あなたは1枚引いてよい）
+Flavor Text:
+ルイズ「泣きたくなるような悲しい事があったら
+必ず仰ってくださいまし…」
+
+==========================
+
+意地っ張りなルイズ
+ZM/W03-106 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Void 虚無
+Card Text/Abilities:
+【S】 [Put 2 of your 《使い魔》 character to REST] Choose one of your character, during this turn, it gets +1 soul.
+【起】 [あなたの《使い魔》のキャラを2枚【レスト】する] あなたは自分のキャラを1枚選び、そのターン中、ソウルを+1。
+Flavor Text:
+いいのよ、あんなヤツ！
+ぜんぜんわかってくれないんだもん…
+
+==========================
+
+高飛車ルイズ
+ZM/W03-107 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Void 虚無
+Card Text/Abilities:
+【C】If this card is STAND, this card gets +1 Level and +1500 power.
+【永】 このカードが【スタンド】しているなら、このカードのレベルを+1し、パワーを+1500。
+Flavor Text:
+許してあげる。 ありがたく思いなさい!!
+
+==========================
+
+ミス・ヴァリエール
+ZM/W03-108 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Void 虚無
+Card Text/Abilities:
+Flavor Text:
+あんたたち、ホントおめでたいわね！
+
+==========================
+
+お姫様 ティファニア＆アンリエッタ
+ZM/W03-109 PR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Magic 魔法,_Swimsuit 水着
+Card Text/Abilities:
+【C】 If your stock is 5 or above, all your other character gets +500 power.
+【永】 あなたのストックが5枚以上なら、他のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+
+==========================
+
+“ゼロの使い魔”サイト
+ZM/W03-T01 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Familiar 使い魔,_Weapon 武器
+Card Text/Abilities:
+【A】 When you use CONCENTRATE, if there is climax in those card, during this turn, this card gets +3000.
+【自】 あなたが『集中』を使った時、その効果でクライマックスが控え室に置かれたなら、そのターン中、このカードのパワーを＋3000。
+Flavor Text:
+こちとら、ゼロのルイズの使い魔だっての！
+
+==========================
+
+シルフィード
+ZM/W03-T02 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Familiar 使い魔,_Dragon 竜
+Card Text/Abilities:
+【C】 All your other character named 「タバサ」 or 「シャルロット」gets +500 power.
+【A】 BOND／「シャルロット・エレーヌ・オルレアン」［①］(When you play this card to Stage, you may pay this cost. If you do, choose 1 「シャルロット・エレーヌ・オルレアン」 from your Waiting Room, put it into your hand)
+【永】 他のあなたのカード名に「タバサ」か「シャルロット」を含むキャラすべてに、パワーを＋500。
+【自】 絆／「シャルロット・エレーヌ・オルレアン」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「シャルロット・エレーヌ・オルレアン」を1枚選び、手札に戻す）
+Flavor Text:
+タバサ「馬、二人乗ってる 食べちゃダメ」
+
+==========================
+
+ゼロのルイズ
+ZM/W03-T03 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Void 虚無
+Card Text/Abilities:
+【S】 CONCENTRATE ［(1) Put this card to rest ］Place the top 2 cards of your deck into the waiting room. For each climax in those cards, all your character, during this turn, this card gets +2000 Power and +1 soul.
+【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から2枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたのキャラすべてに、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+ちょっと失敗したみたいね
+
+==========================
+
+無口なタバサ
+ZM/W03-T04 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Glasses メガネ
+Card Text/Abilities:
+Flavor Text:
+破壊の杖
+
+==========================
+
+タバサ＆イルククゥ
+ZM/W03-T05 TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Magic 魔法,_Dragon 竜
+Card Text/Abilities:
+【C】 During this card's battle, opponent cannot play event card.
+【A】 When your character trigger check a climax, choose one of your character, during this turn, it gets +1 soul.
+【永】 このカードのバトル中、相手はイベントを手札からプレイできない。
+【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。
+Flavor Text:
+お姉さま、今日もすっごくかわいい。わたし嬉しい！
+
+==========================
+
+閃光のワルド
+ZM/W03-T06 TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【A】 When you use CONCENTRATE, if there is climax place in to your waiting room, during this turn, this card gets +3000.
+【A】 When this card attacks. if your have 「手合わせ」 in your climax, choose 1 of your opponent's character, return it to hand.
+【自】 あなたが『集中』を使った時、その効果でクライマックスが控え室に置かれたなら、そのターン中、このカードのパワーを＋3000。
+【自】 このカードがアタックした時、クライマックス置場に「手合わせ」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。
+Flavor Text:
+遠慮はいらぬ。全力で来たまえ
+
+==========================
+
+シャルロット・エレーヌ・オルレアン
+ZM/W03-T07 TD
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Magic 魔法,_Royal Family 王族
+Card Text/Abilities:
+【C】 BODYGUARD(When your opponent attack, If this card is not reverse and is in the front row center stage,opponent will front attack this character instead)
+【C】When this card attacks, if your have 「タバサの秘密」 in your climax slot, choose 1 of your opponent's character, return it to hand.
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【永】 大活躍
+【自】 このカードがアタックした時、クライマックス置場に「タバサの秘密」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+キュルケ 「シャルロットがあの子の本名なのね？」
+
+==========================
+
+タバサの秘密
+ZM/W03-T08 TD
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+(Wind：When this card is Triggered, you may choose 1 of opponent's Characters, return to his/her hand)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（戻＠：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）
+Flavor Text:
+ペルスラン「タバサというのは奥様がお嬢様に
+プレゼントされた人形の名前なのです」
+
+==========================
+
+手合わせ
+ZM/W03-T09 TD
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+Flavor Text:
+是非とも、手合わせを願いたいと思っていたんだ
+
+==========================
+
+ルイズ・フランソワーズ・ル・ ブラン・ド・ラ・ヴァリエール
+ZM/W03-T102 TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Magic 魔法,_Void 虚無
+Card Text/Abilities:
+【C】During this card battle, opponent cannot play ASSIST from hand.
+【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。
+Flavor Text:
+べ、別にね、会いたいからじゃないの、
+わざわざ行ってあげるだけ！
+
+==========================
+
+“金色の妖精”ティファニア
+ZM/W03-T103 TD
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Magic 魔法,_Void 虚無
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを+500。
+Flavor Text:
+帰りなさい…あなたの帰るべき場所へ…
+
+==========================
+
+ジェシカ
+ZM/W03-T10 TD
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Waitress ウェイトレ,
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+あたしジェシカ、あんたは？
+
+==========================
+
+ティファニア・ウエストウッド
+ZM/W03-T11 TD
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 1
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Void 虚無
+Card Text/Abilities:
+【A】 When your deck refresh, you may choose to place this card onto your stock.
+【S】 CONCENTRATION ［(1) Put this card to REST］ Place the top 4 cards of your deck into the waiting room. For each climax in those cards, all your character during this turn gets +2000 power.
+【自】 あなたが山札をリフレッシュした時、このカードをストック置場に置いてよい。
+【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分のキャラすべてに、そのターン中、パワーを＋2000。
+Flavor Text:
+目を覚ますのです。神の左手ガンダールヴ…
+
+==========================
+
+“ちい姉さま”カトレア
+ZM/W03-T12 TD
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5500
+Soul: 1
+Traits:: Magic 魔法,_Animal 動物
+Card Text/Abilities:
+【A】ENCORE [Discard 1 Character to Waiting Room from hand] (When this card is put to Waiting Room from Stage, you may pay this cost. If you do, return this card in REST to it's previous slot)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+あのね、ルイズこのままだと
+お婿さんを迎えることになっちゃうの
+
+==========================
+
+ミシェル
+ZM/W03-T13 TD
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【S】 CONCENTRATION ［(1) Put this card to REST］ Place the top 2 cards of your deck into the waiting room. For each climax in those cards, choose  1 of your opponent's Front Row character, during this turn, it gets -6000 power.
+【S】［(1) Place this card to waiting room］ All the cards at your clock, arrange it in any order on the clock.
+【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から2枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを-6000。
+【起】［(1) このカードを控え室に置く］ あなたは自分のクロックすべてを、クロック置場に好きな順番で並べ直す。
+Flavor Text:
+隊長、陛下です！
+
+==========================
+
+オールド・オスマン
+ZM/W03-T14 TD
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Teacher 先生
+Card Text/Abilities:
+【S】● ASSIST 3000 Level 2 ［① Discard this card from hand to Waiting Room］ (Choose 1 character that is being Front Attacked, during this turn, it gets +3000 Power.)
+【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）
+Flavor Text:
+この印鑑は…わし以外には押せぬマジックアイテムじゃ
+
+==========================
+
+土くれのフーケ
+ZM/W03-T15 TD
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】 When this card attacks, if your have 「ゴーレム」 in your climax slot, place the top card of your deck onto your stock, during this turn, this card gets +3000 power.
+【S】［(1)］ Choose 1 of your opponent's Front Row character, during this turn, it gets -1000 power.
+【自】 このカードがアタックした時、クライマックス置場に「ゴーレム」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋3000。
+【起】［(1)］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを-1000。
+Flavor Text:
+『破壊の杖、確かに領収いたしました 』
+
+==========================
+
+ルイズ＆カトレア
+ZM/W03-T16 TD
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Magic 魔法,_Void 虚無
+Card Text/Abilities:
+Flavor Text:
+ふふ。ルイズは私よりもっと魅力的に成長するわよ
+
+==========================
+
+サイトの意地
+ZM/W03-T17 TD
+Type: Event
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+● CONCENTRATION Choose 1 of your character, during this turn, it gets +2000 power. Place the top 3 cards of your Deck into Waiting Room. If there is climax in those card, choose one of your character, during this turn, it gets +2000 power.
+【カウンター】 集中 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。あなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+でも！　下げたくねえ頭は下げられねえ!!
+
+==========================
+
+ゴーレム
+ZM/W03-T18 TD
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your characters get ＋2 Soul.
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+【永】 あなたのキャラすべてに、ソウルを＋2。
+
+==========================
+
