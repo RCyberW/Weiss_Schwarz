@@ -78,7 +78,7 @@ public class Hand extends FieldElement {
 	@Override
 	public Card selectCard(MouseEvent e) {
 		String output;
-		Card card = null;
+		Card card, result = null;
 		for (int i = 0; i < handCards.size(); i++) {
 			card = handCards.get(i);
 			output = "HAND: x = " + e.getX() + ", y = " + e.getY() + " "
@@ -89,12 +89,12 @@ public class Hand extends FieldElement {
 			if (card.getCardBound().contains(e.getPoint())) {
 				selectedIndex = i;
 				output += " match!";
-				selected = card;
+				result = card;
 			}
 			System.out.println(output);
 			// System.out.println();
 		}
-		return card;
+		return result;
 	}
 
 	@Override
@@ -163,6 +163,7 @@ public class Hand extends FieldElement {
 					associatedPlayer.getField().getClimaxZone().setCard(card);
 					if (selectedIndex > -1) {
 						handCards.remove(selectedIndex);
+						//handCards.remove(card);
 					}
 				} else if (associatedPlayer.getCurrentPhase() == Phase.ATTACK_PHASE
 						&& card.getT() == Type.CHARACTER) {
