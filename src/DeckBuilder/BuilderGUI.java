@@ -39,6 +39,7 @@ import java.net.URISyntaxException;
 import java.text.NumberFormat;
 import java.text.ParseException;
 import java.util.ArrayList;
+import java.util.Enumeration;
 import java.util.HashMap;
 
 //import javax.imageio.ImageIO;
@@ -62,11 +63,11 @@ public class BuilderGUI extends JFrame {
 	private JMenuBar menu;
 	private JPanel cardInfo;
 	private Box deckList;
-	
-	//private JMenuItem newD; 
-	//private JMenuItem save; 
-	//private JMenuItem load;
-	//private JMenuItem exit;
+
+	// private JMenuItem newD;
+	// private JMenuItem save;
+	// private JMenuItem load;
+	// private JMenuItem exit;
 
 	private JButton newdb;
 	private JButton saveb;
@@ -142,14 +143,34 @@ public class BuilderGUI extends JFrame {
 		final JTextField idSearch = new JTextField();
 		final JTextField nameSearch = new JTextField();
 		final JTextField traitSearch = new JTextField();
-		final JTextField typeSearch = new JTextField();
-		final JTextField colorSearch = new JTextField();
+		final JTextField typeSearch = new JTextField(); // will change to
+														// dropdown
+		final JTextField colorSearch = new JTextField(); // will change to
+															// dropdown
 		final JTextField abilitySearch = new JTextField();
 		final JTextField powerSearch = new JTextField();
 		final JTextField costSearch = new JTextField();
 		final JTextField levelSearch = new JTextField();
 		final JTextField soulSearch = new JTextField();
-		final JTextField triggerSearch = new JTextField();
+		final JTextField triggerSearch = new JTextField(); // will change to
+															// dropdown
+
+		CCode[] colorSelections = null;
+		colorSelections = CCode.values();
+
+		final JComboBox<CCode> colorList = new JComboBox<CCode>(colorSelections);
+
+		CardAssociation.Type[] classifications = null;
+		classifications = CardAssociation.Type.values();
+
+		final JComboBox<CardAssociation.Type> typeList = new JComboBox<CardAssociation.Type>(
+				classifications);
+
+		Trigger[] triggerSelections = null;
+		triggerSelections = Trigger.values();
+
+		final JComboBox<Trigger> triggerList = new JComboBox<Trigger>(
+				triggerSelections);
 
 		final KeyListener searchFieldListener = new KeyListener() {
 
@@ -175,33 +196,29 @@ public class BuilderGUI extends JFrame {
 					String cardID = idSearch.getText();
 
 					String name = nameSearch.getText();
-					String color = colorSearch.getText();
 
-					CCode sColor;
-					if (color.equalsIgnoreCase("RED")) {
-						sColor = CCode.RED;
-					} else if (color.equalsIgnoreCase("BLUE")) {
-						sColor = CCode.BLUE;
-					} else if (color.equalsIgnoreCase("YELLOW")) {
-						sColor = CCode.YELLOW;
-					} else if (color.equalsIgnoreCase("GREEN")) {
-						sColor = CCode.GREEN;
-					} else {
-						sColor = null;
-					}
+					CCode sColor = (CCode) colorList.getSelectedItem();
+					/*
+					 * String color = colorSearch.getText(); if
+					 * (color.equalsIgnoreCase("RED")) { sColor = CCode.RED; }
+					 * else if (color.equalsIgnoreCase("BLUE")) { sColor =
+					 * CCode.BLUE; } else if (color.equalsIgnoreCase("YELLOW"))
+					 * { sColor = CCode.YELLOW; } else if
+					 * (color.equalsIgnoreCase("GREEN")) { sColor = CCode.GREEN;
+					 * } else { sColor = null; }
+					 */
 
-					String type = typeSearch.getText();
-
-					CardAssociation.Type sType;
-					if (type.equalsIgnoreCase("CHARACTER")) {
-						sType = CardAssociation.Type.CHARACTER;
-					} else if (type.equalsIgnoreCase("CLIMAX")) {
-						sType = CardAssociation.Type.CLIMAX;
-					} else if (type.equalsIgnoreCase("EVENT")) {
-						sType = CardAssociation.Type.EVENT;
-					} else {
-						sType = null;
-					}
+					CardAssociation.Type sType = (CardAssociation.Type) typeList
+							.getSelectedItem();
+					/*
+					 * String type = typeSearch.getText(); if
+					 * (type.equalsIgnoreCase("CHARACTER")) { sType =
+					 * CardAssociation.Type.CHARACTER; } else if
+					 * (type.equalsIgnoreCase("CLIMAX")) { sType =
+					 * CardAssociation.Type.CLIMAX; } else if
+					 * (type.equalsIgnoreCase("EVENT")) { sType =
+					 * CardAssociation.Type.EVENT; } else { sType = null; }
+					 */
 
 					String level = levelSearch.getText();
 					int sLevel;
@@ -211,6 +228,7 @@ public class BuilderGUI extends JFrame {
 						sLevel = -1;
 						// sLevel = (level.isEmpty()) ? -1 : 0;
 					}
+
 					String cost = costSearch.getText();
 					int sCost;
 					try {
@@ -219,8 +237,12 @@ public class BuilderGUI extends JFrame {
 						sCost = -1;
 						// sCost = (cost.isEmpty()) ? -1 : 0;
 					}
-					String trigger = triggerSearch.getText();
-					Trigger sTrigger = Trigger.convertString(trigger);
+
+					Trigger sTrigger = (Trigger) triggerList.getSelectedItem();
+					/*
+					 * String trigger = triggerSearch.getText(); sTrigger =
+					 * Trigger.convertString(trigger);
+					 */
 
 					String power = powerSearch.getText();
 					int sPower;
@@ -329,33 +351,28 @@ public class BuilderGUI extends JFrame {
 				String cardID = idSearch.getText();
 
 				String name = nameSearch.getText();
-				String color = colorSearch.getText();
 
-				CCode sColor;
-				if (color.equalsIgnoreCase("RED")) {
-					sColor = CCode.RED;
-				} else if (color.equalsIgnoreCase("BLUE")) {
-					sColor = CCode.BLUE;
-				} else if (color.equalsIgnoreCase("YELLOW")) {
-					sColor = CCode.YELLOW;
-				} else if (color.equalsIgnoreCase("GREEN")) {
-					sColor = CCode.GREEN;
-				} else {
-					sColor = null;
-				}
+				CCode sColor = (CCode) colorList.getSelectedItem();
+				/*
+				 * String color = colorSearch.getText(); if
+				 * (color.equalsIgnoreCase("RED")) { sColor = CCode.RED; } else
+				 * if (color.equalsIgnoreCase("BLUE")) { sColor = CCode.BLUE; }
+				 * else if (color.equalsIgnoreCase("YELLOW")) { sColor =
+				 * CCode.YELLOW; } else if (color.equalsIgnoreCase("GREEN")) {
+				 * sColor = CCode.GREEN; } else { sColor = null; }
+				 */
 
-				String type = typeSearch.getText();
-
-				CardAssociation.Type sType;
-				if (type.equalsIgnoreCase("CHARACTER")) {
-					sType = CardAssociation.Type.CHARACTER;
-				} else if (type.equalsIgnoreCase("CLIMAX")) {
-					sType = CardAssociation.Type.CLIMAX;
-				} else if (type.equalsIgnoreCase("EVENT")) {
-					sType = CardAssociation.Type.EVENT;
-				} else {
-					sType = null;
-				}
+				CardAssociation.Type sType = (CardAssociation.Type) typeList
+						.getSelectedItem();
+				/*
+				 * String type = typeSearch.getText(); if
+				 * (type.equalsIgnoreCase("CHARACTER")) { sType =
+				 * CardAssociation.Type.CHARACTER; } else if
+				 * (type.equalsIgnoreCase("CLIMAX")) { sType =
+				 * CardAssociation.Type.CLIMAX; } else if
+				 * (type.equalsIgnoreCase("EVENT")) { sType =
+				 * CardAssociation.Type.EVENT; } else { sType = null; }
+				 */
 
 				String level = levelSearch.getText();
 				int sLevel;
@@ -365,6 +382,7 @@ public class BuilderGUI extends JFrame {
 					sLevel = -1;
 					// sLevel = (level.isEmpty()) ? -1 : 0;
 				}
+
 				String cost = costSearch.getText();
 				int sCost;
 				try {
@@ -373,8 +391,12 @@ public class BuilderGUI extends JFrame {
 					sCost = -1;
 					// sCost = (cost.isEmpty()) ? -1 : 0;
 				}
-				String trigger = triggerSearch.getText();
-				Trigger sTrigger = Trigger.convertString(trigger);
+
+				Trigger sTrigger = (Trigger) triggerList.getSelectedItem();
+				/*
+				 * String trigger = triggerSearch.getText(); sTrigger =
+				 * Trigger.convertString(trigger);
+				 */
 
 				String power = powerSearch.getText();
 				int sPower;
@@ -434,11 +456,13 @@ public class BuilderGUI extends JFrame {
 		row1.add(Box.createHorizontalStrut(5));
 		row1.add(colorLabel);
 		row1.add(Box.createHorizontalStrut(5));
-		row1.add(colorSearch);
+		// row1.add(colorSearch);
+		row1.add(colorList);
 		row1.add(Box.createHorizontalStrut(5));
 		row1.add(typeLabel);
 		row1.add(Box.createHorizontalStrut(5));
-		row1.add(typeSearch);
+		// row1.add(typeSearch);
+		row1.add(typeList);
 		row1.add(Box.createHorizontalStrut(5));
 		row1.add(submitButton);
 		row1.add(Box.createHorizontalStrut(5));
@@ -446,7 +470,8 @@ public class BuilderGUI extends JFrame {
 		row2.add(Box.createHorizontalStrut(5));
 		row2.add(triggerLabel);
 		row2.add(Box.createHorizontalStrut(5));
-		row2.add(triggerSearch);
+		// row2.add(triggerSearch);
+		row2.add(triggerList);
 		row2.add(Box.createHorizontalStrut(5));
 		row2.add(powerLabel);
 		row2.add(Box.createHorizontalStrut(5));
@@ -676,8 +701,8 @@ public class BuilderGUI extends JFrame {
 	 *         list
 	 */
 	private JScrollPane buildResultList() {
-		String[] columnNames = {"ID", "Name", "Color", "Type", "Level", "Cost",
-				"Soul", "Power"};
+		String[] columnNames = { "ID", "Name", "Color", "Type", "Level",
+				"Cost", "Soul", "Power" };
 
 		final ArrayList<Card> allCards = resultList;
 
@@ -938,8 +963,8 @@ public class BuilderGUI extends JFrame {
 	 */
 	private JScrollPane buildDeckList() {
 
-		String[] columnNames = {"#", "ID", "Name", "Color", "Type", "L", "C",
-				"Trigger", "S", "Power"};
+		String[] columnNames = { "#", "ID", "Name", "Color", "Type", "L", "C",
+				"Trigger", "S", "Power" };
 
 		final ArrayList<Card> cards = currentDeck.getUnique();
 
@@ -968,7 +993,7 @@ public class BuilderGUI extends JFrame {
 				return false;
 			}
 		};
-		
+
 		displayTable
 				.setPreferredScrollableViewportSize(new Dimension(600, 175));
 		displayTable.setFillsViewportHeight(true);
@@ -1027,6 +1052,7 @@ public class BuilderGUI extends JFrame {
 				 * currentDeck.removeCard(selectedCard); refresh("deckList2"); }
 				 */
 			}
+
 			public void mouseReleased(MouseEvent e) {
 				int row = displayTable.getSelectedRow();
 				if (row > -1)
@@ -1061,13 +1087,11 @@ public class BuilderGUI extends JFrame {
 			}
 
 			/*
-			 * Key Explanations
-			 * DELETE 	remove a card
-			 * -		remove a card
-			 * =		add a card
-			 * +		add a card
-			 * ENTER	add a card
-			 * @see java.awt.event.KeyListener#keyReleased(java.awt.event.KeyEvent)
+			 * Key Explanations DELETE remove a card - remove a card = add a
+			 * card + add a card ENTER add a card
+			 * 
+			 * @see
+			 * java.awt.event.KeyListener#keyReleased(java.awt.event.KeyEvent)
 			 */
 			@Override
 			public void keyReleased(KeyEvent e) {
@@ -1096,7 +1120,7 @@ public class BuilderGUI extends JFrame {
 
 		});
 
-		//allocating size for columns
+		// allocating size for columns
 		int widthM = getPreferredSize().width;
 
 		if (getWidth() / 2 - OFFSET > widthM)
@@ -1142,6 +1166,7 @@ public class BuilderGUI extends JFrame {
 
 		return listPane;
 	}
+
 	/**
 	 * Building deck statistic analyzer
 	 * 
@@ -1329,7 +1354,6 @@ public class BuilderGUI extends JFrame {
 		return jtb;
 	}
 
-	
 	// ///////////////////////
 	//
 	// Public Methods

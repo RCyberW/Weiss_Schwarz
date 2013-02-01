@@ -48,9 +48,8 @@ public class Deck {
 	private ArrayList<Card> cards;
 	private ArrayList<Card> unique;
 	private ArrayList<CardWrapper> cardWrapper;
-	
+
 	public ArrayList<Card> shuffledCards;
-	
 
 	// create a deck
 	public Deck() {
@@ -64,30 +63,30 @@ public class Deck {
 	// add cards to a deck
 	public void addCard(Card referenceCard) {
 		System.out.println("adding in Deck");
-		
+
 		boolean toAdd = true;
 		int x = 0;
-		for(; x < cardWrapper.size(); x++) {
-			if(cardWrapper.get(x).containsCard(referenceCard)) {
+		for (; x < cardWrapper.size(); x++) {
+			if (cardWrapper.get(x).containsCard(referenceCard)) {
 				toAdd = cardWrapper.get(x).addCard(referenceCard);
 				break;
 			}
 		}
-		
-		if(x == cardWrapper.size()) {
+
+		if (x == cardWrapper.size()) {
 			CardWrapper newWrapper = new CardWrapper();
 			newWrapper.setCardName(referenceCard.getCardName());
 			cardWrapper.add(newWrapper);
 			toAdd = cardWrapper.get(x).addCard(referenceCard);
 		}
-		
+
 		// check if the deck has max number of cards
 		if (cards.size() < MAX_DECK_SIZE) {
 			// if not, check to see if there are 4 copies of a card
 			if (cards.contains(referenceCard)) {
 				// if not, then add
 				// System.err.println(card.getName());
-				if (referenceCard.getCardCount() < 4  && toAdd) {
+				if (referenceCard.getCardCount() < 4 && toAdd) {
 					referenceCard.addCount();
 					for (int i = 0; i < cards.size(); i++) {
 						Card tempCard = cards.get(i);
@@ -127,14 +126,14 @@ public class Deck {
 	public void removeCard(Card card) {
 		// check to see if the card exists in the deck
 		if (cards.contains(card)) {
-			
+
 			int x = 0;
-			for(; x < cardWrapper.size(); x++) {
-				if(cardWrapper.get(x).containsCard(card)) {
+			for (; x < cardWrapper.size(); x++) {
+				if (cardWrapper.get(x).containsCard(card)) {
 					cardWrapper.get(x).removeCount();
 				}
 			}
-			
+
 			onlineUpdateStatistics(card, false);
 			cards.remove(card);
 			card.removeCount();
@@ -149,8 +148,8 @@ public class Deck {
 					}
 				}
 			}
-			System.out.println(card.getCardName() + " has " + card.getCardCount()
-					+ " copies");
+			System.out.println(card.getCardName() + " has "
+					+ card.getCardCount() + " copies");
 		}
 		if (card.getCardCount() == 0) {
 			unique.remove(card);
@@ -212,8 +211,9 @@ public class Deck {
 
 	public void saveRaw(File file) {
 		try {
-			OutputStreamWriter fw = new OutputStreamWriter(new FileOutputStream(file.getAbsolutePath()), "UTF-8");
-			//FileWriter fw = new FileWriter(file.getAbsolutePath());
+			OutputStreamWriter fw = new OutputStreamWriter(
+					new FileOutputStream(file.getAbsolutePath()), "UTF-8");
+			// FileWriter fw = new FileWriter(file.getAbsolutePath());
 			for (Card c : unique) {
 				for (int i = 0; i < c.getCardCount(); ++i)
 					fw.write(c.getID() + "\n");
@@ -226,8 +226,9 @@ public class Deck {
 
 	public void loadRaw(File file, HashMap<String, Card> dictionary) {
 		try {
-			InputStreamReader fr = new InputStreamReader(new FileInputStream(file.getAbsolutePath()), "UTF-8");
-			//FileReader fr = new FileReader(file.getAbsolutePath());
+			InputStreamReader fr = new InputStreamReader(new FileInputStream(
+					file.getAbsolutePath()), "UTF-8");
+			// FileReader fr = new FileReader(file.getAbsolutePath());
 			Scanner s = new Scanner(fr);
 
 			java.util.Iterator<Card> valueList = dictionary.values().iterator();
@@ -235,7 +236,7 @@ public class Deck {
 			while (s.hasNextLine()) {
 				String line = s.nextLine();
 
-				//line = line.replace(" ", "");
+				// line = line.replace(" ", "");
 				String pID = line.charAt(0) + "";
 
 				for (int i = 1; i < line.length(); i++) {
@@ -251,10 +252,11 @@ public class Deck {
 
 				System.out.println(pID);
 				Card c = dictionary.get(line);
-				if(c == null) {
+				if (c == null) {
 					while (valueList.hasNext()) {
 						Card temp = valueList.next();
-						if(temp.meetsRequirement(pID, "", null, null, -1, -1, null, -1, -1, "", "")) {
+						if (temp.meetsRequirement(pID, "", null, null, -1, -1,
+								null, -1, -1, "", "")) {
 							c = temp;
 						}
 					}
@@ -268,6 +270,7 @@ public class Deck {
 			e.printStackTrace();
 		}
 	}
+
 	// load the deck
 	@SuppressWarnings("unchecked")
 	public void load(File file, HashMap<String, Card> dictionary) {
@@ -320,57 +323,57 @@ public class Deck {
 		else
 			offset = -1;
 		switch (c.getLevel()) {
-			case 3 :
-				numLv3 += offset;
-				break;
-			case 2 :
-				numLv2 += offset;
-				break;
-			case 1 :
-				numLv1 += offset;
-				break;
-			case 0 :
-				if (c.getT() != Type.CLIMAX)
-					numLv0 += offset;
-				break;
-			default :
+		case 3:
+			numLv3 += offset;
+			break;
+		case 2:
+			numLv2 += offset;
+			break;
+		case 1:
+			numLv1 += offset;
+			break;
+		case 0:
+			if (c.getT() != Type.CLIMAX)
+				numLv0 += offset;
+			break;
+		default:
 		}
 
 		switch (c.getC()) {
-			case YELLOW :
-				numYellow += offset;
-				break;
-			case GREEN :
-				numGreen += offset;
-				break;
-			case RED :
-				numRed += offset;
-				break;
-			case BLUE :
-				numBlue += offset;
-				break;
-			default :
+		case YELLOW:
+			numYellow += offset;
+			break;
+		case GREEN:
+			numGreen += offset;
+			break;
+		case RED:
+			numRed += offset;
+			break;
+		case BLUE:
+			numBlue += offset;
+			break;
+		default:
 		}
 
 		switch (c.getT()) {
-			case CLIMAX :
-				numClimax += offset;
-				break;
-			case EVENT :
-				numEvent += offset;
-				break;
-			default :
+		case CLIMAX:
+			numClimax += offset;
+			break;
+		case EVENT:
+			numEvent += offset;
+			break;
+		default:
 		}
 
 		switch (c.getTrigger()) {
-			case DUALSOUL :
-				numSoulTrigger += offset;
-			case SOUL :
-			case SOULWIND :
-			case SOULFLAME :
-				numSoulTrigger += offset;
-				break;
-			default :
+		case DUALSOUL:
+			numSoulTrigger += offset;
+		case SOUL:
+		case SOULWIND:
+		case SOULFLAME:
+			numSoulTrigger += offset;
+			break;
+		default:
 		}
 
 		dmgCount += c.getSoul();
