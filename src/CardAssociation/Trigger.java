@@ -9,7 +9,7 @@
 package CardAssociation;
 
 public enum Trigger {
-	NONE("None"), SOUL("Soul"), DUALSOUL("2 Soul"), SOULWIND("Soul Bounce"), SOULFLAME(
+	ALL("All"), NONE("None"), SOUL("Soul"), DUALSOUL("2 Soul"), SOULWIND("Soul Bounce"), SOULFLAME(
 			"Soul Burn"), GATE("Gate"), TREASURE("Treasure"), BOOK("Book");
 
 	String s;

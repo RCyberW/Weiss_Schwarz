@@ -1,138 +1,86 @@
-種子島に現れた少女 フラウ
-RN/W16-101 TD
+東京万博 あき穂
+RN/W16-001 RR
 Type: Character
-Level: 1
-Color: Red
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Science 科学,_Mecha メカ
+Card Text/Abilities:
+【A】When this card attacks, if 「ロボットが世界を救う！」 is in the Climax slot, choose up to 1 「スーパーガンつく１」 from your Waiting Room, return it to Hand, during this turn, this card gets +3000 Power.
+【自】 このカードがアタックした時、クライマックス置場に「ロボットが世界を救う！」があるなら、あなたは自分の控え室の「スーパーガンつく１」を1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋3000.
+Flavor Text:
+おじゃりもうせ～！
+種子島ロボ部、これより始動します！
+
+==========================
+
+瀬乃宮 あき穂
+RN/W16-002SP SP
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Science 科学,_Mecha メカ
+Card Text/Abilities:
+【C】When your Deck has 5 or less cards, this card gets -1 Level in your Hand.
+【C】EXPERIENCE During your turn, if the total Level of cards in your Level slot is 4 or higher, this card gets +2000 Power.
+【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.
+【永】 あなたの山札が5枚以下なら、あなたの手札のこのカードのレベルを－1。
+【永】 経験 あなたのターン中、あなたのレベル置場のカードのレベルの合計が4以上なら、このカードのパワーを＋2000。
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+Flavor Text:
+
+==========================
+
+瀬乃宮 あき穂
+RN/W16-002 RR
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Science 科学,_Mecha メカ
+Card Text/Abilities:
+【C】When your Deck has 5 or less cards, this card gets -1 Level in your Hand.
+【C】EXPERIENCE During your turn, if the total Level of cards in your Level slot is 4 or higher, this card gets +2000 Power.
+【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.
+【永】 あなたの山札が5枚以下なら、あなたの手札のこのカードのレベルを－1。
+【永】 経験 あなたのターン中、あなたのレベル置場のカードのレベルの合計が4以上なら、このカードのパワーを＋2000。
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+Flavor Text:
+コンディション、オールグリーン！
+最終判断は、ＧＯ！
+
+==========================
+
+おさんぽ 愛理
+RN/W16-003 R
+Type: Character
+Level: 0
+Color: Yellow
 Cost: 0
 Trigger: 0
-Power: 5000
-Soul: 1
-Traits:: Science 科学,_Otaku オタク
-Card Text/Abilities:
-【A】When this card is placed on Stage from Hand, if you have 2 or more other 《科学》 Characters, during this turn, this card gets +1 Level, +1500 Power.
-【自】 このカードが手札から舞台に置かれた時、他のあなたの《科学》のキャラが2枚以上なら、そのターン中、このカードのレベルを+1し、パワーを+1500。
-Flavor Text:
-フラウコウジローじゃないですしおすし
-
-==========================
-
-待望の稼働テスト あき穂
-RN/W16-102SP SP
-Type: Character
-Level: 2
-Color: Yellow
-Cost: 1
-Trigger: 1
-Power: 8000
-Soul: 1
-Traits:: Science 科学,_Mecha メカ
-Card Text/Abilities:
-【A】When another of your 《科学》 Character attacks, during this turn, this card gets +1000 Power.
-【自】 他のあなたの《科学》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。
-Flavor Text:
-カウントー！　さーん、にー、いーち！
-ガンつく１、起動！
-
-==========================
-
-待望の稼働テスト あき穂
-RN/W16-102 TD
-Type: Character
-Level: 2
-Color: Yellow
-Cost: 1
-Trigger: 1
-Power: 8000
-Soul: 1
-Traits:: Science 科学,_Mecha メカ
-Card Text/Abilities:
-【A】When another of your 《科学》 Character attacks, during this turn, this card gets +1000 Power.
-【自】 他のあなたの《科学》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。
-Flavor Text:
-カウントー！　さーん、にー、いーち！
-ガンつく１、起動！
-
-==========================
-
-うわさの幽霊！？ 愛理
-RN/W16-103 TD
-Type: Character
-Level: 2
-Color: Yellow
-Cost: 1
-Trigger: 1
-Power: 4000
+Power: 2500
 Soul: 1
 Traits:: Science 科学,_Net ネット
 Card Text/Abilities:
-【C】This card cannot be chosen by opponent's effects.
-【C】SUPPORT All your Characters in front of this card gets +1000 Power.
-【永】 このカードは相手の効果に選ばれない。
-【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。
+【C】If you have 1 or less other Characters, this card gets +1000 Power, gains 『【A】ENCORE［Place 1 Character from Hand into Waiting Room］』.
+【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。
 Flavor Text:
-やっと、見つけてくれましたね
+なんだか遠足みたいで、楽しかったです
 
 ==========================
 
-一家のしっかり者 淳和
-RN/W16-104 TD
-Type: Character
-Level: 2
-Color: Red
-Cost: 1
-Trigger: 1
-Power: 8500
-Soul: 1
-Traits:: Science 科学,_Sports スポーツ
-Card Text/Abilities:
-Flavor Text:
-いつも言ってるでしょ。
-おかわりは、自分でよそって、って
-
-==========================
-
-“幼馴染”あき穂＆海翔
-RN/W16-105S SR
-Type: Character
-Level: 3
-Color: Yellow
-Cost: 2
-Trigger: 1
-Power: 10000
-Soul: 2
-Traits:: Science 科学,_Mecha メカ
-Card Text/Abilities:
-【C】The Character facing this card gets -1 Soul.
-【C】During your turn, if this card is in the Front Row Center Slot, all your other Characters get +1000 Power.
-【永】 このカードの正面のキャラのソウルを－1。
-【永】 あなたのターン中、前列の中央の枠にこのカードがいるなら、他のあなたのキャラすべてに、パワーを＋1000。
-Flavor Text:
-あき穂「うちとカイは、一心同体なんだから」
-
-==========================
-
-“幼馴染”あき穂＆海翔
-RN/W16-105 TD
-Type: Character
-Level: 3
-Color: Yellow
-Cost: 2
-Trigger: 1
-Power: 10000
-Soul: 2
-Traits:: Science 科学,_Mecha メカ
-Card Text/Abilities:
-【C】The Character facing this card gets -1 Soul.
-【C】During your turn, if this card is in the Front Row Center Slot, all your other Characters get +1000 Power.
-【永】 このカードの正面のキャラのソウルを－1。
-【永】 あなたのターン中、前列の中央の枠にこのカードがいるなら、他のあなたのキャラすべてに、パワーを＋1000。
-Flavor Text:
-あき穂「うちとカイは、一心同体なんだから」
-
-==========================
-
-機動バトラー ガンヴァレル
-RN/W16-P01 PR
+新入部員歓迎会 海翔
+RN/W16-004 R
 Type: Character
 Level: 0
 Color: Yellow
@@ -140,51 +88,271 @@ Cost: 0
 Trigger: 0
 Power: 3000
 Soul: 1
-Traits:: Mecha メカ,
+Traits:: Science 科学,_Game ゲーム
 Card Text/Abilities:
+【A】When you Level Up, place this card into Waiting Room.
+【S】CONCENTRATE［①］Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, during this turn, this card gets +1000 Power, +1 Soul.
+【自】 あなたがレベルアップした時、このカードを控え室に置く。
+【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、そのターン中、このカードのパワーを＋1000し、ソウルを＋1。
 Flavor Text:
-疾風怒濤の！ 元気一発、ガンヴァレル！
+心ゆくまでロボ部の活動を見てってよ
 
 ==========================
 
-放課後のあき穂
-RN/W16-P02 PR
+命の恩人 あき穂
+RN/W16-005 R
 Type: Character
 Level: 1
 Color: Yellow
-Cost: 1
-Trigger: 1
-Power: 2000
+Cost: 0
+Trigger: 0
+Power: 3000
 Soul: 1
-Traits:: Science 科学,_Mecha メカ
+Traits:: Science 科学,_Game ゲーム
 Card Text/Abilities:
-【S】● ASSIST 2000 LEVEL 1 ［① Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +2000 Power)
-【起】● 助太刀 2000 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000)
+【C】All your other 《科学》 Characters get +500 Power.
+【S】［Place the top card of your Deck into Clock, REST 2 of your Characters］Choose 1 「ある夏の日 海翔」 from your Waiting Room, place it into any slot on Stage.
+【永】 他のあなたの《科学》のキャラすべてに、パワーを＋500。
+【起】［あなたの山札の上から1枚をクロック置場に置き、あなたのキャラを2枚【レスト】する］ あなたは自分の控え室の「ある夏の日 海翔」を1枚選び、舞台の好きな枠に置く。
 Flavor Text:
-ほらカイ、ハンガー行くよ！
+ばか……！　なにやってるのよぅ、カイったら！
+心配、させて……！
 
 ==========================
 
-放課後のフラウ＆淳和＆昴
-RN/W16-P03 PR
+火のついた闘志 海翔
+RN/W16-006 R
 Type: Character
 Level: 2
-Color: Red
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Science 科学,_Game ゲーム
+Card Text/Abilities:
+【A】［Place 1 card from your Hand into Waiting Room］When you use this card's 『ASSIST』, you may pay the cost. If you did, choose up to 2 cards from your opponent's Waiting Room, return them to Deck. Your opponent shuffles that Deck afterwards.
+【S】● ASSIST 2500 Level 2［① Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +2500 Power.)
+【自】［手札を1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードを2枚まで選び、山札に戻す。相手はその山札をシャッフルする。
+【起】● 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）
+Flavor Text:
+当然でしょ。
+綯さんくらいの実力者となら、一日中でもやってたいよ
+
+==========================
+
+最終決戦 海翔
+RN/W16-007 R
+Type: Character
+Level: 2
+Color: Yellow
 Cost: 1
 Trigger: 1
 Power: 8000
 Soul: 1
-Traits:: Science 科学,
+Traits:: Science 科学,_Game ゲーム
 Card Text/Abilities:
-【A】 When another of your Character becomes REVERSE in battle, during this turn, this card gets +1000 Power.
-【自】 他のあなたのバトル中のキャラがリバースした時、そのターン中、このカードのパワーを＋1000。
+【A】At the beginning of your Encore Step, if 「決意の円陣」 is in your Climax slot, you may place this card into Memory. If you did, at the beginning of your next Draw Phase, choose 1 「最終決戦 海翔」 from your Memory, place it into any slot on Stage, during this turn, that Character gets +4500 Power, +1 Soul.
+【自】 あなたのアンコールステップの始めに、クライマックス置場に「決意の円陣」があるなら、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「最終決戦 海翔」を1枚選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋4500し、ソウルを＋1。
 Flavor Text:
-フラウ「空手先輩、テラいい匂い……クンカクンカ」
+さあ、ここからは、俺のゲームだ……！
+
+==========================
+
+新入部員歓迎会 あき穂
+RN/W16-008 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger:
+Power: 500
+Soul: 1
+Traits:: Science 科学,_Mecha メカ
+Card Text/Abilities:
+【C】During your turn, all your other Characters get +500 Power.
+【S】［REST 1 of your Characters］Choose 1 of your Characters, during this turn, it gets +500 Power.
+【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。
+【起】［あなたのキャラを1枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+それじゃ、新入部員のスバルとジュンを歓迎して、
+かんぱーい♪
+
+==========================
+
+支えあう仲間 海翔＆あき穂
+RN/W16-009S SR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger:
+Power: 500
+Soul: 1
+Traits:: Science 科学,_Game ゲーム
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +500 Power.
+【S】［REST this card］Choose 1 of your Characters with 「あき穂」 in its name, during this turn, it gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】［このカードを【レスト】する］ あなたは自分のカード名に「あき穂」を含むキャラを1枚選び、そのターン中、パワーを＋500。。
+Flavor Text:
+
+==========================
+
+支えあう仲間 海翔＆あき穂
+RN/W16-009 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger:
+Power: 500
+Soul: 1
+Traits:: Science 科学,_Game ゲーム
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +500 Power.
+【S】［REST this card］Choose 1 of your Characters with 「あき穂」 in its name, during this turn, it gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】［このカードを【レスト】する］ あなたは自分のカード名に「あき穂」を含むキャラを1枚選び、そのターン中、パワーを＋500。。
+Flavor Text:
+海翔「どうやら、もうしばらく、
+俺はアキちゃんに付き合わなくちゃいけないみたいだね」
+
+==========================
+
+放課後の海翔
+RN/W16-010 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger:
+Power: 500
+Soul: 1
+Traits:: Science 科学,_Game ゲーム
+Card Text/Abilities:
+【A】When this card attacks, choose 1 of your 《科学》 Characters, during this turn, it gets +500 Power.
+【A】 BOND／「東京万博 あき穂」［Place the top card of your Deck into Clock］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「東京万博 あき穂」 from your Waiting Room, return to Hand)
+【自】 このカードがアタックした時、あなたは自分の《科学》のキャラを1枚選び、そのターン中、パワーを＋500。
+【自】 絆／「東京万博 あき穂」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「東京万博 あき穂」を1枚選び、手札に戻す)
+Flavor Text:
+うわ、アキちゃん、やめてくれよー！
+
+==========================
+
+ある夏の日 海翔
+RN/W16-011 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger:
+Power: 6000
+Soul: 1
+Traits:: Science 科学,_Game ゲーム
+Card Text/Abilities:
+【A】［Place 1 Character from Hand into Waiting Room］When this card is placed on Stage from Hand, you may pay the cost. If you did not, place this card into Waiting Room.
+【S】［①］During this turn, this card gets +1 Soul.
+【自】［手札のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしないなら、このカードを控え室に置く。
+【起】［①］ そのターン中、このカードのソウルを＋1。
+Flavor Text:
+ジュンちゃんって体力もパワーもあるんだね
+
+==========================
+
+キルバラ対決！ 海翔
+RN/W16-012 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger:
+Power: 6500
+Soul: 1
+Traits:: Science 科学,_Game ゲーム
+Card Text/Abilities:
+【C】EXPERIENCE If the total Level of cards in your Level slot is 2 or higher, this card gets +500 Power, gains 『【A】 ENCORE［Place 1 Character from Hand into Waiting Room］』.
+【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。
+Flavor Text:
+よっしゃあ！　うおおおお！
+
+==========================
+
+“拡張プレイス”あき穂
+RN/W16-013R RRR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Science 科学,_Mecha メカ
+Card Text/Abilities:
+【C】For each of your other Characters in REST this card gets +500 Power.
+【永】 他のあなたの【レスト】しているキャラ1枚につき、このカードのパワーを＋500。
+Flavor Text:
+
+==========================
+
+“拡張プレイス”あき穂
+RN/W16-013 U
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Science 科学,_Mecha メカ
+Card Text/Abilities:
+【C】For each of your other Characters in REST this card gets +500 Power.
+【永】 他のあなたの【レスト】しているキャラ1枚につき、このカードのパワーを＋500。
+Flavor Text:
+待ってるだけじゃ、なにも進まないから！
+
+==========================
+
+ロボ部部長 あき穂
+RN/W16-014 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Science 科学,_Mecha メカ
+Card Text/Abilities:
+【C】During your turn, this card gets +1000 Power.
+【永】 あなたのターン中、このカードのパワーを＋1000。
+Flavor Text:
+なんとしても部費を手に入れる。
+そうして、今年中にガンつく１を完成させるの
+
+==========================
+
+タネガシマシン３改
+RN/W16-015 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Science 科学,_Mecha メカ
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, during this turn, this card gets +1500 Power.
+【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。
+Flavor Text:
+あき穂「ガンヴァルラッシュ！ ラッシュ！
+ガンヴァルブロー！」
 
 ==========================
 
 儚げな美少女 愛理
-RN/W16-T01 TD
+RN/W16-016 C
 Type: Character
 Level: 0
 Color: Yellow
@@ -199,27 +367,8 @@ Flavor Text:
 
 ==========================
 
-ロボ部部長 あき穂
-RN/W16-T02 TD
-Type: Character
-Level: 0
-Color: Yellow
-Cost: 0
-Trigger: 0
-Power: 2500
-Soul: 1
-Traits:: Science 科学,_Mecha メカ
-Card Text/Abilities:
-【C】During this turn, this card gets +1000 Power.
-【永】 あなたのターン中、このカードのパワーを＋1000。
-Flavor Text:
-なんとしても部費を手に入れる。
-そうして、今年中にガンつく１を完成させるの
-
-==========================
-
 猪突猛進！ あき穂
-RN/W16-T03 TD
+RN/W16-017 C
 Type: Character
 Level: 1
 Color: Yellow
@@ -231,15 +380,51 @@ Traits:: Science 科学,_Mecha メカ
 Card Text/Abilities:
 【A】［①］When this card attacks, if 「追い続ける夢」 is in the Climax slot, you may pay the cost. If you did, during this turn, this card gets +4000 Power, +1 Soul.
 【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
-【自】 ［①］ このカードがアタックした時、クライマックス置場に「追い続ける夢」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋4000し、ソウルを＋1。
-【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠にレストして置く）
+【自】［①］ このカードがアタックした時、クライマックス置場に「追い続ける夢」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋4000し、ソウルを＋1。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
 Flavor Text:
 食らえー！　タネガシアッパー！
 
 ==========================
 
+青空の下 愛理
+RN/W16-018S SR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Science 科学,_Net ネット
+Card Text/Abilities:
+【A】When this card attacks, choose up to 2 of your 《科学》 Characters, during this turn, they get +500 Power.
+【自】 このカードがアタックした時、あなたは自分の《科学》のキャラを2枚まで選び、そのターン中、パワーを＋500。
+Flavor Text:
+
+==========================
+
+青空の下 愛理
+RN/W16-018 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Science 科学,_Net ネット
+Card Text/Abilities:
+【A】When this card attacks, choose up to 2 of your 《科学》 Characters, during this turn, they get +500 Power.
+【自】 このカードがアタックした時、あなたは自分の《科学》のキャラを2枚まで選び、そのターン中、パワーを＋500。
+Flavor Text:
+お兄ちゃん、お散歩行きましょう♪
+いい天気ですよ
+
+==========================
+
 格闘ゲーマー 海翔
-RN/W16-T04 TD
+RN/W16-019 C
 Type: Character
 Level: 1
 Color: Yellow
@@ -255,7 +440,7 @@ Flavor Text:
 ==========================
 
 メンテ中 あき穂
-RN/W16-T05 TD
+RN/W16-020 C
 Type: Character
 Level: 2
 Color: Yellow
@@ -270,8 +455,61 @@ Flavor Text:
 
 ==========================
 
+スーパーガンつく１
+RN/W16-021 U
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+● If you have no 《科学》 Characters, you cannot play this card from Hand. Choose 1 of your Characters, during this turn, it gets +4000 Power.
+● このカードは、あなたの《科学》のキャラがいないなら、手札からプレイできない。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。
+Flavor Text:
+
+==========================
+
+正義の象徴 ガンヴァレル
+RN/W16-022 C
+Type: Event
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+You may choose 1 of your 《科学》 Characters, place it into Clock. If you did, choose 1 《科学》 Character with Level equal or less than your Level from your Waiting Room, place it into any slot on Stage, during this turn, that Character gets +2000 Power, +1 Soul.
+あなたは自分の《科学》のキャラを1枚選び、クロック置場に置いてよい。そうしたら、あなたは自分の控え室の自分のレベル以下のレベルの《科学》のキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋2000し、ソウルを＋1。
+Flavor Text:
+
+==========================
+
+ロボットが世界を救う！
+RN/W16-023 CR
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+正義は！ 絶対に！ 勝つんだ！
+勝って、うちらが！　お姉ちゃんを助けるんだ！
+
+==========================
+
 追い続ける夢
-RN/W16-T07 TD
+RN/W16-024 CC
 Type: Climax
 Level: 0
 Color: Yellow
@@ -284,15 +522,919 @@ Card Text/Abilities:
 【C】All your Characters get +1000 Power, +1 Soul.
 (Flame：When this card is Triggered, if your current attacking Character's damage is cancelled, deal 1 damage to the opponent.)
 【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
-（射：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）
+（射＠：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）
 Flavor Text:
 疾風怒涛のー！　元気一発！
 ガンヴァレル！　おー！
 
 ==========================
 
+決意の円陣
+RN/W16-025 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1W
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return to Hand)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（戻＠：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）
+Flavor Text:
+あき穂「チュウタネ、ロボ部～！ 元気一発！
+よいら～いき～！」「よいら～いき～！」
+
+==========================
+
+過去のトラウマ 淳和
+RN/W16-026 RR
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Science 科学,_Sports スポーツ
+Card Text/Abilities:
+【A】［②］When this card attacks, if 「踏み出せた一歩」 is in the Climax slot, you may pay the cost. If you did, choose 1 《科学》 Character with Cost 1 or lower from your Waiting Room, place it into any slot on Stage in REST.
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】［②］ このカードがアタックした時、クライマックス置場に「踏み出せた一歩」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のコスト1以下の《科学》のキャラを1枚選び、舞台の好きな枠に【レスト】して置く。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+やめてっ！ あなたなんか、友達じゃ、ないっ……！
+触らないで……っ！
+
+==========================
+
+水着のフラウ
+RN/W16-027R RRR
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Science 科学,_Otaku オタク
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card get +X. X is equals to that Character's Level ×500.
+【A】［REST this card］When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 of your 《科学》 Character, during this turn, it gains the following ability.『【A】When this card's battle opponent becomes REVERSE, you may place the top card of your Deck into Stock.』
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。
+【自】［このカードを【レスト】する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の《科学》のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』
+Flavor Text:
+
+==========================
+
+水着のフラウ
+RN/W16-027 RR
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Science 科学,_Otaku オタク
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card get +X. X is equals to that Character's Level ×500.
+【A】［REST this card］When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 of your 《科学》 Character, during this turn, it gains the following ability.『【A】When this card's battle opponent becomes REVERSE, you may place the top card of your Deck into Stock.』
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。
+【自】［このカードを【レスト】する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の《科学》のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』
+Flavor Text:
+く、腐ってますが……ど、どぞ
+
+==========================
+
+天王寺 綯
+RN/W16-028 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Science 科学,_Sports スポーツ
+Card Text/Abilities:
+【A】［Place the top card of your Deck into Clock］When this card attacks, if 「ひと夏のアバンチュール」 is in the Climax slot, you may pay the cost. If you di, choose 1 《科学》 Character from your Waiting Room, place it into Stock, choose 1 of your 《科学》 Characters, during this turn, it gets +3500 Power.
+【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、クライマックス置場に「ひと夏のアバンチュール」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《科学》のキャラを1枚選び、ストック置場に置き、自分の《科学》のキャラを1枚選び、そのターン中、パワーを＋3500。
+Flavor Text:
+それは、デートのお誘い、だったりして
+
+==========================
+
+自殺未遂！？ フラウ
+RN/W16-029 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Science 科学,_Otaku オタク
+Card Text/Abilities:
+【C】EXPERIENCE If the total Level of cards in your Level slot is 3 or higher, this card gains the following ability.『【A】This ability can only be activated 1 time each turn. When you used 【S】, during this turn, this card gets +1 Level, +1500 Power.』
+【A】When this card attacks, if 「差し伸べた手」 is in the Climax slot, choose 1 of your other Characters, during this turn, it gets +3000 Power, this card gets +3000 Power.
+【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードは次の能力を得る。『【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのレベルを＋1し、パワーを＋1500。』
+【自】 このカードがアタックした時、クライマックス置場に「差し伸べた手」があるなら、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋3000し、このカードのパワーを＋3000。
+Flavor Text:
+う……うぅぅ……。汚される……。
+ガンヴァレルが……汚されちゃう……
+
+==========================
+
+初めての対戦 綯
+RN/W16-030 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Science 科学,_Sports スポーツ
+Card Text/Abilities:
+【A】When this card becomes REVERSE in battle, if you have 3 or more other 《科学》 Characters, you may place this card into Stock.
+【自】 バトル中のこのカードが【リバース】した時、他のあなたの《科学》のキャラが3枚以上なら、あなたはこのカードをストック置場に置いてよい。
+Flavor Text:
+あ～、惜しかった……やりますね、海翔くん
+
+==========================
+
+吹っ切れた思い 淳和
+RN/W16-031 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Science 科学,_Sports スポーツ
+Card Text/Abilities:
+【C】If you have 2 or more other 《科学》 Characters, this card gets +1000 Power.
+【永】 他のあなたの《科学》のキャラが2枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+あたし、えと、変わろうって、思ったの
+
+==========================
+
+大徳 淳和
+RN/W16-032 R
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Science 科学,_Sports スポーツ
+Card Text/Abilities:
+【C】For each of your other 《科学》 Characters, this card gets +500 Power.
+【A】This ability can only be activated 1 time each turn. When you used 【S】, all your Characters, during this turn, get +2000 Power.
+【永】 他のあなたの《科学》のキャラ1枚につき、このカードのパワーを＋500。
+【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたのキャラすべてに、そのターン中、パワーを＋2000。
+Flavor Text:
+これからも、よろしくね
+
+==========================
+
+不思議な関係 フラウ＆淳和
+RN/W16-033R RRR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Science 科学,_Otaku オタク
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +500 Power.
+【S】［REST this card］If your opponent has a Character with Level 2 or higher, choose 1 of your 《科学》 Characters, during this turn, it gets +1000 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】［このカードを【レスト】する］ 相手のレベル2以上のキャラがいるなら、あなたは自分の《科学》のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+
+==========================
+
+不思議な関係 フラウ＆淳和
+RN/W16-033 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Science 科学,_Otaku オタク
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +500 Power.
+【S】［REST this card］If your opponent has a Character with Level 2 or higher, choose 1 of your 《科学》 Characters, during this turn, it gets +1000 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】［このカードを【レスト】する］ 相手のレベル2以上のキャラがいるなら、あなたは自分の《科学》のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+フラウ「この香り……バニラですな。
+色気出しおって、このビッチが。爆発しろ……」
+
+==========================
+
+藤田 鉄治
+RN/W16-034 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Science 科学,_Mecha メカ
+Card Text/Abilities:
+【A】 BOND／「過去のトラウマ 淳和」［Place the top card of your Deck into Clock］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「過去のトラウマ 淳和」 from your Waiting Room, return to Hand)
+【S】［REST this card］Choose 1 of your 《科学》 Characters, during this turn, it gets +500 Power.
+【自】 絆／「過去のトラウマ 淳和」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「過去のトラウマ 淳和」を1枚選び、手札に戻す)
+【起】［このカードを【レスト】する］ あなたは自分の《科学》のキャラを1枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+ロボットを、悪者にも、したくねぇんだ
+子供とロボットは、一緒にいない方が、幸せなんだよ
+
+==========================
+
+瀬乃宮 健一郎
+RN/W16-035 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Science 科学,_Mecha メカ
+Card Text/Abilities:
+【A】This ability can only be activated 1 time each turn. When you used 【S】, choose 1 of your Characters, during this turn, it gets +1000 Power.
+【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+若い人だけじゃないよ。我々のようなおじさんにも、
+ロボットが好きな人はたくさんいる
+
+==========================
+
+ブースターパック - ロボティクス・ノーツ
+RN/W16-036 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Science 科学,_Sports スポーツ
+Card Text/Abilities:
+【C】If you have another 《科学》 Character in REST, this card gets +1000 Power.
+【永】 他のあなたの【レスト】している《科学》のキャラがいるなら、このカードのパワーを＋1000。
+Flavor Text:
+あ、ごめん。えと、たこ焼き、好きだから、つい……。
+あの、日高くんも、よかったら
+
+==========================
+
+悩める年頃 淳和
+RN/W16-037 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Science 科学,_Sports スポーツ
+Card Text/Abilities:
+【A】CHANGE［③ Place this card into Clock］At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 「吹っ切れた思い 淳和」 from your Waiting Room, place it into this card's previous slot.
+【S】● ASSIST 1500 LEVEL 1 ［① Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +1500 Power)
+【自】 チェンジ ［③ このカードをクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「吹っ切れた思い 淳和」を1枚選び、このカードがいた枠に置く。
+【起】● 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）
+Flavor Text:
+あたしって、空っぽだなあ、って
+なにやっても、ダメダメだし
+
+==========================
+
+禁断の妄想 フラウ
+RN/W16-038 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Science 科学,_Otaku オタク
+Card Text/Abilities:
+【C】For each of your other Characters in REST, this card gets +1000 Power.
+【永】 他のあなたの【レスト】しているキャラ1枚につき、このカードのパワーを＋1000。
+Flavor Text:
+カプとしてはメガネ×八汐先輩の一択だろ常考。
+異論は認めない
+
+==========================
+
+長深田 充彦
+RN/W16-039 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Science 科学,_Teacher 先生
+Card Text/Abilities:
+【S】［① REST this card］Choose 1 card from your Clock, return it to Hand. Choose 1 card from your Hand, place it into Clock.
+【起】［① このカードを【レスト】する］ あなたは自分のクロックを1枚選び、手札に戻す。あなたは自分の手札を1枚選び、クロック置場に置く。
+Flavor Text:
+いいか八汐、いいこと教えてやる。
+頭が真っ白になったときは、とりあえず笑ってごまかせ。
+これ豆知識な
+
+==========================
+
+よいら～いき祭り 綯
+RN/W16-040 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Science 科学,_Sports スポーツ
+Card Text/Abilities:
+【S】［①］During this turn, this card gets +2000 Power.
+【起】［①］ そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+なかなか面白い先生ですね
+これ豆知識な
+
+==========================
+
+浴衣の淳和
+RN/W16-041S SR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Science 科学,_Sports スポーツ
+Card Text/Abilities:
+Flavor Text:
+
+==========================
+
+浴衣の淳和
+RN/W16-041 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Science 科学,_Sports スポーツ
+Card Text/Abilities:
+Flavor Text:
+ああ、愛理ちゃん、
+ほら、口、拭いてあげるから、じっとしてて
+
+==========================
+
+長深田 澄夫
+RN/W16-042 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Sweets お菓子,_Animal 動物
+Card Text/Abilities:
+【S】［③ REST 2 of your Characters］All your Characters, during this turn, get +3000 Power.
+【起】［③ あなたのキャラを2枚【レスト】する］ あなたのキャラすべてに、そのターン中、パワーを＋3000。
+Flavor Text:
+インパクトォォォ！これ！ これよお！
+これこそワシが求めとったインパクトじゃ！
+
+==========================
+
+本当の気持ち フラウ
+RN/W16-043 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Science 科学,_Otaku オタク
+Card Text/Abilities:
+Flavor Text:
+少しだけ、このままで……話、聞いてほしい
+
+==========================
+
+与四郎くん
+RN/W16-044 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Science 科学,_Mecha メカ
+Card Text/Abilities:
+【A】When this card is place from Hand or Waiting onto Stage, choose 1 of your other 《科学》 Characters, during this turn, it gets +2000 Power.
+【自】 このカードが手札か控え室から、舞台に置かれた時、あなたは他の自分の《科学》のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+コンニチワ。ボクノナマエハ、ヨシロウ。
+ミンナノ、オトモダチロボットダヨ。ヨロシクネ
+
+==========================
+
+臼井 薫子
+RN/W16-045 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Teacher 先生,
+Card Text/Abilities:
+【A】When this card becomes REVERSE in battle, choose up to 2 of your other 《科学》 Characters, during this turn, they gain 『【A】ENCORE［Place 1 Character from Hand into Waiting Room］』.
+【自】 バトル中のこのカードが【リバース】した時、あなたは他の自分の《科学》のキャラを2枚まで選び、そのターン中、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。
+Flavor Text:
+ですから、ロボ部をもう一度復活させるために、
+全員、入部届を書きなさいと言っているのです
+
+==========================
+
+閃光の一撃
+RN/W16-046 U
+Type: Event
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose up to 2 of your 《科学》 Characters, STAND them.
+あなたは自分の《科学》のキャラを2枚まで選び、【スタンド】する。
+Flavor Text:
+せやあっ！
+
+==========================
+
+スーパーリンペイ
+RN/W16-047 U
+Type: Event
+Level: 2
+Color: Green
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your Characters, until the end of your opponent's next turn, it gets +1500 Power. Place this card into Stock.
+あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1500。このカードをストック置場に置く。
+Flavor Text:
+すぅぅぅぱぁぁぁありんぺぇぇいい！
+
+==========================
+
+踏み出せた一歩
+RN/W16-048 CR
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: G
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（宝＠：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）
+Flavor Text:
+きっとまた、お友達になるから
+それまで、おじいちゃんに、生きててほしい
+
+==========================
+
+差し伸べた手
+RN/W16-049 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: S
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Bag：When this card is Triggered, you may place the top card of your Deck into Stock)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（溜＠：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい）
+Flavor Text:
+ガンヴァレルが……汚されちゃう……
+やしお……せん……ぱい……たす……けて……
+
+==========================
+
+ひと夏のアバンチュール
+RN/W16-050 CC
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+もうちょっと、
+憧れのお姉さんでい続けてもよかったかな……
+
+==========================
+
+小さくても力持ち 淳和
+RN/W16-051S SR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Science 科学,_Sports スポーツ
+Card Text/Abilities:
+【C】All your 《科学》 Characters get +1000 Power.
+【C】EXPERIENCE If the total Level of cards in your Level slot is 4 or higher, this card gains the following ability.『【S】［REST 2 of your Characters］Choose 1 of your Characters, during this turn, it gets +1000 Power.』
+【永】 他のあなたの《科学》のキャラすべてに、パワーを＋1000。
+【永】 経験 あなたのレベル置場のカードのレベルの合計が4以上なら、このカードは次の能力を得る。『【起】［あなたのキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。』
+Flavor Text:
+
+==========================
+
+小さくても力持ち 淳和
+RN/W16-051 RR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 6000
+Soul: 1
+Traits:: Science 科学,_Sports スポーツ
+Card Text/Abilities:
+【C】All your other 《科学》 Characters get +1000 Power.
+【C】EXPERIENCE If the total Level of cards in your Level slot is 4 or higher, this card gains the following ability.『【S】［REST 2 of your Characters］Choose 1 of your Characters, during this turn, it gets +1000 Power.』
+【永】 他のあなたの《科学》のキャラすべてに、パワーを＋1000。
+【永】 経験 あなたのレベル置場のカードのレベルの合計が4以上なら、このカードは次の能力を得る。『【起】［あなたのキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。』
+Flavor Text:
+神代さん……っ、せめて……っ、
+少しは歩こうとして……っ
+
+==========================
+
+神代 フラウ
+RN/W16-052S SR
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Science 科学,_Otaku オタク
+Card Text/Abilities:
+【C】This card cannot become REVERSE by your opponent's Character's 【A】 effects.
+【A】When this card attacks, if 「ガンヴァレルを輝かせるために」 is in the Climax slot, choose up to 1 Character from your Waiting Room, return it to Hand, during this turn, this card gets +3000 Power.
+【A】［①］During your turn, if this card's battle opponent becomes REVERSE, you may pay the cost. If you did, choose 1 of your opponent's Front Row Character with Level 2 or lower, place it to the top of the Deck.
+【永】 このカードは相手のキャラの【自】の効果によって【リバース】されない。
+【自】 このカードがアタックした時、クライマックス置場に「ガンヴァレルを輝かせるために」があるなら、あなたは自分の控え室のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋3000。
+【自】［①］ あなたのターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル2以下のキャラを1枚選び、山札の上に置く。
+Flavor Text:
+
+==========================
+
+神代 フラウ
+RN/W16-052 RR
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Science 科学,_Otaku オタク
+Card Text/Abilities:
+【C】This card cannot become REVERSE by your opponent's Character's 【A】 effects.
+【A】When this card attacks, if 「ガンヴァレルを輝かせるために」 is in the Climax slot, choose up to 1 Character from your Waiting Room, return it to Hand, during this turn, this card gets +3000 Power.
+【A】［①］During your turn, if this card's battle opponent becomes REVERSE, you may pay the cost. If you did, choose 1 of your opponent's Front Row Character with Level 2 or lower, place it to the top of the Deck.
+【永】 このカードは相手のキャラの【自】の効果によって【リバース】されない。
+【自】 このカードがアタックした時、クライマックス置場に「ガンヴァレルを輝かせるために」があるなら、あなたは自分の控え室のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋3000。
+【自】［①］ あなたのターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル2以下のキャラを1枚選び、山札の上に置く。
+Flavor Text:
+じ、実にけしからん。だがそれがいい。デュフフ
+
+==========================
+
+不安げな眼差し 淳和
+RN/W16-053 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Science 科学,_Sports スポーツ
+Card Text/Abilities:
+【A】［Place 1 Climax from Hand into Waiting Room］When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 《科学》 Characters from your Waiting Room, return it to Hand.
+【S】［REST this card］Choose 1 of your Characters, during this turn, it gets +500 Power.
+【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《科学》のキャラを1枚選び、手札に戻す。
+【起】［このカードを【レスト】する］ あなたは自分のキャラを１枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+あ、えと、えっ！？
+
+==========================
+
+キルバラ対決！ フラウ
+RN/W16-054S SR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Science 科学,_Otaku オタク
+Card Text/Abilities:
+【C】If you have no other Characters, this card gets +2000 Power.
+【永】 他のあなたのキャラがいないなら、このカードのパワーを＋2000。
+Flavor Text:
+
+==========================
+
+キルバラ対決！ フラウ
+RN/W16-054 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Science 科学,_Otaku オタク
+Card Text/Abilities:
+【C】If you have no other Characters, this card gets +2000 Power.
+【永】 他のあなたのキャラがいないなら、このカードのパワーを＋2000。
+Flavor Text:
+ぐぬぬ……？
+
+==========================
+
+諦めた夢 昴
+RN/W16-055 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Science 科学,_Glasses メガネ
+Card Text/Abilities:
+【A】When this card attacks, if 「父親との軋轢」 is in the Climax slot, during this turn, this card gets +X Power. X is equals to the number of your other 《科学》 Characters and Characters with 「宏武」 in its name ×1000.
+【自】 このカードがアタックした時、クライマックス置場に「父親との軋轢」があるなら、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの、《科学》かカード名に「宏武」を含むキャラの枚数×1000に等しい。
+Flavor Text:
+もう、いいんです。もう、僕の夢は終わったんで
+
+==========================
+
+浴衣のフラウ
+RN/W16-056SP SP
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Science 科学,_Otaku オタク
+Card Text/Abilities:
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【S】［REST 1 of your 《科学》 Characters］during this turn, this card gets +1000 Power.
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+【起】［あなたの《科学》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+
+==========================
+
+浴衣のフラウ
+RN/W16-056 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Science 科学,_Otaku オタク
+Card Text/Abilities:
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【S】［REST 1 of your 《科学》 Characters］during this turn, this card gets +1000 Power.
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+【起】［あなたの《科学》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+浴衣デートなんてリア充すぎて吐血しそうですデュフフ
+
+==========================
+
+家庭的な一面 淳和
+RN/W16-057 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Science 科学,_Sports スポーツ
+Card Text/Abilities:
+【A】［①］When 「子供たちの良きお姉さん」 is placed into your Climax slot, if this card is in the Front Row, you may pay the cost. If you did, all your Characters, during this turn, get +2000 Power, gains the following ability.『【A】When this card's battle opponent becomes REVERSE, look at the top card of your Deck, place it at the top of the Deck or into Waiting Room.』
+【自】［①］ あなたのクライマックス置場に「子供たちの良きお姉さん」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋2000し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。』
+Flavor Text:
+えと、おかわり？ 遠慮なく食べてね。
+お口に合うと、いいんだけど
+
+==========================
+
+家庭的な一面 淳和
+RN/W16-057 SP SP
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Science 科学,_Sports スポーツ
+Card Text/Abilities:
+【A】［①］When 「子供たちの良きお姉さん」 is placed into your Climax slot, if this card is in the Front Row, you may pay the cost. If you did, all your Characters, during this turn, get +2000 Power, gains the following ability.『【A】When this card's battle opponent becomes REVERSE, look at the top card of your Deck, place it at the top of the Deck or into Waiting Room.』
+【自】［①］ あなたのクライマックス置場に「子供たちの良きお姉さん」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋2000し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。』
+Flavor Text:
+
+==========================
+
+ライフはゼロ フラウ
+RN/W16-058 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Science 科学,_Otaku オタク
+Card Text/Abilities:
+【A】When this card becomes REVERSE, if this card's battle opponent is Level 0 or lower, you may REVERSE that Character.
+【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。
+Flavor Text:
+うっぷ……テラキモス……
+
+==========================
+
+ミスター・プレアデス
+RN/W16-059 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Science 科学,_Mask 仮面
+Card Text/Abilities:
+【S】［①］During this turn, this card gets +1000 Power, gains the following ability.『【A】 When this card's battle opponent becomes REVERSE, you may place that Character to the top of the Deck.』
+【起】［①］ そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』
+Flavor Text:
+7人の女神の祝福により、
+我、400光年の彼方よりここに降臨。
+アイアム――ミスター・プレアデス！
+
+==========================
+
+日高 宏武
+RN/W16-060 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+【C】All your other 「諦めた夢 昴」 get +1000 Power.
+【永】 他のあなたの「諦めた夢 昴」すべてに、パワーを＋1000。
+Flavor Text:
+お前は約束したはずだ。
+こんなオモチャ遊びは二度としないと
+アイアム――ミスター・プレアデス！
+
+==========================
+
+廃墟の訪問者 昴
+RN/W16-061 U
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Science 科学,_Glasses メガネ
+Card Text/Abilities:
+【C】 EXPERIENCE If the total Level of cards in your Level slot is 3 or higher, this card gets +1000 Power.
+【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのパワーを＋1000。
+Flavor Text:
+せめて、は、はにゃしぐらい聞いてくれないか
+
+==========================
+
+秘密の共有 フラウ
+RN/W16-062 U
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Science 科学,_Otaku オタク
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, choose 1 of your other 《科学》 Characters, during this turn, it gets +1000 Power.
+【A】CHANGE［① Place 1 card from Hand into Waiting Room, place this card into Waiting Room］At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 「神代 フラウ」 from your Waiting Room, place it into this card's previous slot.
+【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《科学》のキャラを1枚選び、そのターン中、パワーを＋1000。
+【自】 チェンジ ［(1) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「神代 フラウ」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+だ、だれにも言えない秘密の共有。デュフフ
+
+==========================
+
+Ｍ４５
+RN/W16-063 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Science 科学,_Mecha メカ
+Card Text/Abilities:
+【C】All your 「ミスター・プレアデス」 get +1000 Power.
+【A】 BOND／「ミスター・プレアデス」［①］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「ミスター・プレアデス」 from your Waiting Room, return to Hand)
+【永】 他のあなたの「ミスター・プレアデス」すべてに、パワーを＋1000。
+【自】 絆／「ミスター・プレアデス」 ［①］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ミスター・プレアデス」を1枚選び、手札に戻す)
+Flavor Text:
+『死角ゼロの全方位迎撃！
+一度間合いに入った獲物は、決して逃がさないのだァ！』
+
+==========================
+
 気弱な空手少女 淳和
-RN/W16-T08 TD
+RN/W16-064 C
 Type: Character
 Level: 0
 Color: Red
@@ -309,26 +1451,8 @@ Flavor Text:
 
 ==========================
 
-ライフはゼロ フラウ
-RN/W16-T09 TD
-Type: Character
-Level: 0
-Color: Red
-Cost: 0
-Trigger: 0
-Power: 2000
-Soul: 1
-Traits:: Science 科学,_Otaku オタク
-Card Text/Abilities:
-【A】When this card becomes REVERSE, if this card's battling opponent is Level 0 or lower, you may REVERSE that Character.
-【自】 このカードがリバースした時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをリバースしてよい。
-Flavor Text:
-うっぷ……テラキモス……
-
-==========================
-
 不遜な態度 昴
-RN/W16-T10 TD
+RN/W16-065 C
 Type: Character
 Level: 0
 Color: Red
@@ -345,8 +1469,43 @@ Flavor Text:
 
 ==========================
 
+新入部員歓迎会 昴
+RN/W16-066 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Science 科学,_Glasses メガネ
+Card Text/Abilities:
+【A】When your other 《科学》 Character attacks, during this turn, this card gets +1000 Power.
+【自】 他のあなたの《科学》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+おごってもらって感謝はしていますが。
+これを飲んだら先に帰らせてもらいます
+
+==========================
+
+よいら～いき祭り 昴
+RN/W16-067 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Science 科学,_Glasses メガネ
+Card Text/Abilities:
+Flavor Text:
+ふーふーふー
+
+==========================
+
 モーションアクトレス 淳和
-RN/W16-T11 TD
+RN/W16-068 C
 Type: Character
 Level: 1
 Color: Red
@@ -362,45 +1521,45 @@ Flavor Text:
 ==========================
 
 天才プログラマー フラウ
-RN/W16-T12R RRR
+RN/W16-069 C
 Type: Character
 Level: 1
 Color: Red
 Cost: 1
-Trigger: 1
+Trigger: 0
 Power: 2000
 Soul: 1
 Traits:: Science 科学,_Otaku オタク
 Card Text/Abilities:
 【S】● ASSIST 2000 LEVEL 1 ［① Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +2000 Power)
-【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ (あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋2000)
 Flavor Text:
 みみ、見返りなしで助けてあげるほど、
 キレイなフラウたんではないのだぜ
 
 ==========================
 
-天才プログラマー フラウ
-RN/W16-T12 TD
+ハンガーに全員集合！ 昴
+RN/W16-070 C
 Type: Character
-Level: 1
+Level: 2
 Color: Red
-Cost: 1
+Cost: 2
 Trigger: 1
-Power: 2000
-Soul: 1
-Traits:: Science 科学,_Otaku オタク
+Power: 8000
+Soul: 2
+Traits:: Science 科学,_Glasses メガネ
 Card Text/Abilities:
-【S】● ASSIST 2000 LEVEL 1 ［① Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +2000 Power)
-【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
 Flavor Text:
-みみ、見返りなしで助けてあげるほど、
-キレイなフラウたんではないのだぜ
+僕がここに来ているのは、１人で静かに勉強するため、
+ということになっていますから
 
 ==========================
 
 密室でふたりきり
-RN/W16-T13 TD
+RN/W16-071 U
 Type: Event
 Level: 1
 Color: Red
@@ -410,7 +1569,7 @@ Power: N/A
 Soul: N/A
 Traits:: ,
 Card Text/Abilities:
-Choose 1 of 《科学》 Character from your Waiting Room, return it to Hand. Choose 1 of your Characters, during this turn, it gets +1000 Power. Place this card into Memory.
+Choose 1 《科学》 Character from your Waiting Room, return it to Hand. Choose 1 of your Characters, during this turn, it gets +1000 Power. Place this card into Memory.
 あなたは自分の控え室の《科学》のキャラを1枚選び、手札に戻す。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。このカードを思い出にする。
 Flavor Text:
 フラウ「か、勝ったら、
@@ -418,8 +1577,51 @@ Flavor Text:
 
 ==========================
 
+ゲンキ＆ロゼッタ
+RN/W16-072 U
+Type: Event
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of the following effects, execute it.
+『Choose 2 of your STAND Characters, REST them. If 2 is REST, choose 1 of your opponent's Characters with Level 0 or lower, place it to the top of the Deck.』
+『Choose 1 of your Characters, during this turn, it gets +1 Level, +5500 Power.』
+以下の効果のうちあなたが選んだ1つを行う。
+『あなたは自分の【スタンド】しているキャラを2枚選び【レスト】する。2枚【レスト】したなら、あなたは相手のレベル0以下のキャラを1枚選び、山札の上に置く。』
+『あなたは自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋5500。』
+Flavor Text:
+ゲンキ「笑顔でいれば、元気は自然と出てくるぜ」
+
+==========================
+
+ガンヴァレルを輝かせるために
+RN/W16-073 CR
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When this card is Triggered, choose 1 Character from your Waiting Room, return it to Hand)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（拾＠：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）
+Flavor Text:
+八汐先輩が、言ってくれたから、そう決めたんだ。
+私にできることを、やっていこうって
+
+==========================
+
 子供たちの良きお姉さん
-RN/W16-T14 TD
+RN/W16-074 CC
 Type: Climax
 Level: 0
 Color: Red
@@ -434,6 +1636,675 @@ Card Text/Abilities:
 Flavor Text:
 はーい、みんなそろそろ着替えてー。
 早く帰らないと、お母さんが心配するよ
+
+==========================
+
+父親との軋轢
+RN/W16-075 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+なにが夢だ！ 高校生にもなって、
+なにを子供みたいなことを言っている！
+
+==========================
+
+“空の下の相関図”愛理
+RN/W16-076SP SP
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Science 科学,_Net ネット
+Card Text/Abilities:
+【C】Your other 《科学》 Character in the Center slot of the Front Row gets +500 Power.
+【S】CONCENTRATE［① REST this card］Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, draw 1 card.
+【永】 他のあなたの前列の中央の枠の《科学》のキャラに、パワーを＋500。
+【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚引く。
+Flavor Text:
+
+==========================
+
+“空の下の相関図”愛理
+RN/W16-076 RR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Science 科学,_Net ネット
+Card Text/Abilities:
+【C】Your other 《科学》 Character in the Center slot of the Front Row gets +500 Power.
+【S】CONCENTRATE［① REST this card］Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, draw 1 card.
+【永】 他のあなたの前列の中央の枠の《科学》のキャラに、パワーを＋500。
+【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚引く。
+Flavor Text:
+お兄ちゃん、お天気知りたいですか？
+それとも、これでお別れですか？
+
+==========================
+
+愛理
+RN/W16-077R RRR
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Science 科学,_Net ネット
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, draw up to 2 cards, choose 1 card from your Hand, place it into Waiting Room.
+【A】When 「ホワイト・クリスマス・イヴ」 is placed into your Climax slot, if this card is in the Front Row, choose up to 1 Character from your Hand with Cost 2 or lower, place it into any slot on Stage.
+【A】When this card attacks, if 「ホワイト・クリスマス・イヴ」 is in the Climax slot, during this turn, this card gets +X Power. X is equals to the number of your other Characters in REST ×1000.
+【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。
+【自】 あなたのクライマックス置場に「ホワイト・クリスマス・イヴ」が置かれた時、前列にこのカードがいるなら、あなたは自分の手札のコスト2以下のキャラを1枚まで選び、舞台の好きな枠に置く。
+【自】 このカードがアタックした時、クライマックス置場に「ホワイト・クリスマス・イヴ」があるなら、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの【レスト】しているキャラの枚数×1000に等しい。
+Flavor Text:
+
+==========================
+
+愛理
+RN/W16-077 RR
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Science 科学,_Net ネット
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, draw up to 2 cards, choose 1 card from your Hand, place it into Waiting Room.
+【A】When 「ホワイト・クリスマス・イヴ」 is placed into your Climax slot, if this card is in the Front Row, choose up to 1 Character from your Hand with Cost 2 or lower, place it into any slot on Stage.
+【A】When this card attacks, if 「ホワイト・クリスマス・イヴ」 is in the Climax slot, during this turn, this card gets +X Power. X is equals to the number of your other Characters in REST ×1000.
+【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。
+【自】 あなたのクライマックス置場に「ホワイト・クリスマス・イヴ」が置かれた時、前列にこのカードがいるなら、あなたは自分の手札のコスト2以下のキャラを1枚まで選び、舞台の好きな枠に置く。
+【自】 このカードがアタックした時、クライマックス置場に「ホワイト・クリスマス・イヴ」があるなら、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの【レスト】しているキャラの枚数×1000に等しい。
+Flavor Text:
+明日、7月10日の、
+鹿児島県種子島・屋久島地方のお天気は、晴れでしょう
+
+==========================
+
+高校時代のみさ希
+RN/W16-078 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Science 科学,_Mecha メカ
+Card Text/Abilities:
+【A】When this card attacks, choose 1 of your other 《科学》 Characters, during this turn, it gets +1000 Power.
+【S】［① REST 2 of your 《科学》 Characters］Choose 1 Character from your Hand with Level equal or less than your Level and Cost 2 or lower, place it into any slot on Stage.
+【自】 このカードがアタックした時、あなたは他の自分の《科学》のキャラを1枚選び、そのターン中、パワーを＋1000。
+【起】［① あなたの《科学》のキャラを2枚【レスト】する］ あなたは自分の手札の自分のレベル以下のレベルでコスト2以下のキャラを1枚選び、舞台の好きな枠に置く。
+Flavor Text:
+カイ、あなたも男の子なら、
+ライトスタッフを持つ男になりなさい
+
+==========================
+
+ロボットオタク あき穂
+RN/W16-079 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Science 科学,_Mecha メカ
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is not a 《科学》 Character, during this turn, this card gains the following ability.『【C】This card cannot attack.』（Return revealed card to its original position）
+【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《科学》のキャラでないなら、そのターン中、このカードは次の能力を得る。『【永】 このカードはアタックできない。』（公開したカードは元に戻す）
+Flavor Text:
+“あの人”も、かつてこう言ってた
+戦いとは常に二手、三手先を読んで行うものだ、って！
+
+==========================
+
+夏祭り 愛理
+RN/W16-080S SR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Science 科学,_Net ネット
+Card Text/Abilities:
+【C】EXPERIENCE If the total Level of cards in your Level slot is 2 or higher, this card gets +1000 Power.
+【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1000。
+Flavor Text:
+
+==========================
+
+夏祭り 愛理
+RN/W16-080 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Science 科学,_Net ネット
+Card Text/Abilities:
+【C】EXPERIENCE If the total Level of cards in your Level slot is 2 or higher, this card gets +1000 Power.
+【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1000。
+Flavor Text:
+淳和「ああ、愛理ちゃん、
+ほら、口、拭いてあげるから、じっとしてて」
+
+==========================
+
+ゲジ姉
+RN/W16-081 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 1500
+Soul: 1
+Traits:: Science 科学,_Net ネット
+Card Text/Abilities:
+【A】When you used this card's 『ASSIST』, choose 1 of your 《科学》 Characters, during this turn, this card gets +1000 Power.
+【S】● ASSIST 1500 LEVEL 1 ［① Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +1500 Power)
+【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の《科学》のキャラを1枚選び、そのターン中、パワーを＋1000。
+【起】● 助太刀1500 レベル1 ［① 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）
+Flavor Text:
+だがそれがいい。ホモが嫌いな女子はいません
+
+==========================
+
+大好物の差し入れ あき穂
+RN/W16-082S SR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Science 科学,_Mecha メカ
+Card Text/Abilities:
+【C】During your opponent's turn, if you have 2 or more other 《科学》 Characters, this card gets +1500 Power.
+【永】 相手のターン中、他のあなたの《科学》のキャラが2枚以上なら、このカードのパワーを＋1500。
+Flavor Text:
+
+==========================
+
+大好物の差し入れ あき穂
+RN/W16-082 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Science 科学,_Mecha メカ
+Card Text/Abilities:
+【C】During your opponent's turn, if you have 2 or more other 《科学》 Characters, this card gets +1500 Power.
+【永】 相手のターン中、他のあなたの《科学》のキャラが2枚以上なら、このカードのパワーを＋1500。
+Flavor Text:
+スコォォォル！
+
+==========================
+
+HUGの暴走 瑞榎
+RN/W16-083 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Science 科学,_Mecha メカ
+Card Text/Abilities:
+【A】［① Place this card into Memory］When this card becomes REVERSE in battle, you may pay the cost. If you did, draw 1 card, choose 1 card from your Hand, place it into Waiting Room.
+【自】［① このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+カイ……もう、いい……！ 離せ……
+
+==========================
+
+呪縛からの解放 みさ希
+RN/W16-084 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Science 科学,_Mecha メカ
+Card Text/Abilities:
+【A】［①］When this card attacks, if 「かけがえのない思い出」 is in your Climax slot, you may pay the cost. If you did, during this turn, this card gets +4500 Power, gains the following ability.『【A】When this card's battle opponent becomes REVERSE, you may place that Character to the bottom of the Deck.』
+【自】［①］ このカードがアタックした時、クライマックス置場に「かけがえのない思い出」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋4500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』
+Flavor Text:
+カイ……ありがとう
+
+==========================
+
+モード移行 愛理
+RN/W16-085 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 1500
+Soul: 1
+Traits:: Science 科学,_Net ネット
+Card Text/Abilities:
+【A】［①］When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, draw 1 card.
+【A】 CHANGE ［② Place 1 card from Hand into Waiting Room, place this card into Waiting Room］At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 「モード移行 ゲジ姉」 from your Waiting Room, place it into this card's previous slot.
+【自】［①］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。
+【自】 チェンジ ［② 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「モード移行 ゲジ姉」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+では、アイリをタップしてください。
+そうすると、『ゲジ姉』に切り替わりますので～
+
+==========================
+
+陰謀の黒幕 君島コウ
+RN/W16-086 U
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Science 科学,_Death 死
+Card Text/Abilities:
+【C】If you have another Character with 「みさ希」 in its name, this card gets +1500 Power.
+【永】 他のあなたのカード名に「みさ希」を含むキャラがいるなら、このカードのパワーを＋1500。
+Flavor Text:
+今回はたまたま、君たちの行動がうまく行ったけど、
+毎回、そうなるとは限らない
+
+==========================
+
+行舟 愛理
+RN/W16-087 U
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Science 科学,
+Card Text/Abilities:
+【A】When this card attacks, if 「コールドスリープ」 is in the Climax slot, until the end of your opponent's next turn, this card gets +3000 Power.
+【自】 このカードがアタックした時、クライマックス置場に「コールドスリープ」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋3000。
+Flavor Text:
+あなたは……私……？
+
+==========================
+
+愛理の半身 ゲジ姉
+RN/W16-088 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Science 科学,_Net ネット
+Card Text/Abilities:
+【A】 BOND／「行舟 愛理」［①］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「行舟 愛理」 from your Waiting Room, return to Hand)
+【自】 絆／「行舟 愛理」 ［①］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「行舟 愛理」を1枚選び、手札に戻す)
+Flavor Text:
+アナタハ……ワタシ……
+
+==========================
+
+君島 コウ
+RN/W16-089 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Science 科学,_Death 死
+Card Text/Abilities:
+【A】［②］When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, draw 1 card.
+【自】［②］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。
+Flavor Text:
+そう、確かに僕は死んだよ。殺されたんだ。
+でも、おかげでこうして永遠の命を手に入れられた
+
+==========================
+
+澤田 敏行
+RN/W16-090 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Science 科学,_Weapon 武器
+Card Text/Abilities:
+【S】［REST 2 of your 《科学》 Characters］During this turn, this card gets +2500 Power.
+【起】［あなたの《科学》のキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2500。
+Flavor Text:
+これまでの実験はすべて、
+この日のためにあったと言ってもいい。
+これはプロジェクト・アトゥムの前兆だ
+
+==========================
+
+ネコミミメイド あき穂
+RN/W16-091 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Science 科学,_Mecha メカ
+Card Text/Abilities:
+Flavor Text:
+ちなみに、勝手にネコミミ生やさないでくれないかな
+
+==========================
+
+伊禮 瑞榎
+RN/W16-092 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Sports スポーツ,_Mecha メカ
+Card Text/Abilities:
+Flavor Text:
+ま、いいさ。“ミズウミ協定”成立だ
+
+==========================
+
+元気いっぱい 愛理
+RN/W16-093 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Science 科学,_Net ネット
+Card Text/Abilities:
+Flavor Text:
+でもですね、これまで、ドアがおうちの近くになかったので、
+ちっとも帰れなかったんです
+だから、帰りましょう♪
+
+==========================
+
+モード移行 ゲジ姉
+RN/W16-094 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Science 科学,_Net ネット
+Card Text/Abilities:
+【C】During your opponent's turn, if you have 2 or more other Characters in REST, this card gets +1500 Power.
+【永】 相手のターン中、他のあなたの【レスト】しているキャラが2枚以上なら、このカードのパワーを＋1500。
+Flavor Text:
+『ゲジ姉』モードに移行。オペレーションに従い、
+アクセスユーザーに対するナビゲートを開始します
+
+==========================
+
+瀬乃宮 みさ希
+RN/W16-095 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Science 科学,_Mecha メカ
+Card Text/Abilities:
+【C】If you have 3 or more 《科学》 Characters, this card gets -1 Level in your Hand.
+【永】 あなたの《科学》のキャラが3枚以上なら、あなたの手札のこのカードのレベルを－1。
+Flavor Text:
+あなたが、私に？
+勝つつもりでいるなんて、とんだお笑いだわ
+
+==========================
+
+「あねもね」号集団失神事件
+RN/W16-096 U
+Type: Event
+Level: 2
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+If you have no 《科学》 Characters, you cannot play this card from Hand.
+Choose 1 of your opponent's Characters with level 3 or lower. That Character cannot STAND during your opponent's next Stand Phase.
+このカードは、あなたの《科学》のキャラがいないなら、手札からプレイできない。
+あなたは相手のレベル3以下のキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。
+Flavor Text:
+この発作は生まれつきのものじゃない。
+今から８年前に起きた、とある事故の後遺症
+
+==========================
+
+居ル夫。
+RN/W16-097 U
+Type: Event
+Level: 2
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Reveal the top card of your Deck. If that card is a 《科学》 Character, draw up to 3 cards, choose 2 cards from your Hand, place them into Waiting Room. If its not, draw 1 card, choose 1 card from your Hand, place it into Waiting Room.
+あなたは自分の山札の上から1枚を公開する。そのカードが《科学》のキャラなら、あなたは3枚まで引き、自分の手札を2枚選び、控え室に置く。そうでないなら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+君島さんはある日、素敵なプレゼントをしてくれました。
+それが、当時、君島さんが開発していた
+『居ル夫。』のアルファ版だったんです
+
+==========================
+
+コールドスリープ
+RN/W16-098 CR
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+愛理「行舟愛理。アイリの、オリジナルです」
+『居ル夫。』のアルファ版だったんです
+
+==========================
+
+ホワイト・クリスマス・イヴ
+RN/W16-099 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Book：When this card is triggered, you may draw 1 card)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（引＠：このカードがトリガーした時、あなたは1枚引いてよい）
+Flavor Text:
+おでこにしますか？ ほっぺ？
+それとも、くちびる？
+アイリの第一希望は、おでこです
+
+==========================
+
+かけがえのない思い出
+RN/W16-100 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+みさ希「これで１２連勝。
+ふふっ、カイもまだまだね」
+
+==========================
+
+スターラプター
+RN/W16-106 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Science 科学,_Mecha メカ
+Card Text/Abilities:
+【C】If you have other 「スナイデル」, 「ボルトヴァリアン」 and 「スティングーマ」, this card gets +1500 Power, +1 Soul.
+【永】 他のあなたの、「スナイデル」と「ボルトヴァリアン」と「スティングーマ」がいるなら、このカードのパワーを＋1500し、ソウルを＋1。
+Flavor Text:
+夢之原ミミが搭乗する、
+剣を装備したスピード重視のカートルーパー
+
+==========================
+
+ボルトヴァリアン
+RN/W16-107 PR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Science 科学,_Mecha メカ
+Card Text/Abilities:
+【C】If you have other 「スナイデル」, 「スターラプター」 and 「スティングーマ」, this card gets +2500 Power.
+【永】 他のあなたの、「スナイデル」と「スターラプター」と「スティングーマ」がいるなら、このカードのパワーを＋2500。
+Flavor Text:
+ガイ・コーエンが搭乗する、
+超重量型のカートルーパー
+
+==========================
+
+スナイデル
+RN/W16-108 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Science 科学,_Mecha メカ
+Card Text/Abilities:
+【C】All your other 「ボルトヴァリアン」, 「スターラプター」 and 「スティングーマ」 get +1000 Power.
+【永】 他のあなたの、「ボルトヴァリアン」と「スターラプター」と「スティングーマ」すべてに、パワーを＋1000。
+Flavor Text:
+遠距離狙撃能力を持つ異色のカートルーパー。
+搭乗者はバロル・ウエスタン
+
+==========================
+
+スティングーマ
+RN/W16-109 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Science 科学,_Mecha メカ
+Card Text/Abilities:
+【A】［②］When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 「スナイデル」, 「ボルトヴァリアン」 or 「スターラプター」, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【自】［②］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「スナイデル」か「ボルトヴァリアン」か「スターラプター」を1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+エルリー・カインが搭乗する、
+空中戦が得意な異色のカートルーパー
+
+==========================
+
+父へのお願い あき穂
+RN/W16-P04 PR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 2
+Traits:: Science 科学,_Mecha メカ
+Card Text/Abilities:
+【S】［①］During this turn, this card gets +1 Soul.
+【起】［①］ そのターン中、このカードのソウルを＋1。
+Flavor Text:
+ロボ部の手助けをしてほしい。
+一緒に、正義の巨大ロボを造ろう
 
 ==========================
 

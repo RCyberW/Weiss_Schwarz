@@ -9,7 +9,7 @@
 package CardAssociation;
 
 public enum CCode {
-	RED("Red"), BLUE("Blue"), YELLOW("Yellow"), GREEN("Green");
+	ALL("All"), RED("Red"), BLUE("Blue"), YELLOW("Yellow"), GREEN("Green");
 	
 	String s;
 

@@ -39,7 +39,7 @@ import java.net.URISyntaxException;
 import java.text.NumberFormat;
 import java.text.ParseException;
 import java.util.ArrayList;
-import java.util.Enumeration;
+import java.util.Arrays;
 import java.util.HashMap;
 
 //import javax.imageio.ImageIO;
@@ -143,34 +143,29 @@ public class BuilderGUI extends JFrame {
 		final JTextField idSearch = new JTextField();
 		final JTextField nameSearch = new JTextField();
 		final JTextField traitSearch = new JTextField();
-		final JTextField typeSearch = new JTextField(); // will change to
-														// dropdown
-		final JTextField colorSearch = new JTextField(); // will change to
-															// dropdown
+		// final JTextField typeSearch = new JTextField();
+		// final JTextField colorSearch = new JTextField();
 		final JTextField abilitySearch = new JTextField();
 		final JTextField powerSearch = new JTextField();
 		final JTextField costSearch = new JTextField();
 		final JTextField levelSearch = new JTextField();
 		final JTextField soulSearch = new JTextField();
-		final JTextField triggerSearch = new JTextField(); // will change to
-															// dropdown
+		// final JTextField triggerSearch = new JTextField();
 
 		CCode[] colorSelections = null;
 		colorSelections = CCode.values();
-
-		final JComboBox<CCode> colorList = new JComboBox<CCode>(colorSelections);
+		final JComboBox colorList = new JComboBox(colorSelections);
+		colorList.setSelectedItem(null);
 
 		CardAssociation.Type[] classifications = null;
 		classifications = CardAssociation.Type.values();
-
-		final JComboBox<CardAssociation.Type> typeList = new JComboBox<CardAssociation.Type>(
-				classifications);
+		final JComboBox typeList = new JComboBox(classifications);
+		typeList.setSelectedItem(null);
 
 		Trigger[] triggerSelections = null;
 		triggerSelections = Trigger.values();
-
-		final JComboBox<Trigger> triggerList = new JComboBox<Trigger>(
-				triggerSelections);
+		final JComboBox triggerList = new JComboBox(triggerSelections);
+		triggerList.setSelectedItem(null);
 
 		final KeyListener searchFieldListener = new KeyListener() {
 
@@ -186,12 +181,14 @@ public class BuilderGUI extends JFrame {
 				if (e.getKeyCode() == KeyEvent.VK_ENTER) {
 					resultList.clear();
 
-					System.out.println(idSearch.getText()
-							+ nameSearch.getText() + triggerSearch.getText()
-							+ powerSearch.getText() + costSearch.getText()
-							+ colorSearch.getText() + levelSearch.getText()
-							+ traitSearch.getText() + typeSearch.getText()
-							+ soulSearch.getText());
+					/*
+					 * System.out.println(idSearch.getText() +
+					 * nameSearch.getText() + triggerSearch.getText() +
+					 * powerSearch.getText() + costSearch.getText() +
+					 * colorSearch.getText() + levelSearch.getText() +
+					 * traitSearch.getText() + typeSearch.getText() +
+					 * soulSearch.getText());
+					 */
 
 					String cardID = idSearch.getText();
 
@@ -312,13 +309,13 @@ public class BuilderGUI extends JFrame {
 
 		idLabel.setLabelFor(idSearch);
 		nameLabel.setLabelFor(nameSearch);
-		triggerLabel.setLabelFor(triggerSearch);
+		// triggerLabel.setLabelFor(triggerSearch);
 		powerLabel.setLabelFor(powerSearch);
 		costLabel.setLabelFor(costSearch);
-		colorLabel.setLabelFor(colorSearch);
+		// colorLabel.setLabelFor(colorSearch);
 		levelLabel.setLabelFor(levelSearch);
 		traitLabel.setLabelFor(traitSearch);
-		typeLabel.setLabelFor(typeSearch);
+		// typeLabel.setLabelFor(typeSearch);
 		soulLabel.setLabelFor(soulSearch);
 		abilityLabel.setLabelFor(abilitySearch);
 
@@ -327,14 +324,14 @@ public class BuilderGUI extends JFrame {
 		idSearch.addKeyListener(searchFieldListener);
 		nameSearch.addKeyListener(searchFieldListener);
 		traitSearch.addKeyListener(searchFieldListener);
-		typeSearch.addKeyListener(searchFieldListener);
-		colorSearch.addKeyListener(searchFieldListener);
+		// typeSearch.addKeyListener(searchFieldListener);
+		// colorSearch.addKeyListener(searchFieldListener);
 		abilitySearch.addKeyListener(searchFieldListener);
 		powerSearch.addKeyListener(searchFieldListener);
 		costSearch.addKeyListener(searchFieldListener);
 		levelSearch.addKeyListener(searchFieldListener);
 		soulSearch.addKeyListener(searchFieldListener);
-		triggerSearch.addKeyListener(searchFieldListener);
+		// triggerSearch.addKeyListener(searchFieldListener);
 
 		submitButton.addActionListener(new ActionListener() {
 			@Override
@@ -342,11 +339,13 @@ public class BuilderGUI extends JFrame {
 
 				resultList.clear();
 
-				System.out.println(idSearch.getText() + nameSearch.getText()
-						+ triggerSearch.getText() + powerSearch.getText()
-						+ costSearch.getText() + colorSearch.getText()
-						+ levelSearch.getText() + traitSearch.getText()
-						+ typeSearch.getText() + soulSearch.getText());
+				/*
+				 * System.out.println(idSearch.getText() + nameSearch.getText()
+				 * + triggerSearch.getText() + powerSearch.getText() +
+				 * costSearch.getText() + colorSearch.getText() +
+				 * levelSearch.getText() + traitSearch.getText() +
+				 * typeSearch.getText() + soulSearch.getText());
+				 */
 
 				String cardID = idSearch.getText();
 
@@ -434,14 +433,18 @@ public class BuilderGUI extends JFrame {
 				idSearch.setText("");
 				nameSearch.setText("");
 				traitSearch.setText("");
-				typeSearch.setText("");
-				colorSearch.setText("");
+				// typeSearch.setText("");
+				// colorSearch.setText("");
 				abilitySearch.setText("");
-				triggerSearch.setText("");
+				// triggerSearch.setText("");
 				powerSearch.setText("");
 				costSearch.setText("");
 				soulSearch.setText("");
 				levelSearch.setText("");
+
+				colorList.setSelectedItem(null);
+				typeList.setSelectedItem(null);
+				triggerList.setSelectedItem(null);
 			}
 		});
 

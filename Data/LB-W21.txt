@@ -1,0 +1,500 @@
+“幸せスパイラル理論”小毬
+LB/W21-101 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Sweets お菓子,_Fairy Tale 童話
+Card Text/Abilities:
+【A】When a Climax appears during your Characters' Trigger Check, choose 1 of your Characters, during this turn, it gets +1 Soul.
+【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。
+Flavor Text:
+五円でも優しさがこもっていれば
+それはとってもプライスレス！
+
+==========================
+
+“一緒にお手伝い”クド
+LB/W21-102SP SP
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card get +X. X is equal to the number of your Characters with 『SUPPORT』 ×500.
+【S】［REST this card］Choose 1 of your Characters, during this turn, it gets +1000 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋X.。Xははあなたの『応援』を持つキャラの枚数×500に等しい。
+【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+
+==========================
+
+“一緒にお手伝い”クド
+LB/W21-102 TD
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card get +X. X is equal to the number of your Characters with 『SUPPORT』 ×500.
+【S】［REST this card］Choose 1 of your Characters, during this turn, it gets +1000 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋X.。Xははあなたの『応援』を持つキャラの枚数×500に等しい。
+【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+私たちは小毬ちゃんのお手伝いです
+
+==========================
+
+“真っ直ぐな強さ”鈴
+LB/W21-103S SR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【C】If you have another Character with 『SUPPORT』, this card gets +2000 Power.
+【永】 他のあなたの『応援』を持つキャラがいるなら、このカードのパワーを＋2000。
+Flavor Text:
+あたしも行く！
+
+==========================
+
+“真っ直ぐな強さ”鈴
+LB/W21-103 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【C】If you have another Character with 『SUPPORT』, this card gets +2000 Power.
+【永】 他のあなたの『応援』を持つキャラがいるなら、このカードのパワーを＋2000。
+Flavor Text:
+みんな集まったな、行くぞ！
+
+==========================
+
+“僕らの物語”理樹
+LB/W21-104 TD
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, choose 1 of your Characters, until the end of your opponent's next turn, it gets +3000 Power.
+【A】［Place 1 Character from Hand into Waiting Room］When 「リトルバスターズ！」 is placed into your Climax slot, if this card is in the Front Row, you may pay the cost. If you did, choose 1 Character with Level 2 or lower from your Clock or Memory, place it into any slot on Stage.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋3000。
+【自】［手札のキャラを1枚控え室に置く］ あなたのクライマックス置場に「リトルバスターズ！」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の、クロック置場か思い出置場のレベル2以下のキャラを1枚選び、舞台の好きな枠に置く。
+Flavor Text:
+僕はみんなと走り続けてきた…
+
+==========================
+
+リトルバスターズ！
+LB/W21-105R RRR
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: G
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（宝＠：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）
+Flavor Text:
+
+==========================
+
+リトルバスターズ！
+LB/W21-105 TD
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: G
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（宝＠：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）
+Flavor Text:
+
+==========================
+
+大空へシャンプ！ 鈴
+LB/W21-P01 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+とうっ！
+
+==========================
+
+“モンペチ配達係”クド
+LB/W21-P02 PR
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【A】［②］When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《動物》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【自】［②］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《動物》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+お待たせしましたーっ
+
+==========================
+
+“猫とのふれあい”鈴
+LB/W21-P03 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand, during this turn, this card gets +1500 Power.
+【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。
+Flavor Text:
+よーしよーし、ニャーニャー
+
+==========================
+
+“猫とひなたぼっこ”鈴
+LB/W21-P04 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+【C】 SUPPORT During your turn, all your Characters in front of this card get +1000 Power.
+【永】 応援 あなたのターン中、このカードの前のあなたのキャラすべてに、パワーを＋1000。
+Flavor Text:
+お前、今日も手紙ないのか？
+
+==========================
+
+“幸せのひだまり”小毬
+LB/W21-P05 PR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Sweets お菓子,_Fairy Tale 童話
+Card Text/Abilities:
+【A】［①］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 of your Characters, during this turn, it gets +2000 Power.
+【自】［①］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+ばっちりおっけ～
+
+==========================
+
+“始まりの時”恭介
+LB/W21-T01 TD
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: ,
+Card Text/Abilities:
+Flavor Text:
+野球チームを作る。
+チーム名は…リトルバスターズだ！
+
+==========================
+
+“次期キャプテン候補”佐々美
+LB/W21-T02 TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Sports スポーツ,
+Card Text/Abilities:
+【A】 ENCORE ［Place the top card of your Deck into Clock］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+ほーーほっほっ！　ほーーほっほっほっ！
+
+==========================
+
+“ゆいちゃん”唯湖
+LB/W21-T03 TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+Flavor Text:
+ええい、だったらキミをコマリマックスと呼ぶぞ！
+どうだ、恥ずかしいだろう！
+
+==========================
+
+“筋肉危機一髪”真人
+LB/W21-T04 TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 1500
+Soul: 1
+Traits:: Muscle 筋肉,_Weapon 武器
+Card Text/Abilities:
+【A】When you used this card's 『ASSIST』, all your Characters, during this turn, gains 《筋肉》.
+【S】● ASSIST 2000 LEVEL 1 ［① Place this card from Hand into Waiting Room］ (Choose 1 of your Characters being Front Attacked, during this turn, it gets +2000 Power)
+【自】 あなたがこのカードの『助太刀』を使った時、あなたのキャラすべてに、そのターン中、《筋肉》を与える。
+【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）
+Flavor Text:
+くう～！　燃えてきたぜ～！　上等だぁ～！！
+
+==========================
+
+“なくしたもの”小毬
+LB/W21-T05 TD
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Sweets お菓子,_Fairy Tale 童話
+Card Text/Abilities:
+【A】［Place this card into Clock］At the beginning of your Encore Step, if 「新しい物語」 is in your Climax slot, you may pay the cost. If you did, at the beginning of your next Draw Phase, choose 1 「“すてきなこと”小毬」 from your Waiting Room, place it into any slot on Stage, during this turn, that Character gets +2000 Power.
+【自】［このカードをクロック置場に置く］ あなたのアンコールステップの始めに、クライマックス置場に「新しい物語」があるなら、あなたはコストを払ってよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の控え室の「“すてきなこと”小毬」を1枚選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋2000。
+Flavor Text:
+『…みんな、…ゆめ。だから、かなしくない…』
+
+==========================
+
+“すてきなこと”小毬
+LB/W21-T06 TD
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Sweets お菓子,_Fairy Tale 童話
+Card Text/Abilities:
+Flavor Text:
+ほかにもいっぱいみつけよう。
+みんなと一緒にすてきなことを…
+
+==========================
+
+夜空を見上げて
+LB/W21-T07 TD
+Type: Event
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your STAND 《お菓子》 Character, REST it. If you did, draw up to 2 cards, choose 1 card from your Hand, place it into Waiting Room.
+Choose 1 of your Characters, during this turn, it gets +3000 Power, +2 Soul. At the end of your turn, place that Character into Memory.
+Place this card into Clock.
+あなたは自分の【スタンド】している《お菓子》のキャラを1枚選び【レスト】する。そうしたら、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。
+あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000し、ソウルを＋2。ターンの終わりに、そのキャラを思い出にする。
+このカードをクロック置場に置く。
+Flavor Text:
+拓也「マッチ売りの少女は、最後の流れ星と一緒に
+天国へのぼっていきました…」
+
+==========================
+
+新しい物語
+LB/W21-T08 TD
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+小毬ちゃん、小毬ちゃん！
+…がんばれっ！
+
+==========================
+
+無敵の来ヶ谷
+LB/W21-T09 TD
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1W
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return to Hand)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（戻＠：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）
+Flavor Text:
+では翻弄してやろう…
+
+==========================
+
+“仲良しさん”小毬＆鈴
+LB/W21-T10 TD
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Animal 動物,_Sweets お菓子
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card get +500 Power.
+【S】［① Place this card into Waiting Room］Choose 1 card from your Clock, return it to Hand. Choose 1 card from your Hand, place it into Clock.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】［① このカードを控え室に置く］ あなたは自分のクロックを1枚選び、手札に戻す。あなたは自分の手札を1枚選び、クロック置場に置く。
+Flavor Text:
+小毬「でも鈴ちゃん、すごい球だよー！！」
+鈴「うわ～、こ、こら～」
+
+==========================
+
+“真人のライバル”謙吾
+LB/W21-T11 TD
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Sports スポーツ,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand, during this turn, this card gets +1500 Power.
+【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。
+Flavor Text:
+――っ！？
+
+==========================
+
+“転校生の女の子”クド
+LB/W21-T12 TD
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Animal 動物,
+Card Text/Abilities:
+Flavor Text:
+ぐっもーにんぐ、えぶりわん。はぶあないすで～
+
+==========================
+
+“凶器乱舞”鈴
+LB/W21-T13 TD
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Animal 動物,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+これだっ！
+
+==========================
+
+“因果応報”葉留佳
+LB/W21-T14 TD
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Marble ビー玉,
+Card Text/Abilities:
+【S】［REST 2 of your Characters］ During this turn, this card gets +2000 Power.
+【起】［あなたのキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+理樹君に言いたいことがあるんだけど！
+
+==========================
+

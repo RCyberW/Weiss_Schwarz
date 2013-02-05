@@ -9,6 +9,7 @@
 
 package CardAssociation;
 
+import java.awt.Component;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
@@ -21,6 +22,9 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.Scanner;
+
+import javax.swing.JFrame;
+import javax.swing.JOptionPane;
 
 public class Deck {
 
@@ -48,6 +52,7 @@ public class Deck {
 	private ArrayList<Card> cards;
 	private ArrayList<Card> unique;
 	private ArrayList<CardWrapper> cardWrapper;
+	private JFrame frame;
 
 	public ArrayList<Card> shuffledCards;
 
@@ -58,6 +63,7 @@ public class Deck {
 		unique = new ArrayList<Card>();
 		shuffledCards = new ArrayList<Card>();
 		cardWrapper = new ArrayList<CardWrapper>();
+		frame = new JFrame();
 	}
 
 	// add cards to a deck
@@ -105,6 +111,12 @@ public class Deck {
 				} else {
 					System.out.println(referenceCard.getCardName()
 							+ " has 4 copies");
+					// Warn the user that there are 4 copies existing
+					JOptionPane.showMessageDialog(
+							frame,
+							"There are already 4 copies of "
+									+ referenceCard.getCardName() + " in the deck",
+							"Max Copies", JOptionPane.WARNING_MESSAGE);
 				}
 			} else {
 				// card does not exist, add
@@ -119,6 +131,10 @@ public class Deck {
 			}
 		} else {
 			System.out.println("FULL DECK");
+			// Warn the user that it is a full deck
+			JOptionPane.showMessageDialog(frame,
+					"This deck already contain 50 cards!", "Full Deck",
+					JOptionPane.WARNING_MESSAGE);
 		}
 	}
 

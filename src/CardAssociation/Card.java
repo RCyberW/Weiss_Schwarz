@@ -588,11 +588,11 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 					&& cardName.toLowerCase().contains(sName.toLowerCase());
 		}
 
-		if (sColor != null) {
+		if (sColor != null && sColor != CCode.ALL) {
 			isMet = isMet && (sColor == c);
 		}
 
-		if (sType != null) {
+		if (sType != null && sType != CardAssociation.Type.ALL) {
 			isMet = isMet && (sType == t);
 		}
 
@@ -604,7 +604,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 			isMet = isMet && (sCost == cost);
 		}
 
-		if (sTrigger != null) {
+		if (sTrigger != null && sTrigger != Trigger.ALL) {
 			isMet = isMet && (sTrigger == trigger);
 		}
 
