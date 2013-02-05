@@ -898,7 +898,7 @@ public class BuilderGUI extends JFrame {
 					box.setAlignmentX(Box.LEFT_ALIGNMENT);
 				}
 				final Card thisCard = resultList.get(i);
-				thisCard.initiateImage();
+				JLabel tempLab = thisCard.initiateImage();
 				MouseListener listener = new MouseAdapter() {
 					public void mouseClicked(MouseEvent e) {
 						// JComponent comp = (JComponent) e.getSource();
@@ -924,8 +924,8 @@ public class BuilderGUI extends JFrame {
 				};
 
 				// thisCard.setTransferHandler(new DragHandler(thisCard));
-				thisCard.initiateImage().addMouseListener(listener);
-				box.add(thisCard.initiateImage());
+				tempLab.addMouseListener(listener);
+				box.add(tempLab);
 
 			}
 			if ((resultList.size()) % RESULTPERLINE != 0) {
@@ -1270,13 +1270,13 @@ public class BuilderGUI extends JFrame {
 			}
 			if (i < currentDeck.getCards().size()) {
 				final Card thisCard = currentDeck.getCards().get(i);
-				thisCard.initiateImage();
+				JLabel tempLab = thisCard.initiateImage();
 				MouseListener listener = new MouseAdapter() {
 					public void mousePressed(MouseEvent e) {
 
-						JComponent comp = (JComponent) e.getSource();
+						/*JComponent comp = (JComponent) e.getSource();
 						TransferHandler handler = comp.getTransferHandler();
-						handler.exportAsDrag(comp, e, TransferHandler.COPY);
+						handler.exportAsDrag(comp, e, TransferHandler.COPY);*/
 
 						selectedCard = thisCard;
 						System.out.println(thisCard.getCardName() + " has "
@@ -1292,9 +1292,9 @@ public class BuilderGUI extends JFrame {
 				};
 
 				// thisCard.setTransferHandler(dh);
-				thisCard.initiateImage().addMouseListener(listener);
+				tempLab.addMouseListener(listener);
 				Box newBox = Box.createHorizontalBox();
-				newBox.add(thisCard.initiateImage());
+				newBox.add(tempLab);
 				box.add(newBox);
 			} else {
 				/*
