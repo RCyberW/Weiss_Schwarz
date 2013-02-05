@@ -290,7 +290,7 @@ public class Importer {
 		FileOutputStream fileOutput;
 		ObjectOutputStream objectOutput;
 		try {
-			fileOutput = new FileOutputStream("CardDatav2");
+			fileOutput = new FileOutputStream("src/DeckBuilder/CardDatav2");
 			objectOutput = new ObjectOutputStream(fileOutput);
 
 			objectOutput.writeObject(setCards);

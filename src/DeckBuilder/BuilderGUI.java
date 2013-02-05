@@ -32,6 +32,8 @@ import java.awt.event.MouseListener;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.io.ObjectInputStream;
 //import java.net.MalformedURLException;
 import java.net.URI;
@@ -1349,10 +1351,10 @@ public class BuilderGUI extends JFrame {
 		 */
 
 		JScrollPane deckListPane = buildDeckList();
-		JScrollPane deckThumPane = buildDeckThumbPane(deckListPane);
+		//JScrollPane deckThumPane = buildDeckThumbPane(deckListPane);
 
 		jtb.addTab("View 1", deckListPane);
-		jtb.addTab("View 2", deckThumPane);
+		//jtb.addTab("View 2", deckThumPane);
 
 		return jtb;
 	}
@@ -1527,11 +1529,14 @@ public class BuilderGUI extends JFrame {
 	@SuppressWarnings("unchecked")
 	private void deserializer() {
 
-		FileInputStream fileInput;
+		
+		//FileInputStream fileInput;
+		InputStream fileInput;
 		ObjectInputStream objectInput;
 
 		try {
-			fileInput = new FileInputStream(datafile);
+			//fileInput = new FileInputStream();
+			fileInput = getClass().getResourceAsStream("CardDatav2");
 			objectInput = new ObjectInputStream(fileInput);
 
 			completeList = (ArrayList<Card>) objectInput.readObject();
