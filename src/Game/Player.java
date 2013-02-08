@@ -247,7 +247,7 @@ public class Player implements Serializable {
 		ObjectInputStream objectInput;
 
 		try {
-			fileInput = new FileInputStream("CardDatav2");
+			fileInput = new FileInputStream("src/DeckBuilder/CardDatav2");
 			objectInput = new ObjectInputStream(fileInput);
 
 			objectInput.readObject();

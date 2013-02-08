@@ -196,8 +196,7 @@ public class NewMainField extends Canvas implements Serializable,
 							break;
 						}
 					}
-				} else if (associatedPlayer.getCurrentPhase() == Phase.MAIN_PHASE || associatedPlayer
-						.getCurrentPhase() == Phase.ATTACK_PHASE) {
+				} else {
 					// placing a card to a zone
 					for (FieldElement fe : elements) {
 						if (fe.contains(e.getX(), e.getY())) {

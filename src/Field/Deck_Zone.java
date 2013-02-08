@@ -9,6 +9,8 @@ import java.awt.event.MouseEvent;
 import java.util.ArrayList;
 import java.util.Collections;
 
+import javax.swing.JFrame;
+
 import CardAssociation.Card;
 import CardAssociation.Deck;
 import Game.Phase;
@@ -83,10 +85,20 @@ public class Deck_Zone extends FieldElement {
 				} else if (associatedPlayer.getCurrentPhase() == Phase.ATTACK_PHASE) {
 					Card stockCard = deckZone.remove(deckZone.size() - 1);
 					associatedPlayer.getField().getRandomZone().setCard(stockCard);
+				} else {
+					displayDeck();
 				}
 			}
 		}
 
+	}
+	
+	private void displayDeck() {
+		DisplayList displayGui = new DisplayList(deckZone, associatedPlayer);
+		displayGui.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+
+		displayGui.buildSelector();
+		displayGui.setVisible(true);
 	}
 
 	@Override

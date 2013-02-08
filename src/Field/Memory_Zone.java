@@ -26,6 +26,7 @@ public class Memory_Zone extends FieldElement {
 	}
 
 	public void setCard(Card c) {
+		c.setCurrentState(State.REST);
 		memoryZone.add(c);
 	}
 

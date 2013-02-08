@@ -10,19 +10,13 @@
 
 /**
  * TODO:
- * drag and drop, swapping cards around
  * options on discarding/peek/swap/etc. between zones
- * display counts (deck, climax, stock, waiting room)
- * change the display on selected card (fix tail issue on selecting card from hand)
- * manual refresh and refresh damage
+ *      Need to find a way to get specfic cards from waiting room/memory/deck/clock/level
+ * manual refresh and refresh damage (an option to refresh)
  * shuffle deck after search
- * swap cards for clock/level zones
- * 		DONE shift
  * pay for stock from bottom/discard stock from top
  * 
- * ISSUES:
- * leaving traces
- * field does not refresh when a card is placed
+ * 
  */
 
 package Game;
@@ -207,8 +201,8 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 	 */
 	private void paintWords(Graphics g) {
 		Card selectedCard = player1.getHand().getSelected();
-		if (selectedCard == null)
-			selectedCard = defendingField.getSelected();
+		/*if (selectedCard == null)
+			selectedCard = defendingField.getSelected();*/
 
 		if (selectedCard != null) {
 			// initialize repaint
