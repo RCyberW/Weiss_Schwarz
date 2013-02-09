@@ -7,7 +7,11 @@ import java.awt.Font;
 import java.awt.Graphics;
 import java.awt.event.MouseEvent;
 import java.util.ArrayList;
+
+import javax.swing.JFrame;
+
 import CardAssociation.*;
+import Game.Phase;
 import Game.Player;
 
 public class Memory_Zone extends FieldElement {
@@ -51,6 +55,14 @@ public class Memory_Zone extends FieldElement {
 		return memoryZone.size() > 0;
 	}
 
+	private void displayDeck() {
+		DisplayList displayGui = new DisplayList(memoryZone, associatedPlayer);
+		displayGui.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+
+		displayGui.buildSelector();
+		displayGui.setVisible(true);
+	}
+	
 	@Override
 	public void paint(Graphics g, Card c) {
 		// for (int i = 0; i < memoryZone.size(); i++) {
@@ -89,7 +101,15 @@ public class Memory_Zone extends FieldElement {
 
 	@Override
 	public void mouseClicked(MouseEvent e) {
-		if(e.getButton() == MouseEvent.BUTTON3) {
+		Card selected = selectCard(e);
+		if (e.getButton() == MouseEvent.BUTTON3) {
+			if (selected != null) {
+				if (associatedPlayer.getCurrentPhase() == Phase.DRAW_PHASE) {
+				} else if (associatedPlayer.getCurrentPhase() == Phase.ATTACK_PHASE) {
+				} else {
+					displayDeck();
+				}
+			}
 		}
 	}
 	

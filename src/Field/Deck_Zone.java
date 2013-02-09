@@ -81,7 +81,7 @@ public class Deck_Zone extends FieldElement {
 		if (e.getButton() == MouseEvent.BUTTON3) {
 			if (selected != null) {
 				if (associatedPlayer.getCurrentPhase() == Phase.DRAW_PHASE) {
-					drawCard();
+					// drawCard();
 				} else if (associatedPlayer.getCurrentPhase() == Phase.ATTACK_PHASE) {
 					Card stockCard = deckZone.remove(deckZone.size() - 1);
 					associatedPlayer.getField().getRandomZone().setCard(stockCard);

@@ -9,7 +9,10 @@ import java.awt.event.MouseEvent;
 import java.util.ArrayList;
 import java.util.Collections;
 
+import javax.swing.JFrame;
+
 import CardAssociation.Card;
+import Game.Phase;
 import Game.Player;
 
 public class Waiting_Room extends FieldElement {
@@ -57,6 +60,14 @@ public class Waiting_Room extends FieldElement {
 		return waitingRoom.size() > 0;
 	}
 
+	private void displayDeck() {
+		DisplayList displayGui = new DisplayList(waitingRoom, associatedPlayer);
+		displayGui.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+
+		displayGui.buildSelector();
+		displayGui.setVisible(true);
+	}
+	
 	@Override
 	public void paint(Graphics g, Card c) {
 
@@ -95,7 +106,16 @@ public class Waiting_Room extends FieldElement {
 
 	@Override
 	public void mouseClicked(MouseEvent e) {
-		
+		Card selected = selectCard(e);
+		if (e.getButton() == MouseEvent.BUTTON3) {
+			if (selected != null) {
+				if (associatedPlayer.getCurrentPhase() == Phase.DRAW_PHASE) {
+				} else if (associatedPlayer.getCurrentPhase() == Phase.ATTACK_PHASE) {
+				} else {
+					displayDeck();
+				}
+			}
+		}
 	}
 	
 	public boolean isList() {
