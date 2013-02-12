@@ -1206,7 +1206,7 @@ public class BuilderGUI extends JFrame {
 		newVert3.add(new JLabel("Red: "));
 		newVert3.add(new JLabel("Blue: "));
 		newVert3.add(new JLabel("------"));
-		newVert3.add(new JLabel("Damage: "));
+		//newVert3.add(new JLabel("Damage: "));
 		Box newVert4 = Box.createVerticalBox();
 		newVert4.add(new JLabel(String.valueOf(currentDeck.getNumEvent())));
 		newVert4.add(new JLabel(String.valueOf(currentDeck.getNumYellow())));
@@ -1214,7 +1214,7 @@ public class BuilderGUI extends JFrame {
 		newVert4.add(new JLabel(String.valueOf(currentDeck.getNumRed())));
 		newVert4.add(new JLabel(String.valueOf(currentDeck.getNumBlue())));
 		newVert4.add(new JLabel("------"));
-		newVert4.add(new JLabel(String.valueOf(currentDeck.getDamage())));
+		//newVert4.add(new JLabel(String.valueOf(currentDeck.getDamage())));
 		newVert4.setPreferredSize(new Dimension(20, 100));
 
 		analyzerBox.add(newVert);

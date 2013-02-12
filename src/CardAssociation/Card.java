@@ -553,6 +553,22 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 		dupCount--;
 	}
 
+	/**
+	 * Check to see if the card meets the requirements given
+	 * 
+	 * @param sId
+	 * @param sName
+	 * @param sColor
+	 * @param sType
+	 * @param sLevel
+	 * @param sCost
+	 * @param sTrigger
+	 * @param sPower
+	 * @param sSoul
+	 * @param sTrait
+	 * @param sAbility
+	 * @return
+	 */
 	public boolean meetsRequirement(String sId, String sName, CCode sColor,
 			Type sType, int sLevel, int sCost, Trigger sTrigger, int sPower,
 			int sSoul, String sTrait, String sAbility) {
@@ -569,18 +585,28 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 					isMet = isMet
 							&& sameID[i].toLowerCase().contains(
 									parts[j].toLowerCase());
+					if (sameID[i].toLowerCase()
+							.contains(parts[j].toLowerCase()))
+						System.out.println(sameID[i] + "???" + parts[j]);
 				}
 				if (isMet) {
 					break;
 				}
+
+			}
+			isMet = true;
+			for (int j = 0; j < parts.length; j++) {
+				isMet = isMet
+						&& id.toLowerCase().contains(parts[j].toLowerCase());
+				if (id.toLowerCase().contains(parts[j].toLowerCase()))
+					System.out.println(id + "::CONTAINS::" + parts[j]);
 			}
 
-			if (isMet) {
-				for (int i = 0; i < sameID.length; i++) {
-					System.out.print("[(" + i + ")" + sameID[i] + "]");
-				}
-				System.out.println();
-			}
+			/*
+			 * if (isMet) { for (int i = 0; i < sameID.length; i++) {
+			 * System.out.print("[(" + i + ")" + sameID[i] + "]"); }
+			 * System.out.println(); }
+			 */
 		}
 
 		if (!sName.isEmpty()) {

@@ -138,12 +138,12 @@ public class Importer {
 				} else {
 
 					switch (lineDex) {
-						case 0 :
+						case 0 : //card name
 							str = rename(str);
 							newCard.setCardName(str);
 							str = "Title: " + str;
 							break;
-						case 1 :
+						case 1 : //card id
 							str = str.replace("  ", " ");
 							newCard.setID(str);
 							newCard.setImage(new File("FieldImages/" + fileName
@@ -152,7 +152,7 @@ public class Importer {
 									+ ".jpg"));
 							str = "ID: " + str;
 							break;
-						case 2 :
+						case 2 : // card classification
 							temp = str.substring("Type: ".length());
 							if (temp.equalsIgnoreCase("climax")) {
 								newCard.setT(Type.CLIMAX);
@@ -354,7 +354,7 @@ public class Importer {
 		Collections.sort(setCards);
 
 		/*
-		 * String testStr = "ç¸ºï¿½â–½ç¸ºå�¥ï½¤ï½¢ç¸ºï½§éš•ä¹�â—†èœˆç”»å‹¹The Scene To Be Seen In A Dream Someday";
+		 * String testStr = "Ã§Â¸ÂºÃ¯Â¿Â½Ã¢â€“Â½Ã§Â¸ÂºÃ¥ï¿½Â¥Ã¯Â½Â¤Ã¯Â½Â¢Ã§Â¸ÂºÃ¯Â½Â§Ã©Å¡â€¢Ã¤Â¹ï¿½Ã¢â€”â€ Ã¨Å“Ë†Ã§â€�Â»Ã¥â€¹Â¹The Scene To Be Seen In A Dream Someday";
 		 * System.out.println("testStr = " + testStr); for (int i = 1; i <
 		 * testStr.length(); i++) { boolean isCurrentAlph =
 		 * ((int)(testStr.charAt(i)) <= 127); boolean isPrevNAlph =
