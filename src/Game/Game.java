@@ -9,9 +9,8 @@
  */
 
 /**
- * TODO:
  * options on discarding/peek/swap/etc. between zones
- *      Need to find a way to get specfic cards from waiting room/memory/deck/clock/level
+ *      Need to find a way to get specific cards from waiting room/memory/deck/clock/level
  * manual refresh and refresh damage (an option to refresh)
  * shuffle deck after search
  * pay for stock from bottom/discard stock from top
