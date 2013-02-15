@@ -72,7 +72,7 @@ public class Stock_Zone extends FieldElement {
 	}
 
 	@Override
-	// select the last card in the stock zone
+	// select the top card in the stock zone
 	public Card selectCard(MouseEvent e) {
 		if (containCards()) {
 			if (showCard().getCardBound().contains(e.getX(), e.getY())) {
@@ -85,22 +85,22 @@ public class Stock_Zone extends FieldElement {
 	}
 
 	@Override
-	// left click to pay stock for ability activation/cost to summon
-	// right click to pay the bottom
+	// right click to pay stock for ability activation/cost to summon
+	// left click to pay the bottom
 	public void mouseClicked(MouseEvent e) {
-		Card card = null;
-		if (containCards()) {
-			if (e.getButton() == MouseEvent.BUTTON3) {
-				card = selectCard(e);
-				associatedPlayer.getField().getWaitingRoom().setCard(card);
-			} else if (e.getButton() == MouseEvent.BUTTON1) {
-				associatedPlayer.getField().getWaitingRoom()
-						.setCard(stockZone.get(0));
-				stockZone.remove(0);
-			}
+		Card card = selectCard(e);
+		if (containCards() == false)
+			return;
+		if (e.getButton() == MouseEvent.BUTTON3) {
+			card = selectCard(e);
+			associatedPlayer.getField().getWaitingRoom().setCard(card);
+		} else if (e.getButton() == MouseEvent.BUTTON1) {
+			associatedPlayer.getField().getWaitingRoom()
+					.setCard(stockZone.get(0));
+			stockZone.remove(0);
 		}
 	}
-	
+
 	public boolean isList() {
 		return true;
 	}

@@ -99,9 +99,12 @@ public class Front_Row extends FieldElement {
 
 	@Override
 	public void mouseClicked(MouseEvent e) {
-		if (e.getButton() == MouseEvent.BUTTON3 && containCards()) {
-			Card card = selectCard(e);
-			System.out.println("playing " + card.getCardName() + " in a different position");
+		Card card = selectCard(e);
+		if (containCards() == false || card == null)
+			return;
+		if (e.getButton() == MouseEvent.BUTTON3) {
+			System.out.println("playing " + card.getCardName()
+					+ " in a different position");
 			setCard(card);
 			if (card != null) {
 				if (associatedPlayer.getCurrentPhase() == Phase.MAIN_PHASE) {

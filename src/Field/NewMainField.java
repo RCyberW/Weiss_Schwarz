@@ -172,7 +172,7 @@ public class NewMainField extends Canvas implements Serializable,
 	}
 
 	public void mouseReleased(MouseEvent e) {
-
+		mouseClicked(e);
 	}
 
 	public void mouseMoved(MouseEvent e) {
@@ -180,46 +180,46 @@ public class NewMainField extends Canvas implements Serializable,
 
 	public void mouseClicked(MouseEvent e) {
 		if (e.getClickCount() == 1) {
-			if (e.getButton() == MouseEvent.BUTTON1
-					&& (associatedPlayer.getCurrentPhase() == Phase.MAIN_PHASE || associatedPlayer
-							.getCurrentPhase() == Phase.ATTACK_PHASE)) {
-				if (selectedCard == null) {
-					// picking up a card from a zone
-					for (FieldElement fe : elements) {
-						fe.mouseClicked(e);
-						if (!fe.isList()) {
-							selectedCard = fe.selectCard(e);
-						}
-						if (selectedCard != null) {
-							System.out.println("taking up  "
-									+ selectedCard.getCardName());
-							break;
-						}
-					}
-				} else {
-					// placing a card to a zone
-					for (FieldElement fe : elements) {
-						if (fe.contains(e.getX(), e.getY())) {
-							System.out
-									.println("clicked on " + fe.toString()
-											+ "(" + e.getX() + "," + e.getY()
-											+ ") placing "
-											+ selectedCard.getCardName());
-							Card tempCard = null;
+			if (e.getButton() == MouseEvent.BUTTON1) {
+				if ((associatedPlayer.getCurrentPhase() == Phase.MAIN_PHASE || associatedPlayer
+						.getCurrentPhase() == Phase.ATTACK_PHASE)) {
+					if (selectedCard == null) {
+						// picking up a card from a zone
+						for (FieldElement fe : elements) {
+							fe.mouseClicked(e);
 							if (!fe.isList()) {
-								tempCard = fe.selectCard(e);
-								if (tempCard != null)
-									System.out.println("picking up "
-											+ selectedCard.getCardName());
+								selectedCard = fe.selectCard(e);
 							}
-							fe.setCard(selectedCard);
-							selectedCard = tempCard;
-							break;
+							if (selectedCard != null) {
+								System.out.println("taking up  "
+										+ selectedCard.getCardName());
+								break;
+							}
 						}
+					} else {
+						// placing a card to a zone
+						for (FieldElement fe : elements) {
+							if (fe.contains(e.getX(), e.getY())) {
+								System.out.println("clicked on "
+										+ fe.toString() + "(" + e.getX() + ","
+										+ e.getY() + ") placing "
+										+ selectedCard.getCardName());
+								Card tempCard = null;
+								if (!fe.isList()) {
+									tempCard = fe.selectCard(e);
+									if (tempCard != null)
+										System.out.println("picking up "
+												+ selectedCard.getCardName());
+								}
+								fe.setCard(selectedCard);
+								selectedCard = tempCard;
+								break;
+							}
+						}
+						if (selectedCard != null)
+							System.out.println("holding "
+									+ selectedCard.getCardName());
 					}
-					if (selectedCard != null)
-						System.out.println("holding "
-								+ selectedCard.getCardName());
 				}
 			} else if (e.getButton() == MouseEvent.BUTTON3) {
 				// default action on each zone

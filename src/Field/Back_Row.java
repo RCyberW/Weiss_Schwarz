@@ -91,16 +91,16 @@ public class Back_Row extends FieldElement {
 
 	@Override
 	public void mouseClicked(MouseEvent e) {
+		Card card = selectCard(e);
+		if (containCards() == false || card == null)
+			return;
 		if (e.getButton() == MouseEvent.BUTTON3) {
-			if (containCards()
-					&& backCard.getCardBound().contains(e.getX(), e.getY())) {
-				if (backCard.getCurrentState() == State.STAND) {
-					backCard.setCurrentState(State.REST);
-				} else if (backCard.getCurrentState() == State.REST) {
-					backCard.setCurrentState(State.REVERSE);
-				} else {
-					backCard.setCurrentState(State.STAND);
-				}
+			if (backCard.getCurrentState() == State.STAND) {
+				backCard.setCurrentState(State.REST);
+			} else if (backCard.getCurrentState() == State.REST) {
+				backCard.setCurrentState(State.REVERSE);
+			} else {
+				backCard.setCurrentState(State.STAND);
 			}
 		}
 	}

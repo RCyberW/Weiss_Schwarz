@@ -36,7 +36,7 @@ abstract class FieldElement extends Component implements MouseListener {
 	 * 		Clock			N/A
 	 * 		Deck			N/A
 	 * 		Front			N/A
-	 * 		Hand			Select the card to clock
+	 * 		Hand			Select the card to clock						DONE
 	 * 		Level			N/A
 	 * 		Memory			N/A
 	 * 		Resolution		N/A
@@ -57,11 +57,11 @@ abstract class FieldElement extends Component implements MouseListener {
 	 */
 	 /* MAIN PHASE
 	 * 	Right Click
-	 * 		Back			Rest card for effect
+	 * 		Back			Rest card for effect							DONE
 	 * 		Climax			N/A
 	 * 		Clock			If there is a card selected from hand, shift
 	 * 		Deck			Draw a card
-	 * 		Front			Rest card for effect
+	 * 		Front			Rest card for effect							DONE
 	 * 		Hand			Play a card to the next available field spot
 	 * 		Level			N/A
 	 * 		Memory			N/A
@@ -314,6 +314,7 @@ abstract class FieldElement extends Component implements MouseListener {
 
 	@Override
 	public void mouseReleased(MouseEvent e) {
+		mouseClicked(e);
 	}
 
 	public abstract Card selectCard(MouseEvent e);
