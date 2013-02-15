@@ -1460,10 +1460,9 @@ public class BuilderGUI extends JFrame {
 				|| source.equalsIgnoreCase("deckList2")
 				|| source.equalsIgnoreCase("load")
 				|| source.equalsIgnoreCase("new")) {
-			//deckList.removeAll();
-			//deckList.validate();
+			deckList.removeAll();
+			deckList.validate();
 			deckList.add(buildStatsZone());
-			
 			deckList.add(buildDeckArea());
 			// changes = true;
 		}
