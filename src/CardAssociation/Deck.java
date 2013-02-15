@@ -104,6 +104,7 @@ public class Deck {
 					Card card = referenceCard.clone();
 					card.setCardName(card.getCardName()
 							+ referenceCard.getCardCount());
+					card.setRealName(referenceCard.getCardName());
 					onlineUpdateStatistics(card, true);
 					cards.add(card);
 					shuffledCards.add(card);
@@ -115,14 +116,18 @@ public class Deck {
 					JOptionPane.showMessageDialog(
 							frame,
 							"There are already 4 copies of "
-									+ referenceCard.getCardName() + " in the deck",
-							"Max Copies", JOptionPane.WARNING_MESSAGE);
+									+ referenceCard.getCardName()
+									+ " in the deck", "Max Copies",
+							JOptionPane.WARNING_MESSAGE);
 				}
 			} else {
 				// card does not exist, add
 				referenceCard.resetCount();
 				referenceCard.addCount();
 				Card card = referenceCard.clone();
+				card.setCardName(card.getCardName()
+						+ referenceCard.getCardCount());
+				card.setRealName(referenceCard.getCardName());
 				onlineUpdateStatistics(card, true);
 				cards.add(card);
 				shuffledCards.add(card);

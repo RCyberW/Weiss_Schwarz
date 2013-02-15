@@ -11,7 +11,8 @@
  * TODO:
  * drag and drop (not possible currently, need research)
  * print deck with card translation and image (research)
- * deck list does not display correct card when sorted
+ * add multiple cards at once
+ * do not rebuild result list when finish searching
  */
 
 package DeckBuilder;
@@ -975,9 +976,13 @@ public class BuilderGUI extends JFrame {
 
 		Object[][] cardData = new Object[cards.size()][columnNames.length];
 
+		int remInt = 0;
+
 		// Input card data into the display table
 		for (int i = 0; i < cards.size(); i++) {
 			Card card = cards.get(i);
+			if (card.equals(selectedCard))
+				remInt = i;
 			cardData[i][0] = card.getCardCount();
 			cardData[i][1] = card.getID();
 			cardData[i][2] = card.getCardName();
@@ -1167,6 +1172,10 @@ public class BuilderGUI extends JFrame {
 		TableColumn powCol = displayTable.getColumnModel().getColumn(9);
 		powCol.setPreferredWidth(powW);
 
+		ListSelectionModel selectionModel = displayTable.getSelectionModel();
+		selectionModel.setSelectionInterval(remInt, remInt);
+		displayTable.setSelectionModel(selectionModel);
+
 		JScrollPane listPane = new JScrollPane(displayTable);
 
 		return listPane;
@@ -1206,7 +1215,7 @@ public class BuilderGUI extends JFrame {
 		newVert3.add(new JLabel("Red: "));
 		newVert3.add(new JLabel("Blue: "));
 		newVert3.add(new JLabel("------"));
-		//newVert3.add(new JLabel("Damage: "));
+		// newVert3.add(new JLabel("Damage: "));
 		Box newVert4 = Box.createVerticalBox();
 		newVert4.add(new JLabel(String.valueOf(currentDeck.getNumEvent())));
 		newVert4.add(new JLabel(String.valueOf(currentDeck.getNumYellow())));
@@ -1214,7 +1223,7 @@ public class BuilderGUI extends JFrame {
 		newVert4.add(new JLabel(String.valueOf(currentDeck.getNumRed())));
 		newVert4.add(new JLabel(String.valueOf(currentDeck.getNumBlue())));
 		newVert4.add(new JLabel("------"));
-		//newVert4.add(new JLabel(String.valueOf(currentDeck.getDamage())));
+		// newVert4.add(new JLabel(String.valueOf(currentDeck.getDamage())));
 		newVert4.setPreferredSize(new Dimension(20, 100));
 
 		analyzerBox.add(newVert);
@@ -1276,9 +1285,11 @@ public class BuilderGUI extends JFrame {
 				MouseListener listener = new MouseAdapter() {
 					public void mousePressed(MouseEvent e) {
 
-						/*JComponent comp = (JComponent) e.getSource();
-						TransferHandler handler = comp.getTransferHandler();
-						handler.exportAsDrag(comp, e, TransferHandler.COPY);*/
+						/*
+						 * JComponent comp = (JComponent) e.getSource();
+						 * TransferHandler handler = comp.getTransferHandler();
+						 * handler.exportAsDrag(comp, e, TransferHandler.COPY);
+						 */
 
 						selectedCard = thisCard;
 						System.out.println(thisCard.getCardName() + " has "
@@ -1351,10 +1362,10 @@ public class BuilderGUI extends JFrame {
 		 */
 
 		JScrollPane deckListPane = buildDeckList();
-		//JScrollPane deckThumPane = buildDeckThumbPane(deckListPane);
+		// JScrollPane deckThumPane = buildDeckThumbPane(deckListPane);
 
 		jtb.addTab("View 1", deckListPane);
-		//jtb.addTab("View 2", deckThumPane);
+		// jtb.addTab("View 2", deckThumPane);
 
 		return jtb;
 	}
@@ -1433,6 +1444,7 @@ public class BuilderGUI extends JFrame {
 		}
 
 		if (source.equalsIgnoreCase("search") || source.equalsIgnoreCase("new")) {
+			buildResultArea();
 			listBox.getComponent(0).setVisible(false);
 			listBox.removeAll();
 			listBox.validate();
@@ -1448,9 +1460,10 @@ public class BuilderGUI extends JFrame {
 				|| source.equalsIgnoreCase("deckList2")
 				|| source.equalsIgnoreCase("load")
 				|| source.equalsIgnoreCase("new")) {
-			deckList.removeAll();
-			deckList.validate();
+			//deckList.removeAll();
+			//deckList.validate();
 			deckList.add(buildStatsZone());
+			
 			deckList.add(buildDeckArea());
 			// changes = true;
 		}
@@ -1529,13 +1542,12 @@ public class BuilderGUI extends JFrame {
 	@SuppressWarnings("unchecked")
 	private void deserializer() {
 
-		
-		//FileInputStream fileInput;
+		// FileInputStream fileInput;
 		InputStream fileInput;
 		ObjectInputStream objectInput;
 
 		try {
-			//fileInput = new FileInputStream();
+			// fileInput = new FileInputStream();
 			fileInput = getClass().getResourceAsStream("CardDatav2");
 			objectInput = new ObjectInputStream(fileInput);
 
@@ -1554,9 +1566,9 @@ public class BuilderGUI extends JFrame {
 	// main
 	public static void main(String[] args) {
 		if (args.length == 0)
-			datafile = "CardDatav2";
+			setDatafile("CardDatav2");
 		else
-			datafile = args[0];
+			setDatafile(args[0]);
 		BuilderGUI builderGui = new BuilderGUI();
 		builderGui.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
@@ -1564,6 +1576,14 @@ public class BuilderGUI extends JFrame {
 
 		// builderGui.pack();
 		builderGui.setVisible(true);
+	}
+
+	public static String getDatafile() {
+		return datafile;
+	}
+
+	public static void setDatafile(String datafile) {
+		BuilderGUI.datafile = datafile;
 	}
 
 }

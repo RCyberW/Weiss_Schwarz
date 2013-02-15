@@ -131,7 +131,7 @@ public class DisplayList extends JFrame {
 
 		Box cardInfo = Box.createVerticalBox();
 
-		JTextArea cardTitle = new JTextArea(selectedCard.getCardName());
+		JTextArea cardTitle = new JTextArea(selectedCard.getRealName());
 		cardTitle.setLineWrap(true);
 		cardTitle.setWrapStyleWord(true);
 		cardTitle.setEditable(false);
