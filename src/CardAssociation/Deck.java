@@ -91,7 +91,8 @@ public class Deck {
 				if (cards.contains(referenceCard)) {
 					// if not, then add
 					// System.err.println(card.getName());
-					if (referenceCard.getCardCount() < 4 && toAdd) {
+					if (referenceCard.getCardCount() < Card.getMaxInDeck(referenceCard) 
+							&& toAdd) {
 						referenceCard.addCount();
 						for (int i = 0; i < cards.size(); i++) {
 							Card tempCard = cards.get(i);
@@ -109,11 +110,11 @@ public class Deck {
 						// System.err.println(card.toString());
 					} else if (verbose){
 						System.out.println(referenceCard.getCardName()
-								+ " has 4 copies");
+								+ " has maximum copies");
 						// Warn the user that there are 4 copies existing
 						JOptionPane.showMessageDialog(
 								frame,
-								"There are already 4 copies of "
+								"There are already the maximum copies (" + referenceCard.getCardCount() +") of "
 										+ referenceCard.getCardName() + " in the deck",
 								"Max Copies", JOptionPane.WARNING_MESSAGE);
 					}

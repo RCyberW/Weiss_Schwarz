@@ -912,6 +912,7 @@ public class BuilderGUI extends JFrame {
 		} else {
 
 			for (int i = 0; i < resultList.size(); i++) {
+				System.out.println(i);
 				if (i % RESULTPERLINE == 0 || i >= resultList.size()) {
 					if (i > 0) {
 						vbox.add(box);
@@ -1007,7 +1008,7 @@ public class BuilderGUI extends JFrame {
 			public void actionPerformed(ActionEvent e) {
 				if (selectedCard != null) {
 					currentDeck.addCard(selectedCard, true);
-					while (currentDeck.addCard(selectedCard, false));
+					for (int i = 1; i < 4 && currentDeck.addCard(selectedCard, false); ++i);
 					refresh("addToDeck");
 				}
 			}
@@ -1017,7 +1018,7 @@ public class BuilderGUI extends JFrame {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				if (selectedCard != null && currentDeck.removeCard(selectedCard)) {
-					refresh("addToDeck");
+					refresh("removeFromDeck");
 				}
 			}
 		});
@@ -1026,8 +1027,8 @@ public class BuilderGUI extends JFrame {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				if (selectedCard != null) {
-					while (currentDeck.removeCard(selectedCard));
-					refresh("addToDeck");
+					for (int i = 0; i < 4 && currentDeck.removeCard(selectedCard); ++i);
+					refresh("removeFromDeck");
 				}
 			}
 		});
@@ -1092,7 +1093,7 @@ public class BuilderGUI extends JFrame {
 								row, 1));
 						// selectedCard = allCards.get(row);
 					}
-					refresh("deckList");
+					refresh("deckListSelect");
 				}
 
 			}
@@ -1107,7 +1108,7 @@ public class BuilderGUI extends JFrame {
 							1));
 				if (e.getClickCount() == 1
 						&& e.getButton() == MouseEvent.BUTTON1) {
-					refresh("deckList");
+					refresh("deckListSelect");
 				} /*
 				 * else if ((e.getClickCount() == 2 && e.getButton() ==
 				 * MouseEvent.BUTTON1) || (e.getClickCount() == 1 &&
@@ -1124,8 +1125,8 @@ public class BuilderGUI extends JFrame {
 				if ((e.getClickCount() == 2 && e.getButton() == MouseEvent.BUTTON1)
 						|| (e.getClickCount() == 1 && e.getButton() == MouseEvent.BUTTON3)
 						&& row > -1) {
-					currentDeck.removeCard(selectedCard);
-					refresh("deckList2");
+					if (currentDeck.removeCard(selectedCard))
+						refresh("removeFromDeck");
 				}
 			}
 		});
@@ -1162,16 +1163,16 @@ public class BuilderGUI extends JFrame {
 				if (row > -1)
 					selectedCard = cardHolder.get(deckListTable.getValueAt(row,
 							1));
-				refresh("deckList");
+				refresh("deckListSelect");
 				if (e.getKeyCode() == KeyEvent.VK_DELETE
 						|| e.getKeyCode() == KeyEvent.VK_MINUS) {
-					currentDeck.removeCard(selectedCard);
-					refresh("deckList2");
+					if (currentDeck.removeCard(selectedCard))
+						refresh("removeFromDeck");
 				} else if (e.getKeyCode() == KeyEvent.VK_EQUALS
 						|| e.getKeyCode() == KeyEvent.VK_ADD
 						|| e.getKeyCode() == KeyEvent.VK_ENTER) {
-					currentDeck.addCard(selectedCard, true);
-					refresh("deckList2");
+					if (currentDeck.addCard(selectedCard, true))
+						refresh("addToDeck");
 				}
 
 			}
@@ -1191,7 +1192,7 @@ public class BuilderGUI extends JFrame {
 		else
 			widthM = getPreferredSize().width;
 
-		int cntW = 20;
+		int cntW = 40;
 		int indW = 130;
 		int colW = 75;
 		int typW = 80;
@@ -1399,12 +1400,12 @@ public class BuilderGUI extends JFrame {
 						selectedCard = thisCard;
 						System.out.println(thisCard.getCardName() + " has "
 								+ thisCard.getCardCount() + " copies");
-						refresh("deckList");
+						refresh("deckListSelect");
 
 						if ((e.getClickCount() == 2 && e.getButton() == MouseEvent.BUTTON1)
 								|| (e.getClickCount() == 1 && e.getButton() == MouseEvent.BUTTON3)) {
 							currentDeck.removeCard(selectedCard);
-							refresh("deckList2");
+							refresh("removeFromDeck");
 						}
 					}
 				};
@@ -1544,7 +1545,7 @@ public class BuilderGUI extends JFrame {
 
 		if (source.equalsIgnoreCase("load")
 				|| source.equalsIgnoreCase("listBox")
-				|| source.equalsIgnoreCase("deckList")
+				|| source.equalsIgnoreCase("deckListSelect")
 				|| source.equalsIgnoreCase("search")
 				|| source.equalsIgnoreCase("new")
 				|| source.equalsIgnoreCase("listBox2")) {
@@ -1562,6 +1563,7 @@ public class BuilderGUI extends JFrame {
 		}
 
 		if (source.equalsIgnoreCase("addToDeck")
+				|| source.equalsIgnoreCase("removeFromDeck")
 				|| source.equalsIgnoreCase("deckList2")
 				|| source.equalsIgnoreCase("load")
 				|| source.equalsIgnoreCase("new")) {
