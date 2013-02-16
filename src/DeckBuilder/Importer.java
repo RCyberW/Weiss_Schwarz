@@ -119,6 +119,9 @@ public class Importer {
 					// newCard.setImage(new File("FieldImages/Vertical.png"));
 					if (newCard.getImage().exists()) {
 						//Card c = allCards.put(newCard.getCardName(), newCard);
+						String fName = newCard.getImage().getPath().replace("src", "");
+						System.out.println(fName);
+						newCard.setImage(new File(fName));
 						Card c = allCards.put(newCard.getID(), newCard);
 						if (c == null) {
 							setCards.add(newCard);
@@ -146,7 +149,7 @@ public class Importer {
 						case 1 : //card id
 							str = str.replace("  ", " ");
 							newCard.setID(str);
-							newCard.setImage(new File("FieldImages/" + fileName
+							newCard.setImage(new File("src/resources/FieldImages/" + fileName
 									+ "/"
 									+ str.replace(" ", "_").replace("/", "-")
 									+ ".jpg"));
@@ -290,7 +293,7 @@ public class Importer {
 		FileOutputStream fileOutput;
 		ObjectOutputStream objectOutput;
 		try {
-			fileOutput = new FileOutputStream("src/DeckBuilder/CardDatav2");
+			fileOutput = new FileOutputStream("src/resources/CardDatav2");
 			objectOutput = new ObjectOutputStream(fileOutput);
 
 			objectOutput.writeObject(setCards);

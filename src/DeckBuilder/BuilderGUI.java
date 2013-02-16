@@ -93,7 +93,40 @@ public class BuilderGUI extends JFrame {
 	private File file;
 
 	private static String datafile;
-
+	
+	// UI Components (Panes)
+	private JTabbedPane resultArea;
+	private JScrollPane resultPane;
+	private JScrollPane resultThumbPane;
+	
+	private JTabbedPane deckArea;
+	private JScrollPane deckPane;
+	
+	// Header for result area
+	private JLabel resultHeader;
+	
+	// Components for tables
+	private JTable resultListTable;
+	private ResultListTableModel resultListModel;
+	private JTable deckListTable;
+	private DeckListTableModel deckListModel;
+	
+	// Text in stats box
+	private JLabel cardCountText;
+	private JLabel climaxCountText;
+	private JLabel lv0CountText;
+	private JLabel lv1CountText;
+	private JLabel lv2CountText;
+	private JLabel lv3CountText;
+	private JLabel soulCountText;
+	
+	private JLabel eventCountText;
+	private JLabel yellowCountText;
+	private JLabel greenCountText;
+	private JLabel redCountText;
+	private JLabel blueCountText;
+	
+	
 	/**
 	 * Start the GUI client
 	 */
@@ -609,7 +642,7 @@ public class BuilderGUI extends JFrame {
 		loadb.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				currentDeck = new Deck();
+//				currentDeck = new Deck();
 				action(e);
 				changes = false;
 			}
@@ -706,27 +739,9 @@ public class BuilderGUI extends JFrame {
 	 *         list
 	 */
 	private JScrollPane buildResultList() {
-		String[] columnNames = { "ID", "Name", "Color", "Type", "Level",
-				"Cost", "Soul", "Power" };
-
-		final ArrayList<Card> allCards = resultList;
-
-		Object[][] cardData = new Object[allCards.size()][columnNames.length];
-
-		// Input display data into the table
-		for (int i = 0; i < allCards.size(); i++) {
-			Card card = allCards.get(i);
-			cardData[i][0] = card.getID();
-			cardData[i][1] = card.getCardName();
-			cardData[i][2] = card.getC();
-			cardData[i][3] = card.getT();
-			cardData[i][4] = card.getLevel();
-			cardData[i][5] = card.getCost();
-			cardData[i][6] = card.getSoul();
-			cardData[i][7] = card.getPower();
-		}
-
-		final JTable displayTable = new JTable(cardData, columnNames) {
+		
+		resultListModel = new ResultListTableModel(resultList);
+		resultListTable = new JTable(resultListModel) {
 
 			private static final long serialVersionUID = 3570425890676389430L;
 
@@ -742,15 +757,15 @@ public class BuilderGUI extends JFrame {
 		else
 			widthM = getPreferredSize().width / 2 - OFFSET;
 
-		displayTable.setPreferredScrollableViewportSize(new Dimension(widthM,
+		resultListTable.setPreferredScrollableViewportSize(new Dimension(widthM,
 				70));
-		displayTable.setFillsViewportHeight(true);
-		displayTable.setAutoResizeMode(JTable.AUTO_RESIZE_OFF);
-		displayTable.setRowSorter(new TableRowSorter<TableModel>(displayTable
+		resultListTable.setFillsViewportHeight(true);
+		resultListTable.setAutoResizeMode(JTable.AUTO_RESIZE_OFF);
+		resultListTable.setRowSorter(new TableRowSorter<TableModel>(resultListTable
 				.getModel()));
 
 		// Handles right click selection
-		displayTable.addMouseListener(new MouseAdapter() {
+		resultListTable.addMouseListener(new MouseAdapter() {
 			public void mousePressed(MouseEvent e) {
 				// Left mouse click
 				if (SwingUtilities.isLeftMouseButton(e)) {
@@ -762,19 +777,19 @@ public class BuilderGUI extends JFrame {
 					Point p = e.getPoint();
 
 					// Get the row index that contains that coordinate
-					int rowNumber = displayTable.rowAtPoint(p);
+					int rowNumber = resultListTable.rowAtPoint(p);
 
 					// Get the ListSelectionModel of the JTable
-					ListSelectionModel model = displayTable.getSelectionModel();
+					ListSelectionModel model = resultListTable.getSelectionModel();
 
 					// Set the selected interval of rows. Using the "rowNumber"
 					// variable for the beginning and end selects only that one
 					// row.
 					model.setSelectionInterval(rowNumber, rowNumber);
 
-					int row = displayTable.getSelectedRow();
+					int row = resultListTable.getSelectedRow();
 					if (row > -1) {
-						selectedCard = cardHolder.get(displayTable.getValueAt(
+						selectedCard = cardHolder.get(resultListTable.getValueAt(
 								row, 0));
 						// selectedCard = allCards.get(row);
 					}
@@ -785,11 +800,11 @@ public class BuilderGUI extends JFrame {
 		});
 
 		// Handles click action
-		displayTable.addMouseListener(new MouseAdapter() {
+		resultListTable.addMouseListener(new MouseAdapter() {
 			public void mousePressed(MouseEvent e) {
-				int row = displayTable.getSelectedRow();
+				int row = resultListTable.getSelectedRow();
 				if (row > -1) {
-					selectedCard = cardHolder.get(displayTable.getValueAt(row,
+					selectedCard = cardHolder.get(resultListTable.getValueAt(row,
 							0));
 					// selectedCard = allCards.get(row);
 				}
@@ -806,23 +821,23 @@ public class BuilderGUI extends JFrame {
 			}
 
 			public void mouseReleased(MouseEvent e) {
-				int row = displayTable.getSelectedRow();
+				int row = resultListTable.getSelectedRow();
 				if (row > -1) {
-					selectedCard = cardHolder.get(displayTable.getValueAt(row,
+					selectedCard = cardHolder.get(resultListTable.getValueAt(row,
 							0));
 					// selectedCard = allCards.get(row);
 				}
 				if ((e.getClickCount() == 2 && e.getButton() == MouseEvent.BUTTON1)
 						|| (e.getClickCount() == 1 && e.getButton() == MouseEvent.BUTTON3)
 						&& row > -1) {
-					currentDeck.addCard(selectedCard);
-					refresh("listBox");
+					if(currentDeck.addCard(selectedCard))
+						refresh("listBoxAdd");
 				}
 			}
 		});
 
 		// Handles keyboard inputs
-		displayTable.addKeyListener(new KeyListener() {
+		resultListTable.addKeyListener(new KeyListener() {
 
 			@Override
 			public void keyPressed(KeyEvent e) {
@@ -833,9 +848,9 @@ public class BuilderGUI extends JFrame {
 
 			@Override
 			public void keyReleased(KeyEvent e) {
-				int row = displayTable.getSelectedRow();
+				int row = resultListTable.getSelectedRow();
 				if (row > -1) {
-					selectedCard = cardHolder.get(displayTable.getValueAt(row,
+					selectedCard = cardHolder.get(resultListTable.getValueAt(row,
 							0));
 				}
 				if (e.getKeyCode() == KeyEvent.VK_ENTER) {
@@ -851,26 +866,32 @@ public class BuilderGUI extends JFrame {
 
 		});
 
-		TableColumn indCol = displayTable.getColumnModel().getColumn(0);
+		TableColumn indCol = resultListTable.getColumnModel().getColumn(0);
 		indCol.setPreferredWidth(110);
-		TableColumn namCol = displayTable.getColumnModel().getColumn(1);
-		namCol.setPreferredWidth(widthM - 110 - 55 - 60 - 35 - 35 - 35 - 50);
-		TableColumn colCol = displayTable.getColumnModel().getColumn(2);
+		TableColumn namCol = resultListTable.getColumnModel().getColumn(1);
+		namCol.setPreferredWidth(widthM - 20 - 110 - 55 - 60 - 35 - 35 - 35 - 50);
+		TableColumn colCol = resultListTable.getColumnModel().getColumn(2);
 		colCol.setPreferredWidth(55);
-		TableColumn typCol = displayTable.getColumnModel().getColumn(3);
+		TableColumn typCol = resultListTable.getColumnModel().getColumn(3);
 		typCol.setPreferredWidth(60);
-		TableColumn lvlCol = displayTable.getColumnModel().getColumn(4);
+		TableColumn lvlCol = resultListTable.getColumnModel().getColumn(4);
 		lvlCol.setPreferredWidth(35);
-		TableColumn cstCol = displayTable.getColumnModel().getColumn(5);
+		TableColumn cstCol = resultListTable.getColumnModel().getColumn(5);
 		cstCol.setPreferredWidth(35);
-		TableColumn solCol = displayTable.getColumnModel().getColumn(6);
+		TableColumn solCol = resultListTable.getColumnModel().getColumn(6);
 		solCol.setPreferredWidth(35);
-		TableColumn powCol = displayTable.getColumnModel().getColumn(7);
+		TableColumn powCol = resultListTable.getColumnModel().getColumn(7);
 		powCol.setPreferredWidth(50);
 
-		JScrollPane listPane = new JScrollPane(displayTable);
+		resultPane = new JScrollPane(resultListTable);
+		resultPane.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);
 
-		return listPane;
+		return resultPane;
+	}
+	
+	private void refreshResultList() {
+		resultListModel.setCardList(resultList);
+
 	}
 
 	/**
@@ -951,15 +972,21 @@ public class BuilderGUI extends JFrame {
 	 */
 	private JTabbedPane buildResultArea() {
 
-		JScrollPane listResulPane = buildResultList();
-		JScrollPane listThumbPane = buildResultThumbPane(listResulPane);
+		resultPane = buildResultList();
+		resultThumbPane = buildResultThumbPane(resultPane);
+		resultArea = new JTabbedPane();
+		resultArea.add("View 1", resultPane);
+		resultArea.add("View 2", resultThumbPane);
 
-		JTabbedPane jtb = new JTabbedPane();
-		jtb.add("View 1", listResulPane);
-		jtb.add("View 2", listThumbPane);
-
-		return jtb;
+		return resultArea;
 	}
+	
+	private void refreshResultArea() {
+		resultHeader.setText("Card count: " + resultList.size());
+		refreshResultList();
+		resultThumbPane = buildResultThumbPane(resultPane);
+	}
+	
 
 	/**
 	 * Building the deck list pane
@@ -968,29 +995,8 @@ public class BuilderGUI extends JFrame {
 	 */
 	private JScrollPane buildDeckList() {
 
-		String[] columnNames = { "#", "ID", "Name", "Color", "Type", "L", "C",
-				"Trigger", "S", "Power" };
-
-		final ArrayList<Card> cards = currentDeck.getUnique();
-
-		Object[][] cardData = new Object[cards.size()][columnNames.length];
-
-		// Input card data into the display table
-		for (int i = 0; i < cards.size(); i++) {
-			Card card = cards.get(i);
-			cardData[i][0] = card.getCardCount();
-			cardData[i][1] = card.getID();
-			cardData[i][2] = card.getCardName();
-			cardData[i][3] = card.getC();
-			cardData[i][4] = card.getT();
-			cardData[i][5] = card.getLevel();
-			cardData[i][6] = card.getCost();
-			cardData[i][7] = card.getTrigger();
-			cardData[i][8] = card.getSoul();
-			cardData[i][9] = card.getPower();
-		}
-
-		final JTable displayTable = new JTable(cardData, columnNames) {
+		deckListModel = new DeckListTableModel(currentDeck.getUnique());
+		deckListTable = new JTable(deckListModel) {
 
 			private static final long serialVersionUID = 3570425890676389430L;
 
@@ -999,14 +1005,14 @@ public class BuilderGUI extends JFrame {
 			}
 		};
 
-		displayTable
+		deckListTable
 				.setPreferredScrollableViewportSize(new Dimension(600, 175));
-		displayTable.setFillsViewportHeight(true);
-		displayTable.setRowSorter(new TableRowSorter<TableModel>(displayTable
+		deckListTable.setFillsViewportHeight(true);
+		deckListTable.setRowSorter(new TableRowSorter<TableModel>(deckListTable
 				.getModel()));
 
 		// Handles right click selection
-		displayTable.addMouseListener(new MouseAdapter() {
+		deckListTable.addMouseListener(new MouseAdapter() {
 			public void mousePressed(MouseEvent e) {
 				// Left mouse click
 				if (SwingUtilities.isLeftMouseButton(e)) {
@@ -1018,20 +1024,20 @@ public class BuilderGUI extends JFrame {
 					Point p = e.getPoint();
 
 					// get the row index that contains that coordinate
-					int rowNumber = displayTable.rowAtPoint(p);
+					int rowNumber = deckListTable.rowAtPoint(p);
 
 					// Get the ListSelectionModel of the JTable
-					ListSelectionModel model = displayTable.getSelectionModel();
+					ListSelectionModel model = deckListTable.getSelectionModel();
 
 					// Set the selected interval of rows. Using the "rowNumber"
 					// variable for the beginning and end selects only that one
 					// row.
 					model.setSelectionInterval(rowNumber, rowNumber);
 
-					int row = displayTable.getSelectedRow();
+					int row = deckListTable.getSelectedRow();
 					if (row > -1) {
-						selectedCard = cardHolder.get(displayTable.getValueAt(
-								row, 0));
+						selectedCard = cardHolder.get(deckListTable.getValueAt(
+								row, 1));
 						// selectedCard = allCards.get(row);
 					}
 					refresh("deckList");
@@ -1041,11 +1047,11 @@ public class BuilderGUI extends JFrame {
 		});
 
 		// Handles click action
-		displayTable.addMouseListener(new MouseAdapter() {
+		deckListTable.addMouseListener(new MouseAdapter() {
 			public void mousePressed(MouseEvent e) {
-				int row = displayTable.getSelectedRow();
+				int row = deckListTable.getSelectedRow();
 				if (row > -1)
-					selectedCard = cardHolder.get(displayTable.getValueAt(row,
+					selectedCard = cardHolder.get(deckListTable.getValueAt(row,
 							1));
 				if (e.getClickCount() == 1
 						&& e.getButton() == MouseEvent.BUTTON1) {
@@ -1059,9 +1065,9 @@ public class BuilderGUI extends JFrame {
 			}
 
 			public void mouseReleased(MouseEvent e) {
-				int row = displayTable.getSelectedRow();
+				int row = deckListTable.getSelectedRow();
 				if (row > -1)
-					selectedCard = cardHolder.get(displayTable.getValueAt(row,
+					selectedCard = cardHolder.get(deckListTable.getValueAt(row,
 							1));
 				if ((e.getClickCount() == 2 && e.getButton() == MouseEvent.BUTTON1)
 						|| (e.getClickCount() == 1 && e.getButton() == MouseEvent.BUTTON3)
@@ -1072,7 +1078,7 @@ public class BuilderGUI extends JFrame {
 			}
 		});
 
-		displayTable.addFocusListener(new FocusListener() {
+		deckListTable.addFocusListener(new FocusListener() {
 
 			@Override
 			public void focusGained(FocusEvent f) {
@@ -1084,7 +1090,7 @@ public class BuilderGUI extends JFrame {
 		});
 
 		// Keyboard controls to operate the builder
-		displayTable.addKeyListener(new KeyListener() {
+		deckListTable.addKeyListener(new KeyListener() {
 
 			@Override
 			public void keyPressed(KeyEvent e) {
@@ -1100,9 +1106,9 @@ public class BuilderGUI extends JFrame {
 			 */
 			@Override
 			public void keyReleased(KeyEvent e) {
-				int row = displayTable.getSelectedRow();
+				int row = deckListTable.getSelectedRow();
 				if (row > -1)
-					selectedCard = cardHolder.get(displayTable.getValueAt(row,
+					selectedCard = cardHolder.get(deckListTable.getValueAt(row,
 							1));
 				refresh("deckList");
 				if (e.getKeyCode() == KeyEvent.VK_DELETE
@@ -1146,30 +1152,59 @@ public class BuilderGUI extends JFrame {
 		int usedSpace = cntW + indW + colW + typW + lvlW + cstW + trgW + solW
 				+ powW;
 
-		TableColumn cntCol = displayTable.getColumnModel().getColumn(0);
+		TableColumn cntCol = deckListTable.getColumnModel().getColumn(0);
 		cntCol.setPreferredWidth(cntW);
-		TableColumn indCol = displayTable.getColumnModel().getColumn(1);
+		TableColumn indCol = deckListTable.getColumnModel().getColumn(1);
 		indCol.setPreferredWidth(indW);
-		TableColumn namCol = displayTable.getColumnModel().getColumn(2);
+		TableColumn namCol = deckListTable.getColumnModel().getColumn(2);
 		namCol.setPreferredWidth(widthM - usedSpace);
-		TableColumn colCol = displayTable.getColumnModel().getColumn(3);
+		TableColumn colCol = deckListTable.getColumnModel().getColumn(3);
 		colCol.setPreferredWidth(colW);
-		TableColumn typCol = displayTable.getColumnModel().getColumn(4);
+		TableColumn typCol = deckListTable.getColumnModel().getColumn(4);
 		typCol.setPreferredWidth(typW);
-		TableColumn lvlCol = displayTable.getColumnModel().getColumn(5);
+		TableColumn lvlCol = deckListTable.getColumnModel().getColumn(5);
 		lvlCol.setPreferredWidth(lvlW);
-		TableColumn cstCol = displayTable.getColumnModel().getColumn(6);
+		TableColumn cstCol = deckListTable.getColumnModel().getColumn(6);
 		cstCol.setPreferredWidth(cstW);
-		TableColumn trgCol = displayTable.getColumnModel().getColumn(7);
+		TableColumn trgCol = deckListTable.getColumnModel().getColumn(7);
 		trgCol.setPreferredWidth(trgW);
-		TableColumn solCol = displayTable.getColumnModel().getColumn(8);
+		TableColumn solCol = deckListTable.getColumnModel().getColumn(8);
 		solCol.setPreferredWidth(solW);
-		TableColumn powCol = displayTable.getColumnModel().getColumn(9);
+		TableColumn powCol = deckListTable.getColumnModel().getColumn(9);
 		powCol.setPreferredWidth(powW);
 
-		JScrollPane listPane = new JScrollPane(displayTable);
+		deckPane = new JScrollPane(deckListTable);
+		deckPane.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);
 
-		return listPane;
+		return deckPane;
+	}
+	
+	private void refreshDeckList() {
+		deckListModel.setDeckList(currentDeck.getUnique());
+		int i;
+		for (i = 0; i < deckListTable.getRowCount(); ++i) {
+			if (cardHolder.get(deckListTable.getValueAt(i, 1)).equals(selectedCard)) break;
+		}
+		if (i < deckListTable.getRowCount()) {
+			deckListTable.getSelectionModel().setSelectionInterval(i,i);
+			deckListTable.scrollRectToVisible(deckListTable.getCellRect(i, 0, true));
+		}
+	}
+	
+	private void refreshStats() {
+		cardCountText.setText(String.valueOf(currentDeck.getCards().size()));
+		climaxCountText.setText(String.valueOf(currentDeck.getNumClimax()));
+		lv0CountText.setText(String.valueOf(currentDeck.getNumLevel0()));
+		lv1CountText.setText(String.valueOf(currentDeck.getNumLevel1()));
+		lv2CountText.setText(String.valueOf(currentDeck.getNumLevel2()));
+		lv3CountText.setText(String.valueOf(currentDeck.getNumLevel3()));
+		soulCountText.setText(String.valueOf(currentDeck.getNumSoul()));
+		
+		eventCountText.setText(String.valueOf(currentDeck.getNumEvent()));
+		yellowCountText.setText(String.valueOf(currentDeck.getNumYellow()));
+		greenCountText.setText(String.valueOf(currentDeck.getNumGreen()));
+		redCountText.setText(String.valueOf(currentDeck.getNumRed()));
+		blueCountText.setText(String.valueOf(currentDeck.getNumBlue()));
 	}
 
 	/**
@@ -1190,13 +1225,22 @@ public class BuilderGUI extends JFrame {
 		newVert.add(new JLabel("Level 3: "));
 		newVert.add(new JLabel("Soul Triggers: "));
 		Box newVert2 = Box.createVerticalBox();
-		newVert2.add(new JLabel(String.valueOf(currentDeck.getCards().size())));
-		newVert2.add(new JLabel(String.valueOf(currentDeck.getNumClimax())));
-		newVert2.add(new JLabel(String.valueOf(currentDeck.getNumLevel0())));
-		newVert2.add(new JLabel(String.valueOf(currentDeck.getNumLevel1())));
-		newVert2.add(new JLabel(String.valueOf(currentDeck.getNumLevel2())));
-		newVert2.add(new JLabel(String.valueOf(currentDeck.getNumLevel3())));
-		newVert2.add(new JLabel(String.valueOf(currentDeck.getNumSoul())));
+		
+		cardCountText = new JLabel(String.valueOf(currentDeck.getCards().size()));
+		climaxCountText = new JLabel(String.valueOf(currentDeck.getNumClimax()));
+		lv0CountText = new JLabel(String.valueOf(currentDeck.getNumLevel0()));
+		lv1CountText = new JLabel(String.valueOf(currentDeck.getNumLevel1()));
+		lv2CountText = new JLabel(String.valueOf(currentDeck.getNumLevel2()));
+		lv3CountText = new JLabel(String.valueOf(currentDeck.getNumLevel3()));
+		soulCountText = new JLabel(String.valueOf(currentDeck.getNumSoul()));
+		
+		newVert2.add(cardCountText);
+		newVert2.add(climaxCountText);
+		newVert2.add(lv0CountText);
+		newVert2.add(lv1CountText);
+		newVert2.add(lv2CountText);
+		newVert2.add(lv3CountText);
+		newVert2.add(soulCountText);
 		newVert2.setPreferredSize(new Dimension(20, 100));
 
 		Box newVert3 = Box.createVerticalBox();
@@ -1205,26 +1249,34 @@ public class BuilderGUI extends JFrame {
 		newVert3.add(new JLabel("Green: "));
 		newVert3.add(new JLabel("Red: "));
 		newVert3.add(new JLabel("Blue: "));
-		newVert3.add(new JLabel("------"));
+		//newVert3.add(new JLabel("------"));
 		//newVert3.add(new JLabel("Damage: "));
 		Box newVert4 = Box.createVerticalBox();
-		newVert4.add(new JLabel(String.valueOf(currentDeck.getNumEvent())));
-		newVert4.add(new JLabel(String.valueOf(currentDeck.getNumYellow())));
-		newVert4.add(new JLabel(String.valueOf(currentDeck.getNumGreen())));
-		newVert4.add(new JLabel(String.valueOf(currentDeck.getNumRed())));
-		newVert4.add(new JLabel(String.valueOf(currentDeck.getNumBlue())));
-		newVert4.add(new JLabel("------"));
+		
+		eventCountText = new JLabel(String.valueOf(currentDeck.getNumEvent()));
+		yellowCountText = new JLabel(String.valueOf(currentDeck.getNumYellow()));
+		greenCountText = new JLabel(String.valueOf(currentDeck.getNumGreen()));
+		redCountText = new JLabel(String.valueOf(currentDeck.getNumRed()));
+		blueCountText = new JLabel(String.valueOf(currentDeck.getNumBlue()));
+		
+		newVert4.add(eventCountText);
+		newVert4.add(yellowCountText);
+		newVert4.add(greenCountText);
+		newVert4.add(redCountText);
+		newVert4.add(blueCountText);
+//		newVert4.add(new JLabel("------"));
 		//newVert4.add(new JLabel(String.valueOf(currentDeck.getDamage())));
 		newVert4.setPreferredSize(new Dimension(20, 100));
 
 		analyzerBox.add(newVert);
-		// deckList.add(Box.createHorizontalGlue());
+//		analyzerBox.add(Box.createHorizontalGlue());
 		analyzerBox.add(newVert2);
-		analyzerBox.add(Box.createHorizontalStrut(10));
+		analyzerBox.add(Box.createHorizontalGlue());
 		analyzerBox.add(newVert3);
-		// deckList.add(Box.createHorizontalGlue());
+//		analyzerBox.add(Box.createHorizontalGlue());
 		analyzerBox.add(newVert4);
 		// analyzerBox.add(Box.createHorizontalStrut(5));
+		analyzerBox.setPreferredSize(new Dimension(80,100));
 
 		JButton clearDeck = new JButton("Clear Deck");
 		clearDeck.addActionListener(new ActionListener() {
@@ -1241,8 +1293,12 @@ public class BuilderGUI extends JFrame {
 		});
 
 		leftPanel.add(analyzerBox);
-		leftPanel.add(clearDeck);
+		Box boxtemp = Box.createHorizontalBox();
+		boxtemp.add(Box.createHorizontalGlue());
+		boxtemp.add(clearDeck);
+		leftPanel.add(boxtemp);
 		leftPanel.setAlignmentX(CENTER_ALIGNMENT);
+		leftPanel.setPreferredSize(new Dimension(60,100));
 		return leftPanel;
 	}
 
@@ -1336,7 +1392,7 @@ public class BuilderGUI extends JFrame {
 	 *         the deck
 	 */
 	private JTabbedPane buildDeckArea() {
-		JTabbedPane jtb = new JTabbedPane();
+		deckArea = new JTabbedPane();
 		/*
 		 * jtb.addMouseMotionListener(new MouseMotionListener(){
 		 * 
@@ -1350,13 +1406,17 @@ public class BuilderGUI extends JFrame {
 		 * });
 		 */
 
-		JScrollPane deckListPane = buildDeckList();
+		deckPane = buildDeckList();
 		//JScrollPane deckThumPane = buildDeckThumbPane(deckListPane);
 
-		jtb.addTab("View 1", deckListPane);
+		deckArea.addTab("View 1", deckPane);
 		//jtb.addTab("View 2", deckThumPane);
 
-		return jtb;
+		return deckArea;
+	}
+	
+	private void refreshDeckArea() {
+		refreshDeckList();
 	}
 
 	// ///////////////////////
@@ -1386,6 +1446,7 @@ public class BuilderGUI extends JFrame {
 			int returnVal = fc.showOpenDialog(this);
 			if (returnVal == JFileChooser.APPROVE_OPTION) {
 				file = fc.getSelectedFile();
+				currentDeck = new Deck();
 				currentDeck.loadRaw(file, cardHolder);
 				refresh("load");
 			}
@@ -1433,25 +1494,19 @@ public class BuilderGUI extends JFrame {
 		}
 
 		if (source.equalsIgnoreCase("search") || source.equalsIgnoreCase("new")) {
-			listBox.getComponent(0).setVisible(false);
-			listBox.removeAll();
-			listBox.validate();
-			listBox.add(new JLabel("Card count: " + resultList.size()));
-			listBox.add(buildResultArea());
+			refreshResultArea();
 		}
 
 		if (source.equalsIgnoreCase("load")) {
 			changes = true;
 		}
 
-		if (source.equalsIgnoreCase("listBox")
+		if (source.equalsIgnoreCase("listBoxAdd")
 				|| source.equalsIgnoreCase("deckList2")
 				|| source.equalsIgnoreCase("load")
 				|| source.equalsIgnoreCase("new")) {
-			deckList.removeAll();
-			deckList.validate();
-			deckList.add(buildStatsZone());
-			deckList.add(buildDeckArea());
+			refreshStats();
+			refreshDeckArea();
 			// changes = true;
 		}
 
@@ -1496,7 +1551,8 @@ public class BuilderGUI extends JFrame {
 		buildSearchBox();
 		// buildMenu();
 		buildCardInfo(selectedCard);
-		listBox.add(new JLabel("Card count: " + resultList.size()));
+		resultHeader = new JLabel("Card count: " + resultList.size());
+		listBox.add(resultHeader);
 		listBox.add(buildResultArea());
 		deckList.add(buildStatsZone());
 		deckList.add(buildDeckArea());
@@ -1510,6 +1566,12 @@ public class BuilderGUI extends JFrame {
 		add(BorderLayout.WEST, cardInfo);
 		add(BorderLayout.EAST, listBox);
 		add(BorderLayout.SOUTH, deckList);
+	}
+	
+	/**
+	 * Initializes the JTables
+	 */
+	public void initializeTables() {
 	}
 
 	/**
@@ -1536,7 +1598,8 @@ public class BuilderGUI extends JFrame {
 
 		try {
 			//fileInput = new FileInputStream();
-			fileInput = getClass().getResourceAsStream("CardDatav2");
+			System.out.println("Opening data");
+			fileInput = getClass().getResourceAsStream("/resources/CardDatav2");
 			objectInput = new ObjectInputStream(fileInput);
 
 			completeList = (ArrayList<Card>) objectInput.readObject();
