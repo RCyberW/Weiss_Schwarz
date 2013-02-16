@@ -32,6 +32,7 @@ import javax.imageio.ImageIO;
 import javax.swing.GroupLayout;
 import javax.swing.ImageIcon;
 import javax.swing.JComponent;
+import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
@@ -219,15 +220,14 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 	}
 
 	public JLabel initiateImage() {
-		JLabel imageLabel = new JLabel();
+		JLabel imageLabel = null;
 		try {
-			Image image = ImageIO.read(getClass().getResourceAsStream(imageFile.getPath()));
-//			Image image = ImageIO.read((imageFile.toURI()).toURL());
+			Image image = ImageIO.read(getClass().getResourceAsStream(
+					"/" + imageFile.getPath()));
 			ImageIcon img = new ImageIcon(image.getScaledInstance(
 					(int) (image.getWidth(null) * 0.44),
-					(int) (image.getHeight(null) * 0.44),
-					Image.SCALE_SMOOTH));
-			imageLabel.setIcon(img);
+					(int) (image.getHeight(null) * 0.44), Image.SCALE_SMOOTH));
+			return new JLabel(img);
 		} catch (MalformedURLException e) {
 			e.printStackTrace();
 		} catch (IOException e) {
@@ -392,8 +392,11 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 		imagePane.setPreferredSize(new Dimension(w, h));
 
 		try {
-			//Image image = ImageIO.read((imageFile.toURI()).toURL());
-			Image image = ImageIO.read(getClass().getResourceAsStream(imageFile.getPath()));
+			// Image image = ImageIO.read((imageFile.toURI()).toURL());
+			Image image = ImageIO.read(getClass().getResourceAsStream(
+					"/" + imageFile.getPath()));
+			File tempFile = new File("/" + imageFile.getPath());
+			System.out.println(tempFile.exists() + ": " + tempFile.getPath());
 			ImageIcon img = new ImageIcon(image.getScaledInstance(
 					(int) (image.getWidth(null)),
 					(int) (image.getHeight(null)), Image.SCALE_SMOOTH));
