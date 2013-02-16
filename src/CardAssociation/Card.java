@@ -166,7 +166,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 		effects = new ArrayList<String>();
 		flavorText = "";
 		setCurrentState(State.NONE);
-//		imageFile = new File("FieldImages/cardBack-s.jpg");
+		// imageFile = new File("FieldImages/cardBack-s.jpg");
 		imageResource = "/resources/FieldImages/cardBack-s.jpg";
 		// addMouseListener(this);
 	}
@@ -222,13 +222,14 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 	public JLabel initiateImage() {
 		JLabel imageLabel = new JLabel();
 		try {
-			Image image = ImageIO.read(getClass().getResourceAsStream(imageResource));
-//			Image image = ImageIO.read(new File("src/FieldImages/cardBack-s.jpg").toURI().toURL());
-//			Image image = ImageIO.read((imageFile.toURI()).toURL());
+			Image image = ImageIO.read(getClass().getResourceAsStream(
+					getImageResource()));
+			// Image image = ImageIO.read(new
+			// File("src/FieldImages/cardBack-s.jpg").toURI().toURL());
+			// Image image = ImageIO.read((imageFile.toURI()).toURL());
 			ImageIcon img = new ImageIcon(image.getScaledInstance(
 					(int) (image.getWidth(null) * 0.44),
-					(int) (image.getHeight(null) * 0.44),
-					Image.SCALE_SMOOTH));
+					(int) (image.getHeight(null) * 0.44), Image.SCALE_SMOOTH));
 			imageLabel.setIcon(img);
 		} catch (MalformedURLException e) {
 			e.printStackTrace();
@@ -246,7 +247,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 
 	// get the card image
 	public String getImageResource() {
-		return imageResource;
+		return "/" + new File(imageResource).getPath();
 	}
 
 	public JPanel getInfoPane(int w, int h) {
@@ -394,9 +395,10 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 		imagePane.setPreferredSize(new Dimension(w, h));
 
 		try {
-			//Image image = ImageIO.read((imageFile.toURI()).toURL());
-			System.out.println(imageResource);
-			Image image = ImageIO.read(getClass().getResourceAsStream(imageResource));
+			// Image image = ImageIO.read((imageFile.toURI()).toURL());
+			System.out.println(getImageResource());
+			Image image = ImageIO.read(getClass().getResourceAsStream(
+					getImageResource()));
 			ImageIcon img = new ImageIcon(image.getScaledInstance(
 					(int) (image.getWidth(null)),
 					(int) (image.getHeight(null)), Image.SCALE_SMOOTH));
@@ -759,7 +761,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 	}
 
 	public Image getCardImage() throws MalformedURLException, IOException {
-		return ImageIO.read(getClass().getResourceAsStream(imageResource));
+		return ImageIO.read(getClass().getResourceAsStream(getImageResource()));
 	}
 
 	public Canvas toCanvas() {
@@ -773,12 +775,12 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 
 						// img = ImageIO.read((imageFile.toURI()).toURL());
 
-						BufferedImage before = 
-								ImageIO.read(getClass().getResourceAsStream(imageResource));
+						BufferedImage before = ImageIO.read(getClass()
+								.getResourceAsStream(getImageResource()));
 						/*
-						BufferedImage before = ImageIO.read((imageFile.toURI())
-								.toURL());
-								*/
+						 * BufferedImage before =
+						 * ImageIO.read((imageFile.toURI()) .toURL());
+						 */
 						int wid = before.getWidth();
 						int hit = before.getHeight();
 						after = new BufferedImage(wid, hit,
