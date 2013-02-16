@@ -67,47 +67,67 @@ public class Deck {
 	}
 
 	// add cards to a deck
-	public void addCard(Card referenceCard) {
-		System.out.println("adding in Deck");
+		public boolean addCard(Card referenceCard) {
+			System.out.println("adding in Deck");
 
-		boolean toAdd = true;
-		int x = 0;
-		for (; x < cardWrapper.size(); x++) {
-			if (cardWrapper.get(x).containsCard(referenceCard)) {
-				toAdd = cardWrapper.get(x).addCard(referenceCard);
-				break;
+			boolean toAdd = true;
+			int x = 0;
+			for (; x < cardWrapper.size(); x++) {
+				if (cardWrapper.get(x).containsCard(referenceCard)) {
+					toAdd = cardWrapper.get(x).addCard(referenceCard);
+					break;
+				}
 			}
-		}
 
-		if (x == cardWrapper.size()) {
-			CardWrapper newWrapper = new CardWrapper();
-			newWrapper.setCardName(referenceCard.getCardName());
-			cardWrapper.add(newWrapper);
-			toAdd = cardWrapper.get(x).addCard(referenceCard);
-		}
+			if (x == cardWrapper.size()) {
+				CardWrapper newWrapper = new CardWrapper();
+				newWrapper.setCardName(referenceCard.getCardName());
+				cardWrapper.add(newWrapper);
+				toAdd = cardWrapper.get(x).addCard(referenceCard);
+			}
 
-		// check if the deck has max number of cards
-		if (cards.size() < MAX_DECK_SIZE) {
-			// if not, check to see if there are 4 copies of a card
-			if (cards.contains(referenceCard)) {
-				// if not, then add
-				// System.err.println(card.getName());
-				if (referenceCard.getCardCount() < 4 && toAdd) {
-					referenceCard.addCount();
-					for (int i = 0; i < cards.size(); i++) {
-						Card tempCard = cards.get(i);
-						if (referenceCard.compareTo(tempCard) == 0) {
-							tempCard.setCount(referenceCard.getCardCount());
+			// check if the deck has max number of cards
+			if (cards.size() < MAX_DECK_SIZE) {
+				// if not, check to see if there are 4 copies of a card
+				if (cards.contains(referenceCard)) {
+					// if not, then add
+					// System.err.println(card.getName());
+					if (referenceCard.getCardCount() < 4 && toAdd) {
+						referenceCard.addCount();
+						for (int i = 0; i < cards.size(); i++) {
+							Card tempCard = cards.get(i);
+							if (referenceCard.compareTo(tempCard) == 0) {
+								tempCard.setCount(referenceCard.getCardCount());
+							}
 						}
-					}
 
+						Card card = referenceCard.clone();
+						card.setCardName(card.getCardName()
+								+ referenceCard.getCardCount());
+						onlineUpdateStatistics(card, true);
+						cards.add(card);
+						shuffledCards.add(card);
+						// System.err.println(card.toString());
+					} else {
+						System.out.println(referenceCard.getCardName()
+								+ " has 4 copies");
+						// Warn the user that there are 4 copies existing
+						JOptionPane.showMessageDialog(
+								frame,
+								"There are already 4 copies of "
+										+ referenceCard.getCardName() + " in the deck",
+								"Max Copies", JOptionPane.WARNING_MESSAGE);
+					}
+				} else if (toAdd) {
+					// card does not exist, add
+					referenceCard.resetCount();
+					referenceCard.addCount();
 					Card card = referenceCard.clone();
-					card.setCardName(card.getCardName()
-							+ referenceCard.getCardCount());
 					onlineUpdateStatistics(card, true);
 					cards.add(card);
 					shuffledCards.add(card);
-					// System.err.println(card.toString());
+					unique.add(referenceCard);
+					Collections.sort(unique);
 				} else {
 					System.out.println(referenceCard.getCardName()
 							+ " has 4 copies");
@@ -119,24 +139,15 @@ public class Deck {
 							"Max Copies", JOptionPane.WARNING_MESSAGE);
 				}
 			} else {
-				// card does not exist, add
-				referenceCard.resetCount();
-				referenceCard.addCount();
-				Card card = referenceCard.clone();
-				onlineUpdateStatistics(card, true);
-				cards.add(card);
-				shuffledCards.add(card);
-				unique.add(referenceCard);
-				Collections.sort(unique);
+				System.out.println("FULL DECK");
+				// Warn the user that it is a full deck
+				JOptionPane.showMessageDialog(frame,
+						"This deck already contain 50 cards!", "Full Deck",
+						JOptionPane.WARNING_MESSAGE);
 			}
-		} else {
-			System.out.println("FULL DECK");
-			// Warn the user that it is a full deck
-			JOptionPane.showMessageDialog(frame,
-					"This deck already contain 50 cards!", "Full Deck",
-					JOptionPane.WARNING_MESSAGE);
+			return toAdd;
 		}
-	}
+
 
 	// remove a card form the deck
 	public void removeCard(Card card) {

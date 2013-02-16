@@ -62,12 +62,11 @@ public class Waiting_Room extends FieldElement {
 
 	private void displayDeck() {
 		DisplayList displayGui = new DisplayList(waitingRoom, associatedPlayer);
-		displayGui.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
 		displayGui.buildSelector();
 		displayGui.setVisible(true);
 	}
-	
+
 	@Override
 	public void paint(Graphics g, Card c) {
 
@@ -88,7 +87,8 @@ public class Waiting_Room extends FieldElement {
 		g.setColor(Color.BLUE);
 
 		// g.drawString(zoneName, x + 10, y + 20);
-		g.drawString("Waiting room: " + waitingRoom.size() + "", this.x, this.y - 10);
+		g.drawString("Waiting room: " + waitingRoom.size() + "", this.x,
+				this.y - 10);
 	}
 
 	@Override
@@ -106,18 +106,18 @@ public class Waiting_Room extends FieldElement {
 
 	@Override
 	public void mouseClicked(MouseEvent e) {
-		Card selected = selectCard(e);
+		Card card = selectCard(e);
+		if (containCards() == false || card == null)
+			return;
 		if (e.getButton() == MouseEvent.BUTTON3) {
-			if (selected != null) {
-				if (associatedPlayer.getCurrentPhase() == Phase.DRAW_PHASE) {
-				} else if (associatedPlayer.getCurrentPhase() == Phase.ATTACK_PHASE) {
-				} else {
-					displayDeck();
-				}
+			if (associatedPlayer.getCurrentPhase() == Phase.DRAW_PHASE) {
+			} else if (associatedPlayer.getCurrentPhase() == Phase.ATTACK_PHASE) {
+			} else {
+				displayDeck();
 			}
 		}
 	}
-	
+
 	public boolean isList() {
 		return true;
 	}

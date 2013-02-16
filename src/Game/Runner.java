@@ -11,7 +11,7 @@ public class Runner {
 		player1.buildAndDisplay();
 
 		while (!player1.isReady()) {
-			System.err.println("Waiting...");
+			//System.err.println("Waiting...");
 
 		}
 		/*

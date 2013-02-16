@@ -105,10 +105,11 @@ public class Level_Zone extends FieldElement {
 
 	@Override
 	public void mouseClicked(MouseEvent e) {
-		if (containCards()) {
-			if (e.getButton() == MouseEvent.BUTTON1) {
-				selected = selectCard(e);
-			}
+		Card card = selectCard(e);
+		if (containCards() == false || card == null)
+			return;
+		if (e.getButton() == MouseEvent.BUTTON1) {
+			selected = selectCard(e);
 		}
 		// TODO: swapping
 	}

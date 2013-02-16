@@ -59,7 +59,7 @@ public class Climax_Zone extends FieldElement {
 	@Override
 	public void paint(Graphics g, Card c) {
 		if (showCard() != c && showCard() != null) {
-			//climaxCard.paint(g, this.x, this.y, true, true);
+			// climaxCard.paint(g, this.x, this.y, true, true);
 			climaxCard.setDisplay(true, true);
 			climaxCard.toCanvas().setLocation(x, y);
 			climaxCard.toCanvas().paint(g);
@@ -72,8 +72,6 @@ public class Climax_Zone extends FieldElement {
 		g.drawString(zoneName, x + 10, y + 20);
 	}
 
-
-
 	@Override
 	public Card selectCard(MouseEvent e) {
 		if (climaxCard != null
@@ -85,13 +83,13 @@ public class Climax_Zone extends FieldElement {
 
 	@Override
 	public void mouseClicked(MouseEvent e) {
-		if (e.getButton() == MouseEvent.BUTTON3) {
-			if (containCards()
-					&& climaxCard.getCardBound().contains(e.getX(), e.getY())) {
-				associatedPlayer.getField().getWaitingRoom().setCard(climaxCard);
-				removeCard();
+		Card card = selectCard(e);
+		if (containCards() == false || card == null)
+			return;
 
-			}
+		if (e.getButton() == MouseEvent.BUTTON3) {
+			associatedPlayer.getField().getWaitingRoom().setCard(climaxCard);
+			removeCard();
 		}
 	}
 

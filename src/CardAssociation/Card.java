@@ -65,6 +65,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 	private String trait1;
 	private String trait2;
 	private String flavorText;
+	private String realCardName;
 
 	// game play properties
 	private State currentState;
@@ -220,14 +221,13 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 	public JLabel initiateImage() {
 		JLabel imageLabel = new JLabel();
 		try {
-			if (imageFile.exists()) {
-				Image image = ImageIO.read((imageFile.toURI()).toURL());
-				ImageIcon img = new ImageIcon(image.getScaledInstance(
-						(int) (image.getWidth(null) * 0.44),
-						(int) (image.getHeight(null) * 0.44),
-						Image.SCALE_SMOOTH));
-				imageLabel.setIcon(img);
-			}
+			Image image = ImageIO.read(getClass().getResourceAsStream(imageFile.getPath()));
+//			Image image = ImageIO.read((imageFile.toURI()).toURL());
+			ImageIcon img = new ImageIcon(image.getScaledInstance(
+					(int) (image.getWidth(null) * 0.44),
+					(int) (image.getHeight(null) * 0.44),
+					Image.SCALE_SMOOTH));
+			imageLabel.setIcon(img);
 		} catch (MalformedURLException e) {
 			e.printStackTrace();
 		} catch (IOException e) {
@@ -392,13 +392,12 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 		imagePane.setPreferredSize(new Dimension(w, h));
 
 		try {
-			if (imageFile.exists()) {
-				Image image = ImageIO.read((imageFile.toURI()).toURL());
-				ImageIcon img = new ImageIcon(image.getScaledInstance(
-						(int) (image.getWidth(null)),
-						(int) (image.getHeight(null)), Image.SCALE_SMOOTH));
-				imagePane.add(new JLabel(img));
-			}
+			//Image image = ImageIO.read((imageFile.toURI()).toURL());
+			Image image = ImageIO.read(getClass().getResourceAsStream(imageFile.getPath()));
+			ImageIcon img = new ImageIcon(image.getScaledInstance(
+					(int) (image.getWidth(null)),
+					(int) (image.getHeight(null)), Image.SCALE_SMOOTH));
+			imagePane.add(new JLabel(img));
 		} catch (MalformedURLException e) {
 			e.printStackTrace();
 		} catch (IOException e) {
@@ -670,6 +669,14 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 		return flavorText;
 	}
 
+	public void setRealName(String name) {
+		realCardName = name;
+	}
+
+	public String getRealName() {
+		return realCardName;
+	}
+
 	public Card clone() {
 		Card cloned = new Card(id, cardName);
 
@@ -781,10 +788,9 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 									(after.getWidth(null) - before
 											.getHeight(null)) / 2);
 
-							at.rotate(Math.toRadians(270),
+							at.rotate(Math.toRadians(90),
 									before.getWidth(null) / 2,
 									before.getHeight(null) / 2);
-
 						}
 
 						AffineTransformOp scaleOp = new AffineTransformOp(at,

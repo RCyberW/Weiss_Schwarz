@@ -78,24 +78,25 @@ public class Deck_Zone extends FieldElement {
 	@Override
 	public void mouseClicked(MouseEvent e) {
 		Card selected = selectCard(e);
+		if (selected == null || containCards() == false)
+			return;
 		if (e.getButton() == MouseEvent.BUTTON3) {
-			if (selected != null) {
-				if (associatedPlayer.getCurrentPhase() == Phase.DRAW_PHASE) {
-					// drawCard();
-				} else if (associatedPlayer.getCurrentPhase() == Phase.ATTACK_PHASE) {
-					Card stockCard = deckZone.remove(deckZone.size() - 1);
-					associatedPlayer.getField().getRandomZone().setCard(stockCard);
-				} else {
-					displayDeck();
-				}
+			if (associatedPlayer.getCurrentPhase() == Phase.DRAW_PHASE) {
+				// drawCard();
+			} else if (associatedPlayer.getCurrentPhase() == Phase.ATTACK_PHASE) {
+				Card stockCard = deckZone.remove(deckZone.size() - 1);
+				associatedPlayer.getField().getRandomZone().setCard(stockCard);
+			} else if (associatedPlayer.getCurrentPhase() == Phase.MAIN_PHASE) {
+				drawCard();
 			}
+		} else if (e.getButton() == MouseEvent.BUTTON1) {
+			displayDeck();
 		}
 
 	}
-	
+
 	private void displayDeck() {
 		DisplayList displayGui = new DisplayList(deckZone, associatedPlayer);
-		displayGui.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
 		displayGui.buildSelector();
 		displayGui.setVisible(true);

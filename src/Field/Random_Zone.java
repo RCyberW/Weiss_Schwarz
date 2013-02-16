@@ -29,12 +29,12 @@ public class Random_Zone extends FieldElement {
 
 	@Override
 	public void mouseClicked(MouseEvent e) {
+		Card card = selectCard(e);
+		if (containCards() == false || card == null)
+			return;
 		if (e.getButton() == MouseEvent.BUTTON3) {
-			Card select = selectCard(e);
-			if (select != null) {
-				removeCard();
-				associatedPlayer.getHand().setCard(select);
-			}
+			removeCard();
+			associatedPlayer.getHand().setCard(card);
 		}
 	}
 

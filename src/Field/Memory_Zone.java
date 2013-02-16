@@ -57,12 +57,11 @@ public class Memory_Zone extends FieldElement {
 
 	private void displayDeck() {
 		DisplayList displayGui = new DisplayList(memoryZone, associatedPlayer);
-		displayGui.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
 		displayGui.buildSelector();
 		displayGui.setVisible(true);
 	}
-	
+
 	@Override
 	public void paint(Graphics g, Card c) {
 		// for (int i = 0; i < memoryZone.size(); i++) {
@@ -73,7 +72,7 @@ public class Memory_Zone extends FieldElement {
 
 		if (showCard() != c && showCard() != null) {
 			// System.err.println("painting " + getLast().toString() + "....");
-			//showCard().paint(g, this.x, this.y, true, false);
+			// showCard().paint(g, this.x, this.y, true, false);
 			showCard().setDisplay(true, true);
 			showCard().toCanvas().setLocation(x, y);
 			showCard().toCanvas().paint(g);
@@ -101,18 +100,18 @@ public class Memory_Zone extends FieldElement {
 
 	@Override
 	public void mouseClicked(MouseEvent e) {
-		Card selected = selectCard(e);
+		Card card = selectCard(e);
+		if (containCards() == false || card == null)
+			return;
 		if (e.getButton() == MouseEvent.BUTTON3) {
-			if (selected != null) {
-				if (associatedPlayer.getCurrentPhase() == Phase.DRAW_PHASE) {
-				} else if (associatedPlayer.getCurrentPhase() == Phase.ATTACK_PHASE) {
-				} else {
-					displayDeck();
-				}
+			if (associatedPlayer.getCurrentPhase() == Phase.DRAW_PHASE) {
+			} else if (associatedPlayer.getCurrentPhase() == Phase.ATTACK_PHASE) {
+			} else {
+				displayDeck();
 			}
 		}
 	}
-	
+
 	public boolean isList() {
 		return true;
 	}

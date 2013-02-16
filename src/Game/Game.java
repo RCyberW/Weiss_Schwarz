@@ -538,11 +538,26 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 	}
 
 	public void mouseReleased(MouseEvent e) {
-		defendingField.mouseReleased(e);
-		// currentPlayer.getHand().mouseReleased(e);
-		player1.getHand().mouseReleased(e);
+		System.out.println("game click: " + e.getX() + ", " + e.getY());
+		if (gameStatus == 2) {
+		} else {
+			if (nextRect != null && nextRect.contains(e.getX(), e.getY())) {
+				nextPhase();
+			} else {
+				// currentPlayer.getHand().mouseClicked(e);
+				player1.getHand().mouseReleased(e);
+				defendingField.mouseReleased(e);
+
+				if (// currentPlayer.getCurrentPhase() == Phase.CLOCK_PHASE
+				player1.getCurrentPhase() == Phase.CLOCK_PHASE
+						&& e.getButton() == MouseEvent.BUTTON3) {
+					if (!hasClocked)
+						nextPhase();
+				}
+			}
+		}
 		repaint();
-		// update();
+		defendingField.repaint();
 	}
 
 	public void mouseDragged(MouseEvent e) {

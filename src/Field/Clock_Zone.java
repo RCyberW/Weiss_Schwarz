@@ -129,19 +129,19 @@ public class Clock_Zone extends FieldElement {
 
 	@Override
 	public void mouseClicked(MouseEvent e) {
-		if (containCards()) {
-			if (e.getButton() == MouseEvent.BUTTON1) {
-				selected = selectCard(e);
+		Card card = selectCard(e);
+		if (containCards() == false || card == null)
+			return;
+		if (e.getButton() == MouseEvent.BUTTON1) {
+			selected = selectCard(e);
+			shift(associatedPlayer.getHand().getSelected());
+		} else if (e.getButton() == MouseEvent.BUTTON3) {
+			if (associatedPlayer.getCurrentPhase() == Phase.MAIN_PHASE) {
+				// to shift, select a card from hand first, then select a
+				// card from the clock
+				if (selected == null)
+					selected = selectCard(e);
 				shift(associatedPlayer.getHand().getSelected());
-			}
-			if (e.getButton() == MouseEvent.BUTTON3) {
-				if (associatedPlayer.getCurrentPhase() == Phase.MAIN_PHASE) {
-					// to shift, select a card from hand first, then select a
-					// card from the clock
-					if (selected == null)
-						selected = selectCard(e);
-					shift(associatedPlayer.getHand().getSelected());
-				}
 			}
 		}
 	}
