@@ -68,7 +68,7 @@ public class DropHandler extends TransferHandler implements Transferable {
 					label.setImage(cv2.getImage());*/
 
 					if(currentDeck != null) {
-						currentDeck.addCard(cv2);
+						currentDeck.addCard(cv2,false);
 					}
 
 					return true;

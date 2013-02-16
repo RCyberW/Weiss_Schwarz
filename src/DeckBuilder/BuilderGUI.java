@@ -135,7 +135,7 @@ public class BuilderGUI extends JFrame {
 		listBox = Box.createVerticalBox();
 		listBox.setBorder(BorderFactory.createCompoundBorder(
 				BorderFactory.createTitledBorder("Search Result"), null));
-		listBox.setPreferredSize(new Dimension(500, 500));
+		listBox.setPreferredSize(new Dimension(520, 500));
 		menu = new JMenuBar();
 		cardInfo = new JPanel();
 		deckList = Box.createHorizontalBox();
@@ -648,7 +648,7 @@ public class BuilderGUI extends JFrame {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				saveOption();
-				System.exit(1);
+				System.exit(0);
 			}
 		});
 
@@ -827,7 +827,7 @@ public class BuilderGUI extends JFrame {
 				if ((e.getClickCount() == 2 && e.getButton() == MouseEvent.BUTTON1)
 						|| (e.getClickCount() == 1 && e.getButton() == MouseEvent.BUTTON3)
 						&& row > -1) {
-					if (currentDeck.addCard(selectedCard))
+					if (currentDeck.addCard(selectedCard, true))
 						refresh("addToDeck");
 				}
 			}
@@ -851,7 +851,7 @@ public class BuilderGUI extends JFrame {
 							row, 0));
 				}
 				if (e.getKeyCode() == KeyEvent.VK_ENTER) {
-					currentDeck.addCard(selectedCard);
+					currentDeck.addCard(selectedCard, true);
 				}
 				refresh("listBox");
 			}
@@ -866,7 +866,7 @@ public class BuilderGUI extends JFrame {
 		TableColumn indCol = resultListTable.getColumnModel().getColumn(0);
 		indCol.setPreferredWidth(110);
 		TableColumn namCol = resultListTable.getColumnModel().getColumn(1);
-		namCol.setPreferredWidth(widthM - 20 - 110 - 55 - 60 - 35 - 35 - 35
+		namCol.setPreferredWidth(widthM - 110 - 55 - 60 - 35 - 35 - 35
 				- 50);
 		TableColumn colCol = resultListTable.getColumnModel().getColumn(2);
 		colCol.setPreferredWidth(55);
@@ -935,7 +935,7 @@ public class BuilderGUI extends JFrame {
 						if ((e.getClickCount() == 2 && e.getButton() == MouseEvent.BUTTON1)
 								|| (e.getClickCount() == 1 && e.getButton() == MouseEvent.BUTTON3)) {
 							selectedCard = thisCard;
-							if (currentDeck.addCard(selectedCard))
+							if (currentDeck.addCard(selectedCard, true))
 								refresh("addToDeck");
 						}
 					}
@@ -955,6 +955,7 @@ public class BuilderGUI extends JFrame {
 		}
 		JScrollPane jsp = new JScrollPane(panel);
 		jsp.setPreferredSize(new Dimension(listPane.getPreferredSize()));
+		jsp.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS);
 
 		return jsp;
 	}
@@ -982,6 +983,60 @@ public class BuilderGUI extends JFrame {
 		refreshResultList();
 		resultThumbPane = buildResultThumbPane(resultPane);
 		resultArea.setComponentAt(resultThumbIndex, resultThumbPane);
+	}
+	
+	private Box buildAddRemoveButtonBox() {
+		Box box = Box.createHorizontalBox();
+		
+		JButton plusOne = new JButton("+1");
+		JButton plusFour = new JButton("+4");
+		JButton minusOne = new JButton("-1");
+		JButton minusFour = new JButton("-4");
+		
+		plusOne.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				if (selectedCard != null && currentDeck.addCard(selectedCard, true)) {
+					refresh("addToDeck");
+				}
+			}
+		});
+		
+		plusFour.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				if (selectedCard != null) {
+					currentDeck.addCard(selectedCard, true);
+					while (currentDeck.addCard(selectedCard, false));
+					refresh("addToDeck");
+				}
+			}
+		});
+		
+		minusOne.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				if (selectedCard != null && currentDeck.removeCard(selectedCard)) {
+					refresh("addToDeck");
+				}
+			}
+		});
+		
+		minusFour.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				if (selectedCard != null) {
+					while (currentDeck.removeCard(selectedCard));
+					refresh("addToDeck");
+				}
+			}
+		});
+		
+		box.add(plusOne);		
+		box.add(plusFour);		
+		box.add(minusOne);		
+		box.add(minusFour);		
+		return box;
 	}
 
 	/**
@@ -1115,7 +1170,7 @@ public class BuilderGUI extends JFrame {
 				} else if (e.getKeyCode() == KeyEvent.VK_EQUALS
 						|| e.getKeyCode() == KeyEvent.VK_ADD
 						|| e.getKeyCode() == KeyEvent.VK_ENTER) {
-					currentDeck.addCard(selectedCard);
+					currentDeck.addCard(selectedCard, true);
 					refresh("deckList2");
 				}
 
@@ -1271,9 +1326,11 @@ public class BuilderGUI extends JFrame {
 
 		analyzerBox.add(newVert);
 		// analyzerBox.add(Box.createHorizontalGlue());
+		analyzerBox.add(Box.createRigidArea(new Dimension(5,0)));
 		analyzerBox.add(newVert2);
 		analyzerBox.add(Box.createHorizontalGlue());
 		analyzerBox.add(newVert3);
+		analyzerBox.add(Box.createRigidArea(new Dimension(5,0)));
 		// analyzerBox.add(Box.createHorizontalGlue());
 		analyzerBox.add(newVert4);
 		// analyzerBox.add(Box.createHorizontalStrut(5));
@@ -1555,8 +1612,13 @@ public class BuilderGUI extends JFrame {
 		// buildMenu();
 		buildCardInfo(selectedCard);
 		resultHeader = new JLabel("Card count: " + resultList.size());
-		listBox.add(resultHeader);
+		Box headerBox = Box.createHorizontalBox();
+		headerBox.add(Box.createRigidArea(new Dimension(10,0)));
+		headerBox.add(resultHeader);
+		headerBox.add(Box.createHorizontalGlue());
+		listBox.add(headerBox);
 		listBox.add(buildResultArea());
+		listBox.add(buildAddRemoveButtonBox());
 		deckList.add(buildStatsZone());
 		deckList.add(buildDeckArea());
 

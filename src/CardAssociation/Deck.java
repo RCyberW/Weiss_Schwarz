@@ -66,7 +66,7 @@ public class Deck {
 	}
 
 	// add cards to a deck
-		public boolean addCard(Card referenceCard) {
+		public boolean addCard(Card referenceCard, boolean verbose) {
 			System.out.println("adding in Deck");
 
 			boolean toAdd = true;
@@ -107,7 +107,7 @@ public class Deck {
 						cards.add(card);
 						shuffledCards.add(card);
 						// System.err.println(card.toString());
-					} else {
+					} else if (verbose){
 						System.out.println(referenceCard.getCardName()
 								+ " has 4 copies");
 						// Warn the user that there are 4 copies existing
@@ -127,7 +127,7 @@ public class Deck {
 					shuffledCards.add(card);
 					unique.add(referenceCard);
 					Collections.sort(unique);
-				} else {
+				} else if (verbose) {
 					System.out.println(referenceCard.getCardName()
 							+ " has 4 copies");
 					// Warn the user that there are 4 copies existing
@@ -137,7 +137,7 @@ public class Deck {
 									+ referenceCard.getCardName() + " in the deck",
 							"Max Copies", JOptionPane.WARNING_MESSAGE);
 				}
-			} else {
+			} else if (verbose) {
 				System.out.println("FULL DECK");
 				// Warn the user that it is a full deck
 				JOptionPane.showMessageDialog(frame,
@@ -149,7 +149,7 @@ public class Deck {
 
 
 	// remove a card form the deck
-	public void removeCard(Card card) {
+	public boolean removeCard(Card card) {
 		// check to see if the card exists in the deck
 		if (cards.contains(card)) {
 
@@ -176,10 +176,12 @@ public class Deck {
 			}
 			System.out.println(card.getCardName() + " has "
 					+ card.getCardCount() + " copies");
+			if (card.getCardCount() == 0) {
+				unique.remove(card);
+			}
+			return true;
 		}
-		if (card.getCardCount() == 0) {
-			unique.remove(card);
-		}
+		return false;
 	}
 
 	// get the deck list
@@ -289,7 +291,7 @@ public class Deck {
 				}
 
 				if (c != null)
-					addCard(c);
+					addCard(c, false);
 
 			}
 		} catch (IOException e) {
