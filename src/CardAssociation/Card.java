@@ -47,6 +47,9 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 	// private static final long serialVersionUID = 5876059325645604130L;
 	// private static final long serialVersionUID = 5876059325645604131L;
 	private static final long serialVersionUID = 5876059325645604132L;
+	
+	private static final boolean isWindows = 
+			System.getProperty("os.name").toLowerCase().indexOf("win") >= 0;
 
 	// card properties
 	private String[] sameID;
@@ -247,7 +250,10 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 
 	// get the card image
 	public String getImageResource() {
-		return "/" + new File(imageResource).getPath();
+		if (isWindows)
+			return "/" + new File(imageResource).getPath();
+		else
+			return imageResource;
 	}
 
 	public JPanel getInfoPane(int w, int h) {

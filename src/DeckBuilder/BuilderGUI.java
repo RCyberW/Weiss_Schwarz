@@ -912,7 +912,6 @@ public class BuilderGUI extends JFrame {
 		} else {
 
 			for (int i = 0; i < resultList.size(); i++) {
-				System.out.println(i);
 				if (i % RESULTPERLINE == 0 && i > 0) {
 					vbox.add(box);
 					box = Box.createHorizontalBox();
