@@ -30,10 +30,8 @@ import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import java.io.File;
-import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
-import java.io.InputStreamReader;
 import java.io.ObjectInputStream;
 //import java.net.MalformedURLException;
 import java.net.URI;
@@ -41,7 +39,6 @@ import java.net.URISyntaxException;
 import java.text.NumberFormat;
 import java.text.ParseException;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.HashMap;
 
 //import javax.imageio.ImageIO;
@@ -92,7 +89,7 @@ public class BuilderGUI extends JFrame {
 	private ArrayList<Card> resultList;
 	private File file;
 
-	private static String datafile;
+	//private static String datafile;
 	
 	// UI Components (Panes)
 	private JTabbedPane resultArea;
@@ -1616,10 +1613,12 @@ public class BuilderGUI extends JFrame {
 
 	// main
 	public static void main(String[] args) {
+		/*
 		if (args.length == 0)
 			datafile = "CardDatav2";
 		else
 			datafile = args[0];
+		*/
 		BuilderGUI builderGui = new BuilderGUI();
 		builderGui.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
