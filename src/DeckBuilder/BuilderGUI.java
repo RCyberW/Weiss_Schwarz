@@ -828,7 +828,7 @@ public class BuilderGUI extends JFrame {
 						|| (e.getClickCount() == 1 && e.getButton() == MouseEvent.BUTTON3)
 						&& row > -1) {
 					if (currentDeck.addCard(selectedCard))
-						refresh("listBoxAdd");
+						refresh("addToDeck");
 				}
 			}
 		});
@@ -922,7 +922,7 @@ public class BuilderGUI extends JFrame {
 				final Card thisCard = resultList.get(i);
 				JLabel tempLab = thisCard.initiateImage();
 				MouseListener listener = new MouseAdapter() {
-					public void mouseClicked(MouseEvent e) {
+					public void mouseReleased(MouseEvent e) {
 						// JComponent comp = (JComponent) e.getSource();
 						// TransferHandler handler = comp.getTransferHandler();
 						// handler.exportAsDrag(comp, e, TransferHandler.COPY);
@@ -935,15 +935,9 @@ public class BuilderGUI extends JFrame {
 						if ((e.getClickCount() == 2 && e.getButton() == MouseEvent.BUTTON1)
 								|| (e.getClickCount() == 1 && e.getButton() == MouseEvent.BUTTON3)) {
 							selectedCard = thisCard;
-							currentDeck.addCard(selectedCard);
-							//refresh("listBox");
-							refreshDeckArea();
+							if (currentDeck.addCard(selectedCard))
+								refresh("addToDeck");
 						}
-					}
-
-					public void mouseReleased(MouseEvent e) {
-						System.out.println("WILL BE ADDED TO DECK");
-						mouseClicked(e);
 					}
 				};
 
@@ -1510,7 +1504,7 @@ public class BuilderGUI extends JFrame {
 			changes = true;
 		}
 
-		if (source.equalsIgnoreCase("listBoxAdd")
+		if (source.equalsIgnoreCase("addToDeck")
 				|| source.equalsIgnoreCase("deckList2")
 				|| source.equalsIgnoreCase("load")
 				|| source.equalsIgnoreCase("new")) {
