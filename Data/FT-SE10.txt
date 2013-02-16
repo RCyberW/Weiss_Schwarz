@@ -920,7 +920,7 @@ Level: 2
 Color: Blue
 Cost: 1
 Trigger: 1
-Power: 70000
+Power: 7000
 Soul: 1
 Traits:: Magic 魔法,_Love 愛
 Card Text/Abilities:
@@ -938,7 +938,7 @@ Level: 2
 Color: Blue
 Cost: 1
 Trigger: 1
-Power: 70000
+Power: 7000
 Soul: 1
 Traits:: Magic 魔法,_Love 愛
 Card Text/Abilities:

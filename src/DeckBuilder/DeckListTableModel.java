@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 import javax.swing.table.AbstractTableModel;
 
-import CardAssociation.Card;
+import CardAssociation.*;
 
 public class DeckListTableModel extends AbstractTableModel {
 	
@@ -12,6 +12,16 @@ public class DeckListTableModel extends AbstractTableModel {
 	
 	private String[] columnNames = { "#", "ID", "Name", "Color", "Type", "L", "C",
 			"Trigger", "S", "Power" };
+	private Class<?>[] types = {Integer.class, 
+			String.class, 
+			String.class, 
+			CCode.class, 
+			Type.class,
+			Integer.class,
+			Integer.class,
+			Trigger.class,
+			Integer.class,
+			Integer.class};
 	private ArrayList<Card> decklist;
 	
 	public DeckListTableModel() {
@@ -20,6 +30,7 @@ public class DeckListTableModel extends AbstractTableModel {
 	public DeckListTableModel(ArrayList<Card> decklist) {
 		this.decklist = decklist;
 	}	
+	
 	
 	public void setDeckList(ArrayList<Card> decklist) {
 		this.decklist = decklist;
@@ -70,6 +81,11 @@ public class DeckListTableModel extends AbstractTableModel {
 	@Override
 	public String getColumnName(int columnIndex) {
 		return columnNames[columnIndex];
+	}
+	
+	@Override
+	public Class<?> getColumnClass(int columnIndex) {
+		return types[columnIndex];
 	}
 
 }

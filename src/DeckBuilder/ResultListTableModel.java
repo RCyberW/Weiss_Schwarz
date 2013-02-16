@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 import javax.swing.table.AbstractTableModel;
 
-import CardAssociation.Card;
+import CardAssociation.*;
 
 public class ResultListTableModel extends AbstractTableModel {
 	
@@ -12,6 +12,15 @@ public class ResultListTableModel extends AbstractTableModel {
 	
 	private String[] columnNames = { "ID", "Name", "Color", "Type", "Level",
 			"Cost", "Soul", "Power" };	
+	private Class<?>[] types = {String.class, 
+			String.class, 
+			CCode.class, 
+			Type.class,
+			Integer.class,
+			Integer.class,
+			Integer.class,
+			Integer.class};
+	
 	private ArrayList<Card> cardlist;
 	
 	public ResultListTableModel() {
@@ -67,4 +76,9 @@ public class ResultListTableModel extends AbstractTableModel {
 	public String getColumnName(int columnIndex) {
 		return columnNames[columnIndex];
 	}
+	
+	@Override
+	public Class<?> getColumnClass(int columnIndex) {
+		return types[columnIndex];
+	}	
 }

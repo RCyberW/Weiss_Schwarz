@@ -741,7 +741,7 @@ Level: 2
 Color: Green
 Cost: 2
 Trigger: 2
-Power: 1
+Power: 8500
 Soul: N/A
 Traits:: Discipline Committee 風紀委員,_Eyepatch 眼帯
 Card Text/Abilities:

@@ -89,7 +89,7 @@ Level: 0
 Color: Green
 Cost: 0
 Trigger: 0
-Power: 300
+Power: 500
 Soul: 1
 Traits:: Psychic Power 超能力,_Discipline Committee 風紀委員
 Card Text/Abilities:
