@@ -866,8 +866,7 @@ public class BuilderGUI extends JFrame {
 		TableColumn indCol = resultListTable.getColumnModel().getColumn(0);
 		indCol.setPreferredWidth(110);
 		TableColumn namCol = resultListTable.getColumnModel().getColumn(1);
-		namCol.setPreferredWidth(widthM - 110 - 55 - 60 - 35 - 35 - 35
-				- 50);
+		namCol.setPreferredWidth(widthM - 110 - 55 - 60 - 35 - 35 - 35 - 50);
 		TableColumn colCol = resultListTable.getColumnModel().getColumn(2);
 		colCol.setPreferredWidth(55);
 		TableColumn typCol = resultListTable.getColumnModel().getColumn(3);
@@ -904,6 +903,7 @@ public class BuilderGUI extends JFrame {
 	private JScrollPane buildResultThumbPane(JScrollPane listPane) {
 		JPanel panel = new JPanel();
 		Box box = Box.createHorizontalBox();
+		box.setAlignmentX(Box.LEFT_ALIGNMENT);
 		Box vbox = Box.createVerticalBox();
 		vbox.setAlignmentX(Box.LEFT_ALIGNMENT);
 
@@ -913,10 +913,8 @@ public class BuilderGUI extends JFrame {
 
 			for (int i = 0; i < resultList.size(); i++) {
 				System.out.println(i);
-				if (i % RESULTPERLINE == 0 || i >= resultList.size()) {
-					if (i > 0) {
-						vbox.add(box);
-					}
+				if (i % RESULTPERLINE == 0 && i > 0) {
+					vbox.add(box);
 					box = Box.createHorizontalBox();
 					box.setAlignmentX(Box.LEFT_ALIGNMENT);
 				}
@@ -947,11 +945,8 @@ public class BuilderGUI extends JFrame {
 				box.add(tempLab);
 
 			}
-			if ((resultList.size()) % RESULTPERLINE != 0) {
-				vbox.add(box);
-			} else if (vbox.getComponentCount() < 1) {
-				vbox.add(box);
-			}
+			vbox.add(box);
+
 			panel.add(vbox);
 		}
 		JScrollPane jsp = new JScrollPane(panel);
@@ -985,58 +980,64 @@ public class BuilderGUI extends JFrame {
 		resultThumbPane = buildResultThumbPane(resultPane);
 		resultArea.setComponentAt(resultThumbIndex, resultThumbPane);
 	}
-	
+
 	private Box buildAddRemoveButtonBox() {
 		Box box = Box.createHorizontalBox();
-		
+
 		JButton plusOne = new JButton("+1");
 		JButton plusFour = new JButton("+4");
 		JButton minusOne = new JButton("-1");
 		JButton minusFour = new JButton("-4");
-		
+
 		plusOne.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				if (selectedCard != null && currentDeck.addCard(selectedCard, true)) {
+				if (selectedCard != null
+						&& currentDeck.addCard(selectedCard, true)) {
 					refresh("addToDeck");
 				}
 			}
 		});
-		
+
 		plusFour.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				if (selectedCard != null) {
 					currentDeck.addCard(selectedCard, true);
-					for (int i = 1; i < 4 && currentDeck.addCard(selectedCard, false); ++i);
+					for (int i = 1; i < 4
+							&& currentDeck.addCard(selectedCard, false); ++i)
+						;
 					refresh("addToDeck");
 				}
 			}
 		});
-		
+
 		minusOne.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				if (selectedCard != null && currentDeck.removeCard(selectedCard)) {
+				if (selectedCard != null
+						&& currentDeck.removeCard(selectedCard)) {
 					refresh("removeFromDeck");
 				}
 			}
 		});
-		
+
 		minusFour.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				if (selectedCard != null) {
-					for (int i = 0; i < 4 && currentDeck.removeCard(selectedCard); ++i);
+					for (int i = 0; i < 4
+							&& currentDeck.removeCard(selectedCard); ++i)
+						;
 					refresh("removeFromDeck");
 				}
 			}
 		});
-		
-		box.add(plusOne);		
-		box.add(plusFour);		
-		box.add(minusOne);		
-		box.add(minusFour);		
+
+		box.add(plusOne);
+		box.add(plusFour);
+		box.add(minusOne);
+		box.add(minusFour);
 		return box;
 	}
 
@@ -1327,11 +1328,11 @@ public class BuilderGUI extends JFrame {
 
 		analyzerBox.add(newVert);
 		// analyzerBox.add(Box.createHorizontalGlue());
-		analyzerBox.add(Box.createRigidArea(new Dimension(5,0)));
+		analyzerBox.add(Box.createRigidArea(new Dimension(5, 0)));
 		analyzerBox.add(newVert2);
 		analyzerBox.add(Box.createHorizontalGlue());
 		analyzerBox.add(newVert3);
-		analyzerBox.add(Box.createRigidArea(new Dimension(5,0)));
+		analyzerBox.add(Box.createRigidArea(new Dimension(5, 0)));
 		// analyzerBox.add(Box.createHorizontalGlue());
 		analyzerBox.add(newVert4);
 		// analyzerBox.add(Box.createHorizontalStrut(5));
@@ -1615,7 +1616,7 @@ public class BuilderGUI extends JFrame {
 		buildCardInfo(selectedCard);
 		resultHeader = new JLabel("Card count: " + resultList.size());
 		Box headerBox = Box.createHorizontalBox();
-		headerBox.add(Box.createRigidArea(new Dimension(10,0)));
+		headerBox.add(Box.createRigidArea(new Dimension(10, 0)));
 		headerBox.add(resultHeader);
 		headerBox.add(Box.createHorizontalGlue());
 		listBox.add(headerBox);
