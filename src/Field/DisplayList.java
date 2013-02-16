@@ -62,7 +62,7 @@ public class DisplayList extends JFrame {
 			JLabel tempLab = thisCard.initiateImage();
 
 			MouseListener listener = new MouseAdapter() {
-				public void mousePressed(MouseEvent e) {
+				public void mouseReleased(MouseEvent e) {
 					selectedCard = thisCard;
 					refresh();
 				}

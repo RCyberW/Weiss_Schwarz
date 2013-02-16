@@ -296,7 +296,7 @@ abstract class FieldElement extends Component implements MouseListener {
 	}
 
 	@Override
-	public abstract void mouseClicked(MouseEvent e);
+	public abstract void mouseReleased(MouseEvent e);
 
 	@Override
 	public void mouseEntered(MouseEvent e) {
@@ -313,8 +313,7 @@ abstract class FieldElement extends Component implements MouseListener {
 	}
 
 	@Override
-	public void mouseReleased(MouseEvent e) {
-		mouseClicked(e);
+	public void mouseClicked(MouseEvent e) {
 	}
 
 	public abstract Card selectCard(MouseEvent e);

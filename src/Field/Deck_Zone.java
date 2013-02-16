@@ -76,7 +76,7 @@ public class Deck_Zone extends FieldElement {
 	}
 
 	@Override
-	public void mouseClicked(MouseEvent e) {
+	public void mouseReleased(MouseEvent e) {
 		Card selected = selectCard(e);
 		if (selected == null || containCards() == false)
 			return;

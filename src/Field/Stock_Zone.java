@@ -87,7 +87,7 @@ public class Stock_Zone extends FieldElement {
 	@Override
 	// right click to pay stock for ability activation/cost to summon
 	// left click to pay the bottom
-	public void mouseClicked(MouseEvent e) {
+	public void mouseReleased(MouseEvent e) {
 		Card card = selectCard(e);
 		if (containCards() == false)
 			return;

@@ -105,7 +105,7 @@ public class Waiting_Room extends FieldElement {
 	}
 
 	@Override
-	public void mouseClicked(MouseEvent e) {
+	public void mouseReleased(MouseEvent e) {
 		Card card = selectCard(e);
 		if (containCards() == false || card == null)
 			return;

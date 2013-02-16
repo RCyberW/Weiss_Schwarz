@@ -200,8 +200,10 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 	 */
 	private void paintWords(Graphics g) {
 		Card selectedCard = player1.getHand().getSelected();
-		/*if (selectedCard == null)
-			selectedCard = defendingField.getSelected();*/
+		/*
+		 * if (selectedCard == null) selectedCard =
+		 * defendingField.getSelected();
+		 */
 
 		if (selectedCard != null) {
 			// initialize repaint
@@ -498,26 +500,6 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 	 */
 	@Override
 	public void mouseClicked(MouseEvent e) {
-		System.out.println("game click: " + e.getX() + ", " + e.getY());
-		if (gameStatus == 2) {
-		} else {
-			if (nextRect != null && nextRect.contains(e.getX(), e.getY())) {
-				nextPhase();
-			} else {
-				// currentPlayer.getHand().mouseClicked(e);
-				player1.getHand().mouseClicked(e);
-				defendingField.mouseClicked(e);
-
-				if (// currentPlayer.getCurrentPhase() == Phase.CLOCK_PHASE
-				player1.getCurrentPhase() == Phase.CLOCK_PHASE
-						&& e.getButton() == MouseEvent.BUTTON3) {
-					if (!hasClocked)
-						nextPhase();
-				}
-			}
-		}
-		repaint();
-		defendingField.repaint();
 
 	}
 

@@ -171,14 +171,13 @@ public class NewMainField extends Canvas implements Serializable,
 	public void mouseDragged(MouseEvent e) {
 	}
 
-	public void mouseReleased(MouseEvent e) {
-		mouseClicked(e);
+	public void mouseClicked(MouseEvent e) {
 	}
 
 	public void mouseMoved(MouseEvent e) {
 	}
 
-	public void mouseClicked(MouseEvent e) {
+	public void mouseReleased(MouseEvent e) {
 		if (e.getClickCount() == 1) {
 			if (e.getButton() == MouseEvent.BUTTON1) {
 				if ((associatedPlayer.getCurrentPhase() == Phase.MAIN_PHASE || associatedPlayer
@@ -186,7 +185,7 @@ public class NewMainField extends Canvas implements Serializable,
 					if (selectedCard == null) {
 						// picking up a card from a zone
 						for (FieldElement fe : elements) {
-							fe.mouseClicked(e);
+							fe.mouseReleased(e);
 							if (!fe.isList()) {
 								selectedCard = fe.selectCard(e);
 							}
@@ -225,7 +224,7 @@ public class NewMainField extends Canvas implements Serializable,
 				// default action on each zone
 				for (FieldElement fe : elements) {
 					if (fe.contains(e.getX(), e.getY())) {
-						fe.mouseClicked(e);
+						fe.mouseReleased(e);
 					}
 				}
 			}
