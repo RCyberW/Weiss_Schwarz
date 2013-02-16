@@ -12,6 +12,7 @@ import java.awt.image.AffineTransformOp;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
+import java.io.InputStream;
 import java.net.MalformedURLException;
 import java.net.URL;
 import javax.imageio.ImageIO;
@@ -179,20 +180,14 @@ abstract class FieldElement extends Component implements MouseListener {
 	 */
 	public FieldElement(String imageFileName, int xa, int ya, String zone,
 			Player player) {
-		URL imageSrc = null;
+		//InputStream imageSrc = getClass().getResource("/resources/FieldImages/" + imageFileName);
 		addMouseListener(this);
 		setAssociatedPlayer(player);
 		zoneName = zone;
 
 		try {
-			imageSrc = ((new File(imageFileName)).toURI()).toURL();
-		} catch (MalformedURLException e) {
-		}
-		x = (int) (xa * Game.Game.gameScale);
-		y = (int) ((ya + Game.Game.translatedY) * Game.Game.gameScale);
-		try {
-			
-			BufferedImage before = ImageIO.read(imageSrc);
+			System.out.println(zone + "   " + getClass().getResource("/resources/FieldImages/" + imageFileName));
+			BufferedImage before = ImageIO.read(getClass().getResource("/resources/FieldImages/" + imageFileName));
 			int wid = before.getWidth();
 			int hit = before.getHeight();
 			bi = new BufferedImage(wid, hit, BufferedImage.TYPE_INT_ARGB);
@@ -212,7 +207,7 @@ abstract class FieldElement extends Component implements MouseListener {
 			 */
 			rect = new Rectangle((int) (x), (int) (y), (int) (w), (int) (h));
 		} catch (IOException e) {
-			System.out.println("Image could not be read");
+			System.out.println("Image could not be read field");
 			System.exit(1);
 		}
 	}

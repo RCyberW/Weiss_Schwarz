@@ -13,12 +13,15 @@ import java.awt.event.MouseMotionListener;
 import java.awt.geom.AffineTransform;
 import java.awt.image.AffineTransformOp;
 import java.awt.image.BufferedImage;
+import java.io.File;
 import java.io.IOException;
+import java.io.InputStream;
 import java.io.Serializable;
 import java.net.URL;
 import java.util.ArrayList;
 
 import javax.imageio.ImageIO;
+import javax.imageio.stream.ImageInputStream;
 
 import CardAssociation.Card;
 import CardAssociation.Deck;
@@ -76,7 +79,10 @@ public class NewMainField extends Canvas implements Serializable,
 
 	// private ArrayList<BufferedImage> phaseImages;
 
-	public NewMainField(URL imageSrc, Player player) {
+	public NewMainField(Player player) {
+		// InputStream imageSrc = getClass().getResourceAsStream("/" + new
+		// File("/resources/FieldImages/" + "Background.png").getPath());
+
 		setBackground(Color.cyan);
 		addMouseMotionListener(this);
 		addMouseListener(this);
@@ -85,8 +91,10 @@ public class NewMainField extends Canvas implements Serializable,
 		selectedCard = null;
 
 		try {
-
-			BufferedImage before = ImageIO.read(imageSrc);
+			System.out.println(getClass().getResource(
+					"/resources/FieldImages/" + "Background.png"));
+			BufferedImage before = ImageIO.read(getClass().getResource(
+					"/resources/FieldImages/" + "Background.png"));
 			w = (int) (Game.Game.maxWidth * Game.Game.gameScale);
 			h = (int) (Game.Game.maxHeight * Game.Game.gameScale);
 			bg = new BufferedImage(w, h, BufferedImage.TYPE_INT_ARGB);
@@ -97,23 +105,15 @@ public class NewMainField extends Canvas implements Serializable,
 					AffineTransformOp.TYPE_BILINEAR);
 			bg = scaleOp.filter(before, null);
 
-			System.out.println(imageSrc.getPath());
-
 			cardImage = bg.createGraphics();
 			cardImage.dispose();
 
 			rect = new Rectangle(0, 0, bg.getHeight(null), bg.getWidth(null));
 
 		} catch (IOException e) {
-			System.out.println("Image could not be read");
+			System.out.println("Image could not be read mat");
 			System.exit(1);
 		}
-		createElements();
-
-	}
-
-	public NewMainField(Player player) {
-		associatedPlayer = player;
 		createElements();
 
 	}
@@ -121,34 +121,21 @@ public class NewMainField extends Canvas implements Serializable,
 	private void createElements() {
 		elements = new ArrayList<FieldElement>();
 
-		fr1 = new Front_Row("FieldImages/Vertical.png", 350, 0,
-				associatedPlayer);
-		fr2 = new Front_Row("FieldImages/Vertical.png", 550, 0,
-				associatedPlayer);
-		fr3 = new Front_Row("FieldImages/Vertical.png", 750, 0,
-				associatedPlayer);
-		mz = new Memory_Zone("FieldImages/Horizontal.png", 1000, 0,
-				associatedPlayer);
-		rz = new Random_Zone("FieldImages/Vertical.png", 50, 0,
-				associatedPlayer);
+		fr1 = new Front_Row("Vertical.png", 350, 0, associatedPlayer);
+		fr2 = new Front_Row("Vertical.png", 550, 0, associatedPlayer);
+		fr3 = new Front_Row("Vertical.png", 750, 0, associatedPlayer);
+		mz = new Memory_Zone("Horizontal.png", 1000, 0, associatedPlayer);
+		rz = new Random_Zone("Vertical.png", 50, 0, associatedPlayer);
 
-		sz = new Stock_Zone("FieldImages/Horizontal.png", 50, 200,
-				associatedPlayer);
-		az = new Climax_Zone("FieldImages/Horizontal.png", 250, 200,
-				associatedPlayer);
-		br1 = new Back_Row("FieldImages/Vertical.png", 450, 200,
-				associatedPlayer);
-		br2 = new Back_Row("FieldImages/Vertical.png", 650, 200,
-				associatedPlayer);
-		dz = new Deck_Zone("FieldImages/Vertical.png", 1050, 200,
-				associatedPlayer);
+		sz = new Stock_Zone("Horizontal.png", 50, 200, associatedPlayer);
+		az = new Climax_Zone("Horizontal.png", 250, 200, associatedPlayer);
+		br1 = new Back_Row("Vertical.png", 450, 200, associatedPlayer);
+		br2 = new Back_Row("Vertical.png", 650, 200, associatedPlayer);
+		dz = new Deck_Zone("Vertical.png", 1050, 200, associatedPlayer);
 
-		lz = new Level_Zone("FieldImages/Horizontal.png", 50, 480,
-				associatedPlayer);
-		cz = new Clock_Zone("FieldImages/Vertical.png", 250, 380,
-				associatedPlayer);
-		wr = new Waiting_Room("FieldImages/Vertical.png", 1050, 400,
-				associatedPlayer);
+		lz = new Level_Zone("Horizontal.png", 50, 480, associatedPlayer);
+		cz = new Clock_Zone("Vertical.png", 250, 380, associatedPlayer);
+		wr = new Waiting_Room("Vertical.png", 1050, 400, associatedPlayer);
 
 		elements.add(cz);
 		elements.add(sz);

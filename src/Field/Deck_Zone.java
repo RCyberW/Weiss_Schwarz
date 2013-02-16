@@ -10,6 +10,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 import javax.swing.JFrame;
+import javax.swing.JPopupMenu;
 
 import CardAssociation.Card;
 import CardAssociation.Deck;
@@ -41,6 +42,7 @@ public class Deck_Zone extends FieldElement {
 		deckZone = currentDeck.getPlayingDeck();
 		Collections.shuffle(deckZone);
 		System.err.println("Deck size: " + deckZone.size());
+
 	}
 
 	public void shuffle() {
@@ -81,14 +83,21 @@ public class Deck_Zone extends FieldElement {
 		if (selected == null || containCards() == false)
 			return;
 		if (e.getButton() == MouseEvent.BUTTON3) {
-			if (associatedPlayer.getCurrentPhase() == Phase.DRAW_PHASE) {
+			
+			JPopupMenu popmenu = new JPopupMenu();
+			popmenu.add("test1");
+			popmenu.add("test2");
+			popmenu.add("test3");
+			
+			popmenu.show(e.getComponent(), e.getX(), e.getY());
+			/*if (associatedPlayer.getCurrentPhase() == Phase.DRAW_PHASE) {
 				// drawCard();
 			} else if (associatedPlayer.getCurrentPhase() == Phase.ATTACK_PHASE) {
 				Card stockCard = deckZone.remove(deckZone.size() - 1);
 				associatedPlayer.getField().getRandomZone().setCard(stockCard);
 			} else if (associatedPlayer.getCurrentPhase() == Phase.MAIN_PHASE) {
 				drawCard();
-			}
+			}*/
 		} else if (e.getButton() == MouseEvent.BUTTON1) {
 			displayDeck();
 		}

@@ -117,9 +117,10 @@ public class Importer {
 					// System.out.println("<END OF CARD>");
 					isStart = true;
 					// newCard.setImage(new File("FieldImages/Vertical.png"));
-					if (new File("src"+newCard.getImageResource()).exists()) {
-//					if (newCard.getImage().exists()) {
-						//Card c = allCards.put(newCard.getCardName(), newCard);
+					if (new File("src" + newCard.getImageResource()).exists()) {
+						// if (newCard.getImage().exists()) {
+						// Card c = allCards.put(newCard.getCardName(),
+						// newCard);
 						System.out.println(newCard.getImageResource());
 						Card c = allCards.put(newCard.getID(), newCard);
 						if (c == null) {
@@ -140,108 +141,105 @@ public class Importer {
 				} else {
 
 					switch (lineDex) {
-						case 0 : //card name
-							str = rename(str);
-							newCard.setCardName(str);
-							str = "Title: " + str;
-							break;
-						case 1 : //card id
-							str = str.replace("  ", " ");
-							newCard.setID(str);
-							newCard.setImageResource("/resources/FieldImages/" + fileName
-									+ "/"
-									+ str.replace(" ", "_").replace("/", "-")
-									+ ".jpg");
-							/*
-							newCard.setImage(new File("src/resources/FieldImages/" + fileName
-									+ "/"
-									+ str.replace(" ", "_").replace("/", "-")
-									+ ".jpg"));
-									*/
-							str = "ID: " + str;
-							break;
-						case 2 : // card classification
-							temp = str.substring("Type: ".length());
-							if (temp.equalsIgnoreCase("climax")) {
-								newCard.setT(Type.CLIMAX);
-							} else if (temp.equalsIgnoreCase("event")) {
-								newCard.setT(Type.EVENT);
-							} else if (temp.equalsIgnoreCase("character")) {
-								newCard.setT(Type.CHARACTER);
-							}
-							break;
-						case 3 :
-							temp = str.substring("Level: ".length());
-							if (!temp.equalsIgnoreCase("N/A"))
-								newCard.setLevel(Integer.parseInt(temp));
-							break;
-						case 4 :
-							temp = str.substring("Color: ".length());
-							if (temp.equalsIgnoreCase("blue")) {
-								newCard.setC(CCode.BLUE);
-							} else if (temp.equalsIgnoreCase("red")) {
-								newCard.setC(CCode.RED);
-							} else if (temp.equalsIgnoreCase("yellow")) {
-								newCard.setC(CCode.YELLOW);
-							} else if (temp.equalsIgnoreCase("green")) {
-								newCard.setC(CCode.GREEN);
-							}
-							break;
-						case 5 :
-							temp = str.substring("Cost: ".length());
-							if (!temp.equalsIgnoreCase("N/A"))
-								newCard.setCost(Integer.parseInt(temp));
-							break;
-						case 6 :
-							try {
-								temp = str.substring("Trigger: ".length());
-								if (!temp.equalsIgnoreCase(""))
-									newCard.setTrigger(Trigger
-											.convertString(temp));
-							} catch (StringIndexOutOfBoundsException e) {
-								newCard.setTrigger(Trigger.NONE);
-							}
-							break;
-						case 7 :
-							temp = str.substring("Power: ".length());
-							if (!temp.equalsIgnoreCase("N/A"))
-								newCard.setPower(Integer.parseInt(temp));
-							break;
-						case 8 :
-							temp = str.substring("Soul: ".length());
-							if (!temp.equalsIgnoreCase("N/A"))
-								newCard.setSoul(Integer.parseInt(temp));
-							break;
-						case 9 :
-							str = str.replace("::", ":");
-							int breaker = -1;
-							if (str.contains("_"))
-								breaker = str.indexOf("_");
-							str = str.replace("_", " ");
+					case 0: // card name
+						str = rename(str);
+						newCard.setCardName(str);
+						str = "Title: " + str;
+						break;
+					case 1: // card id
+						str = str.replace("  ", " ");
+						newCard.setID(str);
+						newCard.setImageResource("/resources/FieldImages/"
+								+ fileName + "/"
+								+ str.replace(" ", "_").replace("/", "-")
+								+ ".jpg");
+						/*
+						 * newCard.setImage(new
+						 * File("src/resources/FieldImages/" + fileName + "/" +
+						 * str.replace(" ", "_").replace("/", "-") + ".jpg"));
+						 */
+						str = "ID: " + str;
+						break;
+					case 2: // card classification
+						temp = str.substring("Type: ".length());
+						if (temp.equalsIgnoreCase("climax")) {
+							newCard.setT(Type.CLIMAX);
+						} else if (temp.equalsIgnoreCase("event")) {
+							newCard.setT(Type.EVENT);
+						} else if (temp.equalsIgnoreCase("character")) {
+							newCard.setT(Type.CHARACTER);
+						}
+						break;
+					case 3:
+						temp = str.substring("Level: ".length());
+						if (!temp.equalsIgnoreCase("N/A"))
+							newCard.setLevel(Integer.parseInt(temp));
+						break;
+					case 4:
+						temp = str.substring("Color: ".length());
+						if (temp.equalsIgnoreCase("blue")) {
+							newCard.setC(CCode.BLUE);
+						} else if (temp.equalsIgnoreCase("red")) {
+							newCard.setC(CCode.RED);
+						} else if (temp.equalsIgnoreCase("yellow")) {
+							newCard.setC(CCode.YELLOW);
+						} else if (temp.equalsIgnoreCase("green")) {
+							newCard.setC(CCode.GREEN);
+						}
+						break;
+					case 5:
+						temp = str.substring("Cost: ".length());
+						if (!temp.equalsIgnoreCase("N/A"))
+							newCard.setCost(Integer.parseInt(temp));
+						break;
+					case 6:
+						try {
+							temp = str.substring("Trigger: ".length());
+							if (!temp.equalsIgnoreCase(""))
+								newCard.setTrigger(Trigger.convertString(temp));
+						} catch (StringIndexOutOfBoundsException e) {
+							newCard.setTrigger(Trigger.NONE);
+						}
+						break;
+					case 7:
+						temp = str.substring("Power: ".length());
+						if (!temp.equalsIgnoreCase("N/A"))
+							newCard.setPower(Integer.parseInt(temp));
+						break;
+					case 8:
+						temp = str.substring("Soul: ".length());
+						if (!temp.equalsIgnoreCase("N/A"))
+							newCard.setSoul(Integer.parseInt(temp));
+						break;
+					case 9:
+						str = str.replace("::", ":");
+						int breaker = -1;
+						if (str.contains("_"))
+							breaker = str.indexOf("_");
+						str = str.replace("_", " ");
 
-							if (breaker > -1) {
-								newCard.setTrait1(str.substring(0, breaker - 1)
-										.trim());
-								newCard.setTrait2(str.substring(breaker).trim());
-							} else {
-								newCard.setTrait1(str.substring(0,
-										str.length() - 1));
-								newCard.setTrait2("N/A");
-							}
-							break;
-						case 10 :
-							effectStart = true;
-							break;
-						default :
-							if (str.equalsIgnoreCase("Flavor Text:")) {
-								effectStart = false;
+						if (breaker > -1) {
+							newCard.setTrait1(str.substring(0, breaker - 1)
+									.trim());
+							newCard.setTrait2(str.substring(breaker).trim());
+						} else {
+							newCard.setTrait1(str.substring(0, str.length() - 1));
+							newCard.setTrait2("N/A");
+						}
+						break;
+					case 10:
+						effectStart = true;
+						break;
+					default:
+						if (str.equalsIgnoreCase("Flavor Text:")) {
+							effectStart = false;
 
-							} else if (effectStart) {
-								newCard.addEffect(str);
-							} else {
-								newCard.setFlavorText(str);
-							}
-							break;
+						} else if (effectStart) {
+							newCard.addEffect(str);
+						} else {
+							newCard.setFlavorText(str);
+						}
+						break;
 					}
 					// System.out.println(lineDex + " : " + str);
 
@@ -257,13 +255,12 @@ public class Importer {
 	private String rename(String str) throws IOException {
 		String resultString = str.charAt(0) + "";
 		String testResultString = str.charAt(0) + "";
-		//String regex1 = "[^a-zA-Z]*[a-zA-Z\\-\\s\\'\\&0-9\"\\.\\!\\?]*[^a-zA-Z]*[^a-zA-Z\\s\\'\\&0-9\"\\!\\?]$";
 		String regex1 = "[^a-zA-Z]*[a-zA-Z0-9\\p{Punct}\\s]*[^a-zA-Z0-9\\p{Punct}[\\s]]+[^a-zA-Z\\s0-9\"]+$";
 		String regex2 = "[^a-zA-Z]+[a-zA-Z0-9\\p{Punct}\\s]*[^a-zA-Z0-9[\\s]\"]+$";
 		String regex3 = "[a-zA-Z0-9\\p{Punct}\\s]+$";
 
-		if (Pattern.matches(regex1, str) || Pattern.matches(regex2, str) || Pattern.matches(regex3, str)
-				|| str.contains("Rock Cannon")) {
+		if (Pattern.matches(regex1, str) || Pattern.matches(regex2, str)
+				|| Pattern.matches(regex3, str) || str.contains("Rock Cannon")) {
 			return str;
 		}
 
@@ -312,18 +309,9 @@ public class Importer {
 
 	}
 
-	// public ArrayList<Card> getList() {
-	// return setCards;
-	// }
-	//
-	// public static Card findCard(String id) {
-	// return allCards.get(id);
-	// }
-
 	public static void main(String[] args) {
 		Importer importer = new Importer();
-
-		// importer.scan(new File("test/ws-AB-W11-withImageName.csv"));
+		System.getProperty("OS.name");
 
 		File file = new File("Data");
 		if (file.isDirectory()) {
@@ -335,65 +323,11 @@ public class Importer {
 				}
 			}
 		}
-
-		// convert name keys to card id keys
-		/*String[] keys = allCards.keySet().toArray(new String[allCards.size()]);
-		for (String k : keys) {
-			Card c = allCards.get(k);
-			Card tempC = allCards.put(c.getID(), c);
-			if (tempC != null) {
-				System.out.printf("ORIGINAL: ID = %s name = %s\n",
-						tempC.getID(), tempC.getCardName());
-				System.out.printf("REPEAT  : ID = %s name = %s\n", c.getID(),
-						c.getCardName());
-			}
-			allCards.remove(k);
-		}
-		System.out.println(allCards.size());
-
-		Iterator<Card> cardIte = allCards.values().iterator();
-
-		while (cardIte.hasNext()) {
-			Card card = (Card) cardIte.next();
-			setCards.add(card);
-		}*/
 		System.out.println("# of cards = " + setCards.size());
 		System.out.println("# of cards in binder = " + allCards.size());
 		Collections.sort(setCards);
-
-		/*
-		 * String testStr = "Ã§Â¸ÂºÃ¯Â¿Â½Ã¢â€“Â½Ã§Â¸ÂºÃ¥ï¿½Â¥Ã¯Â½Â¤Ã¯Â½Â¢Ã§Â¸ÂºÃ¯Â½Â§Ã©Å¡â€¢Ã¤Â¹ï¿½Ã¢â€”â€ Ã¨Å“Ë†Ã§â€�Â»Ã¥â€¹Â¹The Scene To Be Seen In A Dream Someday";
-		 * System.out.println("testStr = " + testStr); for (int i = 1; i <
-		 * testStr.length(); i++) { boolean isCurrentAlph =
-		 * ((int)(testStr.charAt(i)) <= 127); boolean isPrevNAlph =
-		 * ((int)(testStr.charAt(i - 1)) > 127); boolean testBool =
-		 * isCurrentAlph && isPrevNAlph; System.out.println(testBool + " curr("
-		 * + isCurrentAlph + ") = " + testStr.charAt(i) + " prev(" + isPrevNAlph
-		 * + ") = " + testStr.charAt(i - 1)); }
-		 */
-
+		System.out.println(System.getProperty("os.name"));
 		importer.serializingLists();
 		importer.close();
-		// try {
-		// Writer errReport = new BufferedWriter(new FileWriter(new File(
-		// "errReport.txt")));
-		// Scanner scan1 = new Scanner(new File("nameDict1.txt"));
-		// Scanner scan2 = new Scanner(new File("nameDict2.txt"));
-		// String str1 = "";
-		// String str2 = "";
-		// boolean equal = true;
-		// while (scan1.hasNext() && scan2.hasNext()) {
-		// System.out.println("Process...");
-		// if (equal)
-		// str1 = scan1.nextLine();
-		// str2 = scan2.nextLine();
-		// equal = str1.equals(str2);
-		// if (!equal) {
-		// errReport.write(str2 + "\n");
-		// }
-		// }
-		// } catch (IOException e1) {
-		// e1.printStackTrace();
-		// }
 	}
 }

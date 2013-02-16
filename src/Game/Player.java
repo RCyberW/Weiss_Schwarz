@@ -17,6 +17,7 @@ import java.awt.event.ActionListener;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
+import java.io.InputStream;
 import java.io.ObjectInputStream;
 import java.io.Serializable;
 import java.net.MalformedURLException;
@@ -85,7 +86,7 @@ public class Player implements Serializable {
 				if (!selectedDeck.isEmpty()) {
 					findGame();
 					initField();
-					//setReady();
+					// setReady();
 				}
 			}
 
@@ -176,24 +177,17 @@ public class Player implements Serializable {
 		// loading the deck
 		currentDeck = new Deck();
 		currentDeck.loadRaw(new File("Deck/" + selectedDeck), dictionary);
-		System.out.println(selectedDeck + " has " + currentDeck.getPlayingDeck().size() + " cards");
+		System.out.println(selectedDeck + " has "
+				+ currentDeck.getPlayingDeck().size() + " cards");
 
-		// Create Field Start
-		URL imageSrc = null;
-		try {
-			imageSrc = ((new File("FieldImages/Background.png")).toURI())
-					.toURL();
-		} catch (MalformedURLException e) {
-		}
-
-		field = new NewMainField(imageSrc, this);
+		field = new NewMainField(this);
 
 		field.prepare(currentDeck);
 		// Create Field End
 
 		// Create Hand given Field information
-		
-		hand = new Hand("FieldImages/Vertical.png", 50, 850, this);
+
+		hand = new Hand("Vertical.png", 50, 850, this);
 		userFrame.add(hand);
 		// System.out.println("should say match game " + sessionID);
 		//
@@ -243,11 +237,12 @@ public class Player implements Serializable {
 	@SuppressWarnings("unchecked")
 	private void deserializer() {
 
-		FileInputStream fileInput;
+		InputStream fileInput;
+		;
 		ObjectInputStream objectInput;
 
 		try {
-			fileInput = new FileInputStream("src/DeckBuilder/CardDatav2");
+			fileInput = getClass().getResourceAsStream("/resources/CardDatav2");
 			objectInput = new ObjectInputStream(fileInput);
 
 			objectInput.readObject();

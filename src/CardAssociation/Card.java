@@ -864,12 +864,12 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 	
 	// Hard code special cases where you may put >4 cards in the deck
 	public static int getMaxInDeck(Card c) {
-		if (c.getCardName().equals("“妄想幻像”アサシン")
-				|| c.getCardName().contains("バジュラ(大)")
-				|| c.getCardName().contains("バジュラ(小)")
-				|| c.getCardName().equals("ノイズ(第4話)")) 
+		if (c.getCardName().equals("鈥滃鎯冲够鍍忊�銈偟銈枫兂")
+				|| c.getCardName().contains("銉愩偢銉ャ儵(澶�")
+				|| c.getCardName().contains("銉愩偢銉ャ儵(灏�")
+				|| c.getCardName().equals("銉庛偆銈�绗�瑭�")) 
 			return 50;
-		else if (c.getCardName().equals("六魔将軍"))
+		else if (c.getCardName().equals("鍏瓟灏嗚粛"))
 			return 6;
 		else
 			return 4;
