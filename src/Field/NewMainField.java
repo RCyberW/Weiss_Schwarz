@@ -7,6 +7,8 @@ import java.awt.Graphics;
 import java.awt.Graphics2D;
 import java.awt.Rectangle;
 import java.awt.TexturePaint;
+import java.awt.event.FocusEvent;
+import java.awt.event.FocusListener;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import java.awt.event.MouseMotionListener;
@@ -114,6 +116,21 @@ public class NewMainField extends Canvas implements Serializable,
 			System.out.println("Image could not be read mat");
 			System.exit(1);
 		}
+		
+		this.addFocusListener(new FocusListener(){
+
+			@Override
+			public void focusGained(FocusEvent arg0) {
+				repaint();
+			}
+
+			@Override
+			public void focusLost(FocusEvent arg0) {
+				repaint();
+			}
+			
+		});
+		
 		createElements();
 
 	}
@@ -165,54 +182,57 @@ public class NewMainField extends Canvas implements Serializable,
 	}
 
 	public void mouseReleased(MouseEvent e) {
-		if (e.getClickCount() == 1) {
-			if (e.getButton() == MouseEvent.BUTTON1) {
-				if ((associatedPlayer.getCurrentPhase() == Phase.MAIN_PHASE || associatedPlayer
-						.getCurrentPhase() == Phase.ATTACK_PHASE)) {
-					if (selectedCard == null) {
-						// picking up a card from a zone
-						for (FieldElement fe : elements) {
-							fe.mouseReleased(e);
-							if (!fe.isList()) {
-								selectedCard = fe.selectCard(e);
-							}
-							if (selectedCard != null) {
-								System.out.println("taking up  "
-										+ selectedCard.getCardName());
-								break;
-							}
+		if (e.getClickCount() > 1) {
+			return;
+		}
+		if (e.getButton() == MouseEvent.BUTTON1) {
+			if ((associatedPlayer.getCurrentPhase() == Phase.MAIN_PHASE || associatedPlayer
+					.getCurrentPhase() == Phase.ATTACK_PHASE)) {
+				if (selectedCard == null) {
+					// picking up a card from a zone
+					for (FieldElement fe : elements) {
+						// fe.mouseReleased(e);
+						if (!fe.isList() && fe.contains(e.getPoint())) {
+							selectedCard = fe.selectCard(e);
+							System.out.println(selectedCard);
 						}
-					} else {
-						// placing a card to a zone
-						for (FieldElement fe : elements) {
-							if (fe.contains(e.getX(), e.getY())) {
-								System.out.println("clicked on "
-										+ fe.toString() + "(" + e.getX() + ","
-										+ e.getY() + ") placing "
-										+ selectedCard.getCardName());
-								Card tempCard = null;
-								if (!fe.isList()) {
-									tempCard = fe.selectCard(e);
-									if (tempCard != null)
-										System.out.println("picking up "
-												+ selectedCard.getCardName());
-								}
-								fe.setCard(selectedCard);
-								selectedCard = tempCard;
-								break;
-							}
-						}
-						if (selectedCard != null)
-							System.out.println("holding "
+						if (selectedCard != null) {
+							System.out.println("taking up  "
 									+ selectedCard.getCardName());
+							break;
+						}
 					}
+				} else {
+					// placing a card to a zone
+					for (FieldElement fe : elements) {
+						if (fe.contains(e.getX(), e.getY())) {
+							System.out
+									.println("clicked on " + fe.toString()
+											+ "(" + e.getX() + "," + e.getY()
+											+ ") placing "
+											+ selectedCard.getCardName());
+							Card tempCard = null;
+							if (!fe.isList()) {
+								tempCard = fe.selectCard(e);
+								if (tempCard != null)
+									System.out.println("picking up "
+											+ selectedCard.getCardName());
+							}
+							fe.setCard(selectedCard);
+							selectedCard = tempCard;
+							break;
+						}
+					}
+					if (selectedCard != null)
+						System.out.println("holding "
+								+ selectedCard.getCardName());
 				}
-			} else if (e.getButton() == MouseEvent.BUTTON3) {
-				// default action on each zone
-				for (FieldElement fe : elements) {
-					if (fe.contains(e.getX(), e.getY())) {
-						fe.mouseReleased(e);
-					}
+			}
+		} else if (e.getButton() == MouseEvent.BUTTON3) {
+			// default action on each zone
+			for (FieldElement fe : elements) {
+				if (fe.contains(e.getX(), e.getY())) {
+					fe.mouseReleased(e);
 				}
 			}
 		}
@@ -296,6 +316,10 @@ public class NewMainField extends Canvas implements Serializable,
 
 	public Stock_Zone getStockZone() {
 		return sz;
+	}
+	
+	public Memory_Zone getMemoryZone() {
+		return mz;
 	}
 
 	public void prepare(Deck d) {

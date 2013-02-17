@@ -22,149 +22,68 @@ import Game.Player;
 abstract class FieldElement extends Component implements MouseListener {
 
 	/**
-	 * Click instructions:
-	 * MISSING
-	 *  - check top
-	 *  - check top place top/bottom
-	 *  - check top place waiting room
-	 *  - brainstorm
-	 *  - canceling
+	 * Click instructions: MISSING - check top - check top place top/bottom -
+	 * check top place waiting room - brainstorm - canceling
 	 */
-	 /* CLOCK PHASE
-	 * 	Right Click
-	 * 		Back			N/A
-	 * 		Climax			N/A
-	 * 		Clock			N/A
-	 * 		Deck			N/A
-	 * 		Front			N/A
-	 * 		Hand			Select the card to clock						DONE
-	 * 		Level			N/A
-	 * 		Memory			N/A
-	 * 		Resolution		N/A
-	 * 		Stock			N/A
-	 * 		Waiting Room	N/A
-	 * 	Left Click
-	 * 		Back			Check card
-	 * 		Climax			N/A
-	 * 		Clock			Check card
-	 * 		Deck			N/A
-	 * 		Front			Check card
-	 * 		Hand			N/A
-	 * 		Level			Check card
-	 * 		Memory			Check card
-	 * 		Resolution		N/A
-	 * 		Stock			N/A
-	 * 		Waiting Room	Check card
+	/*
+	 * CLOCK PHASE Right Click Back N/A Climax N/A Clock N/A Deck N/A Front N/A
+	 * Hand Select the card to clock DONE Level N/A Memory N/A Resolution N/A
+	 * Stock N/A Waiting Room N/A Left Click Back Check card Climax N/A Clock
+	 * Check card Deck N/A Front Check card Hand N/A Level Check card Memory
+	 * Check card Resolution N/A Stock N/A Waiting Room Check card
 	 */
-	 /* MAIN PHASE
-	 * 	Right Click
-	 * 		Back			Rest card for effect							DONE
-	 * 		Climax			N/A
-	 * 		Clock			If there is a card selected from hand, shift
-	 * 		Deck			Draw a card
-	 * 		Front			Rest card for effect							DONE
-	 * 		Hand			Play a card to the next available field spot
-	 * 		Level			N/A
-	 * 		Memory			N/A
-	 * 		Resolution		N/A
-	 * 		Stock			Pay for cost from top
-	 * 		Waiting Room	N/A
-	 * 	Left Click
-	 * 		Back			Swap card with another zone
-	 * 		Climax			N/A
-	 * 		Clock			Search clock (able to select card or just look through waiting room)
-	 * 		Deck			Search deck (will warn opponent and shuffle)
-	 * 		Front			Swap card with another zone
-	 * 		Hand			N/A
-	 * 		Level			Search level (able to select card or just look through waiting room)
-	 * 		Memory			N/A
-	 * 		Resolution		N/A
-	 * 		Stock			Pay for cost from bottom
-	 * 		Waiting Room	Search waiting room (able to select card or just look through waiting room)
+	/*
+	 * MAIN PHASE Right Click Back Rest card for effect DONE Climax N/A Clock If
+	 * there is a card selected from hand, shift Deck Draw a card Front Rest
+	 * card for effect DONE Hand Play a card to the next available field spot
+	 * Level N/A Memory N/A Resolution N/A Stock Pay for cost from top Waiting
+	 * Room N/A Left Click Back Swap card with another zone Climax N/A Clock
+	 * Search clock (able to select card or just look through waiting room) Deck
+	 * Search deck (will warn opponent and shuffle) Front Swap card with another
+	 * zone Hand N/A Level Search level (able to select card or just look
+	 * through waiting room) Memory N/A Resolution N/A Stock Pay for cost from
+	 * bottom Waiting Room Search waiting room (able to select card or just look
+	 * through waiting room)
 	 */
-	 /* CLIMAX PHASE
-	 * 	Right Click
-	 * 		Back			Rest card for effect
-	 * 		Climax			N/A
-	 * 		Clock			N/A
-	 * 		Deck			N/A
-	 * 		Front			Rest card for effect
-	 * 		Hand			Play a climax to the climax zone
-	 * 		Level			N/A
-	 * 		Memory			N/A
-	 * 		Resolution		N/A
-	 * 		Stock			N/A
-	 * 		Waiting Room	N/A
-	 * 	Left Click
-	 * 		Back			Check card
-	 * 		Climax			Check card
-	 * 		Clock			Check card
-	 * 		Deck			N/A
-	 * 		Front			Check card
-	 * 		Hand			N/A
-	 * 		Level			Check card
-	 * 		Memory			Check card
-	 * 		Resolution		Check card
-	 * 		Stock			N/A
-	 * 		Waiting Room	Check card
-	 */ 
-	 /* BATTLE PHASE
-	 * 	Right Click
-	 * 		Back			Toggle between modes Rest > Reverse > Stand
-	 * 		Climax			Remove climax and move to waiting room
-	 * 		Clock			N/A
-	 * 		Deck			Check trigger/Clock damage
-	 * 		Front			Toggle between modes Rest > Reverse > Stand
-	 * 		Hand			Play a card to the resolution(event) or waiting room(character)
-	 * 		Level			N/A
-	 * 		Memory			N/A
-	 * 		Resolution		N/A
-	 * 		Stock			Pay for cost from top
-	 * 		Waiting Room	N/A
-	 * 	Left Click
-	 * 		Back			Swap card with another zone
-	 * 		Climax			N/A
-	 * 		Clock			Search clock (able to select card or just look through waiting room)
-	 * 		Deck			Search deck (will warn opponent and shuffle)
-	 * 		Front			Swap card with another zone
-	 * 		Hand			N/A
-	 * 		Level			Search level (able to select card or just look through waiting room)
-	 * 		Memory			N/A
-	 * 		Resolution		N/A
-	 * 		Stock			Pay for cost from bottom
-	 * 		Waiting Room	Search waiting room (able to select card or just look through waiting room)
-	 */ 
-	 /* END PHASE
-	 * 	Right Click
-	 * 		Back			N/A
-	 * 		Climax			N/A
-	 * 		Clock			N/A
-	 * 		Deck			N/A
-	 * 		Front			N/A
-	 * 		Hand			Drop a card to the waiting room
-	 * 		Level			N/A
-	 * 		Memory			N/A
-	 * 		Resolution		N/A
-	 * 		Stock			Pay for cost from top
-	 * 		Waiting Room	N/A
-	 * 	Left Click
-	 * 		Back			Swap card with another zone
-	 * 		Climax			N/A
-	 * 		Clock			Search clock (able to select card or just look through waiting room)
-	 * 		Deck			Search deck (will warn opponent and shuffle)
-	 * 		Front			Swap card with another zone
-	 * 		Hand			N/A
-	 * 		Level			Search level (able to select card or just look through waiting room)
-	 * 		Memory			N/A
-	 * 		Resolution		N/A
-	 * 		Stock			Pay for cost from bottom
-	 * 		Waiting Room	Search waiting room (able to select card or just look through waiting room)
+	/*
+	 * CLIMAX PHASE Right Click Back Rest card for effect Climax N/A Clock N/A
+	 * Deck N/A Front Rest card for effect Hand Play a climax to the climax zone
+	 * Level N/A Memory N/A Resolution N/A Stock N/A Waiting Room N/A Left Click
+	 * Back Check card Climax Check card Clock Check card Deck N/A Front Check
+	 * card Hand N/A Level Check card Memory Check card Resolution Check card
+	 * Stock N/A Waiting Room Check card
+	 */
+	/*
+	 * BATTLE PHASE Right Click Back Toggle between modes Rest > Reverse > Stand
+	 * Climax Remove climax and move to waiting room Clock N/A Deck Check
+	 * trigger/Clock damage Front Toggle between modes Rest > Reverse > Stand
+	 * Hand Play a card to the resolution(event) or waiting room(character)
+	 * Level N/A Memory N/A Resolution N/A Stock Pay for cost from top Waiting
+	 * Room N/A Left Click Back Swap card with another zone Climax N/A Clock
+	 * Search clock (able to select card or just look through waiting room) Deck
+	 * Search deck (will warn opponent and shuffle) Front Swap card with another
+	 * zone Hand N/A Level Search level (able to select card or just look
+	 * through waiting room) Memory N/A Resolution N/A Stock Pay for cost from
+	 * bottom Waiting Room Search waiting room (able to select card or just look
+	 * through waiting room)
+	 */
+	/*
+	 * END PHASE Right Click Back N/A Climax N/A Clock N/A Deck N/A Front N/A
+	 * Hand Drop a card to the waiting room Level N/A Memory N/A Resolution N/A
+	 * Stock Pay for cost from top Waiting Room N/A Left Click Back Swap card
+	 * with another zone Climax N/A Clock Search clock (able to select card or
+	 * just look through waiting room) Deck Search deck (will warn opponent and
+	 * shuffle) Front Swap card with another zone Hand N/A Level Search level
+	 * (able to select card or just look through waiting room) Memory N/A
+	 * Resolution N/A Stock Pay for cost from bottom Waiting Room Search waiting
+	 * room (able to select card or just look through waiting room)
 	 */
 	private static final long serialVersionUID = 8801519680358307435L;
 
 	protected BufferedImage bi;
 	protected Rectangle rect;
-	protected int w, h, x, y; // x, y coordinates of the displayed image and height and width of the image
+	protected int w, h, x, y; // x, y coordinates of the displayed image and
+								// height and width of the image
 	public String zoneName;
 	protected Player associatedPlayer;
 
@@ -180,24 +99,33 @@ abstract class FieldElement extends Component implements MouseListener {
 	 */
 	public FieldElement(String imageFileName, int xa, int ya, String zone,
 			Player player) {
-		//InputStream imageSrc = getClass().getResource("/resources/FieldImages/" + imageFileName);
+		// InputStream imageSrc =
+		// getClass().getResource("/resources/FieldImages/" + imageFileName);
 		addMouseListener(this);
 		setAssociatedPlayer(player);
 		zoneName = zone;
 
 		try {
-			System.out.println(zone + "   " + getClass().getResource("/resources/FieldImages/" + imageFileName));
-			BufferedImage before = ImageIO.read(getClass().getResource("/resources/FieldImages/" + imageFileName));
+			System.out.println(zone
+					+ "   "
+					+ getClass().getResource(
+							"/resources/FieldImages/" + imageFileName));
+			BufferedImage before = ImageIO.read(getClass().getResource(
+					"/resources/FieldImages/" + imageFileName));
+
+			x = (int) (xa * Game.Game.gameScale);
+			y = (int) ((ya + Game.Game.translatedY) * Game.Game.gameScale);
+
 			int wid = before.getWidth();
 			int hit = before.getHeight();
 			bi = new BufferedImage(wid, hit, BufferedImage.TYPE_INT_ARGB);
-			
+
 			AffineTransform at = new AffineTransform();
 			at.scale(Game.Game.gameScale, Game.Game.gameScale);
-			AffineTransformOp scaleOp = 
-			   new AffineTransformOp(at, AffineTransformOp.TYPE_BILINEAR);
+			AffineTransformOp scaleOp = new AffineTransformOp(at,
+					AffineTransformOp.TYPE_BILINEAR);
 			bi = scaleOp.filter(before, null);
-			
+
 			w = (int) (bi.getWidth(null));
 			h = (int) (bi.getHeight(null));
 			/*
@@ -225,8 +153,7 @@ abstract class FieldElement extends Component implements MouseListener {
 	 * @return
 	 */
 	public abstract boolean containCards();
-	
-	
+
 	public boolean contains(int x, int y) {
 		return rect.contains(x, y);
 	}
@@ -319,8 +246,8 @@ abstract class FieldElement extends Component implements MouseListener {
 
 	public String toString() {
 		if (rect != null)
-			System.out.println("hitbox ("
-					+ rect.x + " ~ " + rect.getWidth() + ", " + rect.y  + " ~ " + rect.getHeight() + ")");
+			System.out.println("hitbox (" + rect.x + " ~ " + rect.getWidth()
+					+ ", " + rect.y + " ~ " + rect.getHeight() + ")");
 		return zoneName;
 	}
 

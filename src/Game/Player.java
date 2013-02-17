@@ -269,16 +269,18 @@ public class Player implements Serializable {
 		box.add(tabbedPane);
 
 		userFrame.setContentPane(box);
-
 		userFrame.pack();
+		userFrame.setLocationRelativeTo(null);
 		userFrame.setVisible(true);
 	}
 
 	private void startDeckEdit() {
 		if (builderGui == null) {
 			builderGui = new BuilderGUI();
+			
 			// builderGui.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 			builderGui.init();
+			builderGui.setLocationRelativeTo(null);
 			// builderGui.pack();
 			builderGui.setVisible(true);
 		}

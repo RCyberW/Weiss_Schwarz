@@ -1690,7 +1690,7 @@ public class BuilderGUI extends JFrame {
 		builderGui.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
 		builderGui.init();
-
+		builderGui.setLocationRelativeTo(null);
 		// builderGui.pack();
 		builderGui.setVisible(true);
 	}

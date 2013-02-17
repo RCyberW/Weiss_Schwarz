@@ -106,78 +106,72 @@ public class Hand extends FieldElement {
 
 	@Override
 	public void mouseReleased(MouseEvent e) {
-		Card card = null;
-		if (containCards()) {
-			card = selectCard(e);
-		}
+		if (containCards() == false)
+			return;
+		Card card = selectCard(e);
+		if (card == null)
+			return;
 
 		if (e.getButton() == MouseEvent.BUTTON3) {
-
-			if (card != null) {
-				if (associatedPlayer.getCurrentPhase() == Phase.CLOCK_PHASE) {
-					if (selectedIndex > -1) {
-						Card temp = handCards.remove(selectedIndex);
-						selectedIndex = -1;
-						System.out.println(temp.getCardName() + " was clocked");
-						System.out.println("new hand " + handCards);
-						associatedPlayer.getField().setSelected(card);
-					}
-				} else if (associatedPlayer.getCurrentPhase() == Phase.MAIN_PHASE) {
-					if (card.getT() == Type.CHARACTER) {
-						if (!associatedPlayer.getField().getFrontRow1()
-								.containCards()) {
-							associatedPlayer.getField().getFrontRow1()
-									.setCard(card);
-						} else if (!associatedPlayer.getField().getFrontRow2()
-								.containCards()) {
-							associatedPlayer.getField().getFrontRow2()
-									.setCard(card);
-						} else if (!associatedPlayer.getField().getFrontRow3()
-								.containCards()) {
-							associatedPlayer.getField().getFrontRow3()
-									.setCard(card);
-						} else if (!associatedPlayer.getField().getBackRow1()
-								.containCards()) {
-							associatedPlayer.getField().getBackRow1()
-									.setCard(card);
-						} else if (!associatedPlayer.getField().getBackRow2()
-								.containCards()) {
-							associatedPlayer.getField().getBackRow2()
-									.setCard(card);
-						} else {
-							selectedIndex = -1;
-						}
-						if (selectedIndex > -1) {
-							handCards.remove(selectedIndex);
-							associatedPlayer.getField().repaint();
-						}
-					} else if (card.getT() == Type.EVENT) {
-						associatedPlayer.getField().getRandomZone()
+			if (associatedPlayer.getCurrentPhase() == Phase.CLOCK_PHASE) {
+				if (selectedIndex > -1) {
+					Card temp = handCards.remove(selectedIndex);
+					selectedIndex = -1;
+					System.out.println(temp.getCardName() + " was clocked");
+					System.out.println("NEW_HAND " + handCards);
+					associatedPlayer.getField().setSelected(card);
+				}
+			} else if (associatedPlayer.getCurrentPhase() == Phase.MAIN_PHASE) {
+				if (card.getT() == Type.CHARACTER) {
+					if (!associatedPlayer.getField().getFrontRow1()
+							.containCards()) {
+						associatedPlayer.getField().getFrontRow1()
 								.setCard(card);
-						if (selectedIndex > -1) {
-							handCards.remove(selectedIndex);
-						}
+					} else if (!associatedPlayer.getField().getFrontRow2()
+							.containCards()) {
+						associatedPlayer.getField().getFrontRow2()
+								.setCard(card);
+					} else if (!associatedPlayer.getField().getFrontRow3()
+							.containCards()) {
+						associatedPlayer.getField().getFrontRow3()
+								.setCard(card);
+					} else if (!associatedPlayer.getField().getBackRow1()
+							.containCards()) {
+						associatedPlayer.getField().getBackRow1().setCard(card);
+					} else if (!associatedPlayer.getField().getBackRow2()
+							.containCards()) {
+						associatedPlayer.getField().getBackRow2().setCard(card);
+					} else {
+						selectedIndex = -1;
 					}
-				} else if (associatedPlayer.getCurrentPhase() == Phase.CLIMAX_PHASE
-						&& card.getT() == Type.CLIMAX) {
-					associatedPlayer.getField().getClimaxZone().setCard(card);
 					if (selectedIndex > -1) {
 						handCards.remove(selectedIndex);
-						//handCards.remove(card);
+						associatedPlayer.getField().repaint();
 					}
-				} else if (associatedPlayer.getCurrentPhase() == Phase.ATTACK_PHASE
-						&& card.getT() == Type.CHARACTER) {
-					/*
-					 * associatedPlayer.getField().getRandomZone().setCard(card);
-					 * if (selectedIndex > -1) {
-					 * handCards.remove(selectedIndex); }
-					 */
+				} else if (card.getT() == Type.EVENT) {
+					associatedPlayer.getField().getRandomZone().setCard(card);
+					if (selectedIndex > -1) {
+						handCards.remove(selectedIndex);
+					}
 				}
+			} else if (associatedPlayer.getCurrentPhase() == Phase.CLIMAX_PHASE
+					&& card.getT() == Type.CLIMAX) {
+				associatedPlayer.getField().getClimaxZone().setCard(card);
+				if (selectedIndex > -1) {
+					handCards.remove(selectedIndex);
+				}
+			} else if (associatedPlayer.getCurrentPhase() == Phase.ATTACK_PHASE
+					&& card.getT() == Type.CHARACTER) {
+				/*
+				 * associatedPlayer.getField().getRandomZone().setCard(card); if
+				 * (selectedIndex > -1) { handCards.remove(selectedIndex); }
+				 */
 			}
+
 		} else if (e.getButton() == MouseEvent.BUTTON1) {
-			/*if (containCards()) {
-				card = selectCard(e);
-			}*/
+			/*
+			 * if (containCards()) { card = selectCard(e); }
+			 */
 			repaint();
 		}
 		selected = card;

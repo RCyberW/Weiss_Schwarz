@@ -90,9 +90,9 @@ public class Front_Row extends FieldElement {
 
 	@Override
 	public Card selectCard(MouseEvent e) {
-		if (containCards()
-				&& frontCard.getCardBound().contains(e.getX(), e.getY())) {
+		if (containCards() && frontCard.getCardBound().contains(e.getPoint())) {
 			return removeCard();
+			//return frontCard;
 		}
 		return null;
 	}
