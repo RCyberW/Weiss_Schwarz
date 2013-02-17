@@ -62,8 +62,26 @@ public class Random_Zone extends FieldElement {
 			}
 		});
 		popmenu.add(memoryAction);
+		
+		JMenuItem stockAction = new JMenuItem("all to memory");
+		stockAction.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				toStock();
+			}
+		});
+		popmenu.add(stockAction);
 
 		popmenu.show(e.getComponent(), e.getX(), e.getY());
+	}
+
+	protected void toStock() {
+		for (int i = 0; i < thisCard.size(); i++) {
+			associatedPlayer.getField().getStockZone()
+					.setCard(thisCard.get(i));
+		}
+		thisCard.clear();
+		associatedPlayer.getField().repaint();
 	}
 
 	protected void toMemory() {

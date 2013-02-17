@@ -10,5 +10,5 @@
 package CardAssociation;
 
 public enum State {
-	STAND, REST, REVERSE, NONE
+	STAND, REST, REVERSE, NONE, FD_STAND, FD_REST
 }
