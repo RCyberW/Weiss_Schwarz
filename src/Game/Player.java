@@ -360,5 +360,9 @@ public class Player implements Serializable {
 	public int getPlayerID() {
 		return playerID;
 	}
+	
+	public JFrame getGameWindow() {
+		return f;
+	}
 
 }

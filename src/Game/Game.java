@@ -540,6 +540,7 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 		}
 		repaint();
 		defendingField.repaint();
+		System.out.println("GAME HAS FOCUS " + this.hasFocus());
 	}
 
 	public void mouseDragged(MouseEvent e) {

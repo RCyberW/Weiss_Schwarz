@@ -1,4 +1,5 @@
 import java.awt.BorderLayout;
+import java.awt.event.FocusEvent;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.io.IOException;
@@ -27,6 +28,7 @@ public class MainClass {
 	public static void main(String[] args) {
 		MainClass test = new MainClass();
 		test.tester();
+		
 	}
 
 	public void tester() {

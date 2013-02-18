@@ -7,6 +7,7 @@ import java.awt.Graphics;
 import java.awt.Graphics2D;
 import java.awt.Rectangle;
 import java.awt.TexturePaint;
+import java.awt.event.ActionEvent;
 import java.awt.event.FocusEvent;
 import java.awt.event.FocusListener;
 import java.awt.event.MouseEvent;
@@ -334,5 +335,18 @@ public class NewMainField extends Canvas implements Serializable,
 
 	public void setSelected(Card card) {
 		selectedCard = card;
+	}
+	
+	public void repaintElements(ActionEvent ae) {
+		for(FieldElement e: elements) {
+			e.repaint();
+		}
+		setFocusable(true);
+		this.setVisible(true);
+		associatedPlayer.f.requestFocusInWindow();
+		associatedPlayer.f.requestFocus();
+		this.requestFocusInWindow(true);
+		this.setVisible(true);
+		this.requestFocusInWindow(true);
 	}
 }

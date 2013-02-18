@@ -81,7 +81,7 @@ public class Deck_Zone extends FieldElement {
 	}
 
 	private void constructPopup(MouseEvent e) {
-		JPopupMenu popmenu = new JPopupMenu();
+		final JPopupMenu popmenu = new JPopupMenu();
 
 		JMenuItem drawAction = new JMenuItem("draw");
 		drawAction.addActionListener(new ActionListener() {
@@ -116,6 +116,7 @@ public class Deck_Zone extends FieldElement {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				resolutionCard();
+				associatedPlayer.getField().repaintElements(e);
 			}
 		});
 		popmenu.add(millAction); // goes to resolution
@@ -137,7 +138,6 @@ public class Deck_Zone extends FieldElement {
 			}
 		});
 		popmenu.add(damageAction); // goes to resolution
-
 		popmenu.show(e.getComponent(), e.getX(), e.getY());
 	}
 
@@ -147,14 +147,9 @@ public class Deck_Zone extends FieldElement {
 		deckZone.remove(deckZone.size() - 1);
 		associatedPlayer.getField().getRandomZone().setCard(card);
 
-		associatedPlayer.getField().repaint();
-
-		associatedPlayer.getField().requestFocusInWindow();
-		this.transferFocus();
-
-		System.out.println(showCard());
+		// associatedPlayer.getField().repaintElements();
 	}
-
+	
 	protected void stockCard() {
 		Card card = showCard();
 		removeCard(card);

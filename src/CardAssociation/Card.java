@@ -863,6 +863,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 	
 	
 	// Hard code special cases where you may put >4 cards in the deck
+	// RG sisters
 	public static int getMaxInDeck(Card c) {
 		if (c.getCardName().equals("鈥滃鎯冲够鍍忊�銈偟銈枫兂")
 				|| c.getCardName().contains("銉愩偢銉ャ儵(澶�")
