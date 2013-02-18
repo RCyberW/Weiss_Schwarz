@@ -89,13 +89,16 @@ public class DisplayList extends JFrame {
 		submit.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				thisPlayer.getField().getRandomZone().setCard(selectedCard);
+				cardList.remove(selectedCard);
 				dispose();
+				thisPlayer.getField().repaintElements();
 			}
 		});
 		JButton cancel = new JButton("Cancel");
 		cancel.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				dispose();
+				thisPlayer.getField().repaintElements();
 			}
 		});
 

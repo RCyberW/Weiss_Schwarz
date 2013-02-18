@@ -238,7 +238,17 @@ abstract class FieldElement extends Component implements MouseListener {
 	public void mouseClicked(MouseEvent e) {
 	}
 
-	public abstract Card selectCard(MouseEvent e);
+	public Card selectCard(MouseEvent e) {
+		if (!containCards())
+			return null;
+
+		Card tempCard = showCard();
+		if (tempCard.getCardBound().contains(e.getPoint())) {
+			return tempCard;
+
+		}
+		return null;
+	}
 
 	public abstract void setCard(Card selectedCard);
 

@@ -88,6 +88,7 @@ public class Deck_Zone extends FieldElement {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				drawCard();
+				associatedPlayer.getField().repaintElements();
 			}
 		});
 		popmenu.add(drawAction); // prompt for moving cards from hand
@@ -98,6 +99,7 @@ public class Deck_Zone extends FieldElement {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				shuffle();
+				associatedPlayer.getField().repaintElements();
 			}
 		});
 		popmenu.add(shuffleAction); // refresh or normal shuffle
@@ -107,6 +109,7 @@ public class Deck_Zone extends FieldElement {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				showCard();
+				associatedPlayer.getField().repaintElements();
 			}
 		});
 		popmenu.add(checkAction); // move to waiting
@@ -116,7 +119,7 @@ public class Deck_Zone extends FieldElement {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				resolutionCard();
-				associatedPlayer.getField().repaintElements(e);
+				associatedPlayer.getField().repaintElements();
 			}
 		});
 		popmenu.add(millAction); // goes to resolution
@@ -126,6 +129,7 @@ public class Deck_Zone extends FieldElement {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				resolutionCard();
+				associatedPlayer.getField().repaintElements();
 			}
 		});
 		popmenu.add(triggerAction); // goes to resolution
@@ -135,28 +139,39 @@ public class Deck_Zone extends FieldElement {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				resolutionCard();
+				associatedPlayer.getField().repaintElements();
 			}
 		});
 		popmenu.add(damageAction); // goes to resolution
+
+		JMenuItem searchAction = new JMenuItem("search deck");
+		searchAction.addActionListener(new ActionListener() {
+
+			@Override
+			public void actionPerformed(ActionEvent arg0) {
+				displayDeck();
+			}
+
+		});
+		popmenu.add(searchAction); // search the deck
+
 		popmenu.show(e.getComponent(), e.getX(), e.getY());
 	}
 
-	protected void resolutionCard() {
+	private void resolutionCard() {
 		System.out.println(showCard());
 		Card card = showCard();
 		deckZone.remove(deckZone.size() - 1);
 		associatedPlayer.getField().getRandomZone().setCard(card);
-
-		// associatedPlayer.getField().repaintElements();
 	}
-	
-	protected void stockCard() {
+
+	private void stockCard() {
 		Card card = showCard();
 		removeCard(card);
 		associatedPlayer.getField().getRandomZone().setCard(card);
 	}
 
-	protected void discardCard() {
+	private void discardCard() {
 		Card card = showCard();
 		removeCard(card);
 		associatedPlayer.getField().getRandomZone().setCard(card);
@@ -183,9 +198,8 @@ public class Deck_Zone extends FieldElement {
 			 * { drawCard(); }
 			 */
 		} else if (e.getButton() == MouseEvent.BUTTON1) {
-			displayDeck();
-		}
 
+		}
 	}
 
 	private void displayDeck() {
@@ -214,23 +228,16 @@ public class Deck_Zone extends FieldElement {
 	@Override
 	// right click access top of the deck
 	// left click access bottom of the deck
-	public Card selectCard(MouseEvent e) {
-		if (!containCards())
-			return null;
-		if (showCard().getCardBound().contains(e.getPoint())) {
-			Card c = showCard();
-			// if (associatedPlayer.getCurrentPhase() == Phase.MAIN_PHASE) {
-			// if (e.getButton() == MouseEvent.BUTTON3)
-			// c = deckZone.remove(deckZone.size() - 1);
-			// else if (e.getButton() == MouseEvent.BUTTON1)
-			// c = deckZone.remove(0);
-			// }
-			return c;
-		}
-
-		return null;
-	}
-
+	// public Card selectCard(MouseEvent e) {
+	// if (!containCards())
+	// return null;
+	// if (showCard().getCardBound().contains(e.getPoint())) {
+	// Card c = showCard();
+	// return c;
+	// }
+	//
+	// return null;
+	// }
 	public boolean isList() {
 		return true;
 	}

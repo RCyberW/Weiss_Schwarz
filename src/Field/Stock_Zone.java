@@ -71,29 +71,30 @@ public class Stock_Zone extends FieldElement {
 				this.y - 10);
 	}
 
-	@Override
+	// @Override
 	// select the top card in the stock zone
-	public Card selectCard(MouseEvent e) {
-		if (containCards()) {
-			if (showCard().getCardBound().contains(e.getX(), e.getY())) {
-				Card c = showCard();
-				stockZone.remove(stockZone.size() - 1);
-				return c;
-			}
-		}
-		return null;
-	}
+	// public Card selectCard(MouseEvent e) {
+	// if (containCards()) {
+	// if (showCard().getCardBound().contains(e.getX(), e.getY())) {
+	// Card c = showCard();
+	// stockZone.remove(stockZone.size() - 1);
+	// return c;
+	// }
+	// }
+	// return null;
+	// }
 
 	@Override
 	// right click to pay stock for ability activation/cost to summon
 	// left click to pay the bottom
 	public void mouseReleased(MouseEvent e) {
 		Card card = selectCard(e);
-		if (containCards() == false)
+		if (containCards() == false || card == null)
 			return;
 		if (e.getButton() == MouseEvent.BUTTON3) {
 			card = selectCard(e);
 			associatedPlayer.getField().getWaitingRoom().setCard(card);
+			stockZone.remove(stockZone.size() - 1);
 		} else if (e.getButton() == MouseEvent.BUTTON1) {
 			associatedPlayer.getField().getWaitingRoom()
 					.setCard(stockZone.get(0));

@@ -117,8 +117,8 @@ public class NewMainField extends Canvas implements Serializable,
 			System.out.println("Image could not be read mat");
 			System.exit(1);
 		}
-		
-		this.addFocusListener(new FocusListener(){
+
+		this.addFocusListener(new FocusListener() {
 
 			@Override
 			public void focusGained(FocusEvent arg0) {
@@ -129,9 +129,9 @@ public class NewMainField extends Canvas implements Serializable,
 			public void focusLost(FocusEvent arg0) {
 				repaint();
 			}
-			
+
 		});
-		
+
 		createElements();
 
 	}
@@ -186,6 +186,7 @@ public class NewMainField extends Canvas implements Serializable,
 		if (e.getClickCount() > 1) {
 			return;
 		}
+
 		if (e.getButton() == MouseEvent.BUTTON1) {
 			if ((associatedPlayer.getCurrentPhase() == Phase.MAIN_PHASE || associatedPlayer
 					.getCurrentPhase() == Phase.ATTACK_PHASE)) {
@@ -195,6 +196,7 @@ public class NewMainField extends Canvas implements Serializable,
 						// fe.mouseReleased(e);
 						if (!fe.isList() && fe.contains(e.getPoint())) {
 							selectedCard = fe.selectCard(e);
+							fe.mouseReleased(e);
 							System.out.println(selectedCard);
 						}
 						if (selectedCard != null) {
@@ -206,7 +208,7 @@ public class NewMainField extends Canvas implements Serializable,
 				} else {
 					// placing a card to a zone
 					for (FieldElement fe : elements) {
-						if (fe.contains(e.getX(), e.getY())) {
+						if (fe.contains(e.getPoint())) {
 							System.out
 									.println("clicked on " + fe.toString()
 											+ "(" + e.getX() + "," + e.getY()
@@ -232,7 +234,7 @@ public class NewMainField extends Canvas implements Serializable,
 		} else if (e.getButton() == MouseEvent.BUTTON3) {
 			// default action on each zone
 			for (FieldElement fe : elements) {
-				if (fe.contains(e.getX(), e.getY())) {
+				if (fe.contains(e.getPoint())) {
 					fe.mouseReleased(e);
 				}
 			}
@@ -318,7 +320,7 @@ public class NewMainField extends Canvas implements Serializable,
 	public Stock_Zone getStockZone() {
 		return sz;
 	}
-	
+
 	public Memory_Zone getMemoryZone() {
 		return mz;
 	}
@@ -336,17 +338,11 @@ public class NewMainField extends Canvas implements Serializable,
 	public void setSelected(Card card) {
 		selectedCard = card;
 	}
-	
-	public void repaintElements(ActionEvent ae) {
-		for(FieldElement e: elements) {
-			e.repaint();
-		}
-		setFocusable(true);
-		this.setVisible(true);
-		associatedPlayer.f.requestFocusInWindow();
-		associatedPlayer.f.requestFocus();
-		this.requestFocusInWindow(true);
-		this.setVisible(true);
-		this.requestFocusInWindow(true);
+
+	public void repaintElements() {
+		repaint();
+
+		associatedPlayer.f.toFront();
+		associatedPlayer.f.repaint();
 	}
 }

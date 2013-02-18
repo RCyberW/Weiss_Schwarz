@@ -38,10 +38,12 @@ public class Memory_Zone extends FieldElement {
 		return memoryZone;
 	}
 
-	public Card removeCard(Card c) {
-		if (memoryZone.remove(c))
-			return c;
-		return null;
+	public Card removeCard() {
+		if (!containCards())
+			return null;
+		Card c = memoryZone.remove(memoryZone.size() - 1);
+		associatedPlayer.getField().repaintElements();
+		return c;
 	}
 
 	public Card showCard() {
@@ -86,17 +88,17 @@ public class Memory_Zone extends FieldElement {
 		g.drawString(memoryZone.size() + "", this.x + 10, this.y + 50);
 	}
 
-	@Override
-	public Card selectCard(MouseEvent e) {
-		if (containCards()) {
-			if (showCard().getCardBound().contains(e.getX(), e.getY())) {
-				Card c = showCard();
-				memoryZone.remove(memoryZone.size() - 1);
-				return c;
-			}
-		}
-		return null;
-	}
+	// @Override
+	// public Card selectCard(MouseEvent e) {
+	// if (containCards()) {
+	// if (showCard().getCardBound().contains(e.getX(), e.getY())) {
+	// Card c = showCard();
+	// // memoryZone.remove(memoryZone.size() - 1);
+	// return c;
+	// }
+	// }
+	// return null;
+	// }
 
 	@Override
 	public void mouseReleased(MouseEvent e) {

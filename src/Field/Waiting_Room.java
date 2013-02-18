@@ -5,11 +5,15 @@ package Field;
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.Graphics;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import java.awt.event.MouseEvent;
 import java.util.ArrayList;
 import java.util.Collections;
 
 import javax.swing.JFrame;
+import javax.swing.JMenuItem;
+import javax.swing.JPopupMenu;
 
 import CardAssociation.Card;
 import Game.Phase;
@@ -85,17 +89,52 @@ public class Waiting_Room extends FieldElement {
 				this.y - 10);
 	}
 
-	@Override
-	public Card selectCard(MouseEvent e) {
-		if (containCards()) {
-			if (showCard().getCardBound().contains(e.getX(), e.getY())) {
-				Card c = showCard();
-				if (e.getButton() == MouseEvent.BUTTON1)
-					waitingRoom.remove(waitingRoom.size() - 1);
-				return c;
+	// @Override
+	// public Card selectCard(MouseEvent e) {
+	// if (containCards()) {
+	// if (showCard().getCardBound().contains(e.getX(), e.getY())) {
+	// Card c = showCard();
+	// if (e.getButton() == MouseEvent.BUTTON1)
+	// waitingRoom.remove(waitingRoom.size() - 1);
+	// return c;
+	// }
+	// }
+	// return null;
+	// }
+
+	private void constructPopup(MouseEvent e) {
+		final JPopupMenu popmenu = new JPopupMenu();
+
+		JMenuItem searchAction = new JMenuItem("search");
+		searchAction.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				displayDeck();
 			}
+		});
+		popmenu.add(searchAction); // search the waiting room
+		
+		JMenuItem refreshAction = new JMenuItem("refresh");
+		refreshAction.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				refreshDeck();
+				associatedPlayer.getField().repaintElements();
+			}
+		});
+		popmenu.add(refreshAction); // search the waiting room
+
+		popmenu.show(e.getComponent(), e.getX(), e.getY());
+	}
+
+	
+	protected void refreshDeck() {
+		for(Card card:waitingRoom) {
+			associatedPlayer.getField().getDeckZone().setCard(card);
 		}
-		return null;
+		associatedPlayer.getField().getDeckZone().shuffle();
+		
+		waitingRoom.clear();
 	}
 
 	@Override
@@ -107,7 +146,7 @@ public class Waiting_Room extends FieldElement {
 			if (associatedPlayer.getCurrentPhase() == Phase.DRAW_PHASE) {
 			} else if (associatedPlayer.getCurrentPhase() == Phase.ATTACK_PHASE) {
 			} else {
-				displayDeck();
+				constructPopup(e);
 			}
 		}
 	}

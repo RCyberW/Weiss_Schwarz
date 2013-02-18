@@ -80,19 +80,18 @@ public class Back_Row extends FieldElement {
 		g.drawString(zoneName, x + 10, y + 20);
 	}
 
-	@Override
-	public Card selectCard(MouseEvent e) {
-		if (containCards()
-				&& backCard.getCardBound().contains(e.getX(), e.getY())) {
-			return removeCard();
-		}
-		return null;
-	}
+	// @Override
+	// public Card selectCard(MouseEvent e) {
+	// if (containCards()
+	// && backCard.getCardBound().contains(e.getX(), e.getY())) {
+	// return showCard();
+	// }
+	// return null;
+	// }
 
 	@Override
 	public void mouseReleased(MouseEvent e) {
-		Card card = selectCard(e);
-		if (containCards() == false || card == null)
+		if (containCards() == false)
 			return;
 		if (e.getButton() == MouseEvent.BUTTON3) {
 			if (backCard.getCurrentState() == State.STAND) {
@@ -102,6 +101,8 @@ public class Back_Row extends FieldElement {
 			} else {
 				backCard.setCurrentState(State.STAND);
 			}
+		} else if (e.getButton() == MouseEvent.BUTTON1) {
+			removeCard();
 		}
 	}
 }

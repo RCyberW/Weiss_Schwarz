@@ -88,45 +88,42 @@ public class Front_Row extends FieldElement {
 
 	// TODO: HIGH PRIORITY FIX THE REMOVING OF CARD WHEN SHOW
 
-	@Override
-	public Card selectCard(MouseEvent e) {
-		if (containCards() && frontCard.getCardBound().contains(e.getPoint())) {
-			return removeCard();
-			//return frontCard;
-		}
-		return null;
-	}
+	// @Override
+	// public Card selectCard(MouseEvent e) {
+	// if (containCards() && frontCard.getCardBound().contains(e.getPoint())) {
+	// return showCard();
+	// }
+	// return null;
+	// }
 
 	@Override
 	public void mouseReleased(MouseEvent e) {
-		Card card = selectCard(e);
-		if (containCards() == false || card == null)
+		if (containCards() == false)
 			return;
 		if (e.getButton() == MouseEvent.BUTTON3) {
-			System.out.println("playing " + card.getCardName()
+			System.out.println("playing " + frontCard.getCardName()
 					+ " in a different position");
-			setCard(card);
-			if (card != null) {
-				if (associatedPlayer.getCurrentPhase() == Phase.MAIN_PHASE) {
-					// during main phase, activate card effects
-					if (card.getCurrentState() == State.STAND) {
-						card.setCurrentState(State.REST);
-					} else {
-						card.setCurrentState(State.STAND);
-					}
-				} else if (associatedPlayer.getCurrentPhase() == Phase.ATTACK_PHASE) {
-					// during attack phase, rest/reverse/stand cards
-					System.out.println("FRONT_ROW: attack phase "
-							+ card.getCardName());
-					if (card.getCurrentState() == State.REST) {
-						card.setCurrentState(State.REVERSE);
-					} else if (card.getCurrentState() == State.REVERSE) {
-						card.setCurrentState(State.STAND);
-					} else {
-						card.setCurrentState(State.REST);
-					}
+			if (associatedPlayer.getCurrentPhase() == Phase.MAIN_PHASE) {
+				// during main phase, activate card effects
+				if (frontCard.getCurrentState() == State.STAND) {
+					frontCard.setCurrentState(State.REST);
+				} else {
+					frontCard.setCurrentState(State.STAND);
+				}
+			} else if (associatedPlayer.getCurrentPhase() == Phase.ATTACK_PHASE) {
+				// during attack phase, rest/reverse/stand cards
+				System.out.println("FRONT_ROW: attack phase "
+						+ frontCard.getCardName());
+				if (frontCard.getCurrentState() == State.REST) {
+					frontCard.setCurrentState(State.REVERSE);
+				} else if (frontCard.getCurrentState() == State.REVERSE) {
+					frontCard.setCurrentState(State.STAND);
+				} else {
+					frontCard.setCurrentState(State.REST);
 				}
 			}
+		} else if (e.getButton() == MouseEvent.BUTTON1) {
+			removeCard();
 		}
 	}
 }

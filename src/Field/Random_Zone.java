@@ -41,6 +41,7 @@ public class Random_Zone extends FieldElement {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				toWaitingRoom();
+				associatedPlayer.getField().repaintElements();
 			}
 		});
 		popmenu.add(waitingAction);
@@ -50,6 +51,7 @@ public class Random_Zone extends FieldElement {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				toClock();
+				associatedPlayer.getField().repaintElements();
 			}
 		});
 		popmenu.add(clockAction);
@@ -59,26 +61,63 @@ public class Random_Zone extends FieldElement {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				toMemory();
+				associatedPlayer.getField().repaintElements();
 			}
 		});
 		popmenu.add(memoryAction);
-		
-		JMenuItem stockAction = new JMenuItem("all to memory");
+
+		JMenuItem stockAction = new JMenuItem("all to stock");
 		stockAction.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				toStock();
+				associatedPlayer.getField().repaintElements();
 			}
 		});
 		popmenu.add(stockAction);
+		
+		JMenuItem handAction = new JMenuItem("all to hand");
+		handAction.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				toHand();
+				associatedPlayer.getField().repaintElements();
+			}
+		});
+		popmenu.add(handAction);
+		
+		JMenuItem deckAction = new JMenuItem("all to deck");
+		deckAction.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				toDeck();
+				associatedPlayer.getField().repaintElements();
+			}
+		});
+		popmenu.add(deckAction);
 
 		popmenu.show(e.getComponent(), e.getX(), e.getY());
 	}
 
+	protected void toDeck() {
+		for (int i = 0; i < thisCard.size(); i++) {
+			associatedPlayer.getField().getDeckZone().setCard(thisCard.get(i));
+		}
+		thisCard.clear();
+		associatedPlayer.getField().repaint();
+	}
+
+	protected void toHand() {
+		for (int i = 0; i < thisCard.size(); i++) {
+			associatedPlayer.getHand().setCard(thisCard.get(i));
+		}
+		thisCard.clear();
+		associatedPlayer.getField().repaint();
+	}
+
 	protected void toStock() {
 		for (int i = 0; i < thisCard.size(); i++) {
-			associatedPlayer.getField().getStockZone()
-					.setCard(thisCard.get(i));
+			associatedPlayer.getField().getStockZone().setCard(thisCard.get(i));
 		}
 		thisCard.clear();
 		associatedPlayer.getField().repaint();
@@ -117,6 +156,8 @@ public class Random_Zone extends FieldElement {
 			return;
 		if (e.getButton() == MouseEvent.BUTTON3) {
 			constructPopup(e);
+		} else if (e.getButton() == MouseEvent.BUTTON1) {
+			removeCard();
 		}
 	}
 
@@ -141,21 +182,22 @@ public class Random_Zone extends FieldElement {
 			return null;
 		Card tempCard = thisCard.get(thisCard.size() - 1);
 		thisCard.remove(thisCard.size() - 1);
+		associatedPlayer.getField().repaintElements();
 		return tempCard;
 	}
 
-	@Override
-	public Card selectCard(MouseEvent e) {
-		if (!containCards())
-			return null;
-
-		Card tempCard = showCard();
-		if (tempCard.getCardBound().contains(e.getPoint())) {
-			return showCard();
-
-		}
-		return null;
-	}
+	// @Override
+	// public Card selectCard(MouseEvent e) {
+	// if (!containCards())
+	// return null;
+	//
+	// Card tempCard = showCard();
+	// if (tempCard.getCardBound().contains(e.getPoint())) {
+	// return tempCard;
+	//
+	// }
+	// return null;
+	// }
 
 	@Override
 	public void setCard(Card selectedCard) {

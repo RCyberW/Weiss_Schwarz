@@ -72,19 +72,18 @@ public class Climax_Zone extends FieldElement {
 		g.drawString(zoneName, x + 10, y + 20);
 	}
 
-	@Override
-	public Card selectCard(MouseEvent e) {
-		if (climaxCard != null
-				&& climaxCard.getCardBound().contains(e.getX(), e.getY())) {
-			return removeCard();
-		}
-		return null;
-	}
+	// @Override
+	// public Card selectCard(MouseEvent e) {
+	// if (climaxCard != null
+	// && climaxCard.getCardBound().contains(e.getX(), e.getY())) {
+	// return removeCard();
+	// }
+	// return null;
+	// }
 
 	@Override
 	public void mouseReleased(MouseEvent e) {
-		Card card = selectCard(e);
-		if (containCards() == false || card == null)
+		if (containCards() == false)
 			return;
 
 		if (e.getButton() == MouseEvent.BUTTON3) {
