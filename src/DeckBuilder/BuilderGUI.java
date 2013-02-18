@@ -122,6 +122,8 @@ public class BuilderGUI extends JFrame {
 	private JLabel greenCountText;
 	private JLabel redCountText;
 	private JLabel blueCountText;
+	
+	private JComponent previousFocus;
 
 	/**
 	 * Start the GUI client
@@ -850,10 +852,19 @@ public class BuilderGUI extends JFrame {
 					selectedCard = cardHolder.get(resultListTable.getValueAt(
 							row, 0));
 				}
-				if (e.getKeyCode() == KeyEvent.VK_ENTER) {
-					currentDeck.addCard(selectedCard, true);
+				if (e.getKeyCode() == KeyEvent.VK_DELETE
+						|| e.getKeyCode() == KeyEvent.VK_MINUS) {
+					if (currentDeck.removeCard(selectedCard))
+						refresh("removeFromDeck");
+				} else if (e.getKeyCode() == KeyEvent.VK_EQUALS
+						|| e.getKeyCode() == KeyEvent.VK_ADD
+						|| e.getKeyCode() == KeyEvent.VK_ENTER) {
+					if (currentDeck.addCard(selectedCard, true))
+						refresh("addToDeck");
+				} else if (e.getKeyCode() == KeyEvent.VK_UP
+						|| e.getKeyCode() == KeyEvent.VK_DOWN){
+					refresh("listBox");
 				}
-				refresh("listBox");
 			}
 
 			@Override
@@ -879,6 +890,18 @@ public class BuilderGUI extends JFrame {
 		solCol.setPreferredWidth(35);
 		TableColumn powCol = resultListTable.getColumnModel().getColumn(7);
 		powCol.setPreferredWidth(50);
+		
+		resultListTable.addFocusListener(new FocusListener() {
+			@Override
+			public void focusGained(FocusEvent arg0) {
+			}
+			
+			@Override
+			public void focusLost(FocusEvent e) {
+				previousFocus = resultListTable;
+			}
+
+		});
 
 		resultPane = new JScrollPane(resultListTable);
 		resultPane
@@ -889,6 +912,7 @@ public class BuilderGUI extends JFrame {
 
 	private void refreshResultList() {
 		resultListModel.setCardList(resultList);
+		resultListTable.scrollRectToVisible(resultListTable.getCellRect(0, 0, true));
 
 	}
 
@@ -995,6 +1019,7 @@ public class BuilderGUI extends JFrame {
 						&& currentDeck.addCard(selectedCard, true)) {
 					refresh("addToDeck");
 				}
+				previousFocus.requestFocus();
 			}
 		});
 
@@ -1008,6 +1033,7 @@ public class BuilderGUI extends JFrame {
 						;
 					refresh("addToDeck");
 				}
+				previousFocus.requestFocus();
 			}
 		});
 
@@ -1018,6 +1044,7 @@ public class BuilderGUI extends JFrame {
 						&& currentDeck.removeCard(selectedCard)) {
 					refresh("removeFromDeck");
 				}
+				previousFocus.requestFocus();
 			}
 		});
 
@@ -1030,6 +1057,7 @@ public class BuilderGUI extends JFrame {
 						;
 					refresh("removeFromDeck");
 				}
+				previousFocus.requestFocus();
 			}
 		});
 
@@ -1163,7 +1191,9 @@ public class BuilderGUI extends JFrame {
 				if (row > -1)
 					selectedCard = cardHolder.get(deckListTable.getValueAt(row,
 							1));
-				refresh("deckListSelect");
+				if (e.getKeyCode() == KeyEvent.VK_UP 
+						|| e.getKeyCode() == KeyEvent.VK_DOWN)
+					refresh("deckListSelect");
 				if (e.getKeyCode() == KeyEvent.VK_DELETE
 						|| e.getKeyCode() == KeyEvent.VK_MINUS) {
 					if (currentDeck.removeCard(selectedCard))
@@ -1225,6 +1255,18 @@ public class BuilderGUI extends JFrame {
 		solCol.setPreferredWidth(solW);
 		TableColumn powCol = deckListTable.getColumnModel().getColumn(9);
 		powCol.setPreferredWidth(powW);
+		
+		deckListTable.addFocusListener(new FocusListener() {
+			@Override
+			public void focusGained(FocusEvent arg0) {
+			}
+			
+			@Override
+			public void focusLost(FocusEvent e) {
+				previousFocus = deckListTable;
+			}
+
+		});
 
 		deckPane = new JScrollPane(deckListTable);
 		deckPane.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);

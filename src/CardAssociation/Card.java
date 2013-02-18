@@ -863,14 +863,23 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 	
 	
 	// Hard code special cases where you may put >4 cards in the deck
-	// RG sisters
+	// FZ/SE13-24 C
+	// FZ/SE13-26 C
+	// MF/S13-034 U
+	// MF/S13-040 C
+	// ID/W10-014 C
+	// SG/W19-038 C
+	// FT/SE10-29
+	
 	public static int getMaxInDeck(Card c) {
-		if (c.getCardName().equals("鈥滃鎯冲够鍍忊�銈偟銈枫兂")
-				|| c.getCardName().contains("銉愩偢銉ャ儵(澶�")
-				|| c.getCardName().contains("銉愩偢銉ャ儵(灏�")
-				|| c.getCardName().equals("銉庛偆銈�绗�瑭�")) 
+		if (c.getID().equals("FZ/SE13-24 C")
+				|| c.getID().equals("FZ/SE13-26 C")
+				|| c.getID().equals("MF/S13-034 U")
+				|| c.getID().equals("MF/S13-040 C")
+				|| c.getID().equals("ID/W10-014 C")
+				|| c.getID().equals("SG/W19-038 C"))
 			return 50;
-		else if (c.getCardName().equals("鍏瓟灏嗚粛"))
+		else if (c.getID().contains("FT/SE10-29"))
 			return 6;
 		else
 			return 4;

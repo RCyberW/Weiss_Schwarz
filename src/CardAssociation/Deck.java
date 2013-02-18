@@ -114,9 +114,10 @@ public class Deck {
 						// Warn the user that there are 4 copies existing
 						JOptionPane.showMessageDialog(
 								frame,
-								"There are already the maximum copies (" + referenceCard.getCardCount() +") of "
+								"There are already the maximum copies (" + 
+										Card.getMaxInDeck(referenceCard) +") of "
 										+ referenceCard.getCardName() + " in the deck",
-								"Max Copies", JOptionPane.WARNING_MESSAGE);
+										"Max Copies", JOptionPane.WARNING_MESSAGE);
 					}
 				} else if (toAdd) {
 					// card does not exist, add
@@ -130,13 +131,14 @@ public class Deck {
 					Collections.sort(unique);
 				} else if (verbose) {
 					System.out.println(referenceCard.getCardName()
-							+ " has 4 copies");
+							+ " has maximum copies");
 					// Warn the user that there are 4 copies existing
 					JOptionPane.showMessageDialog(
 							frame,
-							"There are already 4 copies of "
+							"There are already the maximum copies (" + 
+									Card.getMaxInDeck(referenceCard) +") of "
 									+ referenceCard.getCardName() + " in the deck",
-							"Max Copies", JOptionPane.WARNING_MESSAGE);
+									"Max Copies", JOptionPane.WARNING_MESSAGE);
 				}
 			} else if (verbose) {
 				System.out.println("FULL DECK");
