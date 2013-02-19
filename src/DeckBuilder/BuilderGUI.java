@@ -122,8 +122,10 @@ public class BuilderGUI extends JFrame {
 	private JLabel greenCountText;
 	private JLabel redCountText;
 	private JLabel blueCountText;
-	
+
 	private JComponent previousFocus;
+
+	private JScrollPane deckThumbPane;
 
 	/**
 	 * Start the GUI client
@@ -862,7 +864,7 @@ public class BuilderGUI extends JFrame {
 					if (currentDeck.addCard(selectedCard, true))
 						refresh("addToDeck");
 				} else if (e.getKeyCode() == KeyEvent.VK_UP
-						|| e.getKeyCode() == KeyEvent.VK_DOWN){
+						|| e.getKeyCode() == KeyEvent.VK_DOWN) {
 					refresh("listBox");
 				}
 			}
@@ -890,12 +892,12 @@ public class BuilderGUI extends JFrame {
 		solCol.setPreferredWidth(35);
 		TableColumn powCol = resultListTable.getColumnModel().getColumn(7);
 		powCol.setPreferredWidth(50);
-		
+
 		resultListTable.addFocusListener(new FocusListener() {
 			@Override
 			public void focusGained(FocusEvent arg0) {
 			}
-			
+
 			@Override
 			public void focusLost(FocusEvent e) {
 				previousFocus = resultListTable;
@@ -912,7 +914,8 @@ public class BuilderGUI extends JFrame {
 
 	private void refreshResultList() {
 		resultListModel.setCardList(resultList);
-		resultListTable.scrollRectToVisible(resultListTable.getCellRect(0, 0, true));
+		resultListTable.scrollRectToVisible(resultListTable.getCellRect(0, 0,
+				true));
 
 	}
 
@@ -963,7 +966,6 @@ public class BuilderGUI extends JFrame {
 					}
 				};
 
-				// thisCard.setTransferHandler(new DragHandler(thisCard));
 				tempLab.addMouseListener(listener);
 				box.add(tempLab);
 
@@ -1191,7 +1193,7 @@ public class BuilderGUI extends JFrame {
 				if (row > -1)
 					selectedCard = cardHolder.get(deckListTable.getValueAt(row,
 							1));
-				if (e.getKeyCode() == KeyEvent.VK_UP 
+				if (e.getKeyCode() == KeyEvent.VK_UP
 						|| e.getKeyCode() == KeyEvent.VK_DOWN)
 					refresh("deckListSelect");
 				if (e.getKeyCode() == KeyEvent.VK_DELETE
@@ -1255,12 +1257,12 @@ public class BuilderGUI extends JFrame {
 		solCol.setPreferredWidth(solW);
 		TableColumn powCol = deckListTable.getColumnModel().getColumn(9);
 		powCol.setPreferredWidth(powW);
-		
+
 		deckListTable.addFocusListener(new FocusListener() {
 			@Override
 			public void focusGained(FocusEvent arg0) {
 			}
-			
+
 			@Override
 			public void focusLost(FocusEvent e) {
 				previousFocus = deckListTable;
@@ -1414,77 +1416,45 @@ public class BuilderGUI extends JFrame {
 
 		JPanel panel = new JPanel();
 		Box box = Box.createHorizontalBox();
+		box.setAlignmentX(Box.LEFT_ALIGNMENT);
 		Box vbox = Box.createVerticalBox();
 		vbox.setAlignmentX(Box.LEFT_ALIGNMENT);
 
-		// DropHandler dh = new DropHandler(currentDeck);
 
-		for (int i = 0; i < 50; i++) {
-			if (i % DECKPERLINE == 0 || i >= 50) {
-				if (i > 0) {
-					vbox.add(box);
-				}
+		for (int i = 0; i < currentDeck.getCards().size(); i++) {
+			if (i % DECKPERLINE == 0 && i > 0) {
+				vbox.add(box);
 				box = Box.createHorizontalBox();
 				box.setAlignmentX(Box.LEFT_ALIGNMENT);
 			}
-			if (i < currentDeck.getCards().size()) {
-				final Card thisCard = currentDeck.getCards().get(i);
-				JLabel tempLab = thisCard.initiateImage();
-				MouseListener listener = new MouseAdapter() {
-					public void mousePressed(MouseEvent e) {
+			final Card thisCard = currentDeck.getCards().get(i);
+			JLabel tempLab = thisCard.initiateImage();
+			MouseListener listener = new MouseAdapter() {
+				public void mousePressed(MouseEvent e) {
+					selectedCard = thisCard;
+					System.out.println(thisCard.getCardName() + " has "
+							+ thisCard.getCardCount() + " copies");
+					refresh("deckListSelect");
 
-						/*
-						 * JComponent comp = (JComponent) e.getSource();
-						 * TransferHandler handler = comp.getTransferHandler();
-						 * handler.exportAsDrag(comp, e, TransferHandler.COPY);
-						 */
-
-						selectedCard = thisCard;
-						System.out.println(thisCard.getCardName() + " has "
-								+ thisCard.getCardCount() + " copies");
-						refresh("deckListSelect");
-
-						if ((e.getClickCount() == 2 && e.getButton() == MouseEvent.BUTTON1)
-								|| (e.getClickCount() == 1 && e.getButton() == MouseEvent.BUTTON3)) {
-							currentDeck.removeCard(selectedCard);
-							refresh("removeFromDeck");
-						}
+					if ((e.getClickCount() == 2 && e.getButton() == MouseEvent.BUTTON1)
+							|| (e.getClickCount() == 1 && e.getButton() == MouseEvent.BUTTON3)) {
+						currentDeck.removeCard(selectedCard);
+						refresh("removeFromDeck");
 					}
-				};
+				}
+			};
 
-				// thisCard.setTransferHandler(dh);
-				tempLab.addMouseListener(listener);
-				Box newBox = Box.createHorizontalBox();
-				newBox.add(tempLab);
-				box.add(newBox);
-			} else {
-				/*
-				 * Card cv2 = new Card(i + "", "test" + i);
-				 * System.out.println(cv2.getCardName()); cv2.initiateImage();
-				 * cv2.addMouseListener(cv2); cv2.setTransferHandler(dh);
-				 * box.add(cv2);
-				 */
-			}
+			tempLab.addMouseListener(listener);
+			box.add(tempLab);
 
 		}
-		if ((resultList.size() - 1) % DECKPERLINE != 0)
-			vbox.add(box);
+		vbox.add(box);
 		panel.add(vbox);
 
 		JScrollPane jsp = new JScrollPane(panel);
 		jsp.setPreferredSize(new Dimension(deckListPane.getPreferredSize()));
-		/*
-		 * jsp.addMouseMotionListener(new MouseMotionListener(){
-		 * 
-		 * @Override public void mouseDragged(MouseEvent arg0) {
-		 * System.out.println("DRAG HAPPENED"); }
-		 * 
-		 * @Override public void mouseMoved(MouseEvent arg0) {
-		 * System.out.println("MOVE HAPPENED"); }
-		 * 
-		 * });
-		 */
-
+		jsp.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS);
+		
 		return jsp;
 	}
 
@@ -1496,30 +1466,22 @@ public class BuilderGUI extends JFrame {
 	 */
 	private JTabbedPane buildDeckArea() {
 		deckArea = new JTabbedPane();
-		/*
-		 * jtb.addMouseMotionListener(new MouseMotionListener(){
-		 * 
-		 * @Override public void mouseDragged(MouseEvent e) {
-		 * System.out.println("JTB DRAG"); }
-		 * 
-		 * @Override public void mouseMoved(MouseEvent e) {
-		 * 
-		 * }
-		 * 
-		 * });
-		 */
 
 		deckPane = buildDeckList();
-		// JScrollPane deckThumPane = buildDeckThumbPane(deckListPane);
-
+		deckThumbPane = buildDeckThumbPane(deckPane);
+		deckArea = new JTabbedPane();
 		deckArea.addTab("View 1", deckPane);
-		// jtb.addTab("View 2", deckThumPane);
+		deckArea.addTab("View 2", deckThumbPane);
 
 		return deckArea;
 	}
 
 	private void refreshDeckArea() {
+		int resultThumbIndex = deckArea.indexOfComponent(deckThumbPane);
+		resultHeader.setText("Card count: " + resultList.size());
 		refreshDeckList();
+		deckThumbPane = buildDeckThumbPane(deckPane);
+		deckArea.setComponentAt(resultThumbIndex, deckThumbPane);
 	}
 
 	// ///////////////////////
