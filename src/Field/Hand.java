@@ -69,6 +69,9 @@ public class Hand extends FieldElement {
 			}
 			thisCard.toCanvas().paint(g2);
 		}
+		
+		System.out.println("HAND " + handCards);
+		
 		g2.setFont(new Font("TimesRoman", Font.PLAIN, 12));
 		g2.setColor(Color.BLUE);
 

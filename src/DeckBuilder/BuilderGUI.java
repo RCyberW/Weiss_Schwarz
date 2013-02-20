@@ -8,10 +8,8 @@
  */
 
 /**
- * TODO:
  * drag and drop (not possible currently, need research)
  * print deck with card translation and image (research)
- * deck list does not display correct card when sorted
  */
 
 package DeckBuilder;
@@ -168,6 +166,7 @@ public class BuilderGUI extends JFrame {
 	/**
 	 * Building search box
 	 */
+	@SuppressWarnings({ "rawtypes", "unchecked" })
 	private void buildSearchBox() {
 		Box row1 = Box.createHorizontalBox();
 		Box row2 = Box.createHorizontalBox();
@@ -992,15 +991,15 @@ public class BuilderGUI extends JFrame {
 		resultPane = buildResultList();
 		resultThumbPane = buildResultThumbPane(resultPane);
 		resultArea = new JTabbedPane();
-		resultArea.add("View 1", resultPane);
-		resultArea.add("View 2", resultThumbPane);
+		resultArea.add("List", resultPane);
+		resultArea.add("Thumb", resultThumbPane);
 
 		return resultArea;
 	}
 
 	private void refreshResultArea() {
 		int resultThumbIndex = resultArea.indexOfComponent(resultThumbPane);
-		resultHeader.setText("Card count: " + resultList.size());
+		resultHeader.setText("Result count: " + resultList.size());
 		refreshResultList();
 		resultThumbPane = buildResultThumbPane(resultPane);
 		resultArea.setComponentAt(resultThumbIndex, resultThumbPane);
@@ -1470,15 +1469,14 @@ public class BuilderGUI extends JFrame {
 		deckPane = buildDeckList();
 		deckThumbPane = buildDeckThumbPane(deckPane);
 		deckArea = new JTabbedPane();
-		deckArea.addTab("View 1", deckPane);
-		deckArea.addTab("View 2", deckThumbPane);
+		deckArea.addTab("List", deckPane);
+		deckArea.addTab("Thumb", deckThumbPane);
 
 		return deckArea;
 	}
 
 	private void refreshDeckArea() {
 		int resultThumbIndex = deckArea.indexOfComponent(deckThumbPane);
-		resultHeader.setText("Card count: " + resultList.size());
 		refreshDeckList();
 		deckThumbPane = buildDeckThumbPane(deckPane);
 		deckArea.setComponentAt(resultThumbIndex, deckThumbPane);
@@ -1617,7 +1615,7 @@ public class BuilderGUI extends JFrame {
 		buildSearchBox();
 		// buildMenu();
 		buildCardInfo(selectedCard);
-		resultHeader = new JLabel("Card count: " + resultList.size());
+		resultHeader = new JLabel("Result count: " + resultList.size());
 		Box headerBox = Box.createHorizontalBox();
 		headerBox.add(Box.createRigidArea(new Dimension(10, 0)));
 		headerBox.add(resultHeader);

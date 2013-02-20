@@ -14,14 +14,13 @@ import java.awt.Dimension;
 import java.awt.GridLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.awt.event.FocusEvent;
+import java.awt.event.FocusListener;
 import java.io.File;
-import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.ObjectInputStream;
 import java.io.Serializable;
-import java.net.MalformedURLException;
-import java.net.URL;
 import java.util.ArrayList;
 import java.util.HashMap;
 
@@ -70,15 +69,15 @@ public class Player implements Serializable {
 
 	// Player Constructor initializes all UI fields
 	public Player() {
-		playerID = (int) (Math.random() * 100);
-		userFrame = new JFrame("Joe" + playerID);
+		playerID = (int) (Math.random() * 10000);
+		userFrame = new JFrame("Testificate #" + playerID);
 		tabbedPane = new JTabbedPane();
 		deckPane = new JPanel();
 		loggedOut = true;
 
 		selectedDeck = "";
 
-		playGame = new JButton("Find Game");
+		playGame = new JButton("Launch Solo");
 		playGame.addActionListener(new ActionListener() {
 
 			@Override
@@ -138,18 +137,17 @@ public class Player implements Serializable {
 			final JButton deckSelect = new JButton(deckTitle);
 			deckSelect.addActionListener(new ActionListener() {
 
-				@SuppressWarnings("deprecation")
 				@Override
 				public void actionPerformed(ActionEvent e) {
-					selectedDeck = deckSelect.getLabel();
-					System.out.println("Deck Selected : " + selectedDeck);
+					selectedDeck = deckSelect.getText();
+					// System.out.println("Deck Selected : " + selectedDeck);
 					// setReady();
 					// startDeckEdit();
 				}
 
 			});
 			deckPane.add(deckSelect);
-			System.out.println(playerID + " : " + deckTitle);
+			// System.out.println(playerID + " : " + deckTitle);
 		}
 
 		final JButton newDeck = new JButton("New_Deck");
@@ -216,14 +214,16 @@ public class Player implements Serializable {
 		if (currentGame == null) {
 			currentGame = new Game(this);
 			currentGame.testGame();
-		} else {
-			System.out.println(currentGame.getPlayersID());
-			currentGame.playGame();
 		}
+		// else {
+		// System.out.println(currentGame.getPlayersID());
+		// currentGame.playGame();
+		// }
 
 		f.add(currentGame, BorderLayout.NORTH);
 		f.pack();
 		f.setVisible(true);
+		// currentGame = null;
 	}
 
 	public NewMainField getField() {
@@ -236,9 +236,7 @@ public class Player implements Serializable {
 
 	@SuppressWarnings("unchecked")
 	private void deserializer() {
-
 		InputStream fileInput;
-		;
 		ObjectInputStream objectInput;
 
 		try {
@@ -257,10 +255,34 @@ public class Player implements Serializable {
 
 	public void buildAndDisplay() {
 		deckPane.setSize(new Dimension(500, 500));
-
-		deckPane.setLayout(new GridLayout(3, 5));
 		displayDecks();
+		
+		int dimension = (int) Math.ceil(Math.sqrt(playerDecks.size())); 
+		deckPane.setLayout(new GridLayout(dimension, dimension));
 
+		deckPane.addFocusListener(new FocusListener() {
+
+			@Override
+			public void focusGained(FocusEvent arg0) {
+				deckPane.removeAll();
+				deckPane.validate();
+				displayDecks();
+			}
+
+			@Override
+			public void focusLost(FocusEvent arg0) {
+				// TODO Auto-generated method stub
+
+			}
+
+		});
+
+		if (builderGui == null) {
+			// builderGui = new BuilderGUI();
+			// builderGui.init();
+		}
+
+		// tabbedPane.addTab("Builder", builderGui.getContentPane());
 		tabbedPane.addTab("Game", playGame);
 		tabbedPane.addTab("Deck", deckPane);
 
@@ -277,14 +299,10 @@ public class Player implements Serializable {
 	private void startDeckEdit() {
 		if (builderGui == null) {
 			builderGui = new BuilderGUI();
-			
-			// builderGui.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 			builderGui.init();
 			builderGui.setLocationRelativeTo(null);
-			// builderGui.pack();
 			builderGui.setVisible(true);
 		}
-		// builderGui.loadDefaultDeck(selectedDeck);
 	}
 
 	public void setSessionID(int playerCount) {
@@ -347,9 +365,26 @@ public class Player implements Serializable {
 				}
 
 			});
+			deckPane.addFocusListener(new FocusListener() {
 
-			tabbedPane.addTab("Game", playGame);
+				@Override
+				public void focusGained(FocusEvent arg0) {
+					deckPane.removeAll();
+					deckPane.validate();
+					displayDecks();
+				}
+
+				@Override
+				public void focusLost(FocusEvent arg0) {
+					// TODO Auto-generated method stub
+
+				}
+
+			});
+
+			// tabbedPane.addTab("Builder", builderGui);
 			tabbedPane.addTab("Deck", deckPane);
+			tabbedPane.addTab("Game", playGame);
 		}
 	}
 
@@ -359,10 +394,6 @@ public class Player implements Serializable {
 
 	public int getPlayerID() {
 		return playerID;
-	}
-	
-	public JFrame getGameWindow() {
-		return f;
 	}
 
 }

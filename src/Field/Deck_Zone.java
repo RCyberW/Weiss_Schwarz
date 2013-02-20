@@ -54,6 +54,7 @@ public class Deck_Zone extends FieldElement {
 
 	public Card drawCard() {
 		Card card = deckZone.remove(deckZone.size() - 1);
+		System.out.println("DRAW CARD " + card);
 		associatedPlayer.getHand().setCard(card);
 		return card;
 	}
