@@ -86,22 +86,35 @@ public class Random_Zone extends FieldElement {
 		});
 		popmenu.add(handAction);
 		
-		JMenuItem deckAction = new JMenuItem("all to deck");
-		deckAction.addActionListener(new ActionListener() {
+		JMenuItem deckTopAction = new JMenuItem("all to deck top");
+		deckTopAction.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				toDeck();
+				toDeck(true);
 				associatedPlayer.getField().repaintElements();
 			}
 		});
-		popmenu.add(deckAction);
+		popmenu.add(deckTopAction);
+		
+		JMenuItem deckBotAction = new JMenuItem("all to deck bottom");
+		deckBotAction.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				toDeck(false);
+				associatedPlayer.getField().repaintElements();
+			}
+		});
+		popmenu.add(deckBotAction);
 
 		popmenu.show(e.getComponent(), e.getX(), e.getY());
 	}
 
-	protected void toDeck() {
+	protected void toDeck(boolean isTop) {
 		for (int i = 0; i < thisCard.size(); i++) {
+			if(isTop)
 			associatedPlayer.getField().getDeckZone().setCard(thisCard.get(i));
+			else
+				associatedPlayer.getField().getDeckZone().setBotCard(thisCard.get(i));
 		}
 		thisCard.clear();
 		associatedPlayer.getField().repaint();

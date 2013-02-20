@@ -115,46 +115,15 @@ public class Deck_Zone extends FieldElement {
 		});
 		popmenu.add(checkAction); // move to waiting
 									// room/top/bottom/reveal
-		JMenuItem millAction = new JMenuItem("brainstorm");
-		millAction.addActionListener(new ActionListener() {
+		JMenuItem revealAction = new JMenuItem("reveal top");
+		revealAction.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				resolutionCard();
 				associatedPlayer.getField().repaintElements();
 			}
 		});
-		popmenu.add(millAction); // goes to resolution
-
-		JMenuItem triggerAction = new JMenuItem("trigger");
-		triggerAction.addActionListener(new ActionListener() {
-			@Override
-			public void actionPerformed(ActionEvent e) {
-				resolutionCard();
-				associatedPlayer.getField().repaintElements();
-			}
-		});
-		popmenu.add(triggerAction); // goes to resolution
-
-		JMenuItem damageAction = new JMenuItem("damage check");
-		damageAction.addActionListener(new ActionListener() {
-			@Override
-			public void actionPerformed(ActionEvent e) {
-				resolutionCard();
-				associatedPlayer.getField().repaintElements();
-			}
-		});
-		popmenu.add(damageAction); // goes to resolution
-
-		JMenuItem searchAction = new JMenuItem("search deck");
-		searchAction.addActionListener(new ActionListener() {
-
-			@Override
-			public void actionPerformed(ActionEvent arg0) {
-				displayDeck();
-			}
-
-		});
-		popmenu.add(searchAction); // search the deck
+		popmenu.add(revealAction); // goes to resolution
 
 		popmenu.show(e.getComponent(), e.getX(), e.getY());
 	}
@@ -163,18 +132,6 @@ public class Deck_Zone extends FieldElement {
 		System.out.println(showCard());
 		Card card = showCard();
 		deckZone.remove(deckZone.size() - 1);
-		associatedPlayer.getField().getRandomZone().setCard(card);
-	}
-
-	private void stockCard() {
-		Card card = showCard();
-		removeCard(card);
-		associatedPlayer.getField().getRandomZone().setCard(card);
-	}
-
-	private void discardCard() {
-		Card card = showCard();
-		removeCard(card);
 		associatedPlayer.getField().getRandomZone().setCard(card);
 	}
 
@@ -241,5 +198,9 @@ public class Deck_Zone extends FieldElement {
 	// }
 	public boolean isList() {
 		return true;
+	}
+
+	public void setBotCard(Card card) {
+		deckZone.add(0, card);
 	}
 }
