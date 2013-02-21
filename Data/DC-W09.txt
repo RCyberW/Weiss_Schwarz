@@ -315,7 +315,7 @@ Color: Yellow
 Cost: 0
 Trigger: 0
 Power: 2500
-Soul: N/A
+Soul: 1
 Traits:: Magic 魔法,
 Card Text/Abilities:
 【A】［①］When this card comes on Stage from hand, you may pay this cost. If you do, this card gets +1 Soul. At the end of turn, put this card to Memory.

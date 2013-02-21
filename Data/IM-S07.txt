@@ -568,7 +568,7 @@ Color: Green
 Cost: 2
 Trigger: 1
 Power: 4500
-Soul: N/A
+Soul: 1
 Traits:: ,_Music 音楽
 Card Text/Abilities:
 【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、パワーを＋1000。

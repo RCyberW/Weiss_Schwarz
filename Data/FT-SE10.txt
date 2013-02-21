@@ -568,7 +568,7 @@ Color: Red
 Cost: 0
 Trigger: 0
 Power: 1500
-Soul: N/A
+Soul: 1
 Traits:: ,
 Card Text/Abilities:
 【C】All your other 《竜》 Characters gain 『【A】ENCORE［②］』.

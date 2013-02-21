@@ -44,7 +44,7 @@ Color: Yellow
 Cost: 1
 Trigger: 1
 Power: 8000
-Soul: N/A
+Soul: 1
 Traits:: Detective 探偵,_Sweets お菓子
 Card Text/Abilities:
 【C】 During your turn, this card gets +1000 Power.

@@ -311,7 +311,6 @@ public class Importer {
 
 	public static void main(String[] args) {
 		Importer importer = new Importer();
-		System.getProperty("OS.name");
 
 		File file = new File("Data");
 		if (file.isDirectory()) {

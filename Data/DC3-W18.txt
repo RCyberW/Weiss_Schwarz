@@ -1178,7 +1178,7 @@ Color: Red
 Cost: 0
 Trigger: 0
 Power: 500
-Soul: N/A
+Soul: 1
 Traits:: Magic 魔法,_Student Council 生徒会
 Card Text/Abilities:
 【A】 When this card is placed on Stage from Hand, you may place the top 3 cards of your Deck into Waiting Room.

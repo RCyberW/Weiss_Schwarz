@@ -742,7 +742,7 @@ Color: Green
 Cost: 2
 Trigger: 2
 Power: 8500
-Soul: N/A
+Soul: 2
 Traits:: Discipline Committee 風紀委員,_Eyepatch 眼帯
 Card Text/Abilities:
 【A】［Place 1 「ちっぽけな幸せ」 from Hand into Waiting Room］At the beginning of any player's Encore Step, if this card is in the Front Row, you may pay the cost. If you did, choose 1 of your other Characters, REST it, search your Deck for up to 1 Level 2 or below Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
@@ -2042,7 +2042,7 @@ Color: Blue
 Cost: 0
 Trigger: 0
 Power: 5000
-Soul: N/A
+Soul: 1
 Traits:: Class Rep 委員長,_Occult オカルト
 Card Text/Abilities:
 【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay the cost. If you did, place this card in its previous slot in REST)
@@ -2827,7 +2827,7 @@ Color: Blue
 Cost: 0
 Trigger: 0
 Power: 5000
-Soul: N/A
+Soul: 1
 Traits:: Class Rep 委員長,_Occult オカルト
 Card Text/Abilities:
 【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)

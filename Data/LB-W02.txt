@@ -826,7 +826,7 @@ Color: Green
 Cost: 1
 Trigger: 1
 Power: 1500
-Soul: N/A
+Soul: 1
 Traits:: Sports スポーツ,
 Card Text/Abilities:
 【C】All your other 「“最強の男児”謙吾」 get +1000 Power.

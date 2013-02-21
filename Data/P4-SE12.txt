@@ -717,7 +717,7 @@ Color: Blue
 Cost: 1
 Trigger: 1
 Power: 7500
-Soul: N/A
+Soul: 1
 Traits:: Shadow 影,_Animal 動物
 Card Text/Abilities:
 【A】［Place this card into Waiting Room］ When 「キントキドウジ発動」 is placed into your Climax Slot, you may pay the cost.If you did, place the top card of your Clock into Waiting Room, search your Deck for up to 1 「ブリリアント クマ」, place it into this card's previous slot. Shuffle your Deck afterwards.
@@ -1190,7 +1190,7 @@ Color: Blue
 Cost: 0
 Trigger: 0
 Power: 500
-Soul: N/A
+Soul: 1
 Traits:: Animal 動物,_Shadow 影
 Card Text/Abilities:
 【C】 All your other 《メガネ》 Characters get +500 Power.

@@ -198,7 +198,7 @@ public class BuilderGUI extends JFrame {
 
 		Trigger[] triggerSelections = null;
 		triggerSelections = Trigger.values();
-		final JComboBox triggerList = new JComboBox(triggerSelections);
+		final JComboBox<Trigger> triggerList = new JComboBox<Trigger>(triggerSelections);
 		triggerList.setSelectedItem(null);
 
 		final KeyListener searchFieldListener = new KeyListener() {
@@ -991,8 +991,8 @@ public class BuilderGUI extends JFrame {
 		resultPane = buildResultList();
 		resultThumbPane = buildResultThumbPane(resultPane);
 		resultArea = new JTabbedPane();
-		resultArea.add("List", resultPane);
-		resultArea.add("Thumb", resultThumbPane);
+		resultArea.add("List View", resultPane);
+		resultArea.add("Thumbnail View", resultThumbPane);
 
 		return resultArea;
 	}
@@ -1062,10 +1062,16 @@ public class BuilderGUI extends JFrame {
 			}
 		});
 
+		box.add(Box.createHorizontalGlue());
 		box.add(plusOne);
+		box.add(Box.createRigidArea(new Dimension(20,0)));
 		box.add(plusFour);
+		box.add(Box.createRigidArea(new Dimension(20,0)));
 		box.add(minusOne);
+		box.add(Box.createRigidArea(new Dimension(20,0)));
 		box.add(minusFour);
+		box.add(Box.createHorizontalGlue());
+		box.setPreferredSize(new Dimension(300,50));
 		return box;
 	}
 
@@ -1469,8 +1475,9 @@ public class BuilderGUI extends JFrame {
 		deckPane = buildDeckList();
 		deckThumbPane = buildDeckThumbPane(deckPane);
 		deckArea = new JTabbedPane();
-		deckArea.addTab("List", deckPane);
-		deckArea.addTab("Thumb", deckThumbPane);
+		deckArea.addTab("List View", deckPane);
+		deckArea.addTab("Thumbnail View", deckThumbPane);
+
 
 		return deckArea;
 	}

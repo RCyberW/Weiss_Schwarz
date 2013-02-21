@@ -1887,7 +1887,7 @@ Color: Blue
 Cost: 1
 Trigger: 0
 Power: 6000
-Soul: N/A
+Soul: 1
 Traits:: Strangeness 怪異,
 Card Text/Abilities:
 【C】During your opponent's turn, this card gets +1000 Power.

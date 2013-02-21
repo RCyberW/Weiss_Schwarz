@@ -90,7 +90,7 @@ Color: Yellow
 Cost: 0
 Trigger: 0
 Power: 2000
-Soul: N/A
+Soul: 1
 Traits:: Mystery 謎,_Maid メイド
 Card Text/Abilities:
 【A】 When this card attacks, choose 1 of your Characters, during this turn, it gets +1500 Power.

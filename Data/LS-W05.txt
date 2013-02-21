@@ -1993,7 +1993,7 @@ Color: Blue
 Cost: 1
 Trigger: 1
 Power: 8500
-Soul: N/A
+Soul: 1
 Traits:: Otaku オタク,_Glasses メガネ
 Card Text/Abilities:
 NONE
@@ -2465,7 +2465,7 @@ Color: Green
 Cost: 0
 Trigger: 0
 Power: 3000
-Soul: N/A
+Soul: 1
 Traits:: Twins 双子,_Sweets お菓子
 Card Text/Abilities:
 Flavor Text:
