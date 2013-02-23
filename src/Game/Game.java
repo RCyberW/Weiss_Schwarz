@@ -426,13 +426,8 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 		Card c = defendingField.getSelected();
 
 		if (c != null && !hasClocked) {
-
 			// if clock has 7 or more, level up
 			levelUp(c);
-
-			// draw twice
-			defendingField.getDeckZone().drawCard();
-			defendingField.getDeckZone().drawCard();
 			hasClocked = true;
 		}
 	}
@@ -523,19 +518,19 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 		System.out.println("game click: " + e.getX() + ", " + e.getY());
 		if (gameStatus == 2) {
 		} else {
-			if (nextRect != null && nextRect.contains(e.getX(), e.getY())) {
+			if (nextRect != null && nextRect.contains(e.getPoint())) {
 				nextPhase();
 			} else {
 				// currentPlayer.getHand().mouseClicked(e);
 				player1.getHand().mouseReleased(e);
 				defendingField.mouseReleased(e);
 
-				if (// currentPlayer.getCurrentPhase() == Phase.CLOCK_PHASE
-				player1.getCurrentPhase() == Phase.CLOCK_PHASE
-						&& e.getButton() == MouseEvent.BUTTON3) {
-					if (!hasClocked)
-						nextPhase();
-				}
+//				if (// currentPlayer.getCurrentPhase() == Phase.CLOCK_PHASE
+//				player1.getCurrentPhase() == Phase.CLOCK_PHASE
+//						&& e.getButton() == MouseEvent.BUTTON3) {
+//					if (!hasClocked)
+//						nextPhase();
+//				}
 			}
 		}
 		repaint();

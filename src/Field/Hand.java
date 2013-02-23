@@ -4,8 +4,13 @@ import java.awt.Color;
 import java.awt.Font;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import java.awt.event.MouseEvent;
 import java.util.ArrayList;
+
+import javax.swing.JMenuItem;
+import javax.swing.JPopupMenu;
 
 import CardAssociation.Card;
 import CardAssociation.Type;
@@ -69,13 +74,149 @@ public class Hand extends FieldElement {
 			}
 			thisCard.toCanvas().paint(g2);
 		}
-		
+
 		System.out.println("HAND " + handCards);
-		
+
 		g2.setFont(new Font("TimesRoman", Font.PLAIN, 12));
 		g2.setColor(Color.BLUE);
 
 		g2.drawString("Player Hand", this.x + 10, this.y + 20);
+	}
+
+	private void constructPopup(MouseEvent e) {
+
+		final JPopupMenu popmenu = new JPopupMenu();
+
+		JMenuItem fieldAction = new JMenuItem("to field");
+		fieldAction.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				toField();
+				associatedPlayer.getField().repaintElements();
+			}
+		});
+		popmenu.add(fieldAction);
+
+		JMenuItem waitingRoomAction = new JMenuItem("to waiting room");
+		waitingRoomAction.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				toWaitingRoom();
+				associatedPlayer.getField().repaintElements();
+			}
+		});
+		popmenu.add(waitingRoomAction);
+
+		JMenuItem deckTopAction = new JMenuItem("to top deck");
+		deckTopAction.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				toDeck(true);
+				associatedPlayer.getField().repaintElements();
+			}
+		});
+		popmenu.add(deckTopAction);
+
+		JMenuItem deckBotAction = new JMenuItem("to bottom deck");
+		deckBotAction.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				toDeck(false);
+				associatedPlayer.getField().repaintElements();
+			}
+		});
+		popmenu.add(deckBotAction);
+
+		JMenuItem memoryAction = new JMenuItem("to memory");
+		memoryAction.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				toMemory();
+				associatedPlayer.getField().repaintElements();
+			}
+		});
+		popmenu.add(memoryAction);
+
+		JMenuItem clockAction = new JMenuItem("to clock");
+		clockAction.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				toClock();
+				associatedPlayer.getField().repaintElements();
+			}
+		});
+		popmenu.add(clockAction);
+
+		popmenu.show(e.getComponent(), e.getX(), e.getY());
+	}
+
+	private void toMemory() {
+		associatedPlayer.getField().getMemoryZone().setCard(selected);
+	}
+
+	private void toDeck(boolean toTop) {
+		if (toTop)
+			associatedPlayer.getField().getDeckZone().setCard(selected);
+		else
+			associatedPlayer.getField().getDeckZone().setBotCard(selected);
+	}
+
+	private void toWaitingRoom() {
+		associatedPlayer.getField().getWaitingRoom().setCard(selected);
+	}
+
+	private void toClock() {
+		if (selectedIndex > -1) {
+			Card temp = handCards.remove(selectedIndex);
+			selectedIndex = -1;
+			associatedPlayer.getField().getClockZone().setCard(temp);
+			if (associatedPlayer.getCurrentPhase() == Phase.CLOCK_PHASE) {
+				associatedPlayer.getField().getDeckZone().drawCard();
+				associatedPlayer.getField().getDeckZone().drawCard();
+			}
+		}
+
+	}
+
+	private void toField() {
+		if (associatedPlayer.getCurrentPhase() == Phase.MAIN_PHASE) {
+			if (selected.getT() == Type.CHARACTER) {
+				if (!associatedPlayer.getField().getFrontRow1().containCards()) {
+					associatedPlayer.getField().getFrontRow1()
+							.setCard(selected);
+				} else if (!associatedPlayer.getField().getFrontRow2()
+						.containCards()) {
+					associatedPlayer.getField().getFrontRow2()
+							.setCard(selected);
+				} else if (!associatedPlayer.getField().getFrontRow3()
+						.containCards()) {
+					associatedPlayer.getField().getFrontRow3()
+							.setCard(selected);
+				} else if (!associatedPlayer.getField().getBackRow1()
+						.containCards()) {
+					associatedPlayer.getField().getBackRow1().setCard(selected);
+				} else if (!associatedPlayer.getField().getBackRow2()
+						.containCards()) {
+					associatedPlayer.getField().getBackRow2().setCard(selected);
+				} else {
+					selectedIndex = -1;
+				}
+				if (selectedIndex > -1) {
+					handCards.remove(selectedIndex);
+				}
+			} else if (selected.getT() == Type.EVENT) {
+				associatedPlayer.getField().getRandomZone().setCard(selected);
+				if (selectedIndex > -1) {
+					handCards.remove(selectedIndex);
+				}
+			}
+		} else if (associatedPlayer.getCurrentPhase() == Phase.CLIMAX_PHASE
+				&& selected.getT() == Type.CLIMAX) {
+			associatedPlayer.getField().getClimaxZone().setCard(selected);
+			if (selectedIndex > -1) {
+				handCards.remove(selectedIndex);
+			}
+		}
 	}
 
 	@Override
@@ -111,73 +252,16 @@ public class Hand extends FieldElement {
 	public void mouseReleased(MouseEvent e) {
 		if (containCards() == false)
 			return;
-		Card card = selectCard(e);
-		if (card == null)
+		selected = selectCard(e);
+		if (selected == null)
 			return;
 
 		if (e.getButton() == MouseEvent.BUTTON3) {
-			if (associatedPlayer.getCurrentPhase() == Phase.CLOCK_PHASE) {
-				if (selectedIndex > -1) {
-					Card temp = handCards.remove(selectedIndex);
-					selectedIndex = -1;
-					System.out.println(temp.getCardName() + " was clocked");
-					System.out.println("NEW_HAND " + handCards);
-					associatedPlayer.getField().setSelected(card);
-				}
-			} else if (associatedPlayer.getCurrentPhase() == Phase.MAIN_PHASE) {
-				if (card.getT() == Type.CHARACTER) {
-					if (!associatedPlayer.getField().getFrontRow1()
-							.containCards()) {
-						associatedPlayer.getField().getFrontRow1()
-								.setCard(card);
-					} else if (!associatedPlayer.getField().getFrontRow2()
-							.containCards()) {
-						associatedPlayer.getField().getFrontRow2()
-								.setCard(card);
-					} else if (!associatedPlayer.getField().getFrontRow3()
-							.containCards()) {
-						associatedPlayer.getField().getFrontRow3()
-								.setCard(card);
-					} else if (!associatedPlayer.getField().getBackRow1()
-							.containCards()) {
-						associatedPlayer.getField().getBackRow1().setCard(card);
-					} else if (!associatedPlayer.getField().getBackRow2()
-							.containCards()) {
-						associatedPlayer.getField().getBackRow2().setCard(card);
-					} else {
-						selectedIndex = -1;
-					}
-					if (selectedIndex > -1) {
-						handCards.remove(selectedIndex);
-						associatedPlayer.getField().repaint();
-					}
-				} else if (card.getT() == Type.EVENT) {
-					associatedPlayer.getField().getRandomZone().setCard(card);
-					if (selectedIndex > -1) {
-						handCards.remove(selectedIndex);
-					}
-				}
-			} else if (associatedPlayer.getCurrentPhase() == Phase.CLIMAX_PHASE
-					&& card.getT() == Type.CLIMAX) {
-				associatedPlayer.getField().getClimaxZone().setCard(card);
-				if (selectedIndex > -1) {
-					handCards.remove(selectedIndex);
-				}
-			} else if (associatedPlayer.getCurrentPhase() == Phase.ATTACK_PHASE
-					&& card.getT() == Type.CHARACTER) {
-				/*
-				 * associatedPlayer.getField().getRandomZone().setCard(card); if
-				 * (selectedIndex > -1) { handCards.remove(selectedIndex); }
-				 */
-			}
-
+			constructPopup(e);
 		} else if (e.getButton() == MouseEvent.BUTTON1) {
-			/*
-			 * if (containCards()) { card = selectCard(e); }
-			 */
 			repaint();
 		}
-		selected = card;
+		// selected = card;
 
 	}
 

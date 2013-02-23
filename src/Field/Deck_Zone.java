@@ -92,8 +92,7 @@ public class Deck_Zone extends FieldElement {
 				associatedPlayer.getField().repaintElements();
 			}
 		});
-		popmenu.add(drawAction); // prompt for moving cards from hand
-									// to top of deck
+		popmenu.add(drawAction); // draw action
 
 		JMenuItem shuffleAction = new JMenuItem("shuffle");
 		shuffleAction.addActionListener(new ActionListener() {
@@ -124,8 +123,34 @@ public class Deck_Zone extends FieldElement {
 			}
 		});
 		popmenu.add(revealAction); // goes to resolution
+		
+		JMenuItem stockAction = new JMenuItem("stock top");
+		stockAction.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				stockTop();
+				associatedPlayer.getField().repaintElements();
+			}
+		});
+		popmenu.add(stockAction); // goes to stock
+		
+		JMenuItem searchAction = new JMenuItem("search deck");
+		searchAction.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				displayDeck();
+				associatedPlayer.getField().repaintElements();
+			}
+		});
+		popmenu.add(searchAction); // goes to stock
 
 		popmenu.show(e.getComponent(), e.getX(), e.getY());
+	}
+
+	private void stockTop() {
+		Card card = showCard();
+		deckZone.remove(deckZone.size() - 1);
+		associatedPlayer.getField().getStockZone().setCard(card);
 	}
 
 	private void resolutionCard() {

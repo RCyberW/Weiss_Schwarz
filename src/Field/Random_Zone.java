@@ -75,7 +75,7 @@ public class Random_Zone extends FieldElement {
 			}
 		});
 		popmenu.add(stockAction);
-		
+
 		JMenuItem handAction = new JMenuItem("all to hand");
 		handAction.addActionListener(new ActionListener() {
 			@Override
@@ -85,7 +85,7 @@ public class Random_Zone extends FieldElement {
 			}
 		});
 		popmenu.add(handAction);
-		
+
 		JMenuItem deckTopAction = new JMenuItem("all to deck top");
 		deckTopAction.addActionListener(new ActionListener() {
 			@Override
@@ -95,7 +95,7 @@ public class Random_Zone extends FieldElement {
 			}
 		});
 		popmenu.add(deckTopAction);
-		
+
 		JMenuItem deckBotAction = new JMenuItem("all to deck bottom");
 		deckBotAction.addActionListener(new ActionListener() {
 			@Override
@@ -110,11 +110,13 @@ public class Random_Zone extends FieldElement {
 	}
 
 	protected void toDeck(boolean isTop) {
-		for (int i = 0; i < thisCard.size(); i++) {
-			if(isTop)
-			associatedPlayer.getField().getDeckZone().setCard(thisCard.get(i));
+		for (int i = thisCard.size() - 1; i >= 0; i--) {
+			if (isTop)
+				associatedPlayer.getField().getDeckZone()
+						.setCard(thisCard.get(i));
 			else
-				associatedPlayer.getField().getDeckZone().setBotCard(thisCard.get(i));
+				associatedPlayer.getField().getDeckZone()
+						.setBotCard(thisCard.get(i));
 		}
 		thisCard.clear();
 		associatedPlayer.getField().repaint();
