@@ -59,7 +59,7 @@ public class Hand extends FieldElement {
 	public void paint(Graphics g, Card c) {
 		Graphics2D g2 = (Graphics2D) g;
 		g2.setColor(Color.pink);
-		g2.setBackground(Color.pink);
+		g2.setBackground(Color.getHSBColor(61, 87, 64));
 		g2.fillRect(0, 0, Game.maxWidth, Game.maxHeight);
 		for (int i = 0; i < handCards.size(); i++) {
 			Card thisCard = handCards.get(i);
