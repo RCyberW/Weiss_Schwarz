@@ -338,3 +338,43 @@ Flavor Text:
 
 ==========================
 
+こそばゆい未来 姫乃
+DC3/W23-027SP SP
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand, look at up to 3 cards from the top of your Deck, choose up to 1 card, add it to Hand. Place the remaining cards into Waiting Room.
+【A】［Place 1 card from Hand into Waiting Room］When 「かけがえのない家族」 is placed into your Climax slot, if this card is the Front Row, you may pay the Cost. If you did, choose up to 1 《魔法》 Character from your Clock, place it into any slot on Stage.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加える。残りのカードを控え室に置く。
+【自】［手札を1枚控え室に置く］ あなたのクライマックス置場に「かけがえのない家族」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場の《魔法》のキャラを1枚選び、舞台の好きな枠に置く。
+Flavor Text:
+
+==========================
+
+夢のような夜 葵
+DC3/W23-077SP SP
+Type: Character
+Level: 3
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Newspaper 新聞,_Waitress ウェイトレ
+Card Text/Abilities:
+【A】 When a Climax is placed into your Climax slot, during this turn, this card gets +1500 Power.
+【A】When 「“お兄ちゃん”へ」 is placed into Climax slot, if this card is in the Front Row, you may choose 1 「“お兄ちゃん”へ」 from your Waiting Room, return it to Deck. Shuffle your Deck afterwards.
+【A】When this card is being Front Attacked, look at the top card of your Deck, place it on top of the Deck or into Waiting Room.
+【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。
+【自】 あなたのクライマックス置場に「“お兄ちゃん”へ」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室の「“お兄ちゃん”へ」を1枚選び、山札に戻してよい。そうしたら、その山札をシャッフルする。
+【自】 このカードがフロントアタックされた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。
+Flavor Text:
+
+==========================
+

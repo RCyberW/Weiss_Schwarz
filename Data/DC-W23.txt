@@ -2157,3 +2157,553 @@ Flavor Text:
 
 ==========================
 
+柔らかな笑顔 音姫
+DC/W23-001SP SP
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【C】RECOLLECTION If you have 2 or more cards in your Memory, this card gets +1000 Power, +1 Soul.
+【A】When this card attacks, if 「幸せの予感」is in the Climax slot, choose up to 1 「柔らかな笑顔 音姫」 from your Waiting Room, place it into Memory, during this turn, this card gets +1000 Power.
+【永】 記憶 あなたの思い出が2枚以上なら、このカードのパワーを＋1000し、ソウルを＋1。
+【自】 このカードがアタックした時、クライマックス置場に「幸せの予感」があるなら、あなたは自分の控え室の「柔らかな笑顔 音姫」を1枚まで選び、思い出にし、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+
+==========================
+
+オトナになった証拠 さくら
+DC/W23-002R RRR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】This ability can only be activated 1 time each turn. When you used 【S】, during this turn, this card gets +1000 Power.
+【S】［REST 1 of your 《魔法》 Character］During this turn, this card gets +1000 Power
+【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋1000。
+【起】［あなたの《魔法》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+うん、ボクはお兄ちゃんを愛しているからね
+
+==========================
+
+甘いひととき 音姫
+DC/W23-003S SR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+【A】［① Place 1 card from Hand into Waiting Room］When this card is placed on Stage from Hand, you may pay the cost. If you did, search up to 1 《魔法》Character from your Deck, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【自】［① 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《魔法》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+
+==========================
+
+優しい温もり シャルル
+DC/W23-004R RRR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+【A】When your other 《魔法》 Character attacks, during this turn, this card gets +1000 Power.
+【A】 ENCORE ［Place 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】 他のあなたの《魔法》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+
+==========================
+
+新しい魔法 リッカ
+DC/W23-005R RRR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Student Council 生徒会
+Card Text/Abilities:
+【S】 CONCENTRATE ［①］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose 1 of your 《生徒会》 Character, during this turn, it gets +2000 Power.
+【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の《生徒会》のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+
+==========================
+
+最後の刻 アイシア
+DC/W23-006S SR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 5000
+Soul: 1
+Traits:: Magic 魔法,_Toy オモチャ
+Card Text/Abilities:
+【C】 All your other Characters get +X Power. X equals to that Character Cost ×500.
+【A】 When 「抑えられない想い」 is placed into your Climax slot, during this turn, your opponent cannot use 『【A】 ENCORE』.（Rule-based 『【A】 ENCORE［③］ cannot be used as well）
+【永】 他のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのコスト×500に等しい。
+【自】 あなたのクライマックス置場に「抑えられない想い」が置かれた時、そのターン中、相手は『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［③］』も使えない）
+Flavor Text:
+
+==========================
+
+みんなの幸せ まひる
+DC/W23-007S SR
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Myth たとえ話,_Wafuku 和服
+Card Text/Abilities:
+【C】 If your Hand has 4 cards or less, this card gets +1000 Power, +2 Soul.
+【A】 This ability can only be activated once per turn. During the turn when this card is placed on Stage from Hand, when the Damage dealt by this card is cancelled, deal 1 Damage to your opponent. (Damage can be cancelled)
+【A】 When this card becomes REVERSE in battle, place this card into Memory.
+【永】 あなたの手札が4枚以下なら、このカードのパワーを＋1000し、ソウルを＋2。
+【自】 この能力は1ターンにつき1回まで発動する。このカードが手札から舞台に置かれたターン中、このカードの与えたダメージがキャンセルされた時、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）
+【自】 バトル中のこのカードが【リバース】した時、このカードを思い出にする。
+Flavor Text:
+
+==========================
+
+幸せの予感
+DC/W23-024R RRR
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1F
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Flame：When this card is Triggered, if your current attacking Character's damage is cancelled, deal 1 damage to the opponent.)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（射＠：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）
+Flavor Text:
+
+==========================
+
+わたしの気持ち ななか
+DC/W23-026R RRR
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Music 音楽,_Magic 魔法
+Card Text/Abilities:
+【C】 For each of your other 《音楽》 Character, this card gets +500 Power.
+【A】［①］ When this card is placed on Stage from Hand, you may pay the cost. If you did, place all your opponent's Stock into Waiting Room, your opponent place the equal amount of cards from the top of the Deck into Stock.
+【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。
+【自】［①)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のストックすべてを、控え室に置き、相手は自分の山札の上から同じ枚数をストック置場に置く。
+Flavor Text:
+
+==========================
+
+大好きな歌 ことり
+DC/W23-028R RRR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Music 音楽,_Magic 魔法
+Card Text/Abilities:
+【C】 All your other Characters with Level 1 or lower get +500 Power.
+【A】◆ SHIFT Level 0 (At the beginning of your Main Phase, you may choose 1 Green card from your Hand and this card in your Clock and exchange them.)
+【永】 他のあなたのレベル1以下のキャラすべてに、パワーを＋500。
+【自】◆ シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の緑のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）
+Flavor Text:
+
+==========================
+
+二人だけのデート ことり
+DC/W23-029S SR
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Music 音楽,_Magic 魔法
+Card Text/Abilities:
+【A】 This ability can only be activated 2 times each turn. When your Character is placed from Hand into Clock, during this turn, this card gets +3000 Power.
+【自】 この能力は1ターンにつき2回まで発動する。あなたのキャラが手札からクロック置場に置かれた時、そのターン中、このカードのパワーを＋3000。
+Flavor Text:
+
+==========================
+
+ずっと変わらない 小恋
+DC/W23-030S SR
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Music 音楽,
+Card Text/Abilities:
+【A】 When this card attacks, if 「また会えるよね」 is in the Climax slot, choose up to 1 《音楽》 Character from your Waiting Room, place it into Stock, choose 1 of your 《音楽》 Character, during this turn, it gets +2500 Power.
+【自】 このカードがアタックした時、クライマックス置場に「また会えるよね」があるなら、あなたは自分の控え室の《音楽》のキャラを1枚まで選び、ストック置場に置き、自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋2500。
+Flavor Text:
+
+==========================
+
+恋愛実践中！ サラ
+DC/W23-031R RRR
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Magic 魔法,_Sports スポーツ
+Card Text/Abilities:
+【S】［Place 1 《スポーツ》 Character from Hand into Waiting Room］ During this turn, this card gets +3500 Power.
+【起】［手札の《スポーツ》のキャラを1枚控え室に置く］ そのターン中、このカードのパワーを＋3500。
+Flavor Text:
+はい、あーん！　あーんです、あーん
+
+==========================
+
+温もりを感じて 茜
+DC/W23-032S R
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Traitless 特徴なし,
+Card Text/Abilities:
+【A】 When this card's battle opponent with Level 2 or higher becomes REVERSE, you may place the top card of your Deck into Stock.
+【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。
+Flavor Text:
+ふふ、照れるな照れるな……
+
+==========================
+
+かけがえのない家族
+DC/W23-049R RRR
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+
+==========================
+
+二人の時間 由夢
+DC/W23-051R RRR
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【C】If you have 3 or more other 《魔法》 Characters, this card gets +1000 Power.
+【A】When this card's battle opponent becomes REVERSE, place the top card of your Deck into Waiting Room. If that card is a Climax, you may choose 1 《魔法》 from your Waiting Room, return it to Hand.
+【永】 他のあなたの《魔法》のキャラが3枚以上なら、このカードのパワーを＋1000。
+【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、控え室に置く。そのカードがクライマックスなら、あなたは自分の控え室の《魔法》のキャラを1枚選び、手札に戻してよい。
+Flavor Text:
+
+==========================
+
+溢れる気持ち 音夢
+DC/W23-052SP SP
+Type: Character
+Level: 3
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,_Dress ドレス
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.
+【A】［① Place 1 card into Waiting Room from Hand］ When「誓いのキス」is placed into your Climax slot, if this card is in your Front Row, you may pay the cost. If you did, choose 1 of your opponent's Character with Cost 1 or lower, place it to the top of the Deck, during this turn, this card gets ＋2000 Power.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】［①  手札を1枚控え室に置く］ あなたのクライマックス置場に「誓いのキス」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のコスト1以下のキャラを1枚選び、山札の上に置き、そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+
+==========================
+
+あらたなる旅立ち 美夏
+DC/W23-053S SR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Mecha メカ,_Banana バナナ
+Card Text/Abilities:
+【C】 RECOLLECTION If 「ワン・オブ・サウザンド」or「バナナパフェ」is in your Memory, this card gains the following ability.『【A】 When this card becomes REVERSE, you may REVERSE this card's battle opponent.』
+【永】 記憶 あなたの思い出置場に、「ワン・オブ・サウザンド」か「バナナパフェ」があるなら、このカードは次の能力を得る。『【自】 このカードが【リバース】した時、あなたはこのカードのバトル相手を【リバース】してよい。』
+Flavor Text:
+
+==========================
+
+昔の思い出 音夢
+DC/W23-054S SR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Magic 魔法,_Discipline Committee 風紀委員
+Card Text/Abilities:
+【C】 If your Stock is 2 or less, this card gets ＋1 Level, ＋1000 Power.
+【永】 あなたのストックが2枚以下なら、このカードのレベルを＋1し、パワーを＋1000。
+Flavor Text:
+
+==========================
+
+恋人の証 美春
+DC/W23-055S SR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Mecha メカ,_Banana バナナ
+Card Text/Abilities:
+【A】［Place the top card of your Deck into Clock, return this card to Hand］When 「美春の気持ち」 is placed into your Climax slot, you may pay the cost. If you did, search your Deck for up to 1 《バナナ》 Character with Level 1 or lower, place it into this card's previous slot. Shuffle your deck afterwards.
+【自】［あなたの山札の上から1枚をクロック置場に置き、このカードを手札に戻す］ あなたのクライマックス置場に「美春の気持ち」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル0以下の《バナナ》のキャラを1枚まで選び、このカードがいた枠に置く。その山札をシャッフルする。
+Flavor Text:
+
+==========================
+
+優しいキス 由夢
+DC/W23-056S SR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand, place the bottom card of your Stock into Waiting Room.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のストックの下から1枚を、控え室に置く。
+Flavor Text:
+
+==========================
+
+凛とした風格 エリカ
+DC/W23-057S SR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Student Council 生徒会,_Royal Family 王族
+Card Text/Abilities:
+【S】［REST 1 of your Character with 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』］During this turn, this card gains the following ability.『【A】 When this card's battle opponent becomes REVERSE, you may place that Character to the top of the Deck.』
+【起】［あなたの『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を持つキャラを1枚【レスト】する］ そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』
+Flavor Text:
+
+==========================
+
+誓いのキス
+DC/W23-074R RRR
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When this card is Triggered, choose 1 Character from your Waiting Room, return to hand)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（拾＠：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）
+Flavor Text:
+音夢「――誓います」
+
+==========================
+
+小さな神秘 杏
+DC/W23-076R RRR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Theater 演劇
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +X Power. X is equals to that Character's Level ×500.
+【A】［②］When is card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《魔法》 or 《演劇》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。
+【自】［②］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《魔法》か《演劇》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+
+==========================
+
+アツアツな二人 萌
+DC/W23-078S SR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,_Hotpot 鍋
+Card Text/Abilities:
+【C】 All your other 《鍋》 Characters get +500 Power.
+【S】［① REST this card］Draw 2 cards, choose 2 cards from your Hand, place them into Waiting Room.
+【永】 他のあなたの《鍋》のキャラすべてに、パワーを＋500。
+【起】［① このカードを【レスト】する］ あなたは2枚引き、自分の手札を2枚選び、控え室に置く。
+Flavor Text:
+
+==========================
+
+銀色の旋律 眞子
+DC/W23-079S SR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Music 音楽,_Hotpot 鍋
+Card Text/Abilities:
+【A】When this card attacks, if 「大切なフルート」 is in the Climax slot, choose 1 of your 《音楽》 Character, during this turn, it gets +2000 Power.
+【自】 このカードがアタックした時、クライマックス置場に「大切なフルート」があるなら、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+
+==========================
+
+愛しの先輩 まゆき
+DC/W23-080S SR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Student Council 生徒会,_Sports スポーツ
+Card Text/Abilities:
+【A】 When your other 《スポーツ》 Characters attack, during this turn, this card gets +1000 Power.
+【A】 CHANGE ［① Placed 1 card from Hand into Waiting Room, placed this card to Memory］At the beginning of your Encore Step, if this card is in REST, you may pay this cost. If you did, choose 1 「さらなる高みへ まゆき」 from your Waiting Room, place it into this card's previous slot.
+【自】 他のあなたの《スポーツ》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。
+【自】 チェンジ ［① 手札を1枚控え室に置き、このカードを思い出にする］ あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「さらなる高みへ まゆき」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+
+==========================
+
+笑顔のロボット 麻耶
+DC/W23-081S SR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Discipline Committee 風紀委員,_Mecha メカ
+Card Text/Abilities:
+【A】 This ability can only be activated up to 2 times each turn. When your other 《メカ》 Character is placed on Stage from Hand, during this this turn, this card gets +1000 Power.
+【A】 This ability can only be activated up to 2 times each turn. When your other 《委員長》 Character is placed on Stage from Hand, during this this turn, this card gets +1000 Power.
+【自】 この能力は1ターンにつき2回まで発動する。他のあなたの《メカ》のキャラが、手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。
+【自】 この能力は1ターンにつき2回まで発動する。他のあなたの《委員長》のキャラが、手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+
+==========================
+
+ニコニコ笑顔 葵
+DC/W23-082S SR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Newspaper 新聞,_Waitress ウェイトレ
+Card Text/Abilities:
+【A】This ability can only be activated up to 1 time each turn. When you used 【S】, during this turn, this card gets +1500 Power.
+【A】［Place the top card of your Deck into Clock］ When this card's battle opponent becomes REVERSE, you may pay the cost. If you did, draw 1 card.
+【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋1500。
+【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。
+Flavor Text:
+
+==========================
+
+“お兄ちゃん”へ
+DC/W23-099R RRR
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Book：When this card is triggered, you may draw 1 card)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（引＠：このカードがトリガーした時、あなたは1枚引いてよい）
+Flavor Text:
+
+==========================
+

@@ -463,3 +463,2382 @@ Flavor Text:
 
 ==========================
 
+パーティーの誘い アスナ
+SAO/S20-001 RR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【C】 If you have 3 or more other 《アバター》 or 《ネット》 Characters, this card gets +1000 Power.
+【A】［①］When this card attacks, if 「スター・スプラッシュ》">《スター・スプラッシュ》」 is in the Climax slot, you may pay the cost. If you did, search your Deck for up to 1 《アバター》 or 《ネット》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【永】 他のあなたの、《アバター》か《ネット》のキャラが3枚以上なら、このカードのパワーを＋1000。
+【自】［①］ このカードがアタックした時、クライマックス置場に「《スター・スプラッシュ》」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《アバター》か《ネット》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+なら、久しぶりにわたしとコンビを組みなさい
+
+==========================
+
+パーティーの誘い アスナ
+SAO/S20-001 SR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【C】 If you have 3 or more other 《アバター》 or 《ネット》 Characters, this card gets +1000 Power.
+【A】［①］When this card attacks, if 「スター・スプラッシュ》">《スター・スプラッシュ》」 is in the Climax slot, you may pay the cost. If you did, search your Deck for up to 1 《アバター》 or 《ネット》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【永】 他のあなたの、《アバター》か《ネット》のキャラが3枚以上なら、このカードのパワーを＋1000。
+【自】［①］ このカードがアタックした時、クライマックス置場に「《スター・スプラッシュ》」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《アバター》か《ネット》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+
+==========================
+
+《閃光》のアスナ
+SAO/S20-002SP SP
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【C】 During your turn, if the Character facing this card is Level 3 or higher, this card gets +4000 Power, +1 Soul.
+【A】 When this card's battle opponent becomes REVERSE, place that Character into Stock.
+【永】 あなたのターン中、このカードの正面のキャラのレベルが3以上なら、このカードのパワーを＋4000し、ソウルを＋1。
+【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをストック置場に置く。
+Flavor Text:
+
+==========================
+
+《閃光》のアスナ
+SAO/S20-002 RR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【C】 During your turn, if the Character facing this card is Level 3 or higher, this card gets +4000 Power, +1 Soul.
+【A】 When this card's battle opponent becomes REVERSE, place that Character into Stock.
+【永】 あなたのターン中、このカードの正面のキャラのレベルが3以上なら、このカードのパワーを＋4000し、ソウルを＋1。
+【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをストック置場に置く。
+Flavor Text:
+わたしも、絶対に君を守る。
+これから永遠に守り続けるから
+
+==========================
+
+ソファに横たわるアスナ
+SAO/S20-003S SR
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is not a 《アバター》 Character, place it into Clock. (If it is, return it to its original position)
+【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《アバター》のキャラでないならクロック置場に置く。（そうでないなら元に戻す）
+Flavor Text:
+
+==========================
+
+ソファに横たわるアスナ
+SAO/S20-003 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is not a 《アバター》 Character, place it into Clock. (If it is, return it to its original position)
+【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《アバター》のキャラでないならクロック置場に置く。（そうでないなら元に戻す）
+Flavor Text:
+ね……キリト君。
+ちょっとだけ、前線から離れたらだめかなぁ
+
+==========================
+
+囚われの女王 アスナ
+SAO/S20-004 R
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: 6000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【C】 If you have another Character with 「キリト」 in its name, this card gets +1000 Power, gains 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』.
+【永】 他のあなたのカード名に「キリト」を含むキャラがいるなら、このカードのパワーを＋1000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。
+Flavor Text:
+助けて、キリト君……
+
+==========================
+
+着替え中のアスナ
+SAO/S20-005 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】 When another of your 《アバター》 or 《ネット》 Character attacks, during this turn, this card gets +1000 Power.
+【自】 他のあなたの、《アバター》か《ネット》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+きゃあっ！？
+
+==========================
+
+まどろむアスナ
+SAO/S20-006R RRR
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card attacks, if 「誓い合った約束」 is in the Climax slot, all your Characters, during this turn, get +1000 Power, your opponent cannot use 『【A】 ENCORE』. (Rule-based 『【A】 ENCORE ［③］』 cannot be used as well）
+【A】 ACCELERATE ［Place the top card of your Deck into Clock］ At the beginning of your Climax Phase, you may pay this cost. If you did, until the end of your opponent's next turn, this card gets +3000 Power.
+【自】 このカードがアタックした時、クライマックス置場に「誓い合った約束」があるなら、あなたのキャラすべてに、そのターン中、パワーを＋1000し、相手は『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［③］』も使えない）
+【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードのパワーを＋3000。
+Flavor Text:
+ん……。ちょっとだけ、夢、見てた。
+元の世界の夢……
+
+==========================
+
+まどろむアスナ
+SAO/S20-006 R
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card attacks, if 「誓い合った約束」 is in the Climax slot, all your Characters, during this turn, get +1000 Power, your opponent cannot use 『【A】 ENCORE』. (Rule-based 『【A】 ENCORE ［③］』 cannot be used as well）
+【A】 ACCELERATE ［Place the top card of your Deck into Clock］ At the beginning of your Climax Phase, you may pay this cost. If you did, until the end of your opponent's next turn, this card gets +3000 Power.
+【自】 このカードがアタックした時、クライマックス置場に「誓い合った約束」があるなら、あなたのキャラすべてに、そのターン中、パワーを＋1000し、相手は『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［③］』も使えない）
+【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードのパワーを＋3000。
+Flavor Text:
+ん……。ちょっとだけ、夢、見てた。
+元の世界の夢……
+
+==========================
+
+凛とした強さ アスナ
+SAO/S20-007R RRR
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand or through the effect of 「前線への復帰」, you may place the top card of your Clock into Waiting Room.
+【A】［① Place 1 card from Hand into Waiting Room］ When this card attacks, you may pay the cost. If you did, all your 《アバター》 Characters, during this turn, it gets +500 Power, +1 Soul.
+【自】 このカードが手札から舞台に置かれた時か「前線への復帰」の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたの《アバター》のキャラすべてに、そのターン中、パワーを＋500し、ソウルを＋1。
+Flavor Text:
+キリト君は、わたしが守る
+……だから、キリト君はわたしを守ってね
+
+==========================
+
+凛とした強さ アスナ
+SAO/S20-007 R
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand or through the effect of 「前線への復帰」, you may place the top card of your Clock into Waiting Room.
+【A】［① Place 1 card from Hand into Waiting Room］ When this card attacks, you may pay the cost. If you did, all your 《アバター》 Characters, during this turn, it gets +500 Power, +1 Soul.
+【自】 このカードが手札から舞台に置かれた時か「前線への復帰」の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたの《アバター》のキャラすべてに、そのターン中、パワーを＋500し、ソウルを＋1。
+Flavor Text:
+キリト君は、わたしが守る
+……だから、キリト君はわたしを守ってね
+
+==========================
+
+新婚生活 アスナ
+SAO/S20-008 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +500 Power.
+【A】 When a Climax is placed into your Climax slot, choose 1 of your Characters, during this turn, it gets +1000 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+お腹、減ったでしょ。
+ご飯にしよう
+
+==========================
+
+無防備な素顔 アスナ
+SAO/S20-009 U
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】 CHANGE ［① Place 1 card from Hand into Waiting Room, place this card into Waiting Room］ At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 「囚われの女王 アスナ」 from your Waiting Room, place it into this card's previous slot.
+【自】 チェンジ ［① 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「囚われの女王 アスナ」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+たとえここが仮想世界でも、わたしの気持ちは本物だよ
+
+==========================
+
+副団長 アスナ
+SAO/S20-010 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】 When you used this card's 『ASSIST』, if you have 2 or more 《アバター》 or 《ネット》 Characters, choose 1 of your Character, during this turn, it gets +1000 Power.
+【S】● ASSIST 1000 Level 1［Place this card from Hand to Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +1000 Power.)
+【自】 あなたがこのカードの『助太刀』を使った時、あなたの、《アバター》か《ネット》のキャラが2枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+【起】● 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）
+Flavor Text:
+今回の作戦は、わたし、血盟騎士団副団長のアスナが
+指揮をとることになっています
+
+==========================
+
+雨宿り アスナ
+SAO/S20-011 U
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【C】 For each Marker under this card, this card gets +1 Level, +1500 Power.
+【A】 When this card's battle opponent becomes REVERSE, you may place the top card of your Deck under this card as a Marker.
+【永】 このカードの下のマーカー1枚につき、このカードのレベルを＋1し、パワーを＋1500。
+【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置いてよい。
+Flavor Text:
+なんだか、この世界で生まれて
+今までずっと暮らしてきたみたいな、そんな気がする
+
+==========================
+
+プロポーズの返事 アスナ
+SAO/S20-012 U
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 3500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +1000 Power.
+【A】 When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《アバター》 or 《ネット》 Character, choose 1 of your Characters, during this turn, it gets +1 Soul. (Return revealed card to its original position)
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。
+【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《アバター》か《ネット》のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。（公開したカードは元に戻す）
+Flavor Text:
+…はい
+
+==========================
+
+団長 ヒースクリフ
+SAO/S20-013 U
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card attacks, if 「闘技場でのデュエル」 is in the Climax slot, choose 1 of your opponent's Characters with Cost 1 or lower, return it to Hand, during this turn, this card cannot become REVERSE.
+【自】 このカードがアタックした時、クライマックス置場に「闘技場でのデュエル」があるなら、あなたは相手のコスト1以下のキャラを1枚選び、手札に戻し、そのターン中、このカードは【リバース】しない。
+Flavor Text:
+私と戦い、勝てばアスナ君を連れていくがいい。
+だが、負けたら君が血盟騎士団に入るのだ
+
+==========================
+
+強い絆 アスナ
+SAO/S20-014 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】 BOND／「血盟騎士団への入団 キリト」［Place the top card of your Deck into Clock］ (When this card is played onto Stage, you may pay the cost. If you do, choose 1 「血盟騎士団への入団 キリト」 from your Waiting Room, return it to Hand)
+【S】［①］Choose 1 of your 《アバター》 Character, during this turn, it gets +500 Power.
+【自】 絆／「血盟騎士団への入団 キリト」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「血盟騎士団への入団 キリト」を1枚選び、手札に戻す）
+【起】［①］ あなたは自分の《アバター》のキャラを1枚選び、そのターン中、パワーを＋500
+Flavor Text:
+キリト君はわたしにとって、
+ここで過ごした二年間の意味であり、
+生きた証であり、希望そのものです
+
+==========================
+
+早とちり アスナ
+SAO/S20-015 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【C】 During your turn, this card gets +1000 Power.
+【永】 あなたのターン中、このカードのパワーを＋1000。
+Flavor Text:
+バカ――――――ッ！！
+
+==========================
+
+監視役 クラディール
+SAO/S20-016 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【S】［①］ Choose 1 of your opponent's Front Row Character with Level 0 or lower, palce it into Stock.
+【起】［①］ あなたは相手の前列のレベル0以下のキャラを1枚選び、ストック置場に置く。
+Flavor Text:
+ふざけるな！　貴様のような雑魚プレイヤーに
+アスナ様の護衛が務まるか！
+
+==========================
+
+戦いのはじまり アスナ
+SAO/S20-017 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+じゃあ、お言葉に甘えて今日は楽させてもらうわね。
+前衛よろしく！
+
+==========================
+
+ラフィン・コフィン
+SAO/S20-018 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【S】［① REST 2 of your Characters］ During this turn, this card gets +1500 Power, +1 Soul.
+【起】［① あなたのキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋1500し、ソウルを＋1。
+Flavor Text:
+
+==========================
+
+隠された正体 ヒースクリフ
+SAO/S20-019 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+予定では攻略が九十五層に達するまでは
+明かさないつもりだったのだがな
+
+==========================
+
+熟練の料理スキル アスナ
+SAO/S20-020 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【C】 During your turn, if you have 2 or more other 《アバター》 Characters, this card gets +1 Level, +1500 Power.
+【永】 あなたのターン中、他のあなたの《アバター》のキャラが2枚以上なら、このカードのレベルを＋1し、パワーを＋1500。
+Flavor Text:
+そうね……じゃあシチューにしましょう
+
+==========================
+
+前線への復帰
+SAO/S20-021 U
+Type: Event
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your 「プロポーズの返事 アスナ」, you may place it into Waiting Room. If you did, choose 1 「凛とした強さ アスナ」 from your Waiting Room, place it into any slot on Stage. Place this card into Memory.
+あなたは自分の「プロポーズの返事 アスナ」を1枚選び、控え室に置いてよい。そうしたら、あなたは自分の控え室の「凛とした強さ アスナ」を1枚選び、舞台の好きな枠に置く。このカードを思い出にする。
+Flavor Text:
+キリト・アスナ「転移――グランザム！」
+
+==========================
+
+身代わり
+SAO/S20-022 C
+Type: Event
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+● Choose 1 of your 《アバター》 or 《ネット》 Character, during this turn, it gets +3500 Power.
+● あなたは自分の、《アバター》か《ネット》のキャラを1枚選び、そのターン中、パワーを＋3500。
+Flavor Text:
+キリト「うそだろ……アスナ……こんな……こんなの……」
+
+==========================
+
+誓い合った約束
+SAO/S20-023 CR
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+もし元の世界に戻れたら、
+わたし絶対キリト君ともう一度会って――
+また好きになるよ
+
+==========================
+
+《スター・スプラッシュ》
+SAO/S20-024 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1W
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters gets +1000 Power, +1 Soul.
+(Wind：When this card is Triggered, you may choose 1 of your opponent's Character, return to Hand)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（戻＠：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）
+Flavor Text:
+イヤァァァァ! !
+また好きになるよ
+
+==========================
+
+闘技場でのデュエル
+SAO/S20-025 CC
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 1F
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Flame：When this card is Triggered, if your current attacking Character's damage is cancelled, deal 1 damage to the opponent.)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（射＠：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）
+Flavor Text:
+素晴らしい反応速度だな
+
+==========================
+
+魔法剣士 リーファ
+SAO/S20-026R RRR
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】［①］ When this card attacks, if 「スペル詠唱」 is in the Climax slot, you may pay the cost. If you did, during this turn, this card gets +4000 Power, gains the following ability. 『【A】 When this card's battle opponent becomes REVERSE, you may place that Character into Clock.』
+【自】［①］ このカードがアタックした時、クライマックス置場に「スペル詠唱」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたはそのキャラをクロック置場に置いてよい。』
+Flavor Text:
+
+==========================
+
+魔法剣士 リーファ
+SAO/S20-026 RR
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】［①］ When this card attacks, if 「スペル詠唱」 is in the Climax slot, you may pay the cost. If you did, during this turn, this card gets +4000 Power, gains the following ability. 『【A】 When this card's battle opponent becomes REVERSE, you may place that Character into Clock.』
+【自】［①］ このカードがアタックした時、クライマックス置場に「スペル詠唱」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたはそのキャラをクロック置場に置いてよい。』
+Flavor Text:
+随意飛行はコツがあるからね、
+できる人はすぐできるんだけど……
+
+==========================
+
+純粋な願い リーファ
+SAO/S20-027R RRR
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【C】 If your Deck has 5 or less cards, this card gets -1 Level in your Hand.
+【C】 All your other 《アバター》 or 《ネット》 Characters get +1500 Power.
+【S】［① Place 1 《アバター》 or 《ネット》 Character from Hand into Waiting Room］ Until the end of your opponent's next turn, this card gets +3000 Power, gains the following ability. 『【C】 This card cannot be chosen by your opponent's abilities.』
+【永】 あなたの山札が5枚以下なら、あなたの手札のこのカードのレベルを－1。
+【永】 他のあなたの、《アバター》か《ネット》のキャラすべてに、パワーを＋1500。
+【起】［① 手札の、《アバター》か《ネット》のキャラを1枚控え室に置く］ 次の相手のターンの終わりまで、このカードのパワーを＋3000し、このカードは次の能力を得る。『【永】 このカードは相手の効果に選ばれない。』
+Flavor Text:
+あたし、待ってる。お兄ちゃんが、
+ちゃんとあたしたちの家に帰ってくる、その時を
+
+==========================
+
+純粋な願い リーファ
+SAO/S20-027 RR
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【C】 If your Deck has 5 or less cards, this card gets -1 Level in your Hand.
+【C】 All your other 《アバター》 or 《ネット》 Characters get +1500 Power.
+【S】［① Place 1 《アバター》 or 《ネット》 Character from Hand into Waiting Room］ Until the end of your opponent's next turn, this card gets +3000 Power, gains the following ability. 『【C】 This card cannot be chosen by your opponent's abilities.』
+【永】 あなたの山札が5枚以下なら、あなたの手札のこのカードのレベルを－1。
+【永】 他のあなたの、《アバター》か《ネット》のキャラすべてに、パワーを＋1500。
+【起】［① 手札の、《アバター》か《ネット》のキャラを1枚控え室に置く］ 次の相手のターンの終わりまで、このカードのパワーを＋3000し、このカードは次の能力を得る。『【永】 このカードは相手の効果に選ばれない。』
+Flavor Text:
+あたし、待ってる。お兄ちゃんが、
+ちゃんとあたしたちの家に帰ってくる、その時を
+
+==========================
+
+頼りになる案内役 リーファ
+SAO/S20-028SP SP
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card attacks, choose 1 of your other Characters, during this turn, it gets +1 Level, +1000 Power.
+【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。
+Flavor Text:
+
+==========================
+
+頼りになる案内役 リーファ
+SAO/S20-028 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card attacks, choose 1 of your other Characters, during this turn, it gets +1 Level, +1000 Power.
+【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。
+Flavor Text:
+あたしこう見えてもけっこう古参なのよ
+
+==========================
+
+揺れる気持ち 直葉
+SAO/S20-029S SR
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Net ネット,_Sports スポーツ
+Card Text/Abilities:
+【C】 All your other Characters get +500 Power.
+【A】［①］ When 「隠し続けた想い」 is placed into your Climax slot, you may pay the cost. If you did, all your Characters, during this turn, get +1500 Power.
+【永】 他のあなたのキャラすべてに、パワーを＋500。
+【自】［①］ あなたのクライマックス置場に「隠し続けた想い」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋1500。
+Flavor Text:
+
+==========================
+
+揺れる気持ち 直葉
+SAO/S20-029 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Net ネット,_Sports スポーツ
+Card Text/Abilities:
+【C】 All your other Characters get +500 Power.
+【A】［①］ When 「隠し続けた想い」 is placed into your Climax slot, you may pay the cost. If you did, all your Characters, during this turn, get +1500 Power.
+【永】 他のあなたのキャラすべてに、パワーを＋500。
+【自】［①］ あなたのクライマックス置場に「隠し続けた想い」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋1500。
+Flavor Text:
+あたしはお兄ちゃんとは仲のいい兄妹でいたいの？
+それとも……
+
+==========================
+
+《シルフ》の少女 リーファ
+SAO/S20-030S SR
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【S】［REST 2 of your 《アバター》 or 《ネット》 Characters］ During this turn, this card gets +2500 Power.
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+【起】［あなたの、《アバター》か《ネット》のキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2500。
+Flavor Text:
+あたしがなるべく引き付けるから、
+どうにか一人は落として
+
+==========================
+
+《シルフ》の少女 リーファ
+SAO/S20-030 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【S】［REST 2 of your 《アバター》 or 《ネット》 Characters］ During this turn, this card gets +2500 Power.
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+【起】［あなたの、《アバター》か《ネット》のキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2500。
+Flavor Text:
+あたしがなるべく引き付けるから、
+どうにか一人は落として
+
+==========================
+
+制服の直葉
+SAO/S20-031 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Net ネット,_Sports スポーツ
+Card Text/Abilities:
+【C】 If you have 3 or more 《アバター》 or 《ネット》 Characters, this card gets 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』.
+【A】［①］When this card attacks, you may pay the cost. If you did, during this turn, this card gets +2500 Power.
+【永】 他のあなたの、《アバター》か《ネット》のキャラが3枚以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。
+【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2500。
+Flavor Text:
+妙な想像しないでよね！
+
+==========================
+
+自分に言い聞かせる直葉
+SAO/S20-032 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Net ネット,_Sports スポーツ
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand, choose 1 of your other 《アバター》 or 《ネット》 Characters, during this turn, it gets +500 Power.
+【A】 BOND／「大切な人のために キリト」［①］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「大切な人のために キリト」 from your Waiting Room, return to Hand)
+【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の、《アバター》か《ネット》のキャラを1枚選び、そのターン中、パワーを＋500。
+【自】 絆／「大切な人のために キリト」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「大切な人のために キリト」を1枚選び、手札に戻す）
+Flavor Text:
+……道案内するだけ。それだけよ
+
+==========================
+
+心優しい仲間 レコン
+SAO/S20-033 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+ひ、ひどいよ、一言声かけてから出発してもいいじゃない
+
+==========================
+
+剣道少女 直葉
+SAO/S20-034 U
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Net ネット,_Sports スポーツ
+Card Text/Abilities:
+【S】 CONCENTRATE ［①］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, during this turn, this card gets +3000 Power.
+【起】 集中 ［①］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、そのターン中、このカードのパワーを＋3000。
+Flavor Text:
+せい！
+
+==========================
+
+照れた表情 リーファ
+SAO/S20-035 U
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+ば、バッカじゃないの!!
+なら戦ったほうがマシだわ!!
+
+==========================
+
+手を噛まれたリーファ
+SAO/S20-036 U
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【C】 All your other Characters gain the following abilty.『【C】 This card cannot Side Attack』
+【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』
+Flavor Text:
+ギャーーーーーッ! !
+
+==========================
+
+鋭い指摘 リーファ
+SAO/S20-037 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【C】 If your Stock has 3 or more cards, this card gets +1000 Power.
+【永】 あなたのストックが3枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+へえ、いいカンしてるじゃない
+
+==========================
+
+お風呂上りの直葉
+SAO/S20-038 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Net ネット,_Sports スポーツ
+Card Text/Abilities:
+Flavor Text:
+お兄ちゃん、お風呂空いたよー
+
+==========================
+
+慌てるリーファ
+SAO/S20-039 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+なななんでもない！
+
+==========================
+
+複雑な胸中 直葉
+SAO/S20-040 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 2000
+Soul: 1
+Traits:: Net ネット,_Sports スポーツ
+Card Text/Abilities:
+【S】● ASSIST 2000 Level 1［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +2000 Power.)
+【起】● 助太刀2000 レベル1 ［① 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）
+Flavor Text:
+仮想世界を自分の眼で見てみたい、
+初めてそう思ったのはいつだったろう
+
+==========================
+
+妖精王 オベイロン
+SAO/S20-041 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+どうせ偽物の体じゃないか。何も傷つきゃしないよ。
+少しは楽しもうって気にならないのかねえ
+
+==========================
+
+回復魔法
+SAO/S20-042 U
+Type: Event
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Look at up to 2 cards from the top of your Deck and choose up to 1 card, place it to the bottom of the Deck. Place the remaining cards on top of the Deck in any order. Choose 1 of your Characters, during this turn, it gets +3000 Power.
+あなたは相手の山札を上から2枚まで見てカードを1枚まで選び、山札の下に置く。残りのカードを山札の上に好きな順番で置く。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。
+Flavor Text:
+スー・フィッラ・ヘイラグール・アウストル、
+ブロット・スバール・バーニ
+
+==========================
+
+レコンの勇気
+SAO/S20-043 C
+Type: Event
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your Character, place it into Waiting Room. If you did, choose up to 1 of your opponent's Character, during this turn, it gets -4000 Power.
+あなたは自分のキャラを1枚選び、控え室に置く。そうしたら、あなたは相手のキャラを1枚まで選び、そのターン中、パワーを－4000。
+Flavor Text:
+…僕がなんとかしてみる
+
+==========================
+
+スペル詠唱
+SAO/S20-044 CR
+Type: Event
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+When this card is placed into Climax slot from Hand, place the top card of your Deck into Stock. During this turn, all of your Characters get +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+エック・スキート・
+トゥトゥーグ・スマール・ストリーダ
+
+==========================
+
+隠し続けた想い
+SAO/S20-045 CC
+Type: Event
+Level: 0
+Color: Green
+Cost: 0
+Trigger: G
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gold：When this card is Triggered, return this card to your Hand. You may place the top card of your Deck into Stock)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（宝＠：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）
+Flavor Text:
+あたし――自分の心を裏切った。
+お兄ちゃんを好きな気持ちを裏切った
+
+==========================
+
+探し続けたもの リズベット
+SAO/S20-046 RR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】［①］ When this card attacks, if 「求めていた温もり」 is in the Climax slot, you may pay the cost. If you did, choose up to 2 Characters from your Waiting Room, return them to Hand, choose 1 card from your Hand, place it into Waiting Room, during this turn, this card gets +1000 Power.
+【自】［①］ このカードがアタックした時、クライマックス置場に「求めていた温もり」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを2枚まで選び、手札に戻し、自分の手札を1枚選び、控え室に置き、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+あたしもね、ずっと探してたんだ。
+この世界でのホントの何かを
+
+==========================
+
+妹のような存在 シリカ
+SAO/S20-047R RRR
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.
+【A】 When this card attacks, if 「ピナの蘇生」 is in the Climax slot, choose up to 1 Character from your Waiting Room, return it to Hand, choose up to 1 card from your opponent's Waiting Room, place it to the top of the Deck.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】 このカードがアタックした時、クライマックス置場に「ピナの蘇生」があるなら、あなたは自分の控え室のキャラを1枚まで選び、手札に戻し、相手の控え室のカードを1枚まで選び、山札の上に置く。
+Flavor Text:
+もう少しお話したいなんて言ったら、
+笑われちゃうかな……
+
+==========================
+
+妹のような存在 シリカ
+SAO/S20-047 RR
+Type: Character
+Level: 3
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.
+【A】 When this card attacks, if 「ピナの蘇生」 is in the Climax slot, choose up to 1 Character from your Waiting Room, return it to Hand, choose up to 1 card from your opponent's Waiting Room, place it to the top of the Deck.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】 このカードがアタックした時、クライマックス置場に「ピナの蘇生」があるなら、あなたは自分の控え室のキャラを1枚まで選び、手札に戻し、相手の控え室のカードを1枚まで選び、山札の上に置く。
+Flavor Text:
+もう少しお話したいなんて言ったら、
+笑われちゃうかな……
+
+==========================
+
+親友を祝福するリズベット
+SAO/S20-048 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card attacks, all your Characters with 「アスナ」 in its name get +500 Power.
+【A】 BOND／「パーティーの誘い アスナ」［①］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「パーティーの誘い アスナ」 from your Waiting Room, return to Hand)
+【自】 このカードがアタックした時、他のあなたのカード名に「アスナ」を含むキャラすべてに、そのターン中、パワーを＋500。
+【自】 絆／「パーティーの誘い アスナ」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「パーティーの誘い アスナ」を1枚選び、手札に戻す）
+Flavor Text:
+アスナは大切なものが見つかったんだね
+
+==========================
+
+《フラワーガーデン》のシリカ
+SAO/S20-049S SR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】［①］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 「プネウマの花》">《プネウマの花》」 from your Waiting Room, return it to Hand.
+【自】［①］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「《プネウマの花》」を1枚選び、手札に戻す。
+Flavor Text:
+夢の国みたい……うーん、良い香り！
+
+==========================
+
+《フラワーガーデン》のシリカ
+SAO/S20-049 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】［①］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 「プネウマの花》">《プネウマの花》」 from your Waiting Room, return it to Hand.
+【自】［①］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「《プネウマの花》」を1枚選び、手札に戻す。
+Flavor Text:
+夢の国みたい……うーん、良い香り！
+
+==========================
+
+職人の矜持 リズベット
+SAO/S20-050 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card becomes REVERSE, if this card's battle opponent is Level 0 or lower, you may REVERSE that Character.
+【A】 ACCELERATE ［Place the top card of your Deck into Clock］ At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 of your other 《武器》 Character, during this turn, it gets +2500 Power.
+【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。
+【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《武器》のキャラを1枚選び、そのターン中、パワーを＋2500。
+Flavor Text:
+馬鹿にしないでくれる？
+あたし、これでもマスターメイサーなんだけど
+
+==========================
+
+まっすぐな信頼 シリカ
+SAO/S20-051SP SP
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【S】 CONCENTRATE ［① REST 2 of your Characters］Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose up to 1 《アバター》 or 《ネット》 or 《使い魔》 Character, return it to Hand.
+【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室の、《アバター》か《ネット》か《使い魔》のキャラを1枚まで選び、手札に戻す。
+Flavor Text:
+
+==========================
+
+まっすぐな信頼 シリカ
+SAO/S20-051 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【S】 CONCENTRATE ［① REST 2 of your Characters］Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose up to 1 《アバター》 or 《ネット》 or 《使い魔》 Character, return it to Hand.
+【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室の、《アバター》か《ネット》か《使い魔》のキャラを1枚まで選び、手札に戻す。
+Flavor Text:
+キリトさんは、いい人だから……
+怖がったりなんかしません
+
+==========================
+
+着替え中のリズベット
+SAO/S20-052S SR
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【C】 For each of your other 《アバター》 or 《ネット》 Characters, this card gets +500 Power.
+【永】 他のあなたの、《アバター》か《ネット》のキャラ1枚につき、このカードのパワーを＋500。
+Flavor Text:
+わぁっ……
+
+==========================
+
+着替え中のリズベット
+SAO/S20-052 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【C】 For each of your other 《アバター》 or 《ネット》 Characters, this card gets +500 Power.
+【永】 他のあなたの、《アバター》か《ネット》のキャラ1枚につき、このカードのパワーを＋500。
+Flavor Text:
+わぁっ……
+
+==========================
+
+決意の告白 リズベット
+SAO/S20-053SP SP
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +X Power. X is equals to that Character's Level ×500.
+【A】［②］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Character from your Waiting Room, return it to Hand.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。
+【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+
+==========================
+
+決意の告白 リズベット
+SAO/S20-053 R
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 4000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【C】SUPPORT All your Characters in front of this card gets +X Power. X is equals to that Character's Level ×500.
+【A】［②］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose 1 Character from your Waiting Room, return it to Hand.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。
+【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。
+Flavor Text:
+あたしをキリトの専属スミスにしてほしい
+
+==========================
+
+使い魔 ピナ
+SAO/S20-054 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Familiar 使い魔,_Dragon 竜
+Card Text/Abilities:
+【C】 All your other Characters with 「シリカ」 in its name get +500 Power.
+【A】［Place this card into Waiting Room］When another of your Characters with 「シリカ」 in its name is placed into Waiting Room from Stage, if this card is in the Back Row, you may pay the cost. If you did, place that Character into its previous position in REST.
+【永】 他のあなたのカード名に「シリカ」を含むキャラすべてに、パワーを＋500。
+【自】［このカードを控え室に置く］ 他のあなたのカード名に「シリカ」を含むキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。
+Flavor Text:
+きゅる
+
+==========================
+
+デート気分 シリカ
+SAO/S20-055 U
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】 At the begining of your Climax Phase, reveal the top card of your Deck. If that card is a Climax, REST this card. (Return revealed card to its original position)
+【自】 あなたのクライマックスフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、このカードを【レスト】する。（公開したカードは元に戻す）
+Flavor Text:
+……ここって……
+
+==========================
+
+メイスの使い手 リズベット
+SAO/S20-056 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】［①］ When this card attacks, if 「気づいた本当の気持ち」 is in the Climax slot, you may pay the cost. If you did, all your 《武器》 Characters, during this turn, they get +2500 Power.
+【自】［①］ このカードがアタックした時、クライマックス置場に「気づいた本当の気持ち」があるなら、あなたはコストを払ってよい。そうしたら、あなたの《武器》のキャラすべてに、そのターン中、パワーを＋2500。
+Flavor Text:
+満足のいく剣が打ちあがったら、
+彼に気持ちを告白しよう
+
+==========================
+
+冒険のはじまり シリカ
+SAO/S20-057 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】［①］ When this card attacks, if 「初めての冒険」 is in the Climax slot, you may pay the cost. If you did, choose 1 「使い魔 ピナ」 from your Waiting Room, place it into any slot on Stage in REST, during this turn, this card gets +3500 Power.
+【自】［①］ このカードがアタックした時、クライマックス置場に「初めての冒険」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「使い魔 ピナ」を1枚選び、舞台の好きな枠に【レスト】して置き、そのターン中、このカードのパワーを＋3500。
+Flavor Text:
+よーし、あたしも頑張りますよ！
+
+==========================
+
+ダガー使い シリカ
+SAO/S20-058 U
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 7000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+お、お待たせしました
+
+==========================
+
+かわいい悪戯 シリカ
+SAO/S20-059R RRR
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 9000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】 At the beginning of your Climax Phase, reveal the top card of your Deck. If that card is a Climax, choose 1 of your Characters, place it into Waiting Room. (Return revealed card to its original position)
+【自】 あなたのクライマックスフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、あなたは他の自分のキャラを1枚選び、控え室に置く。（公開したカードは元に戻す）
+Flavor Text:
+わ！？
+
+==========================
+
+かわいい悪戯 シリカ
+SAO/S20-059 U
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 9000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】 At the beginning of your Climax Phase, reveal the top card of your Deck. If that card is a Climax, choose 1 of your Characters, place it into Waiting Room. (Return revealed card to its original position)
+【自】 あなたのクライマックスフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、あなたは他の自分のキャラを1枚選び、控え室に置く。（公開したカードは元に戻す）
+Flavor Text:
+わ！？
+
+==========================
+
+前向きな笑顔 リズベット
+SAO/S20-060 U
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a Climax, REST this card. (Return revealed card to its original position)
+【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、このカードを【レスト】する。（公開したカードは元に戻す）
+Flavor Text:
+武具や防具の修理が必要なら、いつでも来てよね
+
+==========================
+
+鍛冶屋のリズベット
+SAO/S20-061 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【A】［REST this card］ When you used 『ACCELERATE』, if this card is in STAND, you may pay the cost. If you did, choose 1 of your Characters, during this turn, it gets +1500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【自】［このカードを【レスト】する］ あなたが『加速』を使った時、このカードが【スタンド】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。
+Flavor Text:
+リズベット武具店へようこそ！
+
+==========================
+
+《ビーストテイマー》シリカ
+SAO/S20-062 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】BOND／「使い魔 ピナ」 ［①］(When this card is played onto Stage, you may pay the cost. If you do, choose 1 「使い魔 ピナ」 from your Waiting Room, return it to Hand)
+【自】 絆／「使い魔 ピナ」 ［①］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「使い魔 ピナ」を1枚選び、手札に戻す）
+Flavor Text:
+
+==========================
+
+アイドル的存在 シリカ
+SAO/S20-063 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+あ、あたし、シリカって言います
+
+==========================
+
+アイドル的存在 シリカ
+SAO/S20-064 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【S】● ASSIST 1500 Level 1［Place this card from Hand to Waiting Room］(Choose 1 of your Characters being
+Front Attacked, during this turn, it gets +1500 Power.)
+【起】● 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）
+Flavor Text:
+あたしを欲しいっていうパーティーは、
+ほかにも山ほどあるんですからね！
+
+==========================
+
+《ピナの心》
+SAO/S20-065 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Familiar 使い魔,_Dragon 竜
+Card Text/Abilities:
+【C】 Your other Character with 「シリカ」in the card name in the Center slot of the Front Row gets +1000 Power.
+【A】 When your other battling Character is REVERSE, Choose 1 of your Character, during this turn, it gets +1000 Power.
+【永】 他のあなたの前列の中央の枠のカード名に「シリカ」を含むキャラに、パワーを＋1000。
+【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。
+Flavor Text:
+キリト「泣かないで。
+《ピナの心》が残っていればまだ蘇生の可能性がある」
+
+==========================
+
+窮地のシリカ
+SAO/S20-066 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【C】 If this card is in the Center slot of your Front Row, this card gets +1000 Power.
+【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋1000。
+Flavor Text:
+回復アイテムが……このままじゃ……！
+
+==========================
+
+背中を押すリズベット
+SAO/S20-067 C
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】 CHANGE ［② Place 1 card from Hand into Waiting Room, place this card into Waiting Room］ At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 「前向きな笑顔 リズベット」 from your Waiting Room, place it into this card's previous slot.
+【自】 チェンジ ［② 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「前向きな笑顔 リズベット」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+まあ、変だけど悪い人じゃないわね。
+応援するからさ、頑張りなよ
+
+==========================
+
+ハプニング！ シリカ
+SAO/S20-068 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 8500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+……見ました？
+
+==========================
+
+感謝の気持ち シリカ
+SAO/S20-069 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 8500
+Soul: 2
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【S】［REST 2 of your other 《アバター》, 《ネット》 or 《使い魔》 Characters］ During this turn, this card gets +2500 Power.
+【起】［あなたの、《アバター》か《ネット》か《使い魔》のキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2500。
+Flavor Text:
+キリトさんはいい人です！
+あたしを助けてくれたもん！
+
+==========================
+
+《プネウマの花》
+SAO/S20-070 U
+Type: Event
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+If you do not have a Character with 「シリカ」 in its name, you cannot play this card from Hand. Search your Deck for up to 1 Character with 「ピナ」 in its name, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+このカードは、あなたのカード名に「シリカ」を含むキャラがいないなら、手札からプレイできない。あなたは自分の山札を見てカード名に「ピナ」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+シリカ「これでピナが生き返るんですね……」
+
+==========================
+
+白竜の洞窟
+SAO/S20-071 C
+Type: Event
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Place this card into Memory.
+【C】 RECOLLECTION If this card is in Memory, your Character in the Center slot of the Front Row with 「キリト」 in its name get +1000 Power.
+このカードを思い出にする。
+【永】 記憶 思い出置場にこのカードがあるなら、あなたの前列の中央の枠のカード名に「キリト」を含むキャラに、パワーを＋1000。
+Flavor Text:
+あの……ありがと。助けてくれて
+
+==========================
+
+求めていた温もり
+SAO/S20-072 CR
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When this card is Triggered, choose 1 Character from your Waiting Room, return it to Hand)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（拾＠：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）
+Flavor Text:
+……温かい。
+あたしもキリトも仮想世界のデータなのに……
+
+==========================
+
+初めての冒険
+SAO/S20-073 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+
+==========================
+
+ピナの蘇生
+SAO/S20-074 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+ピナ……いっぱい、いっぱいお話してあげるからね
+
+==========================
+
+気づいた本当の気持ち
+SAO/S20-075 CC
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+When this card is placed into Climax slot from Hand, place the top card of your Deck into Stock. During this turn, all of your Characters get +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。
+Flavor Text:
+あたし、あんたのこと好き！！
+
+==========================
+
+謎の少女 ユイ
+SAO/S20-076S SR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Net ネット,
+Card Text/Abilities:
+【S】［①］ Draw 1 card, choose 1 card from your Hand, place it into Waiting Room.
+【S】［REST 1 of your other Character and this card］ Choose 1 of your Characters, until the end of your opponent's next turn, it gets 1000 Power.
+【起】［(1)］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。
+【起】［他のあなたのキャラを1枚とこのカードを【レスト】する］あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。
+Flavor Text:
+パパ……ママ……。
+ぜんぶ、思い出したよ……
+
+==========================
+
+謎の少女 ユイ
+SAO/S20-076 RR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Net ネット,
+Card Text/Abilities:
+【S】［①］ Draw 1 card, choose 1 card from your Hand, place it into Waiting Room.
+【S】［REST 1 of your other Character and this card］ Choose 1 of your Characters, until the end of your opponent's next turn, it gets 1000 Power.
+【起】［(1)］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。
+【起】［他のあなたのキャラを1枚とこのカードを【レスト】する］あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。
+Flavor Text:
+パパ……ママ……。
+ぜんぶ、思い出したよ……
+
+==========================
+
+《黒の剣士》キリト
+SAO/S20-077R RRR
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】［③ Place 1 card from Hand into Clock］ When 「二刀流》の使い手">《二刀流》の使い手」 is placed into your Climax slot, you may pay the cost. If you did, during this turn, this card gets +3500 Power, gains the following ability.『【A】 This ability can only be activated up to 1 time each turn. When this card's battle opponent becomes REVERSE, you may STAND this card.』
+【A】 When this card attacks, reveal the top card of your Deck. If that card is a 《アバター》 or 《ネット》 Character, add it to Hand. (If its not, return it to its original position)
+【自】［③ 手札を1枚クロック置場に置く］ あなたのクライマックス置場に「《二刀流》の使い手」が置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋3500し、このカードは次の能力を得る。『【自】 この能力は1ターンにつき1回まで発動する。このカードのバトル相手が【リバース】した時、あなたはこのカードを【スタンド】してよい。』
+【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《アバター》か《ネット》のキャラなら手札に加える。（そうでないなら元に戻す）
+Flavor Text:
+必ず勝つ。勝ってこの世界を終わらせる
+
+==========================
+
+《黒の剣士》キリト
+SAO/S20-077 RR
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】［③ Place 1 card from Hand into Clock］ When 「二刀流》の使い手">《二刀流》の使い手」 is placed into your Climax slot, you may pay the cost. If you did, during this turn, this card gets +3500 Power, gains the following ability.『【A】 This ability can only be activated up to 1 time each turn. When this card's battle opponent becomes REVERSE, you may STAND this card.』
+【A】 When this card attacks, reveal the top card of your Deck. If that card is a 《アバター》 or 《ネット》 Character, add it to Hand. (If its not, return it to its original position)
+【自】［③ 手札を1枚クロック置場に置く］ あなたのクライマックス置場に「《二刀流》の使い手」が置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋3500し、このカードは次の能力を得る。『【自】 この能力は1ターンにつき1回まで発動する。このカードのバトル相手が【リバース】した時、あなたはこのカードを【スタンド】してよい。』
+【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《アバター》か《ネット》のキャラなら手札に加える。（そうでないなら元に戻す）
+Flavor Text:
+必ず勝つ。勝ってこの世界を終わらせる
+
+==========================
+
+刀使い クライン
+SAO/S20-078 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a 《アバター》 or 《ネット》 Character, choose 1 of your Characters, during this turn, it gets +1000 Power. (Return revealed card to its original position)
+【S】 CONCENTRATE ［①］ Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose 1 of your 《アバター》 or 《ネット》 Character, until the end of your opponent's next turn, it gets +1000 Power.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《アバター》か《ネット》のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。（公開したカードは元に戻す）
+【起】 集中 ［①］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の、《アバター》か《ネット》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。
+Flavor Text:
+おお、キリト！ しばらくだな
+
+==========================
+
+戦場に身を置くキリト
+SAO/S20-079R RRR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】［① Place 1 card from Hand into Waiting Room］ When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《アバター》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【自】［① 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《アバター》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+
+==========================
+
+戦場に身を置くキリト
+SAO/S20-079 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】［① Place 1 card from Hand into Waiting Room］ When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 《アバター》 Character, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【自】［① 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《アバター》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+簡単に負ける気はないさ
+
+==========================
+
+大切な人のために キリト
+SAO/S20-080S SR
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】［①］ When this card attacks, if 「世界の終焉」 is in the Climax slot, you may pay the cost. If you did, draw 1 card.
+【A】 ACCELERATE ［Place the top card of your Deck into Clock］ At the beginning of your Climax Phase, you may pay the cost. If you did, until the end of your opponent's next turn, this card gets +2500 Power.
+【自】［①］ このカードがアタックした時、クライマックス置場に「世界の終焉」があるなら、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。
+【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードのパワーを＋2500。
+Flavor Text:
+
+==========================
+
+大切な人のために キリト
+SAO/S20-080 R
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】［①］ When this card attacks, if 「世界の終焉」 is in the Climax slot, you may pay the cost. If you did, draw 1 card.
+【A】 ACCELERATE ［Place the top card of your Deck into Clock］ At the beginning of your Climax Phase, you may pay the cost. If you did, until the end of your opponent's next turn, this card gets +2500 Power.
+【自】［①］ このカードがアタックした時、クライマックス置場に「世界の終焉」があるなら、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。
+【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードのパワーを＋2500。
+Flavor Text:
+――もう一度、俺に力を貸してくれ
+
+==========================
+
+人工知能 ユイ
+SAO/S20-081SP SP
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Net ネット,
+Card Text/Abilities:
+【A】［②］ When this card attacks, if 「突然の別れ」 is in the Climax slot, you may pay the cost. If you did, draw up to 2 cards.
+【自】［②］ このカードがアタックした時、クライマックス置場に「突然の別れ」があるなら、あなたはコストを払ってよい。そうしたら、あなたは2枚まで引く。
+Flavor Text:
+《メンタルヘルス・カウンセリングプログラム》試作一号、
+コードネーム《Yui》
+それがわたしです
+
+==========================
+
+人工知能 ユイ
+SAO/S20-081 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Net ネット,
+Card Text/Abilities:
+【A】［②］ When this card attacks, if 「突然の別れ」 is in the Climax slot, you may pay the cost. If you did, draw up to 2 cards.
+【自】［②］ このカードがアタックした時、クライマックス置場に「突然の別れ」があるなら、あなたはコストを払ってよい。そうしたら、あなたは2枚まで引く。
+Flavor Text:
+《メンタルヘルス・カウンセリングプログラム》試作一号、
+コードネーム《Yui》
+それがわたしです
+
+==========================
+
+ユニークスキルの発現 キリト
+SAO/S20-082 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【C】 For each Marker under this card, this card gets +1 Level, +1500 Power.
+【A】 When this card's battle opponent becomes REVERSE, you may place the top card of your Deck under this card as a Marker.
+【A】［Place all Markers under this card into Waiting Room］ When another of your Character attacks, if you have 5 or more Markers under this card, you may pay the cost. If you did, STAND this card, during this turn, this card gets +6000 Power.
+【永】 このカードの下のマーカー1枚につき、このカードのレベルを＋1し、パワーを＋1500。
+【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置いてよい。
+【自】［このカードの下のマーカーすべてを控え室に置く］ 他のあなたのキャラがアタックした時、このカードの下のマーカーが5枚以上なら、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】し、そのターン中、このカードのパワーを＋6000。
+Flavor Text:
+……ぁぁぁああああああ！！
+
+==========================
+
+ソロプレイヤー キリト
+SAO/S20-083 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【C】 If you have no other Characters, this card gets +1 Level, +1500 Power.
+【永】 他のあなたのキャラがいないなら、このカードのレベルを＋1し、パワーを＋1500。
+Flavor Text:
+言っとくが俺はソロだ。
+一日二日オレンジになるくらいどうってことないぞ
+
+==========================
+
+月夜の黒猫団 サチ
+SAO/S20-084 U
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【C】 During your opponent's turn, this card gets +1000 Power.
+【永】 相手のターン中、このカードのパワーを＋1000。
+Flavor Text:
+何よ、人をみそっかすみたいに
+
+==========================
+
+強い絆 キリト
+SAO/S20-085 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【C】 All your other Characters with 「アスナ」 in its name get +500 Power.
+【C】 During your opponent's turn, all your other Characters get +500 Power.
+【永】 他のあなたのカード名に「アスナ」を含むキャラすべてに、パワーを＋500。
+【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+俺の命は君のものだ、アスナ。
+だから君のために使う
+
+==========================
+
+品定めするキリト
+SAO/S20-086 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【C】 If you have another Character with 「アスナ」 in its name, this card gets +1000 Power, gains 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』.
+【永】 他のあなたのカード名に「アスナ」を含むキャラがいるなら、このカードのパワーを＋1000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。
+Flavor Text:
+相変わらず阿漕な商売してるようだな
+
+==========================
+
+品定めするキリト
+SAO/S20-087 U
+Type: Character
+Level: 1
+Color: Blue
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】 CHANGE ［② Place 1 card from Hand into Waiting Room, place this card into Waiting Room］ At the beginning of your Climax Phase, you may pay the cost. If you did, choose 1 「ユニークスキルの発現 キリト」 from your Waiting Room, place it into this card's previous slot.
+【自】 チェンジ ［② 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ユニークスキルの発現 キリト」を1枚選び、このカードがいた枠に置く。
+Flavor Text:
+俺は構わないよ。気にしないでいい
+
+==========================
+
+ふたりの子供 ユイ
+SAO/S20-088 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Net ネット,
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【S】［REST this card］ Choose 1 of your Characters with 「キリト」 or 「アスナ」 in its name, during this turn, it gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】［このカードを【レスト】する］ あなたは自分のカード名に「キリト」か「アスナ」を含むキャラを1枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+パパと、おんなじのがいい
+
+==========================
+
+穏やかな日常 キリト
+SAO/S20-089 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】 BOND／「着替え中のアスナ」［①］(When this card is played on Stage, you may pay this cost. If you do, choose 1 「着替え中のアスナ」 from your
+Waiting Room, return to Hand)
+【自】 絆／「着替え中のアスナ」 ［①］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「着替え中のアスナ」を1枚選び、手札に戻す）
+Flavor Text:
+おはよう。よく眠れた？
+
+==========================
+
+戦いのはじまり キリト
+SAO/S20-090 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+戦いのはじまり キリト
+
+==========================
+
+芽生えた思慕 サチ
+SAO/S20-091 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【A】［② Place this card into Memory］ When this card becomes REVERSE in battle, you may pay the cost. If you did, draw 1 card.
+【自】［(2) このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。
+Flavor Text:
+……ほんとに？
+
+==========================
+
+愛らしい少女 ユイ
+SAO/S20-092 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Net ネット,
+Card Text/Abilities:
+Flavor Text:
+ママ！
+
+==========================
+
+五十五層の雪山 キリト
+SAO/S20-093 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【S】● ASSIST 3000 Level 2［① Place this card from Hand to Waiting Room］(Choose 1 of your Characters being
+Front Attacked, during this turn, it gets +3000 Power.)
+【起】● 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）
+Flavor Text:
+どうした、リズベット？もう限界か？
+
+==========================
+
+血盟騎士団への入団 キリト
+SAO/S20-094 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【C】 During your opponent's turn, this card gets +1000 Power.
+【永】 相手のターン中、このカードのパワーを＋1000。
+Flavor Text:
+…… じ、地味な奴って頼まなかったっけ……
+
+==========================
+
+斧戦士 エギル
+SAO/S20-095 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+今日の戦利品で一儲けするまではくたばる気はないぜ
+
+==========================
+
+プロポーズ
+SAO/S20-096 U
+Type: Event
+Level: 2
+Color: Blue
+Cost: 2
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your 「血盟騎士団への入団 キリト」, you may place it into Waiting Room. If you did, choose 1 「黒の剣士》キリト">《黒の剣士》キリト」 from your Waiting Room, place it into any slot on Stage, until the end of your opponent's next turn, that card gets +1500 Power. Place this card into Memory.
+あなたは自分の「血盟騎士団への入団 キリト」を1枚選び、控え室に置いてよい。そうしたら、あなたは自分の控え室の「《黒の剣士》キリト」を1枚選び、舞台の好きな枠に置き、次の相手のターンの終わりまで、そのキャラのパワーを＋1500。このカードを思い出にする。
+Flavor Text:
+……け、結婚しよう
+
+==========================
+
+ありがとう、さよなら
+SAO/S20-097 U
+Type: Event
+Level: 1
+Color: Blue
+Cost: 1
+Trigger:
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 of your opponent's Character with Level 3 or lower. That Character cannot STAND during your opponent's next Stand Phase.
+あなたは相手のレベル3以下のキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。
+Flavor Text:
+
+==========================
+
+《二刀流》の使い手
+SAO/S20-098 CR
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: B
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Book：When this card is triggered, you may draw 1 card)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（引＠：このカードがトリガーした時、あなたは1枚引いてよい）
+Flavor Text:
+うおおぉぉおあぁぁ!!
+
+==========================
+
+世界の終焉
+SAO/S20-099 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+アスナ「ありがとう……愛しています……」
+
+==========================
+
+突然の別れ
+SAO/S20-100 CC
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+お願いです、これからも……
+わたしのかわりに……みんなを助けて……
+喜びを分けてください……
+
+==========================
+
+ＳＤアスナ
+SAO/S20-106 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger:
+Power: 5000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【C】 During your turn, this card gets +1000 Power.
+【永】 あなたのターン中、このカードのパワーを＋1000。
+Flavor Text:
+もう、キリトくんのいじわる
+
+==========================
+
+ＳＤシリカ
+SAO/S20-107 PR
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger:
+Power: 1000
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+Flavor Text:
+もう、キリトくんのいじわる
+
+==========================
+
+ＳＤキリト
+SAO/S20-108 PR
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 9000
+Soul: 2
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+Flavor Text:
+あれじゃ、まるで飢えた肉食獣だ
+
+==========================
+
+ＳＤユイ
+SAO/S20-109 PR
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Net ネット,
+Card Text/Abilities:
+Flavor Text:
+だいじょうぶだよ、パパ、ママ
+
+==========================
+
+ふたつの世界 アスナ
+SAO/S20-P04 PR
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 1
+Trigger:
+Power: 6500
+Soul: 1
+Traits:: Avatar アバター,_Weapon 武器
+Card Text/Abilities:
+【S】［①］ During this turn, this card gets +1 Soul.
+【起】［①］ そのターン中、このカードのソウルを＋1。
+Flavor Text:
+ううん、信じてた。
+きっと――助けに来てくれるって…
+
+==========================
+

@@ -117,24 +117,25 @@ public class Importer {
 					// System.out.println("<END OF CARD>");
 					isStart = true;
 					// newCard.setImage(new File("FieldImages/Vertical.png"));
-					if (new File("src" + newCard.getImageResource()).exists()) {
+					if (!new File("src" + newCard.getImageResource()).exists()) {
 						// if (newCard.getImage().exists()) {
 						// Card c = allCards.put(newCard.getCardName(),
 						// newCard);
-						System.out.println(newCard.getImageResource());
-						Card c = allCards.put(newCard.getID(), newCard);
-						if (c == null) {
-							setCards.add(newCard);
+						newCard.setImageResource("/resources/FieldImages/cardBack-s.jpg");	
+					}
+					System.out.println(newCard.getImageResource());
+					Card c = allCards.put(newCard.getID(), newCard);
+					if (c == null) {
+						setCards.add(newCard);
 
-						} else {
-							// c.setID(newCard.getID());
-							// allCards.put(newCard.getCardName(), c);
-							allCards.put(newCard.getID(), c);
-							// if (!c.getImage().exists()) {
-							// setCards.remove(c);
-							// setCards.add(newCard);
-							// }
-						}
+					} else {
+						// c.setID(newCard.getID());
+						// allCards.put(newCard.getCardName(), c);
+						allCards.put(newCard.getID(), c);
+						// if (!c.getImage().exists()) {
+						// setCards.remove(c);
+						// setCards.add(newCard);
+						// }
 					}
 
 				} else if (str.isEmpty() && !isStart) {

@@ -1,0 +1,36 @@
+Changelog:
+02/24/2013 (WSDB Beta 1.5.14)
+- Added P4U Extra Booster and Sword Art Online
+- Various interface updates
+- Added missing stock (gold bag) trigger (oops.)
+
+02/04/2013 (WSDB Beta 1.4.13)
+- Added Milky Holmes 2, Sword Art Online TD, Little Busters! Anime TD, and D.C. 10th Anniversary Mix
+- Interface updates
+ 
+12/15/2012 (WSDB Beta 1.3.12)
+- Added Robotics;Notes
+ 
+11/08/2012 (WSDB Beta 1.3.11)
+- Added Rewrite Harvest festa! and Accel World
+- Added various previously missing promos
+- Fixed Java version discrepancy issues (single CardDatav2 file once again)
+- Fixed a bug where the incorrect card would be displayed when scrolling with arrow keys under a different sorting
+ 
+09/26/2012 (WSDB Beta 1.3.10)
+- Added Symphogear, IM@S Anime, Fate/Zero, Shana Final Extra Boosters
+- Added Milky Holmes 2, Accel World, Robotics;Notes Trial Decks
+- Signed and holos are now included in the search list.
+ 
+06/05/2012 (WSDB Beta 1.2.9)
+- Added FZ Extra Pack (was missing in previous versions, apologies)
+ 
+05/26/2012 (WSDB Beta 1.2.8)
+
+====================
+
+Credits:
+Frank Chen - Original program conception, main programmer for user interface
+William Lam - Card data management, support programmer for user interface
+ 
+Thanks to littleakiba for their permission to use their card data/translations.

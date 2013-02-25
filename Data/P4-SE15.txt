@@ -1,0 +1,778 @@
+自称特別捜査隊 陽介
+P4/SE15-01 R
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Junes ジュネス,_Headphones ヘッドフォン
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card gets +500 Power.
+【S】［REST this card］Choose 1 of your 《ジュネス》 Character, during this turn, it gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【起】［このカードを【レスト】する］ あなたは自分の《ジュネス》のキャラを1枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+大勢でテーブル囲むのは楽しいぜ。
+「友達同士」なら、なおさらだ
+
+==========================
+
+「鋼のシスコン番長」鳴上 悠
+P4/SE15-02 R
+Type: Character
+Level: 3
+Color: Yellow
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【C】If this card is on Stage, this card's name is also 「「鋼のシスコン番長」主人公」
+【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.
+【A】［①］When this card's battle opponent with Level 2 or higher becomes REVERSE, you may pay the cost. If you did, search your Deck for up to 1 《魔法》 Character or Character with 「菜々子」 in its name, show it to your opponent, add it to Hand. Shuffle your Deck afterwards.
+【永】 舞台にこのカードがいるなら、このカードのカード名は「「鋼のシスコン番長」主人公」としても扱う。
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】［①］ このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て、《魔法》かカード名に「菜々子」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+可愛い菜々子は誰にも渡さん！
+
+==========================
+
+お手伝い 菜々子
+P4/SE15-03 C
+Type: Character
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Junes ジュネス,_Television テレビ
+Card Text/Abilities:
+【C】If you have 1 or less other Character, this card gets +1000 Power, gains 『【A】 ENCORE ［Place 1 Character from Hand into Waiting Room］』.
+【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。
+Flavor Text:
+菜々子もお手伝いする！
+
+==========================
+
+「キャプテン・ルサンチマン」花村 陽介
+P4/SE15-04 C
+Type: Character
+Level: 1
+Color: Yellow
+Cost: 0
+Trigger: 0
+Power: 5500
+Soul: 1
+Traits:: Junes ジュネス,_Headphones ヘッドフォン
+Card Text/Abilities:
+Flavor Text:
+寂れた田舎を踏み台に
+大英雄に俺はなる！
+
+==========================
+
+自称特別捜査隊 悠
+P4/SE15-05 C
+Type: Character
+Level: 2
+Color: Yellow
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【C】If this card is on Stage, this card's name is also 「自称特別捜査隊 主人公」
+【A】［①］ When this card attacks, if「Ｐ－１グランプリ開戦！」is in the Climax slot, you may pay the cost. If you did, during this turn, this card gets +3000 Power, gains the following ability. 『【A】 This ability only can be activated up to 1 time each turn. If the Damage dealt by this card is cancelled, you may deal 1 damage to your opponent.』(Damage can be cancelled)
+【永】 舞台にこのカードがいるなら、このカードのカード名は「自称特別捜査隊 主人公」としても扱う。
+【自】［①］ このカードがアタックした時、クライマックス置場に「Ｐ－１グランプリ開戦！」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋3000し、このカードは次の能力を得る。『【自】 この能力は1ターンにつき1回まで発動する。このカードの与えたダメージがキャンセルされた時、あなたは相手に1ダメージを与えてよい。』（ダメージキャンセルは発生する）
+Flavor Text:
+寂れた田舎を踏み台に
+大英雄に俺はなる！
+
+==========================
+
+Ｐ－１グランプリ開戦！
+P4/SE15-06 C
+Type: Climax
+Level: 0
+Color: Yellow
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【A】When this card is placed into Climax slot from Hand, draw 1 card, choose 1 of your Characters, during this turn, it gets +2000 Power, +1 Soul.
+【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。
+Flavor Text:
+ライバル、それは―
+“強敵”と書いて“友”と読む！
+
+==========================
+
+「全身凶器の心なき天使」アイギス
+P4/SE15-07 R
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1500
+Soul: 1
+Traits:: Mecha メカ,_Weapon 武器
+Card Text/Abilities:
+【C】 If you have no other Characters, this card gets +2000 Power.
+【S】 CONCENTRATE［① REST this card］Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, perform the following action. 『Choose 1 card from your Clock, return it to Hand, place the top card of your Deck into Clock.』
+【永】 他のあなたのキャラがいないなら、このカードのパワーを＋2000。
+【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分のクロックを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。』
+Flavor Text:
+その指は機銃 その目は照準器
+
+==========================
+
+「八高・鋼鉄の生徒会長！」ラビリス
+P4/SE15-08 R
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Mecha メカ,_Student Council 生徒会
+Card Text/Abilities:
+【A】 When is card is placed on Stage from Hand, during this turn, it gets +1500 Power.
+【A】［①］When 「ラビリスの怒り」 is placed into your Climax slot, if this card is in the Front Row, you may pay the cost. If you did, choose 1 of your opponent's Character in the Front Row, during this turn, it gets -4000 Power.
+【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。
+【自】［① ］ あなたのクライマックス置場に「ラビリスの怒り」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－4000。
+Flavor Text:
+風紀の乱れにチェーンナックル！
+
+==========================
+
+「八高・鋼鉄の生徒会長！」ラビリス
+P4/SE15-08 SP
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Mecha メカ,_Student Council 生徒会
+Card Text/Abilities:
+【A】 When is card is placed on Stage from Hand, during this turn, it gets +1500 Power.
+【A】［①］When 「ラビリスの怒り」 is placed into your Climax slot, if this card is in the Front Row, you may pay the cost. If you did, choose 1 of your opponent's Character in the Front Row, during this turn, it gets -4000 Power.
+【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。
+【自】［① ］ あなたのクライマックス置場に「ラビリスの怒り」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－4000。
+Flavor Text:
+
+==========================
+
+「男勝りの足技系ドラゴン」里中 千枝
+P4/SE15-09 R
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Sports スポーツ,_Magic 魔法
+Card Text/Abilities:
+【C】 If you have 3 or more other 《スポーツ》 Characters, this card gets +1000 Power.
+【永】 他のあなたの《スポーツ》のキャラが3枚以上なら、このカードのパワーを＋1000。
+Flavor Text:
+女を捨てた肉食獣
+
+==========================
+
+「皆殺しの猛牛総統」シャドウラビリス
+P4/SE15-10 R
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Shadow 影,_Weapon 武器
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.
+【A】［①］When this card's battle opponent with Level 2 or higher becomes REVERSE, if 「アステリオス出現」is in the Climax slot, you may pay the cost. If you did, choose 1 of your opponent's Character in the Front Row with Level 2 or lower, place it into Clock.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】［①］ このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたのクライマックス置場に「アステリオス出現」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル2以下のキャラを1枚選び、クロック置場に置く。
+Flavor Text:
+女を捨てた肉食獣
+
+==========================
+
+「皆殺しの猛牛総統」シャドウラビリス
+P4/SE15-10 SP
+Type: Character
+Level: 3
+Color: Green
+Cost: 2
+Trigger: 1
+Power: 10000
+Soul: 2
+Traits:: Shadow 影,_Weapon 武器
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, you may place the top card of your Clock into Waiting Room.
+【A】［①］When this card's battle opponent with Level 2 or higher becomes REVERSE, if 「アステリオス出現」is in the Climax slot, you may pay the cost. If you did, choose 1 of your opponent's Character in the Front Row with Level 2 or lower, place it into Clock.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。
+【自】［①］ このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたのクライマックス置場に「アステリオス出現」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル2以下のキャラを1枚選び、クロック置場に置く。
+Flavor Text:
+
+==========================
+
+Ｐ－１グランプリの主催者！ クマ総統
+P4/SE15-11 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 1000
+Soul: 1
+Traits:: Shadow 影,_Weapon 武器
+Card Text/Abilities:
+【A】［②］When this card is placed on Stage from Hand, you may pay the cost. If you did, search your Deck for up to 1 Character with Level 2 or higher, show it to your opponent, add it to Hand. Shuffle you Deck afterwards.
+【自】［②］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル2以上のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。
+Flavor Text:
+漢の中の漢たち、出てこいクマーー！！
+
+==========================
+
+機体番号０２４
+P4/SE15-12 C
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 2500
+Soul: 1
+Traits:: Mecha メカ,
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, during this turn, this card gets +1500 Power.
+【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。
+Flavor Text:
+あなたと一緒に、“彼女”に会いに行けたら、きっと素敵ね
+
+==========================
+
+Ｐ－１グランプリ専属実況 りせ
+P4/SE15-13 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Music 音楽,_Television テレビ
+Card Text/Abilities:
+【S】［REST 2 Characters］ During this turn, this card gets +2000 Power.
+【起】［あなたのキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2000。
+Flavor Text:
+戦う覚悟はアーユーオッケー！？
+
+==========================
+
+未来の婦人警官 千枝
+P4/SE15-14 C
+Type: Character
+Level: 1
+Color: Green
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Sports スポーツ,_Magic 魔法
+Card Text/Abilities:
+【A】 ENCORE ［Place 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+こりゃ愛家で肉丼特盛コースかな！？
+
+==========================
+
+姉妹の再会 アイギス
+P4/SE15-15 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 2500
+Soul: 1
+Traits:: Mecha メカ,_Weapon 武器
+Card Text/Abilities:
+【S】● ASSIST 3000 Level 2［① Place this card from Hand into Waiting Room］(Choose 1 of your Characters being Front Attacked, during this turn, it gets +3000 Power.)
+【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）
+Flavor Text:
+まずは帰りましょう、りせさん、姉さん。
+みなさんが待つ場所へ
+
+==========================
+
+運命の対峙 ラビリス
+P4/SE15-16 C
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Mecha メカ,_Student Council 生徒会
+Card Text/Abilities:
+【A】［③ Place this card into Memory］ When this card is placed on Stage from Hand, you may pay the cost. If you did, choose up to 1 「「皆殺しの猛牛総統」シャドウラビリス」 from your Hand,  place it into any slot on Stage, at the beginning of your next Draw Phase, choose 1 「運命の対峙 ラビリス」 from your Memory, place it into any slot on Stage.
+【自】［③ このカードを思い出にする］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「「皆殺しの猛牛総統」シャドウラビリス」を1枚まで選び、舞台の好きな枠に置き、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「運命の対峙 ラビリス」を1枚選び、舞台の好きな枠に置く。
+Flavor Text:
+独りやってんなぁ…あんただけやなく、ウチも
+
+==========================
+
+ラビリスの怒り
+P4/SE15-17 C
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+ウチの…大事な…約束なんやぁぁぁーッ！
+
+==========================
+
+アステリオス出現
+P4/SE15-18 C
+Type: Climax
+Level: 0
+Color: Green
+Cost: 0
+Trigger: G
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gold：When this card is Triggered, put this card in your hand. You may put the top card of your deck to Stock)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（宝＠：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）
+Flavor Text:
+シャドウラビリス「これで、私は、私よぉぉぉッ！」
+
+==========================
+
+仲間との約束 雪子
+P4/SE15-19 R
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Fan 扇子,_Magic 魔法
+Card Text/Abilities:
+【S】CONCENTRATE［① REST this card］Flip the top 4 cards of your Deck, place them into Waiting Room. For each Climax among those cards, choose up to 1 Character from your Waiting Room, return it to Hand.
+【起】 集中 ［① このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。
+Flavor Text:
+大丈夫だよ、私たちだっているし
+
+==========================
+
+「戦慄のガチムチ皇帝」巽 完二
+P4/SE15-20 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 5000
+Soul: 1
+Traits:: Delinquent 不良,_Magic 魔法
+Card Text/Abilities:
+【A】［① Place the top card of your Deck into Clock］ When 「ゲンコと絆」 is in your Climax slot, if this card is in the Front Row, you may pay the cost. If you did, choose 1 of your opponent's Character with Cost 0 or lower, place it into Waiting Room, during this turn, this card gets +3000 Power.
+【自】［① あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックス置場に「ゲンコと絆」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のコスト0以下のキャラを1枚選び、控え室に置き、そのターン中、このカードのパワーを＋3000。
+Flavor Text:
+薔薇と肉体の狂い咲き！
+
+==========================
+
+「難攻不落の“黒”雪姫」天城 雪子
+P4/SE15-21 R
+Type: Character
+Level: 1
+Color: Red
+Cost: 1
+Trigger: 0
+Power: 6500
+Soul: 1
+Traits:: Fan 扇子,_Magic 魔法
+Card Text/Abilities:
+【C】 If you have 3 or more other 《扇子》 or 《和服》 Character, this card gets +500 Power, gains 『【A】 ENCORE ［Place 1 Character from Hand to Waiting Room］』.
+【永】 他のあなたの、《扇子》か《和服》のキャラが3枚以上なら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。
+Flavor Text:
+王子様 私をリングに連れてって！
+
+==========================
+
+守るための拳 明彦
+P4/SE15-22 C
+Type: Character
+Level: 0
+Color: Red
+Cost: 0
+Trigger: 0
+Power: 3000
+Soul: 1
+Traits:: Magic 魔法,_Sports スポーツ
+Card Text/Abilities:
+Flavor Text:
+求めるものがあるなら、戦え
+
+==========================
+
+“生涯かけての勝負”完二
+P4/SE15-23 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 1
+Trigger: 1
+Power: 7500
+Soul: 1
+Traits:: Delinquent 不良,_Magic 魔法
+Card Text/Abilities:
+【A】 When this card is placed on Stage from Hand, choose 1 of your other 《魔法》 Character, during this turn, it gets +2000 Power.
+【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋2000。
+Flavor Text:
+さあて…やってやんぜオラァ！！
+
+==========================
+
+「剛拳のプロテインジャンキー！」真田 明彦
+P4/SE15-24 C
+Type: Character
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Magic 魔法,_Sports スポーツ
+Card Text/Abilities:
+【C】 The Character facing this card gains 『【A】ENCORE ［Place 1 Character from Hand to Waiting Room］』.
+【永】 このカードの正面のキャラに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。
+Flavor Text:
+帰ってきた力の狂信者！
+
+==========================
+
+武者修行
+P4/SE15-25 C
+Type: Event
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose up to 2 Characters from your Waiting Room, return them to Hand.
+あなたは自分の控え室のキャラを2枚まで選び、手札に戻す。
+Flavor Text:
+実は、そろそろ禁断症状が出そうなほど
+体が“あれ”を求めていたところだ
+
+==========================
+
+物体Xの恐怖
+P4/SE15-26 C
+Type: Event
+Level: 2
+Color: Red
+Cost: 2
+Trigger: 0
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+Choose 1 opponent's Front Row Character, placed it into Waiting Room.
+あなたは相手の前列のキャラを1枚選び、控え室に置く。
+Flavor Text:
+雪子「ちょうど良かった！
+事件解決のお祝いに、お弁当食べよう？」
+
+==========================
+
+ゲンコと絆
+P4/SE15-27 C
+Type: Climax
+Level: 0
+Color: Red
+Cost: 0
+Trigger: D
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +1000 Power, +1 Soul.
+(Gate：When this card is Triggered, choose 1 Character from your Waiting Room, return to hand)
+【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。
+（拾＠：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）
+Flavor Text:
+テメェがオレっつーんなら、分かってンだろ。
+…ゲンコは１番ウソつかねえってな！
+
+==========================
+
+自称特別捜査隊 クマ
+P4/SE15-28 R
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 1
+Power: 3500
+Soul: 1
+Traits:: Shadow 影,_Animal 動物
+Card Text/Abilities:
+【C】 SUPPORT During your opponent's turn, all your Characters in front of this card gets +1000 Power.
+【A】 When this card is placed on Stage from Hand, look at the top card of your Deck, place it to the top or bottom of the Deck.
+【永】 応援 相手のターン中、このカードの前のあなたのキャラすべてに、パワーを＋1000。
+【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。
+Flavor Text:
+でも、クマのことちゃんと分かってくれる仲間がいたクマ
+
+==========================
+
+「孤高の処刑女王！」桐条 美鶴
+P4/SE15-29 R
+Type: Character
+Level: 2
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 7500
+Soul: 2
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【A】 ENCORE ［Place 1 Character from Hand to Waiting Room］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【S】［① Place 1 card from Hand to Waiting Room］Until the end of your opponent's next turn, this card gets +3000 Power.
+【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+【起】［① 手札を1枚控え室に置く］ 次の相手のターンの終わりまで、このカードのパワーを＋3000。
+Flavor Text:
+孤独な玉座で悪を裁く！
+
+==========================
+
+「IQ2000のKY探偵」　白鐘 直斗
+P4/SE15-30 R
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Disguise 男装,_Detective 探偵
+Card Text/Abilities:
+【C】 If you have 3 or more other 《男装》 or 《女装》 Characters, this card gets +1000 Power, gains the following ability.『【A】 When this card's battle opponent with Level 2 or higher becomes REVERSE, you may draw 1 card.』
+【A】When this card is placed on Stage from Hand, draw up to 2 cards, choose 1 card from your Hand, place it into Waiting Room.
+【永】 他のあなたの、《男装》か《女装》のキャラが3枚以上なら、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたは1枚引いてよい。』
+【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+見た目は子供　頭脳はバケモノ！
+
+==========================
+
+「IQ2000のKY探偵」　白鐘 直斗
+P4/SE15-30 SP
+Type: Character
+Level: 3
+Color: Blue
+Cost: 2
+Trigger: 1
+Power: 9500
+Soul: 2
+Traits:: Disguise 男装,_Detective 探偵
+Card Text/Abilities:
+【C】 If you have 3 or more other 《男装》 or 《女装》 Characters, this card gets +1000 Power, gains the following ability.『【A】 When this card's battle opponent with Level 2 or higher becomes REVERSE, you may draw 1 card.』
+【A】When this card is placed on Stage from Hand, draw up to 2 cards, choose 1 card from your Hand, place it into Waiting Room.
+【永】 他のあなたの、《男装》か《女装》のキャラが3枚以上なら、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたは1枚引いてよい。』
+【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+
+==========================
+
+「色欲の猛獣」クマ
+P4/SE15-31 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 2000
+Soul: 1
+Traits:: Shadow 影,_Animal 動物
+Card Text/Abilities:
+【A】［Place this card into Waiting Room］When another of your Characters is placed into Waiting Room from Stage, if this card is in the Back Row, you may pay the cost. If you did, place that Character into its previous position in REST.
+【自】［このカードを控え室に置く］ 他のあなたのキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。
+Flavor Text:
+その虚空　すべてを呑み込む！
+
+==========================
+
+「史上最凶のエレベーターガール」エリザベス
+P4/SE15-32 C
+Type: Character
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 3500
+Soul: 1
+Traits:: Magic 魔法,_God 神
+Card Text/Abilities:
+【A】When this card is placed on Stage from Hand, reveal the top card of your Deck. If that card is a Climax, place this card into Waiting Room.(Return revealed card to its original position)
+【S】［①］ Draw 1 card, choose 1 card from your Hand, place it into Waiting Room.
+【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、このカードを控え室に置く。（公開したカードは元に戻す）
+【起】［①］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+どちら様にもメギドラオンでございます
+
+==========================
+
+永い旅路の途中 エリザベス
+P4/SE15-33 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4000
+Soul: 1
+Traits:: Magic 魔法,_God 神
+Card Text/Abilities:
+【C】 If your Hand has 5 or more cards, this card gets +2000 Power.
+【A】 ENCORE ［Place the top card of your Deck into Clock］ (When this card is placed into Waiting Room from Stage, you may pay this cost. If you do, place this card in its previous slot in REST)
+【永】 あなたの手札が5枚以上なら、このカードのパワーを＋2000。
+【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）
+Flavor Text:
+私も…今は自分で決めた願い事があるのです
+
+==========================
+
+シャドウワーカー隊長 美鶴
+P4/SE15-34 C
+Type: Character
+Level: 1
+Color: Blue
+Cost: 0
+Trigger: 0
+Power: 4500
+Soul: 1
+Traits:: Magic 魔法,_Weapon 武器
+Card Text/Abilities:
+【A】 When this card's battle opponent becomes REVERSE, you may draw 1 card. If you did, choose 1 card from your Hand, place it into Waiting Room.
+【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。
+Flavor Text:
+さあ、断罪の時間だ！！
+
+==========================
+
+潜入捜査 直斗
+P4/SE15-35 C
+Type: Character
+Level: 2
+Color: Blue
+Cost: 1
+Trigger: 1
+Power: 7000
+Soul: 1
+Traits:: Disguise 男装,_Detective 探偵
+Card Text/Abilities:
+【C】For each of your other 《男装》 or 《女装》 Characters, this card gets +500 Power.
+【A】［①］ When this card attacks, if 「放送室突入！」 in the Climax slot, you may pay the cost. If you did, draw 2 cards, choose 1 card from your Hand, place it into Waiting Room, during this turn, this card gets +1000 Power.
+【永】 他のあなたの、《男装》か《女装》のキャラ1枚につき、このカードのパワーを＋500。
+【自】［①］ このカードがアタックした時、クライマックス置場に「放送室突入！」があるなら、あなたはコストを払ってよい。そうしたら、あなたは2枚引き、自分の手札を1枚選び、控え室に置き、そのターン中、このカードのパワーを＋1000。
+Flavor Text:
+止めて見せる…必ず！
+
+==========================
+
+放送室突入！
+P4/SE15-36 C
+Type: Climax
+Level: 0
+Color: Blue
+Cost: 0
+Trigger: 2
+Power: N/A
+Soul: N/A
+Traits:: ,
+Card Text/Abilities:
+【C】All your Characters get +2 Soul.
+【永】 あなたのキャラすべてに、ソウルを＋2。
+Flavor Text:
+久慈川さん！
+
+==========================
+
+ファイナルブレイク！ アイギス ファイナルブレイク！アイギス
+P4/SE15-P01 PR
+Type: Character
+Level: 2
+Color: Green
+Cost: 1
+Trigger: 1
+Power: 8000
+Soul: 1
+Traits:: Mecha メカ,_Weapon 武器
+Card Text/Abilities:
+【A】 ACCELERATE ［Place the top card of your Deck into Clock］ At the beginning of your Climax phase, you may pay this cost. If you did, during this turn, this card gets +4500 Power.
+【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋4500。
+Flavor Text:
+お別れであります！
+行きます、ファイナルブレイク！
+
+==========================
+
+支援のスペシャリスト 風花
+P4/SE15-P02 PR
+Type: Character
+Level: 0
+Color: Green
+Cost: 0
+Trigger: 0
+Power: 500
+Soul: 1
+Traits:: Magic 魔法,
+Card Text/Abilities:
+【C】 SUPPORT All your Characters in front of this card get +500 Power.
+【A】 When this card is placed on Stage from Hand, choose 1 of your other 《魔法》 Character, during this turn, it gets +500 Power.
+【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。
+【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋500。
+Flavor Text:
+何だか、すごい再会になっちゃいましたね
+
+==========================
+
