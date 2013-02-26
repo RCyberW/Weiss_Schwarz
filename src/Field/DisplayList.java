@@ -94,6 +94,35 @@ public class DisplayList extends JFrame {
 				thisPlayer.getField().repaintElements();
 			}
 		});
+
+		buttonRow.add(submit);
+
+		if (cardList.size() > 0) {
+			JButton toRoom = new JButton("Top to Waiting Room");
+			toRoom.addActionListener(new ActionListener() {
+				public void actionPerformed(ActionEvent e) {
+					thisPlayer.getField().getWaitingRoom()
+							.setCard(cardList.get(0));
+					cardList.remove(0);
+					dispose();
+					thisPlayer.getField().repaintElements();
+				}
+			});
+
+			JButton toBottom = new JButton("Top to Bottom");
+			toBottom.addActionListener(new ActionListener() {
+				public void actionPerformed(ActionEvent e) {
+					thisPlayer.getField().getDeckZone()
+							.setBotCard(cardList.get(0));
+					cardList.remove(0);
+					dispose();
+					thisPlayer.getField().repaintElements();
+				}
+			});
+			buttonRow.add(toBottom);
+			buttonRow.add(toRoom);
+		}
+
 		JButton cancel = new JButton("Cancel");
 		cancel.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
@@ -102,7 +131,6 @@ public class DisplayList extends JFrame {
 			}
 		});
 
-		buttonRow.add(submit);
 		buttonRow.add(cancel);
 
 		return buttonRow;
@@ -138,25 +166,25 @@ public class DisplayList extends JFrame {
 		cardTitle.setLineWrap(true);
 		cardTitle.setWrapStyleWord(true);
 		cardTitle.setEditable(false);
-		
+
 		JTextArea cardNumber = new JTextArea("level: "
 				+ selectedCard.getLevel() + " cost: " + selectedCard.getCost()
 				+ " trigger: " + selectedCard.getTrigger());
 		cardNumber.setLineWrap(true);
 		cardNumber.setWrapStyleWord(true);
 		cardNumber.setEditable(false);
-		
-		JTextArea power = new JTextArea(" power: "
-				+ selectedCard.getPower() + " soul: " + selectedCard.getSoul());
+
+		JTextArea power = new JTextArea(" power: " + selectedCard.getPower()
+				+ " soul: " + selectedCard.getSoul());
 		power.setLineWrap(true);
 		power.setWrapStyleWord(true);
 		power.setEditable(false);
-		
+
 		JTextArea text = new JTextArea(selectedCard.getEffects());
 		text.setLineWrap(true);
 		text.setWrapStyleWord(true);
 		text.setEditable(false);
-		
+
 		JScrollPane effect = new JScrollPane(text);
 		cardInfo.add(cardTitle);
 		cardInfo.add(cardNumber);

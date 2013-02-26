@@ -108,7 +108,7 @@ public class Deck_Zone extends FieldElement {
 		checkAction.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				showCard();
+				displayDeck(true);
 				associatedPlayer.getField().repaintElements();
 			}
 		});
@@ -123,7 +123,7 @@ public class Deck_Zone extends FieldElement {
 			}
 		});
 		popmenu.add(revealAction); // goes to resolution
-		
+
 		JMenuItem stockAction = new JMenuItem("stock top");
 		stockAction.addActionListener(new ActionListener() {
 			@Override
@@ -133,12 +133,12 @@ public class Deck_Zone extends FieldElement {
 			}
 		});
 		popmenu.add(stockAction); // goes to stock
-		
+
 		JMenuItem searchAction = new JMenuItem("search deck");
 		searchAction.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				displayDeck();
+				displayDeck(false);
 				associatedPlayer.getField().repaintElements();
 			}
 		});
@@ -185,9 +185,13 @@ public class Deck_Zone extends FieldElement {
 		}
 	}
 
-	private void displayDeck() {
+	private void displayDeck(boolean topOnly) {
 		DisplayList displayGui = new DisplayList(deckZone, associatedPlayer);
-
+		if (topOnly) {
+			ArrayList<Card> topOnlyList = new ArrayList<Card>();
+			topOnlyList.add(showCard());
+			displayGui = new DisplayList(topOnlyList, associatedPlayer);
+		}
 		displayGui.buildSelector();
 		displayGui.setVisible(true);
 	}

@@ -66,7 +66,7 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 	public Player player2;
 	// public Player currentPlayer;
 	private int offsetX = 150;
-	private int offsetY = 20;
+	private int offsetY = 22;
 	private boolean hasClocked = false;
 	private int gameID;
 
@@ -325,6 +325,8 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 
 		int i = 0;
 
+		translatedY = 0;
+
 		for (Phase phase : Phase.values()) {
 			if (currPhase == phase) {
 				g2.setColor(Color.RED);
@@ -332,6 +334,19 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 						(int) ((initialX + i * offsetX) * (gameScale)),
 						(int) ((initialY) * (gameScale) + translatedY));
 				g2.setColor(Color.BLUE);
+
+				int xval = (int) ((initialX + (i + 1) * offsetX - 5) * (gameScale));
+				if (i + 1 < Phase.values().length) {
+				} else {
+					xval = (int) ((initialX + (0) * offsetX - 5) * (gameScale));
+				}
+				nextRect = new Rectangle(xval,
+						(int) ((initialY - offsetY + 5) * (gameScale) + translatedY),
+						(int) (offsetX * gameScale),
+						(int) (offsetY * gameScale));
+				g.drawRect(nextRect.x, nextRect.y, nextRect.width,
+						nextRect.height);
+
 			} else {
 				g2.drawString(phase.toString(),
 						(int) ((initialX + i * offsetX) * (gameScale)),
@@ -340,52 +355,52 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 			i++;
 		}
 
-		if (player1.getCurrentPhase() == Phase.STAND_PHASE) {
-			// g.drawImage(bound, initialX, initialY, null);
-			nextRect = new Rectangle(
-					(int) ((initialX + 1 * offsetX) * (gameScale)),
-					(int) ((initialY) * (gameScale) + translatedY),
-					(int) (offsetX * gameScale), (int) (offsetY * gameScale));
-		} else if (player1.getCurrentPhase() == Phase.DRAW_PHASE) {
-			// g.drawImage(bound, initialX + 1 * offset, initialY, null);
-			nextRect = new Rectangle(
-					(int) ((initialX + 2 * offsetX) * (gameScale)),
-					(int) ((initialY) * (gameScale) + translatedY),
-					(int) (offsetX * gameScale), (int) (offsetY * gameScale));
-		} else if (player1.getCurrentPhase() == Phase.CLOCK_PHASE) {
-			// g.drawImage(bound, initialX + 2 * offset, initialY, null);
-			nextRect = new Rectangle(
-					(int) ((initialX + 3 * offsetX) * (gameScale)),
-					(int) ((initialY) * (gameScale) + translatedY),
-					(int) (offsetX * gameScale), (int) (offsetY * gameScale));
-		} else if (player1.getCurrentPhase() == Phase.MAIN_PHASE) {
-			// g.drawImage(bound, initialX + 3 * offset, initialY, null);
-			nextRect = new Rectangle(
-					(int) ((initialX + 4 * offsetX) * (gameScale)),
-					(int) ((initialY) * (gameScale) + translatedY),
-					(int) (offsetX * gameScale), (int) (offsetY * gameScale));
-		} else if (player1.getCurrentPhase() == Phase.CLIMAX_PHASE) {
-			// g.drawImage(bound, initialX + 4 * offset, initialY, null);
-			nextRect = new Rectangle(
-					(int) ((initialX + 5 * offsetX) * (gameScale)),
-					(int) ((initialY) * (gameScale) + translatedY),
-					(int) (offsetX * gameScale), (int) (offsetY * gameScale));
-		} else if (player1.getCurrentPhase() == Phase.ATTACK_PHASE) {
-			// g.drawImage(bound, initialX + 5 * offset, initialY, null);
-			nextRect = new Rectangle(
-					(int) ((initialX + 6 * offsetX) * (gameScale)),
-					(int) ((initialY) * (gameScale) + translatedY),
-					(int) (offsetX * gameScale), (int) (offsetY * gameScale));
-		} else if (player1.getCurrentPhase() == Phase.END_PHASE) {
-			// g.drawImage(bound, initialX + 6 * offset, initialY, null);
-			nextRect = new Rectangle(
-					(int) ((initialX + 0 * offsetX) * (gameScale)),
-					(int) ((initialY) * (gameScale) + translatedY),
-					(int) (offsetX * gameScale), (int) (offsetY * gameScale));
-		}
-		if (nextRect != null) {
-			g.drawRect(nextRect.x, nextRect.y, nextRect.width, nextRect.height);
-		}
+		// if (player1.getCurrentPhase() == Phase.STAND_PHASE) {
+		// // g.drawImage(bound, initialX, initialY, null);
+		// nextRect = new Rectangle(
+		// (int) ((initialX + 1 * offsetX) * (gameScale)),
+		// (int) ((initialY) * (gameScale) + translatedY),
+		// (int) (offsetX * gameScale), (int) (offsetY * gameScale));
+		// } else if (player1.getCurrentPhase() == Phase.DRAW_PHASE) {
+		// // g.drawImage(bound, initialX + 1 * offset, initialY, null);
+		// nextRect = new Rectangle(
+		// (int) ((initialX + 2 * offsetX) * (gameScale)),
+		// (int) ((initialY) * (gameScale) + translatedY),
+		// (int) (offsetX * gameScale), (int) (offsetY * gameScale));
+		// } else if (player1.getCurrentPhase() == Phase.CLOCK_PHASE) {
+		// // g.drawImage(bound, initialX + 2 * offset, initialY, null);
+		// nextRect = new Rectangle(
+		// (int) ((initialX + 3 * offsetX) * (gameScale)),
+		// (int) ((initialY) * (gameScale) + translatedY),
+		// (int) (offsetX * gameScale), (int) (offsetY * gameScale));
+		// } else if (player1.getCurrentPhase() == Phase.MAIN_PHASE) {
+		// // g.drawImage(bound, initialX + 3 * offset, initialY, null);
+		// nextRect = new Rectangle(
+		// (int) ((initialX + 4 * offsetX) * (gameScale)),
+		// (int) ((initialY) * (gameScale) + translatedY),
+		// (int) (offsetX * gameScale), (int) (offsetY * gameScale));
+		// } else if (player1.getCurrentPhase() == Phase.CLIMAX_PHASE) {
+		// // g.drawImage(bound, initialX + 4 * offset, initialY, null);
+		// nextRect = new Rectangle(
+		// (int) ((initialX + 5 * offsetX) * (gameScale)),
+		// (int) ((initialY) * (gameScale) + translatedY),
+		// (int) (offsetX * gameScale), (int) (offsetY * gameScale));
+		// } else if (player1.getCurrentPhase() == Phase.ATTACK_PHASE) {
+		// // g.drawImage(bound, initialX + 5 * offset, initialY, null);
+		// nextRect = new Rectangle(
+		// (int) ((initialX + 6 * offsetX) * (gameScale)),
+		// (int) ((initialY) * (gameScale) + translatedY),
+		// (int) (offsetX * gameScale), (int) (offsetY * gameScale));
+		// } else if (player1.getCurrentPhase() == Phase.END_PHASE) {
+		// // g.drawImage(bound, initialX + 6 * offset, initialY, null);
+		// nextRect = new Rectangle(
+		// (int) ((initialX + 0 * offsetX) * (gameScale)),
+		// (int) ((initialY) * (gameScale) + translatedY),
+		// (int) (offsetX * gameScale), (int) (offsetY * gameScale));
+		// }
+		// if (nextRect != null) {
+		// g.drawRect(nextRect.x, nextRect.y, nextRect.width, nextRect.height);
+		// }
 		g2.setFont(original);
 
 		// player1.getHand().paint(g, 0, 0, null);
@@ -520,18 +535,18 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 		} else {
 			if (nextRect != null && nextRect.contains(e.getPoint())) {
 				nextPhase();
-			} else {
-				// currentPlayer.getHand().mouseClicked(e);
-				player1.getHand().mouseReleased(e);
-				defendingField.mouseReleased(e);
-
-//				if (// currentPlayer.getCurrentPhase() == Phase.CLOCK_PHASE
-//				player1.getCurrentPhase() == Phase.CLOCK_PHASE
-//						&& e.getButton() == MouseEvent.BUTTON3) {
-//					if (!hasClocked)
-//						nextPhase();
-//				}
 			}
+			// currentPlayer.getHand().mouseClicked(e);
+			player1.getHand().mouseReleased(e);
+			defendingField.mouseReleased(e);
+
+			// if (// currentPlayer.getCurrentPhase() == Phase.CLOCK_PHASE
+			// player1.getCurrentPhase() == Phase.CLOCK_PHASE
+			// && e.getButton() == MouseEvent.BUTTON3) {
+			// if (hasClocked)
+			// nextPhase();
+			// }
+
 		}
 		repaint();
 		defendingField.repaint();
