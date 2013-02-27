@@ -11,7 +11,7 @@ Adding a card to the deck
 Once a card is selected, you can add a card to the deck with any of the following methods:
 - Double-clicking or right-clicking the card in the result list
 - Clicking the +1 button 
-- "+","=", or "Enter" on the keyboard
+- "+", "=", or "Enter" on the keyboard
 
 The +4 button can be used to add 4 copies of a card to the deck.
 
@@ -21,7 +21,7 @@ Removing a card from the deck
 Once a card is selected, you can remove a card from the deck with any of the following methods:
 - Double-clicking or right-clicking the card in the deck list
 - Clicking the -1 button
-- "-" on the keyboard
+- "-", "Delete" on the keyboard
 
 The -4 button can be used to remove 4 copies of a card to the deck.
 
