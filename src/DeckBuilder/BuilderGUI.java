@@ -41,6 +41,8 @@ import java.util.HashMap;
 
 //import javax.imageio.ImageIO;
 import javax.swing.*;
+import javax.swing.event.ChangeEvent;
+import javax.swing.event.ChangeListener;
 import javax.swing.event.HyperlinkEvent;
 import javax.swing.event.HyperlinkListener;
 import javax.swing.table.TableColumn;
@@ -151,16 +153,16 @@ public class BuilderGUI extends JFrame {
 		selectedCard = null;
 		file = null;
 		changes = false;
-		
+
 		try {
-		    for (LookAndFeelInfo info : UIManager.getInstalledLookAndFeels()) {
-		        if ("Nimbus".equals(info.getName())) {
-		            UIManager.setLookAndFeel(info.getClassName());
-		            break;
-		        }
-		    }
+			for (LookAndFeelInfo info : UIManager.getInstalledLookAndFeels()) {
+				if ("Nimbus".equals(info.getName())) {
+					UIManager.setLookAndFeel(info.getClassName());
+					break;
+				}
+			}
 		} catch (Exception e) {
-		    System.err.println("Nimbus not available");
+			System.err.println("Nimbus not available");
 		}
 
 		deserializer();
@@ -210,7 +212,8 @@ public class BuilderGUI extends JFrame {
 
 		Trigger[] triggerSelections = null;
 		triggerSelections = Trigger.values();
-		final JComboBox<Trigger> triggerList = new JComboBox<Trigger>(triggerSelections);
+		final JComboBox<Trigger> triggerList = new JComboBox<Trigger>(
+				triggerSelections);
 		triggerList.setSelectedItem(null);
 
 		final KeyListener searchFieldListener = new KeyListener() {
@@ -336,7 +339,7 @@ public class BuilderGUI extends JFrame {
 
 		JButton submitButton = new JButton("Submit");
 		submitButton.setPreferredSize(new Dimension(100, 25));
-		JButton clearButton = new JButton("Clear");
+		JButton clearButton = new JButton("Clear All");
 		submitButton.setPreferredSize(new Dimension(100, 25));
 
 		// nameSearch.setMaximumSize(new Dimension(255, 20));
@@ -551,20 +554,20 @@ public class BuilderGUI extends JFrame {
 		row3.add(abilitySearch);
 		row3.add(Box.createHorizontalStrut(5));
 
-		row1.setPreferredSize(new Dimension(800, 20));
-		row1.setMaximumSize(new Dimension(800, 20));
-		row2.setPreferredSize(new Dimension(800, 20));
-		row2.setMaximumSize(new Dimension(800, 20));
-		row3.setPreferredSize(new Dimension(800, 20));
-		row3.setMaximumSize(new Dimension(800, 20));
+		//row1.setPreferredSize(new Dimension(800, 20));
+		//row1.setMaximumSize(new Dimension(800, 20));
+		//row2.setPreferredSize(new Dimension(800, 20));
+		//row2.setMaximumSize(new Dimension(800, 20));
+		//row3.setPreferredSize(new Dimension(800, 20));
+		//row3.setMaximumSize(new Dimension(800, 20));
 
 		searchBox.add(row1);
 		searchBox.add(Box.createVerticalStrut(5));
 		searchBox.add(row2);
 		searchBox.add(Box.createVerticalStrut(5));
 		searchBox.add(row3);
-		searchBox.setPreferredSize(new Dimension(800, 80));
-		searchBox.setMaximumSize(new Dimension(800, 80));
+		//searchBox.setPreferredSize(new Dimension(800, 80));
+		//searchBox.setMaximumSize(new Dimension(800, 80));
 	}
 
 	/**
@@ -685,7 +688,7 @@ public class BuilderGUI extends JFrame {
 		Box splitter = Box.createHorizontalBox();
 		// Box splitter2 = Box.createVerticalBox();
 		// int widthM = getPreferredSize().width / 2;
-		
+
 		JEditorPane link = new JEditorPane(
 				"text/html",
 				"Special thanks to <a href = 'http://littleakiba.com/tcg/weiss-schwarz'>littleakiba</a> for the translations.");
@@ -707,7 +710,7 @@ public class BuilderGUI extends JFrame {
 				}
 			}
 		});
-		
+
 		int widthM = getWidth() / 2 - OFFSET;
 		int heightM = listBox.getHeight() - link.getHeight();
 		heightM = 250;
@@ -771,8 +774,10 @@ public class BuilderGUI extends JFrame {
 		else
 			widthM = getPreferredSize().width / 2 - OFFSET;
 
-		/*resultListTable.setPreferredScrollableViewportSize(new Dimension(
-				widthM, 70));*/
+		/*
+		 * resultListTable.setPreferredScrollableViewportSize(new Dimension(
+		 * widthM, 70));
+		 */
 		resultListTable.setFillsViewportHeight(true);
 		// resultListTable.setAutoResizeMode(JTable.AUTO_RESIZE_OFF);
 		resultListTable.setRowSorter(new TableRowSorter<TableModel>(
@@ -918,7 +923,7 @@ public class BuilderGUI extends JFrame {
 			}
 
 		});
-		
+
 		resultPane = new JScrollPane(resultListTable);
 		resultPane
 				.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);
@@ -1004,11 +1009,19 @@ public class BuilderGUI extends JFrame {
 	private JTabbedPane buildResultArea() {
 
 		resultPane = buildResultList();
-		resultThumbPane = buildResultThumbPane(resultPane);
+		// resultThumbPane = buildResultThumbPane(resultPane);
 		resultArea = new JTabbedPane();
 		resultArea.add("List View", resultPane);
 		resultArea.add("Thumbnail View", resultThumbPane);
-
+		resultArea.addChangeListener(new ChangeListener() {
+			public void stateChanged(ChangeEvent e) {
+				if (resultArea.getSelectedIndex() == resultArea
+						.indexOfComponent(resultThumbPane)) {
+					// resultThumbPane = buildResultThumbPane(resultPane);
+					refreshResultArea();
+				}
+			}
+		});
 		return resultArea;
 	}
 
@@ -1079,14 +1092,14 @@ public class BuilderGUI extends JFrame {
 
 		box.add(Box.createHorizontalGlue());
 		box.add(plusOne);
-		box.add(Box.createRigidArea(new Dimension(20,0)));
+		box.add(Box.createRigidArea(new Dimension(20, 0)));
 		box.add(plusFour);
-		box.add(Box.createRigidArea(new Dimension(20,0)));
+		box.add(Box.createRigidArea(new Dimension(20, 0)));
 		box.add(minusOne);
-		box.add(Box.createRigidArea(new Dimension(20,0)));
+		box.add(Box.createRigidArea(new Dimension(20, 0)));
 		box.add(minusFour);
 		box.add(Box.createHorizontalGlue());
-		box.setPreferredSize(new Dimension(300,50));
+		box.setPreferredSize(new Dimension(300, 50));
 		return box;
 	}
 
@@ -1440,7 +1453,6 @@ public class BuilderGUI extends JFrame {
 		Box vbox = Box.createVerticalBox();
 		vbox.setAlignmentX(Box.LEFT_ALIGNMENT);
 
-
 		for (int i = 0; i < currentDeck.getCards().size(); i++) {
 			if (i % DECKPERLINE == 0 && i > 0) {
 				vbox.add(box);
@@ -1474,7 +1486,7 @@ public class BuilderGUI extends JFrame {
 		JScrollPane jsp = new JScrollPane(panel);
 		jsp.setPreferredSize(new Dimension(deckListPane.getPreferredSize()));
 		jsp.setVerticalScrollBarPolicy(ScrollPaneConstants.VERTICAL_SCROLLBAR_ALWAYS);
-		
+
 		return jsp;
 	}
 
@@ -1492,7 +1504,6 @@ public class BuilderGUI extends JFrame {
 		deckArea = new JTabbedPane();
 		deckArea.addTab("List View", deckPane);
 		deckArea.addTab("Thumbnail View", deckThumbPane);
-
 
 		return deckArea;
 	}
@@ -1636,19 +1647,19 @@ public class BuilderGUI extends JFrame {
 	public void buildUI() {
 		buildSearchBox();
 		// buildMenu();
-		
+
 		resultHeader = new JLabel("Result count: " + resultList.size());
 		Box headerBox = Box.createHorizontalBox();
 		headerBox.add(Box.createRigidArea(new Dimension(10, 0)));
 		headerBox.add(resultHeader);
 		headerBox.add(Box.createHorizontalGlue());
-		
+
 		listBox.add(headerBox);
 		listBox.add(buildResultArea());
 		listBox.add(buildAddRemoveButtonBox());
-		
+
 		buildCardInfo(selectedCard);
-		
+
 		deckList.add(buildStatsZone());
 		deckList.add(buildDeckArea());
 
