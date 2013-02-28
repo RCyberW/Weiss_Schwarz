@@ -436,7 +436,7 @@ Type: Climax
 Level: 0
 Color: Yellow
 Cost: 0
-Trigger:
+Trigger: 1W
 Power: N/A
 Soul: N/A
 Traits:: ,
@@ -457,7 +457,7 @@ Type: Climax
 Level: 0
 Color: Yellow
 Cost: 0
-Trigger:
+Trigger: 1W
 Power: N/A
 Soul: N/A
 Traits:: ,
@@ -2913,7 +2913,7 @@ Flavor Text:
 DC3/W18-T10 TD
 Type: Climax
 Level: 0
-Color: Blue
+Color: Red
 Cost: 0
 Trigger: 2
 Power: N/A

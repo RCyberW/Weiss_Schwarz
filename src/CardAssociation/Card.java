@@ -226,9 +226,13 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 			// Image image = ImageIO.read(new
 			// File("src/FieldImages/cardBack-s.jpg").toURI().toURL());
 			// Image image = ImageIO.read((imageFile.toURI()).toURL());
+			//ImageIcon img = new ImageIcon(image);
+			
+			
 			ImageIcon img = new ImageIcon(image.getScaledInstance(
 					(int) (image.getWidth(null) * 0.44),
 					(int) (image.getHeight(null) * 0.44), Image.SCALE_SMOOTH));
+					
 			imageLabel.setIcon(img);
 		} catch (MalformedURLException e) {
 			e.printStackTrace();
@@ -398,12 +402,10 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 
 		try {
 			// Image image = ImageIO.read((imageFile.toURI()).toURL());
-			System.out.println(getImageResource());
+			//System.out.println(getImageResource());
 			Image image = ImageIO.read(getClass().getResourceAsStream(
 					getImageResource()));
-			ImageIcon img = new ImageIcon(image.getScaledInstance(
-					(int) (image.getWidth(null)),
-					(int) (image.getHeight(null)), Image.SCALE_SMOOTH));
+			ImageIcon img = new ImageIcon(image);
 			imagePane.add(new JLabel(img));
 		} catch (MalformedURLException e) {
 			e.printStackTrace();
@@ -591,9 +593,11 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 					isMet = isMet
 							&& sameID[i].toLowerCase().contains(
 									parts[j].toLowerCase());
+					/*
 					if (sameID[i].toLowerCase()
 							.contains(parts[j].toLowerCase()))
 						System.out.println(sameID[i] + "???" + parts[j]);
+						*/
 				}
 				if (isMet) {
 					break;
@@ -604,8 +608,10 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 			for (int j = 0; j < parts.length; j++) {
 				isMet = isMet
 						&& id.toLowerCase().contains(parts[j].toLowerCase());
+				/*
 				if (id.toLowerCase().contains(parts[j].toLowerCase()))
 					System.out.println(id + "::CONTAINS::" + parts[j]);
+					*/
 			}
 
 			/*

@@ -20,4 +20,19 @@ public enum Type {
 	public String toString() {
 		return s;
 	}
+	
+	public int getNumericCode() {
+    	switch(this) {
+	    	case ALL:
+	    		return 0;
+	    	case CLIMAX:
+	    		return 1;
+	    	case CHARACTER:
+	    		return 2;
+	    	case EVENT:
+	    		return 3;
+	    	default:
+    			return 255;
+    	}
+    }
 }

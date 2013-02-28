@@ -1720,7 +1720,7 @@ Type: Character
 Level: 0
 Color: Blue
 Cost: 0
-Trigger: 0
+Trigger: D
 Power: 2000
 Soul: 1
 Traits:: Class Rep 委員長,_Glasses メガネ

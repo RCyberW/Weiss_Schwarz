@@ -321,7 +321,7 @@ Flavor Text:
 DC3/W23-108 PR
 Type: Climax
 Level: 0
-Color: Blue
+Color: Red
 Cost: 0
 Trigger: D
 Power: N/A

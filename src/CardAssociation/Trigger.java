@@ -9,8 +9,8 @@
 package CardAssociation;
 
 public enum Trigger {
-	ALL("All"), NONE("None"), SOUL("Soul"), DUALSOUL("2 Soul"), SOULWIND("Wind"), SOULFLAME(
-			"Clash"), GATE("Gate"), TREASURE("Treasure"), GOLDBAG("Stock"), BOOK("Book");
+	ALL("All"), NONE("None"), SOUL("Soul+1"), DUALSOUL("Soul+2"), SOULWIND("Return"), SOULFLAME(
+			"Shot"), GATE("Comeback"), TREASURE("Treasure"), GOLDBAG("Pull"), BOOK("Draw");
 
 	String s;
 
@@ -45,4 +45,31 @@ public enum Trigger {
 			return null;
 		}
 	}
+	
+	public int getNumericCode() {
+    	switch(this) {
+	    	case ALL:
+	    		return 0;
+	    	case NONE:
+	    		return 1;
+	    	case SOUL:
+	    		return 2;
+	    	case DUALSOUL:
+	    		return 3;
+	    	case SOULWIND:
+	    		return 4;
+	    	case SOULFLAME:
+	    		return 5;
+	    	case GATE:
+	    		return 6;
+	    	case TREASURE:
+	    		return 7;
+	    	case GOLDBAG:
+	    		return 8;
+	    	case BOOK:
+	    		return 9;
+	    	default:
+    			return 255;
+    	}
+    }
 }

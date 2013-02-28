@@ -20,4 +20,22 @@ public enum CCode {
     public String toString() {
         return s;
     }
+    
+    public int getNumericCode() {
+    	switch(this) {
+	    	case ALL:
+	    		return 0;
+	    	case RED:
+	    		return 1;
+	    	case BLUE:
+	    		return 2;
+	    	case YELLOW:
+	    		return 3;
+	    	case GREEN:
+	    		return 4;
+	    	default:
+    			return 255;
+    	}
+    }
+    
 }
