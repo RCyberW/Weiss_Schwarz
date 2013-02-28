@@ -153,16 +153,18 @@ public class BuilderGUI extends JFrame {
 		selectedCard = null;
 		file = null;
 		changes = false;
-
-		try {
-			for (LookAndFeelInfo info : UIManager.getInstalledLookAndFeels()) {
-				if ("Nimbus".equals(info.getName())) {
-					UIManager.setLookAndFeel(info.getClassName());
-					break;
+		
+		if (!System.getProperty("os.name").toLowerCase().contains("mac")) {
+			try {
+				for (LookAndFeelInfo info : UIManager.getInstalledLookAndFeels()) {
+					if ("Nimbus".equals(info.getName())) {
+						UIManager.setLookAndFeel(info.getClassName());
+						break;
+					}
 				}
+			} catch (Exception e) {
+				System.err.println("Nimbus not available");
 			}
-		} catch (Exception e) {
-			System.err.println("Nimbus not available");
 		}
 
 		deserializer();
@@ -212,8 +214,7 @@ public class BuilderGUI extends JFrame {
 
 		Trigger[] triggerSelections = null;
 		triggerSelections = Trigger.values();
-		final JComboBox<Trigger> triggerList = new JComboBox<Trigger>(
-				triggerSelections);
+		final JComboBox triggerList = new JComboBox(triggerSelections);
 		triggerList.setSelectedItem(null);
 
 		final KeyListener searchFieldListener = new KeyListener() {
