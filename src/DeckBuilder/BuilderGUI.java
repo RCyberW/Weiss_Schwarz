@@ -46,6 +46,7 @@ import javax.swing.event.HyperlinkListener;
 import javax.swing.table.TableColumn;
 import javax.swing.table.TableModel;
 import javax.swing.table.TableRowSorter;
+import javax.swing.UIManager.*;
 
 import CardAssociation.*;
 
@@ -150,6 +151,17 @@ public class BuilderGUI extends JFrame {
 		selectedCard = null;
 		file = null;
 		changes = false;
+		
+		try {
+		    for (LookAndFeelInfo info : UIManager.getInstalledLookAndFeels()) {
+		        if ("Nimbus".equals(info.getName())) {
+		            UIManager.setLookAndFeel(info.getClassName());
+		            break;
+		        }
+		    }
+		} catch (Exception e) {
+		    System.err.println("Nimbus not available");
+		}
 
 		deserializer();
 
@@ -673,30 +685,7 @@ public class BuilderGUI extends JFrame {
 		Box splitter = Box.createHorizontalBox();
 		// Box splitter2 = Box.createVerticalBox();
 		// int widthM = getPreferredSize().width / 2;
-		int widthM = getWidth() / 2 - OFFSET;
-
-		if (getPreferredSize().width / 2 - OFFSET > widthM)
-			widthM = getPreferredSize().width / 2 - OFFSET;
-		else
-			widthM = getWidth() / 2 - OFFSET;
-
-		splitter.setPreferredSize(new Dimension(widthM, 300));
-		splitter.setMaximumSize(new Dimension(widthM, 300));
-		// splitter2.setPreferredSize(new Dimension(widthM, 300));
-		// splitter2.setMaximumSize(new Dimension(widthM, 300));
-
-		if (c == null) {
-		} else {
-			splitter.add(c.displayImage(
-					(int) (splitter.getPreferredSize().width * 0.22),
-					splitter.getPreferredSize().height));
-			splitter.add(c.getInfoPane(
-					(int) (splitter.getPreferredSize().width * 0.78),
-					splitter.getPreferredSize().height));
-			// splitter2.add(splitter);
-
-		}
-
+		
 		JEditorPane link = new JEditorPane(
 				"text/html",
 				"Special thanks to <a href = 'http://littleakiba.com/tcg/weiss-schwarz'>littleakiba</a> for the translations.");
@@ -718,6 +707,32 @@ public class BuilderGUI extends JFrame {
 				}
 			}
 		});
+		
+		int widthM = getWidth() / 2 - OFFSET;
+		int heightM = listBox.getHeight() - link.getHeight();
+		heightM = 250;
+
+		if (getPreferredSize().width / 2 - OFFSET > widthM)
+			widthM = getPreferredSize().width / 2 - OFFSET;
+		else
+			widthM = getWidth() / 2 - OFFSET;
+
+		splitter.setPreferredSize(new Dimension(widthM, heightM));
+		splitter.setMaximumSize(new Dimension(widthM, heightM));
+		// splitter2.setPreferredSize(new Dimension(widthM, 300));
+		// splitter2.setMaximumSize(new Dimension(widthM, 300));
+
+		if (c == null) {
+		} else {
+			splitter.add(c.displayImage(
+					(int) (splitter.getPreferredSize().width * 0.22),
+					splitter.getPreferredSize().height));
+			splitter.add(c.getInfoPane(
+					(int) (splitter.getPreferredSize().width * 0.78),
+					splitter.getPreferredSize().height));
+			// splitter2.add(splitter);
+
+		}
 
 		Box splitter3 = Box.createVerticalBox();
 
@@ -756,10 +771,10 @@ public class BuilderGUI extends JFrame {
 		else
 			widthM = getPreferredSize().width / 2 - OFFSET;
 
-		resultListTable.setPreferredScrollableViewportSize(new Dimension(
-				widthM, 70));
+		/*resultListTable.setPreferredScrollableViewportSize(new Dimension(
+				widthM, 70));*/
 		resultListTable.setFillsViewportHeight(true);
-		resultListTable.setAutoResizeMode(JTable.AUTO_RESIZE_OFF);
+		// resultListTable.setAutoResizeMode(JTable.AUTO_RESIZE_OFF);
 		resultListTable.setRowSorter(new TableRowSorter<TableModel>(
 				resultListTable.getModel()));
 
@@ -903,7 +918,7 @@ public class BuilderGUI extends JFrame {
 			}
 
 		});
-
+		
 		resultPane = new JScrollPane(resultListTable);
 		resultPane
 				.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);
@@ -1621,15 +1636,19 @@ public class BuilderGUI extends JFrame {
 	public void buildUI() {
 		buildSearchBox();
 		// buildMenu();
-		buildCardInfo(selectedCard);
+		
 		resultHeader = new JLabel("Result count: " + resultList.size());
 		Box headerBox = Box.createHorizontalBox();
 		headerBox.add(Box.createRigidArea(new Dimension(10, 0)));
 		headerBox.add(resultHeader);
 		headerBox.add(Box.createHorizontalGlue());
+		
 		listBox.add(headerBox);
 		listBox.add(buildResultArea());
 		listBox.add(buildAddRemoveButtonBox());
+		
+		buildCardInfo(selectedCard);
+		
 		deckList.add(buildStatsZone());
 		deckList.add(buildDeckArea());
 
