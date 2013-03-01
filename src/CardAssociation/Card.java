@@ -46,7 +46,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 	// private static final long serialVersionUID = 5876059325645604130L;
 	// private static final long serialVersionUID = 5876059325645604131L;
 	private static final long serialVersionUID = 5876059325645604132L;
-	
+
 	// card properties
 	private String[] sameID;
 	private String id;
@@ -226,13 +226,12 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 			// Image image = ImageIO.read(new
 			// File("src/FieldImages/cardBack-s.jpg").toURI().toURL());
 			// Image image = ImageIO.read((imageFile.toURI()).toURL());
-			//ImageIcon img = new ImageIcon(image);
-			
-			
+			// ImageIcon img = new ImageIcon(image);
+
 			ImageIcon img = new ImageIcon(image.getScaledInstance(
 					(int) (image.getWidth(null) * 0.44),
 					(int) (image.getHeight(null) * 0.44), Image.SCALE_SMOOTH));
-					
+
 			imageLabel.setIcon(img);
 		} catch (MalformedURLException e) {
 			e.printStackTrace();
@@ -250,9 +249,9 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 
 	// get the card image
 	public String getImageResource() {
-		//if (isWindows)
-		//	return "/" + new File(imageResource).getPath();
-		//else
+		// if (isWindows)
+		// return "/" + new File(imageResource).getPath();
+		// else
 		return imageResource;
 	}
 
@@ -402,7 +401,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 
 		try {
 			// Image image = ImageIO.read((imageFile.toURI()).toURL());
-			//System.out.println(getImageResource());
+			// System.out.println(getImageResource());
 			Image image = ImageIO.read(getClass().getResourceAsStream(
 					getImageResource()));
 			ImageIcon img = new ImageIcon(image);
@@ -594,10 +593,10 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 							&& sameID[i].toLowerCase().contains(
 									parts[j].toLowerCase());
 					/*
-					if (sameID[i].toLowerCase()
-							.contains(parts[j].toLowerCase()))
-						System.out.println(sameID[i] + "???" + parts[j]);
-						*/
+					 * if (sameID[i].toLowerCase()
+					 * .contains(parts[j].toLowerCase()))
+					 * System.out.println(sameID[i] + "???" + parts[j]);
+					 */
 				}
 				if (isMet) {
 					break;
@@ -609,9 +608,9 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 				isMet = isMet
 						&& id.toLowerCase().contains(parts[j].toLowerCase());
 				/*
-				if (id.toLowerCase().contains(parts[j].toLowerCase()))
-					System.out.println(id + "::CONTAINS::" + parts[j]);
-					*/
+				 * if (id.toLowerCase().contains(parts[j].toLowerCase()))
+				 * System.out.println(id + "::CONTAINS::" + parts[j]);
+				 */
 			}
 
 			/*
@@ -785,6 +784,10 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 
 						BufferedImage before = ImageIO.read(getClass()
 								.getResourceAsStream(getImageResource()));
+						
+						if(currentState == State.FD_REST || currentState == State.FD_STAND) {
+							
+						}
 						/*
 						 * BufferedImage before =
 						 * ImageIO.read((imageFile.toURI()) .toURL());
@@ -798,14 +801,14 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 
 						at.scale(Game.Game.gameScale, Game.Game.gameScale);
 
-						if (currentState == State.REST) {
-
+						if (currentState == State.REST
+								|| currentState == State.FD_REST) {
 							at.translate((after.getHeight(null) - before
 									.getWidth(null)) / 2,
 									(after.getWidth(null) - before
 											.getHeight(null)) / 2);
 
-							at.rotate(Math.toRadians(90),
+							at.rotate(Math.toRadians(-90),
 									before.getWidth(null) / 2,
 									before.getHeight(null) / 2);
 						}
@@ -862,8 +865,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 	public void setDisplay(boolean isFaceUp, boolean isTapped) {
 
 	}
-	
-	
+
 	// Hard code special cases where you may put >4 cards in the deck
 	// FZ/SE13-24 C
 	// FZ/SE13-26 C
@@ -872,7 +874,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 	// ID/W10-014 C
 	// SG/W19-038 C
 	// FT/SE10-29
-	
+
 	public static int getMaxInDeck(Card c) {
 		if (c.getID().equals("FZ/SE13-24 C")
 				|| c.getID().equals("FZ/SE13-26 C")

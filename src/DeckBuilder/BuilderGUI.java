@@ -339,9 +339,9 @@ public class BuilderGUI extends JFrame {
 		 */
 
 		JButton submitButton = new JButton("Submit");
-		submitButton.setPreferredSize(new Dimension(100, 25));
+		//submitButton.setPreferredSize(new Dimension(100, 25));
 		JButton clearButton = new JButton("Clear All");
-		submitButton.setPreferredSize(new Dimension(100, 25));
+		//submitButton.setPreferredSize(new Dimension(100, 25));
 
 		// nameSearch.setMaximumSize(new Dimension(255, 20));
 
@@ -563,9 +563,9 @@ public class BuilderGUI extends JFrame {
 		//row3.setMaximumSize(new Dimension(800, 20));
 
 		searchBox.add(row1);
-		searchBox.add(Box.createVerticalStrut(5));
+		//searchBox.add(Box.createVerticalStrut(5));
 		searchBox.add(row2);
-		searchBox.add(Box.createVerticalStrut(5));
+		//searchBox.add(Box.createVerticalStrut(5));
 		searchBox.add(row3);
 		//searchBox.setPreferredSize(new Dimension(800, 80));
 		//searchBox.setMaximumSize(new Dimension(800, 80));
@@ -687,14 +687,12 @@ public class BuilderGUI extends JFrame {
 	 */
 	private void buildCardInfo(Card c) {
 		Box splitter = Box.createHorizontalBox();
-		// Box splitter2 = Box.createVerticalBox();
-		// int widthM = getPreferredSize().width / 2;
 
 		JEditorPane link = new JEditorPane(
 				"text/html",
 				"Special thanks to <a href = 'http://littleakiba.com/tcg/weiss-schwarz'>littleakiba</a> for the translations.");
 		link.setEditable(false);
-		link.setOpaque(false);
+		link.setOpaque(true);
 		link.addHyperlinkListener(new HyperlinkListener() {
 			public void hyperlinkUpdate(HyperlinkEvent hle) {
 				if (HyperlinkEvent.EventType.ACTIVATED.equals(hle
@@ -712,9 +710,11 @@ public class BuilderGUI extends JFrame {
 			}
 		});
 
+		Box optionBox = buildOption();
+		
 		int widthM = getWidth() / 2 - OFFSET;
-		int heightM = listBox.getHeight() - link.getHeight();
-		heightM = 250;
+		int heightM = listBox.getPreferredSize().height - link.getHeight() - optionBox.getHeight();
+		heightM = 270;
 
 		if (getPreferredSize().width / 2 - OFFSET > widthM)
 			widthM = getPreferredSize().width / 2 - OFFSET;
@@ -742,7 +742,7 @@ public class BuilderGUI extends JFrame {
 
 		splitter3.add(splitter);
 		splitter3.add(link);
-		splitter3.add(buildOption());
+		splitter3.add(optionBox);
 
 		cardInfo.add(splitter3);
 
@@ -1620,6 +1620,8 @@ public class BuilderGUI extends JFrame {
 		// pack();
 		// System.out.println(getWidth() + " * " + getHeight());
 
+		resizeSearchBox(searchBox);
+		resizeSearchBox(cardInfo);
 		setVisible(true);
 	}
 
@@ -1643,10 +1645,20 @@ public class BuilderGUI extends JFrame {
 	}
 
 	/**
+	 * Resize the search box components
+	 */
+	private void resizeSearchBox(JComponent comp) {
+		for(Component jc : comp.getComponents()) {
+			((JComponent) jc).putClientProperty("JComponent.sizeVariant", "mini");
+		}
+	}
+	
+	/**
 	 * Build the internal elements of the UI
 	 */
 	public void buildUI() {
 		buildSearchBox();
+		resizeSearchBox(searchBox);
 		// buildMenu();
 
 		resultHeader = new JLabel("Result count: " + resultList.size());
@@ -1660,6 +1672,7 @@ public class BuilderGUI extends JFrame {
 		listBox.add(buildAddRemoveButtonBox());
 
 		buildCardInfo(selectedCard);
+		resizeSearchBox(cardInfo);
 
 		deckList.add(buildStatsZone());
 		deckList.add(buildDeckArea());
@@ -1727,6 +1740,7 @@ public class BuilderGUI extends JFrame {
 		 * args[0];
 		 */
 		BuilderGUI builderGui = new BuilderGUI();
+		SwingUtilities.updateComponentTreeUI(builderGui);
 		builderGui.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
 		builderGui.init();
