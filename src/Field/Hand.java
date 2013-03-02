@@ -13,6 +13,7 @@ import javax.swing.JMenuItem;
 import javax.swing.JPopupMenu;
 
 import CardAssociation.Card;
+import CardAssociation.State;
 import CardAssociation.Type;
 import Game.Game;
 import Game.Phase;
@@ -36,6 +37,7 @@ public class Hand extends FieldElement {
 	}
 
 	public void setCard(Card c) {
+		c.setCurrentState(State.STAND);
 		if (c != null)
 			handCards.add(c);
 	}
@@ -173,6 +175,7 @@ public class Hand extends FieldElement {
 			if (associatedPlayer.getCurrentPhase() == Phase.CLOCK_PHASE) {
 				associatedPlayer.getField().getDeckZone().drawCard();
 				associatedPlayer.getField().getDeckZone().drawCard();
+				associatedPlayer.setCurrentPhase(Phase.MAIN_PHASE);
 			}
 		}
 
@@ -255,7 +258,9 @@ public class Hand extends FieldElement {
 		selected = selectCard(e);
 		if (selected == null)
 			return;
-
+		
+		associatedPlayer.getField().setSelected(selected);
+		
 		if (e.getButton() == MouseEvent.BUTTON3) {
 			constructPopup(e);
 		} else if (e.getButton() == MouseEvent.BUTTON1) {

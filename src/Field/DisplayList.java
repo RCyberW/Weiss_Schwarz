@@ -174,7 +174,7 @@ public class DisplayList extends JFrame {
 		cardNumber.setWrapStyleWord(true);
 		cardNumber.setEditable(false);
 
-		JTextArea power = new JTextArea(" power: " + selectedCard.getPower()
+		JTextArea power = new JTextArea("power: " + selectedCard.getPower()
 				+ " soul: " + selectedCard.getSoul());
 		power.setLineWrap(true);
 		power.setWrapStyleWord(true);
@@ -193,6 +193,7 @@ public class DisplayList extends JFrame {
 		displayInfo.add(cardInfo);
 
 		displayInfo.setAlignmentY(LEFT_ALIGNMENT);
+		displayInfo.setAlignmentY(TOP_ALIGNMENT);
 
 		return displayInfo;
 	}

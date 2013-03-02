@@ -106,6 +106,7 @@ public class Deck {
 								+ referenceCard.getCardCount());
 						onlineUpdateStatistics(card, true);
 						cards.add(card);
+						card.setCurrentState(State.FD_STAND);
 						shuffledCards.add(card);
 						// System.err.println(card.toString());
 					} else if (verbose){

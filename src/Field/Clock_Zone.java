@@ -33,6 +33,7 @@ public class Clock_Zone extends FieldElement {
 	}
 
 	public void setCard(Card c) {
+		c.setCurrentState(State.STAND);
 		clockZone.add(c);
 		// System.out.println("Clock_Zone " + clockZone);
 	}
@@ -132,6 +133,9 @@ public class Clock_Zone extends FieldElement {
 		Card card = selectCard(e);
 		if (containCards() == false || card == null)
 			return;
+		
+		associatedPlayer.getField().setSelected(card);
+		
 		if (e.getButton() == MouseEvent.BUTTON1) {
 			selected = selectCard(e);
 			shift(associatedPlayer.getHand().getSelected());

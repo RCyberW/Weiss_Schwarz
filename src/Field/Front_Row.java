@@ -30,6 +30,7 @@ public class Front_Row extends FieldElement {
 
 	public void setCard(Card c) {
 		// frontRow.add(c);
+		c.setCurrentState(State.STAND);
 		removeCard();
 		frontCard = c;
 		repaint();
@@ -100,6 +101,9 @@ public class Front_Row extends FieldElement {
 	public void mouseReleased(MouseEvent e) {
 		if (containCards() == false)
 			return;
+		
+		associatedPlayer.getField().setSelected(frontCard);
+		
 		if (e.getButton() == MouseEvent.BUTTON3) {
 			System.out.println("playing " + frontCard.getCardName()
 					+ " in a different position");

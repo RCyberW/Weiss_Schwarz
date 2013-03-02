@@ -16,6 +16,7 @@ import javax.swing.JMenuItem;
 import javax.swing.JPopupMenu;
 
 import CardAssociation.Card;
+import CardAssociation.State;
 import Game.Phase;
 import Game.Player;
 
@@ -35,6 +36,7 @@ public class Waiting_Room extends FieldElement {
 	}
 
 	public void setCard(Card c) {
+		c.setCurrentState(State.STAND);
 		waitingRoom.add(c);
 	}
 

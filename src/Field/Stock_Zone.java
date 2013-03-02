@@ -27,7 +27,7 @@ public class Stock_Zone extends FieldElement {
 
 	// add cards to the end of the stock pile
 	public void setCard(Card c) {
-		c.setCurrentState(State.REST);
+		c.setCurrentState(State.FD_REST);
 		stockZone.add(c);
 	}
 

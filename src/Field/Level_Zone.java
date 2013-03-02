@@ -29,6 +29,7 @@ public class Level_Zone extends FieldElement {
 	}
 
 	public void setCard(Card c) {
+		c.setCurrentState(State.REST);
 		levelZone.add(c);
 	}
 
@@ -108,6 +109,9 @@ public class Level_Zone extends FieldElement {
 		Card card = selectCard(e);
 		if (containCards() == false || card == null)
 			return;
+		
+		associatedPlayer.getField().setSelected(card);
+		
 		if (e.getButton() == MouseEvent.BUTTON1) {
 			selected = selectCard(e);
 		}

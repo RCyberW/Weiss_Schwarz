@@ -17,6 +17,7 @@ import javax.swing.JPopupMenu;
 
 import CardAssociation.Card;
 import CardAssociation.Deck;
+import CardAssociation.State;
 import Game.Phase;
 import Game.Player;
 
@@ -72,6 +73,7 @@ public class Deck_Zone extends FieldElement {
 	}
 
 	public void setCard(Card c) {
+		c.setCurrentState(State.FD_STAND);
 		deckZone.add(c); // add card to the top of the deck
 	}
 
@@ -104,7 +106,7 @@ public class Deck_Zone extends FieldElement {
 		});
 		popmenu.add(shuffleAction); // refresh or normal shuffle
 
-		JMenuItem checkAction = new JMenuItem("check top");
+		JMenuItem checkAction = new JMenuItem("reveal top");
 		checkAction.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
@@ -114,7 +116,7 @@ public class Deck_Zone extends FieldElement {
 		});
 		popmenu.add(checkAction); // move to waiting
 									// room/top/bottom/reveal
-		JMenuItem revealAction = new JMenuItem("reveal top");
+		JMenuItem revealAction = new JMenuItem("peek top");
 		revealAction.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
@@ -200,6 +202,7 @@ public class Deck_Zone extends FieldElement {
 	public void paint(Graphics g, Card c) {
 		if (containCards()) {
 			showCard().setDisplay(false, false);
+			showCard().setCurrentState(State.FD_STAND);
 			showCard().toCanvas().setLocation(x, y);
 			showCard().toCanvas().paint(g);
 		} else {

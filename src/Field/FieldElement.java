@@ -174,15 +174,6 @@ abstract class FieldElement extends Component implements MouseListener {
 	 * g.drawString(zoneName, x + 10, y + 20); }
 	 */
 
-	public void paintOption(Graphics g) {
-		System.out.println("Climax drawing option");
-		g.drawString("option 1", x, y - 10);
-		g.setColor(Color.LIGHT_GRAY);
-		// g.drawRect(this.x, y - 10, 150, 20);
-		g.fillRect(x, y - 10, 150, 20);
-		g.setColor(Color.BLUE);
-	}
-
 	/**
 	 * draw the cards in the zone
 	 * 
@@ -272,4 +263,5 @@ abstract class FieldElement extends Component implements MouseListener {
 	public boolean isList() {
 		return false;
 	}
+	
 }

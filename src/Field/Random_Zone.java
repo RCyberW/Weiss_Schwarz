@@ -12,6 +12,7 @@ import javax.swing.JMenuItem;
 import javax.swing.JPopupMenu;
 
 import CardAssociation.Card;
+import CardAssociation.State;
 import Game.Player;
 
 public class Random_Zone extends FieldElement {
@@ -169,6 +170,9 @@ public class Random_Zone extends FieldElement {
 		Card card = selectCard(e);
 		if (containCards() == false || card == null)
 			return;
+		
+		associatedPlayer.getField().setSelected(card);
+		
 		if (e.getButton() == MouseEvent.BUTTON3) {
 			constructPopup(e);
 		} else if (e.getButton() == MouseEvent.BUTTON1) {
@@ -215,8 +219,9 @@ public class Random_Zone extends FieldElement {
 	// }
 
 	@Override
-	public void setCard(Card selectedCard) {
-		thisCard.add(selectedCard);
+	public void setCard(Card c) {
+		c.setCurrentState(State.STAND);
+		thisCard.add(c);
 	}
 
 	@Override

@@ -28,6 +28,7 @@ public class Back_Row extends FieldElement {
 	}
 
 	public void setCard(Card c) {
+		c.setCurrentState(State.STAND);
 		removeCard();
 		backCard = c;
 		repaint();
@@ -93,6 +94,9 @@ public class Back_Row extends FieldElement {
 	public void mouseReleased(MouseEvent e) {
 		if (containCards() == false)
 			return;
+		
+		associatedPlayer.getField().setSelected(backCard);
+		
 		if (e.getButton() == MouseEvent.BUTTON3) {
 			if (backCard.getCurrentState() == State.STAND) {
 				backCard.setCurrentState(State.REST);

@@ -72,6 +72,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 
 	// other properties
 	private String imageResource;
+	private String backResource;
 	private DataFlavor[] flavors;
 	private int MINILEN = 3;
 
@@ -167,6 +168,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 		setCurrentState(State.NONE);
 		// imageFile = new File("FieldImages/cardBack-s.jpg");
 		imageResource = "/resources/FieldImages/cardBack-s.jpg";
+		backResource = "/resources/FieldImages/cardBack-s.jpg";
 		// addMouseListener(this);
 	}
 
@@ -786,7 +788,8 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 								.getResourceAsStream(getImageResource()));
 						
 						if(currentState == State.FD_REST || currentState == State.FD_STAND) {
-							
+							before = ImageIO.read(getClass()
+									.getResourceAsStream(backResource));
 						}
 						/*
 						 * BufferedImage before =
@@ -863,6 +866,15 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 	}
 
 	public void setDisplay(boolean isFaceUp, boolean isTapped) {
+		
+//		if(isFaceUp && isTapped)
+//			currentState = State.REST;
+//		else if(isFaceUp && !isTapped)
+//			currentState = State.STAND;
+//		else if(!isFaceUp && isTapped)
+//			currentState = State.FD_REST;
+//		else
+//			currentState = State.FD_STAND;
 
 	}
 

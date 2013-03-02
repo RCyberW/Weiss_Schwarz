@@ -331,6 +331,18 @@ public class NewMainField extends Canvas implements Serializable,
 
 	public Card getSelected() {
 		Card temp = selectedCard;
+
+		if (temp == null) {
+			for (FieldElement fe : elements) {
+				// TODO
+
+			}
+			System.out.println("MAINFIELD: no available card to display::"
+					+ temp);
+		} else {
+			System.out.println("MAINFIELD: displaying card info::" + temp);
+		}
+
 		selectedCard = null;
 		return temp;
 	}

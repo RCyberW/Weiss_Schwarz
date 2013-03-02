@@ -54,7 +54,7 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 	private static final long serialVersionUID = -4141688861533493929L;
 	public static double gameScale = 0.6;
 	public static int translatedY = 0;
-	public static int maxWidth = 1600;
+	public static int maxWidth = 1200;
 	public static int maxHeight = 1000;
 	// public static Connector connect;
 
@@ -81,8 +81,11 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 		addMouseListener(this);
 		player1 = p1;
 		player2 = p2;
+		// maxWidth = p1.getField().getPreferredSize().width;
 		// currentPlayer = p1;
 		// connect = new Connector("WeissSchwarz", 5000);
+		this.setPreferredSize(new Dimension(maxWidth, maxHeight));
+		this.setSize(new Dimension(maxWidth, maxHeight));
 	}
 
 	public Game(Player p1) {
@@ -91,6 +94,9 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 		addMouseListener(this);
 		player1 = p1;
 		player2 = p1;
+		// maxWidth = p1.getField().getPreferredSize().width;
+		this.setPreferredSize(new Dimension(maxWidth, maxHeight));
+		this.setSize(new Dimension(maxWidth, maxHeight));
 	}
 
 	public String getPlayersID() {
@@ -199,7 +205,7 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 	 * @param g
 	 */
 	private void paintWords(Graphics g) {
-		Card selectedCard = player1.getHand().getSelected();
+		Card selectedCard = player1.getField().getSelected();
 		/*
 		 * if (selectedCard == null) selectedCard =
 		 * defendingField.getSelected();
@@ -209,9 +215,10 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 			// initialize repaint
 			Graphics2D g2d = (Graphics2D) g;
 
-			g2d.setPaint(Color.cyan);
-			g2d.fillRect(0, 0, (int) ((maxWidth) * gameScale),
-					(int) ((maxHeight) * gameScale));
+			/*
+			 * g2d.setPaint(Color.cyan); g2d.fillRect(0, 0, (int) ((maxWidth) *
+			 * gameScale), (int) ((maxHeight) * gameScale));
+			 */
 
 			int flew = maxWidth;
 
@@ -233,82 +240,88 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 			map.put(TextAttribute.SIZE, new Float(12));
 
 			// paint card
-			selectedCard.setDisplay(true, false);
-			selectedCard.toCanvas().setLocation((int) (1255 * gameScale),
+			// selectedCard.setDisplay(true, false);
+			selectedCard.toCanvas().setLocation(
+					(int) (player1.getField().getWidth() * gameScale),
 					(int) (50 * gameScale));
-			selectedCard.toCanvas().paint(g);
+			selectedCard.toCanvas().paint(g2d);
 
-			// write level/cost/soul values
-			String str = "level: " + selectedCard.getLevel() + " cost: "
-					+ selectedCard.getCost() + " soul: "
-					+ selectedCard.getSoul() + " power: "
-					+ selectedCard.getPower();
+			System.out.println("GAME: displaying card image "
+					+ selectedCard.getCardName());
 
-			AttributedString effects = new AttributedString(str, map);
-			LineBreakMeasurer effectMeasurer = null;
-
-			float breakWidth = (float) ((flew) * gameScale);
-			float drawPosY = 200;
-
-			int paragraphStart = 0;
-			int paragraphEnd = 0;
-
-			if (effectMeasurer == null) {
-				AttributedCharacterIterator paragraph = effects.getIterator();
-				paragraphStart = paragraph.getBeginIndex();
-				paragraphEnd = paragraph.getEndIndex();
-				FontRenderContext frc = g2d.getFontRenderContext();
-				effectMeasurer = new LineBreakMeasurer(paragraph, frc);
-			}
-
-			effectMeasurer.setPosition(paragraphStart);
-			while (effectMeasurer.getPosition() < paragraphEnd) {
-
-				TextLayout layout = effectMeasurer.nextLayout(breakWidth);
-
-				float drawPosX = (float) (layout.isLeftToRight() ? 1210 * gameScale
-						: breakWidth - layout.getAdvance());
-
-				drawPosY += layout.getAscent();
-
-				layout.draw(g2d, drawPosX, drawPosY);
-
-				drawPosY += layout.getDescent() + layout.getLeading();
-			}
-
-			// write effect
-			str = selectedCard.getEffects();
-			effects = new AttributedString(str, map);
-			effectMeasurer = null;
-
-			if (effectMeasurer == null) {
-				AttributedCharacterIterator paragraph = effects.getIterator();
-				paragraphStart = paragraph.getBeginIndex();
-				paragraphEnd = paragraph.getEndIndex();
-				FontRenderContext frc = g2d.getFontRenderContext();
-				effectMeasurer = new LineBreakMeasurer(paragraph, frc);
-			}
-
-			effectMeasurer.setPosition(paragraphStart);
-			while (effectMeasurer.getPosition() < paragraphEnd) {
-
-				TextLayout layout = effectMeasurer.nextLayout(breakWidth);
-
-				float drawPosX = (float) (layout.isLeftToRight() ? 1200 * gameScale
-						: breakWidth - layout.getAdvance());
-
-				drawPosY += layout.getAscent();
-
-				layout.draw(g2d, drawPosX, drawPosY);
-
-				drawPosY += layout.getDescent() + layout.getLeading();
-			}
+			// // write level/cost/soul values
+			// String str = "level: " + selectedCard.getLevel() + " cost: "
+			// + selectedCard.getCost() + " soul: "
+			// + selectedCard.getSoul() + " power: "
+			// + selectedCard.getPower();
+			//
+			// AttributedString effects = new AttributedString(str, map);
+			// LineBreakMeasurer effectMeasurer = null;
+			//
+			// float breakWidth = (float) ((flew) * gameScale);
+			// float drawPosY = 200;
+			//
+			// int paragraphStart = 0;
+			// int paragraphEnd = 0;
+			//
+			// if (effectMeasurer == null) {
+			// AttributedCharacterIterator paragraph = effects.getIterator();
+			// paragraphStart = paragraph.getBeginIndex();
+			// paragraphEnd = paragraph.getEndIndex();
+			// FontRenderContext frc = g2d.getFontRenderContext();
+			// effectMeasurer = new LineBreakMeasurer(paragraph, frc);
+			// }
+			//
+			// effectMeasurer.setPosition(paragraphStart);
+			// while (effectMeasurer.getPosition() < paragraphEnd) {
+			//
+			// TextLayout layout = effectMeasurer.nextLayout(breakWidth);
+			//
+			// float drawPosX = (float) (layout.isLeftToRight() ? 1210 *
+			// gameScale
+			// : breakWidth - layout.getAdvance());
+			//
+			// drawPosY += layout.getAscent();
+			//
+			// layout.draw(g2d, drawPosX, drawPosY);
+			//
+			// drawPosY += layout.getDescent() + layout.getLeading();
+			// }
+			//
+			// // write effect
+			// str = selectedCard.getEffects();
+			// effects = new AttributedString(str, map);
+			// effectMeasurer = null;
+			//
+			// if (effectMeasurer == null) {
+			// AttributedCharacterIterator paragraph = effects.getIterator();
+			// paragraphStart = paragraph.getBeginIndex();
+			// paragraphEnd = paragraph.getEndIndex();
+			// FontRenderContext frc = g2d.getFontRenderContext();
+			// effectMeasurer = new LineBreakMeasurer(paragraph, frc);
+			// }
+			//
+			// effectMeasurer.setPosition(paragraphStart);
+			// while (effectMeasurer.getPosition() < paragraphEnd) {
+			//
+			// TextLayout layout = effectMeasurer.nextLayout(breakWidth);
+			//
+			// float drawPosX = (float) (layout.isLeftToRight() ? 1200 *
+			// gameScale
+			// : breakWidth - layout.getAdvance());
+			//
+			// drawPosY += layout.getAscent();
+			//
+			// layout.draw(g2d, drawPosX, drawPosY);
+			//
+			// drawPosY += layout.getDescent() + layout.getLeading();
+			// }
 		}
 	}
 
 	public void paint(Graphics g) {
 		Graphics2D g2 = (Graphics2D) g;
-		paintWords(g);
+		// paintWords(g2);
 		g2.setColor(Color.pink);
 		g2.setBackground(Color.pink);
 		Font original = g2.getFont();
@@ -340,8 +353,8 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 				} else {
 					xval = (int) ((initialX + (0) * offsetX - 5) * (gameScale));
 				}
-				nextRect = new Rectangle(xval,
-						(int) ((initialY - offsetY + 5) * (gameScale) + translatedY),
+				nextRect = new Rectangle(xval, (int) ((initialY - offsetY + 5)
+						* (gameScale) + translatedY),
 						(int) (offsetX * gameScale),
 						(int) (offsetY * gameScale));
 				g.drawRect(nextRect.x, nextRect.y, nextRect.width,
@@ -402,7 +415,9 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 		// g.drawRect(nextRect.x, nextRect.y, nextRect.width, nextRect.height);
 		// }
 		g2.setFont(original);
-
+		Card card = player1.getField().getSelected();
+		if (card != null)
+			player1.retreiveCardInfo(card);
 		// player1.getHand().paint(g, 0, 0, null);
 	}
 
@@ -548,9 +563,8 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 			// }
 
 		}
+		defendingField.repaintElements();
 		repaint();
-		defendingField.repaint();
-		System.out.println("GAME HAS FOCUS " + this.hasFocus());
 	}
 
 	public void mouseDragged(MouseEvent e) {

@@ -21,6 +21,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.ObjectInputStream;
 import java.io.Serializable;
+import java.net.MalformedURLException;
 import java.util.ArrayList;
 import java.util.HashMap;
 
@@ -28,7 +29,10 @@ import javax.swing.Box;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
+import javax.swing.JScrollPane;
 import javax.swing.JTabbedPane;
+import javax.swing.JTextArea;
+import javax.swing.JTextField;
 
 import CardAssociation.Card;
 import CardAssociation.Deck;
@@ -199,6 +203,7 @@ public class Player implements Serializable {
 	}
 
 	private boolean ready = false;
+	private Box displayInfo;
 
 	public boolean isReady() {
 		return ready;
@@ -211,19 +216,90 @@ public class Player implements Serializable {
 	public void buildGame() {
 		System.out.println("Building game....");
 		f = new JFrame("Weiss Schwarz " + playerID);
-		if (currentGame == null) {
-			currentGame = new Game(this);
-			currentGame.testGame();
-		}
+		// if (currentGame == null) {
+		currentGame = new Game(this);
+		currentGame.testGame();
+		
+		displayInfo = Box.createVerticalBox();
+		displayInfo.setPreferredSize(new Dimension(200, 150));
+		JPanel gamePanel = new JPanel();
+		gamePanel.add(currentGame);
+		// }
 		// else {
 		// System.out.println(currentGame.getPlayersID());
 		// currentGame.playGame();
 		// }
 
-		f.add(currentGame, BorderLayout.NORTH);
+		
+		f.add(gamePanel, BorderLayout.EAST);
+		f.add(displayInfo, BorderLayout.WEST);
 		f.pack();
 		f.setVisible(true);
 		// currentGame = null;
+	}
+	
+	public void retreiveCardInfo(Card selectedCard) {
+		displayInfo.removeAll();
+		displayInfo.validate();
+		if (selectedCard == null) {
+			displayInfo.setPreferredSize(new Dimension(200, 150));
+		}
+
+		int height = 100, width = 50;
+
+		displayInfo.setPreferredSize(new Dimension(200, 150));
+		displayInfo.setSize(new Dimension(200, 150));
+
+		try {
+			height = selectedCard.getCardImage().getHeight(null);
+			width = selectedCard.getCardImage().getWidth(null);
+		} catch (MalformedURLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+		JPanel image = selectedCard.displayImage(width, height);
+		displayInfo.add(image);
+
+		Box cardInfo = Box.createVerticalBox();
+
+		JTextArea cardTitle = new JTextArea(selectedCard.getCardName());
+		cardTitle.setLineWrap(true);
+		cardTitle.setWrapStyleWord(true);
+		cardTitle.setEditable(false);
+
+		JTextArea cardNumber = new JTextArea("level: "
+				+ selectedCard.getLevel() + " cost: " + selectedCard.getCost()
+				+ " trigger: " + selectedCard.getTrigger());
+		cardNumber.setLineWrap(true);
+		cardNumber.setWrapStyleWord(true);
+		cardNumber.setEditable(false);
+
+		JTextArea power = new JTextArea("power: " + selectedCard.getPower()
+				+ " soul: " + selectedCard.getSoul());
+		power.setLineWrap(true);
+		power.setWrapStyleWord(true);
+		power.setEditable(false);
+
+		JTextArea text = new JTextArea(selectedCard.getEffects());
+		text.setLineWrap(true);
+		text.setWrapStyleWord(true);
+		text.setEditable(false);
+
+		JScrollPane effect = new JScrollPane(text);
+		displayInfo.add(cardTitle);
+		displayInfo.add(cardNumber);
+		displayInfo.add(power);
+		
+		displayInfo.add(cardInfo);
+		displayInfo.add(effect);
+		f.setVisible(true);
+		displayInfo.setAlignmentY(Box.LEFT_ALIGNMENT);
+		displayInfo.setAlignmentY(Box.TOP_ALIGNMENT);
+		
 	}
 
 	public NewMainField getField() {
@@ -256,8 +332,8 @@ public class Player implements Serializable {
 	public void buildAndDisplay() {
 		deckPane.setSize(new Dimension(500, 500));
 		displayDecks();
-		
-		int dimension = (int) Math.ceil(Math.sqrt(playerDecks.size())); 
+
+		int dimension = (int) Math.ceil(Math.sqrt(playerDecks.size()));
 		deckPane.setLayout(new GridLayout(dimension, dimension));
 
 		deckPane.addFocusListener(new FocusListener() {
