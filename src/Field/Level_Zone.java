@@ -48,15 +48,10 @@ public class Level_Zone extends FieldElement {
 	}
 
 	public Card shift(Card insert) {
-		Card card = selected;
-		Card temp = null;
+		Card card = null;
 
-		temp = insert;
-		insert = card;
-		card = temp;
-
-		// card = removeCard(selected);
-		// levelZone.add(swappedIndex, insert);
+		card = removeCard(selected);
+		levelZone.add(swappedIndex, insert);
 
 		return card;
 	}
@@ -114,20 +109,16 @@ public class Level_Zone extends FieldElement {
 		Card card = selectCard(e);
 		if (containCards() == false || card == null)
 			return;
-
+		
 		associatedPlayer.getField().setSelected(card);
-
+		
 		if (e.getButton() == MouseEvent.BUTTON1) {
-			selected = card;
+			selected = selectCard(e);
 		}
 		// TODO: swapping
 	}
 
 	public boolean isList() {
 		return true;
-	}
-
-	public int getCount() {
-		return levelZone.size();
 	}
 }

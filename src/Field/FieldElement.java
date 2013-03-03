@@ -264,11 +264,4 @@ abstract class FieldElement extends Component implements MouseListener {
 		return false;
 	}
 	
-	public int getCount() {
-		if(containCards())
-			return 1;
-		else 
-			return 0;
-	}
-	
 }

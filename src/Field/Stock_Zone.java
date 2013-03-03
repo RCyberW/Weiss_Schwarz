@@ -105,8 +105,4 @@ public class Stock_Zone extends FieldElement {
 	public boolean isList() {
 		return true;
 	}
-
-	public int getCount() {
-		return stockZone.size();
-	}
 }

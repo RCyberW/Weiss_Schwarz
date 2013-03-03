@@ -714,7 +714,7 @@ public class BuilderGUI extends JFrame {
 		
 		int widthM = getWidth() / 2 - OFFSET;
 		int heightM = listBox.getPreferredSize().height - link.getHeight() - optionBox.getHeight();
-		heightM = 250;
+		heightM = 270;
 
 		if (getPreferredSize().width / 2 - OFFSET > widthM)
 			widthM = getPreferredSize().width / 2 - OFFSET;
