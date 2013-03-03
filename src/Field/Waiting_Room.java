@@ -115,7 +115,7 @@ public class Waiting_Room extends FieldElement {
 			}
 		});
 		popmenu.add(searchAction); // search the waiting room
-		
+
 		JMenuItem refreshAction = new JMenuItem("refresh");
 		refreshAction.addActionListener(new ActionListener() {
 			@Override
@@ -129,13 +129,12 @@ public class Waiting_Room extends FieldElement {
 		popmenu.show(e.getComponent(), e.getX(), e.getY());
 	}
 
-	
 	protected void refreshDeck() {
-		for(Card card:waitingRoom) {
+		for (Card card : waitingRoom) {
 			associatedPlayer.getField().getDeckZone().setCard(card);
 		}
 		associatedPlayer.getField().getDeckZone().shuffle();
-		
+
 		waitingRoom.clear();
 	}
 
@@ -155,5 +154,9 @@ public class Waiting_Room extends FieldElement {
 
 	public boolean isList() {
 		return true;
+	}
+
+	public int getCount() {
+		return waitingRoom.size();
 	}
 }

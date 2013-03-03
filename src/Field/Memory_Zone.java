@@ -105,9 +105,9 @@ public class Memory_Zone extends FieldElement {
 		Card card = selectCard(e);
 		if (containCards() == false || card == null)
 			return;
-		
+
 		associatedPlayer.getField().setSelected(card);
-		
+
 		if (e.getButton() == MouseEvent.BUTTON3) {
 			if (associatedPlayer.getCurrentPhase() == Phase.DRAW_PHASE) {
 			} else if (associatedPlayer.getCurrentPhase() == Phase.ATTACK_PHASE) {
@@ -119,5 +119,9 @@ public class Memory_Zone extends FieldElement {
 
 	public boolean isList() {
 		return true;
+	}
+
+	public int getCount() {
+		return memoryZone.size();
 	}
 }

@@ -5,8 +5,14 @@ package Field;
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.Graphics;
+import java.awt.Point;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import java.awt.event.MouseEvent;
 import java.util.ArrayList;
+
+import javax.swing.JMenuItem;
+import javax.swing.JPopupMenu;
 
 import CardAssociation.Card;
 import CardAssociation.State;
@@ -55,15 +61,60 @@ public class Clock_Zone extends FieldElement {
 	}
 
 	public Card shift(Card insert) {
-		Card card = null;
-		if (insert != null && selected != null) {
-			System.out.println("Shifting " + insert.getCardName());
-			card = removeCard(selected);
-			clockZone.add(swappedIndex, insert);
-			associatedPlayer.getHand().setCard(selected);
-			associatedPlayer.getHand().playCard(insert);
-		}
+		Card card = selected;
+		Card temp = null;
+
+		temp = insert;
+		insert = card;
+		card = temp;
+
+		// card = removeCard(selected);
+		// levelZone.add(swappedIndex, insert);
+
 		return card;
+	}
+
+	private void constructPopup(MouseEvent e) {
+		JPopupMenu popmenu = new JPopupMenu();
+
+		JMenuItem waitingAction = new JMenuItem("to waiting room");
+		waitingAction.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				toWaitingRoom();
+				associatedPlayer.getField().repaintElements();
+			}
+		});
+		popmenu.add(waitingAction);
+		
+		JMenuItem handAction = new JMenuItem("to hand");
+		handAction.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				toHand();
+				associatedPlayer.getField().repaintElements();
+			}
+		});
+		popmenu.add(handAction);
+
+		popmenu.show(e.getComponent(), e.getX(), e.getY());
+	}
+	
+	private void toHand() {
+		if(selected != null) {
+			associatedPlayer.getHand().setCard(selected);
+			clockZone.remove(swappedIndex);
+			selected = null;
+		}
+	}
+
+	private void toWaitingRoom() {
+		// Card card = clockZone.get(swappedIndex);
+		if(selected != null) {
+			associatedPlayer.getField().getWaitingRoom().setCard(selected);
+			clockZone.remove(swappedIndex);
+			selected = null;
+		}
 	}
 
 	public Card showCard() {
@@ -83,13 +134,16 @@ public class Clock_Zone extends FieldElement {
 			Card thisCard = clockZone.get(i);
 
 			thisCard.setDisplay(true, false);
-			thisCard.toCanvas().setLocation(
-					(int) (x + 110 * i * Game.gameScale), y);
+
 			if (selected != null
-					&& thisCard.getCardName().equals(selected.getCardName())) {
+					&& thisCard.getCardName().equals(selected.getCardName())
+					&& swappedIndex == i) {
 				swappedIndex = i;
 				thisCard.toCanvas().setLocation(
 						(int) (x + 110 * i * Game.gameScale), y - 10);
+			} else {
+				thisCard.toCanvas().setLocation(
+						(int) (x + 110 * i * Game.gameScale), y);
 			}
 			thisCard.toCanvas().paint(g);
 		}
@@ -113,13 +167,13 @@ public class Clock_Zone extends FieldElement {
 					+ " + " + card.getCardBound().width + " , "
 					+ card.getCardBound().y + " + "
 					+ card.getCardBound().height;
-			if (card.getCardBound().contains(e.getX(), e.getY())) {
+			if (card.getCardBound().contains(e.getPoint())) {
 				// System.out.println("click: " + i + ". " + card);
 				swappedIndex = i;
 				if (e.getButton() == MouseEvent.BUTTON1) {
 					clockZone.remove(i);
 				}
-				output += " match!";
+				output += " match! " + swappedIndex;
 				System.out.println(output);
 				return card;
 			}
@@ -128,25 +182,34 @@ public class Clock_Zone extends FieldElement {
 		return null;
 	}
 
+	public boolean contains(Point p) {
+		for (int i = 0; i < clockZone.size(); i++) {
+			Card card = clockZone.get(i);
+			if (card.getCardBound().contains(p)) {
+				return true;
+			}
+		}
+
+		return false;
+	}
+
 	@Override
 	public void mouseReleased(MouseEvent e) {
 		Card card = selectCard(e);
 		if (containCards() == false || card == null)
 			return;
-		
+
 		associatedPlayer.getField().setSelected(card);
-		
+
 		if (e.getButton() == MouseEvent.BUTTON1) {
-			selected = selectCard(e);
-			shift(associatedPlayer.getHand().getSelected());
+			selected = card;
+			// shift(associatedPlayer.getHand().getSelected());
 		} else if (e.getButton() == MouseEvent.BUTTON3) {
-			if (associatedPlayer.getCurrentPhase() == Phase.MAIN_PHASE) {
-				// to shift, select a card from hand first, then select a
-				// card from the clock
-				if (selected == null)
-					selected = selectCard(e);
-				shift(associatedPlayer.getHand().getSelected());
-			}
+			// to shift, select a card from hand first, then select a
+			// card from the clock
+			selected = card;
+			constructPopup(e);
+			// shift(associatedPlayer.getHand().getSelected());
 		}
 	}
 
@@ -156,5 +219,9 @@ public class Clock_Zone extends FieldElement {
 
 	public Card getSelected() {
 		return selected;
+	}
+	
+	public int getCount() {
+		return clockZone.size();
 	}
 }

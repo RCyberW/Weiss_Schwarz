@@ -1,6 +1,7 @@
 package Field;
 
 import java.awt.BorderLayout;
+import java.awt.Component;
 import java.awt.Dimension;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -103,7 +104,7 @@ public class DisplayList extends JFrame {
 				public void actionPerformed(ActionEvent e) {
 					thisPlayer.getField().getWaitingRoom()
 							.setCard(cardList.get(0));
-					cardList.remove(0);
+					thisPlayer.getField().getDeckZone().removeTop();
 					dispose();
 					thisPlayer.getField().repaintElements();
 				}
@@ -114,7 +115,7 @@ public class DisplayList extends JFrame {
 				public void actionPerformed(ActionEvent e) {
 					thisPlayer.getField().getDeckZone()
 							.setBotCard(cardList.get(0));
-					cardList.remove(0);
+					thisPlayer.getField().getDeckZone().removeTop();
 					dispose();
 					thisPlayer.getField().repaintElements();
 				}
@@ -132,7 +133,8 @@ public class DisplayList extends JFrame {
 		});
 
 		buttonRow.add(cancel);
-
+		
+		buttonRow.setAlignmentX(Component.CENTER_ALIGNMENT);
 		return buttonRow;
 	}
 
@@ -200,9 +202,15 @@ public class DisplayList extends JFrame {
 
 	public void buildSelector() {
 		displaySelect();
+		
+		JPanel buttons = new JPanel();
+		buttons.add(setButtons());
+		buttons.setAlignmentX(Component.CENTER_ALIGNMENT);
+		
 		add(displayInfo, BorderLayout.PAGE_START);
 		add(fillPane(), BorderLayout.CENTER);
-		add(setButtons(), BorderLayout.PAGE_END);
+		add(buttons, BorderLayout.PAGE_END);
+		
 		pack();
 	}
 
@@ -216,7 +224,7 @@ public class DisplayList extends JFrame {
 
 	public static void main(String[] args) {
 		DisplayList displayGui = new DisplayList();
-
+		displayGui.setDefaultCloseOperation(EXIT_ON_CLOSE);
 		displayGui.buildSelector();
 		displayGui.setVisible(true);
 	}

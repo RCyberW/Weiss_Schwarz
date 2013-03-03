@@ -54,7 +54,7 @@ public class Deck_Zone extends FieldElement {
 	}
 
 	public Card drawCard() {
-		Card card = deckZone.remove(deckZone.size() - 1);
+		Card card = removeTop();
 		System.out.println("DRAW CARD " + card);
 		associatedPlayer.getHand().setCard(card);
 		return card;
@@ -106,17 +106,17 @@ public class Deck_Zone extends FieldElement {
 		});
 		popmenu.add(shuffleAction); // refresh or normal shuffle
 
-		JMenuItem checkAction = new JMenuItem("reveal top");
+		JMenuItem checkAction = new JMenuItem("peek top");
 		checkAction.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				displayDeck(true);
-				associatedPlayer.getField().repaintElements();
+				// associatedPlayer.getField().repaintElements();
 			}
 		});
 		popmenu.add(checkAction); // move to waiting
 									// room/top/bottom/reveal
-		JMenuItem revealAction = new JMenuItem("peek top");
+		JMenuItem revealAction = new JMenuItem("reveal top");
 		revealAction.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
@@ -211,7 +211,7 @@ public class Deck_Zone extends FieldElement {
 		g.setFont(new Font("TimesRoman", Font.PLAIN, 12));
 		g.setColor(Color.BLUE);
 
-		g.drawString("Cards remain: " + deckZone.size() + "", this.x,
+		g.drawString("Card count: " + deckZone.size() + "", this.x,
 				this.y - 10);
 	}
 
@@ -234,5 +234,13 @@ public class Deck_Zone extends FieldElement {
 
 	public void setBotCard(Card card) {
 		deckZone.add(0, card);
+	}
+
+	public Card removeTop() {
+		return deckZone.remove(deckZone.size() - 1);
+	}
+	
+	public int getCount() {
+		return deckZone.size();
 	}
 }
