@@ -153,7 +153,7 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 
 	public void nextPhase() {
 
-		levelUp(null);
+		// levelUp(null);
 		if (gameStatus == 1)
 			return;
 
@@ -418,6 +418,7 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 		Card card = player1.getField().getSelected();
 		if (card != null)
 			player1.retreiveCardInfo(card);
+		player1.updateStatsBox();
 		// player1.getHand().paint(g, 0, 0, null);
 	}
 
@@ -457,7 +458,7 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 
 		if (c != null && !hasClocked) {
 			// if clock has 7 or more, level up
-			levelUp(c);
+			// levelUp(c);
 			hasClocked = true;
 		}
 	}
@@ -496,9 +497,9 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 	}
 
 	private void levelUp(Card c) {
-		if (c != null) {
+		/*if (c != null) {
 			defendingField.getClockZone().setCard(c);
-		}
+		}*/
 
 		if (defendingField.getClockZone().getDamage() >= 7) {
 			Card card = null;

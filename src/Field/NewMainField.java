@@ -45,6 +45,7 @@ public class NewMainField extends Canvas implements Serializable,
 	int w, h;
 
 	private Card selectedCard;
+	private Card latestSelectedCard;
 
 	// True if the user pressed, dragged or released the mouse outside of the
 	// rectangle; false otherwise.
@@ -240,7 +241,7 @@ public class NewMainField extends Canvas implements Serializable,
 			}
 		}
 
-		repaint();
+		repaintElements();
 
 	}
 
@@ -330,7 +331,7 @@ public class NewMainField extends Canvas implements Serializable,
 	}
 
 	public Card getSelected() {
-		Card temp = selectedCard;
+		Card temp = latestSelectedCard;
 
 		if (temp == null) {
 			for (FieldElement fe : elements) {
@@ -343,12 +344,12 @@ public class NewMainField extends Canvas implements Serializable,
 			System.out.println("MAINFIELD: displaying card info::" + temp);
 		}
 
-		selectedCard = null;
+		// selectedCard = null;
 		return temp;
 	}
 
 	public void setSelected(Card card) {
-		selectedCard = card;
+		latestSelectedCard = card;
 	}
 
 	public void repaintElements() {

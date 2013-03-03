@@ -10,7 +10,9 @@
 package Game;
 
 import java.awt.BorderLayout;
+import java.awt.Component;
 import java.awt.Dimension;
+import java.awt.GridBagConstraints;
 import java.awt.GridLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -26,8 +28,10 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 import javax.swing.Box;
+import javax.swing.BoxLayout;
 import javax.swing.JButton;
 import javax.swing.JFrame;
+import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTabbedPane;
@@ -204,6 +208,8 @@ public class Player implements Serializable {
 
 	private boolean ready = false;
 	private Box displayInfo;
+	private Box leftPanel;
+	private Box statsInfo;
 
 	public boolean isReady() {
 		return ready;
@@ -219,36 +225,69 @@ public class Player implements Serializable {
 		// if (currentGame == null) {
 		currentGame = new Game(this);
 		currentGame.testGame();
-		
-		displayInfo = Box.createVerticalBox();
-		displayInfo.setPreferredSize(new Dimension(200, 150));
+
+		displayInfo = Box.createHorizontalBox();
+		displayInfo.setPreferredSize(new Dimension(200, 500));
 		JPanel gamePanel = new JPanel();
 		gamePanel.add(currentGame);
+
+		statsInfo = Box.createVerticalBox();
+		updateStatsBox();
 		// }
 		// else {
 		// System.out.println(currentGame.getPlayersID());
 		// currentGame.playGame();
 		// }
 
-		
+		leftPanel = Box.createVerticalBox();
+		leftPanel.add(displayInfo);
+		leftPanel.add(Box.createVerticalGlue());
+		leftPanel.add(statsInfo);
+		leftPanel.add(Box.createVerticalStrut(10));
+
 		f.add(gamePanel, BorderLayout.EAST);
-		f.add(displayInfo, BorderLayout.WEST);
+		f.add(leftPanel, BorderLayout.WEST);
 		f.pack();
+		f.setLocationRelativeTo(null);
 		f.setVisible(true);
 		// currentGame = null;
 	}
-	
+
+	public void updateStatsBox() {
+		statsInfo.removeAll();
+		statsInfo.validate();
+		statsInfo.add(new JLabel("Cards remain: "
+				+ this.getField().getDeckZone().getCount()));
+		statsInfo.add(new JLabel("Waiting room: "
+				+ this.getField().getWaitingRoom().getCount()));
+		statsInfo.add(new JLabel("Clock damage: "
+				+ this.getField().getClockZone().getCount()));
+		statsInfo.add(new JLabel("Level count : "
+				+ this.getField().getLevelZone().getCount()));
+		statsInfo.add(new JLabel("Stock size  : "
+				+ this.getField().getStockZone().getCount()));
+		statsInfo.add(new JLabel("Memory count: "
+				+ this.getField().getMemoryZone().getCount()));
+		f.setVisible(true);
+	}
+
 	public void retreiveCardInfo(Card selectedCard) {
 		displayInfo.removeAll();
 		displayInfo.validate();
+		Dimension dim = new Dimension(200, 400);
+		Box displayArea = Box.createVerticalBox();
+		GridBagConstraints gbc = new GridBagConstraints();
+		gbc.fill = GridBagConstraints.NONE;
+
 		if (selectedCard == null) {
-			displayInfo.setPreferredSize(new Dimension(200, 150));
+			displayArea.setPreferredSize(dim);
 		}
 
 		int height = 100, width = 50;
 
-		displayInfo.setPreferredSize(new Dimension(200, 150));
-		displayInfo.setSize(new Dimension(200, 150));
+		displayArea.setPreferredSize(dim);
+		displayArea.setMinimumSize(dim);
+		displayArea.setMaximumSize(dim);
 
 		try {
 			height = selectedCard.getCardImage().getHeight(null);
@@ -262,9 +301,7 @@ public class Player implements Serializable {
 		}
 
 		JPanel image = selectedCard.displayImage(width, height);
-		displayInfo.add(image);
-
-		Box cardInfo = Box.createVerticalBox();
+		displayArea.add(image);
 
 		JTextArea cardTitle = new JTextArea(selectedCard.getCardName());
 		cardTitle.setLineWrap(true);
@@ -290,16 +327,21 @@ public class Player implements Serializable {
 		text.setEditable(false);
 
 		JScrollPane effect = new JScrollPane(text);
-		displayInfo.add(cardTitle);
-		displayInfo.add(cardNumber);
-		displayInfo.add(power);
-		
-		displayInfo.add(cardInfo);
-		displayInfo.add(effect);
+		displayArea.add(cardTitle);
+		displayArea.add(cardNumber);
+		displayArea.add(power);
+		displayArea.add(effect);
+
+		displayArea.setAlignmentY(Component.LEFT_ALIGNMENT);
+
+		displayInfo.add(displayArea);
+		displayInfo.setAlignmentX(Component.TOP_ALIGNMENT);
+
+		// displayInfo.setAlignmentY(BoxLayout.PAGE_AXIS);
+		// displayInfo.setAlignmentY(BoxLayout.Y_AXIS);
+
 		f.setVisible(true);
-		displayInfo.setAlignmentY(Box.LEFT_ALIGNMENT);
-		displayInfo.setAlignmentY(Box.TOP_ALIGNMENT);
-		
+
 	}
 
 	public NewMainField getField() {
