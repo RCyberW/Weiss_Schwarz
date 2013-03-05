@@ -29,7 +29,7 @@ public class Deck {
 
 	// deck properties
 	private String deckName;
-	final int MAX_DECK_SIZE = 50;
+	public static final int MAX_DECK_SIZE = 50;
 	// private int cardsRemain = 0;
 
 	// deck statistics

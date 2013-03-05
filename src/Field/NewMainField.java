@@ -95,8 +95,8 @@ public class NewMainField extends Canvas implements Serializable,
 		selectedCard = null;
 
 		try {
-			System.out.println(getClass().getResource(
-					"/resources/FieldImages/" + "Background.png"));
+			// System.out.println(getClass().getResource(
+			// "/resources/FieldImages/" + "Background.png"));
 			BufferedImage before = ImageIO.read(getClass().getResource(
 					"/resources/FieldImages/" + "Background.png"));
 			w = (int) (Game.Game.maxWidth * Game.Game.gameScale);
@@ -326,18 +326,15 @@ public class NewMainField extends Canvas implements Serializable,
 		return mz;
 	}
 
-	public void prepare(Deck d) {
+	public boolean prepare(Deck d) {
 		dz.loadDeck(d);
+		return dz.getCount() == Deck.MAX_DECK_SIZE;
 	}
 
 	public Card getSelected() {
 		Card temp = latestSelectedCard;
 
 		if (temp == null) {
-			for (FieldElement fe : elements) {
-				// TODO
-
-			}
 			System.out.println("MAINFIELD: no available card to display::"
 					+ temp);
 		} else {

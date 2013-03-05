@@ -10,10 +10,10 @@ public class Runner {
 		Player player1 = new Player();
 		player1.buildAndDisplay();
 
-		while (!player1.isReady()) {
+		/*while (!player1.isReady()) {
 			System.err.println("Waiting...");
 
-		}
+		}*/
 		/*
 		 * Player player2 = new Player(); player2.buildAndDisplay();
 		 * 
@@ -29,7 +29,7 @@ public class Runner {
 		 * } player1.setCurrentPhase(Phase.DRAW_PHASE);
 		 * player2.setCurrentPhase(Phase.STAND_PHASE);
 		 */
-		player1.buildGame();
+		//player1.buildGame();
 		// player2.buildGame();
 	}
 }

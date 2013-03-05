@@ -389,39 +389,14 @@ public class BuilderGUI extends JFrame {
 
 				resultList.clear();
 
-				/*
-				 * System.out.println(idSearch.getText() + nameSearch.getText()
-				 * + triggerSearch.getText() + powerSearch.getText() +
-				 * costSearch.getText() + colorSearch.getText() +
-				 * levelSearch.getText() + traitSearch.getText() +
-				 * typeSearch.getText() + soulSearch.getText());
-				 */
-
 				String cardID = idSearch.getText();
 
 				String name = nameSearch.getText();
 
 				CCode sColor = (CCode) colorList.getSelectedItem();
-				/*
-				 * String color = colorSearch.getText(); if
-				 * (color.equalsIgnoreCase("RED")) { sColor = CCode.RED; } else
-				 * if (color.equalsIgnoreCase("BLUE")) { sColor = CCode.BLUE; }
-				 * else if (color.equalsIgnoreCase("YELLOW")) { sColor =
-				 * CCode.YELLOW; } else if (color.equalsIgnoreCase("GREEN")) {
-				 * sColor = CCode.GREEN; } else { sColor = null; }
-				 */
 
 				CardAssociation.Type sType = (CardAssociation.Type) typeList
 						.getSelectedItem();
-				/*
-				 * String type = typeSearch.getText(); if
-				 * (type.equalsIgnoreCase("CHARACTER")) { sType =
-				 * CardAssociation.Type.CHARACTER; } else if
-				 * (type.equalsIgnoreCase("CLIMAX")) { sType =
-				 * CardAssociation.Type.CLIMAX; } else if
-				 * (type.equalsIgnoreCase("EVENT")) { sType =
-				 * CardAssociation.Type.EVENT; } else { sType = null; }
-				 */
 
 				String level = levelSearch.getText();
 				int sLevel;
@@ -429,7 +404,6 @@ public class BuilderGUI extends JFrame {
 					sLevel = numberInput.parse(level).intValue();
 				} catch (ParseException e1) {
 					sLevel = -1;
-					// sLevel = (level.isEmpty()) ? -1 : 0;
 				}
 
 				String cost = costSearch.getText();
@@ -438,14 +412,9 @@ public class BuilderGUI extends JFrame {
 					sCost = numberInput.parse(cost).intValue();
 				} catch (ParseException e1) {
 					sCost = -1;
-					// sCost = (cost.isEmpty()) ? -1 : 0;
 				}
 
 				Trigger sTrigger = (Trigger) triggerList.getSelectedItem();
-				/*
-				 * String trigger = triggerSearch.getText(); sTrigger =
-				 * Trigger.convertString(trigger);
-				 */
 
 				String power = powerSearch.getText();
 				int sPower;
@@ -453,7 +422,6 @@ public class BuilderGUI extends JFrame {
 					sPower = numberInput.parse(power).intValue();
 				} catch (ParseException e1) {
 					sPower = -1;
-					// sPower = (power.isEmpty()) ? -1 : 0;
 				}
 				String soul = soulSearch.getText();
 				int sSoul;
@@ -461,7 +429,6 @@ public class BuilderGUI extends JFrame {
 					sSoul = numberInput.parse(soul).intValue();
 				} catch (ParseException e1) {
 					sSoul = -1;
-					// sSoul = (soul.isEmpty()) ? -1 : 0;
 				}
 				String trait = traitSearch.getText();
 
@@ -483,10 +450,7 @@ public class BuilderGUI extends JFrame {
 				idSearch.setText("");
 				nameSearch.setText("");
 				traitSearch.setText("");
-				// typeSearch.setText("");
-				// colorSearch.setText("");
 				abilitySearch.setText("");
-				// triggerSearch.setText("");
 				powerSearch.setText("");
 				costSearch.setText("");
 				soulSearch.setText("");
@@ -509,12 +473,10 @@ public class BuilderGUI extends JFrame {
 		row1.add(Box.createHorizontalStrut(5));
 		row1.add(colorLabel);
 		row1.add(Box.createHorizontalStrut(5));
-		// row1.add(colorSearch);
 		row1.add(colorList);
 		row1.add(Box.createHorizontalStrut(5));
 		row1.add(typeLabel);
 		row1.add(Box.createHorizontalStrut(5));
-		// row1.add(typeSearch);
 		row1.add(typeList);
 		row1.add(Box.createHorizontalStrut(5));
 		row1.add(submitButton);
@@ -523,7 +485,6 @@ public class BuilderGUI extends JFrame {
 		row2.add(Box.createHorizontalStrut(5));
 		row2.add(triggerLabel);
 		row2.add(Box.createHorizontalStrut(5));
-		// row2.add(triggerSearch);
 		row2.add(triggerList);
 		row2.add(Box.createHorizontalStrut(5));
 		row2.add(powerLabel);
@@ -555,20 +516,9 @@ public class BuilderGUI extends JFrame {
 		row3.add(abilitySearch);
 		row3.add(Box.createHorizontalStrut(5));
 
-		//row1.setPreferredSize(new Dimension(800, 20));
-		//row1.setMaximumSize(new Dimension(800, 20));
-		//row2.setPreferredSize(new Dimension(800, 20));
-		//row2.setMaximumSize(new Dimension(800, 20));
-		//row3.setPreferredSize(new Dimension(800, 20));
-		//row3.setMaximumSize(new Dimension(800, 20));
-
 		searchBox.add(row1);
-		//searchBox.add(Box.createVerticalStrut(5));
 		searchBox.add(row2);
-		//searchBox.add(Box.createVerticalStrut(5));
 		searchBox.add(row3);
-		//searchBox.setPreferredSize(new Dimension(800, 80));
-		//searchBox.setMaximumSize(new Dimension(800, 80));
 	}
 
 	/**
@@ -1326,6 +1276,31 @@ public class BuilderGUI extends JFrame {
 	}
 
 	private void refreshStats() {
+		if(currentDeck.getNumClimax() < 8)
+			climaxCountText.setForeground(Color.RED);
+		else 
+			climaxCountText.setForeground(Color.BLACK);
+		
+		if(currentDeck.getNumLevel0() < 14 || currentDeck.getNumLevel0() > 16)
+			lv0CountText.setForeground(Color.RED);
+		else 
+			lv0CountText.setForeground(Color.BLACK);
+		
+		if(currentDeck.getNumLevel1() < 12 || currentDeck.getNumLevel1() > 14)
+			lv1CountText.setForeground(Color.RED);
+		else 
+			lv1CountText.setForeground(Color.BLACK);
+		
+		if(currentDeck.getNumLevel2() < 6 || currentDeck.getNumLevel2() > 8)
+			lv2CountText.setForeground(Color.RED);
+		else 
+			lv2CountText.setForeground(Color.BLACK);
+		
+		if(currentDeck.getNumLevel3() < 4 || currentDeck.getNumLevel3() > 6)
+			lv3CountText.setForeground(Color.RED);
+		else 
+			lv3CountText.setForeground(Color.BLACK);
+		
 		cardCountText.setText(String.valueOf(currentDeck.getCards().size()));
 		climaxCountText.setText(String.valueOf(currentDeck.getNumClimax()));
 		lv0CountText.setText(String.valueOf(currentDeck.getNumLevel0()));
@@ -1350,6 +1325,12 @@ public class BuilderGUI extends JFrame {
 		Box leftPanel = Box.createVerticalBox();
 		Box analyzerBox = Box.createHorizontalBox();
 
+		//16 Lv0 
+		//12-14 Lv1 
+		//6-8 Lv2 
+		//4-6 Lv3 
+		//8 CX
+		
 		Box newVert = Box.createVerticalBox();
 		newVert.add(new JLabel("Card count: "));
 		newVert.add(new JLabel("Climax: "));
@@ -1367,6 +1348,7 @@ public class BuilderGUI extends JFrame {
 		lv1CountText = new JLabel(String.valueOf(currentDeck.getNumLevel1()));
 		lv2CountText = new JLabel(String.valueOf(currentDeck.getNumLevel2()));
 		lv3CountText = new JLabel(String.valueOf(currentDeck.getNumLevel3()));
+		
 		soulCountText = new JLabel(String.valueOf(currentDeck.getNumSoul()));
 
 		newVert2.add(cardCountText);

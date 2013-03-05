@@ -91,13 +91,15 @@ public class Player implements Serializable {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				if (!selectedDeck.isEmpty()) {
-					findGame();
-					initField();
+					if (findGame())
+						buildGame();
 					// setReady();
 				}
 			}
 
 		});
+
+		playGame.setEnabled(false);
 
 		userFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		sessionID = -1;
@@ -148,6 +150,11 @@ public class Player implements Serializable {
 				@Override
 				public void actionPerformed(ActionEvent e) {
 					selectedDeck = deckSelect.getText();
+					initField();
+					if (isReady())
+						playGame.setEnabled(true);
+					else
+						playGame.setEnabled(false);
 					// System.out.println("Deck Selected : " + selectedDeck);
 					// setReady();
 					// startDeckEdit();
@@ -170,9 +177,9 @@ public class Player implements Serializable {
 		deckPane.add(newDeck);
 	}
 
-	private void findGame() {
-		// TODO Auto-generated method stub
-
+	private boolean findGame() {
+		// TODO
+		return true;
 	}
 
 	public void initField() {
@@ -188,7 +195,7 @@ public class Player implements Serializable {
 
 		field = new NewMainField(this);
 
-		field.prepare(currentDeck);
+		boolean readyDeck = field.prepare(currentDeck);
 		// Create Field End
 
 		// Create Hand given Field information
@@ -202,7 +209,10 @@ public class Player implements Serializable {
 		// Allow field to see hand
 
 		// Create Game given player information
-		setReady();
+		if (readyDeck)
+			setReady();
+		else
+			System.out.println("The deck is not ready...");
 		System.out.println(playerID + " is ready");
 	}
 
@@ -248,6 +258,7 @@ public class Player implements Serializable {
 		f.add(gamePanel, BorderLayout.EAST);
 		f.add(leftPanel, BorderLayout.WEST);
 		f.pack();
+		f.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 		f.setLocationRelativeTo(null);
 		f.setVisible(true);
 		// currentGame = null;
@@ -293,10 +304,8 @@ public class Player implements Serializable {
 			height = selectedCard.getCardImage().getHeight(null);
 			width = selectedCard.getCardImage().getWidth(null);
 		} catch (MalformedURLException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 
@@ -389,8 +398,6 @@ public class Player implements Serializable {
 
 			@Override
 			public void focusLost(FocusEvent arg0) {
-				// TODO Auto-generated method stub
-
 			}
 
 		});
@@ -494,8 +501,6 @@ public class Player implements Serializable {
 
 				@Override
 				public void focusLost(FocusEvent arg0) {
-					// TODO Auto-generated method stub
-
 				}
 
 			});

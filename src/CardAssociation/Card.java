@@ -65,6 +65,8 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 	private String trait2;
 	private String flavorText;
 	private String realCardName;
+	private ArrayList<Attribute> attributes;
+	private ArrayList<Card> associatedCards;
 
 	// game play properties
 	private State currentState;
@@ -169,6 +171,8 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 		// imageFile = new File("FieldImages/cardBack-s.jpg");
 		imageResource = "/resources/FieldImages/cardBack-s.jpg";
 		backResource = "/resources/FieldImages/cardBack-s.jpg";
+		associatedCards = new ArrayList<Card>();
+		attributes = new ArrayList<Attribute>();
 		// addMouseListener(this);
 	}
 
@@ -459,6 +463,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 	// set the card effects
 	public void addEffect(String e) {
 		effects.add(e);
+		// TODO: process effects to make attributes
 	}
 
 	// set the power value of the card
