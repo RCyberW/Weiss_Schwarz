@@ -66,9 +66,11 @@ public class Deck {
 	}
 
 	// add cards to a deck
-		public boolean addCard(Card referenceCard, boolean verbose) {
-			System.out.println("adding in Deck");
+	public boolean addCard(Card referenceCard, boolean verbose) {
+		System.out.println("adding in Deck");
 
+		// check if the deck has max number of cards
+		if (cards.size() < MAX_DECK_SIZE) {
 			boolean toAdd = true;
 			int x = 0;
 			for (; x < cardWrapper.size(); x++) {
@@ -85,72 +87,73 @@ public class Deck {
 				toAdd = cardWrapper.get(x).addCard(referenceCard);
 			}
 
-			// check if the deck has max number of cards
-			if (cards.size() < MAX_DECK_SIZE) {
-				// if not, check to see if there are 4 copies of a card
-				if (cards.contains(referenceCard)) {
-					// if not, then add
-					// System.err.println(card.getName());
-					if (referenceCard.getCardCount() < Card.getMaxInDeck(referenceCard) 
-							&& toAdd) {
-						referenceCard.addCount();
-						for (int i = 0; i < cards.size(); i++) {
-							Card tempCard = cards.get(i);
-							if (referenceCard.compareTo(tempCard) == 0) {
-								tempCard.setCount(referenceCard.getCardCount());
-							}
-						}
-
-						Card card = referenceCard.clone();
-						card.setCardName(card.getCardName()
-								+ referenceCard.getCardCount());
-						onlineUpdateStatistics(card, true);
-						cards.add(card);
-						card.setCurrentState(State.FD_STAND);
-						shuffledCards.add(card);
-						// System.err.println(card.toString());
-					} else if (verbose){
-						System.out.println(referenceCard.getCardName()
-								+ " has maximum copies");
-						// Warn the user that there are 4 copies existing
-						JOptionPane.showMessageDialog(
-								frame,
-								"There are already the maximum copies (" + 
-										Card.getMaxInDeck(referenceCard) +") of "
-										+ referenceCard.getCardName() + " in the deck",
-										"Max Copies", JOptionPane.WARNING_MESSAGE);
-					}
-				} else if (toAdd) {
-					// card does not exist, add
-					referenceCard.resetCount();
+			// if not, check to see if there are 4 copies of a card
+			if (cards.contains(referenceCard)) {
+				// if not, then add
+				// System.err.println(card.getName());
+				if (referenceCard.getCardCount() < Card
+						.getMaxInDeck(referenceCard) && toAdd) {
 					referenceCard.addCount();
+					for (int i = 0; i < cards.size(); i++) {
+						Card tempCard = cards.get(i);
+						if (referenceCard.compareTo(tempCard) == 0) {
+							tempCard.setCount(referenceCard.getCardCount());
+						}
+					}
+
 					Card card = referenceCard.clone();
+					card.setCardName(card.getCardName()
+							+ referenceCard.getCardCount());
 					onlineUpdateStatistics(card, true);
 					cards.add(card);
+					card.setCurrentState(State.FD_STAND);
 					shuffledCards.add(card);
-					unique.add(referenceCard);
-					Collections.sort(unique);
+					// System.err.println(card.toString());
+					return true;
 				} else if (verbose) {
 					System.out.println(referenceCard.getCardName()
 							+ " has maximum copies");
 					// Warn the user that there are 4 copies existing
 					JOptionPane.showMessageDialog(
 							frame,
-							"There are already the maximum copies (" + 
-									Card.getMaxInDeck(referenceCard) +") of "
-									+ referenceCard.getCardName() + " in the deck",
-									"Max Copies", JOptionPane.WARNING_MESSAGE);
+							"There are already the maximum copies ("
+									+ Card.getMaxInDeck(referenceCard)
+									+ ") of " + referenceCard.getCardName()
+									+ " in the deck", "Max Copies",
+							JOptionPane.WARNING_MESSAGE);
 				}
-			} else if (verbose) {
-				System.out.println("FULL DECK");
-				// Warn the user that it is a full deck
-				JOptionPane.showMessageDialog(frame,
-						"This deck already contain 50 cards!", "Full Deck",
-						JOptionPane.WARNING_MESSAGE);
-			}
-			return toAdd;
-		}
+			} else if (toAdd) {
+				// card does not exist, add
+				referenceCard.resetCount();
+				referenceCard.addCount();
+				Card card = referenceCard.clone();
+				onlineUpdateStatistics(card, true);
+				cards.add(card);
+				shuffledCards.add(card);
+				unique.add(referenceCard);
+				Collections.sort(unique);
 
+				return true;
+			} else if (verbose) {
+				System.out.println(referenceCard.getCardName()
+						+ " has maximum copies");
+				// Warn the user that there are 4 copies existing
+				JOptionPane.showMessageDialog(
+						frame,
+						"There are already the maximum copies ("
+								+ Card.getMaxInDeck(referenceCard) + ") of "
+								+ referenceCard.getCardName() + " in the deck",
+						"Max Copies", JOptionPane.WARNING_MESSAGE);
+			}
+		} else if (verbose) {
+			System.out.println("FULL DECK");
+			// Warn the user that it is a full deck
+			JOptionPane.showMessageDialog(frame,
+					"This deck already contain 50 cards!", "Full Deck",
+					JOptionPane.WARNING_MESSAGE);
+		}
+		return false;
+	}
 
 	// remove a card form the deck
 	public boolean removeCard(Card card) {
