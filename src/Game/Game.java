@@ -119,7 +119,7 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 		defendingField.getDeckZone().drawCard();
 		defendingField.getDeckZone().drawCard();
 		defendingField.getDeckZone().drawCard();
-
+		
 		// attackingField.getDeckZone().drawCard();
 		// attackingField.getDeckZone().drawCard();
 		// attackingField.getDeckZone().drawCard();
@@ -143,12 +143,14 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 		defendingField.getDeckZone().drawCard();
 		defendingField.getDeckZone().drawCard();
 
+		player1.getHand().preGameDiscard();
+		
 		player1.setCurrentPhase(Phase.DRAW_PHASE);
 		currPhase = player1.getCurrentPhase();
 
 		// System.out.println("testGame()");
 		nextPhase();
-		System.out.println("HUGE ERROR");
+		// System.out.println("HUGE ERROR");
 	}
 
 	public void nextPhase() {

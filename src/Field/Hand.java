@@ -1,6 +1,9 @@
 package Field;
 
+import java.awt.BorderLayout;
 import java.awt.Color;
+import java.awt.Component;
+import java.awt.Dimension;
 import java.awt.Font;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
@@ -9,8 +12,15 @@ import java.awt.event.ActionListener;
 import java.awt.event.MouseEvent;
 import java.util.ArrayList;
 
+import javax.swing.Box;
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JList;
 import javax.swing.JMenuItem;
+import javax.swing.JPanel;
 import javax.swing.JPopupMenu;
+import javax.swing.JScrollPane;
+import javax.swing.ListModel;
 
 import CardAssociation.Card;
 import CardAssociation.State;
@@ -258,9 +268,9 @@ public class Hand extends FieldElement {
 		selected = selectCard(e);
 		if (selected == null)
 			return;
-		
+
 		associatedPlayer.getField().setSelected(selected);
-		
+
 		if (e.getButton() == MouseEvent.BUTTON3) {
 			constructPopup(e);
 		} else if (e.getButton() == MouseEvent.BUTTON1) {
@@ -281,4 +291,105 @@ public class Hand extends FieldElement {
 	public Card getSelected() {
 		return selected;
 	}
+
+	public void preGameDiscard() {
+		PreGameDisplay pgd = new PreGameDisplay(handCards, associatedPlayer);
+		pgd.execute();
+	}
+}
+
+class PreGameDisplay extends DisplayList {
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 4051710667562173041L;
+
+	PreGameDisplay(ArrayList<Card> importList, Player p) {
+		super(importList, p);
+	}
+
+	protected Box setButtons() {
+		Box buttonRow = Box.createHorizontalBox();
+
+		JButton add = new JButton("add to queue");
+		add.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				if (!showList.contains(selectedCard))
+					showList.add(selectedCard);
+				refresh();
+			}
+		});
+		buttonRow.add(add);
+
+		JButton remove = new JButton("remove to queue");
+		remove.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				showList.remove(selectedCard);
+				refresh();
+			}
+		});
+		buttonRow.add(remove);
+
+		JButton discard = new JButton("ready");
+		discard.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				for (Card card : showList) {
+					thisPlayer.getField().getWaitingRoom().setCard(card);
+					thisPlayer.getHand().playCard(card);
+				}
+
+				dispose();
+				thisPlayer.getField().repaintElements();
+			}
+		});
+		buttonRow.add(discard);
+
+		buttonRow.setAlignmentX(Component.CENTER_ALIGNMENT);
+		return buttonRow;
+	}
+
+	protected JScrollPane displayList() {
+		String[] cardNames = new String[showList.size()];
+		for (int i = 0; i < showList.size(); i++) {
+			cardNames[i] = showList.get(i).getCardName();
+		}
+
+		JList<String> displayShow = new JList<String>(cardNames);
+		displayShow.setPrototypeCellValue("Index 1234567890");
+		JScrollPane jsp = new JScrollPane(displayShow);
+		return jsp;
+	}
+
+	protected void buildSelector() {
+		displaySelect();
+
+		JPanel buttons = new JPanel();
+		buttons.add(setButtons());
+		buttons.setAlignmentX(Component.CENTER_ALIGNMENT);
+
+		displayInfo.add(displayList());
+
+		add(displayInfo, BorderLayout.PAGE_START);
+		add(fillPane(), BorderLayout.CENTER);
+		add(buttons, BorderLayout.PAGE_END);
+
+		pack();
+	}
+
+	protected void refresh() {
+		displayInfo.removeAll();
+		displayInfo.validate();
+		displaySelect();
+		displayInfo.add(displayList());
+		setVisible(true);
+		setResizable(false);
+	}
+
+	public boolean execute() {
+		setDefaultCloseOperation(DISPOSE_ON_CLOSE);
+		buildSelector();
+		setVisible(true);
+		return true;
+	}
+
 }

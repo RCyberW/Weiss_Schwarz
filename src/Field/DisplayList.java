@@ -30,15 +30,19 @@ public class DisplayList extends JFrame {
 	 */
 	private static final long serialVersionUID = -3238961175016650183L;
 
-	private ArrayList<Card> cardList;
+	protected ArrayList<Card> cardList;
+	protected ArrayList<Card> showList;
 	protected Card selectedCard;
 	protected Player thisPlayer;
 	protected Box displayInfo;
+	protected int cardsPerRow;
 
 	public DisplayList() {
 		cardList = new ArrayList<Card>();
+		showList = new ArrayList<Card>();
 		thisPlayer = new Player();
 		displayInfo = Box.createHorizontalBox();
+		cardsPerRow = 10;
 	}
 
 	public DisplayList(ArrayList<Card> importList, Player p) {
@@ -47,14 +51,14 @@ public class DisplayList extends JFrame {
 		thisPlayer = p;
 	}
 
-	public JScrollPane fillPane() {
+	protected JScrollPane fillPane() {
 		JPanel displayPanel = new JPanel();
 
 		Box displayArea = Box.createVerticalBox();
 		Box row = Box.createHorizontalBox();
 
 		for (int i = 0; i < cardList.size(); i++) {
-			if (i % 10 == 0 && i != 0) {
+			if (i % cardsPerRow == 0 && i != 0) {
 				row.setAlignmentY(LEFT_ALIGNMENT);
 				displayArea.add(row);
 				row = Box.createHorizontalBox();
@@ -72,7 +76,7 @@ public class DisplayList extends JFrame {
 			tempLab.addMouseListener(listener);
 			row.add(tempLab);
 		}
-		if ((cardList.size() + 1) % 10 != 0) {
+		if ((cardList.size() + 1) % cardsPerRow != 0) {
 			row.setAlignmentY(LEFT_ALIGNMENT);
 			displayArea.add(row);
 		}
@@ -83,7 +87,7 @@ public class DisplayList extends JFrame {
 		return new JScrollPane(displayPanel);
 	}
 
-	public Box setButtons() {
+	protected Box setButtons() {
 		Box buttonRow = Box.createHorizontalBox();
 
 		JButton submit = new JButton("Select");
@@ -138,7 +142,7 @@ public class DisplayList extends JFrame {
 		return buttonRow;
 	}
 
-	public Box displaySelect() {
+	protected Box displaySelect() {
 		if (selectedCard == null) {
 			displayInfo.setPreferredSize(new Dimension(500, 150));
 			return displayInfo;
@@ -200,7 +204,7 @@ public class DisplayList extends JFrame {
 		return displayInfo;
 	}
 
-	public void buildSelector() {
+	protected void buildSelector() {
 		displaySelect();
 		
 		JPanel buttons = new JPanel();
@@ -214,7 +218,7 @@ public class DisplayList extends JFrame {
 		pack();
 	}
 
-	public void refresh() {
+	protected void refresh() {
 		displayInfo.removeAll();
 		displayInfo.validate();
 		displaySelect();
