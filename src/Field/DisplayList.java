@@ -76,10 +76,10 @@ public class DisplayList extends JFrame {
 			tempLab.addMouseListener(listener);
 			row.add(tempLab);
 		}
-		if ((cardList.size() + 1) % cardsPerRow != 0) {
-			row.setAlignmentY(LEFT_ALIGNMENT);
-			displayArea.add(row);
-		}
+		// if ((cardList.size() + 1) % cardsPerRow != 0) {
+		row.setAlignmentY(LEFT_ALIGNMENT);
+		displayArea.add(row);
+		// }
 
 		displayPanel.add(displayArea);
 		displayArea.setAlignmentY(LEFT_ALIGNMENT);
@@ -137,7 +137,7 @@ public class DisplayList extends JFrame {
 		});
 
 		buttonRow.add(cancel);
-		
+
 		buttonRow.setAlignmentX(Component.CENTER_ALIGNMENT);
 		return buttonRow;
 	}
@@ -168,7 +168,7 @@ public class DisplayList extends JFrame {
 
 		Box cardInfo = Box.createVerticalBox();
 
-		JTextArea cardTitle = new JTextArea(selectedCard.getRealName());
+		JTextArea cardTitle = new JTextArea(selectedCard.getCardName());
 		cardTitle.setLineWrap(true);
 		cardTitle.setWrapStyleWord(true);
 		cardTitle.setEditable(false);
@@ -206,24 +206,28 @@ public class DisplayList extends JFrame {
 
 	protected void buildSelector() {
 		displaySelect();
-		
+
 		JPanel buttons = new JPanel();
 		buttons.add(setButtons());
 		buttons.setAlignmentX(Component.CENTER_ALIGNMENT);
-		
+
 		add(displayInfo, BorderLayout.PAGE_START);
 		add(fillPane(), BorderLayout.CENTER);
 		add(buttons, BorderLayout.PAGE_END);
-		
+
+		setResizable(false);
 		pack();
+		setLocationRelativeTo(null);
 	}
 
 	protected void refresh() {
 		displayInfo.removeAll();
 		displayInfo.validate();
 		displaySelect();
-		setVisible(true);
+		
 		setResizable(false);
+		pack();
+		setVisible(true);
 	}
 
 	public static void main(String[] args) {

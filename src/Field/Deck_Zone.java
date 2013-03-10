@@ -141,7 +141,6 @@ public class Deck_Zone extends FieldElement {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				displayDeck(false);
-				associatedPlayer.getField().repaintElements();
 			}
 		});
 		popmenu.add(searchAction); // goes to stock

@@ -155,6 +155,8 @@ public class Player implements Serializable {
 						playGame.setEnabled(true);
 					else
 						playGame.setEnabled(false);
+					
+					ready = false;
 					// System.out.println("Deck Selected : " + selectedDeck);
 					// setReady();
 					// startDeckEdit();
@@ -225,7 +227,7 @@ public class Player implements Serializable {
 		return ready;
 	}
 
-	private void setReady() {
+	public void setReady() {
 		ready = true;
 	}
 
@@ -235,7 +237,9 @@ public class Player implements Serializable {
 		// if (currentGame == null) {
 		currentGame = new Game(this);
 		currentGame.testGame();
-
+	}
+	
+	public void drawField() {
 		displayInfo = Box.createHorizontalBox();
 		displayInfo.setPreferredSize(new Dimension(200, 500));
 		JPanel gamePanel = new JPanel();
@@ -243,11 +247,6 @@ public class Player implements Serializable {
 
 		statsInfo = Box.createVerticalBox();
 		updateStatsBox();
-		// }
-		// else {
-		// System.out.println(currentGame.getPlayersID());
-		// currentGame.playGame();
-		// }
 
 		leftPanel = Box.createVerticalBox();
 		leftPanel.add(displayInfo);
@@ -262,6 +261,8 @@ public class Player implements Serializable {
 		f.setLocationRelativeTo(null);
 		f.setVisible(true);
 		// currentGame = null;
+		
+		currentGame.startGame();
 	}
 
 	public void updateStatsBox() {

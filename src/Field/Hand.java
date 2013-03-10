@@ -9,7 +9,9 @@ import java.awt.Graphics;
 import java.awt.Graphics2D;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
+import java.awt.event.MouseListener;
 import java.util.ArrayList;
 
 import javax.swing.Box;
@@ -288,11 +290,15 @@ public class Hand extends FieldElement {
 		return true;
 	}
 
+	public int getCount() {
+		return handCards.size();
+	}
+
 	public Card getSelected() {
 		return selected;
 	}
 
-	public void preGameDiscard() {
+	public void preGameDiscard(Game game) {
 		PreGameDisplay pgd = new PreGameDisplay(handCards, associatedPlayer);
 		pgd.execute();
 	}
@@ -336,9 +342,14 @@ class PreGameDisplay extends DisplayList {
 				for (Card card : showList) {
 					thisPlayer.getField().getWaitingRoom().setCard(card);
 					thisPlayer.getHand().playCard(card);
+					thisPlayer.getField().getDeckZone().drawCard();
 				}
-
+				System.out.println("HAND SIZE: "
+						+ thisPlayer.getHand().getCount());
 				dispose();
+
+				thisPlayer.drawField();
+
 				thisPlayer.getField().repaintElements();
 			}
 		});
@@ -354,8 +365,15 @@ class PreGameDisplay extends DisplayList {
 			cardNames[i] = showList.get(i).getCardName();
 		}
 
-		JList<String> displayShow = new JList<String>(cardNames);
+		final JList<String> displayShow = new JList<String>(cardNames);
 		displayShow.setPrototypeCellValue("Index 1234567890");
+		MouseListener listener = new MouseAdapter() {
+			public void mouseReleased(MouseEvent e) {
+				selectedCard = showList.get(displayShow.getSelectedIndex());
+				refresh();
+			}
+		};
+		displayShow.addMouseListener(listener);
 		JScrollPane jsp = new JScrollPane(displayShow);
 		return jsp;
 	}
@@ -372,8 +390,10 @@ class PreGameDisplay extends DisplayList {
 		add(displayInfo, BorderLayout.PAGE_START);
 		add(fillPane(), BorderLayout.CENTER);
 		add(buttons, BorderLayout.PAGE_END);
-
+		setResizable(false);
 		pack();
+		setLocationRelativeTo(null);
+		
 	}
 
 	protected void refresh() {
@@ -381,8 +401,10 @@ class PreGameDisplay extends DisplayList {
 		displayInfo.validate();
 		displaySelect();
 		displayInfo.add(displayList());
-		setVisible(true);
+		
 		setResizable(false);
+		pack();
+		setVisible(true);
 	}
 
 	public boolean execute() {
