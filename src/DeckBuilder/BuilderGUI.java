@@ -1526,8 +1526,8 @@ public class BuilderGUI extends JFrame {
 		fc.setCurrentDirectory(new File("Deck"));
 
 		if (e.getSource() == loadb) {
-			saveOption();
-			int returnVal = fc.showOpenDialog(this);
+			// saveOption();
+			int returnVal = fc.showOpenDialog(this.getParent());
 			if (returnVal == JFileChooser.APPROVE_OPTION) {
 				file = fc.getSelectedFile();
 				currentDeck = new Deck();
@@ -1535,12 +1535,11 @@ public class BuilderGUI extends JFrame {
 				refresh("load");
 			}
 		} else if (e.getSource() == saveb) {
-
 			File directoryMaker = new File("Deck");
 			if (!directoryMaker.exists())
 				directoryMaker.mkdir();
 			fc.setCurrentDirectory(directoryMaker);
-			int returnVal = fc.showSaveDialog(this);
+			int returnVal = fc.showSaveDialog(this.getParent());
 			if (returnVal == JFileChooser.APPROVE_OPTION) {
 				// if (file == null)
 				file = fc.getSelectedFile();
