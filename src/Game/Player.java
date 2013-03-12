@@ -391,9 +391,7 @@ public class Player implements Serializable {
 
 			@Override
 			public void focusGained(FocusEvent arg0) {
-				deckPane.removeAll();
-				deckPane.validate();
-				displayDecks();
+				refresh();
 			}
 
 			@Override
@@ -410,6 +408,19 @@ public class Player implements Serializable {
 		tabbedPane.addTab("Builder", builderGui.getContentPane());
 		tabbedPane.addTab("Game", playGame);
 		tabbedPane.addTab("Deck", deckPane);
+		
+		tabbedPane.addFocusListener(new FocusListener() {
+
+			@Override
+			public void focusGained(FocusEvent arg0) {
+				refresh();
+			}
+
+			@Override
+			public void focusLost(FocusEvent arg0) {
+			}
+
+		});
 
 		// Box box = Box.createVerticalBox();
 		// box.setAlignmentX(Box.CENTER_ALIGNMENT);
@@ -419,7 +430,7 @@ public class Player implements Serializable {
 
 		Dimension playerDim = new Dimension(builderGui.getWidth() + 10,
 				builderGui.getHeight() + 10);
-		
+
 		userFrame.setMinimumSize(playerDim);
 		userFrame.setMaximumSize(playerDim);
 		// userFrame.pack();
@@ -467,31 +478,26 @@ public class Player implements Serializable {
 	}
 
 	private void refresh() {
-		/*
-		 * if (currentGame != null) { playerDecks.clear(); deckPane.removeAll();
-		 * deckPane.validate(); tabbedPane.removeAll(); tabbedPane.validate();
-		 * 
-		 * displayDecks();
-		 * 
-		 * playGame = new JButton("Play Game"); playGame.addActionListener(new
-		 * ActionListener() {
-		 * 
-		 * @Override public void actionPerformed(ActionEvent e) { if
-		 * (!selectedDeck.isEmpty()) { initField(); } }
-		 * 
-		 * }); deckPane.addFocusListener(new FocusListener() {
-		 * 
-		 * @Override public void focusGained(FocusEvent arg0) {
-		 * deckPane.removeAll(); deckPane.validate(); displayDecks(); }
-		 * 
-		 * @Override public void focusLost(FocusEvent arg0) { }
-		 * 
-		 * });
-		 * 
-		 * // tabbedPane.addTab("Builder", builderGui);
-		 * tabbedPane.addTab("Deck", deckPane); tabbedPane.addTab("Game",
-		 * playGame); }
-		 */
+
+		playerDecks.clear();
+		deckPane.removeAll();
+		deckPane.revalidate();
+
+		displayDecks();
+
+		deckPane.addFocusListener(new FocusListener() {
+
+			@Override
+			public void focusGained(FocusEvent arg0) {
+				refresh();
+			}
+
+			@Override
+			public void focusLost(FocusEvent arg0) {
+			}
+
+		});
+
 	}
 
 	public void setPlayerID(int playerID) {
