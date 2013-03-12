@@ -153,10 +153,11 @@ public class BuilderGUI extends JFrame {
 		selectedCard = null;
 		file = null;
 		changes = false;
-		
+
 		if (!System.getProperty("os.name").toLowerCase().contains("mac")) {
 			try {
-				for (LookAndFeelInfo info : UIManager.getInstalledLookAndFeels()) {
+				for (LookAndFeelInfo info : UIManager
+						.getInstalledLookAndFeels()) {
 					if ("Nimbus".equals(info.getName())) {
 						UIManager.setLookAndFeel(info.getClassName());
 						break;
@@ -339,9 +340,9 @@ public class BuilderGUI extends JFrame {
 		 */
 
 		JButton submitButton = new JButton("Submit");
-		//submitButton.setPreferredSize(new Dimension(100, 25));
+		// submitButton.setPreferredSize(new Dimension(100, 25));
 		JButton clearButton = new JButton("Clear All");
-		//submitButton.setPreferredSize(new Dimension(100, 25));
+		// submitButton.setPreferredSize(new Dimension(100, 25));
 
 		// nameSearch.setMaximumSize(new Dimension(255, 20));
 
@@ -635,7 +636,7 @@ public class BuilderGUI extends JFrame {
 	 * @param c
 	 *            Display the information of the selected Card c
 	 */
-	private void buildCardInfo(Card c) {
+	private Box buildCardInfo(Card c) {
 		Box splitter = Box.createHorizontalBox();
 
 		JEditorPane link = new JEditorPane(
@@ -661,9 +662,10 @@ public class BuilderGUI extends JFrame {
 		});
 
 		Box optionBox = buildOption();
-		
+
 		int widthM = getWidth() / 2 - OFFSET;
-		int heightM = listBox.getPreferredSize().height - link.getHeight() - optionBox.getHeight();
+		int heightM = listBox.getPreferredSize().height - link.getHeight()
+				- optionBox.getHeight();
 		heightM = 250;
 
 		if (getPreferredSize().width / 2 - OFFSET > widthM)
@@ -694,10 +696,12 @@ public class BuilderGUI extends JFrame {
 		splitter3.add(link);
 		splitter3.add(optionBox);
 
-		cardInfo.add(splitter3);
+		// cardInfo.add(splitter3);
 
 		// System.out.println("splitter has components: " +
 		// splitter.getComponentCount());
+
+		return splitter3;
 	}
 
 	/**
@@ -1276,31 +1280,31 @@ public class BuilderGUI extends JFrame {
 	}
 
 	private void refreshStats() {
-		if(currentDeck.getNumClimax() < 8)
+		if (currentDeck.getNumClimax() < 8)
 			climaxCountText.setForeground(Color.RED);
-		else 
+		else
 			climaxCountText.setForeground(Color.BLACK);
-		
-		if(currentDeck.getNumLevel0() < 14 || currentDeck.getNumLevel0() > 16)
+
+		if (currentDeck.getNumLevel0() < 14 || currentDeck.getNumLevel0() > 16)
 			lv0CountText.setForeground(Color.RED);
-		else 
+		else
 			lv0CountText.setForeground(Color.BLACK);
-		
-		if(currentDeck.getNumLevel1() < 12 || currentDeck.getNumLevel1() > 14)
+
+		if (currentDeck.getNumLevel1() < 12 || currentDeck.getNumLevel1() > 14)
 			lv1CountText.setForeground(Color.RED);
-		else 
+		else
 			lv1CountText.setForeground(Color.BLACK);
-		
-		if(currentDeck.getNumLevel2() < 6 || currentDeck.getNumLevel2() > 8)
+
+		if (currentDeck.getNumLevel2() < 6 || currentDeck.getNumLevel2() > 8)
 			lv2CountText.setForeground(Color.RED);
-		else 
+		else
 			lv2CountText.setForeground(Color.BLACK);
-		
-		if(currentDeck.getNumLevel3() < 4 || currentDeck.getNumLevel3() > 6)
+
+		if (currentDeck.getNumLevel3() < 4 || currentDeck.getNumLevel3() > 6)
 			lv3CountText.setForeground(Color.RED);
-		else 
+		else
 			lv3CountText.setForeground(Color.BLACK);
-		
+
 		cardCountText.setText(String.valueOf(currentDeck.getCards().size()));
 		climaxCountText.setText(String.valueOf(currentDeck.getNumClimax()));
 		lv0CountText.setText(String.valueOf(currentDeck.getNumLevel0()));
@@ -1325,12 +1329,12 @@ public class BuilderGUI extends JFrame {
 		Box leftPanel = Box.createVerticalBox();
 		Box analyzerBox = Box.createHorizontalBox();
 
-		//16 Lv0 
-		//12-14 Lv1 
-		//6-8 Lv2 
-		//4-6 Lv3 
-		//8 CX
-		
+		// 16 Lv0
+		// 12-14 Lv1
+		// 6-8 Lv2
+		// 4-6 Lv3
+		// 8 CX
+
 		Box newVert = Box.createVerticalBox();
 		newVert.add(new JLabel("Card count: "));
 		newVert.add(new JLabel("Climax: "));
@@ -1348,7 +1352,7 @@ public class BuilderGUI extends JFrame {
 		lv1CountText = new JLabel(String.valueOf(currentDeck.getNumLevel1()));
 		lv2CountText = new JLabel(String.valueOf(currentDeck.getNumLevel2()));
 		lv3CountText = new JLabel(String.valueOf(currentDeck.getNumLevel3()));
-		
+
 		soulCountText = new JLabel(String.valueOf(currentDeck.getNumSoul()));
 
 		newVert2.add(cardCountText);
@@ -1509,6 +1513,7 @@ public class BuilderGUI extends JFrame {
 	 */
 	public void init() {
 		buildUI();
+		// pack();
 	}
 
 	/**
@@ -1568,8 +1573,8 @@ public class BuilderGUI extends JFrame {
 				|| source.equalsIgnoreCase("new")
 				|| source.equalsIgnoreCase("listBox2")) {
 			cardInfo.removeAll();
-			cardInfo.validate();
-			buildCardInfo(selectedCard);
+			cardInfo.revalidate();
+			cardInfo.add(buildCardInfo(selectedCard));
 		}
 
 		if (source.equalsIgnoreCase("search") || source.equalsIgnoreCase("new")) {
@@ -1604,7 +1609,7 @@ public class BuilderGUI extends JFrame {
 
 		resizeSearchBox(searchBox);
 		resizeSearchBox(cardInfo);
-		setVisible(true);
+		// getContentPane().setVisible(true);
 	}
 
 	/**
@@ -1630,11 +1635,12 @@ public class BuilderGUI extends JFrame {
 	 * Resize the search box components
 	 */
 	private void resizeSearchBox(JComponent comp) {
-		for(Component jc : comp.getComponents()) {
-			((JComponent) jc).putClientProperty("JComponent.sizeVariant", "mini");
+		for (Component jc : comp.getComponents()) {
+			((JComponent) jc).putClientProperty("JComponent.sizeVariant",
+					"mini");
 		}
 	}
-	
+
 	/**
 	 * Build the internal elements of the UI
 	 */
@@ -1653,7 +1659,7 @@ public class BuilderGUI extends JFrame {
 		listBox.add(buildResultArea());
 		listBox.add(buildAddRemoveButtonBox());
 
-		buildCardInfo(selectedCard);
+		cardInfo.add(buildCardInfo(selectedCard));
 		resizeSearchBox(cardInfo);
 
 		deckList.add(buildStatsZone());
@@ -1668,12 +1674,6 @@ public class BuilderGUI extends JFrame {
 		add(BorderLayout.WEST, cardInfo);
 		add(BorderLayout.EAST, listBox);
 		add(BorderLayout.SOUTH, deckList);
-	}
-
-	/**
-	 * Initializes the JTables
-	 */
-	public void initializeTables() {
 	}
 
 	/**
@@ -1717,17 +1717,11 @@ public class BuilderGUI extends JFrame {
 
 	// main
 	public static void main(String[] args) {
-		/*
-		 * if (args.length == 0) datafile = "CardDatav2"; else datafile =
-		 * args[0];
-		 */
 		BuilderGUI builderGui = new BuilderGUI();
-		SwingUtilities.updateComponentTreeUI(builderGui);
-		builderGui.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-
 		builderGui.init();
+
+		builderGui.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		builderGui.setLocationRelativeTo(null);
-		// builderGui.pack();
 		builderGui.setVisible(true);
 	}
 

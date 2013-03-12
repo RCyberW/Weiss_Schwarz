@@ -155,7 +155,7 @@ public class Player implements Serializable {
 						playGame.setEnabled(true);
 					else
 						playGame.setEnabled(false);
-					
+
 					ready = false;
 					// System.out.println("Deck Selected : " + selectedDeck);
 					// setReady();
@@ -167,16 +167,15 @@ public class Player implements Serializable {
 			// System.out.println(playerID + " : " + deckTitle);
 		}
 
-		final JButton newDeck = new JButton("New_Deck");
-		newDeck.addActionListener(new ActionListener() {
-
-			@Override
-			public void actionPerformed(ActionEvent e) {
-				startDeckEdit();
-			}
-
-		});
-		deckPane.add(newDeck);
+		/*
+		 * final JButton newDeck = new JButton("New_Deck");
+		 * newDeck.addActionListener(new ActionListener() {
+		 * 
+		 * @Override public void actionPerformed(ActionEvent e) {
+		 * startDeckEdit(); }
+		 * 
+		 * }); deckPane.add(newDeck);
+		 */
 	}
 
 	private boolean findGame() {
@@ -203,7 +202,7 @@ public class Player implements Serializable {
 		// Create Hand given Field information
 
 		hand = new Hand("Vertical.png", 50, 850, this);
-		userFrame.add(hand);
+		// userFrame.add(hand);
 		// System.out.println("should say match game " + sessionID);
 		//
 		// Runner.connector.messenger("match game " + sessionID, this);
@@ -238,7 +237,7 @@ public class Player implements Serializable {
 		currentGame = new Game(this);
 		currentGame.testGame();
 	}
-	
+
 	public void drawField() {
 		displayInfo = Box.createHorizontalBox();
 		displayInfo.setPreferredSize(new Dimension(200, 500));
@@ -261,7 +260,7 @@ public class Player implements Serializable {
 		f.setLocationRelativeTo(null);
 		f.setVisible(true);
 		// currentGame = null;
-		
+
 		currentGame.startGame();
 	}
 
@@ -382,7 +381,7 @@ public class Player implements Serializable {
 	}
 
 	public void buildAndDisplay() {
-		deckPane.setSize(new Dimension(500, 500));
+		// deckPane.setSize(new Dimension(500, 500));
 		displayDecks();
 
 		int dimension = (int) Math.ceil(Math.sqrt(playerDecks.size()));
@@ -404,31 +403,28 @@ public class Player implements Serializable {
 		});
 
 		if (builderGui == null) {
-			// builderGui = new BuilderGUI();
-			// builderGui.init();
+			builderGui = new BuilderGUI();
+			builderGui.init();
 		}
 
-		// tabbedPane.addTab("Builder", builderGui.getContentPane());
+		tabbedPane.addTab("Builder", builderGui.getContentPane());
 		tabbedPane.addTab("Game", playGame);
 		tabbedPane.addTab("Deck", deckPane);
 
-		Box box = Box.createVerticalBox();
-		box.setAlignmentX(Box.CENTER_ALIGNMENT);
-		box.add(tabbedPane);
+		// Box box = Box.createVerticalBox();
+		// box.setAlignmentX(Box.CENTER_ALIGNMENT);
+		// box.add(tabbedPane);
 
-		userFrame.setContentPane(box);
-		userFrame.pack();
+		userFrame.setContentPane(tabbedPane);
+
+		Dimension playerDim = new Dimension(builderGui.getWidth() + 10,
+				builderGui.getHeight() + 10);
+		
+		userFrame.setMinimumSize(playerDim);
+		userFrame.setMaximumSize(playerDim);
+		// userFrame.pack();
 		userFrame.setLocationRelativeTo(null);
 		userFrame.setVisible(true);
-	}
-
-	private void startDeckEdit() {
-		if (builderGui == null) {
-			builderGui = new BuilderGUI();
-			builderGui.init();
-			builderGui.setLocationRelativeTo(null);
-			builderGui.setVisible(true);
-		}
 	}
 
 	public void setSessionID(int playerCount) {
@@ -471,45 +467,31 @@ public class Player implements Serializable {
 	}
 
 	private void refresh() {
-		if (currentGame != null) {
-			playerDecks.clear();
-			deckPane.removeAll();
-			deckPane.validate();
-			tabbedPane.removeAll();
-			tabbedPane.validate();
-
-			displayDecks();
-
-			playGame = new JButton("Play Game");
-			playGame.addActionListener(new ActionListener() {
-
-				@Override
-				public void actionPerformed(ActionEvent e) {
-					if (!selectedDeck.isEmpty()) {
-						initField();
-					}
-				}
-
-			});
-			deckPane.addFocusListener(new FocusListener() {
-
-				@Override
-				public void focusGained(FocusEvent arg0) {
-					deckPane.removeAll();
-					deckPane.validate();
-					displayDecks();
-				}
-
-				@Override
-				public void focusLost(FocusEvent arg0) {
-				}
-
-			});
-
-			// tabbedPane.addTab("Builder", builderGui);
-			tabbedPane.addTab("Deck", deckPane);
-			tabbedPane.addTab("Game", playGame);
-		}
+		/*
+		 * if (currentGame != null) { playerDecks.clear(); deckPane.removeAll();
+		 * deckPane.validate(); tabbedPane.removeAll(); tabbedPane.validate();
+		 * 
+		 * displayDecks();
+		 * 
+		 * playGame = new JButton("Play Game"); playGame.addActionListener(new
+		 * ActionListener() {
+		 * 
+		 * @Override public void actionPerformed(ActionEvent e) { if
+		 * (!selectedDeck.isEmpty()) { initField(); } }
+		 * 
+		 * }); deckPane.addFocusListener(new FocusListener() {
+		 * 
+		 * @Override public void focusGained(FocusEvent arg0) {
+		 * deckPane.removeAll(); deckPane.validate(); displayDecks(); }
+		 * 
+		 * @Override public void focusLost(FocusEvent arg0) { }
+		 * 
+		 * });
+		 * 
+		 * // tabbedPane.addTab("Builder", builderGui);
+		 * tabbedPane.addTab("Deck", deckPane); tabbedPane.addTab("Game",
+		 * playGame); }
+		 */
 	}
 
 	public void setPlayerID(int playerID) {
