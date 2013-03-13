@@ -235,7 +235,9 @@ public class Player implements Serializable {
 		f = new JFrame("Weiss Schwarz " + playerID);
 		// if (currentGame == null) {
 		currentGame = new Game(this);
+		hand.clear();
 		currentGame.testGame();
+		
 	}
 
 	public void drawField() {

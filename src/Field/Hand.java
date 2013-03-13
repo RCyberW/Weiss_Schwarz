@@ -302,6 +302,10 @@ public class Hand extends FieldElement {
 		PreGameDisplay pgd = new PreGameDisplay(handCards, associatedPlayer);
 		pgd.execute();
 	}
+
+	public void clear() {
+		handCards.clear();
+	}
 }
 
 class PreGameDisplay extends DisplayList {
