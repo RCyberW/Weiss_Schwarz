@@ -101,30 +101,19 @@ public class Front_Row extends FieldElement {
 	public void mouseReleased(MouseEvent e) {
 		if (containCards() == false)
 			return;
-		
+
 		associatedPlayer.getField().setSelected(frontCard);
-		
+
 		if (e.getButton() == MouseEvent.BUTTON3) {
 			System.out.println("playing " + frontCard.getCardName()
 					+ " in a different position");
-			if (associatedPlayer.getCurrentPhase() == Phase.MAIN_PHASE) {
-				// during main phase, activate card effects
-				if (frontCard.getCurrentState() == State.STAND) {
-					frontCard.setCurrentState(State.REST);
-				} else {
-					frontCard.setCurrentState(State.STAND);
-				}
-			} else if (associatedPlayer.getCurrentPhase() == Phase.ATTACK_PHASE) {
-				// during attack phase, rest/reverse/stand cards
-				System.out.println("FRONT_ROW: attack phase "
-						+ frontCard.getCardName());
-				if (frontCard.getCurrentState() == State.REST) {
-					frontCard.setCurrentState(State.REVERSE);
-				} else if (frontCard.getCurrentState() == State.REVERSE) {
-					frontCard.setCurrentState(State.STAND);
-				} else {
-					frontCard.setCurrentState(State.REST);
-				}
+			// during main phase, activate card effects
+			if (frontCard.getCurrentState() == State.STAND) {
+				frontCard.setCurrentState(State.REST);
+			} else if (frontCard.getCurrentState() == State.REVERSE) {
+				frontCard.setCurrentState(State.STAND);
+			} else {
+				frontCard.setCurrentState(State.REST);
 			}
 		} else if (e.getButton() == MouseEvent.BUTTON1) {
 			removeCard();

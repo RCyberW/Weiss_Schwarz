@@ -559,7 +559,7 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 			// }
 
 		}
-		defendingField.repaintElements();
+		// defendingField.repaintElements();
 		repaint();
 	}
 
