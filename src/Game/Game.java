@@ -29,22 +29,14 @@ import java.awt.Rectangle;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import java.awt.event.MouseMotionListener;
-import java.awt.font.FontRenderContext;
-import java.awt.font.LineBreakMeasurer;
-import java.awt.font.TextAttribute;
-import java.awt.font.TextLayout;
-import java.text.AttributedCharacterIterator;
-import java.text.AttributedString;
 import java.util.ArrayList;
-import java.util.Hashtable;
 
 import javax.swing.JPanel;
 
-import CardAssociation.CCode;
 import CardAssociation.Card;
 import CardAssociation.State;
 import CardAssociation.Type;
-import Field.*;
+import Field.NewMainField;
 
 public class Game extends JPanel implements MouseListener, MouseMotionListener {
 
@@ -191,126 +183,6 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 			endPhase();
 			currPhase = Phase.STAND_PHASE;
 			player2.setCurrentPhase(Phase.STAND_PHASE);
-		}
-	}
-
-	/**
-	 * Display the card information on the right TODO: need fixing
-	 * 
-	 * @param g
-	 */
-	private void paintWords(Graphics g) {
-		Card selectedCard = player1.getField().getSelected();
-		/*
-		 * if (selectedCard == null) selectedCard =
-		 * defendingField.getSelected();
-		 */
-
-		if (selectedCard != null) {
-			// initialize repaint
-			Graphics2D g2d = (Graphics2D) g;
-
-			/*
-			 * g2d.setPaint(Color.cyan); g2d.fillRect(0, 0, (int) ((maxWidth) *
-			 * gameScale), (int) ((maxHeight) * gameScale));
-			 */
-
-			int flew = maxWidth;
-
-			if (selectedCard.getC() == CCode.RED)
-				g2d.setPaint(Color.RED);
-			else if (selectedCard.getC() == CCode.BLUE)
-				g2d.setPaint(Color.CYAN);
-			else if (selectedCard.getC() == CCode.YELLOW)
-				g2d.setPaint(Color.YELLOW);
-			else if (selectedCard.getC() == CCode.GREEN)
-				g2d.setPaint(Color.GREEN);
-
-			g2d.fillRect((int) (0 * gameScale), 0,
-					(int) ((maxWidth) * gameScale),
-					(int) ((maxHeight) * gameScale));
-			g2d.setPaint(Color.BLACK);
-
-			final Hashtable<TextAttribute, Object> map = new Hashtable<TextAttribute, Object>();
-			map.put(TextAttribute.SIZE, new Float(12));
-
-			// paint card
-			// selectedCard.setDisplay(true, false);
-			selectedCard.toCanvas().setLocation(
-					(int) (player1.getField().getWidth() * gameScale),
-					(int) (50 * gameScale));
-			selectedCard.toCanvas().paint(g2d);
-
-			System.out.println("GAME: displaying card image "
-					+ selectedCard.getCardName());
-
-			// // write level/cost/soul values
-			// String str = "level: " + selectedCard.getLevel() + " cost: "
-			// + selectedCard.getCost() + " soul: "
-			// + selectedCard.getSoul() + " power: "
-			// + selectedCard.getPower();
-			//
-			// AttributedString effects = new AttributedString(str, map);
-			// LineBreakMeasurer effectMeasurer = null;
-			//
-			// float breakWidth = (float) ((flew) * gameScale);
-			// float drawPosY = 200;
-			//
-			// int paragraphStart = 0;
-			// int paragraphEnd = 0;
-			//
-			// if (effectMeasurer == null) {
-			// AttributedCharacterIterator paragraph = effects.getIterator();
-			// paragraphStart = paragraph.getBeginIndex();
-			// paragraphEnd = paragraph.getEndIndex();
-			// FontRenderContext frc = g2d.getFontRenderContext();
-			// effectMeasurer = new LineBreakMeasurer(paragraph, frc);
-			// }
-			//
-			// effectMeasurer.setPosition(paragraphStart);
-			// while (effectMeasurer.getPosition() < paragraphEnd) {
-			//
-			// TextLayout layout = effectMeasurer.nextLayout(breakWidth);
-			//
-			// float drawPosX = (float) (layout.isLeftToRight() ? 1210 *
-			// gameScale
-			// : breakWidth - layout.getAdvance());
-			//
-			// drawPosY += layout.getAscent();
-			//
-			// layout.draw(g2d, drawPosX, drawPosY);
-			//
-			// drawPosY += layout.getDescent() + layout.getLeading();
-			// }
-			//
-			// // write effect
-			// str = selectedCard.getEffects();
-			// effects = new AttributedString(str, map);
-			// effectMeasurer = null;
-			//
-			// if (effectMeasurer == null) {
-			// AttributedCharacterIterator paragraph = effects.getIterator();
-			// paragraphStart = paragraph.getBeginIndex();
-			// paragraphEnd = paragraph.getEndIndex();
-			// FontRenderContext frc = g2d.getFontRenderContext();
-			// effectMeasurer = new LineBreakMeasurer(paragraph, frc);
-			// }
-			//
-			// effectMeasurer.setPosition(paragraphStart);
-			// while (effectMeasurer.getPosition() < paragraphEnd) {
-			//
-			// TextLayout layout = effectMeasurer.nextLayout(breakWidth);
-			//
-			// float drawPosX = (float) (layout.isLeftToRight() ? 1200 *
-			// gameScale
-			// : breakWidth - layout.getAdvance());
-			//
-			// drawPosY += layout.getAscent();
-			//
-			// layout.draw(g2d, drawPosX, drawPosY);
-			//
-			// drawPosY += layout.getDescent() + layout.getLeading();
-			// }
 		}
 	}
 
@@ -488,25 +360,6 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 		if (climaxCard != null) {
 			defendingField.getClimaxZone().removeCard();
 			defendingField.getWaitingRoom().setCard(climaxCard);
-		}
-	}
-
-	private void levelUp(Card c) {
-		/*if (c != null) {
-			defendingField.getClockZone().setCard(c);
-		}*/
-
-		if (defendingField.getClockZone().getDamage() >= 7) {
-			Card card = null;
-			do {
-				card = defendingField.getClockZone().getSelected();
-			} while (card == null);
-			defendingField.getLevelZone().setCard(card);
-		}
-
-		if (defendingField.getLevelZone().currentLevel() == 4
-				|| attackingField.getLevelZone().currentLevel() == 4) {
-			gameStatus = 1;
 		}
 	}
 

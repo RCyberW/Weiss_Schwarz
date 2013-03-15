@@ -17,7 +17,6 @@ import javax.swing.JPopupMenu;
 import CardAssociation.Card;
 import CardAssociation.State;
 import Game.Game;
-import Game.Phase;
 import Game.Player;
 
 public class Clock_Zone extends FieldElement {

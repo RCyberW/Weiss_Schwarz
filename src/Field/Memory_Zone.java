@@ -8,8 +8,6 @@ import java.awt.Graphics;
 import java.awt.event.MouseEvent;
 import java.util.ArrayList;
 
-import javax.swing.JFrame;
-
 import CardAssociation.*;
 import Game.Phase;
 import Game.Player;

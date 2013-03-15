@@ -7,7 +7,6 @@ import java.awt.Font;
 import java.awt.Graphics;
 import java.awt.event.MouseEvent;
 import CardAssociation.*;
-import Game.Phase;
 import Game.Player;
 
 public class Front_Row extends FieldElement {

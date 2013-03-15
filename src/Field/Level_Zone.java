@@ -20,7 +20,7 @@ public class Level_Zone extends FieldElement {
 	public ArrayList<Card> levelZone;
 
 	private Card selected;
-	private int swappedIndex;
+	// private int swappedIndex;
 
 	public Level_Zone(String imageFileName, int xa, int ya, Player player) {
 		super(imageFileName, xa, ya, "Level", player);
@@ -81,7 +81,7 @@ public class Level_Zone extends FieldElement {
 			thisCard.toCanvas().setLocation(x, y - 50 * i);
 			if (selected != null
 					&& thisCard.getCardName().equals(selected.getCardName())) {
-				swappedIndex = i;
+				// swappedIndex = i;
 				thisCard.toCanvas().setLocation(x + 10, y - 50 * i);
 			}
 			thisCard.toCanvas().paint(g);
