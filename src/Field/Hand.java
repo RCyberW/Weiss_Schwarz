@@ -193,7 +193,7 @@ public class Hand extends FieldElement {
 	}
 
 	private void toField() {
-		if (associatedPlayer.getCurrentPhase() == Phase.MAIN_PHASE) {
+		if (associatedPlayer.getCurrentPhase() != Phase.CLIMAX_PHASE && associatedPlayer.getCurrentPhase() != Phase.CLOCK_PHASE) {
 			if (selected.getT() == Type.CHARACTER) {
 				if (!associatedPlayer.getField().getFrontRow1().containCards()) {
 					associatedPlayer.getField().getFrontRow1()

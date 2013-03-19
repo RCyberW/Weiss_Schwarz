@@ -108,7 +108,6 @@ public class Memory_Zone extends FieldElement {
 
 		if (e.getButton() == MouseEvent.BUTTON3) {
 			if (associatedPlayer.getCurrentPhase() == Phase.DRAW_PHASE) {
-			} else if (associatedPlayer.getCurrentPhase() == Phase.ATTACK_PHASE) {
 			} else {
 				displayDeck();
 			}
