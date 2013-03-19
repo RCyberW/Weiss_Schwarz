@@ -162,6 +162,7 @@ public class Hand extends FieldElement {
 
 	private void toMemory() {
 		associatedPlayer.getField().getMemoryZone().setCard(selected);
+		handCards.remove(selectedIndex);
 	}
 
 	private void toDeck(boolean toTop) {
@@ -169,10 +170,12 @@ public class Hand extends FieldElement {
 			associatedPlayer.getField().getDeckZone().setCard(selected);
 		else
 			associatedPlayer.getField().getDeckZone().setBotCard(selected);
+		handCards.remove(selectedIndex);
 	}
 
 	private void toWaitingRoom() {
 		associatedPlayer.getField().getWaitingRoom().setCard(selected);
+		handCards.remove(selectedIndex);
 	}
 
 	private void toClock() {

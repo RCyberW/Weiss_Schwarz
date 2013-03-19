@@ -1,111 +1,31 @@
-import java.awt.BorderLayout;
-import java.awt.event.KeyEvent;
-import java.awt.event.KeyListener;
+import java.awt.Dimension;
+import java.awt.Graphics;
+import java.awt.GridLayout;
+import java.awt.Image;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.awt.image.BufferedImage;
+import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.ObjectInputStream;
-import java.util.ArrayList;
+import java.util.HashMap;
 
+import javax.imageio.ImageIO;
+import javax.swing.ImageIcon;
+import javax.swing.JButton;
 import javax.swing.JFrame;
-import javax.swing.JScrollPane;
-import javax.swing.JTable;
-import javax.swing.JTextField;
+import javax.swing.JLabel;
+import javax.swing.JPanel;
+import javax.swing.SwingUtilities;
 
-import CardAssociation.CCode;
 import CardAssociation.Card;
-import CardAssociation.Trigger;
-import CardAssociation.Type;
+import CardAssociation.Deck;
 
 public class MainClass {
 
-	private ArrayList<Card> completeList;
-	private ArrayList<Card> resultList;
-	private JTable listTable;
-	private JFrame testRF;
-	private JTextField inputField;
-
-	public static void main(String[] args) {
-		MainClass test = new MainClass();
-		test.tester();
-		
-	}
-
-	public void tester() {
-		deserializer();
-		testRF = new JFrame("RefreshTest");
-
-		inputField = new JTextField();
-
-		final KeyListener searchFieldListener = new KeyListener() {
-
-			@Override
-			public void keyPressed(KeyEvent e) {
-				if (e.getKeyCode() == KeyEvent.VK_ENTER) {
-					e.consume();
-				}
-			}
-
-			@Override
-			public void keyReleased(KeyEvent e) {
-				resultList.clear();
-				for (Card c : completeList) {
-					String cardID = inputField.getText();
-					if (c.meetsRequirement(cardID, "", CCode.ALL, Type.ALL, -1,
-							-1, Trigger.ALL, -1, -1, "", ""))
-						resultList.add(c);
-				}
-				populate();
-			}
-
-			@Override
-			public void keyTyped(KeyEvent arg0) {
-			}
-
-		};
-
-		inputField.addKeyListener(searchFieldListener);
-		build(true);
-	}
-	
-	private void build(boolean bool) {
-		populate();
-		JScrollPane jsp = new JScrollPane(listTable);
-
-		testRF.add(inputField, BorderLayout.NORTH);
-		testRF.add(jsp, BorderLayout.SOUTH);
-
-		testRF.pack();
-		testRF.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		testRF.setVisible(true);
-	}
-
-	private void populate() {
-		String[] columnNames = { "ID", "Name", "Color", "Type", "Level",
-				"Cost", "Soul", "Power" };
-		final ArrayList<Card> allCards = resultList;
-
-		Object[][] cardData = new Object[allCards.size()][columnNames.length];
-
-		for (int i = 0; i < allCards.size(); i++) {
-			Card card = allCards.get(i);
-			cardData[i][0] = card.getID();
-			cardData[i][1] = card.getCardName();
-			cardData[i][2] = card.getC();
-			cardData[i][3] = card.getT();
-			cardData[i][4] = card.getLevel();
-			cardData[i][5] = card.getCost();
-			cardData[i][6] = card.getSoul();
-			cardData[i][7] = card.getPower();
-		}
-		listTable = new JTable(cardData, columnNames) {
-			private static final long serialVersionUID = 3570425890676389430L;
-
-			public boolean isCellEditable(int rowIndex, int colIndex) {
-				return false;
-			}
-		};
-		
-	}
+	private static Deck currentDeck;
+	private static HashMap<String, Card> cardHolder;
 
 	@SuppressWarnings("unchecked")
 	private void deserializer() {
@@ -116,12 +36,12 @@ public class MainClass {
 
 		try {
 			// fileInput = new FileInputStream();
-			fileInput = getClass().getResourceAsStream(
-					"src/DeckBuilder/CardDatav2");
+			System.out.println("Opening data");
+			fileInput = getClass().getResourceAsStream("/resources/CardDatav2");
 			objectInput = new ObjectInputStream(fileInput);
 
-			completeList = (ArrayList<Card>) objectInput.readObject();
-			resultList = (ArrayList<Card>) completeList.clone();
+			objectInput.readObject();
+			cardHolder = (HashMap<String, Card>) objectInput.readObject();
 
 		} catch (IOException e) {
 			e.printStackTrace();
@@ -129,5 +49,74 @@ public class MainClass {
 			e.printStackTrace();
 		}
 
+	}
+
+	public void buildAndDisplay() {
+		deserializer();
+		final String selectedDeck = "Cafe";
+		final JFrame testFrame = new JFrame("Testificate MD");
+
+		final JPanel internalPanel = new JPanel();
+		internalPanel.setLayout(new GridLayout(6, 9));
+
+		currentDeck = new Deck();
+		currentDeck.loadRaw(new File("Deck/" + selectedDeck), cardHolder);
+		System.out.println(selectedDeck + " has "
+				+ currentDeck.getPlayingDeck().size() + " cards");
+
+		for (int i = 0; i < currentDeck.getCards().size(); i++) {
+			Image image;
+			try {
+				image = currentDeck.getCards().get(i).getCardImage();
+				// ImageIcon img = new ImageIcon(image);
+				ImageIcon img = new ImageIcon(image.getScaledInstance(
+						(int) (image.getWidth(null) * 0.33),
+						(int) (image.getHeight(null) * 0.33),
+						Image.SCALE_SMOOTH));
+				internalPanel.add(new JLabel(img));
+			} catch (IOException e1) {
+				e1.printStackTrace();
+			}
+
+		}
+
+		JButton saveImg = new JButton("Export as image");
+
+		ActionListener listener2 = new ActionListener() {
+
+			@Override
+			public void actionPerformed(ActionEvent ae) {
+				JFrame win = (JFrame) SwingUtilities
+						.getWindowAncestor(internalPanel);
+				// JFrame win = new JFrame();
+				Dimension size = internalPanel.getSize();
+				BufferedImage image = (BufferedImage) win.createImage(
+						size.width, size.height);
+				System.out.println(size.width + " x " + size.height);
+				Graphics g = image.getGraphics();
+				win.paint(g);
+				g.dispose();
+				try {
+					ImageIO.write(image, "png", new File(selectedDeck + ".png"));
+				} catch (IOException e) {
+					e.printStackTrace();
+				}
+			}
+
+		};
+
+		saveImg.addActionListener(listener2);
+
+		internalPanel.add(saveImg);
+
+		testFrame.setContentPane(internalPanel);
+		testFrame.pack();
+		testFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		testFrame.setVisible(true);
+	}
+
+	public static void main(String[] args) {
+		MainClass testClass = new MainClass();
+		testClass.buildAndDisplay();
 	}
 }

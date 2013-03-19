@@ -22,7 +22,6 @@ import java.util.ArrayList;
 import javax.imageio.ImageIO;
 import CardAssociation.Card;
 import CardAssociation.Deck;
-import Game.Phase;
 import Game.Player;
 
 public class NewMainField extends Canvas implements Serializable,
@@ -183,50 +182,46 @@ public class NewMainField extends Canvas implements Serializable,
 		}
 
 		if (e.getButton() == MouseEvent.BUTTON1) {
-			if ((associatedPlayer.getCurrentPhase() == Phase.MAIN_PHASE || associatedPlayer
-					.getCurrentPhase() == Phase.ATTACK_PHASE)) {
-				if (selectedCard == null) {
-					// picking up a card from a zone
-					for (FieldElement fe : elements) {
-						// fe.mouseReleased(e);
-						if (!fe.isList() && fe.contains(e.getPoint())) {
-							selectedCard = fe.selectCard(e);
-							fe.mouseReleased(e);
-							System.out.println(selectedCard);
-						}
-						if (selectedCard != null) {
-							System.out.println("taking up  "
-									+ selectedCard.getCardName());
-							break;
-						}
+
+			if (selectedCard == null) {
+				// picking up a card from a zone
+				for (FieldElement fe : elements) {
+					// fe.mouseReleased(e);
+					if (!fe.isList() && fe.contains(e.getPoint())) {
+						selectedCard = fe.selectCard(e);
+						fe.mouseReleased(e);
+						System.out.println(selectedCard);
 					}
-				} else {
-					// placing a card to a zone
-					for (FieldElement fe : elements) {
-						if (fe.contains(e.getPoint())) {
-							System.out
-									.println("clicked on " + fe.toString()
-											+ "(" + e.getX() + "," + e.getY()
-											+ ") placing "
-											+ selectedCard.getCardName());
-							Card tempCard = null;
-							if (!fe.isList()) {
-								tempCard = fe.selectCard(e);
-								if (tempCard != null)
-									System.out.println("picking up "
-											+ selectedCard.getCardName());
-							}
-							fe.setCard(selectedCard);
-							selectedCard = tempCard;
-							break;
-						}
-					}
-					if (selectedCard != null)
-						System.out.println("holding "
+					if (selectedCard != null) {
+						System.out.println("taking up  "
 								+ selectedCard.getCardName());
+						break;
+					}
 				}
-				repaintElements();
+			} else {
+				// placing a card to a zone
+				for (FieldElement fe : elements) {
+					if (fe.contains(e.getPoint())) {
+						System.out.println("clicked on " + fe.toString() + "("
+								+ e.getX() + "," + e.getY() + ") placing "
+								+ selectedCard.getCardName());
+						Card tempCard = null;
+						if (!fe.isList()) {
+							tempCard = fe.selectCard(e);
+							if (tempCard != null)
+								System.out.println("picking up "
+										+ selectedCard.getCardName());
+						}
+						fe.setCard(selectedCard);
+						selectedCard = tempCard;
+						break;
+					}
+				}
+				if (selectedCard != null)
+					System.out.println("holding " + selectedCard.getCardName());
 			}
+			repaintElements();
+
 		} else if (e.getButton() == MouseEvent.BUTTON3) {
 			// default action on each zone
 			for (FieldElement fe : elements) {
@@ -235,8 +230,6 @@ public class NewMainField extends Canvas implements Serializable,
 				}
 			}
 		}
-
-		
 
 	}
 

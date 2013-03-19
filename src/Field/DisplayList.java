@@ -230,11 +230,4 @@ public class DisplayList extends JFrame {
 		pack();
 		setVisible(true);
 	}
-
-	public static void main(String[] args) {
-		DisplayList displayGui = new DisplayList();
-		displayGui.setDefaultCloseOperation(EXIT_ON_CLOSE);
-		displayGui.buildSelector();
-		displayGui.setVisible(true);
-	}
 }

@@ -142,12 +142,11 @@ public class Waiting_Room extends FieldElement {
 		Card card = selectCard(e);
 		if (containCards() == false || card == null)
 			return;
-		
+
 		associatedPlayer.getField().setSelected(showCard());
-		
+
 		if (e.getButton() == MouseEvent.BUTTON3) {
 			if (associatedPlayer.getCurrentPhase() == Phase.DRAW_PHASE) {
-			} else if (associatedPlayer.getCurrentPhase() == Phase.ATTACK_PHASE) {
 			} else {
 				constructPopup(e);
 			}

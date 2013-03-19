@@ -1717,13 +1717,13 @@ public class BuilderGUI extends JFrame {
 	}
 
 	// main
-	public static void main(String[] args) {
+	/*public static void main(String[] args) {
 		BuilderGUI builderGui = new BuilderGUI();
 		builderGui.init();
 
 		builderGui.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		builderGui.setLocationRelativeTo(null);
 		builderGui.setVisible(true);
-	}
+	}*/
 
 }
