@@ -225,6 +225,7 @@ public class NewMainField extends Canvas implements Serializable,
 						System.out.println("holding "
 								+ selectedCard.getCardName());
 				}
+				repaintElements();
 			}
 		} else if (e.getButton() == MouseEvent.BUTTON3) {
 			// default action on each zone
@@ -235,7 +236,7 @@ public class NewMainField extends Canvas implements Serializable,
 			}
 		}
 
-		repaintElements();
+		
 
 	}
 

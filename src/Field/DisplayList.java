@@ -49,7 +49,7 @@ public class DisplayList extends JFrame {
 		this();
 		cardList = importList;
 		thisPlayer = p;
-		// toFront();
+		toFront();
 	}
 
 	protected JScrollPane fillPane() {

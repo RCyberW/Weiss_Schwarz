@@ -99,7 +99,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 	public boolean equals(Object o) {
 		Card card = (Card) o;
 		if (card != null)
-			return card.getID().equals(id) && card.getCardName().equals(cardName);
+			return card.getID().equals(id);
 		else
 			return false;
 	}
@@ -164,6 +164,8 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 		setID(id);
 		// setName(id);
 		setCardName(name);
+		
+		realCardName = name;
 
 		effects = new ArrayList<String>();
 		flavorText = "";

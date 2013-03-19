@@ -320,7 +320,12 @@ class PreGameDisplay extends DisplayList {
 		JButton add = new JButton("add to queue");
 		add.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				if (!showList.contains(selectedCard))
+				boolean toAdd = true;
+				for(int i = 0; i < showList.size(); i++) {
+					if(showList.get(i).getCardName().equals(selectedCard.getCardName()))
+						toAdd = false;
+				}
+				if(toAdd)
 					showList.add(selectedCard);
 				refresh();
 			}

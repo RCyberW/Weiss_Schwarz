@@ -109,10 +109,10 @@ public class Front_Row extends FieldElement {
 			// during main phase, activate card effects
 			if (frontCard.getCurrentState() == State.STAND) {
 				frontCard.setCurrentState(State.REST);
-			} else if (frontCard.getCurrentState() == State.REVERSE) {
-				frontCard.setCurrentState(State.STAND);
+			} else if (frontCard.getCurrentState() == State.REST) {
+				frontCard.setCurrentState(State.REVERSE);
 			} else {
-				frontCard.setCurrentState(State.REST);
+				frontCard.setCurrentState(State.STAND);
 			}
 		} else if (e.getButton() == MouseEvent.BUTTON1) {
 			removeCard();

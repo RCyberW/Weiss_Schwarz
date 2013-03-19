@@ -695,6 +695,8 @@ public class BuilderGUI extends JFrame {
 		splitter3.add(splitter);
 		splitter3.add(link);
 		splitter3.add(optionBox);
+		
+		splitter3.revalidate();
 
 		// cardInfo.add(splitter3);
 

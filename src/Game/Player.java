@@ -198,7 +198,7 @@ public class Player implements Serializable {
 		// Create Field End
 
 		// Create Hand given Field information
-
+		System.out.println("Deck Size = " + currentDeck.getCards().size());
 		hand = new Hand("Vertical.png", 50, 850, this);
 		// userFrame.add(hand);
 		// System.out.println("should say match game " + sessionID);
@@ -233,7 +233,7 @@ public class Player implements Serializable {
 		f = new JFrame("Weiss Schwarz " + playerID);
 		// if (currentGame == null) {
 		currentGame = new Game(this);
-		hand.clear();
+		initField();
 		currentGame.testGame();
 		
 	}
@@ -429,7 +429,7 @@ public class Player implements Serializable {
 		userFrame.setContentPane(tabbedPane);
 
 		Dimension playerDim = new Dimension(builderGui.getWidth() + 10,
-				builderGui.getHeight() + 10);
+				builderGui.getHeight() + 30);
 
 		userFrame.setMinimumSize(playerDim);
 		userFrame.setMaximumSize(playerDim);
