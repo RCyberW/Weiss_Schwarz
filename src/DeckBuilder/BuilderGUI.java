@@ -1451,7 +1451,7 @@ public class BuilderGUI extends JFrame {
 			final Card thisCard = currentDeck.getCards().get(i);
 			JLabel tempLab = thisCard.initiateImage();
 			MouseListener listener = new MouseAdapter() {
-				public void mousePressed(MouseEvent e) {
+				public void mouseReleased(MouseEvent e) {
 					selectedCard = thisCard;
 					System.out.println(thisCard.getCardName() + " has "
 							+ thisCard.getCardCount() + " copies");

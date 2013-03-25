@@ -85,7 +85,7 @@ public class Clock_Zone extends FieldElement {
 			}
 		});
 		popmenu.add(waitingAction);
-		
+
 		JMenuItem handAction = new JMenuItem("to hand");
 		handAction.addActionListener(new ActionListener() {
 			@Override
@@ -95,12 +95,37 @@ public class Clock_Zone extends FieldElement {
 			}
 		});
 		popmenu.add(handAction);
+		
+		if (clockZone.size() >= 7 && clockZone.indexOf(selected) <= 7) {
+			JMenuItem levelAction = new JMenuItem("to level");
+			levelAction.addActionListener(new ActionListener() {
+				@Override
+				public void actionPerformed(ActionEvent e) {
+					toLevel();
+					associatedPlayer.getField().repaintElements();
+				}
+			});
+			popmenu.add(levelAction);
+		}
 
 		popmenu.show(e.getComponent(), e.getX(), e.getY());
 	}
-	
+
+	private void toLevel() {
+		if (clockZone.size() >= 7) {
+			associatedPlayer.getField().getLevelZone().setCard(selected);
+			clockZone.remove(swappedIndex);
+			for (int i = 0; i < 6; i++) {
+				Card card = clockZone.get(0);
+				clockZone.remove(0);
+				associatedPlayer.getField().getWaitingRoom().setCard(card);
+			}
+		}
+
+	}
+
 	private void toHand() {
-		if(selected != null) {
+		if (selected != null) {
 			associatedPlayer.getHand().setCard(selected);
 			clockZone.remove(swappedIndex);
 			selected = null;
@@ -109,7 +134,7 @@ public class Clock_Zone extends FieldElement {
 
 	private void toWaitingRoom() {
 		// Card card = clockZone.get(swappedIndex);
-		if(selected != null) {
+		if (selected != null) {
 			associatedPlayer.getField().getWaitingRoom().setCard(selected);
 			clockZone.remove(swappedIndex);
 			selected = null;
@@ -219,7 +244,7 @@ public class Clock_Zone extends FieldElement {
 	public Card getSelected() {
 		return selected;
 	}
-	
+
 	public int getCount() {
 		return clockZone.size();
 	}
