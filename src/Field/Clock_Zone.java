@@ -95,8 +95,10 @@ public class Clock_Zone extends FieldElement {
 			}
 		});
 		popmenu.add(handAction);
-		
-		if (clockZone.size() >= 7 && clockZone.indexOf(selected) <= 7) {
+
+		System.out.println("CLOCK_ZONE selectedIndex = " + clockZone.indexOf(selected));
+
+		if (clockZone.size() >= 7 && clockZone.indexOf(selected) < 7) {
 			JMenuItem levelAction = new JMenuItem("to level");
 			levelAction.addActionListener(new ActionListener() {
 				@Override
@@ -121,7 +123,6 @@ public class Clock_Zone extends FieldElement {
 				associatedPlayer.getField().getWaitingRoom().setCard(card);
 			}
 		}
-
 	}
 
 	private void toHand() {
