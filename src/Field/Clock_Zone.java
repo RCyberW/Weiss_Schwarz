@@ -195,9 +195,9 @@ public class Clock_Zone extends FieldElement {
 			if (card.getCardBound().contains(e.getPoint())) {
 				// System.out.println("click: " + i + ". " + card);
 				swappedIndex = i;
-				if (e.getButton() == MouseEvent.BUTTON1) {
-					clockZone.remove(i);
-				}
+				// if (e.getButton() == MouseEvent.BUTTON1) {
+				// clockZone.remove(i);
+				// }
 				output += " match! " + swappedIndex;
 				System.out.println(output);
 				return card;
@@ -239,7 +239,7 @@ public class Clock_Zone extends FieldElement {
 	}
 
 	public boolean isList() {
-		return true;
+		return false;
 	}
 
 	public Card getSelected() {
