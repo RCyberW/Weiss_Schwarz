@@ -173,8 +173,8 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 		// imageFile = new File("FieldImages/cardBack-s.jpg");
 		imageResource = "/resources/FieldImages/cardBack-s.jpg";
 		backResource = "/resources/FieldImages/cardBack-s.jpg";
-		associatedCards = new ArrayList<Card>();
-		attributes = new ArrayList<Attribute>();
+		setAssociatedCards(new ArrayList<Card>());
+		setAttributes(new ArrayList<Attribute>());
 		// addMouseListener(this);
 	}
 
@@ -910,6 +910,22 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 
 	public String toString() {
 		return cardName;
+	}
+
+	public ArrayList<Attribute> getAttributes() {
+		return attributes;
+	}
+
+	public void setAttributes(ArrayList<Attribute> attributes) {
+		this.attributes = attributes;
+	}
+
+	public ArrayList<Card> getAssociatedCards() {
+		return associatedCards;
+	}
+
+	public void setAssociatedCards(ArrayList<Card> associatedCards) {
+		this.associatedCards = associatedCards;
 	}
 
 }

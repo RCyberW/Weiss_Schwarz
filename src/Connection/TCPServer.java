@@ -7,6 +7,8 @@ public class TCPServer
 
 {
 
+	private static ServerSocket serversoc;
+
 	public static void main(String a[]) throws Exception
 
 	{
@@ -15,7 +17,7 @@ public class TCPServer
 
 		System.out.println("Server is ready to connect");
 
-		ServerSocket serversoc = new ServerSocket(9);
+		serversoc = new ServerSocket(9);
 
 		Socket clientsoc = serversoc.accept();
 

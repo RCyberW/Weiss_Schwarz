@@ -17,8 +17,6 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
-import javax.swing.SwingUtilities;
-
 import CardAssociation.Card;
 import CardAssociation.Deck;
 
@@ -86,18 +84,31 @@ public class MainClass {
 
 			@Override
 			public void actionPerformed(ActionEvent ae) {
-				JFrame win = (JFrame) SwingUtilities
-						.getWindowAncestor(internalPanel);
-				// JFrame win = new JFrame();
-				Dimension size = internalPanel.getSize();
-				BufferedImage image = (BufferedImage) win.createImage(
-						size.width, size.height);
-				System.out.println(size.width + " x " + size.height);
-				Graphics g = image.getGraphics();
-				win.paint(g);
-				g.dispose();
 				try {
-					ImageIO.write(image, "png", new File(selectedDeck + ".png"));
+					// JFrame win = (JFrame) SwingUtilities.getWindowAncestor(internalPanel);
+					JFrame win = new JFrame();
+					win.setContentPane(internalPanel);
+					win.paint(internalPanel.getGraphics());
+					Dimension size = internalPanel.getSize();
+					BufferedImage image = (BufferedImage) win.createImage(
+							(int) size.getWidth(), (int) size.getHeight());
+
+					//image = (BufferedImage) internalPanel.createImage(
+							//(int) size.getWidth(), (int) size.getHeight());
+
+					System.out.println(size.getWidth() + " x "
+							+ size.getHeight());
+					Graphics g = internalPanel.getGraphics();
+					g = image.getGraphics();
+					win.paint(g);
+					g.dispose();
+					
+					JFrame newTestWindow = new JFrame("new win");
+					newTestWindow.add(new JLabel(new ImageIcon(image)));
+					newTestWindow.pack();
+					newTestWindow.setVisible(true);
+					
+					ImageIO.write(image, "jpg", new File(selectedDeck + ".jpg"));
 				} catch (IOException e) {
 					e.printStackTrace();
 				}

@@ -8,6 +8,8 @@ public class TCPClient
 
 {
 
+	private static Socket clientsoc;
+
 	public static void main(String[] args) throws IOException
 
 	{
@@ -21,7 +23,7 @@ public class TCPClient
 		@SuppressWarnings("deprecation")
 		String str = inp.readLine();
 
-		Socket clientsoc = new Socket(str, 9);
+		clientsoc = new Socket(str, 9);
 
 		PrintWriter out = new PrintWriter(clientsoc.getOutputStream(), true);
 

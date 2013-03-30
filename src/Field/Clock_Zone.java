@@ -165,7 +165,7 @@ public class Clock_Zone extends FieldElement {
 					&& swappedIndex == i) {
 				swappedIndex = i;
 				thisCard.toCanvas().setLocation(
-						(int) (x + 110 * i * Game.gameScale), y - 10);
+						(int) (x + 110 * i * Game.gameScale), y);
 			} else {
 				thisCard.toCanvas().setLocation(
 						(int) (x + 110 * i * Game.gameScale), y);
@@ -237,7 +237,7 @@ public class Clock_Zone extends FieldElement {
 	}
 
 	public boolean isList() {
-		return false;
+		return true;
 	}
 
 	public Card getSelected() {
