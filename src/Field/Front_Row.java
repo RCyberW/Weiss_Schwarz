@@ -5,7 +5,13 @@ package Field;
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.Graphics;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import java.awt.event.MouseEvent;
+
+import javax.swing.JMenuItem;
+import javax.swing.JPopupMenu;
+
 import CardAssociation.*;
 import Game.Player;
 
@@ -104,18 +110,45 @@ public class Front_Row extends FieldElement {
 		associatedPlayer.getField().setSelected(frontCard);
 
 		if (e.getButton() == MouseEvent.BUTTON3) {
-			System.out.println("playing " + frontCard.getCardName()
-					+ " in a different position");
-			// during main phase, activate card effects
-			if (frontCard.getCurrentState() == State.STAND) {
-				frontCard.setCurrentState(State.REST);
-			} else if (frontCard.getCurrentState() == State.REST) {
-				frontCard.setCurrentState(State.REVERSE);
-			} else {
-				frontCard.setCurrentState(State.STAND);
-			}
+			constructPopup(e);
 		} else if (e.getButton() == MouseEvent.BUTTON1) {
 			removeCard();
 		}
+	}
+	
+	protected void constructPopup(MouseEvent e) {
+		JPopupMenu popmenu = new JPopupMenu();
+
+		JMenuItem standAction = new JMenuItem("stand");
+		standAction.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				frontCard.setCurrentState(State.STAND);
+				associatedPlayer.getField().repaintElements();
+			}
+		});
+		popmenu.add(standAction);
+
+		JMenuItem restAction = new JMenuItem("rest");
+		restAction.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				frontCard.setCurrentState(State.REST);
+				associatedPlayer.getField().repaintElements();
+			}
+		});
+		popmenu.add(restAction);
+		
+		JMenuItem reverseAction = new JMenuItem("reverse");
+		reverseAction.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				frontCard.setCurrentState(State.REVERSE);
+				associatedPlayer.getField().repaintElements();
+			}
+		});
+		popmenu.add(reverseAction);
+
+		popmenu.show(e.getComponent(), e.getX(), e.getY());
 	}
 }

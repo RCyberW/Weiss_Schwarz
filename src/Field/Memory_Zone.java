@@ -5,11 +5,15 @@ package Field;
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.Graphics;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import java.awt.event.MouseEvent;
 import java.util.ArrayList;
 
+import javax.swing.JMenuItem;
+import javax.swing.JPopupMenu;
+
 import CardAssociation.*;
-import Game.Phase;
 import Game.Player;
 
 public class Memory_Zone extends FieldElement {
@@ -107,10 +111,7 @@ public class Memory_Zone extends FieldElement {
 		associatedPlayer.getField().setSelected(card);
 
 		if (e.getButton() == MouseEvent.BUTTON3) {
-			if (associatedPlayer.getCurrentPhase() == Phase.DRAW_PHASE) {
-			} else {
-				displayDeck();
-			}
+			constructPopup(e);
 		}
 	}
 
@@ -120,5 +121,20 @@ public class Memory_Zone extends FieldElement {
 
 	public int getCount() {
 		return memoryZone.size();
+	}
+
+	protected void constructPopup(MouseEvent e) {
+		JPopupMenu popmenu = new JPopupMenu();
+
+		JMenuItem searchAction = new JMenuItem("search");
+		searchAction.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				displayDeck();
+			}
+		});
+		popmenu.add(searchAction);
+
+		popmenu.show(e.getComponent(), e.getX(), e.getY());
 	}
 }

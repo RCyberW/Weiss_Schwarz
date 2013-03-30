@@ -81,7 +81,7 @@ public class Deck_Zone extends FieldElement {
 		return null;
 	}
 
-	private void constructPopup(MouseEvent e) {
+	protected void constructPopup(MouseEvent e) {
 		final JPopupMenu popmenu = new JPopupMenu();
 
 		JMenuItem drawAction = new JMenuItem("draw");

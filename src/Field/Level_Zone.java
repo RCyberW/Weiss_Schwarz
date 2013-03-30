@@ -130,4 +130,10 @@ public class Level_Zone extends FieldElement {
 	public int getCount() {
 		return levelZone.size();
 	}
+
+	@Override
+	protected void constructPopup(MouseEvent e) {
+		// TODO Auto-generated method stub
+		
+	}
 }

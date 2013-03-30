@@ -109,4 +109,10 @@ public class Stock_Zone extends FieldElement {
 	public int getCount() {
 		return stockZone.size();
 	}
+
+	@Override
+	protected void constructPopup(MouseEvent e) {
+		// TODO Auto-generated method stub
+		
+	}
 }

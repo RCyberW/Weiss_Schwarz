@@ -205,6 +205,8 @@ abstract class FieldElement extends Component implements MouseListener {
 
 	@Override
 	public abstract void mouseReleased(MouseEvent e);
+	
+	protected abstract void constructPopup(MouseEvent e);
 
 	@Override
 	public void mouseEntered(MouseEvent e) {
