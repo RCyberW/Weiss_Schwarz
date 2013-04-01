@@ -54,29 +54,27 @@ public class MainClass {
 		final String selectedDeck = "Cafe";
 		final JFrame testFrame = new JFrame("Testificate MD");
 
-		final JPanel internalPanel = new JPanel();
-		internalPanel.setLayout(new GridLayout(6, 9));
+		final JPanel contentPanel = new JPanel();
+		contentPanel.setLayout(new GridLayout(6, 9));
 
 		currentDeck = new Deck();
 		currentDeck.loadRaw(new File("Deck/" + selectedDeck), cardHolder);
-		System.out.println(selectedDeck + " has "
-				+ currentDeck.getPlayingDeck().size() + " cards");
+		System.out.println(selectedDeck + " has " + currentDeck.getPlayingDeck().size() + " cards");
 
 		for (int i = 0; i < currentDeck.getCards().size(); i++) {
 			Image image;
 			try {
 				image = currentDeck.getCards().get(i).getCardImage();
 				// ImageIcon img = new ImageIcon(image);
-				ImageIcon img = new ImageIcon(image.getScaledInstance(
-						(int) (image.getWidth(null) * 0.33),
-						(int) (image.getHeight(null) * 0.33),
-						Image.SCALE_SMOOTH));
-				internalPanel.add(new JLabel(img));
+				ImageIcon img = new ImageIcon(image.getScaledInstance((int) (image.getWidth(null)), (int) (image.getHeight(null)), Image.SCALE_SMOOTH));
+				contentPanel.add(new JLabel(img));
 			} catch (IOException e1) {
 				e1.printStackTrace();
 			}
 
 		}
+		
+		final JPanel internalPanel = contentPanel;
 
 		JButton saveImg = new JButton("Export as image");
 
@@ -85,30 +83,17 @@ public class MainClass {
 			@Override
 			public void actionPerformed(ActionEvent ae) {
 				try {
-					// JFrame win = (JFrame) SwingUtilities.getWindowAncestor(internalPanel);
 					JFrame win = new JFrame();
 					win.setContentPane(internalPanel);
 					win.paint(internalPanel.getGraphics());
 					Dimension size = internalPanel.getSize();
-					BufferedImage image = (BufferedImage) win.createImage(
-							(int) size.getWidth(), (int) size.getHeight());
+					BufferedImage image = new BufferedImage((int) size.getWidth(), (int) size.getHeight(), BufferedImage.TYPE_INT_RGB);
 
-					//image = (BufferedImage) internalPanel.createImage(
-							//(int) size.getWidth(), (int) size.getHeight());
+					Graphics g = image.getGraphics();
+					internalPanel.paint(g);
+					// g.dispose();
 
-					System.out.println(size.getWidth() + " x "
-							+ size.getHeight());
-					Graphics g = internalPanel.getGraphics();
-					g = image.getGraphics();
-					win.paint(g);
-					g.dispose();
-					
-					JFrame newTestWindow = new JFrame("new win");
-					newTestWindow.add(new JLabel(new ImageIcon(image)));
-					newTestWindow.pack();
-					newTestWindow.setVisible(true);
-					
-					ImageIO.write(image, "jpg", new File(selectedDeck + ".jpg"));
+					ImageIO.write(image, "png", new File(selectedDeck + ".png"));
 				} catch (IOException e) {
 					e.printStackTrace();
 				}
@@ -118,9 +103,10 @@ public class MainClass {
 
 		saveImg.addActionListener(listener2);
 
-		internalPanel.add(saveImg);
+		
 
-		testFrame.setContentPane(internalPanel);
+		testFrame.setContentPane(contentPanel);
+		testFrame.add(saveImg);
 		testFrame.pack();
 		testFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		testFrame.setVisible(true);
