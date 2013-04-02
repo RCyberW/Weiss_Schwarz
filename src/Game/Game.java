@@ -133,7 +133,7 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 	public void startGame() {
 		// player1.drawField();
 		
-		player1.setCurrentPhase(Phase.DRAW_PHASE);
+		player1.setCurrentPhase(Phase.STAND_PHASE);
 		currPhase = player1.getCurrentPhase();
 		nextPhase();
 	}
