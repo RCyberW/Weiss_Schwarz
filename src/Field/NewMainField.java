@@ -189,9 +189,9 @@ public class NewMainField extends Canvas implements Serializable,
 					// fe.mouseReleased(e);
 					if (!fe.isList() && fe.contains(e.getPoint())) {
 						selectedCard = fe.selectCard(e);
-						fe.mouseReleased(e);
-						System.out.println(selectedCard);
 					}
+					fe.mouseReleased(e);
+					System.out.println(selectedCard);
 					if (selectedCard != null) {
 						System.out.println("taking up  "
 								+ selectedCard.getCardName());

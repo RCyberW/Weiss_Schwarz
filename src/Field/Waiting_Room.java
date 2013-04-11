@@ -103,7 +103,7 @@ public class Waiting_Room extends FieldElement {
 	// return null;
 	// }
 
-	private void constructPopup(MouseEvent e) {
+	protected void constructPopup(MouseEvent e) {
 		final JPopupMenu popmenu = new JPopupMenu();
 
 		JMenuItem searchAction = new JMenuItem("search");

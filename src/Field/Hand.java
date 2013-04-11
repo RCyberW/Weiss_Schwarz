@@ -93,7 +93,7 @@ public class Hand extends FieldElement {
 		g2.drawString("Player Hand", this.x + 10, this.y + 20);
 	}
 
-	private void constructPopup(MouseEvent e) {
+	protected void constructPopup(MouseEvent e) {
 
 		final JPopupMenu popmenu = new JPopupMenu();
 

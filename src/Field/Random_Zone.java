@@ -34,7 +34,7 @@ public class Random_Zone extends FieldElement {
 		return thisCard.size() > 0;
 	}
 
-	private void constructPopup(MouseEvent e) {
+	protected void constructPopup(MouseEvent e) {
 		JPopupMenu popmenu = new JPopupMenu();
 
 		JMenuItem waitingAction = new JMenuItem("all to waiting room");

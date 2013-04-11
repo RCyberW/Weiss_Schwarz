@@ -54,6 +54,7 @@ public class Deck {
 	private JFrame frame;
 
 	public ArrayList<Card> shuffledCards;
+	private Scanner s;
 
 	// create a deck
 	public Deck() {
@@ -263,8 +264,7 @@ public class Deck {
 		try {
 			InputStreamReader fr = new InputStreamReader(new FileInputStream(
 					file.getAbsolutePath()), "UTF-8");
-			// FileReader fr = new FileReader(file.getAbsolutePath());
-			Scanner s = new Scanner(fr);
+			s = new Scanner(fr);
 
 			java.util.Iterator<Card> valueList = dictionary.values().iterator();
 

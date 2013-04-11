@@ -33,6 +33,7 @@ public class Importer {
 	private static ArrayList<Card> setCards = new ArrayList<Card>();
 	private static HashMap<String, Card> allCards = new HashMap<String, Card>();
 	private Writer nameDict;
+	private Scanner scanner;
 
 	public Importer() {
 		try {
@@ -100,7 +101,7 @@ public class Importer {
 
 	public void scanRaw(File file) {
 		try {
-			Scanner scanner = new Scanner(file);
+			scanner = new Scanner(file);
 			// System.out.println(file.exists() + " : " + file.getName());
 			int lineDex = 0;
 			boolean isStart = false;

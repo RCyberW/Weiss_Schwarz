@@ -92,4 +92,10 @@ public class Climax_Zone extends FieldElement {
 		}
 	}
 
+	@Override
+	protected void constructPopup(MouseEvent e) {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
