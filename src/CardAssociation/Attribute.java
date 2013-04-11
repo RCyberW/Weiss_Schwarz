@@ -1,7 +1,7 @@
 package CardAssociation;
 
 public enum Attribute {
-	ALL("All"), SHIFT("Shift"), ENCORE("Encore"), SUPPORT("Support"), BACKUP("Backup"), HEAL("Heal");
+	ALL(""), SHIFT("Shift"), ENCORE("Encore"), SUPPORT("Support"), BACKUP("Backup"), HEAL("Heal");
 
 	String s;
 

@@ -45,6 +45,7 @@ import javax.swing.event.ChangeEvent;
 import javax.swing.event.ChangeListener;
 import javax.swing.event.HyperlinkEvent;
 import javax.swing.event.HyperlinkListener;
+import javax.swing.table.TableCellRenderer;
 import javax.swing.table.TableColumn;
 import javax.swing.table.TableModel;
 import javax.swing.table.TableRowSorter;
@@ -104,6 +105,8 @@ public class BuilderGUI extends JFrame {
 	private JLabel resultHeader;
 
 	// Components for tables
+	private TableCellRenderer cardIDRenderer;
+	private TableCellRenderer numberRenderer;
 	private JTable resultListTable;
 	private ResultListTableModel resultListModel;
 	private JTable deckListTable;
@@ -199,8 +202,8 @@ public class BuilderGUI extends JFrame {
 		final JTextField abilitySearch = new JTextField();
 		final JTextField powerSearch = new JTextField();
 		final JTextField costSearch = new JTextField();
-		final JTextField levelSearch = new JTextField();
-		final JTextField soulSearch = new JTextField();
+		// final JTextField levelSearch = new JTextField();
+		// final JTextField soulSearch = new JTextField();
 		// final JTextField triggerSearch = new JTextField();
 
 		CCode[] colorSelections = null;
@@ -213,6 +216,14 @@ public class BuilderGUI extends JFrame {
 		final JComboBox typeList = new JComboBox(classifications);
 		typeList.setSelectedItem(null);
 
+		final String[] levelSelections = {"","0","1","2","3"};
+		final JComboBox levelList = new JComboBox(levelSelections);
+		levelList.setSelectedItem(levelSelections[0]);
+		
+		final String[] soulSelections = {"","1","2","3"};
+		final JComboBox soulList = new JComboBox(soulSelections);
+		soulList.setSelectedItem(soulSelections[0]);
+		
 		Trigger[] triggerSelections = null;
 		triggerSelections = Trigger.values();
 		final JComboBox triggerList = new JComboBox(triggerSelections);
@@ -268,7 +279,8 @@ public class BuilderGUI extends JFrame {
 					 * CardAssociation.Type.EVENT; } else { sType = null; }
 					 */
 
-					String level = levelSearch.getText();
+					//String level = levelSearch.getText();
+					String level = (String) levelList.getSelectedItem();
 					int sLevel;
 					try {
 						sLevel = numberInput.parse(level).intValue();
@@ -300,7 +312,8 @@ public class BuilderGUI extends JFrame {
 						sPower = -1;
 						// sPower = (power.isEmpty()) ? -1 : 0;
 					}
-					String soul = soulSearch.getText();
+					// String soul = soulSearch.getText();
+					String soul = (String) soulList.getSelectedItem();
 					int sSoul;
 					try {
 						sSoul = numberInput.parse(soul).intValue();
@@ -364,10 +377,10 @@ public class BuilderGUI extends JFrame {
 		powerLabel.setLabelFor(powerSearch);
 		costLabel.setLabelFor(costSearch);
 		// colorLabel.setLabelFor(colorSearch);
-		levelLabel.setLabelFor(levelSearch);
+		// levelLabel.setLabelFor(levelSearch);
 		traitLabel.setLabelFor(traitSearch);
 		// typeLabel.setLabelFor(typeSearch);
-		soulLabel.setLabelFor(soulSearch);
+		// soulLabel.setLabelFor(soulSearch);
 		abilityLabel.setLabelFor(abilitySearch);
 
 		// searchBox.setLayout(new GridLayout(0, 2));
@@ -380,8 +393,8 @@ public class BuilderGUI extends JFrame {
 		abilitySearch.addKeyListener(searchFieldListener);
 		powerSearch.addKeyListener(searchFieldListener);
 		costSearch.addKeyListener(searchFieldListener);
-		levelSearch.addKeyListener(searchFieldListener);
-		soulSearch.addKeyListener(searchFieldListener);
+		// levelSearch.addKeyListener(searchFieldListener);
+		// soulSearch.addKeyListener(searchFieldListener);
 		// triggerSearch.addKeyListener(searchFieldListener);
 
 		submitButton.addActionListener(new ActionListener() {
@@ -399,7 +412,8 @@ public class BuilderGUI extends JFrame {
 				CardAssociation.Type sType = (CardAssociation.Type) typeList
 						.getSelectedItem();
 
-				String level = levelSearch.getText();
+				//String level = levelSearch.getText();
+				String level = (String) levelList.getSelectedItem();
 				int sLevel;
 				try {
 					sLevel = numberInput.parse(level).intValue();
@@ -424,7 +438,8 @@ public class BuilderGUI extends JFrame {
 				} catch (ParseException e1) {
 					sPower = -1;
 				}
-				String soul = soulSearch.getText();
+				//String soul = soulSearch.getText();
+				String soul = (String) soulList.getSelectedItem();
 				int sSoul;
 				try {
 					sSoul = numberInput.parse(soul).intValue();
@@ -454,9 +469,11 @@ public class BuilderGUI extends JFrame {
 				abilitySearch.setText("");
 				powerSearch.setText("");
 				costSearch.setText("");
-				soulSearch.setText("");
-				levelSearch.setText("");
-
+				//soulSearch.setText("");
+				//levelSearch.setText("");
+				soulList.setSelectedItem(soulSelections[0]);
+				levelList.setSelectedItem(levelSelections[0]);
+				
 				colorList.setSelectedItem(null);
 				typeList.setSelectedItem(null);
 				triggerList.setSelectedItem(null);
@@ -498,11 +515,11 @@ public class BuilderGUI extends JFrame {
 		row2.add(Box.createHorizontalStrut(5));
 		row2.add(soulLabel);
 		row2.add(Box.createHorizontalStrut(5));
-		row2.add(soulSearch);
+		row2.add(soulList);
 		row2.add(Box.createHorizontalStrut(5));
 		row2.add(levelLabel);
 		row2.add(Box.createHorizontalStrut(5));
-		row2.add(levelSearch);
+		row2.add(levelList);
 		row2.add(Box.createHorizontalStrut(5));
 		row2.add(traitLabel);
 		row2.add(Box.createHorizontalStrut(5));
@@ -721,6 +738,12 @@ public class BuilderGUI extends JFrame {
 
 			public boolean isCellEditable(int rowIndex, int colIndex) {
 				return false;
+			}
+			
+			public TableCellRenderer getCellRenderer(int row, int column) {
+				if (column == 0) return cardIDRenderer;
+				else if (column >= 4) return numberRenderer;
+				else return super.getCellRenderer(row, column);
 			}
 		};
 
@@ -1075,6 +1098,20 @@ public class BuilderGUI extends JFrame {
 			public boolean isCellEditable(int rowIndex, int colIndex) {
 				return false;
 			}
+			public TableCellRenderer getCellRenderer(int row, int column) {
+				switch(column) {
+					case 1:
+						return cardIDRenderer;
+					case 5:
+					case 6:
+					case 8:
+					case 9:
+						return numberRenderer;
+					default:
+						return super.getCellRenderer(row, column);
+				}
+			}
+			
 		};
 
 		deckListTable
@@ -1218,10 +1255,10 @@ public class BuilderGUI extends JFrame {
 		int indW = 130;
 		int colW = 75;
 		int typW = 80;
-		int lvlW = 20;
-		int cstW = 20;
+		int lvlW = 25;
+		int cstW = 25;
 		int trgW = 100;
-		int solW = 20;
+		int solW = 25;
 		int powW = 60;
 
 		int usedSpace = cntW + indW + colW + typW + lvlW + cstW + trgW + solW
@@ -1514,6 +1551,8 @@ public class BuilderGUI extends JFrame {
 	 * Initialize the client
 	 */
 	public void init() {
+		numberRenderer = new NumberCellRenderer();
+		cardIDRenderer = new CardIDCellRenderer();
 		buildUI();
 		// pack();
 	}

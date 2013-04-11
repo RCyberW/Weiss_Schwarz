@@ -9,8 +9,8 @@
 package CardAssociation;
 
 public enum Trigger {
-	ALL("All"), NONE("None"), SOUL("Soul+1"), DUALSOUL("Soul+2"), SOULWIND("Return"), SOULFLAME(
-			"Shot"), GATE("Comeback"), TREASURE("Treasure"), GOLDBAG("Pull"), BOOK("Draw");
+	ALL(""), NONE("None"), SOUL("Soul+1"), DUALSOUL("Soul+2"), SOULWIND("Return"), SOULFLAME(
+			"Shot"), GATE("Comeback"), TREASURE("Treasure"), GOLDBAG("Pool"), BOOK("Draw");
 
 	String s;
 

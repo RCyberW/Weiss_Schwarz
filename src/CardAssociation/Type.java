@@ -9,7 +9,7 @@
 package CardAssociation;
 
 public enum Type {
-	ALL("All"), CLIMAX("Climax"), CHARACTER("Character"), EVENT("Event");
+	ALL(""), CLIMAX("Climax"), CHARACTER("Character"), EVENT("Event");
 
 	String s;
 

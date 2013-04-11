@@ -52,8 +52,10 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 	private String id;
 	private String pID;
 	private String cardName;
+	private String cardName_e;
 	private int dupCount = 0;
 	private ArrayList<String> effects;
+	private ArrayList<String> effects_e;
 	private int power;
 	private Trigger trigger;
 	private int level;
@@ -63,10 +65,14 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 	private CCode c;
 	private String trait1;
 	private String trait2;
+	private String trait1_e;
+	private String trait2_e;
 	private String flavorText;
+	private String flavorText_e;
 	private String realCardName;
 	private ArrayList<Attribute> attributes;
 	private ArrayList<Card> associatedCards;
+	private boolean isAlternateArt;
 
 	// game play properties
 	private State currentState;
@@ -168,7 +174,9 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 		realCardName = name;
 
 		effects = new ArrayList<String>();
+		effects_e = new ArrayList<String>();
 		flavorText = "";
+		flavorText_e = "";
 		setCurrentState(State.NONE);
 		// imageFile = new File("FieldImages/cardBack-s.jpg");
 		imageResource = "/resources/FieldImages/cardBack-s.jpg";
@@ -181,7 +189,9 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 	// create a card
 	public Card() {
 		effects = new ArrayList<String>();
+		effects_e = new ArrayList<String>();
 		flavorText = "";
+		flavorText_e = "";
 		setCurrentState(State.NONE);
 		sameID = new String[MINILEN];
 		for (int i = 0; i < sameID.length; i++) {
@@ -252,6 +262,9 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 	// set the card image
 	public void setImageResource(String resPath) {
 		imageResource = resPath;
+		if (resPath.contains("_holo") || resPath.contains("_alt")) {
+			setAlternateArt(true);
+		}
 		// setName(id);
 	}
 
@@ -291,16 +304,18 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 
 		String cardText = "";
 		if (t == Type.CHARACTER) {
-			if (!getTrait1().equals("N/A"))
+			if (!getTrait1_j().equals(""))
 				cardText += getTrait1();
-			if (!getTrait2().equals("N/A"))
-				cardText += " | " + getTrait2();
+			if (!getTrait2_j().equals(""))
+				cardText += (!cardText.equals("") ? " | " : "") + getTrait2();
 			cardText += "\n\n";
 		}
 		cardText += getEffects() + "\n";
+
 		if (!getFlavorText().equals("")) {
 			cardText += "Flavor Text: \n" + getFlavorText();
 		}
+
 		description.setText(cardText);
 
 		description.setCaretPosition(0);
@@ -310,19 +325,19 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 		// nameLabel.setFont(font);
 		nameLabel.setText(cardName);
 
-		JLabel idLabel = new JLabel(id);
+		JLabel idLabel = new JLabel(id.replace("_alt",""));
 		// idLabel.setFont(font);
 		JLabel typeLabel = new JLabel(t.toString());
 		// typeLabel.setFont(font);
-		JLabel levelLabel = new JLabel("Level: " + level);
+		JLabel levelLabel = new JLabel("Level: " + (level >= 0 ? level : " -"));
 		// levelLabel.setFont(font);
-		JLabel costLabel = new JLabel("Cost: " + cost);
+		JLabel costLabel = new JLabel("Cost: " + (cost >= 0 ? cost : " -"));
 		// costLabel.setFont(font);
 		JLabel soulLabel = new JLabel("Trigger: " + trigger.toString());
 		// soulLabel.setFont(font);
-		JLabel powerLabel = new JLabel("Power: " + power);
+		JLabel powerLabel = new JLabel("Power: " + (power > 0 ? power : " -"));
 		// powerLabel.setFont(font);
-		JLabel damageLabel = new JLabel("Soul: " + soul);
+		JLabel damageLabel = new JLabel("Soul: " + (soul > 0 ? soul : " -"));
 		// damageLabel.setFont(font);
 		layout.setAutoCreateGaps(true);
 		layout.setAutoCreateContainerGaps(true);
@@ -451,8 +466,24 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 		return cardName;
 	}
 
+	public void setCardName_e(String cardName_e) {
+		this.cardName_e = cardName_e;
+	}
+
+	public String getCardName_e() {
+		return cardName_e;
+	}
+
 	// get the card effects
 	public String getEffects() {
+		String result = getEffects_j();
+		String effectsStr_e = getEffects_e();
+		if (!effectsStr_e.isEmpty()) {
+			result += "\n" + effectsStr_e;
+		}
+		return result;
+	}
+	public String getEffects_j() {
 		String result = "";
 
 		for (int i = 0; i < effects.size(); i++) {
@@ -461,10 +492,26 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 
 		return result;
 	}
+	public String getEffects_e() {
+		String result = "";
+
+		for (int i = 0; i < effects_e.size(); i++) {
+			result += effects_e.get(i) + "\n";
+		}
+
+		return result;
+	}
 
 	// set the card effects
 	public void addEffect(String e) {
-		effects.add(e);
+		if (!e.isEmpty())
+			effects.add(e);
+		// TODO: process effects to make attributes
+	}
+	
+	public void addEffect_e(String e) {
+		if (!e.isEmpty())
+			effects_e.add(e);
 		// TODO: process effects to make attributes
 	}
 
@@ -503,8 +550,11 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 		this.trait1 = trait1;
 	}
 
-	// get the first trait of the card
 	public String getTrait1() {
+		return getTrait1_j() + " " + getTrait1_e();
+	}
+	// get the first trait of the card
+	public String getTrait1_j() {
 		return trait1;
 	}
 
@@ -512,10 +562,28 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 	public void setTrait2(String trait2) {
 		this.trait2 = trait2;
 	}
-
-	// get the second trait of the card
 	public String getTrait2() {
+		return getTrait2_j() + " " + getTrait2_e();
+	}
+	// get the second trait of the card
+	public String getTrait2_j() {
 		return trait2;
+	}
+
+	public void setTrait1_e(String trait1_e) {
+		this.trait1_e = trait1_e;
+	}
+
+	public String getTrait1_e() {
+		return trait1_e;
+	}
+
+	public void setTrait2_e(String trait2_e) {
+		this.trait2_e = trait2_e;
+	}
+
+	public String getTrait2_e() {
+		return trait2_e;
 	}
 
 	// set the level of the card
@@ -631,7 +699,8 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 
 		if (!sName.isEmpty()) {
 			isMet = isMet
-					&& cardName.toLowerCase().contains(sName.toLowerCase());
+					&& (cardName.toLowerCase().contains(sName.toLowerCase()) ||
+							cardName_e.toLowerCase().contains(sName.toLowerCase()));
 		}
 
 		if (sColor != null && sColor != CCode.ALL) {
@@ -664,8 +733,10 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 
 		if (!sTrait.isEmpty()) {
 			isMet = isMet
-					&& (trait1.toLowerCase().contains(sTrait) || trait2
-							.toLowerCase().contains(sTrait));
+					&& (trait1.toLowerCase().contains(sTrait) || 
+							trait2.toLowerCase().contains(sTrait) ||
+							trait1_e.toLowerCase().contains(sTrait) || 
+							trait2_e.toLowerCase().contains(sTrait));
 		}
 
 		if (!sAbility.isEmpty()) {
@@ -674,8 +745,10 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 
 			for (int i = 0; i < parts.length; i++) {
 				isMet = isMet
-						&& getEffects().toLowerCase().contains(
-								parts[i].toLowerCase());
+						&& (getEffects().toLowerCase().contains(
+								parts[i].toLowerCase()) ||
+							getEffects_e().toLowerCase().contains(
+										parts[i].toLowerCase()));
 			}
 		}
 
@@ -687,7 +760,18 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 	}
 
 	public String getFlavorText() {
+		return getFlavorText_j() + " " + getFlavorText_e();
+	}
+	public String getFlavorText_j() {
 		return flavorText;
+	}
+
+	public void setFlavorText_e(String flavorText_e) {
+		this.flavorText_e = flavorText_e;
+	}
+
+	public String getFlavorText_e() {
+		return flavorText_e;
 	}
 
 	public void setRealName(String name) {
@@ -910,6 +994,14 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 
 	public String toString() {
 		return cardName;
+	}
+
+	public void setAlternateArt(boolean isAlternateArt) {
+		this.isAlternateArt = isAlternateArt;
+	}
+
+	public boolean isAlternateArt() {
+		return isAlternateArt;
 	}
 
 }

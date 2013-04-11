@@ -9,12 +9,12 @@
 package CardAssociation;
 
 public enum CCode {
-	ALL("All"), RED("Red"), BLUE("Blue"), YELLOW("Yellow"), GREEN("Green");
+	ALL(""), RED("Red"), BLUE("Blue"), YELLOW("Yellow"), GREEN("Green");
 	
 	String s;
 
-	CCode(String trigger) {
-        s = trigger;
+	CCode(String color) {
+        s = color;
     }
 
     public String toString() {
