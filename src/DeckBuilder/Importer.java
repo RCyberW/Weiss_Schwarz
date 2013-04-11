@@ -402,19 +402,24 @@ public class Importer {
 
 			if (c.getT() == Type.CLIMAX || c.getT() == Type.EVENT) {
 				assert(st.columnString(fieldMap.get("power")).equals("N/A"));
-				assert(st.columnString(fieldMap.get("level")).equals("N/A"));
-				assert(st.columnString(fieldMap.get("cost")).equals("N/A"));
 				assert(st.columnString(fieldMap.get("soul")).equals("N/A"));
 				c.setPower(-1);
-				c.setLevel(-1);
-				c.setCost(-1);
 				c.setSoul(-1);
 			}
 			else {
 				c.setPower(st.columnInt(fieldMap.get("power")));
+				c.setSoul(st.columnInt(fieldMap.get("soul")));
+			}
+			
+			if (c.getT() == Type.CLIMAX) {
+				assert(st.columnString(fieldMap.get("level")).equals("N/A"));
+				assert(st.columnString(fieldMap.get("cost")).equals("N/A"));
+				c.setLevel(-1);
+				c.setCost(-1);
+			}
+			else {
 				c.setLevel(st.columnInt(fieldMap.get("level")));
 				c.setCost(st.columnInt(fieldMap.get("cost")));
-				c.setSoul(st.columnInt(fieldMap.get("soul")));
 			}
 			
 			temp = st.columnString(fieldMap.get("color"));

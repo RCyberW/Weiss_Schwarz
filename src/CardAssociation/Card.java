@@ -787,6 +787,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 
 		cloned.setCount(dupCount);
 		cloned.setEffects(effects);
+		cloned.setEffects_e(effects_e);
 		cloned.setPower(power);
 		cloned.setTrigger(trigger);
 		cloned.setLevel(level);
@@ -795,8 +796,11 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 		cloned.setT(t);
 		cloned.setC(c);
 		cloned.setTrait1(trait1);
+		cloned.setTrait1_e(trait1_e);
 		cloned.setTrait2(trait2);
+		cloned.setTrait2_e(trait2_e);
 		cloned.setFlavorText(flavorText);
+		cloned.setFlavorText_e(flavorText_e);
 		cloned.setImageResource(imageResource);
 
 		return cloned;
@@ -807,6 +811,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 
 		card.setCount(dupCount);
 		card.setEffects(effects);
+		card.setEffects_e(effects_e);
 		card.setPower(power);
 		card.setTrigger(trigger);
 		card.setLevel(level);
@@ -815,8 +820,11 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 		card.setT(t);
 		card.setC(c);
 		card.setTrait1(trait1);
+		card.setTrait1_e(trait1_e);
 		card.setTrait2(trait2);
+		card.setTrait2_e(trait2_e);
 		card.setFlavorText(flavorText);
+		card.setFlavorText_e(flavorText_e);
 		card.setImageResource(imageResource);
 
 		return cloned;
@@ -824,6 +832,10 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 
 	private void setEffects(ArrayList<String> effects) {
 		this.effects = effects;
+	}
+	
+	private void setEffects_e(ArrayList<String> effects_e) {
+		this.effects_e = effects_e;
 	}
 
 	/* * * * * * * * * * * * * * * * * * * * * *

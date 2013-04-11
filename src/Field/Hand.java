@@ -373,7 +373,7 @@ class PreGameDisplay extends DisplayList {
 			cardNames[i] = showList.get(i).getCardName();
 		}
 
-		final JList<String> displayShow = new JList<String>(cardNames);
+		final JList displayShow = new JList(cardNames);
 		displayShow.setPrototypeCellValue("Index 1234567890");
 		MouseListener listener = new MouseAdapter() {
 			public void mouseReleased(MouseEvent e) {
