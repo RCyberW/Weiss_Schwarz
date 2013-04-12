@@ -100,13 +100,14 @@ public class Back_Row extends FieldElement {
 	public void mouseReleased(MouseEvent e) {
 		if (containCards() == false)
 			return;
-		
+
 		associatedPlayer.getField().setSelected(backCard);
-		
+
 		if (e.getButton() == MouseEvent.BUTTON3) {
 			constructPopup(e);
 		} else if (e.getButton() == MouseEvent.BUTTON1) {
-			removeCard();
+			if (backCard.getCardBound().contains(e.getPoint()))
+				removeCard();
 		}
 	}
 
@@ -132,7 +133,7 @@ public class Back_Row extends FieldElement {
 			}
 		});
 		popmenu.add(restAction);
-		
+
 		JMenuItem reverseAction = new JMenuItem("reverse");
 		reverseAction.addActionListener(new ActionListener() {
 			@Override

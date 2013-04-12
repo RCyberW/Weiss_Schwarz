@@ -485,8 +485,5 @@ public class Importer {
 	public static void main(String[] args) throws SQLiteException {
 		//loadFromTxt();
 		loadFromSQLiteDB();
-
-		
-		
 	}
 }

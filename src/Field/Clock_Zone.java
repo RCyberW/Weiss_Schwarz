@@ -161,7 +161,7 @@ public class Clock_Zone extends FieldElement {
 			thisCard.setDisplay(true, false);
 
 			if (selected != null
-					&& thisCard.getCardName().equals(selected.getCardName())
+					&& thisCard.getUniqueID().equals(selected.getUniqueID())
 					&& swappedIndex == i) {
 				swappedIndex = i;
 				thisCard.toCanvas().setLocation(

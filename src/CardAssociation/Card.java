@@ -26,6 +26,7 @@ import java.io.IOException;
 import java.io.Serializable;
 import java.net.MalformedURLException;
 import java.util.ArrayList;
+import java.util.UUID;
 
 import javax.imageio.ImageIO;
 import javax.swing.GroupLayout;
@@ -83,6 +84,8 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 	private String backResource;
 	private DataFlavor[] flavors;
 	private int MINILEN = 3;
+
+	private UUID uniqueID;
 
 	@Override
 	public Object getTransferData(DataFlavor flavor) {
@@ -459,6 +462,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 	// set the card name of the card
 	public void setCardName(String name) {
 		this.cardName = name;
+		setUniqueID(UUID.randomUUID());
 	}
 
 	// get the card name of the card
@@ -1031,6 +1035,14 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 
 	public void setAssociatedCards(ArrayList<Card> associatedCards) {
 		this.associatedCards = associatedCards;
+	}
+
+	public UUID getUniqueID() {
+		return uniqueID;
+	}
+
+	public void setUniqueID(UUID uniqueID) {
+		this.uniqueID = uniqueID;
 	}
 
 }

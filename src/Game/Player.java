@@ -317,15 +317,27 @@ public class Player implements Serializable {
 		cardTitle.setWrapStyleWord(true);
 		cardTitle.setEditable(false);
 
-		JTextArea cardNumber = new JTextArea("level: "
-				+ selectedCard.getLevel() + " cost: " + selectedCard.getCost()
-				+ " trigger: " + selectedCard.getTrigger());
+		String areaContext = "";
+		areaContext += "LEVEL: "
+				+ (selectedCard.getLevel() >= 0 ? selectedCard.getLevel() : "??")
+				+ " ";
+		areaContext += "COST: "
+				+ (selectedCard.getCost() >= 0 ? selectedCard.getCost() : "??")
+				+ " ";
+		areaContext += "TRIGGER: " + selectedCard.getTrigger();
+		
+		JTextArea cardNumber = new JTextArea(areaContext);
 		cardNumber.setLineWrap(true);
 		cardNumber.setWrapStyleWord(true);
 		cardNumber.setEditable(false);
 
-		JTextArea power = new JTextArea("power: " + selectedCard.getPower()
-				+ " soul: " + selectedCard.getSoul());
+		areaContext = "";
+		areaContext += "POWER: "
+				+ (selectedCard.getPower() >= 0 ? selectedCard.getPower() : "??")
+				+ " ";
+		areaContext += "SOUL: "
+				+ (selectedCard.getSoul() >= 0 ? selectedCard.getSoul() : "??");
+		JTextArea power = new JTextArea(areaContext);
 		power.setLineWrap(true);
 		power.setWrapStyleWord(true);
 		power.setEditable(false);

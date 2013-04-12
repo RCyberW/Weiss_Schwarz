@@ -78,7 +78,7 @@ public class Hand extends FieldElement {
 			thisCard.toCanvas().setLocation(
 					(int) ((x + 110 * i) * Game.gameScale), (int) (y));
 			if (selected != null
-					&& thisCard.getCardName().equals(selected.getCardName())) {
+					&& thisCard.getUniqueID().equals(selected.getUniqueID())) {
 				thisCard.toCanvas().setLocation(
 						(int) ((x + 110 * i) * Game.gameScale), y - 10);
 			}
@@ -325,7 +325,7 @@ class PreGameDisplay extends DisplayList {
 			public void actionPerformed(ActionEvent e) {
 				boolean toAdd = true;
 				for(int i = 0; i < showList.size(); i++) {
-					if(showList.get(i).getCardName().equals(selectedCard.getCardName()))
+					if(showList.get(i).getUniqueID().equals(selectedCard.getUniqueID()))
 						toAdd = false;
 				}
 				if(toAdd)

@@ -80,7 +80,7 @@ public class Level_Zone extends FieldElement {
 			thisCard.setDisplay(true, true);
 			thisCard.toCanvas().setLocation(x, y - 50 * i);
 			if (selected != null
-					&& thisCard.getCardName().equals(selected.getCardName())) {
+					&& thisCard.getUniqueID().equals(selected.getUniqueID())) {
 				// swappedIndex = i;
 				thisCard.toCanvas().setLocation(x + 10, y - 50 * i);
 			}

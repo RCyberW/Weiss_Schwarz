@@ -103,8 +103,7 @@ public class Deck {
 					}
 
 					Card card = referenceCard.clone();
-					card.setCardName(card.getCardName()
-							+ referenceCard.getCardCount());
+					card.setCardName(card.getCardName());
 					onlineUpdateStatistics(card, true);
 					cards.add(card);
 					card.setCurrentState(State.FD_STAND);

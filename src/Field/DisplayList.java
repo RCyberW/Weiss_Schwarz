@@ -175,13 +175,13 @@ public class DisplayList extends JFrame {
 		cardTitle.setEditable(false);
 
 		String areaContext = "";
-		areaContext += "level: "
-				+ (selectedCard.getLevel() > 0 ? selectedCard.getLevel() : "-")
+		areaContext += "LEVEL: "
+				+ (selectedCard.getLevel() >= 0 ? selectedCard.getLevel() : "??")
 				+ " ";
-		areaContext += "cost"
-				+ (selectedCard.getLevel() > 0 ? selectedCard.getCost() : "-")
+		areaContext += "COST: "
+				+ (selectedCard.getCost() >= 0 ? selectedCard.getCost() : "??")
 				+ " ";
-		areaContext += "trigger: " + selectedCard.getTrigger();
+		areaContext += "TRIGGER: " + selectedCard.getTrigger();
 		
 		JTextArea cardNumber = new JTextArea(areaContext);
 		cardNumber.setLineWrap(true);
@@ -189,11 +189,11 @@ public class DisplayList extends JFrame {
 		cardNumber.setEditable(false);
 
 		areaContext = "";
-		areaContext += "power: "
-				+ (selectedCard.getLevel() > 0 ? selectedCard.getPower() : "-")
+		areaContext += "POWER: "
+				+ (selectedCard.getPower() >= 0 ? selectedCard.getPower() : "??")
 				+ " ";
-		areaContext += "soul: "
-				+ (selectedCard.getLevel() > 0 ? selectedCard.getSoul() : "-");
+		areaContext += "SOUL: "
+				+ (selectedCard.getSoul() >= 0 ? selectedCard.getSoul() : "??");
 		
 		JTextArea power = new JTextArea(areaContext);
 		power.setLineWrap(true);

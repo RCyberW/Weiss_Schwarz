@@ -112,10 +112,11 @@ public class Front_Row extends FieldElement {
 		if (e.getButton() == MouseEvent.BUTTON3) {
 			constructPopup(e);
 		} else if (e.getButton() == MouseEvent.BUTTON1) {
-			removeCard();
+			if (frontCard.getCardBound().contains(e.getPoint()))
+				removeCard();
 		}
 	}
-	
+
 	protected void constructPopup(MouseEvent e) {
 		JPopupMenu popmenu = new JPopupMenu();
 
@@ -138,7 +139,7 @@ public class Front_Row extends FieldElement {
 			}
 		});
 		popmenu.add(restAction);
-		
+
 		JMenuItem reverseAction = new JMenuItem("reverse");
 		reverseAction.addActionListener(new ActionListener() {
 			@Override
