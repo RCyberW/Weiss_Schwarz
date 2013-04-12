@@ -174,20 +174,34 @@ public class DisplayList extends JFrame {
 		cardTitle.setWrapStyleWord(true);
 		cardTitle.setEditable(false);
 
-		JTextArea cardNumber = new JTextArea("level: "
-				+ selectedCard.getLevel() + " cost: " + selectedCard.getCost()
-				+ " trigger: " + selectedCard.getTrigger());
+		String areaContext = "";
+		areaContext += "level: "
+				+ (selectedCard.getLevel() > 0 ? selectedCard.getLevel() : "-")
+				+ " ";
+		areaContext += "cost"
+				+ (selectedCard.getLevel() > 0 ? selectedCard.getCost() : "-")
+				+ " ";
+		areaContext += "trigger: " + selectedCard.getTrigger();
+		
+		JTextArea cardNumber = new JTextArea(areaContext);
 		cardNumber.setLineWrap(true);
 		cardNumber.setWrapStyleWord(true);
 		cardNumber.setEditable(false);
 
-		JTextArea power = new JTextArea("power: " + selectedCard.getPower()
-				+ " soul: " + selectedCard.getSoul());
+		areaContext = "";
+		areaContext += "power: "
+				+ (selectedCard.getLevel() > 0 ? selectedCard.getPower() : "-")
+				+ " ";
+		areaContext += "soul: "
+				+ (selectedCard.getLevel() > 0 ? selectedCard.getSoul() : "-");
+		
+		JTextArea power = new JTextArea(areaContext);
 		power.setLineWrap(true);
 		power.setWrapStyleWord(true);
 		power.setEditable(false);
 
-		JTextArea text = new JTextArea(selectedCard.getEffects());
+		areaContext = selectedCard.getEffects();
+		JTextArea text = new JTextArea(areaContext);
 		text.setLineWrap(true);
 		text.setWrapStyleWord(true);
 		text.setEditable(false);
@@ -225,7 +239,7 @@ public class DisplayList extends JFrame {
 		displayInfo.removeAll();
 		displayInfo.validate();
 		displaySelect();
-		
+
 		setResizable(false);
 		pack();
 		setVisible(true);
