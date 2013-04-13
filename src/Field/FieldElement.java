@@ -92,8 +92,7 @@ abstract class FieldElement extends Component implements MouseListener {
 	 * @param ya
 	 *            y-axis coordinate on the field
 	 */
-	public FieldElement(String imageFileName, int xa, int ya, String zone,
-			Player player) {
+	public FieldElement(String imageFileName, int xa, int ya, String zone, Player player) {
 		// InputStream imageSrc =
 		// getClass().getResource("/resources/FieldImages/" + imageFileName);
 		addMouseListener(this);
@@ -101,12 +100,8 @@ abstract class FieldElement extends Component implements MouseListener {
 		zoneName = zone;
 
 		try {
-			System.out.println(zone
-					+ "   "
-					+ getClass().getResource(
-							"/resources/FieldImages/" + imageFileName));
-			BufferedImage before = ImageIO.read(getClass().getResource(
-					"/resources/FieldImages/" + imageFileName));
+			System.out.println(zone + "   " + getClass().getResource("/resources/FieldImages/" + imageFileName));
+			BufferedImage before = ImageIO.read(getClass().getResource("/resources/FieldImages/" + imageFileName));
 
 			x = (int) (xa * Game.Game.gameScale);
 			y = (int) ((ya + Game.Game.translatedY) * Game.Game.gameScale);
@@ -117,8 +112,7 @@ abstract class FieldElement extends Component implements MouseListener {
 
 			AffineTransform at = new AffineTransform();
 			at.scale(Game.Game.gameScale, Game.Game.gameScale);
-			AffineTransformOp scaleOp = new AffineTransformOp(at,
-					AffineTransformOp.TYPE_BILINEAR);
+			AffineTransformOp scaleOp = new AffineTransformOp(at, AffineTransformOp.TYPE_BILINEAR);
 			bi = scaleOp.filter(before, null);
 
 			w = (int) (bi.getWidth(null));
@@ -205,7 +199,7 @@ abstract class FieldElement extends Component implements MouseListener {
 
 	@Override
 	public abstract void mouseReleased(MouseEvent e);
-	
+
 	protected abstract void constructPopup(MouseEvent e);
 
 	@Override
@@ -231,6 +225,7 @@ abstract class FieldElement extends Component implements MouseListener {
 			return null;
 
 		Card tempCard = showCard();
+		tempCard.toCanvas();
 		if (tempCard.getCardBound().contains(e.getPoint())) {
 			return tempCard;
 
@@ -244,8 +239,7 @@ abstract class FieldElement extends Component implements MouseListener {
 
 	public String toString() {
 		if (rect != null)
-			System.out.println("hitbox (" + rect.x + " ~ " + rect.getWidth()
-					+ ", " + rect.y + " ~ " + rect.getHeight() + ")");
+			System.out.println("hitbox (" + rect.x + " ~ " + rect.getWidth() + ", " + rect.y + " ~ " + rect.getHeight() + ")");
 		return zoneName;
 	}
 
@@ -260,12 +254,12 @@ abstract class FieldElement extends Component implements MouseListener {
 	public boolean isList() {
 		return false;
 	}
-	
+
 	public int getCount() {
-		if(containCards())
+		if (containCards())
 			return 1;
-		else 
+		else
 			return 0;
 	}
-	
+
 }

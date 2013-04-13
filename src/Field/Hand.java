@@ -75,22 +75,19 @@ public class Hand extends FieldElement {
 			Card thisCard = handCards.get(i);
 			// System.out.print(thisCard.getCardName() + ", ");
 			thisCard.setDisplay(true, false);
-			thisCard.toCanvas().setLocation(
-					(int) ((x + 110 * i) * Game.gameScale), (int) (y));
-			if (selected != null
-					&& thisCard.getUniqueID().equals(selected.getUniqueID())) {
-				thisCard.toCanvas().setLocation(
-						(int) ((x + 110 * i) * Game.gameScale), y - 10);
+			thisCard.toCanvas().setLocation((int) ((x + 110 * i) * Game.gameScale), (int) (y));
+			if (selected != null && thisCard.getUniqueID().equals(selected.getUniqueID())) {
+				thisCard.toCanvas().setLocation((int) ((x + 110 * i) * Game.gameScale), y - 10);
 			}
 			thisCard.toCanvas().paint(g2);
 		}
 
 		System.out.println("HAND " + handCards);
 
-		g2.setFont(new Font("TimesRoman", Font.PLAIN, 12));
-		g2.setColor(Color.BLUE);
+		//g2.setFont(new Font("TimesRoman", Font.PLAIN, 12));
+		//g2.setColor(Color.BLUE);
 
-		g2.drawString("Player Hand", this.x + 10, this.y + 20);
+		//g2.drawString("Player Hand", this.x + 10, this.y + 20);
 	}
 
 	protected void constructPopup(MouseEvent e) {
@@ -196,21 +193,14 @@ public class Hand extends FieldElement {
 		if (associatedPlayer.getCurrentPhase() != Phase.CLIMAX_PHASE && associatedPlayer.getCurrentPhase() != Phase.CLOCK_PHASE) {
 			if (selected.getT() == Type.CHARACTER) {
 				if (!associatedPlayer.getField().getFrontRow1().containCards()) {
-					associatedPlayer.getField().getFrontRow1()
-							.setCard(selected);
-				} else if (!associatedPlayer.getField().getFrontRow2()
-						.containCards()) {
-					associatedPlayer.getField().getFrontRow2()
-							.setCard(selected);
-				} else if (!associatedPlayer.getField().getFrontRow3()
-						.containCards()) {
-					associatedPlayer.getField().getFrontRow3()
-							.setCard(selected);
-				} else if (!associatedPlayer.getField().getBackRow1()
-						.containCards()) {
+					associatedPlayer.getField().getFrontRow1().setCard(selected);
+				} else if (!associatedPlayer.getField().getFrontRow2().containCards()) {
+					associatedPlayer.getField().getFrontRow2().setCard(selected);
+				} else if (!associatedPlayer.getField().getFrontRow3().containCards()) {
+					associatedPlayer.getField().getFrontRow3().setCard(selected);
+				} else if (!associatedPlayer.getField().getBackRow1().containCards()) {
 					associatedPlayer.getField().getBackRow1().setCard(selected);
-				} else if (!associatedPlayer.getField().getBackRow2()
-						.containCards()) {
+				} else if (!associatedPlayer.getField().getBackRow2().containCards()) {
 					associatedPlayer.getField().getBackRow2().setCard(selected);
 				} else {
 					selectedIndex = -1;
@@ -224,8 +214,7 @@ public class Hand extends FieldElement {
 					handCards.remove(selectedIndex);
 				}
 			}
-		} else if (associatedPlayer.getCurrentPhase() == Phase.CLIMAX_PHASE
-				&& selected.getT() == Type.CLIMAX) {
+		} else if (associatedPlayer.getCurrentPhase() == Phase.CLIMAX_PHASE && selected.getT() == Type.CLIMAX) {
 			associatedPlayer.getField().getClimaxZone().setCard(selected);
 			if (selectedIndex > -1) {
 				handCards.remove(selectedIndex);
@@ -239,11 +228,8 @@ public class Hand extends FieldElement {
 		Card card, result = null;
 		for (int i = 0; i < handCards.size(); i++) {
 			card = handCards.get(i);
-			output = "HAND: x = " + e.getX() + ", y = " + e.getY() + " "
-					+ card.getCardName() + " : " + card.getCardBound().x
-					+ " + " + card.getCardBound().width + " , "
-					+ card.getCardBound().y + " + "
-					+ card.getCardBound().height;
+			output = "HAND: x = " + e.getX() + ", y = " + e.getY() + " " + card.getCardName() + "[" + card.getUniqueID() + "]: " + card.getCardBound().x + " + " + card.getCardBound().width + " , "
+					+ card.getCardBound().y + " + " + card.getCardBound().height;
 			if (card.getCardBound().contains(e.getPoint())) {
 				selectedIndex = i;
 				output += " match!";
@@ -324,12 +310,14 @@ class PreGameDisplay extends DisplayList {
 		add.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				boolean toAdd = true;
-				for(int i = 0; i < showList.size(); i++) {
-					if(showList.get(i).getUniqueID().equals(selectedCard.getUniqueID()))
+				for (int i = 0; i < showList.size(); i++) {
+					if (showList.get(i).getUniqueID().equals(selectedCard.getUniqueID()))
 						toAdd = false;
 				}
-				if(toAdd)
+				if (toAdd) {
+					System.out.println("QUEUING " + selectedCard.getCardName() + "[" + selectedCard.getUniqueID() + "]");
 					showList.add(selectedCard);
+				}
 				refresh();
 			}
 		});
@@ -338,6 +326,7 @@ class PreGameDisplay extends DisplayList {
 		JButton remove = new JButton("remove to queue");
 		remove.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
+				System.out.println("DE-QUEUING " + selectedCard.getCardName() + "[" + selectedCard.getUniqueID() + "]");
 				showList.remove(selectedCard);
 				refresh();
 			}
@@ -351,9 +340,9 @@ class PreGameDisplay extends DisplayList {
 					thisPlayer.getField().getWaitingRoom().setCard(card);
 					thisPlayer.getHand().playCard(card);
 					thisPlayer.getField().getDeckZone().drawCard();
+					System.out.println("POPPING " + card.getCardName() + "[" + card.getUniqueID() + "]");
 				}
-				System.out.println("HAND SIZE: "
-						+ thisPlayer.getHand().getCount());
+				System.out.println("HAND SIZE: " + thisPlayer.getHand().getCount());
 				dispose();
 
 				thisPlayer.drawField();
@@ -401,7 +390,7 @@ class PreGameDisplay extends DisplayList {
 		setResizable(false);
 		pack();
 		setLocationRelativeTo(null);
-		
+
 	}
 
 	protected void refresh() {
@@ -409,7 +398,7 @@ class PreGameDisplay extends DisplayList {
 		displayInfo.validate();
 		displaySelect();
 		displayInfo.add(displayList());
-		
+
 		setResizable(false);
 		pack();
 		setVisible(true);

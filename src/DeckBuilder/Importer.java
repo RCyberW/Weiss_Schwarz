@@ -34,6 +34,7 @@ public class Importer {
 	private static HashMap<String, Card> allCards = new HashMap<String, Card>();
 	private Writer nameDict;
 	private Scanner scanner;
+	private static Scanner s;
 
 	public Importer() {
 		try {
@@ -379,7 +380,7 @@ public class Importer {
 			c.setCardName(st.columnString(fieldMap.get("name")));
 			c.setCardName_e(st.columnString(fieldMap.get("name_e")));
 			
-			Scanner s = new Scanner(st.columnString(fieldMap.get("rule")));
+			s = new Scanner(st.columnString(fieldMap.get("rule")));
 			while (s.hasNextLine()) {
 				c.addEffect(s.nextLine());
 			}

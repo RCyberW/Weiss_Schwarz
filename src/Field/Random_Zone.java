@@ -113,11 +113,9 @@ public class Random_Zone extends FieldElement {
 	protected void toDeck(boolean isTop) {
 		for (int i = thisCard.size() - 1; i >= 0; i--) {
 			if (isTop)
-				associatedPlayer.getField().getDeckZone()
-						.setCard(thisCard.get(i));
+				associatedPlayer.getField().getDeckZone().setCard(thisCard.get(i));
 			else
-				associatedPlayer.getField().getDeckZone()
-						.setBotCard(thisCard.get(i));
+				associatedPlayer.getField().getDeckZone().setBotCard(thisCard.get(i));
 		}
 		thisCard.clear();
 		associatedPlayer.getField().repaint();
@@ -141,8 +139,7 @@ public class Random_Zone extends FieldElement {
 
 	protected void toMemory() {
 		for (int i = 0; i < thisCard.size(); i++) {
-			associatedPlayer.getField().getMemoryZone()
-					.setCard(thisCard.get(i));
+			associatedPlayer.getField().getMemoryZone().setCard(thisCard.get(i));
 		}
 		thisCard.clear();
 		associatedPlayer.getField().repaint();
@@ -158,8 +155,7 @@ public class Random_Zone extends FieldElement {
 
 	protected void toWaitingRoom() {
 		for (int i = 0; i < thisCard.size(); i++) {
-			associatedPlayer.getField().getWaitingRoom()
-					.setCard(thisCard.get(i));
+			associatedPlayer.getField().getWaitingRoom().setCard(thisCard.get(i));
 		}
 		thisCard.clear();
 		associatedPlayer.getField().repaint();
@@ -170,13 +166,14 @@ public class Random_Zone extends FieldElement {
 		Card card = selectCard(e);
 		if (containCards() == false || card == null)
 			return;
-		
+
 		associatedPlayer.getField().setSelected(card);
-		
+
 		if (e.getButton() == MouseEvent.BUTTON3) {
 			constructPopup(e);
 		} else if (e.getButton() == MouseEvent.BUTTON1) {
-			removeCard();
+			if (showCard().getCardBound().contains(e.getPoint()))
+				removeCard();
 		}
 	}
 

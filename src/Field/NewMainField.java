@@ -24,8 +24,7 @@ import CardAssociation.Card;
 import CardAssociation.Deck;
 import Game.Player;
 
-public class NewMainField extends Canvas implements Serializable,
-		MouseListener, MouseMotionListener {
+public class NewMainField extends Canvas implements Serializable, MouseListener, MouseMotionListener {
 
 	private static final long serialVersionUID = -2417240192973578906L;
 
@@ -39,6 +38,7 @@ public class NewMainField extends Canvas implements Serializable,
 
 	private Card selectedCard;
 	private Card latestSelectedCard;
+	private FieldElement lastSelected;
 
 	// True if the user pressed, dragged or released the mouse outside of the
 	// rectangle; false otherwise.
@@ -90,16 +90,14 @@ public class NewMainField extends Canvas implements Serializable,
 		try {
 			// System.out.println(getClass().getResource(
 			// "/resources/FieldImages/" + "Background.png"));
-			BufferedImage before = ImageIO.read(getClass().getResource(
-					"/resources/FieldImages/" + "Background.png"));
+			BufferedImage before = ImageIO.read(getClass().getResource("/resources/FieldImages/" + "Background.png"));
 			w = (int) (Game.Game.maxWidth * Game.Game.gameScale);
 			h = (int) (Game.Game.maxHeight * Game.Game.gameScale);
 			bg = new BufferedImage(w, h, BufferedImage.TYPE_INT_ARGB);
 
 			AffineTransform at = new AffineTransform();
 			at.scale(Game.Game.gameScale, Game.Game.gameScale);
-			AffineTransformOp scaleOp = new AffineTransformOp(at,
-					AffineTransformOp.TYPE_BILINEAR);
+			AffineTransformOp scaleOp = new AffineTransformOp(at, AffineTransformOp.TYPE_BILINEAR);
 			bg = scaleOp.filter(before, null);
 
 			cardImage = bg.createGraphics();
@@ -174,6 +172,10 @@ public class NewMainField extends Canvas implements Serializable,
 	}
 
 	public void mouseMoved(MouseEvent e) {
+		if (selectedCard != null) {
+			// move the card around with the mouse
+			selectedCard.toCanvas().setLocation(e.getPoint());
+		}
 	}
 
 	public void mouseReleased(MouseEvent e) {
@@ -189,12 +191,12 @@ public class NewMainField extends Canvas implements Serializable,
 					// fe.mouseReleased(e);
 					if (!fe.isList() && fe.contains(e.getPoint())) {
 						selectedCard = fe.selectCard(e);
+						lastSelected = fe;
 					}
 					fe.mouseReleased(e);
 					System.out.println(selectedCard);
 					if (selectedCard != null) {
-						System.out.println("taking up  "
-								+ selectedCard.getCardName());
+						System.out.println("taking up  " + selectedCard.getCardName());
 						break;
 					}
 				}
@@ -202,15 +204,13 @@ public class NewMainField extends Canvas implements Serializable,
 				// placing a card to a zone
 				for (FieldElement fe : elements) {
 					if (fe.contains(e.getPoint())) {
-						System.out.println("clicked on " + fe.toString() + "("
-								+ e.getX() + "," + e.getY() + ") placing "
-								+ selectedCard.getCardName());
+						System.out.println("clicked on " + fe.toString() + "(" + e.getX() + "," + e.getY() + ") placing " + selectedCard.getCardName());
 						Card tempCard = null;
 						if (!fe.isList()) {
 							tempCard = fe.selectCard(e);
+							lastSelected = fe;
 							if (tempCard != null)
-								System.out.println("picking up "
-										+ selectedCard.getCardName());
+								System.out.println("picking up " + selectedCard.getCardName());
 						}
 						fe.setCard(selectedCard);
 						selectedCard = tempCard;
@@ -223,10 +223,15 @@ public class NewMainField extends Canvas implements Serializable,
 			repaintElements();
 
 		} else if (e.getButton() == MouseEvent.BUTTON3) {
-			// default action on each zone
-			for (FieldElement fe : elements) {
-				if (fe.contains(e.getPoint())) {
-					fe.mouseReleased(e);
+			if (selectedCard != null) {
+				lastSelected.setCard(selectedCard);
+			} else {
+
+				// default action on each zone
+				for (FieldElement fe : elements) {
+					if (fe.contains(e.getPoint())) {
+						fe.mouseReleased(e);
+					}
 				}
 			}
 		}
@@ -252,6 +257,9 @@ public class NewMainField extends Canvas implements Serializable,
 		g2.drawImage(bg, 0, 0, null);
 		for (FieldElement e : elements) {
 			e.paint(g2, selectedCard);
+		}
+		if (selectedCard != null) {
+			// selectedCard.toCanvas().paint(g2);
 		}
 
 	}
@@ -323,8 +331,7 @@ public class NewMainField extends Canvas implements Serializable,
 		Card temp = latestSelectedCard;
 
 		if (temp == null) {
-			System.out.println("MAINFIELD: no available card to display::"
-					+ temp);
+			System.out.println("MAINFIELD: no available card to display::" + temp);
 		} else {
 			System.out.println("MAINFIELD: displaying card info::" + temp);
 		}

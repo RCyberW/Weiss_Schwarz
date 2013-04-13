@@ -42,8 +42,7 @@ public class Climax_Zone extends FieldElement {
 
 	public boolean snapToZone(Card c) {
 
-		if (c.getT() == Type.CLIMAX && c.getCardBound().intersects(rect)
-				&& !containCards()) {
+		if (c.getT() == Type.CLIMAX && c.getCardBound().intersects(rect) && !containCards()) {
 			c.getCardBound().setLocation(x, y);
 			return true;
 		}
@@ -86,6 +85,9 @@ public class Climax_Zone extends FieldElement {
 		if (containCards() == false)
 			return;
 
+		if (climaxCard.getCardBound().contains(e.getPoint()))
+			associatedPlayer.getField().setSelected(climaxCard);
+
 		if (e.getButton() == MouseEvent.BUTTON3) {
 			associatedPlayer.getField().getWaitingRoom().setCard(climaxCard);
 			removeCard();
@@ -95,7 +97,7 @@ public class Climax_Zone extends FieldElement {
 	@Override
 	protected void constructPopup(MouseEvent e) {
 		// TODO Auto-generated method stub
-		
+
 	}
 
 }

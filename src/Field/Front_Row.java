@@ -106,8 +106,8 @@ public class Front_Row extends FieldElement {
 	public void mouseReleased(MouseEvent e) {
 		if (containCards() == false)
 			return;
-
-		associatedPlayer.getField().setSelected(frontCard);
+		if (frontCard.getCardBound().contains(e.getPoint()))
+			associatedPlayer.getField().setSelected(frontCard);
 
 		if (e.getButton() == MouseEvent.BUTTON3) {
 			constructPopup(e);

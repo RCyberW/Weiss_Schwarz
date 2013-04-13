@@ -100,8 +100,9 @@ public class Back_Row extends FieldElement {
 	public void mouseReleased(MouseEvent e) {
 		if (containCards() == false)
 			return;
-
-		associatedPlayer.getField().setSelected(backCard);
+		
+		if (backCard.getCardBound().contains(e.getPoint()))
+			associatedPlayer.getField().setSelected(backCard);
 
 		if (e.getButton() == MouseEvent.BUTTON3) {
 			constructPopup(e);
