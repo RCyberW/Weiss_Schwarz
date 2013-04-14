@@ -301,6 +301,7 @@ class PreGameDisplay extends DisplayList {
 
 	PreGameDisplay(ArrayList<Card> importList, Player p) {
 		super(importList, p);
+		super.setTitle("First Hand " + thisPlayer.getPlayerID());
 	}
 
 	protected Box setButtons() {

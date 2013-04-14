@@ -43,6 +43,7 @@ public class DisplayList extends JFrame {
 		thisPlayer = new Player();
 		displayInfo = Box.createHorizontalBox();
 		cardsPerRow = 10;
+		this.setTitle("Search " + thisPlayer.getPlayerID());
 	}
 
 	public DisplayList(ArrayList<Card> importList, Player p) {
