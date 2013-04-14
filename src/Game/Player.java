@@ -10,6 +10,7 @@
 package Game;
 
 import java.awt.BorderLayout;
+import java.awt.Color;
 import java.awt.Component;
 import java.awt.Dimension;
 import java.awt.GridBagConstraints;
@@ -155,12 +156,22 @@ public class Player implements Serializable {
 						playGame.setEnabled(false);
 
 					ready = false;
+					
+					int reset = deckPane.getComponentCount();
+
+					for (int i = 0; i < reset; i++) {
+						deckPane.getComponent(i).setBackground(Color.CYAN);
+					}
+					
+					deckSelect.setBackground(Color.RED);
 					// System.out.println("Deck Selected : " + selectedDeck);
 					// setReady();
 					// startDeckEdit();
 				}
 
 			});
+			deckSelect.setBackground(Color.CYAN);
+
 			deckPane.add(deckSelect);
 			// System.out.println(playerID + " : " + deckTitle);
 		}
@@ -189,8 +200,7 @@ public class Player implements Serializable {
 		// loading the deck
 		currentDeck = new Deck();
 		currentDeck.loadRaw(new File("Deck/" + selectedDeck), dictionary);
-		System.out.println(selectedDeck + " has "
-				+ currentDeck.getPlayingDeck().size() + " cards");
+		System.out.println(selectedDeck + " has " + currentDeck.getPlayingDeck().size() + " cards");
 
 		field = new NewMainField(this);
 
@@ -235,7 +245,7 @@ public class Player implements Serializable {
 		currentGame = new Game(this);
 		initField();
 		currentGame.testGame();
-		
+
 	}
 
 	public void drawField() {
@@ -267,18 +277,12 @@ public class Player implements Serializable {
 	public void updateStatsBox() {
 		statsInfo.removeAll();
 		statsInfo.validate();
-		statsInfo.add(new JLabel("Cards remain: "
-				+ this.getField().getDeckZone().getCount()));
-		statsInfo.add(new JLabel("Waiting room: "
-				+ this.getField().getWaitingRoom().getCount()));
-		statsInfo.add(new JLabel("Clock damage: "
-				+ this.getField().getClockZone().getCount()));
-		statsInfo.add(new JLabel("Level count : "
-				+ this.getField().getLevelZone().getCount()));
-		statsInfo.add(new JLabel("Stock size  : "
-				+ this.getField().getStockZone().getCount()));
-		statsInfo.add(new JLabel("Memory count: "
-				+ this.getField().getMemoryZone().getCount()));
+		statsInfo.add(new JLabel("Cards remain: " + this.getField().getDeckZone().getCount()));
+		statsInfo.add(new JLabel("Waiting room: " + this.getField().getWaitingRoom().getCount()));
+		statsInfo.add(new JLabel("Clock damage: " + this.getField().getClockZone().getCount()));
+		statsInfo.add(new JLabel("Level count : " + this.getField().getLevelZone().getCount()));
+		statsInfo.add(new JLabel("Stock size  : " + this.getField().getStockZone().getCount()));
+		statsInfo.add(new JLabel("Memory count: " + this.getField().getMemoryZone().getCount()));
 		f.setVisible(true);
 	}
 
@@ -318,25 +322,18 @@ public class Player implements Serializable {
 		cardTitle.setEditable(false);
 
 		String areaContext = "";
-		areaContext += "LEVEL: "
-				+ (selectedCard.getLevel() >= 0 ? selectedCard.getLevel() : "??")
-				+ " ";
-		areaContext += "COST: "
-				+ (selectedCard.getCost() >= 0 ? selectedCard.getCost() : "??")
-				+ " ";
+		areaContext += "LEVEL: " + (selectedCard.getLevel() >= 0 ? selectedCard.getLevel() : "??") + " ";
+		areaContext += "COST: " + (selectedCard.getCost() >= 0 ? selectedCard.getCost() : "??") + " ";
 		areaContext += "TRIGGER: " + selectedCard.getTrigger();
-		
+
 		JTextArea cardNumber = new JTextArea(areaContext);
 		cardNumber.setLineWrap(true);
 		cardNumber.setWrapStyleWord(true);
 		cardNumber.setEditable(false);
 
 		areaContext = "";
-		areaContext += "POWER: "
-				+ (selectedCard.getPower() >= 0 ? selectedCard.getPower() : "??")
-				+ " ";
-		areaContext += "SOUL: "
-				+ (selectedCard.getSoul() >= 0 ? selectedCard.getSoul() : "??");
+		areaContext += "POWER: " + (selectedCard.getPower() >= 0 ? selectedCard.getPower() : "??") + " ";
+		areaContext += "SOUL: " + (selectedCard.getSoul() >= 0 ? selectedCard.getSoul() : "??");
 		JTextArea power = new JTextArea(areaContext);
 		power.setLineWrap(true);
 		power.setWrapStyleWord(true);
@@ -420,7 +417,7 @@ public class Player implements Serializable {
 		tabbedPane.addTab("Builder", builderGui.getContentPane());
 		tabbedPane.addTab("Game", playGame);
 		tabbedPane.addTab("Deck", deckPane);
-		
+
 		tabbedPane.addFocusListener(new FocusListener() {
 
 			@Override
@@ -440,8 +437,7 @@ public class Player implements Serializable {
 
 		userFrame.setContentPane(tabbedPane);
 
-		Dimension playerDim = new Dimension(builderGui.getWidth() + 10,
-				builderGui.getHeight() + 30);
+		Dimension playerDim = new Dimension(builderGui.getWidth() + 10, builderGui.getHeight() + 30);
 
 		userFrame.setMinimumSize(playerDim);
 		userFrame.setMaximumSize(playerDim);
