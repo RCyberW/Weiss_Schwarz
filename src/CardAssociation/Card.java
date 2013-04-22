@@ -38,8 +38,7 @@ import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 import javax.swing.TransferHandler;
 
-public class Card implements Serializable, MouseListener, MouseMotionListener,
-		Comparable<Object>, Transferable {
+public class Card implements Serializable, MouseListener, MouseMotionListener, Comparable<Object>, Transferable {
 
 	/* * * * * * * * * * * *
 	 * serialized versions *
@@ -173,7 +172,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 		setID(id);
 		// setName(id);
 		setCardName(name);
-		
+
 		realCardName = name;
 
 		effects = new ArrayList<String>();
@@ -207,10 +206,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 		pID = newId.charAt(0) + "";
 
 		for (int i = 1; i < newId.length(); i++) {
-			if ((Character.isLetter(newId.charAt(i)) && Character.isDigit(newId
-					.charAt(i - 1)))
-					|| (Character.isSpaceChar(newId.charAt(i)) && Character
-							.isDigit(newId.charAt(i - 1)))) {
+			if ((Character.isLetter(newId.charAt(i)) && Character.isDigit(newId.charAt(i - 1))) || (Character.isSpaceChar(newId.charAt(i)) && Character.isDigit(newId.charAt(i - 1)))) {
 				break;
 			} else {
 				pID += newId.charAt(i);
@@ -220,8 +216,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 		boolean isDupCard = false;
 
 		for (int i = 0; i < sameID.length; i++) {
-			if (sameID[i] == null || sameID[i].isEmpty()
-					|| sameID[i].equals(pID)) {
+			if (sameID[i] == null || sameID[i].isEmpty() || sameID[i].equals(pID)) {
 				if (sameID[i].equals(pID)) {
 					isDupCard = false;
 				} else {
@@ -242,16 +237,13 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 	public JLabel initiateImage() {
 		JLabel imageLabel = new JLabel();
 		try {
-			Image image = ImageIO.read(getClass().getResourceAsStream(
-					getImageResource()));
+			Image image = ImageIO.read(getClass().getResourceAsStream(getImageResource()));
 			// Image image = ImageIO.read(new
 			// File("src/FieldImages/cardBack-s.jpg").toURI().toURL());
 			// Image image = ImageIO.read((imageFile.toURI()).toURL());
 			// ImageIcon img = new ImageIcon(image);
 
-			ImageIcon img = new ImageIcon(image.getScaledInstance(
-					(int) (image.getWidth(null) * 0.44),
-					(int) (image.getHeight(null) * 0.44), Image.SCALE_SMOOTH));
+			ImageIcon img = new ImageIcon(image.getScaledInstance((int) (image.getWidth(null) * 0.44), (int) (image.getHeight(null) * 0.44), Image.SCALE_SMOOTH));
 
 			imageLabel.setIcon(img);
 		} catch (MalformedURLException e) {
@@ -328,7 +320,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 		// nameLabel.setFont(font);
 		nameLabel.setText(cardName);
 
-		JLabel idLabel = new JLabel(id.replace("_alt",""));
+		JLabel idLabel = new JLabel(id.replace("_alt", ""));
 		// idLabel.setFont(font);
 		JLabel typeLabel = new JLabel(t.toString());
 		// typeLabel.setFont(font);
@@ -347,72 +339,24 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 
 		layout.setHorizontalGroup(layout
 				.createParallelGroup()
-				.addComponent(nameLabel, GroupLayout.PREFERRED_SIZE, 350,
-						GroupLayout.PREFERRED_SIZE)
+				.addComponent(nameLabel, GroupLayout.PREFERRED_SIZE, 350, GroupLayout.PREFERRED_SIZE)
 				.addGroup(
 						layout.createSequentialGroup()
 								.addGroup(
-										layout.createParallelGroup()
-												.addGroup(
-														layout.createSequentialGroup()
-																.addComponent(
-																		idLabel,
-																		GroupLayout.PREFERRED_SIZE,
-																		125,
-																		GroupLayout.PREFERRED_SIZE))
-												.addGroup(
-														layout.createSequentialGroup()
-																.addComponent(
-																		levelLabel,
-																		GroupLayout.PREFERRED_SIZE,
-																		60,
-																		GroupLayout.PREFERRED_SIZE)
-																.addComponent(
-																		costLabel)))
+										layout.createParallelGroup().addGroup(layout.createSequentialGroup().addComponent(idLabel, GroupLayout.PREFERRED_SIZE, 125, GroupLayout.PREFERRED_SIZE))
+												.addGroup(layout.createSequentialGroup().addComponent(levelLabel, GroupLayout.PREFERRED_SIZE, 60, GroupLayout.PREFERRED_SIZE).addComponent(costLabel)))
 								.addGroup(
-										layout.createParallelGroup()
-												.addGroup(
-														layout.createSequentialGroup()
-																.addComponent(
-																		typeLabel))
-												.addGroup(
-														layout.createSequentialGroup()
-																.addComponent(
-																		powerLabel,
-																		GroupLayout.PREFERRED_SIZE,
-																		90,
-																		GroupLayout.PREFERRED_SIZE)))
+										layout.createParallelGroup().addGroup(layout.createSequentialGroup().addComponent(typeLabel))
+												.addGroup(layout.createSequentialGroup().addComponent(powerLabel, GroupLayout.PREFERRED_SIZE, 90, GroupLayout.PREFERRED_SIZE)))
 								.addGroup(
-										layout.createParallelGroup()
-												.addGroup(
-														layout.createSequentialGroup()
-																.addComponent(
-																		soulLabel,
-																		GroupLayout.PREFERRED_SIZE,
-																		130,
-																		GroupLayout.PREFERRED_SIZE))
-												.addGroup(
-														layout.createSequentialGroup()
-																.addComponent(
-																		damageLabel))))
-				.addComponent(descContainer, GroupLayout.PREFERRED_SIZE, 350,
-						GroupLayout.PREFERRED_SIZE));
+										layout.createParallelGroup().addGroup(layout.createSequentialGroup().addComponent(soulLabel, GroupLayout.PREFERRED_SIZE, 130, GroupLayout.PREFERRED_SIZE))
+												.addGroup(layout.createSequentialGroup().addComponent(damageLabel))))
+				.addComponent(descContainer, GroupLayout.PREFERRED_SIZE, 350, GroupLayout.PREFERRED_SIZE));
 
-		layout.setVerticalGroup(layout
-				.createSequentialGroup()
-				.addGroup(layout.createParallelGroup().addComponent(nameLabel))
-				.addGroup(
-						layout.createParallelGroup().addComponent(idLabel)
-								.addComponent(typeLabel)
-								.addComponent(soulLabel))
-				.addGroup(
-						layout.createParallelGroup().addComponent(levelLabel)
-								.addComponent(costLabel)
-								.addComponent(powerLabel)
-								.addComponent(damageLabel))
-				.addGroup(
-						layout.createParallelGroup()
-								.addComponent(descContainer)));
+		layout.setVerticalGroup(layout.createSequentialGroup().addGroup(layout.createParallelGroup().addComponent(nameLabel))
+				.addGroup(layout.createParallelGroup().addComponent(idLabel).addComponent(typeLabel).addComponent(soulLabel))
+				.addGroup(layout.createParallelGroup().addComponent(levelLabel).addComponent(costLabel).addComponent(powerLabel).addComponent(damageLabel))
+				.addGroup(layout.createParallelGroup().addComponent(descContainer)));
 
 		// System.out.println("getInfoPane");
 
@@ -428,8 +372,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 		try {
 			// Image image = ImageIO.read((imageFile.toURI()).toURL());
 			// System.out.println(getImageResource());
-			Image image = ImageIO.read(getClass().getResourceAsStream(
-					getImageResource()));
+			Image image = ImageIO.read(getClass().getResourceAsStream(getImageResource()));
 			ImageIcon img = new ImageIcon(image);
 			imagePane.add(new JLabel(img));
 		} catch (MalformedURLException e) {
@@ -487,6 +430,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 		}
 		return result;
 	}
+
 	public String getEffects_j() {
 		String result = "";
 
@@ -496,6 +440,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 
 		return result;
 	}
+
 	public String getEffects_e() {
 		String result = "";
 
@@ -512,7 +457,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 			effects.add(e);
 		// TODO: process effects to make attributes
 	}
-	
+
 	public void addEffect_e(String e) {
 		if (!e.isEmpty())
 			effects_e.add(e);
@@ -557,6 +502,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 	public String getTrait1() {
 		return getTrait1_j() + " " + getTrait1_e();
 	}
+
 	// get the first trait of the card
 	public String getTrait1_j() {
 		return trait1;
@@ -566,9 +512,11 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 	public void setTrait2(String trait2) {
 		this.trait2 = trait2;
 	}
+
 	public String getTrait2() {
 		return getTrait2_j() + " " + getTrait2_e();
 	}
+
 	// get the second trait of the card
 	public String getTrait2_j() {
 		return trait2;
@@ -657,9 +605,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 	 * @param sAbility
 	 * @return
 	 */
-	public boolean meetsRequirement(String sId, String sName, CCode sColor,
-			Type sType, int sLevel, int sCost, Trigger sTrigger, int sPower,
-			int sSoul, String sTrait, String sAbility) {
+	public boolean meetsRequirement(String sId, String sName, CCode sColor, Type sType, int sLevel, int sCost, Trigger sTrigger, int sPower, int sSoul, String sTrait, String sAbility) {
 
 		boolean isMet = true;
 
@@ -670,9 +616,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 			for (int i = 0; i < sameID.length; i++) {
 				isMet = true;
 				for (int j = 0; j < parts.length; j++) {
-					isMet = isMet
-							&& sameID[i].toLowerCase().contains(
-									parts[j].toLowerCase());
+					isMet = isMet && sameID[i].toLowerCase().contains(parts[j].toLowerCase());
 					/*
 					 * if (sameID[i].toLowerCase()
 					 * .contains(parts[j].toLowerCase()))
@@ -686,8 +630,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 			}
 			isMet = true;
 			for (int j = 0; j < parts.length; j++) {
-				isMet = isMet
-						&& id.toLowerCase().contains(parts[j].toLowerCase());
+				isMet = isMet && id.toLowerCase().contains(parts[j].toLowerCase());
 				/*
 				 * if (id.toLowerCase().contains(parts[j].toLowerCase()))
 				 * System.out.println(id + "::CONTAINS::" + parts[j]);
@@ -702,9 +645,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 		}
 
 		if (!sName.isEmpty()) {
-			isMet = isMet
-					&& (cardName.toLowerCase().contains(sName.toLowerCase()) ||
-							cardName_e.toLowerCase().contains(sName.toLowerCase()));
+			isMet = isMet && (cardName.toLowerCase().contains(sName.toLowerCase()) || cardName_e.toLowerCase().contains(sName.toLowerCase()));
 		}
 
 		if (sColor != null && sColor != CCode.ALL) {
@@ -736,11 +677,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 		}
 
 		if (!sTrait.isEmpty()) {
-			isMet = isMet
-					&& (trait1.toLowerCase().contains(sTrait) || 
-							trait2.toLowerCase().contains(sTrait) ||
-							trait1_e.toLowerCase().contains(sTrait) || 
-							trait2_e.toLowerCase().contains(sTrait));
+			isMet = isMet && (trait1.toLowerCase().contains(sTrait) || trait2.toLowerCase().contains(sTrait) || trait1_e.toLowerCase().contains(sTrait) || trait2_e.toLowerCase().contains(sTrait));
 		}
 
 		if (!sAbility.isEmpty()) {
@@ -748,11 +685,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 			String[] parts = sAbility.split(" ");
 
 			for (int i = 0; i < parts.length; i++) {
-				isMet = isMet
-						&& (getEffects().toLowerCase().contains(
-								parts[i].toLowerCase()) ||
-							getEffects_e().toLowerCase().contains(
-										parts[i].toLowerCase()));
+				isMet = isMet && (getEffects().toLowerCase().contains(parts[i].toLowerCase()) || getEffects_e().toLowerCase().contains(parts[i].toLowerCase()));
 			}
 		}
 
@@ -766,6 +699,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 	public String getFlavorText() {
 		return getFlavorText_j() + " " + getFlavorText_e();
 	}
+
 	public String getFlavorText_j() {
 		return flavorText;
 	}
@@ -837,7 +771,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 	private void setEffects(ArrayList<String> effects) {
 		this.effects = effects;
 	}
-	
+
 	private void setEffects_e(ArrayList<String> effects_e) {
 		this.effects_e = effects_e;
 	}
@@ -869,9 +803,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 
 	public Rectangle getCardBound() {
 		Rectangle boundBox = new Rectangle();
-		boundBox.setBounds((int) customCanvas.getLocation().x,
-				(int) (customCanvas.getLocation().y + Game.Game.translatedY),
-				customCanvas.getWidth(), customCanvas.getHeight());
+		boundBox.setBounds((int) customCanvas.getLocation().x, (int) (customCanvas.getLocation().y + Game.Game.translatedY), customCanvas.getWidth(), customCanvas.getHeight());
 
 		return boundBox;
 	}
@@ -891,12 +823,10 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 
 						// img = ImageIO.read((imageFile.toURI()).toURL());
 
-						BufferedImage before = ImageIO.read(getClass()
-								.getResourceAsStream(getImageResource()));
-						
-						if(currentState == State.FD_REST || currentState == State.FD_STAND) {
-							before = ImageIO.read(getClass()
-									.getResourceAsStream(backResource));
+						BufferedImage before = ImageIO.read(getClass().getResourceAsStream(getImageResource()));
+
+						if (currentState == State.FD_REST || currentState == State.FD_STAND) {
+							before = ImageIO.read(getClass().getResourceAsStream(backResource));
 						}
 						/*
 						 * BufferedImage before =
@@ -904,55 +834,36 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 						 */
 						int wid = before.getWidth();
 						int hit = before.getHeight();
-						after = new BufferedImage(wid, hit,
-								BufferedImage.TYPE_INT_ARGB);
+						after = new BufferedImage(wid, hit, BufferedImage.TYPE_INT_ARGB);
 
 						AffineTransform at = new AffineTransform();
 
 						at.scale(Game.Game.gameScale, Game.Game.gameScale);
 
-						if (currentState == State.REST
-								|| currentState == State.FD_REST) {
-							at.translate((after.getHeight(null) - before
-									.getWidth(null)) / 2,
-									(after.getWidth(null) - before
-											.getHeight(null)) / 2);
+						if (currentState == State.REST || currentState == State.FD_REST) {
+							at.translate((after.getHeight(null) - before.getWidth(null)) / 2, (after.getWidth(null) - before.getHeight(null)) / 2);
 
-							at.rotate(Math.toRadians(-90),
-									before.getWidth(null) / 2,
-									before.getHeight(null) / 2);
+							at.rotate(Math.toRadians(-90), before.getWidth(null) / 2, before.getHeight(null) / 2);
 						}
 
-						AffineTransformOp scaleOp = new AffineTransformOp(at,
-								AffineTransformOp.TYPE_BILINEAR);
+						AffineTransformOp scaleOp = new AffineTransformOp(at, AffineTransformOp.TYPE_BILINEAR);
 						after = scaleOp.filter(before, null);
 
 						// prepareImage(img, null);
-						g.drawImage(after, getLocation().x, getLocation().y,
-								null);
-						customCanvas.setBounds(getLocation().x,
-								getLocation().y, (int) (after.getWidth(null)),
-								(int) (after.getHeight(null)));
+						g.drawImage(after, getLocation().x, getLocation().y, null);
+						customCanvas.setBounds(getLocation().x, getLocation().y, (int) (after.getWidth(null)), (int) (after.getHeight(null)));
 
 						boolean debug = false;
 
-						String outputString = (int) getCardBound().getX()
-								+ " + " + getCardBound().width + ","
-								+ (int) getCardBound().getY() + " + "
-								+ getCardBound().height;
+						String outputString = (int) getCardBound().getX() + " + " + getCardBound().width + "," + (int) getCardBound().getY() + " + " + getCardBound().height;
 						if (debug) {
 							g.setColor(Color.BLUE);
-							g.fillRect((int) getCardBound().getX(),
-									(int) getCardBound().getY(),
-									getCardBound().width, getCardBound().height);
+							g.fillRect((int) getCardBound().getX(), (int) getCardBound().getY(), getCardBound().width, getCardBound().height);
 							g.setColor(Color.RED);
-							g.drawRect((int) getCardBound().getX(),
-									(int) getCardBound().getY(),
-									getCardBound().width, getCardBound().height);
+							g.drawRect((int) getCardBound().getX(), (int) getCardBound().getY(), getCardBound().width, getCardBound().height);
 							g.setColor(Color.BLACK);
 
-							g.drawString(outputString, (int) getCardBound()
-									.getX(), (int) getCardBound().getY());
+							g.drawString(outputString, (int) getCardBound().getX(), (int) getCardBound().getY());
 						}
 					} catch (MalformedURLException e) {
 						e.printStackTrace();
@@ -973,15 +884,15 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 	}
 
 	public void setDisplay(boolean isFaceUp, boolean isTapped) {
-		
-//		if(isFaceUp && isTapped)
-//			currentState = State.REST;
-//		else if(isFaceUp && !isTapped)
-//			currentState = State.STAND;
-//		else if(!isFaceUp && isTapped)
-//			currentState = State.FD_REST;
-//		else
-//			currentState = State.FD_STAND;
+
+		// if(isFaceUp && isTapped)
+		// currentState = State.REST;
+		// else if(isFaceUp && !isTapped)
+		// currentState = State.STAND;
+		// else if(!isFaceUp && isTapped)
+		// currentState = State.FD_REST;
+		// else
+		// currentState = State.FD_STAND;
 
 	}
 
@@ -995,11 +906,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 	// FT/SE10-29
 
 	public static int getMaxInDeck(Card c) {
-		if (c.getID().equals("FZ/SE13-24 C")
-				|| c.getID().equals("FZ/SE13-26 C")
-				|| c.getID().equals("MF/S13-034 U")
-				|| c.getID().equals("MF/S13-040 C")
-				|| c.getID().equals("ID/W10-014 C")
+		if (c.getID().equals("FZ/SE13-24 C") || c.getID().equals("FZ/SE13-26 C") || c.getID().equals("MF/S13-034 U") || c.getID().equals("MF/S13-040 C") || c.getID().equals("ID/W10-014 C")
 				|| c.getID().equals("SG/W19-038 C"))
 			return 50;
 		else if (c.getID().contains("FT/SE10-29"))
@@ -1011,7 +918,6 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 	public String toString() {
 		return cardName;
 	}
-
 
 	public void setAlternateArt(boolean isAlternateArt) {
 		this.isAlternateArt = isAlternateArt;

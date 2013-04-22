@@ -3,6 +3,7 @@ package Field;
 import java.awt.Component;
 import java.awt.Dimension;
 import java.awt.Graphics;
+import java.awt.Point;
 import java.awt.Rectangle;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
@@ -145,6 +146,10 @@ abstract class FieldElement extends Component implements MouseListener {
 
 	public boolean contains(int x, int y) {
 		return rect.contains(x, y);
+	}
+	
+	public boolean contains(Point p) {
+		return rect.contains(p);
 	}
 
 	/**

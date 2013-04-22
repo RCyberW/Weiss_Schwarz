@@ -35,8 +35,10 @@ public class Front_Row extends FieldElement {
 
 	public void setCard(Card c) {
 		// frontRow.add(c);
-		c.setCurrentState(State.STAND);
-		removeCard();
+		if (c != null) {
+			c.setCurrentState(State.STAND);
+			removeCard();
+		}
 		frontCard = c;
 		repaint();
 	}
@@ -112,8 +114,9 @@ public class Front_Row extends FieldElement {
 		if (e.getButton() == MouseEvent.BUTTON3) {
 			constructPopup(e);
 		} else if (e.getButton() == MouseEvent.BUTTON1) {
-			if (frontCard.getCardBound().contains(e.getPoint()))
-				removeCard();
+			if (frontCard.getCardBound().contains(e.getPoint())) {
+				// removeCard();
+			}
 		}
 	}
 
@@ -149,6 +152,83 @@ public class Front_Row extends FieldElement {
 			}
 		});
 		popmenu.add(reverseAction);
+
+		JMenuItem waitingRoom = new JMenuItem("to waiting room");
+		waitingRoom.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				associatedPlayer.getField().getWaitingRoom().setCard(frontCard);
+				removeCard();
+				associatedPlayer.getField().repaintElements();
+			}
+		});
+		popmenu.add(waitingRoom);
+
+		JMenuItem handAction = new JMenuItem("to hand");
+		handAction.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				associatedPlayer.getHand().setCard(frontCard);
+				removeCard();
+				associatedPlayer.getField().repaintElements();
+			}
+		});
+		popmenu.add(handAction);
+
+		JMenuItem topDeckAction = new JMenuItem("to top of deck");
+		topDeckAction.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				associatedPlayer.getField().getDeckZone().setCard(frontCard);
+				removeCard();
+				associatedPlayer.getField().repaintElements();
+			}
+		});
+		popmenu.add(topDeckAction);
+
+		JMenuItem botDeckAction = new JMenuItem("to bottom of deck");
+		botDeckAction.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				associatedPlayer.getField().getDeckZone().setBotCard(frontCard);
+				removeCard();
+				associatedPlayer.getField().repaintElements();
+			}
+		});
+		popmenu.add(botDeckAction);
+
+		JMenuItem memoryAction = new JMenuItem("to memory");
+		memoryAction.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				associatedPlayer.getField().getMemoryZone().setCard(frontCard);
+				removeCard();
+				associatedPlayer.getField().repaintElements();
+			}
+		});
+		popmenu.add(memoryAction);
+
+		JMenuItem stockAction = new JMenuItem("to waiting room");
+		stockAction.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				associatedPlayer.getField().getClockZone().setCard(frontCard);
+				removeCard();
+				associatedPlayer.getField().repaintElements();
+			}
+		});
+		popmenu.add(stockAction);
+
+		JMenuItem clockAction = new JMenuItem("to clock");
+		clockAction.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				associatedPlayer.getField().getWaitingRoom().setCard(frontCard);
+				removeCard();
+				associatedPlayer.getField().repaintElements();
+			}
+		});
+		popmenu.add(clockAction);
 
 		popmenu.show(e.getComponent(), e.getX(), e.getY());
 	}

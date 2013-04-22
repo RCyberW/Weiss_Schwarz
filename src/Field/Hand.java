@@ -301,13 +301,13 @@ class PreGameDisplay extends DisplayList {
 
 	PreGameDisplay(ArrayList<Card> importList, Player p) {
 		super(importList, p);
-		super.setTitle("First Hand " + thisPlayer.getPlayerID());
+		super.setTitle("Select Card(s) to Drop " + thisPlayer.getPlayerID());
 	}
 
 	protected Box setButtons() {
 		Box buttonRow = Box.createHorizontalBox();
 
-		JButton add = new JButton("add to queue");
+		JButton add = new JButton("add");
 		add.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				boolean toAdd = true;
@@ -324,7 +324,7 @@ class PreGameDisplay extends DisplayList {
 		});
 		buttonRow.add(add);
 
-		JButton remove = new JButton("remove to queue");
+		JButton remove = new JButton("remove");
 		remove.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				System.out.println("DE-QUEUING " + selectedCard.getCardName() + "[" + selectedCard.getUniqueID() + "]");
@@ -334,7 +334,7 @@ class PreGameDisplay extends DisplayList {
 		});
 		buttonRow.add(remove);
 
-		JButton discard = new JButton("ready");
+		JButton discard = new JButton("drop and ready");
 		discard.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				for (Card card : showList) {

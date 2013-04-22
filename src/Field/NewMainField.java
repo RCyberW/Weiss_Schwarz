@@ -185,40 +185,78 @@ public class NewMainField extends Canvas implements Serializable, MouseListener,
 
 		if (e.getButton() == MouseEvent.BUTTON1) {
 
-			if (selectedCard == null) {
-				// picking up a card from a zone
+			// if (selectedCard == null) {
+			// // picking up a card from a zone
+			// for (FieldElement fe : elements) {
+			// // fe.mouseReleased(e);
+			// if (!fe.isList() && fe.contains(e.getPoint())) {
+			// selectedCard = fe.selectCard(e);
+			// lastSelected = fe;
+			// }
+			// fe.mouseReleased(e);
+			// System.out.println(selectedCard);
+			// if (selectedCard != null) {
+			// System.out.println("taking up  " + selectedCard.getCardName());
+			// break;
+			// }
+			// }
+			// } else {
+			// // placing a card to a zone
+			// for (FieldElement fe : elements) {
+			// if (fe.contains(e.getPoint())) {
+			// System.out.println("clicked on " + fe.toString() + "(" + e.getX()
+			// + "," + e.getY() + ") placing " + selectedCard.getCardName());
+			// Card tempCard = null;
+			// if (!fe.isList()) {
+			// tempCard = fe.selectCard(e);
+			// lastSelected = fe;
+			// if (tempCard != null)
+			// System.out.println("picking up " + selectedCard.getCardName());
+			// }
+			// fe.setCard(selectedCard);
+			// selectedCard = tempCard;
+			// break;
+			// }
+			// }
+			// if (selectedCard != null)
+			// System.out.println("holding " + selectedCard.getCardName());
+			// }
+
+			if (lastSelected == null) {
+				// choose the last selected zone
 				for (FieldElement fe : elements) {
-					// fe.mouseReleased(e);
-					if (!fe.isList() && fe.contains(e.getPoint())) {
-						selectedCard = fe.selectCard(e);
+					if (fe.contains(e.getPoint())) {
 						lastSelected = fe;
-					}
-					fe.mouseReleased(e);
-					System.out.println(selectedCard);
-					if (selectedCard != null) {
-						System.out.println("taking up  " + selectedCard.getCardName());
 						break;
 					}
 				}
 			} else {
-				// placing a card to a zone
-				for (FieldElement fe : elements) {
-					if (fe.contains(e.getPoint())) {
-						System.out.println("clicked on " + fe.toString() + "(" + e.getX() + "," + e.getY() + ") placing " + selectedCard.getCardName());
-						Card tempCard = null;
-						if (!fe.isList()) {
-							tempCard = fe.selectCard(e);
-							lastSelected = fe;
-							if (tempCard != null)
-								System.out.println("picking up " + selectedCard.getCardName());
+				if (lastSelected.toString().equals("Front-Row") || lastSelected.toString().equals("Back-Row")) {
+					// swap
+					System.out.println("SWAPPING PREP...");
+					for (FieldElement fe : elements) {
+						if (fe.contains(e.getPoint())) {
+
+							Card card1 = fe.showCard();
+							Card card2 = lastSelected.showCard();
+
+							fe.setCard(card2);
+
+							lastSelected.setCard(card1);
+
+							lastSelected = null;
+							break;
 						}
-						fe.setCard(selectedCard);
-						selectedCard = tempCard;
-						break;
+					}
+					System.out.println("SWAPPING DONE");
+				} else {
+					for (FieldElement fe : elements) {
+						if (fe.contains(e.getPoint())) {
+							lastSelected = fe;
+							break;
+						}
 					}
 				}
-				if (selectedCard != null)
-					System.out.println("holding " + selectedCard.getCardName());
 			}
 			repaintElements();
 
