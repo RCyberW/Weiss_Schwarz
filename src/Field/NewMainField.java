@@ -24,7 +24,8 @@ import CardAssociation.Card;
 import CardAssociation.Deck;
 import Game.Player;
 
-public class NewMainField extends Canvas implements Serializable, MouseListener, MouseMotionListener {
+public class NewMainField extends Canvas implements Serializable,
+		MouseListener, MouseMotionListener {
 
 	private static final long serialVersionUID = -2417240192973578906L;
 
@@ -90,14 +91,16 @@ public class NewMainField extends Canvas implements Serializable, MouseListener,
 		try {
 			// System.out.println(getClass().getResource(
 			// "/resources/FieldImages/" + "Background.png"));
-			BufferedImage before = ImageIO.read(getClass().getResource("/resources/FieldImages/" + "Background.png"));
+			BufferedImage before = ImageIO.read(getClass().getResource(
+					"/resources/FieldImages/" + "Background.png"));
 			w = (int) (Game.Game.maxWidth * Game.Game.gameScale);
 			h = (int) (Game.Game.maxHeight * Game.Game.gameScale);
 			bg = new BufferedImage(w, h, BufferedImage.TYPE_INT_ARGB);
 
 			AffineTransform at = new AffineTransform();
 			at.scale(Game.Game.gameScale, Game.Game.gameScale);
-			AffineTransformOp scaleOp = new AffineTransformOp(at, AffineTransformOp.TYPE_BILINEAR);
+			AffineTransformOp scaleOp = new AffineTransformOp(at,
+					AffineTransformOp.TYPE_BILINEAR);
 			bg = scaleOp.filter(before, null);
 
 			cardImage = bg.createGraphics();
@@ -226,17 +229,19 @@ public class NewMainField extends Canvas implements Serializable, MouseListener,
 				// choose the last selected zone
 				for (FieldElement fe : elements) {
 					if (fe.contains(e.getPoint())) {
+						fe.mouseReleased(e);
 						lastSelected = fe;
 						break;
 					}
 				}
 			} else {
-				if (lastSelected.toString().equals("Front-Row") || lastSelected.toString().equals("Back-Row")) {
+				if (lastSelected.toString().equals("Front-Row")
+						|| lastSelected.toString().equals("Back-Row")) {
 					// swap
 					System.out.println("SWAPPING PREP...");
 					for (FieldElement fe : elements) {
 						if (fe.contains(e.getPoint())) {
-
+							fe.mouseReleased(e);
 							Card card1 = fe.showCard();
 							Card card2 = lastSelected.showCard();
 
@@ -249,9 +254,25 @@ public class NewMainField extends Canvas implements Serializable, MouseListener,
 						}
 					}
 					System.out.println("SWAPPING DONE");
+				} else if (lastSelected.toString().equals("Resolution Area")) {
+					for (FieldElement fe : elements) {
+						if (fe.contains(e.getPoint())) {
+							fe.mouseReleased(e);
+							Card card1 = fe.showCard();
+							Card card2 = lastSelected.showCard();
+
+							fe.setCard(card2);
+
+							getWaitingRoom().setCard(card1);
+
+							lastSelected = null;
+							break;
+						}
+					}
 				} else {
 					for (FieldElement fe : elements) {
 						if (fe.contains(e.getPoint())) {
+							fe.mouseReleased(e);
 							lastSelected = fe;
 							break;
 						}
@@ -369,7 +390,8 @@ public class NewMainField extends Canvas implements Serializable, MouseListener,
 		Card temp = latestSelectedCard;
 
 		if (temp == null) {
-			System.out.println("MAINFIELD: no available card to display::" + temp);
+			System.out.println("MAINFIELD: no available card to display::"
+					+ temp);
 		} else {
 			System.out.println("MAINFIELD: displaying card info::" + temp);
 		}
