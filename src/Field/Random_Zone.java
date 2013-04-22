@@ -172,8 +172,9 @@ public class Random_Zone extends FieldElement {
 		if (e.getButton() == MouseEvent.BUTTON3) {
 			constructPopup(e);
 		} else if (e.getButton() == MouseEvent.BUTTON1) {
-			if (showCard().getCardBound().contains(e.getPoint()))
-				removeCard();
+			if (showCard().getCardBound().contains(e.getPoint())) {
+				// removeCard();
+			}
 		}
 	}
 

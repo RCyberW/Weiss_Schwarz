@@ -262,9 +262,10 @@ public class NewMainField extends Canvas implements Serializable,
 							Card card2 = lastSelected.showCard();
 
 							fe.setCard(card2);
-
-							getWaitingRoom().setCard(card1);
-
+							if (card1 != null)
+								getWaitingRoom().setCard(card1);
+							Random_Zone randomSelect = (Random_Zone) lastSelected;
+							randomSelect.removeCard();
 							lastSelected = null;
 							break;
 						}
