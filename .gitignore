@@ -166,6 +166,7 @@ pip-log.txt
 
 # Generated files
 WeissSchwarzDeckBuilder.jar
+WeissSchwarzVirtual.jar
 nameDict.txt
 CardDatav2
 src/DeckBuilder/CardDatav2
