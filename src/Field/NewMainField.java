@@ -231,6 +231,7 @@ public class NewMainField extends Canvas implements Serializable,
 					if (fe.contains(e.getPoint())) {
 						fe.mouseReleased(e);
 						lastSelected = fe;
+						repaintElements();
 						break;
 					}
 				}
@@ -250,6 +251,7 @@ public class NewMainField extends Canvas implements Serializable,
 							lastSelected.setCard(card1);
 
 							lastSelected = null;
+							repaintElements();
 							break;
 						}
 					}
@@ -267,6 +269,7 @@ public class NewMainField extends Canvas implements Serializable,
 							Random_Zone randomSelect = (Random_Zone) lastSelected;
 							randomSelect.removeCard();
 							lastSelected = null;
+							repaintElements();
 							break;
 						}
 					}
@@ -275,12 +278,13 @@ public class NewMainField extends Canvas implements Serializable,
 						if (fe.contains(e.getPoint())) {
 							fe.mouseReleased(e);
 							lastSelected = fe;
+							repaintElements();
 							break;
 						}
 					}
 				}
 			}
-			repaintElements();
+			
 
 		} else if (e.getButton() == MouseEvent.BUTTON3) {
 			if (selectedCard != null) {
