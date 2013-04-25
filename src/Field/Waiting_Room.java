@@ -69,6 +69,7 @@ public class Waiting_Room extends FieldElement {
 
 		displayGui.buildSelector();
 		displayGui.setVisible(true);
+		displayGui.toFront();
 	}
 
 	@Override

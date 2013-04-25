@@ -177,10 +177,10 @@ public class DisplayList extends JFrame {
 
 		String areaContext = "";
 		areaContext += "LEVEL: "
-				+ (selectedCard.getLevel() >= 0 ? selectedCard.getLevel() : "??")
+				+ (selectedCard.getLevel() >= 0 ? selectedCard.getLevel() : "-")
 				+ " ";
 		areaContext += "COST: "
-				+ (selectedCard.getCost() >= 0 ? selectedCard.getCost() : "??")
+				+ (selectedCard.getCost() >= 0 ? selectedCard.getCost() : "-")
 				+ " ";
 		areaContext += "TRIGGER: " + selectedCard.getTrigger();
 		
@@ -191,10 +191,10 @@ public class DisplayList extends JFrame {
 
 		areaContext = "";
 		areaContext += "POWER: "
-				+ (selectedCard.getPower() >= 0 ? selectedCard.getPower() : "??")
+				+ (selectedCard.getPower() >= 0 ? selectedCard.getPower() : "-")
 				+ " ";
 		areaContext += "SOUL: "
-				+ (selectedCard.getSoul() >= 0 ? selectedCard.getSoul() : "??");
+				+ (selectedCard.getSoul() >= 0 ? selectedCard.getSoul() : "-");
 		
 		JTextArea power = new JTextArea(areaContext);
 		power.setLineWrap(true);

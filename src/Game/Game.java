@@ -338,11 +338,11 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 
 	// representation of CLIMAX PHASE
 	private void climaxPhase() {
-		Card c = defendingField.getSelected();
+		// Card c = defendingField.getSelected();
 
-		if (c != null && c.getT() == Type.CLIMAX) {
-			defendingField.getClimaxZone().setCard(c);
-		}
+		// if (c != null && c.getT() == Type.CLIMAX) {
+		//	defendingField.getClimaxZone().setCard(c);
+		// }
 	}
 
 	// representation of ATTACK PHASE

@@ -193,6 +193,7 @@ public class Deck_Zone extends FieldElement {
 		}
 		displayGui.buildSelector();
 		displayGui.setVisible(true);
+		displayGui.toFront();
 	}
 
 	@Override
