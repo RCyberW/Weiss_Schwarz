@@ -9,7 +9,8 @@
 
 /**
  * drag and drop (not possible currently, need research)
- * print deck with card translation and image (research)
+ * print deck with card translation and image (implementation)
+ * select and copy card info
  */
 
 package DeckBuilder;

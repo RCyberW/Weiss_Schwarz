@@ -5,8 +5,14 @@ package Field;
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.Graphics;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import java.awt.event.MouseEvent;
 import java.util.ArrayList;
+
+import javax.swing.JMenuItem;
+import javax.swing.JPopupMenu;
+
 import CardAssociation.*;
 import Game.Player;
 
@@ -67,8 +73,7 @@ public class Stock_Zone extends FieldElement {
 		g.setColor(Color.BLUE);
 
 		// g.drawString(zoneName, x + 10, y + 20);
-		g.drawString("Stock size: " + stockZone.size() + "", this.x,
-				this.y - 10);
+		g.drawString("Stock size: " + stockZone.size() + "", this.x, this.y - 10);
 	}
 
 	// @Override
@@ -92,13 +97,9 @@ public class Stock_Zone extends FieldElement {
 		if (containCards() == false || card == null)
 			return;
 		if (e.getButton() == MouseEvent.BUTTON3) {
-			card = selectCard(e);
-			associatedPlayer.getField().getWaitingRoom().setCard(card);
-			stockZone.remove(stockZone.size() - 1);
+			constructPopup(e);
 		} else if (e.getButton() == MouseEvent.BUTTON1) {
-			associatedPlayer.getField().getWaitingRoom()
-					.setCard(stockZone.get(0));
-			stockZone.remove(0);
+
 		}
 	}
 
@@ -112,7 +113,30 @@ public class Stock_Zone extends FieldElement {
 
 	@Override
 	protected void constructPopup(MouseEvent e) {
-		// TODO Auto-generated method stub
-		
+		final JPopupMenu popmenu = new JPopupMenu();
+
+		JMenuItem stockTop = new JMenuItem("pay stock from top");
+		stockTop.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				associatedPlayer.getField().getWaitingRoom().setCard(stockZone.get(stockZone.size() - 1));
+				stockZone.remove(stockZone.size() - 1);
+				associatedPlayer.getField().repaintElements();
+			}
+		});
+		popmenu.add(stockTop);
+
+		JMenuItem stockBot = new JMenuItem("pay stock from bottom");
+		stockBot.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				associatedPlayer.getField().getWaitingRoom().setCard(stockZone.get(0));
+				stockZone.remove(0);
+				associatedPlayer.getField().repaintElements();
+			}
+		});
+		popmenu.add(stockBot); 
+
+		popmenu.show(e.getComponent(), e.getX(), e.getY());
 	}
 }

@@ -9,11 +9,7 @@
  */
 
 /**
- * options on discarding/peek/swap/etc. between zones
- *      Need to find a way to get specific cards from waiting room/memory/deck/clock/level
- * manual refresh and refresh damage (an option to refresh)
- * shuffle deck after search
- * pay for stock from bottom/discard stock from top
+ * UI indication that something is selected
  * 
  * 
  */
@@ -35,7 +31,6 @@ import javax.swing.JPanel;
 
 import CardAssociation.Card;
 import CardAssociation.State;
-import CardAssociation.Type;
 import Field.NewMainField;
 
 public class Game extends JPanel implements MouseListener, MouseMotionListener {

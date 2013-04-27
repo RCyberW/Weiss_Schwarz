@@ -744,30 +744,6 @@ public class Card implements Serializable, MouseListener, MouseMotionListener, C
 		return cloned;
 	}
 
-	public Card clone(Card card) {
-		Card cloned = new Card(id, cardName);
-
-		card.setCount(dupCount);
-		card.setEffects(effects);
-		card.setEffects_e(effects_e);
-		card.setPower(power);
-		card.setTrigger(trigger);
-		card.setLevel(level);
-		card.setCost(cost);
-		card.setSoul(soul);
-		card.setT(t);
-		card.setC(c);
-		card.setTrait1(trait1);
-		card.setTrait1_e(trait1_e);
-		card.setTrait2(trait2);
-		card.setTrait2_e(trait2_e);
-		card.setFlavorText(flavorText);
-		card.setFlavorText_e(flavorText_e);
-		card.setImageResource(imageResource);
-
-		return cloned;
-	}
-
 	private void setEffects(ArrayList<String> effects) {
 		this.effects = effects;
 	}

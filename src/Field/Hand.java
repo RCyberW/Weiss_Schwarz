@@ -3,7 +3,6 @@ package Field;
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Component;
-import java.awt.Font;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
 import java.awt.event.ActionEvent;
@@ -357,12 +356,14 @@ class PreGameDisplay extends DisplayList {
 		return buttonRow;
 	}
 
+	@SuppressWarnings("unchecked")
 	protected JScrollPane displayList() {
 		String[] cardNames = new String[showList.size()];
 		for (int i = 0; i < showList.size(); i++) {
 			cardNames[i] = showList.get(i).getCardName();
 		}
 
+		@SuppressWarnings({ "rawtypes" })
 		final JList displayShow = new JList(cardNames);
 		displayShow.setPrototypeCellValue("Index 1234567890");
 		MouseListener listener = new MouseAdapter() {
