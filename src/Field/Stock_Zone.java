@@ -115,7 +115,7 @@ public class Stock_Zone extends FieldElement {
 	protected void constructPopup(MouseEvent e) {
 		final JPopupMenu popmenu = new JPopupMenu();
 
-		JMenuItem stockTop = new JMenuItem("pay stock from top");
+		JMenuItem stockTop = new JMenuItem("pay stock");
 		stockTop.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
@@ -126,7 +126,7 @@ public class Stock_Zone extends FieldElement {
 		});
 		popmenu.add(stockTop);
 
-		JMenuItem stockBot = new JMenuItem("pay stock from bottom");
+		JMenuItem stockBot = new JMenuItem("remove bottom");
 		stockBot.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
