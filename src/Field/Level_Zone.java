@@ -101,7 +101,7 @@ public class Level_Zone extends FieldElement {
 			for (int i = levelZone.size() - 1; i >= 0; i--) {
 				Card c = levelZone.get(i);
 				if (c.getCardBound().contains(e.getX(), e.getY())) {
-					levelZone.remove(i);
+					// levelZone.remove(i);
 					return c;
 				}
 			}

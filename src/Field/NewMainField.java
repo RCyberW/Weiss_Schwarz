@@ -241,7 +241,10 @@ public class NewMainField extends Canvas implements Serializable,
 					// swap
 					System.out.println("SWAPPING PREP...");
 					for (FieldElement fe : elements) {
-						if (fe.contains(e.getPoint())) {
+						if (fe.contains(e.getPoint())
+								&& (fe.toString().equals("Front-Row")
+										|| fe.toString().equals("Back-Row") || fe
+										.toString().equals("Resolution Area"))) {
 							fe.mouseReleased(e);
 							Card card1 = fe.showCard();
 							Card card2 = lastSelected.showCard();
