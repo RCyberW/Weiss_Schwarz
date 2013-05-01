@@ -258,7 +258,9 @@ public class NewMainField extends Canvas implements Serializable,
 					System.out.println("SWAPPING DONE");
 				} else if (lastSelected.toString().equals("Resolution Area")) {
 					for (FieldElement fe : elements) {
-						if (fe.contains(e.getPoint())) {
+						if (fe.contains(e.getPoint())
+								&& (fe.toString().equals("Front-Row") || fe
+										.toString().equals("Back-Row"))) {
 							fe.mouseReleased(e);
 							Card card1 = fe.showCard();
 							Card card2 = lastSelected.showCard();
@@ -284,7 +286,6 @@ public class NewMainField extends Canvas implements Serializable,
 					}
 				}
 			}
-			
 
 		} else if (e.getButton() == MouseEvent.BUTTON3) {
 			if (selectedCard != null) {
