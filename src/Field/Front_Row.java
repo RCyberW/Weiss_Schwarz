@@ -208,11 +208,11 @@ public class Front_Row extends FieldElement {
 		});
 		popmenu.add(memoryAction);
 
-		JMenuItem stockAction = new JMenuItem("to waiting room");
+		JMenuItem stockAction = new JMenuItem("to stock");
 		stockAction.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				associatedPlayer.getField().getClockZone().setCard(frontCard);
+				associatedPlayer.getField().getStockZone().setCard(frontCard);
 				removeCard();
 				associatedPlayer.getField().repaintElements();
 			}
@@ -223,7 +223,7 @@ public class Front_Row extends FieldElement {
 		clockAction.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				associatedPlayer.getField().getWaitingRoom().setCard(frontCard);
+				associatedPlayer.getField().getClockZone().setCard(frontCard);
 				removeCard();
 				associatedPlayer.getField().repaintElements();
 			}

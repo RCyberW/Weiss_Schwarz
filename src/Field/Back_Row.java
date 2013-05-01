@@ -203,11 +203,11 @@ public class Back_Row extends FieldElement {
 		});
 		popmenu.add(memoryAction);
 
-		JMenuItem stockAction = new JMenuItem("to waiting room");
+		JMenuItem stockAction = new JMenuItem("to stock");
 		stockAction.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				associatedPlayer.getField().getClockZone().setCard(backCard);
+				associatedPlayer.getField().getStockZone().setCard(backCard);
 				removeCard();
 				associatedPlayer.getField().repaintElements();
 			}
@@ -218,7 +218,7 @@ public class Back_Row extends FieldElement {
 		clockAction.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				associatedPlayer.getField().getWaitingRoom().setCard(backCard);
+				associatedPlayer.getField().getClockZone().setCard(backCard);
 				removeCard();
 				associatedPlayer.getField().repaintElements();
 			}
