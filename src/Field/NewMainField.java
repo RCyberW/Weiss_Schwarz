@@ -231,11 +231,13 @@ public class NewMainField extends Canvas implements Serializable,
 					if (fe.contains(e.getPoint())) {
 						fe.mouseReleased(e);
 						lastSelected = fe;
+			System.out.println(lastSelected.toString());
 						repaintElements();
 						break;
 					}
 				}
 			} else {
+			System.out.println(lastSelected.toString());
 				if (lastSelected.toString().equals("Front-Row")
 						|| lastSelected.toString().equals("Back-Row")) {
 					// swap
@@ -243,8 +245,8 @@ public class NewMainField extends Canvas implements Serializable,
 					for (FieldElement fe : elements) {
 						if (fe.contains(e.getPoint())
 								&& (fe.toString().equals("Front-Row")
-										|| fe.toString().equals("Back-Row") || fe
-										.toString().equals("Resolution Area"))) {
+										|| fe.toString().equals("Back-Row") )) {
+//										|| fe.toString().equals("Resolution Area"))) {
 							fe.mouseReleased(e);
 							Card card1 = fe.showCard();
 							Card card2 = lastSelected.showCard();
@@ -253,11 +255,11 @@ public class NewMainField extends Canvas implements Serializable,
 
 							lastSelected.setCard(card1);
 
-							lastSelected = null;
 							repaintElements();
 							break;
 						}
 					}
+					lastSelected = null;
 					System.out.println("SWAPPING DONE");
 				} else if (lastSelected.toString().equals("Resolution Area")) {
 					for (FieldElement fe : elements) {
@@ -267,10 +269,11 @@ public class NewMainField extends Canvas implements Serializable,
 							fe.mouseReleased(e);
 							Card card1 = fe.showCard();
 							Card card2 = lastSelected.showCard();
-
-							fe.setCard(card2);
-							if (card1 != null)
-								getWaitingRoom().setCard(card1);
+							if (card2 != null) {
+								fe.setCard(card2);
+								if (card1 != null)
+									getWaitingRoom().setCard(card1);
+							}
 							Random_Zone randomSelect = (Random_Zone) lastSelected;
 							randomSelect.removeCard();
 							lastSelected = null;
@@ -301,6 +304,7 @@ public class NewMainField extends Canvas implements Serializable,
 						fe.mouseReleased(e);
 					}
 				}
+				lastSelected = null;
 			}
 		}
 

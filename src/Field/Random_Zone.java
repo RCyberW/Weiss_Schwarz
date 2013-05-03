@@ -224,7 +224,7 @@ public class Random_Zone extends FieldElement {
 
 	@Override
 	public Card showCard() {
-		return thisCard.get(thisCard.size() - 1);
+		return thisCard.size() > 0 ? thisCard.get(thisCard.size() - 1) : null;
 	}
 
 }
