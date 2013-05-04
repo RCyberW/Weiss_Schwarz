@@ -5,8 +5,14 @@ package Field;
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.Graphics;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import java.awt.event.MouseEvent;
 import java.util.ArrayList;
+
+import javax.swing.JMenuItem;
+import javax.swing.JPopupMenu;
+
 import CardAssociation.*;
 import Game.Player;
 
@@ -20,7 +26,7 @@ public class Level_Zone extends FieldElement {
 	public ArrayList<Card> levelZone;
 
 	private Card selected;
-	// private int swappedIndex;
+	private int swappedIndex;
 
 	public Level_Zone(String imageFileName, int xa, int ya, Player player) {
 		super(imageFileName, xa, ya, "Level", player);
@@ -114,11 +120,12 @@ public class Level_Zone extends FieldElement {
 		Card card = selectCard(e);
 		if (containCards() == false || card == null)
 			return;
-
+		selected = card;
 		associatedPlayer.getField().setSelected(card);
-
+		
 		if (e.getButton() == MouseEvent.BUTTON1) {
-			selected = card;
+		} else if (e.getButton() == MouseEvent.BUTTON3) {
+			constructPopup(e);
 		}
 		// TODO: swapping
 	}
@@ -133,7 +140,25 @@ public class Level_Zone extends FieldElement {
 
 	@Override
 	protected void constructPopup(MouseEvent e) {
-		// TODO Auto-generated method stub
-		
+		JPopupMenu popmenu = new JPopupMenu();
+
+		JMenuItem swapAction = new JMenuItem("to resolution area");
+		swapAction.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				Card temp = associatedPlayer.getField().getRandomZone().showCard();
+				associatedPlayer.getField().getRandomZone().removeCard();
+				
+				associatedPlayer.getField().getRandomZone().setCard(selected);
+				levelZone.remove(swappedIndex);
+				
+				levelZone.add(swappedIndex, temp);
+				
+				associatedPlayer.getField().repaintElements();
+			}
+		});
+		popmenu.add(swapAction);
+
+		popmenu.show(e.getComponent(), e.getX(), e.getY());
 	}
 }

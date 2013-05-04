@@ -152,6 +152,17 @@ public class Hand extends FieldElement {
 			}
 		});
 		popmenu.add(clockAction);
+		
+		JMenuItem resolveAction = new JMenuItem("to resolution area");
+		resolveAction.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				associatedPlayer.getField().getRandomZone().setCard(selected);
+				handCards.remove(selectedIndex);
+				associatedPlayer.getField().repaintElements();
+			}
+		});
+		popmenu.add(resolveAction);
 
 		popmenu.show(e.getComponent(), e.getX(), e.getY());
 	}
