@@ -85,8 +85,7 @@ public class Level_Zone extends FieldElement {
 
 			thisCard.setDisplay(true, true);
 			thisCard.toCanvas().setLocation(x, y - 50 * i);
-			if (selected != null
-					&& thisCard.getUniqueID().equals(selected.getUniqueID())) {
+			if (selected != null && thisCard.getUniqueID().equals(selected.getUniqueID())) {
 				// swappedIndex = i;
 				thisCard.toCanvas().setLocation(x + 10, y - 50 * i);
 			}
@@ -122,7 +121,7 @@ public class Level_Zone extends FieldElement {
 			return;
 		selected = card;
 		associatedPlayer.getField().setSelected(card);
-		
+
 		if (e.getButton() == MouseEvent.BUTTON1) {
 		} else if (e.getButton() == MouseEvent.BUTTON3) {
 			constructPopup(e);
@@ -147,14 +146,17 @@ public class Level_Zone extends FieldElement {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				Card temp = associatedPlayer.getField().getRandomZone().showCard();
-				associatedPlayer.getField().getRandomZone().removeCard();
-				
-				associatedPlayer.getField().getRandomZone().setCard(selected);
-				levelZone.remove(swappedIndex);
-				
-				levelZone.add(swappedIndex, temp);
-				
-				associatedPlayer.getField().repaintElements();
+				if (temp != null && selected != null) {
+					associatedPlayer.getField().getRandomZone().removeCard();
+					associatedPlayer.getField().getRandomZone().setCard(selected);
+					
+					temp.setCurrentState(State.REST);
+					
+					levelZone.remove(swappedIndex);
+					levelZone.add(swappedIndex, temp);
+
+					associatedPlayer.getField().repaintElements();
+				}
 			}
 		});
 		popmenu.add(swapAction);
