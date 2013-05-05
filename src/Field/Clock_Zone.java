@@ -164,8 +164,7 @@ public class Clock_Zone extends FieldElement {
 					&& thisCard.getUniqueID().equals(selected.getUniqueID())
 					&& swappedIndex == i) {
 				swappedIndex = i;
-				thisCard.toCanvas().setLocation(
-						(int) (x + 110 * i * Game.gameScale), y);
+				thisCard.toCanvas().setLocation((int) (x + 110 * i * Game.gameScale), y);
 			} else {
 				thisCard.toCanvas().setLocation(
 						(int) (x + 110 * i * Game.gameScale), y);

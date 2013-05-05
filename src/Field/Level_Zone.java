@@ -5,6 +5,7 @@ package Field;
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.Graphics;
+import java.awt.Point;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.MouseEvent;
@@ -14,6 +15,7 @@ import javax.swing.JMenuItem;
 import javax.swing.JPopupMenu;
 
 import CardAssociation.*;
+import Game.Game;
 import Game.Player;
 
 public class Level_Zone extends FieldElement {
@@ -73,6 +75,17 @@ public class Level_Zone extends FieldElement {
 		return null;
 	}
 
+	public boolean contains(Point p) {
+		for (int i = 0; i < levelZone.size(); i++) {
+			Card card = levelZone.get(i);
+			if (card.getCardBound().contains(p)) {
+				return true;
+			}
+		}
+
+		return false;
+	}
+	
 	@Override
 	public boolean containCards() {
 		return levelZone.size() > 0;
@@ -84,10 +97,10 @@ public class Level_Zone extends FieldElement {
 			Card thisCard = levelZone.get(i);
 
 			thisCard.setDisplay(true, true);
-			thisCard.toCanvas().setLocation(x, y - 50 * i);
+			thisCard.toCanvas().setLocation((int)(x* Game.gameScale), y - 50 * i );
 			if (selected != null && thisCard.getUniqueID().equals(selected.getUniqueID())) {
 				// swappedIndex = i;
-				thisCard.toCanvas().setLocation(x + 10, y - 50 * i);
+				// thisCard.toCanvas().setLocation(x + 10, y - 50 * i);
 			}
 			thisCard.toCanvas().paint(g);
 		}
@@ -102,13 +115,22 @@ public class Level_Zone extends FieldElement {
 
 	@Override
 	public Card selectCard(MouseEvent e) {
+		String output;
 		if (containCards()) {
-			for (int i = levelZone.size() - 1; i >= 0; i--) {
-				Card c = levelZone.get(i);
-				if (c.getCardBound().contains(e.getX(), e.getY())) {
+			for (int i = 0; i < levelZone.size(); i++) {
+				Card card = levelZone.get(i);
+				output = "LEVEL: x = " + e.getX() + ", y = " + e.getY() + " "
+						+ card.getCardName() + " : " + card.getCardBound().x
+						+ " + " + card.getCardBound().width + " , "
+						+ card.getCardBound().y + " + "
+						+ card.getCardBound().height;
+				if (card.getCardBound().contains(e.getPoint())) {
+					output += " match! " + swappedIndex;
+					System.out.println(output);
 					// levelZone.remove(i);
-					return c;
+					return card;
 				}
+				System.out.println(output);
 			}
 		}
 		return null;

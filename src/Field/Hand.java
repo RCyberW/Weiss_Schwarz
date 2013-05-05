@@ -153,6 +153,17 @@ public class Hand extends FieldElement {
 		});
 		popmenu.add(clockAction);
 		
+//		JMenuItem removePlease = new JMenuItem("removePlease");
+//		removePlease.addActionListener(new ActionListener() {
+//			@Override
+//			public void actionPerformed(ActionEvent e) {
+//				associatedPlayer.getField().getLevelZone().setCard(selected);
+//				handCards.remove(selectedIndex);
+//				associatedPlayer.getField().repaintElements();
+//			}
+//		});
+//		popmenu.add(removePlease);
+		
 		JMenuItem resolveAction = new JMenuItem("to resolution area");
 		resolveAction.addActionListener(new ActionListener() {
 			@Override
