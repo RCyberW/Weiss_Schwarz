@@ -7,6 +7,10 @@
  * 		game. It also keeps track of the player records.
  */
 
+/**
+ * if user does not have deck, prompt them to make a deck
+ */
+
 package Game;
 
 import java.awt.BorderLayout;
@@ -140,7 +144,11 @@ public class Player implements Serializable {
 		} else {
 			System.out.println("Not A Directory");
 		}
-
+		
+		if(playerDecks.isEmpty()) {
+			return ;
+		}
+		
 		// selecting a deck
 		for (String deckTitle : playerDecks) {
 			final JButton deckSelect = new JButton(deckTitle);
@@ -394,6 +402,8 @@ public class Player implements Serializable {
 		displayDecks();
 
 		int dimension = (int) Math.ceil(Math.sqrt(playerDecks.size()));
+		if(dimension <= 0 )
+			dimension = 1;
 		deckPane.setLayout(new GridLayout(dimension, dimension));
 
 		deckPane.addFocusListener(new FocusListener() {
