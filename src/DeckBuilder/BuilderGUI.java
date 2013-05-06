@@ -1325,22 +1325,22 @@ public class BuilderGUI extends JFrame {
 		else
 			climaxCountText.setForeground(Color.BLACK);
 
-		if (currentDeck.getNumLevel0() < 14 || currentDeck.getNumLevel0() > 16)
+		if (currentDeck.getNumLevel0() < 14 || currentDeck.getNumLevel0() > 18)
 			lv0CountText.setForeground(Color.RED);
 		else
 			lv0CountText.setForeground(Color.BLACK);
 
-		if (currentDeck.getNumLevel1() < 12 || currentDeck.getNumLevel1() > 14)
+		if (currentDeck.getNumLevel1() < 10 || currentDeck.getNumLevel1() > 14)
 			lv1CountText.setForeground(Color.RED);
 		else
 			lv1CountText.setForeground(Color.BLACK);
 
-		if (currentDeck.getNumLevel2() < 6 || currentDeck.getNumLevel2() > 8)
+		if (currentDeck.getNumLevel2() < 8 || currentDeck.getNumLevel2() > 12)
 			lv2CountText.setForeground(Color.RED);
 		else
 			lv2CountText.setForeground(Color.BLACK);
 
-		if (currentDeck.getNumLevel3() < 4 || currentDeck.getNumLevel3() > 6)
+		if (currentDeck.getNumLevel3() < 4 || currentDeck.getNumLevel3() > 8)
 			lv3CountText.setForeground(Color.RED);
 		else
 			lv3CountText.setForeground(Color.BLACK);

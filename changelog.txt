@@ -1,4 +1,10 @@
 Changelog:
+05/05/2013 (WSV 2.6.15)
+- Added -Project DIVA- f, Nanoha The MOVIE 2nd A's Boosters
+- Added -Project DIVA- f, Love Live!, Vividred Operation Trial Decks
+- Interface updates
+- New solo test feature (in alpha state)
+
 02/24/2013 (WSDB Beta 1.5.14)
 - Added P4U Extra Booster and Sword Art Online
 - Various interface updates

@@ -77,7 +77,7 @@ public class Player implements Serializable {
 	// Player Constructor initializes all UI fields
 	public Player() {
 		playerID = (int) (Math.random() * 10000);
-		userFrame = new JFrame("Testificate #" + playerID);
+		userFrame = new JFrame("Weiss Schwarz Virtual #" + playerID);
 		tabbedPane = new JTabbedPane();
 		deckPane = new JPanel();
 		loggedOut = true;
@@ -394,6 +394,7 @@ public class Player implements Serializable {
 		displayDecks();
 
 		int dimension = (int) Math.ceil(Math.sqrt(playerDecks.size()));
+		if (dimension <= 0) dimension = 1;
 		deckPane.setLayout(new GridLayout(dimension, dimension));
 
 		deckPane.addFocusListener(new FocusListener() {
