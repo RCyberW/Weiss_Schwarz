@@ -818,7 +818,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener, C
 
 						if (currentState == State.REST || currentState == State.FD_REST) {
 							at.translate((after.getHeight(null) - before.getWidth(null)) / 2, (after.getWidth(null) - before.getHeight(null)) / 2);
-							if(getT() == Type.CLIMAX) {
+							if(getT() == Type.CLIMAX && currentState == State.REST) {
 								at.rotate(Math.toRadians(-90), before.getWidth(null) / 2, before.getHeight(null) / 2);
 							} else {
 								at.rotate(Math.toRadians(90), before.getWidth(null) / 2, before.getHeight(null) / 2);

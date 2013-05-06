@@ -250,10 +250,17 @@ public class NewMainField extends Canvas implements Serializable,
 							fe.mouseReleased(e);
 							Card card1 = fe.showCard();
 							Card card2 = lastSelected.showCard();
+							
+							CardAssociation.State card1State = card1 != null ? card1.getCurrentState() : null;
+							CardAssociation.State card2State = card2 != null ? card2.getCurrentState() : null;
 
 							fe.setCard(card2);
+							if (card2 != null) 
+								card2.setCurrentState(card2State);
 
 							lastSelected.setCard(card1);
+							if (card1 != null)
+								card1.setCurrentState(card1State);
 
 							repaintElements();
 							break;
