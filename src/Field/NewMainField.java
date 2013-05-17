@@ -339,22 +339,35 @@ public class NewMainField extends Canvas implements Serializable,
 		Graphics2D g2 = (Graphics2D) g;
 		g2.drawImage(bg, 0, 0, null);
 		for (FieldElement e : elements) {
-			if (lastSelected != null
-					&& e.toString().equals(lastSelected.toString())) {
-
-				Card card = lastSelected.showCard();
-
-				Color curr = g2.getColor();
-				g2.setColor(Color.RED);
-				Stroke oldStroke = g2.getStroke();
-				g2.setStroke(new BasicStroke(3));
-				g2.drawRect((int)card.getCardBound().getX(), (int)card.getCardBound()
-						.getY(), (int)card.getCardBound().getWidth(), (int)card.getCardBound().getHeight());
-				g2.setStroke(oldStroke);
-				g2.setColor(curr);
-			}
+			/*
+			 * if (lastSelected != null &&
+			 * e.toString().equals(lastSelected.toString())) {
+			 * 
+			 * Card card = lastSelected.showCard();
+			 * 
+			 * Color curr = g2.getColor(); g2.setColor(Color.RED); Stroke
+			 * oldStroke = g2.getStroke(); g2.setStroke(new BasicStroke(3));
+			 * g2.drawRect((int)card.getCardBound().getX(),
+			 * (int)card.getCardBound() .getY(),
+			 * (int)card.getCardBound().getWidth(),
+			 * (int)card.getCardBound().getHeight()); g2.setStroke(oldStroke);
+			 * g2.setColor(curr); }
+			 */
 			e.paint(g2, selectedCard);
 		}
+
+		if (latestSelectedCard != null) {
+			Color curr = g2.getColor();
+			g2.setColor(Color.RED);
+			Stroke oldStroke = g2.getStroke();
+			g2.setStroke(new BasicStroke(3));
+			g2.drawRect((int) latestSelectedCard.getCardBound().getX(), (int) latestSelectedCard
+					.getCardBound().getY(), (int) latestSelectedCard.getCardBound()
+					.getWidth(), (int) latestSelectedCard.getCardBound().getHeight());
+			g2.setStroke(oldStroke);
+			g2.setColor(curr);
+		}
+
 		if (selectedCard != null) {
 			// selectedCard.toCanvas().paint(g2);
 		}

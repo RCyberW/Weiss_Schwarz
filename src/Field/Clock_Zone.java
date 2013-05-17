@@ -2,10 +2,13 @@ package Field;
 
 // Clock_Zone field display information
 
+import java.awt.BasicStroke;
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.Graphics;
+import java.awt.Graphics2D;
 import java.awt.Point;
+import java.awt.Stroke;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.MouseEvent;
@@ -193,6 +196,22 @@ public class Clock_Zone extends FieldElement {
 			}
 			thisCard.toCanvas().paint(g);
 		}
+		
+		if(shiftMode) {
+			Graphics2D g2 = (Graphics2D) g;
+			Card thisCard = clockZone.get(swappedIndex);
+			
+			Color curr = g2.getColor();
+			g2.setColor(Color.BLUE);
+			Stroke oldStroke = g2.getStroke();
+			g2.setStroke(new BasicStroke(6));
+			g2.drawRect((int) thisCard.getCardBound().getX(), (int) thisCard
+					.getCardBound().getY(), (int) thisCard.getCardBound()
+					.getWidth(), (int) thisCard.getCardBound().getHeight());
+			g2.setStroke(oldStroke);
+			g2.setColor(curr);
+		}
+		
 		if (!containCards()) {
 			g.drawImage(bi, x, y, null);
 		}
@@ -255,6 +274,8 @@ public class Clock_Zone extends FieldElement {
 			constructPopup(e);
 			// shift(associatedPlayer.getHand().getSelected());
 		}
+		
+		setShiftMode(false);
 	}
 
 	public boolean isList() {
