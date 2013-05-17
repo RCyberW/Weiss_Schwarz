@@ -1,11 +1,13 @@
 package Field;
 
+import java.awt.BasicStroke;
 import java.awt.Canvas;
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
 import java.awt.Rectangle;
+import java.awt.Stroke;
 import java.awt.TexturePaint;
 import java.awt.event.FocusEvent;
 import java.awt.event.FocusListener;
@@ -231,31 +233,33 @@ public class NewMainField extends Canvas implements Serializable,
 					if (fe.contains(e.getPoint())) {
 						fe.mouseReleased(e);
 						lastSelected = fe;
-			System.out.println(lastSelected.toString());
+						System.out.println(lastSelected.toString());
 						repaintElements();
 						break;
 					}
 				}
 			} else {
-			System.out.println(lastSelected.toString());
+				System.out.println(lastSelected.toString());
 				if (lastSelected.toString().equals("Front-Row")
 						|| lastSelected.toString().equals("Back-Row")) {
 					// swap
 					System.out.println("SWAPPING PREP...");
 					for (FieldElement fe : elements) {
 						if (fe.contains(e.getPoint())
-								&& (fe.toString().equals("Front-Row")
-										|| fe.toString().equals("Back-Row") )) {
-//										|| fe.toString().equals("Resolution Area"))) {
+								&& (fe.toString().equals("Front-Row") || fe
+										.toString().equals("Back-Row"))) {
+							// || fe.toString().equals("Resolution Area"))) {
 							fe.mouseReleased(e);
 							Card card1 = fe.showCard();
 							Card card2 = lastSelected.showCard();
-							
-							CardAssociation.State card1State = card1 != null ? card1.getCurrentState() : null;
-							CardAssociation.State card2State = card2 != null ? card2.getCurrentState() : null;
+
+							CardAssociation.State card1State = card1 != null ? card1
+									.getCurrentState() : null;
+							CardAssociation.State card2State = card2 != null ? card2
+									.getCurrentState() : null;
 
 							fe.setCard(card2);
-							if (card2 != null) 
+							if (card2 != null)
 								card2.setCurrentState(card2State);
 
 							lastSelected.setCard(card1);
@@ -335,6 +339,20 @@ public class NewMainField extends Canvas implements Serializable,
 		Graphics2D g2 = (Graphics2D) g;
 		g2.drawImage(bg, 0, 0, null);
 		for (FieldElement e : elements) {
+			if (lastSelected != null
+					&& e.toString().equals(lastSelected.toString())) {
+
+				Card card = lastSelected.showCard();
+
+				Color curr = g2.getColor();
+				g2.setColor(Color.RED);
+				Stroke oldStroke = g2.getStroke();
+				g2.setStroke(new BasicStroke(3));
+				g2.drawRect((int)card.getCardBound().getX(), (int)card.getCardBound()
+						.getY(), (int)card.getCardBound().getWidth(), (int)card.getCardBound().getHeight());
+				g2.setStroke(oldStroke);
+				g2.setColor(curr);
+			}
 			e.paint(g2, selectedCard);
 		}
 		if (selectedCard != null) {

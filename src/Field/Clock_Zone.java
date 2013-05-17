@@ -30,6 +30,7 @@ public class Clock_Zone extends FieldElement {
 
 	private Card selected;
 	private int swappedIndex;
+	private boolean shiftMode;
 
 	public Clock_Zone(String imageFileName, int xa, int ya, Player player) {
 		super(imageFileName, xa, ya, "Clock", player);
@@ -59,55 +60,75 @@ public class Clock_Zone extends FieldElement {
 		return clockZone.size();
 	}
 
-	public Card shift(Card insert) {
-		Card card = selected;
-		Card temp = null;
+	public void shift(Card insert) {
+		if (insert != null && selected != null) {
+			associatedPlayer.getHand().setCard(selected);
+			
+			clockZone.remove(swappedIndex);
+			clockZone.add(swappedIndex, insert);
 
-		temp = insert;
-		insert = card;
-		card = temp;
-
-		// card = removeCard(selected);
-		// levelZone.add(swappedIndex, insert);
-
-		return card;
+			associatedPlayer.getField().repaintElements();
+		}
 	}
 
 	protected void constructPopup(MouseEvent e) {
 		JPopupMenu popmenu = new JPopupMenu();
 
-		JMenuItem waitingAction = new JMenuItem("to waiting room");
-		waitingAction.addActionListener(new ActionListener() {
-			@Override
-			public void actionPerformed(ActionEvent e) {
-				toWaitingRoom();
-				associatedPlayer.getField().repaintElements();
-			}
-		});
-		popmenu.add(waitingAction);
-
-		JMenuItem handAction = new JMenuItem("to hand");
-		handAction.addActionListener(new ActionListener() {
-			@Override
-			public void actionPerformed(ActionEvent e) {
-				toHand();
-				associatedPlayer.getField().repaintElements();
-			}
-		});
-		popmenu.add(handAction);
-
-		System.out.println("CLOCK_ZONE selectedIndex = " + clockZone.indexOf(selected));
-
-		if (clockZone.size() >= 7 && clockZone.indexOf(selected) < 7) {
-			JMenuItem levelAction = new JMenuItem("to level");
-			levelAction.addActionListener(new ActionListener() {
+		if (isShiftMode()) {
+			JMenuItem shiftAction = new JMenuItem("cancel shift");
+			shiftAction.addActionListener(new ActionListener() {
 				@Override
 				public void actionPerformed(ActionEvent e) {
-					toLevel();
+					setShiftMode(false);
 					associatedPlayer.getField().repaintElements();
 				}
 			});
-			popmenu.add(levelAction);
+			popmenu.add(shiftAction);
+		} else {
+			JMenuItem waitingAction = new JMenuItem("to waiting room");
+			waitingAction.addActionListener(new ActionListener() {
+				@Override
+				public void actionPerformed(ActionEvent e) {
+					toWaitingRoom();
+					associatedPlayer.getField().repaintElements();
+				}
+			});
+			popmenu.add(waitingAction);
+
+			JMenuItem handAction = new JMenuItem("to hand");
+			handAction.addActionListener(new ActionListener() {
+				@Override
+				public void actionPerformed(ActionEvent e) {
+					toHand();
+					associatedPlayer.getField().repaintElements();
+				}
+			});
+			popmenu.add(handAction);
+
+			System.out.println("CLOCK_ZONE selectedIndex = "
+					+ clockZone.indexOf(selected));
+
+			if (clockZone.size() >= 7 && clockZone.indexOf(selected) < 7) {
+				JMenuItem levelAction = new JMenuItem("to level");
+				levelAction.addActionListener(new ActionListener() {
+					@Override
+					public void actionPerformed(ActionEvent e) {
+						toLevel();
+						associatedPlayer.getField().repaintElements();
+					}
+				});
+				popmenu.add(levelAction);
+			}
+
+			JMenuItem shiftAction = new JMenuItem("shift");
+			shiftAction.addActionListener(new ActionListener() {
+				@Override
+				public void actionPerformed(ActionEvent e) {
+					setShiftMode(true);
+					associatedPlayer.getField().repaintElements();
+				}
+			});
+			popmenu.add(shiftAction);
 		}
 
 		popmenu.show(e.getComponent(), e.getX(), e.getY());
@@ -164,7 +185,8 @@ public class Clock_Zone extends FieldElement {
 					&& thisCard.getUniqueID().equals(selected.getUniqueID())
 					&& swappedIndex == i) {
 				swappedIndex = i;
-				thisCard.toCanvas().setLocation((int) (x + 110 * i * Game.gameScale), y);
+				thisCard.toCanvas().setLocation(
+						(int) (x + 110 * i * Game.gameScale), y);
 			} else {
 				thisCard.toCanvas().setLocation(
 						(int) (x + 110 * i * Game.gameScale), y);
@@ -245,5 +267,13 @@ public class Clock_Zone extends FieldElement {
 
 	public int getCount() {
 		return clockZone.size();
+	}
+
+	public boolean isShiftMode() {
+		return shiftMode;
+	}
+
+	public void setShiftMode(boolean shiftMode) {
+		this.shiftMode = shiftMode;
 	}
 }

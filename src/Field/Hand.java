@@ -282,7 +282,18 @@ public class Hand extends FieldElement {
 		if (e.getButton() == MouseEvent.BUTTON3) {
 			constructPopup(e);
 		} else if (e.getButton() == MouseEvent.BUTTON1) {
+			Clock_Zone tempClock = associatedPlayer.getField().getClockZone();
+			
+			if(tempClock.isShiftMode()) {
+				System.out.println("HAND SHIFTING");
+				tempClock.shift(selected);
+				associatedPlayer.getField().repaintElements();
+				handCards.remove(selectedIndex);
+				//handCards.add(card);
+			}
+			
 			repaint();
+			
 		}
 		// selected = card;
 
