@@ -29,7 +29,7 @@ public class Waiting_Room extends FieldElement {
 	public ArrayList<Card> waitingRoom;
 
 	public Waiting_Room(String imageFileName, int xa, int ya, Player player) {
-		super(imageFileName, xa, ya, "Waiting-Room", player);
+		super(imageFileName, xa, ya, "Waiting room", player);
 
 		waitingRoom = new ArrayList<Card>();
 	}
@@ -87,7 +87,7 @@ public class Waiting_Room extends FieldElement {
 		g.setColor(Color.BLUE);
 
 		// g.drawString(zoneName, x + 10, y + 20);
-		g.drawString("Waiting room: " + waitingRoom.size() + "", this.x,
+		g.drawString(zoneName + ": " + waitingRoom.size() + "", this.x,
 				this.y - 10);
 	}
 

@@ -86,7 +86,7 @@ public class Back_Row extends FieldElement {
 		g.setFont(new Font("TimesRoman", Font.PLAIN, 12));
 		g.setColor(Color.BLUE);
 
-		g.drawString(zoneName, x + 10, y + 20);
+		// g.drawString(zoneName, x + 10, y + 20);
 	}
 
 	// @Override
