@@ -59,14 +59,17 @@ public class MainClass {
 
 		currentDeck = new Deck();
 		currentDeck.loadRaw(new File("Deck/" + selectedDeck), cardHolder);
-		System.out.println(selectedDeck + " has " + currentDeck.getPlayingDeck().size() + " cards");
+		System.out.println(selectedDeck + " has "
+				+ currentDeck.getPlayingDeck().size() + " cards");
 
 		for (int i = 0; i < currentDeck.getCards().size(); i++) {
 			Image image;
 			try {
 				image = currentDeck.getCards().get(i).getCardImage();
 				// ImageIcon img = new ImageIcon(image);
-				ImageIcon img = new ImageIcon(image.getScaledInstance((int) (image.getWidth(null)), (int) (image.getHeight(null)), Image.SCALE_SMOOTH));
+				ImageIcon img = new ImageIcon(image.getScaledInstance(
+						(int) (image.getWidth(null)),
+						(int) (image.getHeight(null)), Image.SCALE_SMOOTH));
 				contentPanel.add(new JLabel(img));
 			} catch (IOException e1) {
 				e1.printStackTrace();
@@ -74,7 +77,16 @@ public class MainClass {
 
 		}
 		
-		final JPanel internalPanel = contentPanel;
+		//contentPanel.revalidate();
+		//contentPanel.validate();
+		
+		// internalPanel.setPreferredSize(internalPanel.getPreferredSize());
+		
+		
+		
+		System.out.println("contentPanel ("
+				+ contentPanel.getPreferredSize().getWidth() + " x "
+				+ contentPanel.getPreferredSize().getHeight() + ")");
 
 		JButton saveImg = new JButton("Export as image");
 
@@ -84,13 +96,15 @@ public class MainClass {
 			public void actionPerformed(ActionEvent ae) {
 				try {
 					JFrame win = new JFrame();
-					win.setContentPane(internalPanel);
-					win.paint(internalPanel.getGraphics());
-					Dimension size = internalPanel.getSize();
-					BufferedImage image = new BufferedImage((int) size.getWidth(), (int) size.getHeight(), BufferedImage.TYPE_INT_RGB);
+					win.setContentPane(contentPanel);
+					win.paint(contentPanel.getGraphics());
+					Dimension size = contentPanel.getPreferredSize();
+					BufferedImage image = new BufferedImage(
+							(int) size.getWidth(), (int) size.getHeight(),
+							BufferedImage.TYPE_INT_RGB);
 
 					Graphics g = image.getGraphics();
-					internalPanel.paint(g);
+					contentPanel.paint(g);
 					// g.dispose();
 
 					ImageIO.write(image, "png", new File(selectedDeck + ".png"));
@@ -103,9 +117,7 @@ public class MainClass {
 
 		saveImg.addActionListener(listener2);
 
-		
-
-		testFrame.setContentPane(contentPanel);
+		testFrame.setContentPane(new JPanel());
 		testFrame.add(saveImg);
 		testFrame.pack();
 		testFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
