@@ -412,7 +412,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 																.addComponent(
 																		soulLabel,
 																		GroupLayout.PREFERRED_SIZE,
-																		130,
+																		125,
 																		GroupLayout.PREFERRED_SIZE))
 												.addGroup(
 														layout.createSequentialGroup()
