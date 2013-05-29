@@ -11,7 +11,8 @@ public class CardIDCellRenderer extends DefaultTableCellRenderer {
 	public void setValue(Object value) {
 		if (value instanceof String) {
 			String val = (String) value;
-			setText(val.replace("_alt", ""));
+			val = val.replace("_alt", "").replace("_sign", "");
+			setText(val);
 		}
 	}
 }

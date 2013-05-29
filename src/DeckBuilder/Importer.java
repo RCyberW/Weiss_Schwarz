@@ -448,7 +448,15 @@ public class Importer {
 			System.out.println(c.getImageResource());
 			
 			String cid = st.columnString(fieldMap.get("cardid"));
-			c.setID((c.isAlternateArt() ? cid + "_alt" : cid));
+			if (c.isAlternateArt()) {
+				c.setID(cid+"_alt");
+			}
+			else if (c.isEPSign()) {
+				c.setID(cid+"_sign");
+			}
+			else {
+				c.setID(cid);
+			}
 			
 			if (!new File("src" + c.getImageResource()).exists()) {
 				// if (newCard.getImage().exists()) {

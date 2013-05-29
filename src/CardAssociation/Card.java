@@ -75,6 +75,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 	private ArrayList<Attribute> attributes;
 	private ArrayList<Card> associatedCards;
 	private boolean isAlternateArt;
+	private boolean isEPSign;
 
 	// game play properties
 	private State currentState;
@@ -269,6 +270,9 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 		if (resPath.contains("_holo") || resPath.contains("_alt")) {
 			setAlternateArt(true);
 		}
+		if (resPath.contains("_sign")) {
+			setEPSign(true);
+		}
 		// setName(id);
 	}
 
@@ -329,7 +333,7 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 		nameLabel.setEditable(false);
 		// nameLabel.setFont(font);
 
-		JTextField idLabel = new JTextField(id.replace("_alt", ""));
+		JTextField idLabel = new JTextField(id.replace("_alt", "").replace("_sign", ""));
 		idLabel.setEditable(false);
 		// idLabel.setFont(font);
 		
@@ -1029,6 +1033,14 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 
 	public boolean isAlternateArt() {
 		return isAlternateArt;
+	}
+
+	public boolean isEPSign() {
+		return isEPSign;
+	}
+
+	public void setEPSign(boolean isEPSign) {
+		this.isEPSign = isEPSign;
 	}
 
 	public ArrayList<Attribute> getAttributes() {

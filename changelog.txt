@@ -1,4 +1,8 @@
 Changelog:
+05/28/2013 (WSV 2.7.16)
+- Added PSYCHO-PASS and Little Busters! Anime
+- Solo test: shifting and card highlighting
+
 05/05/2013 (WSV 2.6.15)
 - Added -Project DIVA- f, Nanoha The MOVIE 2nd A's Boosters
 - Added -Project DIVA- f, Love Live!, Vividred Operation Trial Decks
