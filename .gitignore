@@ -1,4 +1,11 @@
 #################
+## Custom
+#################
+
+*.llog
+*.dec
+
+#################
 ## Eclipse
 #################
 
@@ -16,7 +23,6 @@ local.properties
 .classpath
 .settings/
 .loadpath
-*.llog
 
 # External tool builders
 .externalToolBuilders/
