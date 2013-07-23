@@ -66,7 +66,7 @@ public class Deck_Zone extends FieldElement {
 	public Card showCard() {
 		if (deckZone.size() > 0)
 			return deckZone.get(deckZone.size() - 1); // take a look at the top
-														// card of the deck
+		// card of the deck
 		return null;
 	}
 
@@ -113,7 +113,7 @@ public class Deck_Zone extends FieldElement {
 			}
 		});
 		popmenu.add(checkAction); // move to waiting
-									// room/top/bottom/reveal
+		// room/top/bottom/reveal
 		JMenuItem revealAction = new JMenuItem("reveal top");
 		revealAction.addActionListener(new ActionListener() {
 			@Override
@@ -176,8 +176,8 @@ public class Deck_Zone extends FieldElement {
 			 * Phase.ATTACK_PHASE) { Card stockCard =
 			 * deckZone.remove(deckZone.size() - 1);
 			 * associatedPlayer.getField().getRandomZone().setCard(stockCard); }
-			 * else if (associatedPlayer.getCurrentPhase() == Phase.MAIN_PHASE)
-			 * { drawCard(); }
+			 * else if (associatedPlayer.getCurrentPhase() == Phase.MAIN_PHASE) {
+			 * drawCard(); }
 			 */
 		} else if (e.getButton() == MouseEvent.BUTTON1) {
 
@@ -209,8 +209,7 @@ public class Deck_Zone extends FieldElement {
 		g.setFont(new Font("TimesRoman", Font.PLAIN, 12));
 		g.setColor(Color.BLUE);
 
-		g.drawString("Card count: " + deckZone.size() + "", this.x,
-				this.y - 10);
+		g.drawString("Card count: " + deckZone.size() + "", this.x, this.y - 10);
 	}
 
 	@Override
@@ -237,7 +236,7 @@ public class Deck_Zone extends FieldElement {
 	public Card removeTop() {
 		return deckZone.remove(deckZone.size() - 1);
 	}
-	
+
 	public int getCount() {
 		return deckZone.size();
 	}

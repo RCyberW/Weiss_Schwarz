@@ -31,8 +31,8 @@ public class TCPClient
 
 		InputStreamReader(clientsoc.getInputStream()));
 
-		BufferedReader stdin = new BufferedReader(new InputStreamReader(
-				System.in));
+		BufferedReader stdin = new BufferedReader(
+			new InputStreamReader(System.in));
 
 		String userinput;
 

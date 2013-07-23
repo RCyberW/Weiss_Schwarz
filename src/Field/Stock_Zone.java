@@ -119,7 +119,8 @@ public class Stock_Zone extends FieldElement {
 		stockTop.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				associatedPlayer.getField().getWaitingRoom().setCard(stockZone.get(stockZone.size() - 1));
+				associatedPlayer.getField().getWaitingRoom()
+					.setCard(stockZone.get(stockZone.size() - 1));
 				stockZone.remove(stockZone.size() - 1);
 				associatedPlayer.getField().repaintElements();
 			}
@@ -130,12 +131,13 @@ public class Stock_Zone extends FieldElement {
 		stockBot.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				associatedPlayer.getField().getWaitingRoom().setCard(stockZone.get(0));
+				associatedPlayer.getField().getWaitingRoom()
+					.setCard(stockZone.get(0));
 				stockZone.remove(0);
 				associatedPlayer.getField().repaintElements();
 			}
 		});
-		popmenu.add(stockBot); 
+		popmenu.add(stockBot);
 
 		popmenu.show(e.getComponent(), e.getX(), e.getY());
 	}

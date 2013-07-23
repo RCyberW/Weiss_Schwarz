@@ -115,7 +115,8 @@ public class Random_Zone extends FieldElement {
 			if (isTop)
 				associatedPlayer.getField().getDeckZone().setCard(thisCard.get(i));
 			else
-				associatedPlayer.getField().getDeckZone().setBotCard(thisCard.get(i));
+				associatedPlayer.getField().getDeckZone()
+					.setBotCard(thisCard.get(i));
 		}
 		thisCard.clear();
 		associatedPlayer.getField().repaint();

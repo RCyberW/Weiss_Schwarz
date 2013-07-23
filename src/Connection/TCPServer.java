@@ -1,4 +1,5 @@
 package Connection;
+
 import java.io.*;
 
 import java.net.*;
@@ -29,8 +30,8 @@ public class TCPServer
 
 		String inputline;
 
-		BufferedReader stdin = new BufferedReader(new InputStreamReader(
-				System.in));
+		BufferedReader stdin = new BufferedReader(
+			new InputStreamReader(System.in));
 
 		try
 

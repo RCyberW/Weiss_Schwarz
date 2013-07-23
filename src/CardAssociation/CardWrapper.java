@@ -51,11 +51,11 @@ public class CardWrapper {
 				dupCount++;
 				similarCards.add(c.clone());
 				return true;
-			}			
+			}
 		}
 		return false;
 	}
-	
+
 	public ArrayList<Card> getCards() {
 		return similarCards;
 	}

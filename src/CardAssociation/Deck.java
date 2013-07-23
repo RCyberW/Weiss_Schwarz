@@ -92,8 +92,8 @@ public class Deck {
 			if (cards.contains(referenceCard)) {
 				// if not, then add
 				// System.err.println(card.getName());
-				if (referenceCard.getCardCount() < Card
-						.getMaxInDeck(referenceCard) && toAdd) {
+				if (referenceCard.getCardCount() < Card.getMaxInDeck(referenceCard)
+					&& toAdd) {
 					referenceCard.addCount();
 					for (int i = 0; i < cards.size(); i++) {
 						Card tempCard = cards.get(i);
@@ -112,15 +112,14 @@ public class Deck {
 					return true;
 				} else if (verbose) {
 					System.out.println(referenceCard.getCardName()
-							+ " has maximum copies");
+						+ " has maximum copies");
 					// Warn the user that there are 4 copies existing
 					JOptionPane.showMessageDialog(
-							frame,
-							"There are already the maximum copies ("
-									+ Card.getMaxInDeck(referenceCard)
-									+ ") of " + referenceCard.getCardName()
-									+ " in the deck", "Max Copies",
-							JOptionPane.WARNING_MESSAGE);
+						frame,
+						"There are already the maximum copies ("
+							+ Card.getMaxInDeck(referenceCard) + ") of "
+							+ referenceCard.getCardName() + " in the deck",
+						"Max Copies", JOptionPane.WARNING_MESSAGE);
 				}
 			} else if (toAdd) {
 				// card does not exist, add
@@ -136,21 +135,21 @@ public class Deck {
 				return true;
 			} else if (verbose) {
 				System.out.println(referenceCard.getCardName()
-						+ " has maximum copies");
+					+ " has maximum copies");
 				// Warn the user that there are 4 copies existing
 				JOptionPane.showMessageDialog(
-						frame,
-						"There are already the maximum copies ("
-								+ Card.getMaxInDeck(referenceCard) + ") of "
-								+ referenceCard.getCardName() + " in the deck",
-						"Max Copies", JOptionPane.WARNING_MESSAGE);
+					frame,
+					"There are already the maximum copies ("
+						+ Card.getMaxInDeck(referenceCard) + ") of "
+						+ referenceCard.getCardName() + " in the deck", "Max Copies",
+					JOptionPane.WARNING_MESSAGE);
 			}
 		} else if (verbose) {
 			System.out.println("FULL DECK");
 			// Warn the user that it is a full deck
 			JOptionPane.showMessageDialog(frame,
-					"This deck already contain 50 cards!", "Full Deck",
-					JOptionPane.WARNING_MESSAGE);
+				"This deck already contain 50 cards!", "Full Deck",
+				JOptionPane.WARNING_MESSAGE);
 		}
 		return false;
 	}
@@ -181,8 +180,8 @@ public class Deck {
 					}
 				}
 			}
-			System.out.println(card.getCardName() + " has "
-					+ card.getCardCount() + " copies");
+			System.out.println(card.getCardName() + " has " + card.getCardCount()
+				+ " copies");
 			if (card.getCardCount() == 0) {
 				unique.remove(card);
 			}
@@ -246,8 +245,8 @@ public class Deck {
 
 	public void saveRaw(File file) {
 		try {
-			OutputStreamWriter fw = new OutputStreamWriter(
-					new FileOutputStream(file.getAbsolutePath()), "UTF-8");
+			OutputStreamWriter fw = new OutputStreamWriter(new FileOutputStream(
+				file.getAbsolutePath()), "UTF-8");
 			// FileWriter fw = new FileWriter(file.getAbsolutePath());
 			for (Card c : unique) {
 				for (int i = 0; i < c.getCardCount(); ++i)
@@ -262,7 +261,7 @@ public class Deck {
 	public void loadRaw(File file, HashMap<String, Card> dictionary) {
 		try {
 			InputStreamReader fr = new InputStreamReader(new FileInputStream(
-					file.getAbsolutePath()), "UTF-8");
+				file.getAbsolutePath()), "UTF-8");
 			s = new Scanner(fr);
 
 			java.util.Iterator<Card> valueList = dictionary.values().iterator();
@@ -275,9 +274,9 @@ public class Deck {
 
 				for (int i = 1; i < line.length(); i++) {
 					if ((Character.isLetter(line.charAt(i)) && Character
-							.isDigit(line.charAt(i - 1)))
-							|| (Character.isSpaceChar(line.charAt(i)) && Character
-									.isDigit(line.charAt(i - 1)))) {
+						.isDigit(line.charAt(i - 1)))
+						|| (Character.isSpaceChar(line.charAt(i)) && Character
+							.isDigit(line.charAt(i - 1)))) {
 						break;
 					} else {
 						pID += line.charAt(i);
@@ -289,8 +288,8 @@ public class Deck {
 				if (c == null) {
 					while (valueList.hasNext()) {
 						Card temp = valueList.next();
-						if (temp.meetsRequirement(pID, "", null, null, -1, -1,
-								null, -1, -1, "", "")) {
+						if (temp.meetsRequirement(pID, "", null, null, -1, -1, null,
+							-1, -1, "", "")) {
 							c = temp;
 						}
 					}

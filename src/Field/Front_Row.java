@@ -94,8 +94,6 @@ public class Front_Row extends FieldElement {
 		// g.drawString(zoneName, x + 10, y + 20);
 	}
 
-	// TODO: HIGH PRIORITY FIX THE REMOVING OF CARD WHEN SHOW
-
 	// @Override
 	// public Card selectCard(MouseEvent e) {
 	// if (containCards() && frontCard.getCardBound().contains(e.getPoint())) {

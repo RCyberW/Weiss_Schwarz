@@ -10,7 +10,7 @@
 /**
  * drag and drop (not possible currently, need research)
  * print deck with card translation and image (implementation)
- * select and copy card info
+ * mouse click/release has a half second delay
  */
 
 package DeckBuilder;
@@ -145,13 +145,13 @@ public class BuilderGUI extends JFrame {
 		searchBox = Box.createVerticalBox();
 		listBox = Box.createVerticalBox();
 		listBox.setBorder(BorderFactory.createCompoundBorder(
-				BorderFactory.createTitledBorder("Search Result"), null));
+			BorderFactory.createTitledBorder("Search Result"), null));
 		listBox.setPreferredSize(new Dimension(520, 500));
 		menu = new JMenuBar();
 		cardInfo = new JPanel();
 		deckList = Box.createHorizontalBox();
 		deckList.setBorder(BorderFactory.createCompoundBorder(
-				BorderFactory.createTitledBorder("Deck List"), null));
+			BorderFactory.createTitledBorder("Deck List"), null));
 
 		fc = new JFileChooser();
 
@@ -162,8 +162,7 @@ public class BuilderGUI extends JFrame {
 
 		if (!System.getProperty("os.name").toLowerCase().contains("mac")) {
 			try {
-				for (LookAndFeelInfo info : UIManager
-						.getInstalledLookAndFeels()) {
+				for (LookAndFeelInfo info : UIManager.getInstalledLookAndFeels()) {
 					if ("Nimbus".equals(info.getName())) {
 						UIManager.setLookAndFeel(info.getClassName());
 						break;
@@ -219,14 +218,14 @@ public class BuilderGUI extends JFrame {
 		final JComboBox typeList = new JComboBox(classifications);
 		typeList.setSelectedItem(null);
 
-		final String[] levelSelections = {"","0","1","2","3"};
+		final String[] levelSelections = { "", "0", "1", "2", "3" };
 		final JComboBox levelList = new JComboBox(levelSelections);
 		levelList.setSelectedItem(levelSelections[0]);
-		
-		final String[] soulSelections = {"","1","2","3"};
+
+		final String[] soulSelections = { "", "1", "2", "3" };
 		final JComboBox soulList = new JComboBox(soulSelections);
 		soulList.setSelectedItem(soulSelections[0]);
-		
+
 		Trigger[] triggerSelections = null;
 		triggerSelections = Trigger.values();
 		final JComboBox triggerList = new JComboBox(triggerSelections);
@@ -247,12 +246,11 @@ public class BuilderGUI extends JFrame {
 					resultList.clear();
 
 					/*
-					 * System.out.println(idSearch.getText() +
-					 * nameSearch.getText() + triggerSearch.getText() +
-					 * powerSearch.getText() + costSearch.getText() +
-					 * colorSearch.getText() + levelSearch.getText() +
-					 * traitSearch.getText() + typeSearch.getText() +
-					 * soulSearch.getText());
+					 * System.out.println(idSearch.getText() + nameSearch.getText() +
+					 * triggerSearch.getText() + powerSearch.getText() +
+					 * costSearch.getText() + colorSearch.getText() +
+					 * levelSearch.getText() + traitSearch.getText() +
+					 * typeSearch.getText() + soulSearch.getText());
 					 */
 
 					String cardID = idSearch.getText();
@@ -262,16 +260,15 @@ public class BuilderGUI extends JFrame {
 					CCode sColor = (CCode) colorList.getSelectedItem();
 					/*
 					 * String color = colorSearch.getText(); if
-					 * (color.equalsIgnoreCase("RED")) { sColor = CCode.RED; }
-					 * else if (color.equalsIgnoreCase("BLUE")) { sColor =
-					 * CCode.BLUE; } else if (color.equalsIgnoreCase("YELLOW"))
-					 * { sColor = CCode.YELLOW; } else if
-					 * (color.equalsIgnoreCase("GREEN")) { sColor = CCode.GREEN;
-					 * } else { sColor = null; }
+					 * (color.equalsIgnoreCase("RED")) { sColor = CCode.RED; } else
+					 * if (color.equalsIgnoreCase("BLUE")) { sColor = CCode.BLUE; }
+					 * else if (color.equalsIgnoreCase("YELLOW")) { sColor =
+					 * CCode.YELLOW; } else if (color.equalsIgnoreCase("GREEN")) {
+					 * sColor = CCode.GREEN; } else { sColor = null; }
 					 */
 
 					CardAssociation.Type sType = (CardAssociation.Type) typeList
-							.getSelectedItem();
+						.getSelectedItem();
 					/*
 					 * String type = typeSearch.getText(); if
 					 * (type.equalsIgnoreCase("CHARACTER")) { sType =
@@ -282,7 +279,7 @@ public class BuilderGUI extends JFrame {
 					 * CardAssociation.Type.EVENT; } else { sType = null; }
 					 */
 
-					//String level = levelSearch.getText();
+					// String level = levelSearch.getText();
 					String level = (String) levelList.getSelectedItem();
 					int sLevel;
 					try {
@@ -329,9 +326,8 @@ public class BuilderGUI extends JFrame {
 					String sAbility = abilitySearch.getText();
 
 					for (Card c : completeList) {
-						if (c.meetsRequirement(cardID, name, sColor, sType,
-								sLevel, sCost, sTrigger, sPower, sSoul, trait,
-								sAbility))
+						if (c.meetsRequirement(cardID, name, sColor, sType, sLevel,
+							sCost, sTrigger, sPower, sSoul, trait, sAbility))
 							resultList.add(c);
 					}
 
@@ -351,8 +347,7 @@ public class BuilderGUI extends JFrame {
 		 * numberInput); final JFormattedTextField costSearch = new
 		 * JFormattedTextField( numberInput); final JFormattedTextField
 		 * levelSearch = new JFormattedTextField( numberInput); final
-		 * JFormattedTextField soulSearch = new JFormattedTextField(
-		 * numberInput);
+		 * JFormattedTextField soulSearch = new JFormattedTextField( numberInput);
 		 */
 
 		JButton submitButton = new JButton("Submit");
@@ -413,9 +408,9 @@ public class BuilderGUI extends JFrame {
 				CCode sColor = (CCode) colorList.getSelectedItem();
 
 				CardAssociation.Type sType = (CardAssociation.Type) typeList
-						.getSelectedItem();
+					.getSelectedItem();
 
-				//String level = levelSearch.getText();
+				// String level = levelSearch.getText();
 				String level = (String) levelList.getSelectedItem();
 				int sLevel;
 				try {
@@ -441,7 +436,7 @@ public class BuilderGUI extends JFrame {
 				} catch (ParseException e1) {
 					sPower = -1;
 				}
-				//String soul = soulSearch.getText();
+				// String soul = soulSearch.getText();
 				String soul = (String) soulList.getSelectedItem();
 				int sSoul;
 				try {
@@ -455,7 +450,7 @@ public class BuilderGUI extends JFrame {
 
 				for (Card c : completeList) {
 					if (c.meetsRequirement(cardID, name, sColor, sType, sLevel,
-							sCost, sTrigger, sPower, sSoul, trait, sAbility))
+						sCost, sTrigger, sPower, sSoul, trait, sAbility))
 						resultList.add(c);
 				}
 
@@ -472,11 +467,11 @@ public class BuilderGUI extends JFrame {
 				abilitySearch.setText("");
 				powerSearch.setText("");
 				costSearch.setText("");
-				//soulSearch.setText("");
-				//levelSearch.setText("");
+				// soulSearch.setText("");
+				// levelSearch.setText("");
 				soulList.setSelectedItem(soulSelections[0]);
 				levelList.setSelectedItem(levelSelections[0]);
-				
+
 				colorList.setSelectedItem(null);
 				typeList.setSelectedItem(null);
 				triggerList.setSelectedItem(null);
@@ -654,24 +649,23 @@ public class BuilderGUI extends JFrame {
 	 * Building the card information pane
 	 * 
 	 * @param c
-	 *            Display the information of the selected Card c
+	 *           Display the information of the selected Card c
 	 */
 	private Box buildCardInfo(Card c) {
 		Box splitter = Box.createHorizontalBox();
 
 		JEditorPane link = new JEditorPane(
-				"text/html",
-				"Special thanks to <a href = 'http://littleakiba.com/tcg/weiss-schwarz'>littleakiba</a> for the translations.");
+			"text/html",
+			"Special thanks to <a href = 'http://littleakiba.com/tcg/weiss-schwarz'>littleakiba</a> for the translations.");
 		link.setEditable(false);
 		link.setOpaque(true);
 		link.addHyperlinkListener(new HyperlinkListener() {
 			public void hyperlinkUpdate(HyperlinkEvent hle) {
-				if (HyperlinkEvent.EventType.ACTIVATED.equals(hle
-						.getEventType())) {
+				if (HyperlinkEvent.EventType.ACTIVATED.equals(hle.getEventType())) {
 					Desktop desktop = Desktop.getDesktop();
 					try {
 						desktop.browse(new URI(
-								"http://littleakiba.com/tcg/weiss-schwarz"));
+							"http://littleakiba.com/tcg/weiss-schwarz"));
 					} catch (IOException e) {
 						e.printStackTrace();
 					} catch (URISyntaxException e) {
@@ -685,7 +679,7 @@ public class BuilderGUI extends JFrame {
 
 		int widthM = getWidth() / 2 - OFFSET;
 		int heightM = listBox.getPreferredSize().height - link.getHeight()
-				- optionBox.getHeight();
+			- optionBox.getHeight();
 		heightM = 250;
 
 		if (getPreferredSize().width / 2 - OFFSET > widthM)
@@ -701,11 +695,11 @@ public class BuilderGUI extends JFrame {
 		if (c == null) {
 		} else {
 			splitter.add(c.displayImage(
-					(int) (splitter.getPreferredSize().width * 0.22),
-					splitter.getPreferredSize().height));
+				(int) (splitter.getPreferredSize().width * 0.22),
+				splitter.getPreferredSize().height));
 			splitter.add(c.getInfoPane(
-					(int) (splitter.getPreferredSize().width * 0.78),
-					splitter.getPreferredSize().height));
+				(int) (splitter.getPreferredSize().width * 0.78),
+				splitter.getPreferredSize().height));
 			// splitter2.add(splitter);
 
 		}
@@ -715,7 +709,7 @@ public class BuilderGUI extends JFrame {
 		splitter3.add(splitter);
 		splitter3.add(link);
 		splitter3.add(optionBox);
-		
+
 		splitter3.revalidate();
 
 		// cardInfo.add(splitter3);
@@ -742,11 +736,14 @@ public class BuilderGUI extends JFrame {
 			public boolean isCellEditable(int rowIndex, int colIndex) {
 				return false;
 			}
-			
+
 			public TableCellRenderer getCellRenderer(int row, int column) {
-				if (column == 0) return cardIDRenderer;
-				else if (column >= 4) return numberRenderer;
-				else return super.getCellRenderer(row, column);
+				if (column == 0)
+					return cardIDRenderer;
+				else if (column >= 4)
+					return numberRenderer;
+				else
+					return super.getCellRenderer(row, column);
 			}
 		};
 
@@ -764,7 +761,7 @@ public class BuilderGUI extends JFrame {
 		resultListTable.setFillsViewportHeight(true);
 		// resultListTable.setAutoResizeMode(JTable.AUTO_RESIZE_OFF);
 		resultListTable.setRowSorter(new TableRowSorter<TableModel>(
-				resultListTable.getModel()));
+			resultListTable.getModel()));
 
 		// Handles right click selection
 		resultListTable.addMouseListener(new MouseAdapter() {
@@ -782,8 +779,7 @@ public class BuilderGUI extends JFrame {
 					int rowNumber = resultListTable.rowAtPoint(p);
 
 					// Get the ListSelectionModel of the JTable
-					ListSelectionModel model = resultListTable
-							.getSelectionModel();
+					ListSelectionModel model = resultListTable.getSelectionModel();
 
 					// Set the selected interval of rows. Using the "rowNumber"
 					// variable for the beginning and end selects only that one
@@ -792,8 +788,8 @@ public class BuilderGUI extends JFrame {
 
 					int row = resultListTable.getSelectedRow();
 					if (row > -1) {
-						selectedCard = cardHolder.get(resultListTable
-								.getValueAt(row, 0));
+						selectedCard = cardHolder.get(resultListTable.getValueAt(row,
+							0));
 						// selectedCard = allCards.get(row);
 					}
 					refresh("listBox");
@@ -807,32 +803,29 @@ public class BuilderGUI extends JFrame {
 			public void mousePressed(MouseEvent e) {
 				int row = resultListTable.getSelectedRow();
 				if (row > -1) {
-					selectedCard = cardHolder.get(resultListTable.getValueAt(
-							row, 0));
+					selectedCard = cardHolder.get(resultListTable.getValueAt(row, 0));
 					// selectedCard = allCards.get(row);
 				}
-				if (e.getClickCount() == 1
-						&& e.getButton() == MouseEvent.BUTTON1) {
+				if (e.getClickCount() == 1 && e.getButton() == MouseEvent.BUTTON1) {
 					refresh("listBox");
 				} /*
-				 * else if ((e.getClickCount() == 2 && e.getButton() ==
-				 * MouseEvent.BUTTON1) || (e.getClickCount() == 1 &&
-				 * e.getButton() == MouseEvent.BUTTON3) && row > -1) {
-				 * 
-				 * currentDeck.addCard(selectedCard); refresh("listBox"); }
-				 */
+					 * else if ((e.getClickCount() == 2 && e.getButton() ==
+					 * MouseEvent.BUTTON1) || (e.getClickCount() == 1 &&
+					 * e.getButton() == MouseEvent.BUTTON3) && row > -1) {
+					 * 
+					 * currentDeck.addCard(selectedCard); refresh("listBox"); }
+					 */
 			}
 
 			public void mouseReleased(MouseEvent e) {
 				int row = resultListTable.getSelectedRow();
 				if (row > -1) {
-					selectedCard = cardHolder.get(resultListTable.getValueAt(
-							row, 0));
+					selectedCard = cardHolder.get(resultListTable.getValueAt(row, 0));
 					// selectedCard = allCards.get(row);
 				}
 				if ((e.getClickCount() == 2 && e.getButton() == MouseEvent.BUTTON1)
-						|| (e.getClickCount() == 1 && e.getButton() == MouseEvent.BUTTON3)
-						&& row > -1) {
+					|| (e.getClickCount() == 1 && e.getButton() == MouseEvent.BUTTON3)
+					&& row > -1) {
 					if (currentDeck.addCard(selectedCard, true))
 						refresh("addToDeck");
 				}
@@ -853,20 +846,20 @@ public class BuilderGUI extends JFrame {
 			public void keyReleased(KeyEvent e) {
 				int row = resultListTable.getSelectedRow();
 				if (row > -1) {
-					selectedCard = cardHolder.get(resultListTable.getValueAt(
-							row, 0));
+					selectedCard = cardHolder.get(resultListTable.getValueAt(row, 0));
 				}
 				if (e.getKeyCode() == KeyEvent.VK_DELETE
-						|| e.getKeyCode() == KeyEvent.VK_MINUS) {
+					|| e.getKeyCode() == KeyEvent.VK_MINUS
+					|| e.getKeyCode() == KeyEvent.VK_SUBTRACT) {
 					if (currentDeck.removeCard(selectedCard))
 						refresh("removeFromDeck");
 				} else if (e.getKeyCode() == KeyEvent.VK_EQUALS
-						|| e.getKeyCode() == KeyEvent.VK_ADD
-						|| e.getKeyCode() == KeyEvent.VK_ENTER) {
+					|| e.getKeyCode() == KeyEvent.VK_ADD
+					|| e.getKeyCode() == KeyEvent.VK_ENTER) {
 					if (currentDeck.addCard(selectedCard, true))
 						refresh("addToDeck");
 				} else if (e.getKeyCode() == KeyEvent.VK_UP
-						|| e.getKeyCode() == KeyEvent.VK_DOWN) {
+					|| e.getKeyCode() == KeyEvent.VK_DOWN) {
 					refresh("listBox");
 				}
 			}
@@ -909,7 +902,7 @@ public class BuilderGUI extends JFrame {
 
 		resultPane = new JScrollPane(resultListTable);
 		resultPane
-				.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);
+			.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);
 
 		return resultPane;
 	}
@@ -917,7 +910,7 @@ public class BuilderGUI extends JFrame {
 	private void refreshResultList() {
 		resultListModel.setCardList(resultList);
 		resultListTable.scrollRectToVisible(resultListTable.getCellRect(0, 0,
-				true));
+			true));
 
 	}
 
@@ -925,7 +918,7 @@ public class BuilderGUI extends JFrame {
 	 * Building search result thumbnail
 	 * 
 	 * @param listPane
-	 *            The ResultList JScrollPane
+	 *           The ResultList JScrollPane
 	 * @return JScrollPane populated with thumbnail of the cards in the result
 	 *         list
 	 */
@@ -955,12 +948,11 @@ public class BuilderGUI extends JFrame {
 						// handler.exportAsDrag(comp, e, TransferHandler.COPY);
 
 						selectedCard = thisCard;
-						System.out.println("selected "
-								+ selectedCard.getCardName());
+						System.out.println("selected " + selectedCard.getCardName());
 						refresh("listBox2");
 
 						if ((e.getClickCount() == 2 && e.getButton() == MouseEvent.BUTTON1)
-								|| (e.getClickCount() == 1 && e.getButton() == MouseEvent.BUTTON3)) {
+							|| (e.getClickCount() == 1 && e.getButton() == MouseEvent.BUTTON3)) {
 							selectedCard = thisCard;
 							if (currentDeck.addCard(selectedCard, true))
 								refresh("addToDeck");
@@ -999,7 +991,7 @@ public class BuilderGUI extends JFrame {
 		resultArea.addChangeListener(new ChangeListener() {
 			public void stateChanged(ChangeEvent e) {
 				if (resultArea.getSelectedIndex() == resultArea
-						.indexOfComponent(resultThumbPane)) {
+					.indexOfComponent(resultThumbPane)) {
 					// resultThumbPane = buildResultThumbPane(resultPane);
 					refreshResultArea();
 				}
@@ -1027,8 +1019,7 @@ public class BuilderGUI extends JFrame {
 		plusOne.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				if (selectedCard != null
-						&& currentDeck.addCard(selectedCard, true)) {
+				if (selectedCard != null && currentDeck.addCard(selectedCard, true)) {
 					refresh("addToDeck");
 				}
 				previousFocus.requestFocus();
@@ -1041,7 +1032,7 @@ public class BuilderGUI extends JFrame {
 				if (selectedCard != null) {
 					currentDeck.addCard(selectedCard, true);
 					for (int i = 1; i < 4
-							&& currentDeck.addCard(selectedCard, false); ++i)
+						&& currentDeck.addCard(selectedCard, false); ++i)
 						;
 					refresh("addToDeck");
 				}
@@ -1052,8 +1043,7 @@ public class BuilderGUI extends JFrame {
 		minusOne.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				if (selectedCard != null
-						&& currentDeck.removeCard(selectedCard)) {
+				if (selectedCard != null && currentDeck.removeCard(selectedCard)) {
 					refresh("removeFromDeck");
 				}
 				previousFocus.requestFocus();
@@ -1064,8 +1054,7 @@ public class BuilderGUI extends JFrame {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				if (selectedCard != null) {
-					for (int i = 0; i < 4
-							&& currentDeck.removeCard(selectedCard); ++i)
+					for (int i = 0; i < 4 && currentDeck.removeCard(selectedCard); ++i)
 						;
 					refresh("removeFromDeck");
 				}
@@ -1101,27 +1090,27 @@ public class BuilderGUI extends JFrame {
 			public boolean isCellEditable(int rowIndex, int colIndex) {
 				return false;
 			}
+
 			public TableCellRenderer getCellRenderer(int row, int column) {
-				switch(column) {
-					case 1:
-						return cardIDRenderer;
-					case 5:
-					case 6:
-					case 8:
-					case 9:
-						return numberRenderer;
-					default:
-						return super.getCellRenderer(row, column);
+				switch (column) {
+				case 1:
+					return cardIDRenderer;
+				case 5:
+				case 6:
+				case 8:
+				case 9:
+					return numberRenderer;
+				default:
+					return super.getCellRenderer(row, column);
 				}
 			}
-			
+
 		};
 
-		deckListTable
-				.setPreferredScrollableViewportSize(new Dimension(600, 175));
+		deckListTable.setPreferredScrollableViewportSize(new Dimension(600, 175));
 		deckListTable.setFillsViewportHeight(true);
 		deckListTable.setRowSorter(new TableRowSorter<TableModel>(deckListTable
-				.getModel()));
+			.getModel()));
 
 		// Handles right click selection
 		deckListTable.addMouseListener(new MouseAdapter() {
@@ -1139,8 +1128,7 @@ public class BuilderGUI extends JFrame {
 					int rowNumber = deckListTable.rowAtPoint(p);
 
 					// Get the ListSelectionModel of the JTable
-					ListSelectionModel model = deckListTable
-							.getSelectionModel();
+					ListSelectionModel model = deckListTable.getSelectionModel();
 
 					// Set the selected interval of rows. Using the "rowNumber"
 					// variable for the beginning and end selects only that one
@@ -1149,8 +1137,8 @@ public class BuilderGUI extends JFrame {
 
 					int row = deckListTable.getSelectedRow();
 					if (row > -1) {
-						selectedCard = cardHolder.get(deckListTable.getValueAt(
-								row, 1));
+						selectedCard = cardHolder.get(deckListTable
+							.getValueAt(row, 1));
 						// selectedCard = allCards.get(row);
 					}
 					refresh("deckListSelect");
@@ -1164,27 +1152,24 @@ public class BuilderGUI extends JFrame {
 			public void mousePressed(MouseEvent e) {
 				int row = deckListTable.getSelectedRow();
 				if (row > -1)
-					selectedCard = cardHolder.get(deckListTable.getValueAt(row,
-							1));
-				if (e.getClickCount() == 1
-						&& e.getButton() == MouseEvent.BUTTON1) {
+					selectedCard = cardHolder.get(deckListTable.getValueAt(row, 1));
+				if (e.getClickCount() == 1 && e.getButton() == MouseEvent.BUTTON1) {
 					refresh("deckListSelect");
 				} /*
-				 * else if ((e.getClickCount() == 2 && e.getButton() ==
-				 * MouseEvent.BUTTON1) || (e.getClickCount() == 1 &&
-				 * e.getButton() == MouseEvent.BUTTON3) && row > -1) {
-				 * currentDeck.removeCard(selectedCard); refresh("deckList2"); }
-				 */
+					 * else if ((e.getClickCount() == 2 && e.getButton() ==
+					 * MouseEvent.BUTTON1) || (e.getClickCount() == 1 &&
+					 * e.getButton() == MouseEvent.BUTTON3) && row > -1) {
+					 * currentDeck.removeCard(selectedCard); refresh("deckList2"); }
+					 */
 			}
 
 			public void mouseReleased(MouseEvent e) {
 				int row = deckListTable.getSelectedRow();
 				if (row > -1)
-					selectedCard = cardHolder.get(deckListTable.getValueAt(row,
-							1));
+					selectedCard = cardHolder.get(deckListTable.getValueAt(row, 1));
 				if ((e.getClickCount() == 2 && e.getButton() == MouseEvent.BUTTON1)
-						|| (e.getClickCount() == 1 && e.getButton() == MouseEvent.BUTTON3)
-						&& row > -1) {
+					|| (e.getClickCount() == 1 && e.getButton() == MouseEvent.BUTTON3)
+					&& row > -1) {
 					if (currentDeck.removeCard(selectedCard))
 						refresh("removeFromDeck");
 				}
@@ -1211,28 +1196,26 @@ public class BuilderGUI extends JFrame {
 			}
 
 			/*
-			 * Key Explanations DELETE remove a card - remove a card = add a
-			 * card + add a card ENTER add a card
+			 * Key Explanations DELETE remove a card - remove a card = add a card +
+			 * add a card ENTER add a card
 			 * 
-			 * @see
-			 * java.awt.event.KeyListener#keyReleased(java.awt.event.KeyEvent)
+			 * @see java.awt.event.KeyListener#keyReleased(java.awt.event.KeyEvent)
 			 */
 			@Override
 			public void keyReleased(KeyEvent e) {
 				int row = deckListTable.getSelectedRow();
 				if (row > -1)
-					selectedCard = cardHolder.get(deckListTable.getValueAt(row,
-							1));
+					selectedCard = cardHolder.get(deckListTable.getValueAt(row, 1));
 				if (e.getKeyCode() == KeyEvent.VK_UP
-						|| e.getKeyCode() == KeyEvent.VK_DOWN)
+					|| e.getKeyCode() == KeyEvent.VK_DOWN)
 					refresh("deckListSelect");
 				if (e.getKeyCode() == KeyEvent.VK_DELETE
-						|| e.getKeyCode() == KeyEvent.VK_MINUS) {
+					|| e.getKeyCode() == KeyEvent.VK_MINUS) {
 					if (currentDeck.removeCard(selectedCard))
 						refresh("removeFromDeck");
 				} else if (e.getKeyCode() == KeyEvent.VK_EQUALS
-						|| e.getKeyCode() == KeyEvent.VK_ADD
-						|| e.getKeyCode() == KeyEvent.VK_ENTER) {
+					|| e.getKeyCode() == KeyEvent.VK_ADD
+					|| e.getKeyCode() == KeyEvent.VK_ENTER) {
 					if (currentDeck.addCard(selectedCard, true))
 						refresh("addToDeck");
 				}
@@ -1265,7 +1248,7 @@ public class BuilderGUI extends JFrame {
 		int powW = 60;
 
 		int usedSpace = cntW + indW + colW + typW + lvlW + cstW + trgW + solW
-				+ powW;
+			+ powW;
 
 		TableColumn cntCol = deckListTable.getColumnModel().getColumn(0);
 		cntCol.setPreferredWidth(cntW);
@@ -1301,7 +1284,8 @@ public class BuilderGUI extends JFrame {
 		});
 
 		deckPane = new JScrollPane(deckListTable);
-		deckPane.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);
+		deckPane
+			.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);
 
 		return deckPane;
 	}
@@ -1310,14 +1294,14 @@ public class BuilderGUI extends JFrame {
 		deckListModel.setDeckList(currentDeck.getUnique());
 		int i;
 		for (i = 0; i < deckListTable.getRowCount(); ++i) {
-			if (cardHolder.get(deckListTable.getValueAt(i, 1)).equals(
-					selectedCard))
+			if (cardHolder.get(deckListTable.getValueAt(i, 1))
+				.equals(selectedCard))
 				break;
 		}
 		if (i < deckListTable.getRowCount()) {
 			deckListTable.getSelectionModel().setSelectionInterval(i, i);
-			deckListTable.scrollRectToVisible(deckListTable.getCellRect(i, 0,
-					true));
+			deckListTable.scrollRectToVisible(deckListTable
+				.getCellRect(i, 0, true));
 		}
 	}
 
@@ -1387,8 +1371,7 @@ public class BuilderGUI extends JFrame {
 		newVert.add(new JLabel("Soul Triggers: "));
 		Box newVert2 = Box.createVerticalBox();
 
-		cardCountText = new JLabel(
-				String.valueOf(currentDeck.getCards().size()));
+		cardCountText = new JLabel(String.valueOf(currentDeck.getCards().size()));
 		climaxCountText = new JLabel(String.valueOf(currentDeck.getNumClimax()));
 		lv0CountText = new JLabel(String.valueOf(currentDeck.getNumLevel0()));
 		lv1CountText = new JLabel(String.valueOf(currentDeck.getNumLevel1()));
@@ -1471,7 +1454,7 @@ public class BuilderGUI extends JFrame {
 	 * Building deck thumbnail
 	 * 
 	 * @param deckListPane
-	 *            The ResultList JScrollPane
+	 *           The ResultList JScrollPane
 	 * @return JScrollPane populated with thumbnail of the cards in the deck
 	 */
 	private JScrollPane buildDeckThumbPane(JScrollPane deckListPane) {
@@ -1494,11 +1477,11 @@ public class BuilderGUI extends JFrame {
 				public void mouseReleased(MouseEvent e) {
 					selectedCard = thisCard;
 					System.out.println(thisCard.getCardName() + " has "
-							+ thisCard.getCardCount() + " copies");
+						+ thisCard.getCardCount() + " copies");
 					refresh("deckListSelect");
 
 					if ((e.getClickCount() == 2 && e.getButton() == MouseEvent.BUTTON1)
-							|| (e.getClickCount() == 1 && e.getButton() == MouseEvent.BUTTON3)) {
+						|| (e.getClickCount() == 1 && e.getButton() == MouseEvent.BUTTON3)) {
 						currentDeck.removeCard(selectedCard);
 						refresh("removeFromDeck");
 					}
@@ -1564,7 +1547,7 @@ public class BuilderGUI extends JFrame {
 	 * Action events that are necessary
 	 * 
 	 * @param e
-	 *            ActionEvent e
+	 *           ActionEvent e
 	 */
 	public void action(ActionEvent e) {
 		fc.setCurrentDirectory(new File("Deck"));
@@ -1603,18 +1586,16 @@ public class BuilderGUI extends JFrame {
 	 * Refresh view
 	 * 
 	 * @param source
-	 *            The string representation of the source called refresh
+	 *           The string representation of the source called refresh
 	 */
 	public void refresh(String source) {
 		// getContentPane().removeAll();
 		// validate();
 
-		if (source.equalsIgnoreCase("load")
-				|| source.equalsIgnoreCase("listBox")
-				|| source.equalsIgnoreCase("deckListSelect")
-				|| source.equalsIgnoreCase("search")
-				|| source.equalsIgnoreCase("new")
-				|| source.equalsIgnoreCase("listBox2")) {
+		if (source.equalsIgnoreCase("load") || source.equalsIgnoreCase("listBox")
+			|| source.equalsIgnoreCase("deckListSelect")
+			|| source.equalsIgnoreCase("search") || source.equalsIgnoreCase("new")
+			|| source.equalsIgnoreCase("listBox2")) {
 			cardInfo.removeAll();
 			cardInfo.revalidate();
 			cardInfo.add(buildCardInfo(selectedCard));
@@ -1629,10 +1610,9 @@ public class BuilderGUI extends JFrame {
 		}
 
 		if (source.equalsIgnoreCase("addToDeck")
-				|| source.equalsIgnoreCase("removeFromDeck")
-				|| source.equalsIgnoreCase("deckList2")
-				|| source.equalsIgnoreCase("load")
-				|| source.equalsIgnoreCase("new")) {
+			|| source.equalsIgnoreCase("removeFromDeck")
+			|| source.equalsIgnoreCase("deckList2")
+			|| source.equalsIgnoreCase("load") || source.equalsIgnoreCase("new")) {
 			refreshStats();
 			refreshDeckArea();
 			// changes = true;
@@ -1679,8 +1659,7 @@ public class BuilderGUI extends JFrame {
 	 */
 	private void resizeSearchBox(JComponent comp) {
 		for (Component jc : comp.getComponents()) {
-			((JComponent) jc).putClientProperty("JComponent.sizeVariant",
-					"mini");
+			((JComponent) jc).putClientProperty("JComponent.sizeVariant", "mini");
 		}
 	}
 
@@ -1723,7 +1702,7 @@ public class BuilderGUI extends JFrame {
 	 * used by Player.java to load a selected deck
 	 * 
 	 * @param selectedDeck
-	 *            Name of the selected deck
+	 *           Name of the selected deck
 	 */
 	public void loadDefaultDeck(String selectedDeck) {
 		currentDeck.load(new File("Deck/" + selectedDeck), cardHolder);
@@ -1759,13 +1738,12 @@ public class BuilderGUI extends JFrame {
 	}
 
 	// main
-	/*public static void main(String[] args) {
-		BuilderGUI builderGui = new BuilderGUI();
-		builderGui.init();
-
-		builderGui.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		builderGui.setLocationRelativeTo(null);
-		builderGui.setVisible(true);
-	}*/
+	/*
+	 * public static void main(String[] args) { BuilderGUI builderGui = new
+	 * BuilderGUI(); builderGui.init();
+	 * 
+	 * builderGui.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+	 * builderGui.setLocationRelativeTo(null); builderGui.setVisible(true); }
+	 */
 
 }

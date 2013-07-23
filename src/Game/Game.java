@@ -96,18 +96,31 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 		// player1.initField();
 		// player2.initField();
 
+		player1.setGame(this);
+		player1.buildGame();
 		defendingField = player1.getField();
-		System.out.println("player 1 is " + player1.getPlayerID());
-		attackingField = player2.getField();
-		// phaseImages = playingField.getPhaseImages();
 
 		defendingField.getDeckZone().drawCard();
 		defendingField.getDeckZone().drawCard();
 		defendingField.getDeckZone().drawCard();
 		defendingField.getDeckZone().drawCard();
 		defendingField.getDeckZone().drawCard();
-		
+
 		player1.getHand().preGameDiscard(this);
+
+		player2.setGame(this);
+		player2.buildGame();
+		attackingField = player2.getField();
+
+		attackingField.getDeckZone().drawCard();
+		attackingField.getDeckZone().drawCard();
+		attackingField.getDeckZone().drawCard();
+		attackingField.getDeckZone().drawCard();
+		attackingField.getDeckZone().drawCard();
+
+		player2.getHand().preGameDiscard(this);
+
+		// phaseImages = playingField.getPhaseImages();
 	}
 
 	public void testGame() {
@@ -124,10 +137,10 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 
 		player1.getHand().preGameDiscard(this);
 	}
-	
+
 	public void startGame() {
 		// player1.drawField();
-		
+
 		player1.setCurrentPhase(Phase.STAND_PHASE);
 		currPhase = player1.getCurrentPhase();
 		nextPhase();
@@ -182,6 +195,9 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 	}
 
 	public void paint(Graphics g) {
+
+		// TODO: receive and update each player's field
+
 		Graphics2D g2 = (Graphics2D) g;
 		// paintWords(g2);
 		g2.setColor(Color.pink);
@@ -206,8 +222,8 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 			if (currPhase == phase) {
 				g2.setColor(Color.RED);
 				g2.drawString(phase.toString(),
-						(int) ((initialX + i * offsetX) * (gameScale)),
-						(int) ((initialY) * (gameScale) + translatedY));
+					(int) ((initialX + i * offsetX) * (gameScale)),
+					(int) ((initialY) * (gameScale) + translatedY));
 				g2.setColor(Color.BLUE);
 
 				int xval = (int) ((initialX + (i + 1) * offsetX - 5) * (gameScale));
@@ -216,72 +232,26 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 					xval = (int) ((initialX + (0) * offsetX - 5) * (gameScale));
 				}
 				nextRect = new Rectangle(xval, (int) ((initialY - offsetY + 5)
-						* (gameScale) + translatedY),
-						(int) (offsetX * gameScale),
-						(int) (offsetY * gameScale));
-				g.drawRect(nextRect.x, nextRect.y, nextRect.width,
-						nextRect.height);
+					* (gameScale) + translatedY), (int) (offsetX * gameScale),
+					(int) (offsetY * gameScale));
+				g.drawRect(nextRect.x, nextRect.y, nextRect.width, nextRect.height);
 
 			} else {
 				g2.drawString(phase.toString(),
-						(int) ((initialX + i * offsetX) * (gameScale)),
-						(int) ((initialY) * (gameScale) + translatedY));
+					(int) ((initialX + i * offsetX) * (gameScale)),
+					(int) ((initialY) * (gameScale) + translatedY));
 			}
 			i++;
 		}
 
-		// if (player1.getCurrentPhase() == Phase.STAND_PHASE) {
-		// // g.drawImage(bound, initialX, initialY, null);
-		// nextRect = new Rectangle(
-		// (int) ((initialX + 1 * offsetX) * (gameScale)),
-		// (int) ((initialY) * (gameScale) + translatedY),
-		// (int) (offsetX * gameScale), (int) (offsetY * gameScale));
-		// } else if (player1.getCurrentPhase() == Phase.DRAW_PHASE) {
-		// // g.drawImage(bound, initialX + 1 * offset, initialY, null);
-		// nextRect = new Rectangle(
-		// (int) ((initialX + 2 * offsetX) * (gameScale)),
-		// (int) ((initialY) * (gameScale) + translatedY),
-		// (int) (offsetX * gameScale), (int) (offsetY * gameScale));
-		// } else if (player1.getCurrentPhase() == Phase.CLOCK_PHASE) {
-		// // g.drawImage(bound, initialX + 2 * offset, initialY, null);
-		// nextRect = new Rectangle(
-		// (int) ((initialX + 3 * offsetX) * (gameScale)),
-		// (int) ((initialY) * (gameScale) + translatedY),
-		// (int) (offsetX * gameScale), (int) (offsetY * gameScale));
-		// } else if (player1.getCurrentPhase() == Phase.MAIN_PHASE) {
-		// // g.drawImage(bound, initialX + 3 * offset, initialY, null);
-		// nextRect = new Rectangle(
-		// (int) ((initialX + 4 * offsetX) * (gameScale)),
-		// (int) ((initialY) * (gameScale) + translatedY),
-		// (int) (offsetX * gameScale), (int) (offsetY * gameScale));
-		// } else if (player1.getCurrentPhase() == Phase.CLIMAX_PHASE) {
-		// // g.drawImage(bound, initialX + 4 * offset, initialY, null);
-		// nextRect = new Rectangle(
-		// (int) ((initialX + 5 * offsetX) * (gameScale)),
-		// (int) ((initialY) * (gameScale) + translatedY),
-		// (int) (offsetX * gameScale), (int) (offsetY * gameScale));
-		// } else if (player1.getCurrentPhase() == Phase.ATTACK_PHASE) {
-		// // g.drawImage(bound, initialX + 5 * offset, initialY, null);
-		// nextRect = new Rectangle(
-		// (int) ((initialX + 6 * offsetX) * (gameScale)),
-		// (int) ((initialY) * (gameScale) + translatedY),
-		// (int) (offsetX * gameScale), (int) (offsetY * gameScale));
-		// } else if (player1.getCurrentPhase() == Phase.END_PHASE) {
-		// // g.drawImage(bound, initialX + 6 * offset, initialY, null);
-		// nextRect = new Rectangle(
-		// (int) ((initialX + 0 * offsetX) * (gameScale)),
-		// (int) ((initialY) * (gameScale) + translatedY),
-		// (int) (offsetX * gameScale), (int) (offsetY * gameScale));
-		// }
-		// if (nextRect != null) {
-		// g.drawRect(nextRect.x, nextRect.y, nextRect.width, nextRect.height);
-		// }
 		g2.setFont(original);
 		Card card = player1.getField().getSelected();
 		if (card != null)
 			player1.retreiveCardInfo(card);
 		player1.updateStatsBox();
-		// player1.getHand().paint(g, 0, 0, null);
+
+		// TODO: send player field to the other player
+
 	}
 
 	// representation of STAND PHASE
@@ -336,7 +306,7 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 		// Card c = defendingField.getSelected();
 
 		// if (c != null && c.getT() == Type.CLIMAX) {
-		//	defendingField.getClimaxZone().setCard(c);
+		// defendingField.getClimaxZone().setCard(c);
 		// }
 	}
 
@@ -424,7 +394,7 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 
 	public Dimension getPreferredSize() {
 		return new Dimension((int) (maxWidth * gameScale),
-				(int) (maxHeight * gameScale));
+			(int) (maxHeight * gameScale));
 	}
 
 	// assign the game a game instance id

@@ -30,16 +30,16 @@ abstract class FieldElement extends Component implements MouseListener {
 	 */
 	/*
 	 * MAIN PHASE Right Click Back Rest card for effect DONE Climax N/A Clock If
-	 * there is a card selected from hand, shift Deck Draw a card Front Rest
-	 * card for effect DONE Hand Play a card to the next available field spot
-	 * Level N/A Memory N/A Resolution N/A Stock Pay for cost from top Waiting
-	 * Room N/A Left Click Back Swap card with another zone Climax N/A Clock
-	 * Search clock (able to select card or just look through waiting room) Deck
-	 * Search deck (will warn opponent and shuffle) Front Swap card with another
-	 * zone Hand N/A Level Search level (able to select card or just look
-	 * through waiting room) Memory N/A Resolution N/A Stock Pay for cost from
-	 * bottom Waiting Room Search waiting room (able to select card or just look
-	 * through waiting room)
+	 * there is a card selected from hand, shift Deck Draw a card Front Rest card
+	 * for effect DONE Hand Play a card to the next available field spot Level
+	 * N/A Memory N/A Resolution N/A Stock Pay for cost from top Waiting Room N/A
+	 * Left Click Back Swap card with another zone Climax N/A Clock Search clock
+	 * (able to select card or just look through waiting room) Deck Search deck
+	 * (will warn opponent and shuffle) Front Swap card with another zone Hand
+	 * N/A Level Search level (able to select card or just look through waiting
+	 * room) Memory N/A Resolution N/A Stock Pay for cost from bottom Waiting
+	 * Room Search waiting room (able to select card or just look through waiting
+	 * room)
 	 */
 	/*
 	 * CLIMAX PHASE Right Click Back Rest card for effect Climax N/A Clock N/A
@@ -53,15 +53,15 @@ abstract class FieldElement extends Component implements MouseListener {
 	 * BATTLE PHASE Right Click Back Toggle between modes Rest > Reverse > Stand
 	 * Climax Remove climax and move to waiting room Clock N/A Deck Check
 	 * trigger/Clock damage Front Toggle between modes Rest > Reverse > Stand
-	 * Hand Play a card to the resolution(event) or waiting room(character)
-	 * Level N/A Memory N/A Resolution N/A Stock Pay for cost from top Waiting
-	 * Room N/A Left Click Back Swap card with another zone Climax N/A Clock
-	 * Search clock (able to select card or just look through waiting room) Deck
-	 * Search deck (will warn opponent and shuffle) Front Swap card with another
-	 * zone Hand N/A Level Search level (able to select card or just look
-	 * through waiting room) Memory N/A Resolution N/A Stock Pay for cost from
-	 * bottom Waiting Room Search waiting room (able to select card or just look
-	 * through waiting room)
+	 * Hand Play a card to the resolution(event) or waiting room(character) Level
+	 * N/A Memory N/A Resolution N/A Stock Pay for cost from top Waiting Room N/A
+	 * Left Click Back Swap card with another zone Climax N/A Clock Search clock
+	 * (able to select card or just look through waiting room) Deck Search deck
+	 * (will warn opponent and shuffle) Front Swap card with another zone Hand
+	 * N/A Level Search level (able to select card or just look through waiting
+	 * room) Memory N/A Resolution N/A Stock Pay for cost from bottom Waiting
+	 * Room Search waiting room (able to select card or just look through waiting
+	 * room)
 	 */
 	/*
 	 * END PHASE Right Click Back N/A Climax N/A Clock N/A Deck N/A Front N/A
@@ -79,7 +79,7 @@ abstract class FieldElement extends Component implements MouseListener {
 	protected BufferedImage bi;
 	protected Rectangle rect;
 	protected int w, h, x, y; // x, y coordinates of the displayed image and
-								// height and width of the image
+	// height and width of the image
 	public String zoneName;
 	protected Player associatedPlayer;
 
@@ -87,13 +87,14 @@ abstract class FieldElement extends Component implements MouseListener {
 	 * A basic FieldElement constructor
 	 * 
 	 * @param imageFileName
-	 *            relative URL of the background image
+	 *           relative URL of the background image
 	 * @param xa
-	 *            x-axis coordinate on the field
+	 *           x-axis coordinate on the field
 	 * @param ya
-	 *            y-axis coordinate on the field
+	 *           y-axis coordinate on the field
 	 */
-	public FieldElement(String imageFileName, int xa, int ya, String zone, Player player) {
+	public FieldElement(String imageFileName, int xa, int ya, String zone,
+		Player player) {
 		// InputStream imageSrc =
 		// getClass().getResource("/resources/FieldImages/" + imageFileName);
 		addMouseListener(this);
@@ -101,8 +102,13 @@ abstract class FieldElement extends Component implements MouseListener {
 		zoneName = zone;
 
 		try {
-			System.out.println(zone + "   " + getClass().getResource("/resources/FieldImages/" + imageFileName));
-			BufferedImage before = ImageIO.read(getClass().getResource("/resources/FieldImages/" + imageFileName));
+			System.out
+				.println(zone
+					+ "   "
+					+ getClass().getResource(
+						"/resources/FieldImages/" + imageFileName));
+			BufferedImage before = ImageIO.read(getClass().getResource(
+				"/resources/FieldImages/" + imageFileName));
 
 			x = (int) (xa * Game.Game.gameScale);
 			y = (int) ((ya + Game.Game.translatedY) * Game.Game.gameScale);
@@ -113,15 +119,15 @@ abstract class FieldElement extends Component implements MouseListener {
 
 			AffineTransform at = new AffineTransform();
 			at.scale(Game.Game.gameScale, Game.Game.gameScale);
-			AffineTransformOp scaleOp = new AffineTransformOp(at, AffineTransformOp.TYPE_BILINEAR);
+			AffineTransformOp scaleOp = new AffineTransformOp(at,
+				AffineTransformOp.TYPE_BILINEAR);
 			bi = scaleOp.filter(before, null);
 
 			w = (int) (bi.getWidth(null));
 			h = (int) (bi.getHeight(null));
 			/*
-			 * rect = new Rectangle((int) (x), (int) (y +
-			 * Game.Game.translatedY), (int) (w * Game.Game.gameScale), (int) (h
-			 * * Game.Game.gameScale));
+			 * rect = new Rectangle((int) (x), (int) (y + Game.Game.translatedY),
+			 * (int) (w * Game.Game.gameScale), (int) (h * Game.Game.gameScale));
 			 */
 			rect = new Rectangle((int) (x), (int) (y), (int) (w), (int) (h));
 		} catch (IOException e) {
@@ -147,14 +153,14 @@ abstract class FieldElement extends Component implements MouseListener {
 	public boolean contains(int x, int y) {
 		return rect.contains(x, y);
 	}
-	
+
 	public boolean contains(Point p) {
 		return rect.contains(p);
 	}
 
 	/**
 	 * @param g
-	 *            draw the FieldElement
+	 *           draw the FieldElement
 	 */
 	/*
 	 * public void paint(Graphics g, Card topCard) {
@@ -244,7 +250,8 @@ abstract class FieldElement extends Component implements MouseListener {
 
 	public String toString() {
 		if (rect != null)
-			System.out.println("hitbox (" + rect.x + " ~ " + rect.getWidth() + ", " + rect.y + " ~ " + rect.getHeight() + ")");
+			System.out.println("hitbox (" + rect.x + " ~ " + rect.getWidth()
+				+ ", " + rect.y + " ~ " + rect.getHeight() + ")");
 		return zoneName;
 	}
 

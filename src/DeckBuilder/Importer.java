@@ -38,8 +38,7 @@ public class Importer {
 
 	public Importer() {
 		try {
-			nameDict = new BufferedWriter(new FileWriter(new File(
-					"nameDict.txt")));
+			nameDict = new BufferedWriter(new FileWriter(new File("nameDict.txt")));
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
@@ -74,8 +73,8 @@ public class Importer {
 	 * (color.equalsIgnoreCase("yellow")) { card.setC(CCode.YELLOW); } else if
 	 * (color.equalsIgnoreCase("green")) { card.setC(CCode.GREEN); }
 	 * 
-	 * if (cardType.equalsIgnoreCase("character")) { card.setT(Type.CHARACTER);
-	 * } else if (cardType.equalsIgnoreCase("event")) { card.setT(Type.EVENT); }
+	 * if (cardType.equalsIgnoreCase("character")) { card.setT(Type.CHARACTER); }
+	 * else if (cardType.equalsIgnoreCase("event")) { card.setT(Type.EVENT); }
 	 * else if (cardType.equalsIgnoreCase("climax")) { card.setT(Type.CLIMAX); }
 	 * 
 	 * String textFlavor = lineScan.next(); String cardEffect = lineScan.next();
@@ -127,7 +126,8 @@ public class Importer {
 						// if (newCard.getImage().exists()) {
 						// Card c = allCards.put(newCard.getCardName(),
 						// newCard);
-						newCard.setImageResource("/resources/FieldImages/cardBack-s.jpg");	
+						newCard
+							.setImageResource("/resources/FieldImages/cardBack-s.jpg");
 					}
 					System.out.println(newCard.getImageResource());
 					Card c = allCards.put(newCard.getID(), newCard);
@@ -156,14 +156,12 @@ public class Importer {
 					case 1: // card id
 						str = str.replace("  ", " ");
 						newCard.setID(str);
-						newCard.setImageResource("/resources/FieldImages/"
-								+ fileName + "/"
-								+ str.replace(" ", "_").replace("/", "-")
-								+ ".jpg");
+						newCard.setImageResource("/resources/FieldImages/" + fileName
+							+ "/" + str.replace(" ", "_").replace("/", "-") + ".jpg");
 						/*
-						 * newCard.setImage(new
-						 * File("src/resources/FieldImages/" + fileName + "/" +
-						 * str.replace(" ", "_").replace("/", "-") + ".jpg"));
+						 * newCard.setImage(new File("src/resources/FieldImages/" +
+						 * fileName + "/" + str.replace(" ", "_").replace("/", "-") +
+						 * ".jpg"));
 						 */
 						str = "ID: " + str;
 						break;
@@ -226,8 +224,7 @@ public class Importer {
 						str = str.replace("_", " ");
 
 						if (breaker > -1) {
-							newCard.setTrait1(str.substring(0, breaker - 1)
-									.trim());
+							newCard.setTrait1(str.substring(0, breaker - 1).trim());
 							newCard.setTrait2(str.substring(breaker).trim());
 						} else {
 							newCard.setTrait1(str.substring(0, str.length() - 1));
@@ -267,7 +264,7 @@ public class Importer {
 		String regex3 = "[a-zA-Z0-9\\p{Punct}\\s]+$";
 
 		if (Pattern.matches(regex1, str) || Pattern.matches(regex2, str)
-				|| Pattern.matches(regex3, str) || str.contains("Rock Cannon")) {
+			|| Pattern.matches(regex3, str) || str.contains("Rock Cannon")) {
 			return str;
 		}
 
@@ -315,7 +312,7 @@ public class Importer {
 		}
 
 	}
-	
+
 	public static void loadfromTxt() {
 		Importer importer = new Importer();
 		File file = new File("Data");
@@ -335,14 +332,13 @@ public class Importer {
 		importer.serializingLists();
 		importer.close();
 	}
-	
+
 	public static void loadFromSQLiteDB() throws SQLiteException {
 		Importer importer = new Importer();
 		SQLiteConnection db = new SQLiteConnection(new File("CardData.sqlite"));
 		db.open();
-		
-		HashMap<String,Integer> fieldMap = new HashMap<String,Integer>();
-		
+
+		HashMap<String, Integer> fieldMap = new HashMap<String, Integer>();
 
 		SQLiteStatement st = db.prepare("SELECT * from cardtable");
 		if (st.step()) {
@@ -351,45 +347,45 @@ public class Importer {
 			}
 		}
 		st.dispose();
-		
-//		private String id;
-//		private String pID;
-//		private String cardName;
-//		private String cardName_e;
-//		private int dupCount = 0;
-//		private ArrayList<String> effects;
-//		private ArrayList<String> effects_e;
-//		private int power;
-//		private Trigger trigger;
-//		private int level;
-//		private int cost;
-//		private int soul;
-//		private Type t;
-//		private CCode c;
-//		private String trait1;
-//		private String trait2;
-//		private String trait1_e;
-//		private String trait2_e;
-//		private String flavorText;
-//		private String flavorText_e;
-		
+
+		// private String id;
+		// private String pID;
+		// private String cardName;
+		// private String cardName_e;
+		// private int dupCount = 0;
+		// private ArrayList<String> effects;
+		// private ArrayList<String> effects_e;
+		// private int power;
+		// private Trigger trigger;
+		// private int level;
+		// private int cost;
+		// private int soul;
+		// private Type t;
+		// private CCode c;
+		// private String trait1;
+		// private String trait2;
+		// private String trait1_e;
+		// private String trait2_e;
+		// private String flavorText;
+		// private String flavorText_e;
+
 		st = db.prepare("SELECT * from cardtable");
 		while (st.step()) {
 			Card c = new Card();
-			
+
 			c.setCardName(st.columnString(fieldMap.get("name")));
 			c.setCardName_e(st.columnString(fieldMap.get("name_e")));
-			
+
 			s = new Scanner(st.columnString(fieldMap.get("rule")));
 			while (s.hasNextLine()) {
 				c.addEffect(s.nextLine());
 			}
-			
+
 			s = new Scanner(st.columnString(fieldMap.get("rule_e")));
 			while (s.hasNextLine()) {
 				c.addEffect_e(s.nextLine());
 			}
-			
+
 			String temp = st.columnString(fieldMap.get("type"));
 			if (temp.equalsIgnoreCase("climax")) {
 				c.setT(Type.CLIMAX);
@@ -398,31 +394,30 @@ public class Importer {
 			} else if (temp.equalsIgnoreCase("character")) {
 				c.setT(Type.CHARACTER);
 			}
-			
-			c.setTrigger(Trigger.convertString(st.columnString(fieldMap.get("trigger"))));
+
+			c.setTrigger(Trigger.convertString(st.columnString(fieldMap
+				.get("trigger"))));
 
 			if (c.getT() == Type.CLIMAX || c.getT() == Type.EVENT) {
-				assert(st.columnString(fieldMap.get("power")).equals("N/A"));
-				assert(st.columnString(fieldMap.get("soul")).equals("N/A"));
+				assert (st.columnString(fieldMap.get("power")).equals("N/A"));
+				assert (st.columnString(fieldMap.get("soul")).equals("N/A"));
 				c.setPower(-1);
 				c.setSoul(-1);
-			}
-			else {
+			} else {
 				c.setPower(st.columnInt(fieldMap.get("power")));
 				c.setSoul(st.columnInt(fieldMap.get("soul")));
 			}
-			
+
 			if (c.getT() == Type.CLIMAX) {
-				assert(st.columnString(fieldMap.get("level")).equals("N/A"));
-				assert(st.columnString(fieldMap.get("cost")).equals("N/A"));
+				assert (st.columnString(fieldMap.get("level")).equals("N/A"));
+				assert (st.columnString(fieldMap.get("cost")).equals("N/A"));
 				c.setLevel(-1);
 				c.setCost(-1);
-			}
-			else {
+			} else {
 				c.setLevel(st.columnInt(fieldMap.get("level")));
 				c.setCost(st.columnInt(fieldMap.get("cost")));
 			}
-			
+
 			temp = st.columnString(fieldMap.get("color"));
 			if (temp.equalsIgnoreCase("blue")) {
 				c.setC(CCode.BLUE);
@@ -433,36 +428,35 @@ public class Importer {
 			} else if (temp.equalsIgnoreCase("green")) {
 				c.setC(CCode.GREEN);
 			}
-			
+
 			c.setTrait1(st.columnString(fieldMap.get("trait1")));
 			c.setTrait1_e(st.columnString(fieldMap.get("trait1_e")));
 			c.setTrait2(st.columnString(fieldMap.get("trait2")));
 			c.setTrait2_e(st.columnString(fieldMap.get("trait2_e")));
-			
+
 			c.setFlavorText(st.columnString(fieldMap.get("flavor")));
 			c.setFlavorText_e(st.columnString(fieldMap.get("flavor_e")));
-			
+
 			String setid = st.columnString(fieldMap.get("setid"));
 			String imagefilename = st.columnString(fieldMap.get("imagefilename"));
-			c.setImageResource("/resources/FieldImages/" + setid.split("/")[1] + "/" + imagefilename);
+			c.setImageResource("/resources/FieldImages/" + setid.split("/")[1]
+				+ "/" + imagefilename);
 			System.out.println(c.getImageResource());
-			
+
 			String cid = st.columnString(fieldMap.get("cardid"));
 			if (c.isAlternateArt()) {
-				c.setID(cid+"_alt");
-			}
-			else if (c.isEPSign()) {
-				c.setID(cid+"_sign");
-			}
-			else {
+				c.setID(cid + "_alt");
+			} else if (c.isEPSign()) {
+				c.setID(cid + "_sign");
+			} else {
 				c.setID(cid);
 			}
-			
+
 			if (!new File("src" + c.getImageResource()).exists()) {
 				// if (newCard.getImage().exists()) {
 				// Card c = allCards.put(newCard.getCardName(),
 				// newCard);
-				c.setImageResource("/resources/FieldImages/cardBack-s.jpg");	
+				c.setImageResource("/resources/FieldImages/cardBack-s.jpg");
 			}
 			System.out.println(c.getImageResource());
 			Card cc = allCards.put(c.getID(), c);
@@ -485,14 +479,14 @@ public class Importer {
 		System.out.println(System.getProperty("os.name"));
 		importer.serializingLists();
 		importer.close();
-//		for (String key : fieldMap.keySet()) {
-//			System.out.println(key + " " + fieldMap.get(key));
-//		}
+		// for (String key : fieldMap.keySet()) {
+		// System.out.println(key + " " + fieldMap.get(key));
+		// }
 
 	}
 
 	public static void main(String[] args) throws SQLiteException {
-		//loadFromTxt();
+		// loadFromTxt();
 		loadFromSQLiteDB();
 	}
 }

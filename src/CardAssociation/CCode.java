@@ -10,15 +10,15 @@ package CardAssociation;
 
 public enum CCode {
 	ALL(""), RED("Red"), BLUE("Blue"), YELLOW("Yellow"), GREEN("Green");
-	
+
 	String s;
 
 	CCode(String color) {
-        s = color;
-    }
+		s = color;
+	}
 
-    public String toString() {
-        return s;
-    }
-    
+	public String toString() {
+		return s;
+	}
+
 }

@@ -66,7 +66,7 @@ public class Clock_Zone extends FieldElement {
 	public void shift(Card insert) {
 		if (insert != null && selected != null) {
 			associatedPlayer.getHand().setCard(selected);
-			
+
 			clockZone.remove(swappedIndex);
 			clockZone.add(swappedIndex, insert);
 
@@ -109,7 +109,7 @@ public class Clock_Zone extends FieldElement {
 			popmenu.add(handAction);
 
 			System.out.println("CLOCK_ZONE selectedIndex = "
-					+ clockZone.indexOf(selected));
+				+ clockZone.indexOf(selected));
 
 			if (clockZone.size() >= 7 && clockZone.indexOf(selected) < 7) {
 				JMenuItem levelAction = new JMenuItem("to level");
@@ -185,33 +185,33 @@ public class Clock_Zone extends FieldElement {
 			thisCard.setDisplay(true, false);
 
 			if (selected != null
-					&& thisCard.getUniqueID().equals(selected.getUniqueID())
-					&& swappedIndex == i) {
+				&& thisCard.getUniqueID().equals(selected.getUniqueID())
+				&& swappedIndex == i) {
 				swappedIndex = i;
 				thisCard.toCanvas().setLocation(
-						(int) (x + 110 * i * Game.gameScale), y);
+					(int) (x + 110 * i * Game.gameScale), y);
 			} else {
 				thisCard.toCanvas().setLocation(
-						(int) (x + 110 * i * Game.gameScale), y);
+					(int) (x + 110 * i * Game.gameScale), y);
 			}
 			thisCard.toCanvas().paint(g);
 		}
-		
-		if(shiftMode) {
+
+		if (shiftMode) {
 			Graphics2D g2 = (Graphics2D) g;
 			Card thisCard = clockZone.get(swappedIndex);
-			
+
 			Color curr = g2.getColor();
 			g2.setColor(Color.BLUE);
 			Stroke oldStroke = g2.getStroke();
 			g2.setStroke(new BasicStroke(6));
 			g2.drawRect((int) thisCard.getCardBound().getX(), (int) thisCard
-					.getCardBound().getY(), (int) thisCard.getCardBound()
-					.getWidth(), (int) thisCard.getCardBound().getHeight());
+				.getCardBound().getY(), (int) thisCard.getCardBound().getWidth(),
+				(int) thisCard.getCardBound().getHeight());
 			g2.setStroke(oldStroke);
 			g2.setColor(curr);
 		}
-		
+
 		if (!containCards()) {
 			g.drawImage(bi, x, y, null);
 		}
@@ -228,10 +228,9 @@ public class Clock_Zone extends FieldElement {
 		for (int i = 0; i < clockZone.size(); i++) {
 			Card card = clockZone.get(i);
 			output = "CLOCK: x = " + e.getX() + ", y = " + e.getY() + " "
-					+ card.getCardName() + " : " + card.getCardBound().x
-					+ " + " + card.getCardBound().width + " , "
-					+ card.getCardBound().y + " + "
-					+ card.getCardBound().height;
+				+ card.getCardName() + " : " + card.getCardBound().x + " + "
+				+ card.getCardBound().width + " , " + card.getCardBound().y + " + "
+				+ card.getCardBound().height;
 			if (card.getCardBound().contains(e.getPoint())) {
 				// System.out.println("click: " + i + ". " + card);
 				swappedIndex = i;
@@ -274,7 +273,7 @@ public class Clock_Zone extends FieldElement {
 			constructPopup(e);
 			// shift(associatedPlayer.getHand().getSelected());
 		}
-		
+
 		setShiftMode(false);
 	}
 

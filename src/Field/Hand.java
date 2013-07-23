@@ -74,19 +74,22 @@ public class Hand extends FieldElement {
 			Card thisCard = handCards.get(i);
 			// System.out.print(thisCard.getCardName() + ", ");
 			thisCard.setDisplay(true, false);
-			thisCard.toCanvas().setLocation((int) ((x + 110 * i) * Game.gameScale), (int) (y));
-			if (selected != null && thisCard.getUniqueID().equals(selected.getUniqueID())) {
-				thisCard.toCanvas().setLocation((int) ((x + 110 * i) * Game.gameScale), y - 10);
+			thisCard.toCanvas().setLocation(
+				(int) ((x + 110 * i) * Game.gameScale), (int) (y));
+			if (selected != null
+				&& thisCard.getUniqueID().equals(selected.getUniqueID())) {
+				thisCard.toCanvas().setLocation(
+					(int) ((x + 110 * i) * Game.gameScale), y - 10);
 			}
 			thisCard.toCanvas().paint(g2);
 		}
 
 		System.out.println("HAND " + handCards);
 
-		//g2.setFont(new Font("TimesRoman", Font.PLAIN, 12));
-		//g2.setColor(Color.BLUE);
+		// g2.setFont(new Font("TimesRoman", Font.PLAIN, 12));
+		// g2.setColor(Color.BLUE);
 
-		//g2.drawString("Player Hand", this.x + 10, this.y + 20);
+		// g2.drawString("Player Hand", this.x + 10, this.y + 20);
 	}
 
 	protected void constructPopup(MouseEvent e) {
@@ -152,18 +155,18 @@ public class Hand extends FieldElement {
 			}
 		});
 		popmenu.add(clockAction);
-		
-//		JMenuItem removePlease = new JMenuItem("removePlease");
-//		removePlease.addActionListener(new ActionListener() {
-//			@Override
-//			public void actionPerformed(ActionEvent e) {
-//				associatedPlayer.getField().getLevelZone().setCard(selected);
-//				handCards.remove(selectedIndex);
-//				associatedPlayer.getField().repaintElements();
-//			}
-//		});
-//		popmenu.add(removePlease);
-		
+
+		// JMenuItem removePlease = new JMenuItem("removePlease");
+		// removePlease.addActionListener(new ActionListener() {
+		// @Override
+		// public void actionPerformed(ActionEvent e) {
+		// associatedPlayer.getField().getLevelZone().setCard(selected);
+		// handCards.remove(selectedIndex);
+		// associatedPlayer.getField().repaintElements();
+		// }
+		// });
+		// popmenu.add(removePlease);
+
 		JMenuItem resolveAction = new JMenuItem("to resolution area");
 		resolveAction.addActionListener(new ActionListener() {
 			@Override
@@ -211,17 +214,22 @@ public class Hand extends FieldElement {
 	}
 
 	private void toField() {
-		if (associatedPlayer.getCurrentPhase() != Phase.CLIMAX_PHASE && associatedPlayer.getCurrentPhase() != Phase.CLOCK_PHASE) {
+		if (associatedPlayer.getCurrentPhase() != Phase.CLIMAX_PHASE
+			&& associatedPlayer.getCurrentPhase() != Phase.CLOCK_PHASE) {
 			if (selected.getT() == Type.CHARACTER) {
 				if (!associatedPlayer.getField().getFrontRow1().containCards()) {
 					associatedPlayer.getField().getFrontRow1().setCard(selected);
-				} else if (!associatedPlayer.getField().getFrontRow2().containCards()) {
+				} else if (!associatedPlayer.getField().getFrontRow2()
+					.containCards()) {
 					associatedPlayer.getField().getFrontRow2().setCard(selected);
-				} else if (!associatedPlayer.getField().getFrontRow3().containCards()) {
+				} else if (!associatedPlayer.getField().getFrontRow3()
+					.containCards()) {
 					associatedPlayer.getField().getFrontRow3().setCard(selected);
-				} else if (!associatedPlayer.getField().getBackRow1().containCards()) {
+				} else if (!associatedPlayer.getField().getBackRow1()
+					.containCards()) {
 					associatedPlayer.getField().getBackRow1().setCard(selected);
-				} else if (!associatedPlayer.getField().getBackRow2().containCards()) {
+				} else if (!associatedPlayer.getField().getBackRow2()
+					.containCards()) {
 					associatedPlayer.getField().getBackRow2().setCard(selected);
 				} else {
 					selectedIndex = -1;
@@ -235,7 +243,8 @@ public class Hand extends FieldElement {
 					handCards.remove(selectedIndex);
 				}
 			}
-		} else if (associatedPlayer.getCurrentPhase() == Phase.CLIMAX_PHASE && selected.getT() == Type.CLIMAX) {
+		} else if (associatedPlayer.getCurrentPhase() == Phase.CLIMAX_PHASE
+			&& selected.getT() == Type.CLIMAX) {
 			associatedPlayer.getField().getClimaxZone().setCard(selected);
 			if (selectedIndex > -1) {
 				handCards.remove(selectedIndex);
@@ -249,8 +258,10 @@ public class Hand extends FieldElement {
 		Card card, result = null;
 		for (int i = 0; i < handCards.size(); i++) {
 			card = handCards.get(i);
-			output = "HAND: x = " + e.getX() + ", y = " + e.getY() + " " + card.getCardName() + "[" + card.getUniqueID() + "]: " + card.getCardBound().x + " + " + card.getCardBound().width + " , "
-					+ card.getCardBound().y + " + " + card.getCardBound().height;
+			output = "HAND: x = " + e.getX() + ", y = " + e.getY() + " "
+				+ card.getCardName() + "[" + card.getUniqueID() + "]: "
+				+ card.getCardBound().x + " + " + card.getCardBound().width + " , "
+				+ card.getCardBound().y + " + " + card.getCardBound().height;
 			if (card.getCardBound().contains(e.getPoint())) {
 				selectedIndex = i;
 				output += " match!";
@@ -283,17 +294,17 @@ public class Hand extends FieldElement {
 			constructPopup(e);
 		} else if (e.getButton() == MouseEvent.BUTTON1) {
 			Clock_Zone tempClock = associatedPlayer.getField().getClockZone();
-			
-			if(tempClock.isShiftMode()) {
+
+			if (tempClock.isShiftMode()) {
 				System.out.println("HAND SHIFTING");
 				tempClock.shift(selected);
 				associatedPlayer.getField().repaintElements();
 				handCards.remove(selectedIndex);
-				//handCards.add(card);
+				// handCards.add(card);
 			}
-			
+
 			repaint();
-			
+
 		}
 		// selected = card;
 
@@ -344,11 +355,13 @@ class PreGameDisplay extends DisplayList {
 			public void actionPerformed(ActionEvent e) {
 				boolean toAdd = true;
 				for (int i = 0; i < showList.size(); i++) {
-					if (showList.get(i).getUniqueID().equals(selectedCard.getUniqueID()))
+					if (showList.get(i).getUniqueID()
+						.equals(selectedCard.getUniqueID()))
 						toAdd = false;
 				}
 				if (toAdd) {
-					System.out.println("QUEUING " + selectedCard.getCardName() + "[" + selectedCard.getUniqueID() + "]");
+					System.out.println("QUEUING " + selectedCard.getCardName() + "["
+						+ selectedCard.getUniqueID() + "]");
 					showList.add(selectedCard);
 				}
 				refresh();
@@ -359,7 +372,8 @@ class PreGameDisplay extends DisplayList {
 		JButton remove = new JButton("remove");
 		remove.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				System.out.println("DE-QUEUING " + selectedCard.getCardName() + "[" + selectedCard.getUniqueID() + "]");
+				System.out.println("DE-QUEUING " + selectedCard.getCardName() + "["
+					+ selectedCard.getUniqueID() + "]");
 				showList.remove(selectedCard);
 				refresh();
 			}
@@ -373,7 +387,8 @@ class PreGameDisplay extends DisplayList {
 					thisPlayer.getField().getWaitingRoom().setCard(card);
 					thisPlayer.getHand().playCard(card);
 					thisPlayer.getField().getDeckZone().drawCard();
-					System.out.println("POPPING " + card.getCardName() + "[" + card.getUniqueID() + "]");
+					System.out.println("POPPING " + card.getCardName() + "["
+						+ card.getUniqueID() + "]");
 				}
 				System.out.println("HAND SIZE: " + thisPlayer.getHand().getCount());
 				dispose();

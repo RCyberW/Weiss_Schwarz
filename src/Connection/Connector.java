@@ -30,12 +30,11 @@ public class Connector implements Serializable {
 	// Connector Constructor
 	public Connector(String serverName, int port) {
 		try {
-			System.out.println("Connecting to " + serverName + " on port "
-					+ port);
+			System.out.println("Connecting to " + serverName + " on port " + port);
 			client = new Socket(serverName, port);
 			System.out.println(client.getPort());
 			System.out.println("Just connected to "
-					+ client.getRemoteSocketAddress());
+				+ client.getRemoteSocketAddress());
 
 		} catch (UnknownHostException e) {
 			e.printStackTrace();
@@ -96,8 +95,7 @@ public class Connector implements Serializable {
 			out.writeObject(text);
 			System.out.println("I say: " + text);
 
-			ObjectInputStream oin = new ObjectInputStream(client
-					.getInputStream());
+			ObjectInputStream oin = new ObjectInputStream(client.getInputStream());
 			System.out.println("read should be...");
 			createdGame = (Game) oin.readObject();
 			if (createdGame != null)

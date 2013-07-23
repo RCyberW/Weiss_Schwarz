@@ -85,7 +85,7 @@ public class Level_Zone extends FieldElement {
 
 		return false;
 	}
-	
+
 	@Override
 	public boolean containCards() {
 		return levelZone.size() > 0;
@@ -97,8 +97,10 @@ public class Level_Zone extends FieldElement {
 			Card thisCard = levelZone.get(i);
 
 			thisCard.setDisplay(true, true);
-			thisCard.toCanvas().setLocation((int)(x* Game.gameScale), y - 50 * i );
-			if (selected != null && thisCard.getUniqueID().equals(selected.getUniqueID())) {
+			thisCard.toCanvas()
+				.setLocation((int) (x * Game.gameScale), y - 50 * i);
+			if (selected != null
+				&& thisCard.getUniqueID().equals(selected.getUniqueID())) {
 				// swappedIndex = i;
 				// thisCard.toCanvas().setLocation(x + 10, y - 50 * i);
 			}
@@ -120,10 +122,9 @@ public class Level_Zone extends FieldElement {
 			for (int i = 0; i < levelZone.size(); i++) {
 				Card card = levelZone.get(i);
 				output = "LEVEL: x = " + e.getX() + ", y = " + e.getY() + " "
-						+ card.getCardName() + " : " + card.getCardBound().x
-						+ " + " + card.getCardBound().width + " , "
-						+ card.getCardBound().y + " + "
-						+ card.getCardBound().height;
+					+ card.getCardName() + " : " + card.getCardBound().x + " + "
+					+ card.getCardBound().width + " , " + card.getCardBound().y
+					+ " + " + card.getCardBound().height;
 				if (card.getCardBound().contains(e.getPoint())) {
 					output += " match! " + swappedIndex;
 					System.out.println(output);
@@ -148,7 +149,6 @@ public class Level_Zone extends FieldElement {
 		} else if (e.getButton() == MouseEvent.BUTTON3) {
 			constructPopup(e);
 		}
-		// TODO: swapping
 	}
 
 	public boolean isList() {
@@ -171,9 +171,9 @@ public class Level_Zone extends FieldElement {
 				if (temp != null && selected != null) {
 					associatedPlayer.getField().getRandomZone().removeCard();
 					associatedPlayer.getField().getRandomZone().setCard(selected);
-					
+
 					temp.setCurrentState(State.REST);
-					
+
 					levelZone.remove(swappedIndex);
 					levelZone.add(swappedIndex, temp);
 

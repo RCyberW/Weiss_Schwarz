@@ -11,12 +11,11 @@ public class GreetingClient {
 		// String serverName = "174.77.36.43";
 		int port = 9090;
 		try {
-			System.out.println("Connecting to " + serverName + " on port "
-					+ port);
+			System.out.println("Connecting to " + serverName + " on port " + port);
 			Socket client = new Socket(serverName, port);
 			System.out.println(client.getPort());
 			System.out.println("Just connected to "
-					+ client.getRemoteSocketAddress());
+				+ client.getRemoteSocketAddress());
 			OutputStream outToServer = client.getOutputStream();
 			DataOutputStream out = new DataOutputStream(outToServer);
 

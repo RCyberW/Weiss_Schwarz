@@ -38,17 +38,13 @@ import javax.swing.JPanel;
 import javax.swing.JScrollPane;
 import javax.swing.JTextArea;
 
-public class CardOriginal extends JLabel
-		implements
-			Serializable,
-			MouseListener,
-			MouseMotionListener,
-			Comparable<Object> {
+public class CardOriginal extends JLabel implements Serializable,
+	MouseListener, MouseMotionListener, Comparable<Object> {
 
 	/**
 	 * 
 	 */
-	//private static final long serialVersionUID = 5876059325645604130L;
+	// private static final long serialVersionUID = 5876059325645604130L;
 	private static final long serialVersionUID = 5876059325645604132L;
 
 	// card properties
@@ -129,7 +125,7 @@ public class CardOriginal extends JLabel
 						height = bg.getHeight();
 					} catch (IOException e) {
 						System.out.println("Unable to find image "
-								+ imageSrc.getPath());
+							+ imageSrc.getPath());
 					}
 				}
 
@@ -192,8 +188,8 @@ public class CardOriginal extends JLabel
 	 * JLabel costLabel = new JLabel("Cost: " + cost); //
 	 * costLabel.setFont(font); JLabel soulLabel = new JLabel("Trigger: " +
 	 * trigger.toString()); // soulLabel.setFont(font); JLabel powerLabel = new
-	 * JLabel("Power: " + power); // powerLabel.setFont(font); JLabel
-	 * damageLabel = new JLabel("Soul: " + soul); // damageLabel.setFont(font);
+	 * JLabel("Power: " + power); // powerLabel.setFont(font); JLabel damageLabel
+	 * = new JLabel("Soul: " + soul); // damageLabel.setFont(font);
 	 * layout.setAutoCreateGaps(true); layout.setAutoCreateContainerGaps(true);
 	 * 
 	 * layout.setHorizontalGroup(layout .createParallelGroup(LEADING)
@@ -203,9 +199,8 @@ public class CardOriginal extends JLabel
 	 * layout.createSequentialGroup() .addComponent( idLabel,
 	 * GroupLayout.PREFERRED_SIZE, 125, GroupLayout.PREFERRED_SIZE)) .addGroup(
 	 * layout.createSequentialGroup() .addComponent( levelLabel,
-	 * GroupLayout.PREFERRED_SIZE, 60, GroupLayout.PREFERRED_SIZE)
-	 * .addComponent( costLabel))) .addGroup(
-	 * layout.createParallelGroup(LEADING) .addGroup(
+	 * GroupLayout.PREFERRED_SIZE, 60, GroupLayout.PREFERRED_SIZE) .addComponent(
+	 * costLabel))) .addGroup( layout.createParallelGroup(LEADING) .addGroup(
 	 * layout.createSequentialGroup() .addComponent( typeLabel)) .addGroup(
 	 * layout.createSequentialGroup() .addComponent( powerLabel,
 	 * GroupLayout.PREFERRED_SIZE, 90, GroupLayout.PREFERRED_SIZE))) .addGroup(
@@ -297,73 +292,59 @@ public class CardOriginal extends JLabel
 		layout.setAutoCreateContainerGaps(true);
 
 		layout.setHorizontalGroup(layout
-				.createParallelGroup()
-				.addComponent(nameLabel, GroupLayout.PREFERRED_SIZE, 350,
-						GroupLayout.PREFERRED_SIZE)
-				.addGroup(
-						layout.createSequentialGroup()
-								.addGroup(
-										layout.createParallelGroup()
-												.addGroup(
-														layout.createSequentialGroup()
-																.addComponent(
-																		idLabel,
-																		GroupLayout.PREFERRED_SIZE,
-																		125,
-																		GroupLayout.PREFERRED_SIZE))
-												.addGroup(
-														layout.createSequentialGroup()
-																.addComponent(
-																		levelLabel,
-																		GroupLayout.PREFERRED_SIZE,
-																		60,
-																		GroupLayout.PREFERRED_SIZE)
-																.addComponent(
-																		costLabel)))
-								.addGroup(
-										layout.createParallelGroup()
-												.addGroup(
-														layout.createSequentialGroup()
-																.addComponent(
-																		typeLabel))
-												.addGroup(
-														layout.createSequentialGroup()
-																.addComponent(
-																		powerLabel,
-																		GroupLayout.PREFERRED_SIZE,
-																		90,
-																		GroupLayout.PREFERRED_SIZE)))
-								.addGroup(
-										layout.createParallelGroup()
-												.addGroup(
-														layout.createSequentialGroup()
-																.addComponent(
-																		soulLabel,
-																		GroupLayout.PREFERRED_SIZE,
-																		130,
-																		GroupLayout.PREFERRED_SIZE))
-												.addGroup(
-														layout.createSequentialGroup()
-																.addComponent(
-																		damageLabel))))
-				.addComponent(descContainer, GroupLayout.PREFERRED_SIZE, 350,
-						GroupLayout.PREFERRED_SIZE));
+			.createParallelGroup()
+			.addComponent(nameLabel, GroupLayout.PREFERRED_SIZE, 350,
+				GroupLayout.PREFERRED_SIZE)
+			.addGroup(
+				layout
+					.createSequentialGroup()
+					.addGroup(
+						layout
+							.createParallelGroup()
+							.addGroup(
+								layout.createSequentialGroup().addComponent(idLabel,
+									GroupLayout.PREFERRED_SIZE, 125,
+									GroupLayout.PREFERRED_SIZE))
+							.addGroup(
+								layout
+									.createSequentialGroup()
+									.addComponent(levelLabel,
+										GroupLayout.PREFERRED_SIZE, 60,
+										GroupLayout.PREFERRED_SIZE)
+									.addComponent(costLabel)))
+					.addGroup(
+						layout
+							.createParallelGroup()
+							.addGroup(
+								layout.createSequentialGroup().addComponent(typeLabel))
+							.addGroup(
+								layout.createSequentialGroup().addComponent(powerLabel,
+									GroupLayout.PREFERRED_SIZE, 90,
+									GroupLayout.PREFERRED_SIZE)))
+					.addGroup(
+						layout
+							.createParallelGroup()
+							.addGroup(
+								layout.createSequentialGroup().addComponent(soulLabel,
+									GroupLayout.PREFERRED_SIZE, 130,
+									GroupLayout.PREFERRED_SIZE))
+							.addGroup(
+								layout.createSequentialGroup()
+									.addComponent(damageLabel))))
+			.addComponent(descContainer, GroupLayout.PREFERRED_SIZE, 350,
+				GroupLayout.PREFERRED_SIZE));
 
 		layout.setVerticalGroup(layout
-				.createSequentialGroup()
-				.addGroup(layout.createParallelGroup().addComponent(nameLabel))
-				.addGroup(
-						layout.createParallelGroup().addComponent(idLabel)
-								.addComponent(typeLabel)
-								.addComponent(soulLabel))
-				.addGroup(
-						layout.createParallelGroup().addComponent(levelLabel)
-								.addComponent(costLabel)
-								.addComponent(powerLabel)
-								.addComponent(damageLabel))
-				.addGroup(
-						layout.createParallelGroup()
-								.addComponent(descContainer)));
+			.createSequentialGroup()
+			.addGroup(layout.createParallelGroup().addComponent(nameLabel))
+			.addGroup(
+				layout.createParallelGroup().addComponent(idLabel)
+					.addComponent(typeLabel).addComponent(soulLabel))
+			.addGroup(
+				layout.createParallelGroup().addComponent(levelLabel)
+					.addComponent(costLabel).addComponent(powerLabel)
+					.addComponent(damageLabel))
+			.addGroup(layout.createParallelGroup().addComponent(descContainer)));
 
 		// System.out.println("getInfoPane");
 
@@ -521,8 +502,8 @@ public class CardOriginal extends JLabel
 	// return a String representation of the card
 	public String toString() {
 		if (cardBound != null)
-			System.out.println("hitbox (" + cardBound.x + ", " + cardBound.y
-					+ ")");
+			System.out
+				.println("hitbox (" + cardBound.x + ", " + cardBound.y + ")");
 		return id + ":" + name;
 	}
 
@@ -547,8 +528,8 @@ public class CardOriginal extends JLabel
 	}
 
 	public boolean meetsRequirement(String sId, String sName, CCode sColor,
-			Type sType, int sLevel, int sCost, Trigger sTrigger, int sPower,
-			int sSoul, String sTrait, String sAbility) {
+		Type sType, int sLevel, int sCost, Trigger sTrigger, int sPower,
+		int sSoul, String sTrait, String sAbility) {
 
 		boolean isMet = true;
 
@@ -591,8 +572,8 @@ public class CardOriginal extends JLabel
 
 		if (!sTrait.isEmpty()) {
 			isMet = isMet
-					&& (trait1.toLowerCase().contains(sTrait) || trait2
-							.toLowerCase().contains(sTrait));
+				&& (trait1.toLowerCase().contains(sTrait) || trait2.toLowerCase()
+					.contains(sTrait));
 		}
 
 		if (!sAbility.isEmpty()) {
@@ -601,8 +582,7 @@ public class CardOriginal extends JLabel
 
 			for (int i = 0; i < parts.length; i++) {
 				isMet = isMet
-						&& getEffects().toLowerCase().contains(
-								parts[i].toLowerCase());
+					&& getEffects().toLowerCase().contains(parts[i].toLowerCase());
 			}
 		}
 
@@ -619,8 +599,8 @@ public class CardOriginal extends JLabel
 
 	public void setCardBound2(int x, int y, int width, int height) {
 		cardBound2 = new Rectangle((int) (x), (int) (y),
-				(int) (width / Game.Game.gameScale),
-				(int) (height / Game.Game.gameScale));
+			(int) (width / Game.Game.gameScale),
+			(int) (height / Game.Game.gameScale));
 	}
 
 	public Rectangle getCardBound2() {
@@ -634,7 +614,7 @@ public class CardOriginal extends JLabel
 	}
 
 	public void paint(Graphics g, int x, int y, boolean isFaceUp,
-			boolean isHorizontal) {
+		boolean isHorizontal) {
 
 		// System.out.println("card paint : " + name + " : " + x + ", " + y);
 
@@ -650,16 +630,16 @@ public class CardOriginal extends JLabel
 		try {
 			// cardImage = ImageIO.read((imageFile.toURI()).toURL());
 			if (!isFaceUp) {
-				cardImage = ImageIO.read(((new File(
-						"FieldImages/cardBack-s.jpg")).toURI()).toURL());
+				cardImage = ImageIO.read(((new File("FieldImages/cardBack-s.jpg"))
+					.toURI()).toURL());
 			} else {
 				cardImage = ImageIO.read((imageFile.toURI()).toURL());
 			}
 
 			cardBound = new Rectangle((int) (x * Game.Game.gameScale), (int) (y
-					* Game.Game.gameScale + Game.Game.translatedY),
-					(int) (cardImage.getWidth(null) * Game.Game.gameScale),
-					(int) (cardImage.getHeight(null) * Game.Game.gameScale));
+				* Game.Game.gameScale + Game.Game.translatedY),
+				(int) (cardImage.getWidth(null) * Game.Game.gameScale),
+				(int) (cardImage.getHeight(null) * Game.Game.gameScale));
 
 		} catch (MalformedURLException e) {
 			e.printStackTrace();
@@ -671,10 +651,10 @@ public class CardOriginal extends JLabel
 			AffineTransform at = new AffineTransform();
 			at.scale(1, 1);
 			at.rotate(90 * Math.PI / 180, cardImage.getWidth() / 2,
-					cardImage.getHeight() / 2);
+				cardImage.getHeight() / 2);
 
 			BufferedImageOp newImg = new AffineTransformOp(at,
-					AffineTransformOp.TYPE_BILINEAR);
+				AffineTransformOp.TYPE_BILINEAR);
 
 			BufferedImage transformedCard = newImg.filter(cardImage, null);
 			g2.drawImage(transformedCard, x, y, null);
@@ -774,19 +754,18 @@ public class CardOriginal extends JLabel
 
 		if (imageFile == null) {
 			System.out.println("DEFAULT IMAGE");
-			Image image = ImageIO
-					.read(((new File("FieldImages/cardBack-s.jpg")).toURI())
-							.toURL());
+			Image image = ImageIO.read(((new File("FieldImages/cardBack-s.jpg"))
+				.toURI()).toURL());
 			ImageIcon img = new ImageIcon(image.getScaledInstance(
-					(int) (103 * 0.44), (int) (150 * 0.44), Image.SCALE_SMOOTH));
+				(int) (103 * 0.44), (int) (150 * 0.44), Image.SCALE_SMOOTH));
 			retLabel = new JLabel(img);
 			return retLabel;
 		}
 		Image image;
 		image = ImageIO.read((imageFile.toURI()).toURL());
 		ImageIcon img = new ImageIcon(image.getScaledInstance(
-				(int) (image.getWidth(null) * 0.44),
-				(int) (image.getHeight(null) * 0.44), Image.SCALE_SMOOTH));
+			(int) (image.getWidth(null) * 0.44),
+			(int) (image.getHeight(null) * 0.44), Image.SCALE_SMOOTH));
 
 		retLabel = new JLabel();
 		retLabel.setIcon(img);

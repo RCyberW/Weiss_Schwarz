@@ -7,29 +7,23 @@ import javax.swing.table.AbstractTableModel;
 import CardAssociation.*;
 
 public class ResultListTableModel extends AbstractTableModel {
-	
+
 	private static final long serialVersionUID = 3975544447965529587L;
-	
+
 	private String[] columnNames = { "ID", "Name", "Color", "Type", "Level",
-			"Cost", "Soul", "Power" };	
-	private Class<?>[] types = {String.class, 
-			String.class, 
-			CCode.class, 
-			Type.class,
-			Integer.class,
-			Integer.class,
-			Integer.class,
-			Integer.class};
-	
+		"Cost", "Soul", "Power" };
+	private Class<?>[] types = { String.class, String.class, CCode.class,
+		Type.class, Integer.class, Integer.class, Integer.class, Integer.class };
+
 	private ArrayList<Card> cardlist;
-	
+
 	public ResultListTableModel() {
 	}
-	
+
 	public ResultListTableModel(ArrayList<Card> cardlist) {
 		this.cardlist = cardlist;
 	}
-	
+
 	public void setCardList(ArrayList<Card> cardlist) {
 		this.cardlist = cardlist;
 		fireTableDataChanged();
@@ -37,13 +31,11 @@ public class ResultListTableModel extends AbstractTableModel {
 
 	@Override
 	public int getColumnCount() {
-		// TODO Auto-generated method stub
 		return columnNames.length;
 	}
 
 	@Override
 	public int getRowCount() {
-		// TODO Auto-generated method stub
 		return cardlist.size();
 	}
 
@@ -71,14 +63,14 @@ public class ResultListTableModel extends AbstractTableModel {
 			return null;
 		}
 	}
-	
+
 	@Override
 	public String getColumnName(int columnIndex) {
 		return columnNames[columnIndex];
 	}
-	
+
 	@Override
 	public Class<?> getColumnClass(int columnIndex) {
 		return types[columnIndex];
-	}	
+	}
 }

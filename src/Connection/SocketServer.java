@@ -1,4 +1,5 @@
 package Connection;
+
 import java.awt.Color;
 import java.awt.BorderLayout;
 import java.awt.event.*;
@@ -62,8 +63,7 @@ class SocketServer extends JFrame implements ActionListener {
 		}
 
 		try {
-			in = new BufferedReader(new InputStreamReader(
-					client.getInputStream()));
+			in = new BufferedReader(new InputStreamReader(client.getInputStream()));
 			out = new PrintWriter(client.getOutputStream(), true);
 		} catch (IOException e) {
 			System.out.println("Accept failed: 9090");

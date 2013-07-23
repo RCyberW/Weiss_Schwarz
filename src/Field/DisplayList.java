@@ -108,8 +108,7 @@ public class DisplayList extends JFrame {
 			JButton toRoom = new JButton("Top to Waiting Room");
 			toRoom.addActionListener(new ActionListener() {
 				public void actionPerformed(ActionEvent e) {
-					thisPlayer.getField().getWaitingRoom()
-							.setCard(cardList.get(0));
+					thisPlayer.getField().getWaitingRoom().setCard(cardList.get(0));
 					thisPlayer.getField().getDeckZone().removeTop();
 					dispose();
 					thisPlayer.getField().repaintElements();
@@ -119,8 +118,7 @@ public class DisplayList extends JFrame {
 			JButton toBottom = new JButton("Top to Bottom");
 			toBottom.addActionListener(new ActionListener() {
 				public void actionPerformed(ActionEvent e) {
-					thisPlayer.getField().getDeckZone()
-							.setBotCard(cardList.get(0));
+					thisPlayer.getField().getDeckZone().setBotCard(cardList.get(0));
 					thisPlayer.getField().getDeckZone().removeTop();
 					dispose();
 					thisPlayer.getField().repaintElements();
@@ -158,10 +156,8 @@ public class DisplayList extends JFrame {
 			height = selectedCard.getCardImage().getHeight(null);
 			width = selectedCard.getCardImage().getWidth(null);
 		} catch (MalformedURLException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 
@@ -177,13 +173,11 @@ public class DisplayList extends JFrame {
 
 		String areaContext = "";
 		areaContext += "LEVEL: "
-				+ (selectedCard.getLevel() >= 0 ? selectedCard.getLevel() : "-")
-				+ " ";
+			+ (selectedCard.getLevel() >= 0 ? selectedCard.getLevel() : "-") + " ";
 		areaContext += "COST: "
-				+ (selectedCard.getCost() >= 0 ? selectedCard.getCost() : "-")
-				+ " ";
+			+ (selectedCard.getCost() >= 0 ? selectedCard.getCost() : "-") + " ";
 		areaContext += "TRIGGER: " + selectedCard.getTrigger();
-		
+
 		JTextArea cardNumber = new JTextArea(areaContext);
 		cardNumber.setLineWrap(true);
 		cardNumber.setWrapStyleWord(true);
@@ -191,11 +185,10 @@ public class DisplayList extends JFrame {
 
 		areaContext = "";
 		areaContext += "POWER: "
-				+ (selectedCard.getPower() >= 0 ? selectedCard.getPower() : "-")
-				+ " ";
+			+ (selectedCard.getPower() >= 0 ? selectedCard.getPower() : "-") + " ";
 		areaContext += "SOUL: "
-				+ (selectedCard.getSoul() >= 0 ? selectedCard.getSoul() : "-");
-		
+			+ (selectedCard.getSoul() >= 0 ? selectedCard.getSoul() : "-");
+
 		JTextArea power = new JTextArea(areaContext);
 		power.setLineWrap(true);
 		power.setWrapStyleWord(true);

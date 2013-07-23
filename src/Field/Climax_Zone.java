@@ -42,7 +42,8 @@ public class Climax_Zone extends FieldElement {
 
 	public boolean snapToZone(Card c) {
 
-		if (c.getT() == Type.CLIMAX && c.getCardBound().intersects(rect) && !containCards()) {
+		if (c.getT() == Type.CLIMAX && c.getCardBound().intersects(rect)
+			&& !containCards()) {
 			c.getCardBound().setLocation(x, y);
 			return true;
 		}

@@ -50,7 +50,7 @@ public class Receiver extends Thread {
 		}
 
 		System.out.println("1. Starting Weiss Server port "
-				+ serverSocket.getLocalSocketAddress().toString() + "...");
+			+ serverSocket.getLocalSocketAddress().toString() + "...");
 
 		onlinePlayers = new Player[100];
 		ongoingGames = new Game[50];
@@ -65,8 +65,8 @@ public class Receiver extends Thread {
 				onlinePlayers[playerCount] = player;
 				player.setSessionID(playerCount);
 				try {
-					DataOutputStream dout = new DataOutputStream(server
-							.getOutputStream());
+					DataOutputStream dout = new DataOutputStream(
+						server.getOutputStream());
 					dout.writeInt(playerCount);
 				} catch (IOException e) {
 					e.printStackTrace();
@@ -102,7 +102,7 @@ public class Receiver extends Thread {
 				if (onlinePlayers[i].isInGame()) {
 				} else {
 					if (p.getSessionID() != onlinePlayers[i].getSessionID()
-							&& !onlinePlayers[i].getSelectedDeck().isEmpty()) {
+						&& !onlinePlayers[i].getSelectedDeck().isEmpty()) {
 						p.setInGame(true);
 						onlinePlayers[i].setInGame(true);
 						game = new Game(p, onlinePlayers[i]);
@@ -124,8 +124,8 @@ public class Receiver extends Thread {
 		}
 
 		try {
-			ObjectOutputStream oout = new ObjectOutputStream(server
-					.getOutputStream());
+			ObjectOutputStream oout = new ObjectOutputStream(
+				server.getOutputStream());
 			if (game != null)
 				oout.writeObject(game);
 		} catch (IOException e) {
@@ -138,7 +138,7 @@ public class Receiver extends Thread {
 			try {
 				server = serverSocket.accept();
 				System.out.println("2. Connected to "
-						+ server.getRemoteSocketAddress());
+					+ server.getRemoteSocketAddress());
 				in = new ObjectInputStream(server.getInputStream());
 
 				Object o = null;
@@ -155,7 +155,7 @@ public class Receiver extends Thread {
 					if (str.startsWith("match game")) {
 						Player p = null;
 						int sID = Integer.parseInt(str.substring(
-								"match game".length()).trim());
+							"match game".length()).trim());
 						for (int i = 0; i < onlinePlayers.length; i++) {
 							if (onlinePlayers[i].getSessionID() == sID) {
 								p = onlinePlayers[i];

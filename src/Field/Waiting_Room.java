@@ -88,7 +88,7 @@ public class Waiting_Room extends FieldElement {
 
 		// g.drawString(zoneName, x + 10, y + 20);
 		g.drawString(zoneName + ": " + waitingRoom.size() + "", this.x,
-				this.y - 10);
+			this.y - 10);
 	}
 
 	// @Override

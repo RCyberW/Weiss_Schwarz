@@ -13,6 +13,7 @@
 .project
 .metadata
 bin/
+bin1/
 tmp/
 *.tmp
 *.bak

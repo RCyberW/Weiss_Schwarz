@@ -27,7 +27,7 @@ import CardAssociation.Deck;
 import Game.Player;
 
 public class NewMainField extends Canvas implements Serializable,
-		MouseListener, MouseMotionListener {
+	MouseListener, MouseMotionListener {
 
 	private static final long serialVersionUID = -2417240192973578906L;
 
@@ -94,7 +94,7 @@ public class NewMainField extends Canvas implements Serializable,
 			// System.out.println(getClass().getResource(
 			// "/resources/FieldImages/" + "Background.png"));
 			BufferedImage before = ImageIO.read(getClass().getResource(
-					"/resources/FieldImages/" + "Background.png"));
+				"/resources/FieldImages/" + "Background.png"));
 			w = (int) (Game.Game.maxWidth * Game.Game.gameScale);
 			h = (int) (Game.Game.maxHeight * Game.Game.gameScale);
 			bg = new BufferedImage(w, h, BufferedImage.TYPE_INT_ARGB);
@@ -102,7 +102,7 @@ public class NewMainField extends Canvas implements Serializable,
 			AffineTransform at = new AffineTransform();
 			at.scale(Game.Game.gameScale, Game.Game.gameScale);
 			AffineTransformOp scaleOp = new AffineTransformOp(at,
-					AffineTransformOp.TYPE_BILINEAR);
+				AffineTransformOp.TYPE_BILINEAR);
 			bg = scaleOp.filter(before, null);
 
 			cardImage = bg.createGraphics();
@@ -241,22 +241,22 @@ public class NewMainField extends Canvas implements Serializable,
 			} else {
 				System.out.println(lastSelected.toString());
 				if (lastSelected.toString().equals("Front-Row")
-						|| lastSelected.toString().equals("Back-Row")) {
+					|| lastSelected.toString().equals("Back-Row")) {
 					// swap
 					System.out.println("SWAPPING PREP...");
 					for (FieldElement fe : elements) {
 						if (fe.contains(e.getPoint())
-								&& (fe.toString().equals("Front-Row") || fe
-										.toString().equals("Back-Row"))) {
+							&& (fe.toString().equals("Front-Row") || fe.toString()
+								.equals("Back-Row"))) {
 							// || fe.toString().equals("Resolution Area"))) {
 							fe.mouseReleased(e);
 							Card card1 = fe.showCard();
 							Card card2 = lastSelected.showCard();
 
 							CardAssociation.State card1State = card1 != null ? card1
-									.getCurrentState() : null;
+								.getCurrentState() : null;
 							CardAssociation.State card2State = card2 != null ? card2
-									.getCurrentState() : null;
+								.getCurrentState() : null;
 
 							fe.setCard(card2);
 							if (card2 != null)
@@ -275,8 +275,8 @@ public class NewMainField extends Canvas implements Serializable,
 				} else if (lastSelected.toString().equals("Resolution Area")) {
 					for (FieldElement fe : elements) {
 						if (fe.contains(e.getPoint())
-								&& (fe.toString().equals("Front-Row") || fe
-										.toString().equals("Back-Row"))) {
+							&& (fe.toString().equals("Front-Row") || fe.toString()
+								.equals("Back-Row"))) {
 							fe.mouseReleased(e);
 							Card card1 = fe.showCard();
 							Card card2 = lastSelected.showCard();
@@ -345,8 +345,8 @@ public class NewMainField extends Canvas implements Serializable,
 			 * 
 			 * Card card = lastSelected.showCard();
 			 * 
-			 * Color curr = g2.getColor(); g2.setColor(Color.RED); Stroke
-			 * oldStroke = g2.getStroke(); g2.setStroke(new BasicStroke(3));
+			 * Color curr = g2.getColor(); g2.setColor(Color.RED); Stroke oldStroke
+			 * = g2.getStroke(); g2.setStroke(new BasicStroke(3));
 			 * g2.drawRect((int)card.getCardBound().getX(),
 			 * (int)card.getCardBound() .getY(),
 			 * (int)card.getCardBound().getWidth(),
@@ -361,9 +361,10 @@ public class NewMainField extends Canvas implements Serializable,
 			g2.setColor(Color.RED);
 			Stroke oldStroke = g2.getStroke();
 			g2.setStroke(new BasicStroke(3));
-			g2.drawRect((int) latestSelectedCard.getCardBound().getX(), (int) latestSelectedCard
-					.getCardBound().getY(), (int) latestSelectedCard.getCardBound()
-					.getWidth(), (int) latestSelectedCard.getCardBound().getHeight());
+			g2.drawRect((int) latestSelectedCard.getCardBound().getX(),
+				(int) latestSelectedCard.getCardBound().getY(),
+				(int) latestSelectedCard.getCardBound().getWidth(),
+				(int) latestSelectedCard.getCardBound().getHeight());
 			g2.setStroke(oldStroke);
 			g2.setColor(curr);
 		}
@@ -441,8 +442,7 @@ public class NewMainField extends Canvas implements Serializable,
 		Card temp = latestSelectedCard;
 
 		if (temp == null) {
-			System.out.println("MAINFIELD: no available card to display::"
-					+ temp);
+			System.out.println("MAINFIELD: no available card to display::" + temp);
 		} else {
 			System.out.println("MAINFIELD: displaying card info::" + temp);
 		}

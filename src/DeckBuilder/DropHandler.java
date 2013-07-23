@@ -53,22 +53,24 @@ public class DropHandler extends TransferHandler implements Transferable {
 	public boolean importData(JComponent comp, Transferable t) {
 		System.out.println("IMPORTING " + comp.getName());
 		if (comp instanceof JLabel) {
-			//Card label = (Card) comp;
-			//System.out.println(label.getName());
+			// Card label = (Card) comp;
+			// System.out.println(label.getName());
 			if (t.isDataFlavorSupported(flavors[0])) {
 				try {
 
 					Card cv2 = (Card) t.getTransferData(flavors[0]);
-					//cv2.clone(label);
-					/*label.setCardName(cv2.getCardName());
-					label.setName(cv2.getName());
+					// cv2.clone(label);
+					/*
+					 * label.setCardName(cv2.getCardName());
+					 * label.setName(cv2.getName());
+					 * 
+					 * System.out.println(cv2.getName() + ":" + cv2.getCardName());
+					 * 
+					 * label.setImage(cv2.getImage());
+					 */
 
-					System.out.println(cv2.getName() + ":" + cv2.getCardName());
-
-					label.setImage(cv2.getImage());*/
-
-					if(currentDeck != null) {
-						currentDeck.addCard(cv2,false);
+					if (currentDeck != null) {
+						currentDeck.addCard(cv2, false);
 					}
 
 					return true;

@@ -67,10 +67,14 @@ public class Player implements Serializable {
 	public JTabbedPane tabbedPane;
 	public JPanel deckPane;
 	public JButton playGame;
+	public JButton multiplayer;
 
 	private BuilderGUI builderGui = null;
 	private int sessionID;
 	private boolean inGame;
+
+	private Player challenger;
+	private Player defender;
 
 	public JFrame f;
 	private boolean loggedOut;
@@ -85,6 +89,7 @@ public class Player implements Serializable {
 		tabbedPane = new JTabbedPane();
 		deckPane = new JPanel();
 		loggedOut = true;
+		defender = this;
 
 		selectedDeck = "";
 
@@ -94,8 +99,11 @@ public class Player implements Serializable {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				if (!selectedDeck.isEmpty()) {
-					if (findGame())
+					if (findGame()) {
+						currentGame = new Game(defender);
 						buildGame();
+						currentGame.testGame();
+					}
 					// setReady();
 				}
 			}
@@ -103,6 +111,27 @@ public class Player implements Serializable {
 		});
 
 		playGame.setEnabled(false);
+
+		multiplayer = new JButton("Enter Network");
+		multiplayer.addActionListener(new ActionListener() {
+
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				if (!selectedDeck.isEmpty()) {
+					// TODO: enter server to look for matches
+					// client will pause for listening
+					challenger = new Player();
+					challenger.setSelectedDeck(selectedDeck);
+					if (findGame()) {
+						currentGame = new Game(defender, challenger);
+						buildGame(currentGame);
+					}
+				}
+			}
+
+		});
+
+		multiplayer.setEnabled(false);
 
 		userFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		sessionID = -1;
@@ -144,11 +173,11 @@ public class Player implements Serializable {
 		} else {
 			System.out.println("Not A Directory");
 		}
-		
-		if(playerDecks.isEmpty()) {
-			return ;
+
+		if (playerDecks.isEmpty()) {
+			return;
 		}
-		
+
 		// selecting a deck
 		for (String deckTitle : playerDecks) {
 			final JButton deckSelect = new JButton(deckTitle);
@@ -158,19 +187,22 @@ public class Player implements Serializable {
 				public void actionPerformed(ActionEvent e) {
 					selectedDeck = deckSelect.getText();
 					initField();
-					if (isReady())
+					if (isReady()) {
 						playGame.setEnabled(true);
-					else
+						multiplayer.setEnabled(true);
+					} else {
 						playGame.setEnabled(false);
+						multiplayer.setEnabled(false);
+					}
 
 					ready = false;
-					
+
 					int reset = deckPane.getComponentCount();
 
 					for (int i = 0; i < reset; i++) {
 						deckPane.getComponent(i).setBackground(Color.CYAN);
 					}
-					
+
 					deckSelect.setBackground(Color.RED);
 					// System.out.println("Deck Selected : " + selectedDeck);
 					// setReady();
@@ -188,15 +220,15 @@ public class Player implements Serializable {
 		 * final JButton newDeck = new JButton("New_Deck");
 		 * newDeck.addActionListener(new ActionListener() {
 		 * 
-		 * @Override public void actionPerformed(ActionEvent e) {
-		 * startDeckEdit(); }
+		 * @Override public void actionPerformed(ActionEvent e) { startDeckEdit();
+		 * }
 		 * 
 		 * }); deckPane.add(newDeck);
 		 */
 	}
 
 	private boolean findGame() {
-		// TODO
+		// TODO: find network
 		return true;
 	}
 
@@ -208,7 +240,8 @@ public class Player implements Serializable {
 		// loading the deck
 		currentDeck = new Deck();
 		currentDeck.loadRaw(new File("Deck/" + selectedDeck), dictionary);
-		System.out.println(selectedDeck + " has " + currentDeck.getPlayingDeck().size() + " cards");
+		System.out.println(selectedDeck + " has "
+			+ currentDeck.getPlayingDeck().size() + " cards");
 
 		field = new NewMainField(this);
 
@@ -237,6 +270,7 @@ public class Player implements Serializable {
 	private Box displayInfo;
 	private Box leftPanel;
 	private Box statsInfo;
+	private JPanel gamePane;
 
 	public boolean isReady() {
 		return ready;
@@ -249,11 +283,11 @@ public class Player implements Serializable {
 	public void buildGame() {
 		System.out.println("Building game....");
 		f = new JFrame("Weiss Schwarz " + playerID);
-		// if (currentGame == null) {
-		currentGame = new Game(this);
 		initField();
-		currentGame.testGame();
+	}
 
+	public void buildGame(Game match) {
+		currentGame.playGame();
 	}
 
 	public void drawField() {
@@ -285,12 +319,18 @@ public class Player implements Serializable {
 	public void updateStatsBox() {
 		statsInfo.removeAll();
 		statsInfo.validate();
-		statsInfo.add(new JLabel("Cards remain: " + this.getField().getDeckZone().getCount()));
-		statsInfo.add(new JLabel("Waiting room: " + this.getField().getWaitingRoom().getCount()));
-		statsInfo.add(new JLabel("Clock damage: " + this.getField().getClockZone().getCount()));
-		statsInfo.add(new JLabel("Level count : " + this.getField().getLevelZone().getCount()));
-		statsInfo.add(new JLabel("Stock size  : " + this.getField().getStockZone().getCount()));
-		statsInfo.add(new JLabel("Memory count: " + this.getField().getMemoryZone().getCount()));
+		statsInfo.add(new JLabel("Cards remain: "
+			+ this.getField().getDeckZone().getCount()));
+		statsInfo.add(new JLabel("Waiting room: "
+			+ this.getField().getWaitingRoom().getCount()));
+		statsInfo.add(new JLabel("Clock damage: "
+			+ this.getField().getClockZone().getCount()));
+		statsInfo.add(new JLabel("Level count : "
+			+ this.getField().getLevelZone().getCount()));
+		statsInfo.add(new JLabel("Stock size  : "
+			+ this.getField().getStockZone().getCount()));
+		statsInfo.add(new JLabel("Memory count: "
+			+ this.getField().getMemoryZone().getCount()));
 		f.setVisible(true);
 	}
 
@@ -330,8 +370,10 @@ public class Player implements Serializable {
 		cardTitle.setEditable(false);
 
 		String areaContext = "";
-		areaContext += "LEVEL: " + (selectedCard.getLevel() >= 0 ? selectedCard.getLevel() : "-") + " ";
-		areaContext += "COST: " + (selectedCard.getCost() >= 0 ? selectedCard.getCost() : "-") + " ";
+		areaContext += "LEVEL: "
+			+ (selectedCard.getLevel() >= 0 ? selectedCard.getLevel() : "-") + " ";
+		areaContext += "COST: "
+			+ (selectedCard.getCost() >= 0 ? selectedCard.getCost() : "-") + " ";
 		areaContext += "TRIGGER: " + selectedCard.getTrigger();
 
 		JTextArea cardNumber = new JTextArea(areaContext);
@@ -340,8 +382,10 @@ public class Player implements Serializable {
 		cardNumber.setEditable(false);
 
 		areaContext = "";
-		areaContext += "POWER: " + (selectedCard.getPower() >= 0 ? selectedCard.getPower() : "-") + " ";
-		areaContext += "SOUL: " + (selectedCard.getSoul() >= 0 ? selectedCard.getSoul() : "-");
+		areaContext += "POWER: "
+			+ (selectedCard.getPower() >= 0 ? selectedCard.getPower() : "-") + " ";
+		areaContext += "SOUL: "
+			+ (selectedCard.getSoul() >= 0 ? selectedCard.getSoul() : "-");
 		JTextArea power = new JTextArea(areaContext);
 		power.setLineWrap(true);
 		power.setWrapStyleWord(true);
@@ -378,6 +422,10 @@ public class Player implements Serializable {
 		return selectedDeck;
 	}
 
+	public void setSelectedDeck(String deckName) {
+		selectedDeck = deckName;
+	}
+
 	@SuppressWarnings("unchecked")
 	private void deserializer() {
 		InputStream fileInput;
@@ -400,9 +448,11 @@ public class Player implements Serializable {
 	public void buildAndDisplay() {
 		// deckPane.setSize(new Dimension(500, 500));
 		displayDecks();
+		displayOptions();
 
 		int dimension = (int) Math.ceil(Math.sqrt(playerDecks.size()));
-		if (dimension <= 0) dimension = 1;
+		if (dimension <= 0)
+			dimension = 1;
 		deckPane.setLayout(new GridLayout(dimension, dimension));
 
 		deckPane.addFocusListener(new FocusListener() {
@@ -424,7 +474,7 @@ public class Player implements Serializable {
 		}
 
 		tabbedPane.addTab("Builder", builderGui.getContentPane());
-		tabbedPane.addTab("Game", playGame);
+		tabbedPane.addTab("Game", gamePane);
 		tabbedPane.addTab("Deck", deckPane);
 
 		tabbedPane.addFocusListener(new FocusListener() {
@@ -446,13 +496,21 @@ public class Player implements Serializable {
 
 		userFrame.setContentPane(tabbedPane);
 
-		Dimension playerDim = new Dimension(builderGui.getWidth() + 10, builderGui.getHeight() + 30);
+		Dimension playerDim = new Dimension(builderGui.getWidth() + 10,
+			builderGui.getHeight() + 30);
 
 		userFrame.setMinimumSize(playerDim);
 		userFrame.setMaximumSize(playerDim);
 		// userFrame.pack();
 		userFrame.setLocationRelativeTo(null);
 		userFrame.setVisible(true);
+	}
+
+	private void displayOptions() {
+		gamePane = new JPanel();
+		gamePane.add(playGame);
+		gamePane.add(multiplayer);
+
 	}
 
 	public void setSessionID(int playerCount) {
@@ -490,8 +548,6 @@ public class Player implements Serializable {
 	public void setGame(Game game) {
 		currentGame = game;
 		// currentGame.setFirst(this);
-		System.out.println("set game into game");
-		refresh();
 	}
 
 	private void refresh() {
