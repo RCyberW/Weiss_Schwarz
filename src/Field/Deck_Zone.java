@@ -209,7 +209,7 @@ public class Deck_Zone extends FieldElement {
 		g.setFont(new Font("TimesRoman", Font.PLAIN, 12));
 		g.setColor(Color.BLUE);
 
-		g.drawString("Card count: " + deckZone.size() + "", this.x, this.y - 10);
+		g.drawString("Card count: " + deckZone.size() + "", x, y - 5);
 	}
 
 	@Override

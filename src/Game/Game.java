@@ -31,7 +31,7 @@ import javax.swing.JPanel;
 
 import CardAssociation.Card;
 import CardAssociation.State;
-import Field.NewMainField;
+import Field.MainField;
 
 public class Game extends JPanel implements MouseListener, MouseMotionListener {
 
@@ -42,12 +42,12 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 	public static double gameScale = 0.6;
 	public static int translatedY = 0;
 	public static int maxWidth = 1200;
-	public static int maxHeight = 1000;
+	public static int maxHeight = 770;
 	// public static Connector connect;
 
 	public Phase currPhase;
-	public NewMainField defendingField;
-	public NewMainField attackingField;
+	public MainField defendingField;
+	public MainField attackingField;
 	private int gameStatus = 0;
 	public Player player1;
 	public Player player2;
@@ -80,7 +80,7 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 		addMouseMotionListener(this);
 		addMouseListener(this);
 		player1 = p1;
-		player2 = p1;
+		player2 = null;
 		// maxWidth = p1.getField().getPreferredSize().width;
 		this.setPreferredSize(new Dimension(maxWidth, maxHeight));
 		this.setSize(new Dimension(maxWidth, maxHeight));
@@ -139,8 +139,7 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 	}
 
 	public void startGame() {
-		// player1.drawField();
-
+		// player1.drawField();		
 		player1.setCurrentPhase(Phase.STAND_PHASE);
 		currPhase = player1.getCurrentPhase();
 		nextPhase();
@@ -197,7 +196,6 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 	public void paint(Graphics g) {
 
 		// TODO: receive and update each player's field
-
 		Graphics2D g2 = (Graphics2D) g;
 		// paintWords(g2);
 		g2.setColor(Color.pink);
@@ -207,12 +205,12 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 
 		player1.getHand().paint(g2);
 
-		attackingField.paint(g);
+		attackingField.paint(g2);
 
 		// initialize nextRect
 		int initialX, initialY;
 		initialX = 50; // placeholder
-		initialY = 700; // placeholder
+		initialY = 580; // placeholder
 
 		int i = 0;
 
@@ -222,8 +220,8 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 			if (currPhase == phase) {
 				g2.setColor(Color.RED);
 				g2.drawString(phase.toString(),
-					(int) ((initialX + i * offsetX) * (gameScale)),
-					(int) ((initialY) * (gameScale) + translatedY));
+				   (int) ((initialX + i * offsetX) * (gameScale)),
+				   (int) ((initialY) * (gameScale) + translatedY));
 				g2.setColor(Color.BLUE);
 
 				int xval = (int) ((initialX + (i + 1) * offsetX - 5) * (gameScale));
@@ -232,14 +230,14 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 					xval = (int) ((initialX + (0) * offsetX - 5) * (gameScale));
 				}
 				nextRect = new Rectangle(xval, (int) ((initialY - offsetY + 5)
-					* (gameScale) + translatedY), (int) (offsetX * gameScale),
-					(int) (offsetY * gameScale));
-				g.drawRect(nextRect.x, nextRect.y, nextRect.width, nextRect.height);
+				   * (gameScale) + translatedY), (int) (offsetX * gameScale),
+				   (int) (offsetY * gameScale));
+				g2.drawRect(nextRect.x, nextRect.y, nextRect.width, nextRect.height);
 
 			} else {
 				g2.drawString(phase.toString(),
-					(int) ((initialX + i * offsetX) * (gameScale)),
-					(int) ((initialY) * (gameScale) + translatedY));
+				   (int) ((initialX + i * offsetX) * (gameScale)),
+				   (int) ((initialY) * (gameScale) + translatedY));
 			}
 			i++;
 		}
@@ -251,7 +249,12 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 		player1.updateStatsBox();
 
 		// TODO: send player field to the other player
-
+		System.out.printf("Game dimension = %d x %d\n", this.getWidth(),
+		   this.getHeight());
+		System.out.printf("Field dimension = %f x %f\n",
+		   attackingField.getPreferredSize().getWidth(), attackingField.getPreferredSize().getHeight());
+		System.out.printf("Hand dimension = %f x %f\n",
+		   player1.getHand().getPreferredSize().getWidth(), player1.getHand().getPreferredSize().getHeight());
 	}
 
 	// representation of STAND PHASE
@@ -394,7 +397,7 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 
 	public Dimension getPreferredSize() {
 		return new Dimension((int) (maxWidth * gameScale),
-			(int) (maxHeight * gameScale));
+		   (int) (maxHeight * gameScale));
 	}
 
 	// assign the game a game instance id

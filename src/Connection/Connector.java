@@ -10,7 +10,7 @@ import java.io.Serializable;
 import java.net.Socket;
 import java.net.UnknownHostException;
 
-import Field.NewMainField;
+import Field.MainField;
 import Game.Game;
 import Game.Player;
 
@@ -61,7 +61,7 @@ public class Connector implements Serializable {
 	}
 
 	// send message to server
-	public void messenger(NewMainField field) {
+	public void messenger(MainField field) {
 		try {
 			outToServer = client.getOutputStream();
 			out = new ObjectOutputStream(outToServer);
@@ -108,13 +108,13 @@ public class Connector implements Serializable {
 	}
 
 	// get messages from server
-	public NewMainField mailField() {
-		NewMainField field = null;
+	public MainField mailField() {
+		MainField field = null;
 
 		try {
 			inFromServer = client.getInputStream();
 			in = new ObjectInputStream(inFromServer);
-			field = (NewMainField) in.readObject();
+			field = (MainField) in.readObject();
 		} catch (IOException e) {
 			e.printStackTrace();
 		} catch (ClassNotFoundException e) {

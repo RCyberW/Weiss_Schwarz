@@ -38,14 +38,16 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
+import javax.swing.JSeparator;
 import javax.swing.JTabbedPane;
 import javax.swing.JTextArea;
+import javax.swing.SwingConstants;
 
 import CardAssociation.Card;
 import CardAssociation.Deck;
 import DeckBuilder.BuilderGUI;
 import Field.Hand;
-import Field.NewMainField;
+import Field.MainField;
 
 public class Player implements Serializable {
 
@@ -55,7 +57,7 @@ public class Player implements Serializable {
 	private static final long serialVersionUID = -8938420254001640004L;
 	public Phase currentPhase;
 	private Hand hand;
-	public NewMainField field;
+	public MainField field;
 	private int playerID;
 
 	private ArrayList<String> playerDecks;
@@ -241,16 +243,16 @@ public class Player implements Serializable {
 		currentDeck = new Deck();
 		currentDeck.loadRaw(new File("Deck/" + selectedDeck), dictionary);
 		System.out.println(selectedDeck + " has "
-			+ currentDeck.getPlayingDeck().size() + " cards");
+		   + currentDeck.getPlayingDeck().size() + " cards");
 
-		field = new NewMainField(this);
+		field = new MainField(this);
 
 		boolean readyDeck = field.prepare(currentDeck);
 		// Create Field End
 
 		// Create Hand given Field information
 		System.out.println("Deck Size = " + currentDeck.getCards().size());
-		hand = new Hand("Vertical.png", 50, 850, this);
+		hand = new Hand("Vertical.png", 50, 600, this);
 		// userFrame.add(hand);
 		// System.out.println("should say match game " + sessionID);
 		//
@@ -292,7 +294,7 @@ public class Player implements Serializable {
 
 	public void drawField() {
 		displayInfo = Box.createHorizontalBox();
-		displayInfo.setPreferredSize(new Dimension(200, 500));
+		displayInfo.setPreferredSize(new Dimension(210, 350));
 		JPanel gamePanel = new JPanel();
 		gamePanel.add(currentGame);
 
@@ -301,7 +303,8 @@ public class Player implements Serializable {
 
 		leftPanel = Box.createVerticalBox();
 		leftPanel.add(displayInfo);
-		leftPanel.add(Box.createVerticalGlue());
+		// leftPanel.add(Box.createVerticalGlue());
+		leftPanel.add(new JSeparator(SwingConstants.HORIZONTAL));
 		leftPanel.add(statsInfo);
 		leftPanel.add(Box.createVerticalStrut(10));
 
@@ -320,24 +323,24 @@ public class Player implements Serializable {
 		statsInfo.removeAll();
 		statsInfo.validate();
 		statsInfo.add(new JLabel("Cards remain: "
-			+ this.getField().getDeckZone().getCount()));
+		   + this.getField().getDeckZone().getCount()));
 		statsInfo.add(new JLabel("Waiting room: "
-			+ this.getField().getWaitingRoom().getCount()));
+		   + this.getField().getWaitingRoom().getCount()));
 		statsInfo.add(new JLabel("Clock damage: "
-			+ this.getField().getClockZone().getCount()));
+		   + this.getField().getClockZone().getCount()));
 		statsInfo.add(new JLabel("Level count : "
-			+ this.getField().getLevelZone().getCount()));
+		   + this.getField().getLevelZone().getCount()));
 		statsInfo.add(new JLabel("Stock size  : "
-			+ this.getField().getStockZone().getCount()));
+		   + this.getField().getStockZone().getCount()));
 		statsInfo.add(new JLabel("Memory count: "
-			+ this.getField().getMemoryZone().getCount()));
+		   + this.getField().getMemoryZone().getCount()));
 		f.setVisible(true);
 	}
 
 	public void retreiveCardInfo(Card selectedCard) {
 		displayInfo.removeAll();
 		displayInfo.validate();
-		Dimension dim = new Dimension(200, 400);
+		Dimension dim = new Dimension(210, 350);
 		Box displayArea = Box.createVerticalBox();
 		GridBagConstraints gbc = new GridBagConstraints();
 		gbc.fill = GridBagConstraints.NONE;
@@ -371,9 +374,9 @@ public class Player implements Serializable {
 
 		String areaContext = "";
 		areaContext += "LEVEL: "
-			+ (selectedCard.getLevel() >= 0 ? selectedCard.getLevel() : "-") + " ";
+		   + (selectedCard.getLevel() >= 0 ? selectedCard.getLevel() : "-") + " ";
 		areaContext += "COST: "
-			+ (selectedCard.getCost() >= 0 ? selectedCard.getCost() : "-") + " ";
+		   + (selectedCard.getCost() >= 0 ? selectedCard.getCost() : "-") + " ";
 		areaContext += "TRIGGER: " + selectedCard.getTrigger();
 
 		JTextArea cardNumber = new JTextArea(areaContext);
@@ -383,9 +386,9 @@ public class Player implements Serializable {
 
 		areaContext = "";
 		areaContext += "POWER: "
-			+ (selectedCard.getPower() >= 0 ? selectedCard.getPower() : "-") + " ";
+		   + (selectedCard.getPower() >= 0 ? selectedCard.getPower() : "-") + " ";
 		areaContext += "SOUL: "
-			+ (selectedCard.getSoul() >= 0 ? selectedCard.getSoul() : "-");
+		   + (selectedCard.getSoul() >= 0 ? selectedCard.getSoul() : "-");
 		JTextArea power = new JTextArea(areaContext);
 		power.setLineWrap(true);
 		power.setWrapStyleWord(true);
@@ -414,7 +417,7 @@ public class Player implements Serializable {
 
 	}
 
-	public NewMainField getField() {
+	public MainField getField() {
 		return field;
 	}
 
@@ -442,7 +445,6 @@ public class Player implements Serializable {
 		} catch (ClassNotFoundException e) {
 			e.printStackTrace();
 		}
-
 	}
 
 	public void buildAndDisplay() {
@@ -497,7 +499,7 @@ public class Player implements Serializable {
 		userFrame.setContentPane(tabbedPane);
 
 		Dimension playerDim = new Dimension(builderGui.getWidth() + 10,
-			builderGui.getHeight() + 30);
+		   builderGui.getHeight() + 30);
 
 		userFrame.setMinimumSize(playerDim);
 		userFrame.setMaximumSize(playerDim);

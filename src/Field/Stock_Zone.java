@@ -73,7 +73,7 @@ public class Stock_Zone extends FieldElement {
 		g.setColor(Color.BLUE);
 
 		// g.drawString(zoneName, x + 10, y + 20);
-		g.drawString("Stock size: " + stockZone.size() + "", this.x, this.y - 10);
+		g.drawString("Stock size: " + stockZone.size() + "", x, y - 5);
 	}
 
 	// @Override
@@ -120,7 +120,7 @@ public class Stock_Zone extends FieldElement {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				associatedPlayer.getField().getWaitingRoom()
-					.setCard(stockZone.get(stockZone.size() - 1));
+				   .setCard(stockZone.get(stockZone.size() - 1));
 				stockZone.remove(stockZone.size() - 1);
 				associatedPlayer.getField().repaintElements();
 			}
@@ -132,7 +132,7 @@ public class Stock_Zone extends FieldElement {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				associatedPlayer.getField().getWaitingRoom()
-					.setCard(stockZone.get(0));
+				   .setCard(stockZone.get(0));
 				stockZone.remove(0);
 				associatedPlayer.getField().repaintElements();
 			}

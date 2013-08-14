@@ -7,7 +7,7 @@ import java.io.*;
 
 public class GreetingClient {
 	public static void main(String[] args) {
-		String serverName = "Cyber";
+		String serverName = "10.1.54.88";
 		// String serverName = "174.77.36.43";
 		int port = 9090;
 		try {

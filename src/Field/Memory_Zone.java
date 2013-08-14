@@ -87,7 +87,7 @@ public class Memory_Zone extends FieldElement {
 		g.setFont(new Font("TimesRoman", Font.PLAIN, 12));
 		g.setColor(Color.BLUE);
 
-		g.drawString(zoneName + ": " + memoryZone.size(), x + 10, y + 20);
+		g.drawString(zoneName + ": " + memoryZone.size(), x, y - 5);
 	}
 
 	// @Override

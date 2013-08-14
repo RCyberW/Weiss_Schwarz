@@ -94,7 +94,7 @@ abstract class FieldElement extends Component implements MouseListener {
 	 *           y-axis coordinate on the field
 	 */
 	public FieldElement(String imageFileName, int xa, int ya, String zone,
-		Player player) {
+	   Player player) {
 		// InputStream imageSrc =
 		// getClass().getResource("/resources/FieldImages/" + imageFileName);
 		addMouseListener(this);
@@ -102,13 +102,13 @@ abstract class FieldElement extends Component implements MouseListener {
 		zoneName = zone;
 
 		try {
-			System.out
-				.println(zone
-					+ "   "
-					+ getClass().getResource(
-						"/resources/FieldImages/" + imageFileName));
+			// System.out
+			// .println(zone
+			// + " "
+			// + getClass().getResource(
+			// "/resources/FieldImages/" + imageFileName));
 			BufferedImage before = ImageIO.read(getClass().getResource(
-				"/resources/FieldImages/" + imageFileName));
+			   "/resources/FieldImages/" + imageFileName));
 
 			x = (int) (xa * Game.Game.gameScale);
 			y = (int) ((ya + Game.Game.translatedY) * Game.Game.gameScale);
@@ -120,7 +120,7 @@ abstract class FieldElement extends Component implements MouseListener {
 			AffineTransform at = new AffineTransform();
 			at.scale(Game.Game.gameScale, Game.Game.gameScale);
 			AffineTransformOp scaleOp = new AffineTransformOp(at,
-				AffineTransformOp.TYPE_BILINEAR);
+			   AffineTransformOp.TYPE_BILINEAR);
 			bi = scaleOp.filter(before, null);
 
 			w = (int) (bi.getWidth(null));
@@ -251,7 +251,7 @@ abstract class FieldElement extends Component implements MouseListener {
 	public String toString() {
 		if (rect != null)
 			System.out.println("hitbox (" + rect.x + " ~ " + rect.getWidth()
-				+ ", " + rect.y + " ~ " + rect.getHeight() + ")");
+			   + ", " + rect.y + " ~ " + rect.getHeight() + ")");
 		return zoneName;
 	}
 

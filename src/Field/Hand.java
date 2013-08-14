@@ -67,7 +67,7 @@ public class Hand extends FieldElement {
 	@Override
 	public void paint(Graphics g, Card c) {
 		Graphics2D g2 = (Graphics2D) g;
-		g2.setColor(Color.pink);
+		g2.setColor(Color.WHITE);
 		g2.setBackground(Color.getHSBColor(61, 87, 64));
 		g2.fillRect(0, 0, Game.maxWidth, Game.maxHeight);
 		for (int i = 0; i < handCards.size(); i++) {
@@ -75,11 +75,11 @@ public class Hand extends FieldElement {
 			// System.out.print(thisCard.getCardName() + ", ");
 			thisCard.setDisplay(true, false);
 			thisCard.toCanvas().setLocation(
-				(int) ((x + 110 * i) * Game.gameScale), (int) (y));
+				(int) ((x + 110 * i) * Game.gameScale), (int) (y + 5));
 			if (selected != null
 				&& thisCard.getUniqueID().equals(selected.getUniqueID())) {
 				thisCard.toCanvas().setLocation(
-					(int) ((x + 110 * i) * Game.gameScale), y - 10);
+					(int) ((x + 110 * i) * Game.gameScale), y);
 			}
 			thisCard.toCanvas().paint(g2);
 		}

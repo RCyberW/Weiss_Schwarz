@@ -87,8 +87,7 @@ public class Waiting_Room extends FieldElement {
 		g.setColor(Color.BLUE);
 
 		// g.drawString(zoneName, x + 10, y + 20);
-		g.drawString(zoneName + ": " + waitingRoom.size() + "", this.x,
-			this.y - 10);
+		g.drawString(zoneName + ": " + waitingRoom.size() + "", x, y - 5);
 	}
 
 	// @Override
