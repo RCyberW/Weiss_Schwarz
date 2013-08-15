@@ -30,8 +30,9 @@ public class Level_Zone extends FieldElement {
 	private Card selected;
 	private int swappedIndex;
 
-	public Level_Zone(String imageFileName, int xa, int ya, Player player) {
-		super(imageFileName, xa, ya, "Level", player);
+	public Level_Zone(String imageFileName, int xa, int ya, Player player,
+	   int offset) {
+		super(imageFileName, xa, ya, "Level", player, offset);
 
 		levelZone = new ArrayList<Card>();
 	}
@@ -95,12 +96,15 @@ public class Level_Zone extends FieldElement {
 	public void paint(Graphics g, Card c) {
 		for (int i = 0; i < levelZone.size(); i++) {
 			Card thisCard = levelZone.get(i);
-
-			thisCard.setDisplay(true, true);
-			thisCard.toCanvas()
-				.setLocation((int) (x * Game.gameScale), y - 50 * i);
+			System.out.println("Level zone " + (thisCard.getCurrentState() == State.REST));
+			if (offsetHeight > 0)
+				thisCard.toCanvas().setLocation((int) (x * Game.gameScale),
+				   (int) (y - (50 * Game.gameScale) * i));
+			else
+				thisCard.toCanvas().setLocation((int) (x * Game.gameScale),
+				   (int) (y + (50 * Game.gameScale) * i));
 			if (selected != null
-				&& thisCard.getUniqueID().equals(selected.getUniqueID())) {
+			   && thisCard.getUniqueID().equals(selected.getUniqueID())) {
 				// swappedIndex = i;
 				// thisCard.toCanvas().setLocation(x + 10, y - 50 * i);
 			}
@@ -112,7 +116,8 @@ public class Level_Zone extends FieldElement {
 		g.setFont(new Font("TimesRoman", Font.PLAIN, 12));
 		g.setColor(Color.BLUE);
 
-		g.drawString("Level count: " + levelZone.size() + "", x, y - 10);
+		if (MainField.debug)
+			g.drawString("Level count: " + levelZone.size() + "", x, y - 10);
 	}
 
 	@Override
@@ -122,9 +127,9 @@ public class Level_Zone extends FieldElement {
 			for (int i = 0; i < levelZone.size(); i++) {
 				Card card = levelZone.get(i);
 				output = "LEVEL: x = " + e.getX() + ", y = " + e.getY() + " "
-					+ card.getCardName() + " : " + card.getCardBound().x + " + "
-					+ card.getCardBound().width + " , " + card.getCardBound().y
-					+ " + " + card.getCardBound().height;
+				   + card.getCardName() + " : " + card.getCardBound().x + " + "
+				   + card.getCardBound().width + " , " + card.getCardBound().y
+				   + " + " + card.getCardBound().height;
 				if (card.getCardBound().contains(e.getPoint())) {
 					output += " match! " + swappedIndex;
 					System.out.println(output);
@@ -167,10 +172,12 @@ public class Level_Zone extends FieldElement {
 		swapAction.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				Card temp = associatedPlayer.getField().getRandomZone().showCard();
+				Card temp = associatedPlayer.getField().getDefenderRandomZone()
+				   .showCard();
 				if (temp != null && selected != null) {
-					associatedPlayer.getField().getRandomZone().removeCard();
-					associatedPlayer.getField().getRandomZone().setCard(selected);
+					associatedPlayer.getField().getDefenderRandomZone().removeCard();
+					associatedPlayer.getField().getDefenderRandomZone()
+					   .setCard(selected);
 
 					temp.setCurrentState(State.REST);
 

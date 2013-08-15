@@ -28,8 +28,8 @@ public class Waiting_Room extends FieldElement {
 
 	public ArrayList<Card> waitingRoom;
 
-	public Waiting_Room(String imageFileName, int xa, int ya, Player player) {
-		super(imageFileName, xa, ya, "Waiting room", player);
+	public Waiting_Room(String imageFileName, int xa, int ya, Player player, int offset) {
+		super(imageFileName, xa, ya, "Waiting room", player, offset);
 
 		waitingRoom = new ArrayList<Card>();
 	}
@@ -77,7 +77,6 @@ public class Waiting_Room extends FieldElement {
 
 		if (containCards()) {
 			// System.err.println("painting " + getLast().toString() + "....");
-			showCard().setDisplay(true, false);
 			showCard().toCanvas().setLocation(x, y);
 			showCard().toCanvas().paint(g);
 		} else {
@@ -86,8 +85,8 @@ public class Waiting_Room extends FieldElement {
 		g.setFont(new Font("TimesRoman", Font.PLAIN, 12));
 		g.setColor(Color.BLUE);
 
-		// g.drawString(zoneName, x + 10, y + 20);
-		g.drawString(zoneName + ": " + waitingRoom.size() + "", x, y - 5);
+		if (MainField.debug)
+			g.drawString(zoneName + ": " + waitingRoom.size() + "", x, y - 5);
 	}
 
 	// @Override
@@ -130,9 +129,9 @@ public class Waiting_Room extends FieldElement {
 
 	protected void refreshDeck() {
 		for (Card card : waitingRoom) {
-			associatedPlayer.getField().getDeckZone().setCard(card);
+			associatedPlayer.getField().getDefenderDeckZone().setCard(card);
 		}
-		associatedPlayer.getField().getDeckZone().shuffle();
+		associatedPlayer.getField().getDefenderDeckZone().shuffle();
 
 		waitingRoom.clear();
 	}

@@ -7,9 +7,7 @@ import java.awt.Dimension;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
 import java.awt.Image;
-import java.awt.Rectangle;
 import java.awt.Stroke;
-import java.awt.TexturePaint;
 import java.awt.event.FocusEvent;
 import java.awt.event.FocusListener;
 import java.awt.event.MouseEvent;
@@ -29,52 +27,53 @@ import Game.Player;
 
 public class MainField extends Canvas implements Serializable, MouseListener,
    MouseMotionListener {
-
+	
+	public static boolean debug = false;
 	private static final long serialVersionUID = -2417240192973578906L;
 
-	BufferedImage bg;
+	private BufferedImage dplaymat;
+	private BufferedImage aplaymat;
 	// Graphics2D bg2d;
 	// BufferedImage bi;
 	// Graphics2D big;
-	int w, h;
+	private int w, h;
 
 	private Card selectedCard;
 	private Card latestSelectedCard;
 	private FieldElement lastSelected;
-
-	// True if the user pressed, dragged or released the mouse outside of the
-	// rectangle; false otherwise.
-	boolean pressOut = false;
-
-	// Holds the coordinates of the user's last mousePressed event.
-	int last_x, last_y;
-	boolean firstTime = true;
-	// TexturePaint fillPolka, strokePolka;
-	TexturePaint fillImage;
-	Rectangle area;
+	private Player associatedPlayer;
 
 	// Field Elements
 	private ArrayList<FieldElement> elements;
-	private Clock_Zone cz;
-	private Stock_Zone sz;
+	// Defender's Side
+	private Clock_Zone dcz;
+	private Stock_Zone dsz;
+	private Front_Row dfr1;
+	private Front_Row dfr2;
+	private Front_Row dfr3;
+	private Back_Row dbr1;
+	private Back_Row dbr2;
+	private Waiting_Room dwr;
+	private Deck_Zone ddz;
+	private Memory_Zone dmz;
+	private Level_Zone dlz;
+	private Climax_Zone daz;
+	private Random_Zone drz;
 
-	private Front_Row fr1;
-	private Front_Row fr2;
-	private Front_Row fr3;
-
-	private Back_Row br1;
-	private Back_Row br2;
-
-	private Waiting_Room wr;
-	private Deck_Zone dz;
-
-	private Memory_Zone mz;
-	private Level_Zone lz;
-	private Climax_Zone az;
-
-	private Random_Zone rz;
-
-	private Player associatedPlayer;
+	// Attacker's Side
+	private Clock_Zone acz;
+	private Stock_Zone asz;
+	private Front_Row afr1;
+	private Front_Row afr2;
+	private Front_Row afr3;
+	private Back_Row abr1;
+	private Back_Row abr2;
+	private Waiting_Room awr;
+	private Deck_Zone adz;
+	private Memory_Zone amz;
+	private Level_Zone alz;
+	private Climax_Zone aaz;
+	private Random_Zone arz;
 
 	// private ArrayList<BufferedImage> phaseImages;
 
@@ -105,9 +104,10 @@ public class MainField extends Canvas implements Serializable, MouseListener,
 			at.scale(Game.Game.gameScale, Game.Game.gameScale);
 			AffineTransformOp scaleOp = new AffineTransformOp(at,
 			   AffineTransformOp.TYPE_BILINEAR);
-			bg = scaleOp.filter(before, null);
-			w = bg.getWidth();
-			h = bg.getHeight();
+			dplaymat = scaleOp.filter(before, null);
+			aplaymat = scaleOp.filter(before, null);
+			w = (int) (dplaymat.getWidth() / Game.Game.gameScale);
+			h = (int) (dplaymat.getHeight() / Game.Game.gameScale);
 
 		} catch (IOException e) {
 			System.out.println("Image could not be read");
@@ -128,43 +128,79 @@ public class MainField extends Canvas implements Serializable, MouseListener,
 
 		});
 
-		createElements();
+		createElements(h);
 
 	}
 
-	private void createElements() {
+	private void createElements(int offset) {
 
 		elements = new ArrayList<FieldElement>();
 
-		fr1 = new Front_Row("Vertical.png", 350, 0, associatedPlayer);
-		fr2 = new Front_Row("Vertical.png", 550, 0, associatedPlayer);
-		fr3 = new Front_Row("Vertical.png", 750, 0, associatedPlayer);
-		mz = new Memory_Zone("Horizontal.png", 1000, 0, associatedPlayer);
-		rz = new Random_Zone("Vertical.png", 50, 0, associatedPlayer);
+		dfr1 = new Front_Row("Vertical.png", 350, 0, associatedPlayer, offset);
+		dfr2 = new Front_Row("Vertical.png", 550, 0, associatedPlayer, offset);
+		dfr3 = new Front_Row("Vertical.png", 750, 0, associatedPlayer, offset);
+		dmz = new Memory_Zone("Horizontal.png", 1000, 0, associatedPlayer, offset);
+		drz = new Random_Zone("Vertical.png", 50, 0, associatedPlayer, offset);
 
-		sz = new Stock_Zone("Horizontal.png", 50, 180, associatedPlayer);
-		az = new Climax_Zone("Horizontal.png", 250, 180, associatedPlayer);
-		br1 = new Back_Row("Vertical.png", 450, 180, associatedPlayer);
-		br2 = new Back_Row("Vertical.png", 650, 180, associatedPlayer);
-		dz = new Deck_Zone("Vertical.png", 1050, 180, associatedPlayer);
+		dsz = new Stock_Zone("Horizontal.png", 50, 180, associatedPlayer, offset);
+		daz = new Climax_Zone("Horizontal.png", 250, 180, associatedPlayer,
+		   offset);
+		dbr1 = new Back_Row("Vertical.png", 450, 180, associatedPlayer, offset);
+		dbr2 = new Back_Row("Vertical.png", 650, 180, associatedPlayer, offset);
+		ddz = new Deck_Zone("Vertical.png", 1050, 180, associatedPlayer, offset);
 
-		lz = new Level_Zone("Horizontal.png", 50, 440, associatedPlayer);
-		cz = new Clock_Zone("Vertical.png", 250, 340, associatedPlayer);
-		wr = new Waiting_Room("Vertical.png", 1050, 360, associatedPlayer);
+		dlz = new Level_Zone("Horizontal.png", 50, 440, associatedPlayer, offset);
+		dcz = new Clock_Zone("Vertical.png", 250, 400, associatedPlayer, offset);
+		dwr = new Waiting_Room("Vertical.png", 1050, 400, associatedPlayer,
+		   offset);
 
-		elements.add(cz);
-		elements.add(sz);
-		elements.add(fr1);
-		elements.add(fr2);
-		elements.add(fr3);
-		elements.add(wr);
-		elements.add(dz);
-		elements.add(br1);
-		elements.add(br2);
-		elements.add(mz);
-		elements.add(lz);
-		elements.add(az);
-		elements.add(rz);
+		elements.add(dcz);
+		elements.add(dsz);
+		elements.add(dfr1);
+		elements.add(dfr2);
+		elements.add(dfr3);
+		elements.add(dwr);
+		elements.add(ddz);
+		elements.add(dbr1);
+		elements.add(dbr2);
+		elements.add(dmz);
+		elements.add(dlz);
+		elements.add(daz);
+		elements.add(drz);
+
+		offset = 0;
+
+		afr1 = new Front_Row("Vertical.png", 350, 440, associatedPlayer, offset);
+		afr2 = new Front_Row("Vertical.png", 550, 440, associatedPlayer, offset);
+		afr3 = new Front_Row("Vertical.png", 750, 440, associatedPlayer, offset);
+		amz = new Memory_Zone("Horizontal.png", 50, 440, associatedPlayer,
+		   offset);
+		arz = new Random_Zone("Vertical.png", 1040, 440, associatedPlayer, offset);
+
+		asz = new Stock_Zone("Horizontal.png", 1000, 260, associatedPlayer, offset);
+		aaz = new Climax_Zone("Horizontal.png", 800, 260, associatedPlayer,
+		   offset);
+		abr1 = new Back_Row("Vertical.png", 450, 260, associatedPlayer, offset);
+		abr2 = new Back_Row("Vertical.png", 650, 260, associatedPlayer, offset);
+		adz = new Deck_Zone("Vertical.png", 50, 260, associatedPlayer, offset);
+
+		alz = new Level_Zone("Horizontal.png", 1000, 0, associatedPlayer, offset);
+		acz = new Clock_Zone("Vertical.png", 800, 0, associatedPlayer, offset);
+		awr = new Waiting_Room("Vertical.png", 50, 0, associatedPlayer, offset);
+
+		elements.add(acz);
+		elements.add(asz);
+		elements.add(afr1);
+		elements.add(afr2);
+		elements.add(afr3);
+		elements.add(awr);
+		elements.add(adz);
+		elements.add(abr1);
+		elements.add(abr2);
+		elements.add(amz);
+		elements.add(alz);
+		elements.add(aaz);
+		elements.add(arz);
 	}
 
 	public void mousePressed(MouseEvent e) {
@@ -283,7 +319,7 @@ public class MainField extends Canvas implements Serializable, MouseListener,
 							if (card2 != null) {
 								fe.setCard(card2);
 								if (card1 != null)
-									getWaitingRoom().setCard(card1);
+									getDefenderWaitingRoom().setCard(card1);
 							}
 							Random_Zone randomSelect = (Random_Zone) lastSelected;
 							randomSelect.removeCard();
@@ -337,7 +373,8 @@ public class MainField extends Canvas implements Serializable, MouseListener,
 
 	public void update(Graphics g) {
 		Graphics2D g2 = (Graphics2D) g;
-		g2.drawImage(bg, 0, 0, null);
+		g2.drawImage(aplaymat, 0, 0, null);
+		g2.drawImage(dplaymat, 0, (int) (h * Game.Game.gameScale), null);
 		for (FieldElement e : elements) {
 			/*
 			 * if (lastSelected != null &&
@@ -381,61 +418,115 @@ public class MainField extends Canvas implements Serializable, MouseListener,
 		}
 	}
 
-	public Front_Row getFrontRow1() {
-		return fr1;
+	// Get defender field elements
+	public Front_Row getDefenderFrontRow1() {
+		return dfr1;
 	}
 
-	public Front_Row getFrontRow2() {
-		return fr2;
+	public Front_Row getDefenderFrontRow2() {
+		return dfr2;
 	}
 
-	public Front_Row getFrontRow3() {
-		return fr3;
+	public Front_Row getDefenderFrontRow3() {
+		return dfr3;
 	}
 
-	public Back_Row getBackRow1() {
-		return br1;
+	public Back_Row getDefenderBackRow1() {
+		return dbr1;
 	}
 
-	public Back_Row getBackRow2() {
-		return br2;
+	public Back_Row getDefenderBackRow2() {
+		return dbr2;
 	}
 
-	public Deck_Zone getDeckZone() {
-		return dz;
+	public Deck_Zone getDefenderDeckZone() {
+		return ddz;
 	}
 
-	public Level_Zone getLevelZone() {
-		return lz;
+	public Level_Zone getDefenderLevelZone() {
+		return dlz;
 	}
 
-	public Clock_Zone getClockZone() {
-		return cz;
+	public Clock_Zone getDefenderClockZone() {
+		return dcz;
 	}
 
-	public Waiting_Room getWaitingRoom() {
-		return wr;
+	public Waiting_Room getDefenderWaitingRoom() {
+		return dwr;
 	}
 
-	public Climax_Zone getClimaxZone() {
-		return az;
+	public Climax_Zone getDefenderClimaxZone() {
+		return daz;
 	}
 
-	public Random_Zone getRandomZone() {
-		return rz;
+	public Random_Zone getDefenderRandomZone() {
+		return drz;
 	}
 
-	public Stock_Zone getStockZone() {
-		return sz;
+	public Stock_Zone getDefenderStockZone() {
+		return dsz;
 	}
 
-	public Memory_Zone getMemoryZone() {
-		return mz;
+	public Memory_Zone getDefenderMemoryZone() {
+		return dmz;
 	}
 
+	// Set and get attacker field elements
+	public Front_Row getAttackerFrontRow1() {
+		return afr1;
+	}
+
+	public Front_Row getAttackerFrontRow2() {
+		return afr2;
+	}
+
+	public Front_Row getAttackerFrontRow3() {
+		return afr3;
+	}
+
+	public Back_Row getAttackerBackRow1() {
+		return abr1;
+	}
+
+	public Back_Row getAttackerBackRow2() {
+		return abr2;
+	}
+
+	public Deck_Zone getAttackerDeckZone() {
+		return adz;
+	}
+
+	public Level_Zone getAttackerLevelZone() {
+		return alz;
+	}
+
+	public Clock_Zone getAttackerClockZone() {
+		return acz;
+	}
+
+	public Waiting_Room getAttackerWaitingRoom() {
+		return awr;
+	}
+
+	public Climax_Zone getAttackerClimaxZone() {
+		return aaz;
+	}
+
+	public Random_Zone getAttackerRandomZone() {
+		return arz;
+	}
+
+	public Stock_Zone getAttackerStockZone() {
+		return asz;
+	}
+
+	public Memory_Zone getAttackerMemoryZone() {
+		return amz;
+	}
+	
 	public boolean prepare(Deck d) {
-		dz.loadDeck(d);
-		return dz.getCount() == Deck.MAX_DECK_SIZE;
+		ddz.loadDeck(d);
+		return ddz.getCount() == Deck.MAX_DECK_SIZE;
 	}
 
 	public Card getSelected() {

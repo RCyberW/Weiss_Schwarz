@@ -25,8 +25,8 @@ public class Memory_Zone extends FieldElement {
 
 	public ArrayList<Card> memoryZone;
 
-	public Memory_Zone(String imageFileName, int xa, int ya, Player player) {
-		super(imageFileName, xa, ya, "Memory", player);
+	public Memory_Zone(String imageFileName, int xa, int ya, Player player, int offset) {
+		super(imageFileName, xa, ya, "Memory", player, offset);
 
 		memoryZone = new ArrayList<Card>();
 	}
@@ -78,7 +78,6 @@ public class Memory_Zone extends FieldElement {
 		if (showCard() != c && showCard() != null) {
 			// System.err.println("painting " + getLast().toString() + "....");
 			// showCard().paint(g, this.x, this.y, true, false);
-			showCard().setDisplay(true, true);
 			showCard().toCanvas().setLocation(x, y);
 			showCard().toCanvas().paint(g);
 		} else {
@@ -87,7 +86,8 @@ public class Memory_Zone extends FieldElement {
 		g.setFont(new Font("TimesRoman", Font.PLAIN, 12));
 		g.setColor(Color.BLUE);
 
-		g.drawString(zoneName + ": " + memoryZone.size(), x, y - 5);
+		if (MainField.debug)
+			g.drawString(zoneName + ": " + memoryZone.size(), x, y - 5);
 	}
 
 	// @Override

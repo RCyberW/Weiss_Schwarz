@@ -25,8 +25,8 @@ public class Stock_Zone extends FieldElement {
 
 	private ArrayList<Card> stockZone;
 
-	public Stock_Zone(String imageFileName, int xa, int ya, Player player) {
-		super(imageFileName, xa, ya, "Stock", player);
+	public Stock_Zone(String imageFileName, int xa, int ya, Player player, int offset) {
+		super(imageFileName, xa, ya, "Stock", player, offset);
 
 		stockZone = new ArrayList<Card>();
 	}
@@ -63,7 +63,6 @@ public class Stock_Zone extends FieldElement {
 		if (showCard() != c && showCard() != null) {
 			// System.err.println("painting " + getLast().toString() + "....");
 			// showCard().paint(g, this.x, this.y, false, true);
-			showCard().setDisplay(false, true);
 			showCard().toCanvas().setLocation(x, y);
 			showCard().toCanvas().paint(g);
 		} else {
@@ -72,8 +71,8 @@ public class Stock_Zone extends FieldElement {
 		g.setFont(new Font("TimesRoman", Font.PLAIN, 12));
 		g.setColor(Color.BLUE);
 
-		// g.drawString(zoneName, x + 10, y + 20);
-		g.drawString("Stock size: " + stockZone.size() + "", x, y - 5);
+		if (MainField.debug)
+			g.drawString("Stock size: " + stockZone.size() + "", x, y - 5);
 	}
 
 	// @Override
@@ -119,7 +118,7 @@ public class Stock_Zone extends FieldElement {
 		stockTop.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				associatedPlayer.getField().getWaitingRoom()
+				associatedPlayer.getField().getDefenderWaitingRoom()
 				   .setCard(stockZone.get(stockZone.size() - 1));
 				stockZone.remove(stockZone.size() - 1);
 				associatedPlayer.getField().repaintElements();
@@ -131,7 +130,7 @@ public class Stock_Zone extends FieldElement {
 		stockBot.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				associatedPlayer.getField().getWaitingRoom()
+				associatedPlayer.getField().getDefenderWaitingRoom()
 				   .setCard(stockZone.get(0));
 				stockZone.remove(0);
 				associatedPlayer.getField().repaintElements();

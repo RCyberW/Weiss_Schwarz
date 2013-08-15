@@ -95,7 +95,7 @@ public class DisplayList extends JFrame {
 		JButton submit = new JButton("Select");
 		submit.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				thisPlayer.getField().getRandomZone().setCard(selectedCard);
+				thisPlayer.getField().getDefenderRandomZone().setCard(selectedCard);
 				cardList.remove(selectedCard);
 				dispose();
 				thisPlayer.getField().repaintElements();
@@ -108,8 +108,8 @@ public class DisplayList extends JFrame {
 			JButton toRoom = new JButton("Top to Waiting Room");
 			toRoom.addActionListener(new ActionListener() {
 				public void actionPerformed(ActionEvent e) {
-					thisPlayer.getField().getWaitingRoom().setCard(cardList.get(0));
-					thisPlayer.getField().getDeckZone().removeTop();
+					thisPlayer.getField().getDefenderWaitingRoom().setCard(cardList.get(0));
+					thisPlayer.getField().getDefenderDeckZone().removeTop();
 					dispose();
 					thisPlayer.getField().repaintElements();
 				}
@@ -118,8 +118,8 @@ public class DisplayList extends JFrame {
 			JButton toBottom = new JButton("Top to Bottom");
 			toBottom.addActionListener(new ActionListener() {
 				public void actionPerformed(ActionEvent e) {
-					thisPlayer.getField().getDeckZone().setBotCard(cardList.get(0));
-					thisPlayer.getField().getDeckZone().removeTop();
+					thisPlayer.getField().getDefenderDeckZone().setBotCard(cardList.get(0));
+					thisPlayer.getField().getDefenderDeckZone().removeTop();
 					dispose();
 					thisPlayer.getField().repaintElements();
 				}

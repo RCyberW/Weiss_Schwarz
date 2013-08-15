@@ -37,8 +37,8 @@ public class Hand extends FieldElement {
 	private int selectedIndex = -1;
 	private Card selected = null;
 
-	public Hand(String imageFileName, int xa, int ya, Player player) {
-		super(imageFileName, xa, ya, "Hand", player);
+	public Hand(String imageFileName, int xa, int ya, Player player, int offset) {
+		super(imageFileName, xa, ya, "Hand", player, offset);
 		handCards = new ArrayList<Card>();
 		// associatedPlayer = player;
 	}
@@ -73,7 +73,6 @@ public class Hand extends FieldElement {
 		for (int i = 0; i < handCards.size(); i++) {
 			Card thisCard = handCards.get(i);
 			// System.out.print(thisCard.getCardName() + ", ");
-			thisCard.setDisplay(true, false);
 			thisCard.toCanvas().setLocation(
 				(int) ((x + 110 * i) * Game.gameScale), (int) (y + 5));
 			if (selected != null
@@ -171,7 +170,7 @@ public class Hand extends FieldElement {
 		resolveAction.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				associatedPlayer.getField().getRandomZone().setCard(selected);
+				associatedPlayer.getField().getDefenderRandomZone().setCard(selected);
 				handCards.remove(selectedIndex);
 				associatedPlayer.getField().repaintElements();
 			}
@@ -182,20 +181,20 @@ public class Hand extends FieldElement {
 	}
 
 	private void toMemory() {
-		associatedPlayer.getField().getMemoryZone().setCard(selected);
+		associatedPlayer.getField().getDefenderMemoryZone().setCard(selected);
 		handCards.remove(selectedIndex);
 	}
 
 	private void toDeck(boolean toTop) {
 		if (toTop)
-			associatedPlayer.getField().getDeckZone().setCard(selected);
+			associatedPlayer.getField().getDefenderDeckZone().setCard(selected);
 		else
-			associatedPlayer.getField().getDeckZone().setBotCard(selected);
+			associatedPlayer.getField().getDefenderDeckZone().setBotCard(selected);
 		handCards.remove(selectedIndex);
 	}
 
 	private void toWaitingRoom() {
-		associatedPlayer.getField().getWaitingRoom().setCard(selected);
+		associatedPlayer.getField().getDefenderWaitingRoom().setCard(selected);
 		handCards.remove(selectedIndex);
 	}
 
@@ -203,10 +202,10 @@ public class Hand extends FieldElement {
 		if (selectedIndex > -1) {
 			Card temp = handCards.remove(selectedIndex);
 			selectedIndex = -1;
-			associatedPlayer.getField().getClockZone().setCard(temp);
+			associatedPlayer.getField().getDefenderClockZone().setCard(temp);
 			if (associatedPlayer.getCurrentPhase() == Phase.CLOCK_PHASE) {
-				associatedPlayer.getField().getDeckZone().drawCard();
-				associatedPlayer.getField().getDeckZone().drawCard();
+				associatedPlayer.getField().getDefenderDeckZone().drawCard();
+				associatedPlayer.getField().getDefenderDeckZone().drawCard();
 				associatedPlayer.setCurrentPhase(Phase.MAIN_PHASE);
 			}
 		}
@@ -217,20 +216,20 @@ public class Hand extends FieldElement {
 		if (associatedPlayer.getCurrentPhase() != Phase.CLIMAX_PHASE
 			&& associatedPlayer.getCurrentPhase() != Phase.CLOCK_PHASE) {
 			if (selected.getT() == Type.CHARACTER) {
-				if (!associatedPlayer.getField().getFrontRow1().containCards()) {
-					associatedPlayer.getField().getFrontRow1().setCard(selected);
-				} else if (!associatedPlayer.getField().getFrontRow2()
+				if (!associatedPlayer.getField().getDefenderFrontRow1().containCards()) {
+					associatedPlayer.getField().getDefenderFrontRow1().setCard(selected);
+				} else if (!associatedPlayer.getField().getDefenderFrontRow2()
 					.containCards()) {
-					associatedPlayer.getField().getFrontRow2().setCard(selected);
-				} else if (!associatedPlayer.getField().getFrontRow3()
+					associatedPlayer.getField().getDefenderFrontRow2().setCard(selected);
+				} else if (!associatedPlayer.getField().getDefenderFrontRow3()
 					.containCards()) {
-					associatedPlayer.getField().getFrontRow3().setCard(selected);
-				} else if (!associatedPlayer.getField().getBackRow1()
+					associatedPlayer.getField().getDefenderFrontRow3().setCard(selected);
+				} else if (!associatedPlayer.getField().getDefenderBackRow1()
 					.containCards()) {
-					associatedPlayer.getField().getBackRow1().setCard(selected);
-				} else if (!associatedPlayer.getField().getBackRow2()
+					associatedPlayer.getField().getDefenderBackRow1().setCard(selected);
+				} else if (!associatedPlayer.getField().getDefenderBackRow2()
 					.containCards()) {
-					associatedPlayer.getField().getBackRow2().setCard(selected);
+					associatedPlayer.getField().getDefenderBackRow2().setCard(selected);
 				} else {
 					selectedIndex = -1;
 				}
@@ -238,14 +237,14 @@ public class Hand extends FieldElement {
 					handCards.remove(selectedIndex);
 				}
 			} else if (selected.getT() == Type.EVENT) {
-				associatedPlayer.getField().getRandomZone().setCard(selected);
+				associatedPlayer.getField().getDefenderRandomZone().setCard(selected);
 				if (selectedIndex > -1) {
 					handCards.remove(selectedIndex);
 				}
 			}
 		} else if (associatedPlayer.getCurrentPhase() == Phase.CLIMAX_PHASE
 			&& selected.getT() == Type.CLIMAX) {
-			associatedPlayer.getField().getClimaxZone().setCard(selected);
+			associatedPlayer.getField().getDefenderClimaxZone().setCard(selected);
 			if (selectedIndex > -1) {
 				handCards.remove(selectedIndex);
 			}
@@ -287,13 +286,15 @@ public class Hand extends FieldElement {
 		selected = selectCard(e);
 		if (selected == null)
 			return;
+		
+		System.out.println("Hand click: " + e.getX() + ", " + e.getY());
 
 		associatedPlayer.getField().setSelected(selected);
 
 		if (e.getButton() == MouseEvent.BUTTON3) {
 			constructPopup(e);
 		} else if (e.getButton() == MouseEvent.BUTTON1) {
-			Clock_Zone tempClock = associatedPlayer.getField().getClockZone();
+			Clock_Zone tempClock = associatedPlayer.getField().getDefenderClockZone();
 
 			if (tempClock.isShiftMode()) {
 				System.out.println("HAND SHIFTING");
@@ -384,9 +385,9 @@ class PreGameDisplay extends DisplayList {
 		discard.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				for (Card card : showList) {
-					thisPlayer.getField().getWaitingRoom().setCard(card);
+					thisPlayer.getField().getDefenderWaitingRoom().setCard(card);
 					thisPlayer.getHand().playCard(card);
-					thisPlayer.getField().getDeckZone().drawCard();
+					thisPlayer.getField().getDefenderDeckZone().drawCard();
 					System.out.println("POPPING " + card.getCardName() + "["
 						+ card.getUniqueID() + "]");
 				}
@@ -404,14 +405,13 @@ class PreGameDisplay extends DisplayList {
 		return buttonRow;
 	}
 
-	@SuppressWarnings("unchecked")
 	protected JScrollPane displayList() {
 		String[] cardNames = new String[showList.size()];
 		for (int i = 0; i < showList.size(); i++) {
 			cardNames[i] = showList.get(i).getCardName();
 		}
 
-		@SuppressWarnings({ "rawtypes" })
+		@SuppressWarnings({ })
 		final JList displayShow = new JList(cardNames);
 		displayShow.setPrototypeCellValue("Index 1234567890");
 		MouseListener listener = new MouseAdapter() {

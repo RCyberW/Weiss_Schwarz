@@ -970,19 +970,6 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 		return customCanvas;
 	}
 
-	public void setDisplay(boolean isFaceUp, boolean isTapped) {
-
-		// if(isFaceUp && isTapped)
-		// currentState = State.REST;
-		// else if(isFaceUp && !isTapped)
-		// currentState = State.STAND;
-		// else if(!isFaceUp && isTapped)
-		// currentState = State.FD_REST;
-		// else
-		// currentState = State.FD_STAND;
-
-	}
-
 	// Hard code special cases where you may put >4 cards in the deck
 	// FZ/SE13-24 C
 	// FZ/SE13-26 C

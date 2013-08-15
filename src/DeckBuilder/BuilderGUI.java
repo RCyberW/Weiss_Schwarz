@@ -188,7 +188,7 @@ public class BuilderGUI extends JFrame {
 	/**
 	 * Building search box
 	 */
-	@SuppressWarnings({ "rawtypes", "unchecked" })
+	@SuppressWarnings({ })
 	private void buildSearchBox() {
 		Box row1 = Box.createHorizontalBox();
 		Box row2 = Box.createHorizontalBox();

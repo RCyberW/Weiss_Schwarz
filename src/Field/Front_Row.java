@@ -25,8 +25,8 @@ public class Front_Row extends FieldElement {
 	// public ArrayList<Card> frontRow;
 	Card frontCard;
 
-	public Front_Row(String imageFileName, int xa, int ya, Player player) {
-		super(imageFileName, xa, ya, "Front-Row", player);
+	public Front_Row(String imageFileName, int xa, int ya, Player player, int offset) {
+		super(imageFileName, xa, ya, "Front-Row", player, offset);
 
 		// frontRow = new ArrayList<Card>();
 
@@ -80,7 +80,6 @@ public class Front_Row extends FieldElement {
 	public void paint(Graphics g, Card c) {
 		if (showCard() != null) {
 			// frontCard.paint(g, this.x, this.y, true, false);
-			frontCard.setDisplay(true, false);
 			frontCard.toCanvas().setLocation(x, y);
 			frontCard.toCanvas().paint(g);
 			System.out.println("FRONT_ROW: " + frontCard.getCardName());
@@ -155,7 +154,7 @@ public class Front_Row extends FieldElement {
 		waitingRoom.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				associatedPlayer.getField().getWaitingRoom().setCard(frontCard);
+				associatedPlayer.getField().getDefenderWaitingRoom().setCard(frontCard);
 				removeCard();
 				associatedPlayer.getField().repaintElements();
 			}
@@ -177,7 +176,7 @@ public class Front_Row extends FieldElement {
 		topDeckAction.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				associatedPlayer.getField().getDeckZone().setCard(frontCard);
+				associatedPlayer.getField().getDefenderDeckZone().setCard(frontCard);
 				removeCard();
 				associatedPlayer.getField().repaintElements();
 			}
@@ -188,7 +187,7 @@ public class Front_Row extends FieldElement {
 		botDeckAction.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				associatedPlayer.getField().getDeckZone().setBotCard(frontCard);
+				associatedPlayer.getField().getDefenderDeckZone().setBotCard(frontCard);
 				removeCard();
 				associatedPlayer.getField().repaintElements();
 			}
@@ -199,7 +198,7 @@ public class Front_Row extends FieldElement {
 		memoryAction.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				associatedPlayer.getField().getMemoryZone().setCard(frontCard);
+				associatedPlayer.getField().getDefenderMemoryZone().setCard(frontCard);
 				removeCard();
 				associatedPlayer.getField().repaintElements();
 			}
@@ -210,7 +209,7 @@ public class Front_Row extends FieldElement {
 		stockAction.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				associatedPlayer.getField().getStockZone().setCard(frontCard);
+				associatedPlayer.getField().getDefenderStockZone().setCard(frontCard);
 				removeCard();
 				associatedPlayer.getField().repaintElements();
 			}
@@ -221,7 +220,7 @@ public class Front_Row extends FieldElement {
 		clockAction.addActionListener(new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				associatedPlayer.getField().getClockZone().setCard(frontCard);
+				associatedPlayer.getField().getDefenderClockZone().setCard(frontCard);
 				removeCard();
 				associatedPlayer.getField().repaintElements();
 			}

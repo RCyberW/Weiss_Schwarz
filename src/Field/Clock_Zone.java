@@ -35,8 +35,9 @@ public class Clock_Zone extends FieldElement {
 	private int swappedIndex;
 	private boolean shiftMode;
 
-	public Clock_Zone(String imageFileName, int xa, int ya, Player player) {
-		super(imageFileName, xa, ya, "Clock", player);
+	public Clock_Zone(String imageFileName, int xa, int ya, Player player,
+	   int offset) {
+		super(imageFileName, xa, ya, "Clock", player, offset);
 
 		clockZone = new ArrayList<Card>();
 	}
@@ -109,7 +110,7 @@ public class Clock_Zone extends FieldElement {
 			popmenu.add(handAction);
 
 			System.out.println("CLOCK_ZONE selectedIndex = "
-				+ clockZone.indexOf(selected));
+			   + clockZone.indexOf(selected));
 
 			if (clockZone.size() >= 7 && clockZone.indexOf(selected) < 7) {
 				JMenuItem levelAction = new JMenuItem("to level");
@@ -139,12 +140,12 @@ public class Clock_Zone extends FieldElement {
 
 	private void toLevel() {
 		if (clockZone.size() >= 7) {
-			associatedPlayer.getField().getLevelZone().setCard(selected);
+			associatedPlayer.getField().getDefenderLevelZone().setCard(selected);
 			clockZone.remove(swappedIndex);
 			for (int i = 0; i < 6; i++) {
 				Card card = clockZone.get(0);
 				clockZone.remove(0);
-				associatedPlayer.getField().getWaitingRoom().setCard(card);
+				associatedPlayer.getField().getDefenderWaitingRoom().setCard(card);
 			}
 		}
 	}
@@ -160,7 +161,7 @@ public class Clock_Zone extends FieldElement {
 	private void toWaitingRoom() {
 		// Card card = clockZone.get(swappedIndex);
 		if (selected != null) {
-			associatedPlayer.getField().getWaitingRoom().setCard(selected);
+			associatedPlayer.getField().getDefenderWaitingRoom().setCard(selected);
 			clockZone.remove(swappedIndex);
 			selected = null;
 		}
@@ -182,17 +183,13 @@ public class Clock_Zone extends FieldElement {
 		for (int i = 0; i < clockZone.size(); i++) {
 			Card thisCard = clockZone.get(i);
 
-			thisCard.setDisplay(true, false);
-
-			if (selected != null
-				&& thisCard.getUniqueID().equals(selected.getUniqueID())
-				&& swappedIndex == i) {
+			if (offsetHeight > 0) {
 				swappedIndex = i;
 				thisCard.toCanvas().setLocation(
-					(int) (x + 110 * i * Game.gameScale), y);
+				   (int) (x + (110 * Game.gameScale) * i), y);
 			} else {
 				thisCard.toCanvas().setLocation(
-					(int) (x + 110 * i * Game.gameScale), y);
+				   (int) (x - (110 * Game.gameScale) * i), y);
 			}
 			thisCard.toCanvas().paint(g);
 		}
@@ -206,8 +203,8 @@ public class Clock_Zone extends FieldElement {
 			Stroke oldStroke = g2.getStroke();
 			g2.setStroke(new BasicStroke(6));
 			g2.drawRect((int) thisCard.getCardBound().getX(), (int) thisCard
-				.getCardBound().getY(), (int) thisCard.getCardBound().getWidth(),
-				(int) thisCard.getCardBound().getHeight());
+			   .getCardBound().getY(), (int) thisCard.getCardBound().getWidth(),
+			   (int) thisCard.getCardBound().getHeight());
 			g2.setStroke(oldStroke);
 			g2.setColor(curr);
 		}
@@ -218,7 +215,8 @@ public class Clock_Zone extends FieldElement {
 		g.setFont(new Font("TimesRoman", Font.PLAIN, 12));
 		g.setColor(Color.BLUE);
 
-		g.drawString("Damage count: " + clockZone.size() + "", x, y - 10);
+		if (MainField.debug)
+			g.drawString("Damage count: " + clockZone.size() + "", x, y - 10);
 	}
 
 	@Override
@@ -228,9 +226,9 @@ public class Clock_Zone extends FieldElement {
 		for (int i = 0; i < clockZone.size(); i++) {
 			Card card = clockZone.get(i);
 			output = "CLOCK: x = " + e.getX() + ", y = " + e.getY() + " "
-				+ card.getCardName() + " : " + card.getCardBound().x + " + "
-				+ card.getCardBound().width + " , " + card.getCardBound().y + " + "
-				+ card.getCardBound().height;
+			   + card.getCardName() + " : " + card.getCardBound().x + " + "
+			   + card.getCardBound().width + " , " + card.getCardBound().y + " + "
+			   + card.getCardBound().height;
 			if (card.getCardBound().contains(e.getPoint())) {
 				// System.out.println("click: " + i + ". " + card);
 				swappedIndex = i;

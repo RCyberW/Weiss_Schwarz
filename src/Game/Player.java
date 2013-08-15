@@ -252,7 +252,7 @@ public class Player implements Serializable {
 
 		// Create Hand given Field information
 		System.out.println("Deck Size = " + currentDeck.getCards().size());
-		hand = new Hand("Vertical.png", 50, 600, this);
+		hand = new Hand("Vertical.png", 50, (int)field.getPreferredSize().getHeight(), this, (int)field.getPreferredSize().getHeight());
 		// userFrame.add(hand);
 		// System.out.println("should say match game " + sessionID);
 		//
@@ -323,17 +323,17 @@ public class Player implements Serializable {
 		statsInfo.removeAll();
 		statsInfo.validate();
 		statsInfo.add(new JLabel("Cards remain: "
-		   + this.getField().getDeckZone().getCount()));
+		   + this.getField().getDefenderDeckZone().getCount()));
 		statsInfo.add(new JLabel("Waiting room: "
-		   + this.getField().getWaitingRoom().getCount()));
+		   + this.getField().getDefenderWaitingRoom().getCount()));
 		statsInfo.add(new JLabel("Clock damage: "
-		   + this.getField().getClockZone().getCount()));
+		   + this.getField().getDefenderClockZone().getCount()));
 		statsInfo.add(new JLabel("Level count : "
-		   + this.getField().getLevelZone().getCount()));
+		   + this.getField().getDefenderLevelZone().getCount()));
 		statsInfo.add(new JLabel("Stock size  : "
-		   + this.getField().getStockZone().getCount()));
+		   + this.getField().getDefenderStockZone().getCount()));
 		statsInfo.add(new JLabel("Memory count: "
-		   + this.getField().getMemoryZone().getCount()));
+		   + this.getField().getDefenderMemoryZone().getCount()));
 		f.setVisible(true);
 	}
 

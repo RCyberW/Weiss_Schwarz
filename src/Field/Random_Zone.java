@@ -24,8 +24,8 @@ public class Random_Zone extends FieldElement {
 
 	private ArrayList<Card> thisCard;
 
-	public Random_Zone(String imageFileName, int xa, int ya, Player player) {
-		super(imageFileName, xa, ya, "Resolution Area", player);
+	public Random_Zone(String imageFileName, int xa, int ya, Player player, int offset) {
+		super(imageFileName, xa, ya, "Resolution Area", player, offset);
 		thisCard = new ArrayList<Card>();
 	}
 
@@ -106,6 +106,17 @@ public class Random_Zone extends FieldElement {
 			}
 		});
 		popmenu.add(deckBotAction);
+		
+		JMenuItem levelAction = new JMenuItem("to level");
+		levelAction.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent e) {
+				associatedPlayer.getField().getDefenderLevelZone().setCard(thisCard.get(0));
+				thisCard.clear();
+				associatedPlayer.getField().repaintElements();
+			}
+		});
+		popmenu.add(levelAction);
 
 		popmenu.show(e.getComponent(), e.getX(), e.getY());
 	}
@@ -113,9 +124,9 @@ public class Random_Zone extends FieldElement {
 	protected void toDeck(boolean isTop) {
 		for (int i = thisCard.size() - 1; i >= 0; i--) {
 			if (isTop)
-				associatedPlayer.getField().getDeckZone().setCard(thisCard.get(i));
+				associatedPlayer.getField().getDefenderDeckZone().setCard(thisCard.get(i));
 			else
-				associatedPlayer.getField().getDeckZone()
+				associatedPlayer.getField().getDefenderDeckZone()
 					.setBotCard(thisCard.get(i));
 		}
 		thisCard.clear();
@@ -132,7 +143,7 @@ public class Random_Zone extends FieldElement {
 
 	protected void toStock() {
 		for (int i = 0; i < thisCard.size(); i++) {
-			associatedPlayer.getField().getStockZone().setCard(thisCard.get(i));
+			associatedPlayer.getField().getDefenderStockZone().setCard(thisCard.get(i));
 		}
 		thisCard.clear();
 		associatedPlayer.getField().repaint();
@@ -140,7 +151,7 @@ public class Random_Zone extends FieldElement {
 
 	protected void toMemory() {
 		for (int i = 0; i < thisCard.size(); i++) {
-			associatedPlayer.getField().getMemoryZone().setCard(thisCard.get(i));
+			associatedPlayer.getField().getDefenderMemoryZone().setCard(thisCard.get(i));
 		}
 		thisCard.clear();
 		associatedPlayer.getField().repaint();
@@ -148,7 +159,7 @@ public class Random_Zone extends FieldElement {
 
 	protected void toClock() {
 		for (int i = 0; i < thisCard.size(); i++) {
-			associatedPlayer.getField().getClockZone().setCard(thisCard.get(i));
+			associatedPlayer.getField().getDefenderClockZone().setCard(thisCard.get(i));
 		}
 		thisCard.clear();
 		associatedPlayer.getField().repaint();
@@ -156,7 +167,7 @@ public class Random_Zone extends FieldElement {
 
 	protected void toWaitingRoom() {
 		for (int i = 0; i < thisCard.size(); i++) {
-			associatedPlayer.getField().getWaitingRoom().setCard(thisCard.get(i));
+			associatedPlayer.getField().getDefenderWaitingRoom().setCard(thisCard.get(i));
 		}
 		thisCard.clear();
 		associatedPlayer.getField().repaint();
@@ -182,7 +193,6 @@ public class Random_Zone extends FieldElement {
 	@Override
 	public void paint(Graphics g, Card c) {
 		if (containCards()) {
-			showCard().setDisplay(true, false);
 			showCard().toCanvas().setLocation(x, y);
 			showCard().toCanvas().paint(g);
 			System.out.println("RESOLUTION: " + thisCard);
@@ -192,7 +202,7 @@ public class Random_Zone extends FieldElement {
 		g.setFont(new Font("TimesRoman", Font.PLAIN, 12));
 		g.setColor(Color.BLUE);
 
-		g.drawString(zoneName, x + 10, y + 20);
+		// g.drawString(zoneName, x + 10, y + 20);
 	}
 
 	public Card removeCard() {

@@ -82,6 +82,7 @@ abstract class FieldElement extends Component implements MouseListener {
 	// height and width of the image
 	public String zoneName;
 	protected Player associatedPlayer;
+	protected int offsetHeight;
 
 	/**
 	 * A basic FieldElement constructor
@@ -94,7 +95,7 @@ abstract class FieldElement extends Component implements MouseListener {
 	 *           y-axis coordinate on the field
 	 */
 	public FieldElement(String imageFileName, int xa, int ya, String zone,
-	   Player player) {
+	   Player player, int offset) {
 		// InputStream imageSrc =
 		// getClass().getResource("/resources/FieldImages/" + imageFileName);
 		addMouseListener(this);
@@ -110,6 +111,10 @@ abstract class FieldElement extends Component implements MouseListener {
 			BufferedImage before = ImageIO.read(getClass().getResource(
 			   "/resources/FieldImages/" + imageFileName));
 
+			offsetHeight = offset;
+			
+			ya += offset;
+			
 			x = (int) (xa * Game.Game.gameScale);
 			y = (int) ((ya + Game.Game.translatedY) * Game.Game.gameScale);
 

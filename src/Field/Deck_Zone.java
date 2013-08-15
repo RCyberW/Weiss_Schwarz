@@ -33,8 +33,8 @@ public class Deck_Zone extends FieldElement {
 
 	protected int selectedFromSearchIndex;
 
-	public Deck_Zone(String imageFileName, int xa, int ya, Player player) {
-		super(imageFileName, xa, ya, "Deck", player);
+	public Deck_Zone(String imageFileName, int xa, int ya, Player player, int offset) {
+		super(imageFileName, xa, ya, "Deck", player, offset);
 
 		deckZone = new ArrayList<Card>();
 	}
@@ -149,14 +149,14 @@ public class Deck_Zone extends FieldElement {
 	private void stockTop() {
 		Card card = showCard();
 		deckZone.remove(deckZone.size() - 1);
-		associatedPlayer.getField().getStockZone().setCard(card);
+		associatedPlayer.getField().getDefenderStockZone().setCard(card);
 	}
 
 	private void resolutionCard() {
 		System.out.println(showCard());
 		Card card = showCard();
 		deckZone.remove(deckZone.size() - 1);
-		associatedPlayer.getField().getRandomZone().setCard(card);
+		associatedPlayer.getField().getDefenderRandomZone().setCard(card);
 	}
 
 	@Override
@@ -199,7 +199,6 @@ public class Deck_Zone extends FieldElement {
 	@Override
 	public void paint(Graphics g, Card c) {
 		if (containCards()) {
-			showCard().setDisplay(false, false);
 			showCard().setCurrentState(State.FD_STAND);
 			showCard().toCanvas().setLocation(x, y);
 			showCard().toCanvas().paint(g);
@@ -209,7 +208,8 @@ public class Deck_Zone extends FieldElement {
 		g.setFont(new Font("TimesRoman", Font.PLAIN, 12));
 		g.setColor(Color.BLUE);
 
-		g.drawString("Card count: " + deckZone.size() + "", x, y - 5);
+		if (MainField.debug)
+			g.drawString("Card count: " + deckZone.size() + "", x, y - 5);
 	}
 
 	@Override

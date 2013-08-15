@@ -17,7 +17,6 @@
 package Game;
 
 import java.awt.Color;
-import java.awt.Component;
 import java.awt.Dimension;
 import java.awt.Font;
 import java.awt.Graphics;
@@ -26,7 +25,6 @@ import java.awt.Rectangle;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import java.awt.event.MouseMotionListener;
-import java.awt.geom.AffineTransform;
 import java.util.ArrayList;
 
 import javax.swing.JPanel;
@@ -49,13 +47,13 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 
 	public Phase currPhase;
 	public MainField defendingField;
-	public MainField attackingField;
+	// public MainField attackingField;
 	private int gameStatus = 0;
 	public Player player1;
 	public Player player2;
 	// public Player currentPlayer;
 	private int offsetX = 150;
-	private int offsetY = 22;
+	private int offsetY = 25;
 	private boolean hasClocked = false;
 	private int gameID;
 
@@ -102,23 +100,23 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 		player1.buildGame();
 		defendingField = player1.getField();
 
-		defendingField.getDeckZone().drawCard();
-		defendingField.getDeckZone().drawCard();
-		defendingField.getDeckZone().drawCard();
-		defendingField.getDeckZone().drawCard();
-		defendingField.getDeckZone().drawCard();
+		defendingField.getDefenderDeckZone().drawCard();
+		defendingField.getDefenderDeckZone().drawCard();
+		defendingField.getDefenderDeckZone().drawCard();
+		defendingField.getDefenderDeckZone().drawCard();
+		defendingField.getDefenderDeckZone().drawCard();
 
 		player1.getHand().preGameDiscard(this);
 
 		player2.setGame(this);
 		player2.buildGame();
-		attackingField = player2.getField();
-
-		attackingField.getDeckZone().drawCard();
-		attackingField.getDeckZone().drawCard();
-		attackingField.getDeckZone().drawCard();
-		attackingField.getDeckZone().drawCard();
-		attackingField.getDeckZone().drawCard();
+		// attackingField = player2.getField();
+		//
+		// attackingField.getDeckZone().drawCard();
+		// attackingField.getDeckZone().drawCard();
+		// attackingField.getDeckZone().drawCard();
+		// attackingField.getDeckZone().drawCard();
+		// attackingField.getDeckZone().drawCard();
 
 		player2.getHand().preGameDiscard(this);
 
@@ -128,14 +126,13 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 	public void testGame() {
 		System.out.println("test game");
 		defendingField = player1.getField();
-		attackingField = player1.getField();
 		// phaseImages = playingField.getPhaseImages();
 
-		defendingField.getDeckZone().drawCard();
-		defendingField.getDeckZone().drawCard();
-		defendingField.getDeckZone().drawCard();
-		defendingField.getDeckZone().drawCard();
-		defendingField.getDeckZone().drawCard();
+		defendingField.getDefenderDeckZone().drawCard();
+		defendingField.getDefenderDeckZone().drawCard();
+		defendingField.getDefenderDeckZone().drawCard();
+		defendingField.getDefenderDeckZone().drawCard();
+		defendingField.getDefenderDeckZone().drawCard();
 
 		player1.getHand().preGameDiscard(this);
 	}
@@ -205,27 +202,22 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 		Font original = g2.getFont();
 		g2.setFont(new Font("Arial", Font.BOLD, (int) (22 * gameScale)));
 
-		g2.translate(0, defendingField.getPreferredSize().getHeight());
+		// g2.translate(0, defendingField.getPreferredSize().getHeight());
+		// g2.rotate(-Math.PI, (maxWidth * Game.gameScale) / 2, defendingField
+		// .getPreferredSize().getHeight() * Game.gameScale);
+		// g2.translate(0, defendingField.getPreferredSize().getHeight());
 
-		g2.rotate(-Math.PI, (maxWidth * Game.gameScale) / 2, defendingField
-		   .getPreferredSize().getHeight() * Game.gameScale);
-		g2.translate(0, defendingField.getPreferredSize().getHeight());
-
-		defendingField.paint(g2);
-
-		g2.rotate(-Math.PI, (maxWidth * Game.gameScale) / 2, defendingField
-		   .getPreferredSize().getHeight() * Game.gameScale);
-		g2.translate(0, defendingField.getPreferredSize().getHeight());
+		// g2.rotate(-Math.PI, (maxWidth * Game.gameScale) / 2, defendingField
+		// .getPreferredSize().getHeight() * Game.gameScale);
+		// g2.translate(0, defendingField.getPreferredSize().getHeight());
 
 		player1.getHand().paint(g2);
-		attackingField.paint(g2);
-
-		// player1.getHand().paint(g2);
+		defendingField.paint(g2);
 
 		// initialize nextRect
 		int initialX, initialY;
 		initialX = 50; // placeholder
-		initialY = 580; // placeholder
+		initialY = (int) ((defendingField.getPreferredSize().getHeight() - 10) / gameScale); // placeholder
 
 		int i = 0;
 
@@ -266,8 +258,8 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 		// TODO: send player field to the other player
 		System.out.printf("Game dimension = %d x %d\n", this.getWidth(),
 		   this.getHeight());
-		System.out.printf("Field dimension = %f x %f\n", attackingField
-		   .getPreferredSize().getWidth(), attackingField.getPreferredSize()
+		System.out.printf("Field dimension = %f x %f\n", defendingField
+		   .getPreferredSize().getWidth(), defendingField.getPreferredSize()
 		   .getHeight());
 		System.out.printf("Hand dimension = %f x %f\n", player1.getHand()
 		   .getPreferredSize().getWidth(), player1.getHand().getPreferredSize()
@@ -279,12 +271,12 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 		if (standAllCards) {
 			// get all the cards in both front and back row
 			ArrayList<Card> temp = new ArrayList<Card>();
-			temp.add(defendingField.getFrontRow1().showCard());
-			temp.add(defendingField.getFrontRow2().showCard());
-			temp.add(defendingField.getFrontRow3().showCard());
+			temp.add(defendingField.getDefenderFrontRow1().showCard());
+			temp.add(defendingField.getDefenderFrontRow2().showCard());
+			temp.add(defendingField.getDefenderFrontRow3().showCard());
 
-			temp.add(defendingField.getBackRow1().showCard());
-			temp.add(defendingField.getBackRow2().showCard());
+			temp.add(defendingField.getDefenderBackRow1().showCard());
+			temp.add(defendingField.getDefenderBackRow2().showCard());
 
 			// stand all rested character
 			for (Card c : temp) {
@@ -298,7 +290,7 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 	// representation of DRAW PHASE
 	private void drawPhase() {
 		// draw card
-		defendingField.getDeckZone().drawCard();
+		defendingField.getDefenderDeckZone().drawCard();
 
 		hasClocked = false;
 	}
@@ -341,10 +333,10 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 	// representation of END PHASE
 	private void endPhase() {
 		// removing climax card from climax zone into waiting room
-		Card climaxCard = defendingField.getClimaxZone().showCard();
+		Card climaxCard = defendingField.getDefenderClimaxZone().showCard();
 		if (climaxCard != null) {
-			defendingField.getClimaxZone().removeCard();
-			defendingField.getWaitingRoom().setCard(climaxCard);
+			defendingField.getDefenderClimaxZone().removeCard();
+			defendingField.getDefenderWaitingRoom().setCard(climaxCard);
 		}
 	}
 
@@ -379,23 +371,18 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 	}
 
 	public void mouseReleased(MouseEvent e) {
-//		e.translatePoint(0, (int) (-defendingField.getPreferredSize().getHeight()));
-//		System.out.printf("new mouse x = %d, y = %d\n", e.getX(),
-//		   (int) (e.getY() - defendingField.getHeight() * gameScale));
-		System.out.println("Old Game click: " + e.getX() + ", " + e.getY());
-		MouseEvent newE = new MouseEvent((Component) e.getSource(), e.getID(),
-		   e.getWhen(), e.getModifiers(), e.getX() - 0,
-		   (int) (e.getY() - defendingField.getPreferredSize().getHeight()),
-		   e.getClickCount(), false);
-		System.out.println("New Game click: " + newE.getX() + ", " + newE.getY());
+		// e.translatePoint(0, (int)
+		// (-defendingField.getPreferredSize().getHeight()));
+
+		System.out.println("Game click: " + e.getX() + ", " + e.getY());
 		if (gameStatus == 2) {
 		} else {
-			if (nextRect != null && nextRect.contains(newE.getPoint())) {
+			if (nextRect != null && nextRect.contains(e.getPoint())) {
 				nextPhase();
 			}
 			// currentPlayer.getHand().mouseClicked(e);
-			player1.getHand().mouseReleased(newE);
-			defendingField.mouseReleased(newE);
+			player1.getHand().mouseReleased(e);
+			defendingField.mouseReleased(e);
 
 			// if (// currentPlayer.getCurrentPhase() == Phase.CLOCK_PHASE
 			// player1.getCurrentPhase() == Phase.CLOCK_PHASE

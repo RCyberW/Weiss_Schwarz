@@ -21,8 +21,9 @@ public class Climax_Zone extends FieldElement {
 
 	public Card climaxCard;
 
-	public Climax_Zone(String imageFileName, int xa, int ya, Player player) {
-		super(imageFileName, xa, ya, "Climax", player);
+	public Climax_Zone(String imageFileName, int xa, int ya, Player player,
+	   int offset) {
+		super(imageFileName, xa, ya, "Climax", player, offset);
 	}
 
 	public void setCard(Card c) {
@@ -43,7 +44,7 @@ public class Climax_Zone extends FieldElement {
 	public boolean snapToZone(Card c) {
 
 		if (c.getT() == Type.CLIMAX && c.getCardBound().intersects(rect)
-			&& !containCards()) {
+		   && !containCards()) {
 			c.getCardBound().setLocation(x, y);
 			return true;
 		}
@@ -60,7 +61,6 @@ public class Climax_Zone extends FieldElement {
 	public void paint(Graphics g, Card c) {
 		if (showCard() != c && showCard() != null) {
 			// climaxCard.paint(g, this.x, this.y, true, true);
-			climaxCard.setDisplay(true, true);
 			climaxCard.toCanvas().setLocation(x, y);
 			climaxCard.toCanvas().paint(g);
 		} else {
@@ -68,8 +68,9 @@ public class Climax_Zone extends FieldElement {
 		}
 		g.setFont(new Font("TimesRoman", Font.PLAIN, 12));
 		g.setColor(Color.BLUE);
-
-		g.drawString(zoneName, x + 10, y + 20);
+		
+		if (MainField.debug)
+			g.drawString(zoneName, x + 10, y + 20);
 	}
 
 	// @Override
@@ -90,7 +91,8 @@ public class Climax_Zone extends FieldElement {
 			associatedPlayer.getField().setSelected(climaxCard);
 
 		if (e.getButton() == MouseEvent.BUTTON3) {
-			associatedPlayer.getField().getWaitingRoom().setCard(climaxCard);
+			associatedPlayer.getField().getDefenderWaitingRoom()
+			   .setCard(climaxCard);
 			removeCard();
 		}
 	}
