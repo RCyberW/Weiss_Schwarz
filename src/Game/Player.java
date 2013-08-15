@@ -377,12 +377,17 @@ public class Player implements Serializable {
 		   + (selectedCard.getLevel() >= 0 ? selectedCard.getLevel() : "-") + " ";
 		areaContext += "COST: "
 		   + (selectedCard.getCost() >= 0 ? selectedCard.getCost() : "-") + " ";
-		areaContext += "TRIGGER: " + selectedCard.getTrigger();
 
 		JTextArea cardNumber = new JTextArea(areaContext);
 		cardNumber.setLineWrap(true);
 		cardNumber.setWrapStyleWord(true);
 		cardNumber.setEditable(false);
+		
+		areaContext = "TRIGGER: " + selectedCard.getTrigger();
+		JTextArea trigger = new JTextArea(areaContext);
+		trigger.setLineWrap(true);
+		trigger.setWrapStyleWord(true);
+		trigger.setEditable(false);
 
 		areaContext = "";
 		areaContext += "POWER: "
@@ -402,6 +407,7 @@ public class Player implements Serializable {
 		JScrollPane effect = new JScrollPane(text);
 		displayArea.add(cardTitle);
 		displayArea.add(cardNumber);
+		displayArea.add(trigger);
 		displayArea.add(power);
 		displayArea.add(effect);
 

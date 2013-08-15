@@ -17,6 +17,7 @@
 package Game;
 
 import java.awt.Color;
+import java.awt.Component;
 import java.awt.Dimension;
 import java.awt.Font;
 import java.awt.Graphics;
@@ -25,6 +26,7 @@ import java.awt.Rectangle;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import java.awt.event.MouseMotionListener;
+import java.awt.geom.AffineTransform;
 import java.util.ArrayList;
 
 import javax.swing.JPanel;
@@ -39,10 +41,10 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 	 * static variables
 	 */
 	private static final long serialVersionUID = -4141688861533493929L;
-	public static double gameScale = 0.6;
+	public static double gameScale = 0.5;
 	public static int translatedY = 0;
 	public static int maxWidth = 1200;
-	public static int maxHeight = 770;
+	public static int maxHeight = 1370;
 	// public static Connector connect;
 
 	public Phase currPhase;
@@ -139,7 +141,7 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 	}
 
 	public void startGame() {
-		// player1.drawField();		
+		// player1.drawField();
 		player1.setCurrentPhase(Phase.STAND_PHASE);
 		currPhase = player1.getCurrentPhase();
 		nextPhase();
@@ -198,14 +200,27 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 		// TODO: receive and update each player's field
 		Graphics2D g2 = (Graphics2D) g;
 		// paintWords(g2);
-		g2.setColor(Color.pink);
-		g2.setBackground(Color.pink);
+		// g2.setColor(Color.pink);
+		// g2.setBackground(Color.pink);
 		Font original = g2.getFont();
 		g2.setFont(new Font("Arial", Font.BOLD, (int) (22 * gameScale)));
 
-		player1.getHand().paint(g2);
+		g2.translate(0, defendingField.getPreferredSize().getHeight());
 
+		g2.rotate(-Math.PI, (maxWidth * Game.gameScale) / 2, defendingField
+		   .getPreferredSize().getHeight() * Game.gameScale);
+		g2.translate(0, defendingField.getPreferredSize().getHeight());
+
+		defendingField.paint(g2);
+
+		g2.rotate(-Math.PI, (maxWidth * Game.gameScale) / 2, defendingField
+		   .getPreferredSize().getHeight() * Game.gameScale);
+		g2.translate(0, defendingField.getPreferredSize().getHeight());
+
+		player1.getHand().paint(g2);
 		attackingField.paint(g2);
+
+		// player1.getHand().paint(g2);
 
 		// initialize nextRect
 		int initialX, initialY;
@@ -251,10 +266,12 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 		// TODO: send player field to the other player
 		System.out.printf("Game dimension = %d x %d\n", this.getWidth(),
 		   this.getHeight());
-		System.out.printf("Field dimension = %f x %f\n",
-		   attackingField.getPreferredSize().getWidth(), attackingField.getPreferredSize().getHeight());
-		System.out.printf("Hand dimension = %f x %f\n",
-		   player1.getHand().getPreferredSize().getWidth(), player1.getHand().getPreferredSize().getHeight());
+		System.out.printf("Field dimension = %f x %f\n", attackingField
+		   .getPreferredSize().getWidth(), attackingField.getPreferredSize()
+		   .getHeight());
+		System.out.printf("Hand dimension = %f x %f\n", player1.getHand()
+		   .getPreferredSize().getWidth(), player1.getHand().getPreferredSize()
+		   .getHeight());
 	}
 
 	// representation of STAND PHASE
@@ -362,15 +379,23 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 	}
 
 	public void mouseReleased(MouseEvent e) {
-		System.out.println("game click: " + e.getX() + ", " + e.getY());
+//		e.translatePoint(0, (int) (-defendingField.getPreferredSize().getHeight()));
+//		System.out.printf("new mouse x = %d, y = %d\n", e.getX(),
+//		   (int) (e.getY() - defendingField.getHeight() * gameScale));
+		System.out.println("Old Game click: " + e.getX() + ", " + e.getY());
+		MouseEvent newE = new MouseEvent((Component) e.getSource(), e.getID(),
+		   e.getWhen(), e.getModifiers(), e.getX() - 0,
+		   (int) (e.getY() - defendingField.getPreferredSize().getHeight()),
+		   e.getClickCount(), false);
+		System.out.println("New Game click: " + newE.getX() + ", " + newE.getY());
 		if (gameStatus == 2) {
 		} else {
-			if (nextRect != null && nextRect.contains(e.getPoint())) {
+			if (nextRect != null && nextRect.contains(newE.getPoint())) {
 				nextPhase();
 			}
 			// currentPlayer.getHand().mouseClicked(e);
-			player1.getHand().mouseReleased(e);
-			defendingField.mouseReleased(e);
+			player1.getHand().mouseReleased(newE);
+			defendingField.mouseReleased(newE);
 
 			// if (// currentPlayer.getCurrentPhase() == Phase.CLOCK_PHASE
 			// player1.getCurrentPhase() == Phase.CLOCK_PHASE

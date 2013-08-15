@@ -1,6 +1,7 @@
 import java.awt.Canvas;
 import java.awt.Dimension;
 import java.awt.Graphics;
+import java.awt.Graphics2D;
 import java.awt.Image;
 import java.awt.image.BufferedImage;
 import java.awt.image.renderable.ParameterBlock;
@@ -25,6 +26,8 @@ public class PerspectiveTransformTest {
 				private static final long serialVersionUID = 932367309486409810L;
 
 				public void paint(Graphics g) {
+					Graphics2D g2 = (Graphics2D) g;
+
 					Image after;
 					try {
 						BufferedImage before = ImageIO.read(getClass()
@@ -35,21 +38,27 @@ public class PerspectiveTransformTest {
 						int hit = before.getHeight();
 						after = new BufferedImage(wid, hit,
 						   BufferedImage.TYPE_INT_ARGB);
-						
-//						AffineTransform at = new AffineTransform();
+
+						g2.drawImage(before, x, y + before.getHeight(), null);
+						g2.drawImage(before, x + before.getWidth(),
+						   y + before.getHeight(), null);
+
+						g2.rotate(-Math.PI, x + before.getWidth() / 2,
+						   y + before.getHeight() / 2);
+
+						// AffineTransform at = new AffineTransform();
 
 						WarpPerspective warp = new WarpPerspective(
-						   PerspectiveTransform.getQuadToQuad(
-						   	x, y,// x1, y1
+						   PerspectiveTransform.getQuadToQuad(x, y,// x1, y1
 						      x + wid, y,// x2, y2
 						      x, y + hit,// x3, y3
 						      x + wid, y + hit,// x4, y5
 						      // dest
 						      x, y,// x1, y1
 						      x + wid, y,// x2, y2
-						      x + 10, y + hit + 20,// x3, y3
-						      x + wid - 10, y + hit + 20// x4, y5
-						      ));
+						      x, y + hit,// x3, y3
+						      x + wid, y + hit// x4, y5
+						   ));
 
 						ParameterBlock pb = new ParameterBlock();
 
@@ -60,14 +69,16 @@ public class PerspectiveTransformTest {
 						RenderedOp o = JAI.create("warp", pb);
 						after = o.getAsBufferedImage();
 
-//						AffineTransformOp scaleOp = new AffineTransformOp(at,
-//						   AffineTransformOp.TYPE_BILINEAR);
-//						after = scaleOp.filter(before, null);
+						// AffineTransformOp scaleOp = new AffineTransformOp(at,
+						// AffineTransformOp.TYPE_BILINEAR);
+						// after = scaleOp.filter(before, null);
 
-						g.drawImage(after, x, y, null);
+						g2.drawImage(after, x, y, null);
+						g2.drawImage(after, x + before.getWidth(), y, null);
 						customCanvas.setBounds(x, y, 500, 500);
 						customCanvas.setSize(500, 500);
 						customCanvas.setPreferredSize(new Dimension(500, 500));
+
 					} catch (MalformedURLException e) {
 						e.printStackTrace();
 					} catch (IOException e) {
