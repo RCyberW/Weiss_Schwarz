@@ -661,7 +661,7 @@ public class BuilderGUI extends JFrame {
 
 		JEditorPane link = new JEditorPane(
 				"text/html",
-				"Special thanks to <a href = 'http://littleakiba.com/tcg/weiss-schwarz'>littleakiba</a> for the translations.");
+				"Special thanks to <a href = 'http://littleakiba.com/tcg/weiss-schwarz'>littleakiba</a> for most of the translations.");
 		link.setEditable(false);
 		link.setOpaque(true);
 		link.addHyperlinkListener(new HyperlinkListener() {
