@@ -333,38 +333,39 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 		nameLabel.setEditable(false);
 		// nameLabel.setFont(font);
 
-		JTextField idLabel = new JTextField(id.replace("_alt", "").replace("_sign", ""));
+		JTextField idLabel = new JTextField(id.replace("_alt", "").replace(
+				"_sign", ""));
 		idLabel.setEditable(false);
 		// idLabel.setFont(font);
-		
+
 		JTextField typeLabel = new JTextField(t.toString());
 		typeLabel.setEditable(false);
 		// typeLabel.setFont(font);
-		
+
 		JTextField levelLabel = new JTextField("Level: "
 				+ (level >= 0 ? level : " -"));
 		levelLabel.setEditable(false);
 		// levelLabel.setFont(font);
-		
+
 		JTextField costLabel = new JTextField("Cost: "
 				+ (cost >= 0 ? cost : " -"));
 		costLabel.setEditable(false);
 		// costLabel.setFont(font);
-		
+
 		JTextField soulLabel = new JTextField("Trigger: " + trigger.toString());
 		soulLabel.setEditable(false);
 		// soulLabel.setFont(font);
-		
+
 		JTextField powerLabel = new JTextField("Power: "
 				+ (power > 0 ? power : " -"));
 		powerLabel.setEditable(false);
 		// powerLabel.setFont(font);
-		
+
 		JTextField damageLabel = new JTextField("Soul: "
 				+ (soul > 0 ? soul : " -"));
 		damageLabel.setEditable(false);
 		// damageLabel.setFont(font);
-		
+
 		layout.setAutoCreateGaps(true);
 		layout.setAutoCreateContainerGaps(true);
 
@@ -764,11 +765,20 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 		}
 
 		if (!sTrait.isEmpty()) {
-			isMet = isMet
-					&& (trait1.toLowerCase().contains(sTrait)
-							|| trait2.toLowerCase().contains(sTrait)
-							|| trait1_e.toLowerCase().contains(sTrait) || trait2_e
-							.toLowerCase().contains(sTrait));
+
+			String[] parts = sTrait.split(" ");
+
+			for (int i = 0; i < parts.length; i++) {
+				isMet = isMet
+						&& (trait1.toLowerCase().contains(
+								parts[i].toLowerCase())
+								|| trait2.toLowerCase().contains(
+										parts[i].toLowerCase())
+								|| trait1_e.toLowerCase().contains(
+										parts[i].toLowerCase()) || trait2_e
+								.toLowerCase().contains(parts[i].toLowerCase()));
+			}
+
 		}
 
 		if (!sAbility.isEmpty()) {

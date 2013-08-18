@@ -857,7 +857,8 @@ public class BuilderGUI extends JFrame {
 							row, 0));
 				}
 				if (e.getKeyCode() == KeyEvent.VK_DELETE
-						|| e.getKeyCode() == KeyEvent.VK_MINUS) {
+						|| e.getKeyCode() == KeyEvent.VK_MINUS
+						|| e.getKeyCode() == KeyEvent.VK_SUBTRACT) {
 					if (currentDeck.removeCard(selectedCard))
 						refresh("removeFromDeck");
 				} else if (e.getKeyCode() == KeyEvent.VK_EQUALS
@@ -1227,7 +1228,8 @@ public class BuilderGUI extends JFrame {
 						|| e.getKeyCode() == KeyEvent.VK_DOWN)
 					refresh("deckListSelect");
 				if (e.getKeyCode() == KeyEvent.VK_DELETE
-						|| e.getKeyCode() == KeyEvent.VK_MINUS) {
+						|| e.getKeyCode() == KeyEvent.VK_MINUS
+						|| e.getKeyCode() == KeyEvent.VK_SUBTRACT) {
 					if (currentDeck.removeCard(selectedCard))
 						refresh("removeFromDeck");
 				} else if (e.getKeyCode() == KeyEvent.VK_EQUALS
