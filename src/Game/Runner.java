@@ -11,6 +11,7 @@ public class Runner {
 	// public static Connector connector;
 
 	public static void main(String[] args) {
+		@SuppressWarnings("unused")
 		PrintStream debugLog;
 		try {
 			debugLog = new PrintStream(new File("Debug.llog"));
