@@ -1027,6 +1027,8 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 				|| c.getID().equals("ID/W10-014 C")
 				|| c.getID().equals("SG/W19-038 C"))
 			return 50;
+		else if (c.getID().equals("VR/W22-074 C"))
+			return 10;
 		else if (c.getID().contains("FT/SE10-29"))
 			return 6;
 		else
