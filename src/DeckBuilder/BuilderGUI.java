@@ -1120,8 +1120,8 @@ public class BuilderGUI extends JFrame {
 		deckListTable
 				.setPreferredScrollableViewportSize(new Dimension(600, 175));
 		deckListTable.setFillsViewportHeight(true);
-		deckListTable.setRowSorter(new TableRowSorter<TableModel>(deckListTable
-				.getModel()));
+		deckListTable.setRowSorter(new LinkedTableRowSorter<TableModel>(deckListTable
+				.getModel(),this));
 
 		// Handles right click selection
 		deckListTable.addMouseListener(new MouseAdapter() {
@@ -1333,12 +1333,12 @@ public class BuilderGUI extends JFrame {
 		else
 			lv0CountText.setForeground(Color.BLACK);
 
-		if (currentDeck.getNumLevel1() < 10 || currentDeck.getNumLevel1() > 14)
+		if (currentDeck.getNumLevel1() < 8 || currentDeck.getNumLevel1() > 14)
 			lv1CountText.setForeground(Color.RED);
 		else
 			lv1CountText.setForeground(Color.BLACK);
 
-		if (currentDeck.getNumLevel2() < 8 || currentDeck.getNumLevel2() > 12)
+		if (currentDeck.getNumLevel2() < 6 || currentDeck.getNumLevel2() > 12)
 			lv2CountText.setForeground(Color.RED);
 		else
 			lv2CountText.setForeground(Color.BLACK);
@@ -1483,31 +1483,36 @@ public class BuilderGUI extends JFrame {
 		Box vbox = Box.createVerticalBox();
 		vbox.setAlignmentX(Box.LEFT_ALIGNMENT);
 
-		for (int i = 0; i < currentDeck.getCards().size(); i++) {
-			if (i % DECKPERLINE == 0 && i > 0) {
-				vbox.add(box);
-				box = Box.createHorizontalBox();
-				box.setAlignmentX(Box.LEFT_ALIGNMENT);
-			}
-			final Card thisCard = currentDeck.getCards().get(i);
-			JLabel tempLab = thisCard.initiateImage();
-			MouseListener listener = new MouseAdapter() {
-				public void mouseReleased(MouseEvent e) {
-					selectedCard = thisCard;
-					System.out.println(thisCard.getCardName() + " has "
-							+ thisCard.getCardCount() + " copies");
-					refresh("deckListSelect");
-
-					if ((e.getClickCount() == 2 && e.getButton() == MouseEvent.BUTTON1)
-							|| (e.getClickCount() == 1 && e.getButton() == MouseEvent.BUTTON3)) {
-						currentDeck.removeCard(selectedCard);
-						refresh("removeFromDeck");
+		int cards = 0;
+		for (int i = 0; i < deckListModel.getRowCount(); i++) {
+//		for (int i = 0; i < currentDeck.getCards().size(); i++) {
+			int qty = (Integer) deckListTable.getValueAt(i, 0);
+			final Card thisCard = cardHolder.get(deckListTable.getValueAt(i, 1).toString());
+			for (int j = 0; j < qty; ++j) {
+				JLabel tempLab = thisCard.initiateImage();
+				MouseListener listener = new MouseAdapter() {
+					public void mouseReleased(MouseEvent e) {
+						selectedCard = thisCard;
+						System.out.println(thisCard.getCardName() + " has "
+								+ thisCard.getCardCount() + " copies");
+						refresh("deckListSelect");
+						
+						if ((e.getClickCount() == 2 && e.getButton() == MouseEvent.BUTTON1)
+								|| (e.getClickCount() == 1 && e.getButton() == MouseEvent.BUTTON3)) {
+							currentDeck.removeCard(selectedCard);
+							refresh("removeFromDeck");
+						}
 					}
+				};
+				
+				tempLab.addMouseListener(listener);
+				box.add(tempLab);
+				if (++cards % DECKPERLINE == 0 && cards > 0) {
+					vbox.add(box);
+					box = Box.createHorizontalBox();
+					box.setAlignmentX(Box.LEFT_ALIGNMENT);
 				}
-			};
-
-			tempLab.addMouseListener(listener);
-			box.add(tempLab);
+			}
 
 		}
 		vbox.add(box);
@@ -1637,6 +1642,12 @@ public class BuilderGUI extends JFrame {
 			refreshStats();
 			refreshDeckArea();
 			// changes = true;
+		}
+		
+		if (source.equalsIgnoreCase("deckThumbs")) {
+			int resultThumbIndex = deckArea.indexOfComponent(deckThumbPane);
+			deckThumbPane = buildDeckThumbPane(deckPane);
+			deckArea.setComponentAt(resultThumbIndex, deckThumbPane);
 		}
 
 		// BorderLayout layout = new BorderLayout();
