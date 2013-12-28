@@ -9,8 +9,9 @@
 package CardAssociation;
 
 public enum Trigger {
-	ALL(""), NONE("None"), SOUL("Soul+1"), DUALSOUL("Soul+2"), SOULWIND("Return"), SOULFLAME(
-			"Shot"), GATE("Comeback"), TREASURE("Treasure"), GOLDBAG("Pool"), BOOK("Draw");
+	ALL(""), NONE("None"), SOUL("Soul+1"), DUALSOUL("Soul+2"), 
+	SOULWIND("Return"), SOULFLAME("Shot"), DOOR("Comeback"), 
+	TREASURE("Treasure"), GOLDBAG("Pool"), BOOK("Draw"), GATE("Gate");
 
 	String s;
 
@@ -34,13 +35,15 @@ public enum Trigger {
 		} else if (s.equals("1F")) {
 			return SOULFLAME;
 		} else if (s.equals("D")) {
-			return GATE;
+			return DOOR;
 		} else if (s.equals("G")) {
 			return TREASURE;
 		} else if (s.equals("S")) {
 			return GOLDBAG;
 		} else if (s.equals("B")) {
 			return BOOK;
+		} else if (s.equals("1G")) {
+			return GATE;
 		} else {
 			return null;
 		}
@@ -60,7 +63,7 @@ public enum Trigger {
 	    		return 4;
 	    	case SOULFLAME:
 	    		return 5;
-	    	case GATE:
+	    	case DOOR:
 	    		return 6;
 	    	case TREASURE:
 	    		return 7;
@@ -68,6 +71,8 @@ public enum Trigger {
 	    		return 8;
 	    	case BOOK:
 	    		return 9;
+	    	case GATE:
+	    		return 10;
 	    	default:
     			return 255;
     	}
