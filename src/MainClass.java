@@ -17,11 +17,13 @@ import java.util.HashMap;
 import javax.swing.Box;
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
+import javax.swing.JComponent;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JLayeredPane;
 import javax.swing.JPanel;
 import javax.swing.JScrollPane;
+import javax.swing.JSeparator;
 
 import CardAssociation.Card;
 import CardAssociation.Deck;
@@ -34,6 +36,24 @@ public class MainClass {
 	private Box option;
 	private Card selectedCard;
 	private JFrame testFrame;
+	private DisplayMode displayMode = DisplayMode.STACKMODE;
+	private JScrollPane deckDisplay;
+	final private String selectedDeck = "dc-sara";
+
+	private enum DisplayMode {
+		GRIDMODE("GridMode"), STACKMODE("StackMode");
+
+		String mode;
+
+		DisplayMode(String mode) {
+			this.mode = mode;
+		}
+
+		public String toString() {
+			return mode;
+		}
+
+	}
 
 	@SuppressWarnings("unchecked")
 	private void deserializer() {
@@ -61,20 +81,38 @@ public class MainClass {
 
 	public void buildAndDisplay() {
 		deserializer();
-		final String selectedDeck = "dc-sara";
+
+		currentDeck = new Deck();
+		currentDeck.loadRaw(new File("Deck/" + selectedDeck), cardHolder);
 
 		testFrame = new JFrame("Testificate MD");
 		testFrame.setPreferredSize(new Dimension(1000, 700));
 
-		final JLayeredPane contentPanel = new JLayeredPane();
 		// contentPanel.setBounds(0, 0, 1000, 720);
+		deckDisplay = new JScrollPane();
+		displayDeck();
 
 		testFrame.add(sideBar(), BorderLayout.WEST);
+		testFrame.add(deckDisplay, BorderLayout.CENTER);
 
-		currentDeck = new Deck();
-		currentDeck.loadRaw(new File("Deck/" + selectedDeck), cardHolder);
-		System.out.println(selectedDeck + " has "
-		   + currentDeck.getPlayingDeck().size() + " cards");
+		testFrame.pack();
+		testFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		testFrame.setVisible(true);
+	}
+
+	private void displayDeck() {
+		deckDisplay.removeAll();
+		deckDisplay.validate();
+
+		System.out.println("reset display view " + displayMode.toString());
+
+		JComponent contentPanel;
+
+		if (displayMode == DisplayMode.STACKMODE) {
+			contentPanel = new JLayeredPane();
+		} else {
+			contentPanel = new JPanel();
+		}
 
 		int x = 10, y = 10, bigBound = 0;
 
@@ -83,9 +121,7 @@ public class MainClass {
 		for (int i = 0; i < uniqueCards.size(); i++) {
 			final Card card = uniqueCards.get(i);
 			if (x + 120 > 650) {
-				System.out.println("x = " + x);
 				x = 10;
-				System.out.println("bigBound = " + bigBound);
 				y = 10 + bigBound;
 				bigBound = 0;
 			}
@@ -106,23 +142,25 @@ public class MainClass {
 					cardLabel.addMouseListener(new MouseAdapter() {
 						public void mousePressed(MouseEvent e) {
 							selectedCard = card;
-
-							System.out.println("selectedCard = "
-							   + selectedCard.getCardName());
 							setCardInfo();
-
 						}
 					});
-					cardLabel.setBounds(x, yprime, image.getWidth(null),
-					   image.getHeight(null));
+
+					if (displayMode == DisplayMode.STACKMODE)
+						cardLabel.setBounds(x, yprime, image.getWidth(null),
+						   image.getHeight(null));
 					if (z >= card.getCardCount())
 						break;
 					contentPanel.add(cardLabel, new Integer(0), 0);
-					x += image.getWidth(null) * 0.1;
-					yprime += image.getHeight(null) * 0.1;
+					if (displayMode == DisplayMode.STACKMODE) {
+						x += image.getWidth(null) * 0.1;
+						yprime += image.getHeight(null) * 0.1;
+					} else {
+						x += image.getWidth(null);
+					}
 					if (yprime + image.getHeight(null) > bigBound) {
 						bigBound = yprime + image.getHeight(null);
-						System.out.printf("new bigBound = %d(%d)\n", bigBound, z);
+						// System.out.printf("new bigBound = %d(%d)\n", bigBound, z);
 					}
 				}
 
@@ -134,19 +172,12 @@ public class MainClass {
 
 		}
 
-		System.out.println("contentPanel ("
-		   + contentPanel.getPreferredSize().getWidth() + " x "
-		   + contentPanel.getPreferredSize().getHeight() + ")");
-
-		contentPanel.setPreferredSize(new Dimension(600, bigBound));
-
-		JScrollPane jsp = new JScrollPane();
-		jsp.setViewportView(contentPanel);
-
-		testFrame.add(jsp, BorderLayout.CENTER);
-
-		testFrame.pack();
-		testFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		if (displayMode == DisplayMode.STACKMODE)
+			contentPanel.setPreferredSize(new Dimension(600, bigBound));
+		
+		// deckDisplay = new JScrollPane();
+		deckDisplay.setViewportView(contentPanel);
+		System.out.println("new view " + displayMode.toString());
 		testFrame.setVisible(true);
 	}
 
@@ -160,6 +191,7 @@ public class MainClass {
 		optionBox();
 
 		navigationBar.add(displayInfo);
+		navigationBar.add(new JSeparator());
 		navigationBar.add(Box.createVerticalGlue());
 		navigationBar.add(option);
 		navigationBar.add(Box.createVerticalStrut(10));
@@ -167,10 +199,31 @@ public class MainClass {
 		return navigationBar;
 	}
 
-	public void optionBox() {
-		JButton saveImg = new JButton("Export as image");
+	private void optionBox() {
+		option.removeAll();
+		option.revalidate();
 
-		ActionListener listener2 = new ActionListener() {
+		JButton saveImg = new JButton("Export as image");
+		JButton changeView = new JButton("Stack View");
+		if (displayMode == DisplayMode.STACKMODE)
+			changeView.setText("Grid View");
+		JButton printTranslation = new JButton("Print Translation");
+		JButton printProxy = new JButton("Print Proxy Size");
+
+		changeView.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				if (displayMode == DisplayMode.STACKMODE) {
+					displayMode = DisplayMode.GRIDMODE;
+				} else {
+					displayMode = DisplayMode.STACKMODE;
+				}
+
+				displayDeck();
+				optionBox();
+			}
+		});
+
+		ActionListener printScreen = new ActionListener() {
 			@Override
 			public void actionPerformed(ActionEvent ae) {
 				// try {
@@ -191,9 +244,12 @@ public class MainClass {
 				// }
 			}
 		};
-		saveImg.addActionListener(listener2);
+		saveImg.addActionListener(printScreen);
 
 		option.add(saveImg);
+		option.add(changeView);
+		option.add(printTranslation);
+		option.add(printProxy);
 	}
 
 	private void setCardInfo() {
