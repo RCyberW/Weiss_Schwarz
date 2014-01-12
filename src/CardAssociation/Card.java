@@ -245,15 +245,24 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 		JLabel imageLabel = new JLabel();
 		try {
 			Image image = ImageIO.read(getClass().getResourceAsStream(
-					getImageResource()));
-			// Image image = ImageIO.read(new
-			// File("src/FieldImages/cardBack-s.jpg").toURI().toURL());
-			// Image image = ImageIO.read((imageFile.toURI()).toURL());
-			// ImageIcon img = new ImageIcon(image);
-
-			ImageIcon img = new ImageIcon(image.getScaledInstance(
-					(int) (image.getWidth(null) * 0.44),
-					(int) (image.getHeight(null) * 0.44), Image.SCALE_SMOOTH));
+						getImageResource()));
+			ImageIcon img;
+			if (getImageResource().contains(".gif")) {
+				img = new ImageIcon(image.getScaledInstance(
+						(int) (image.getWidth(null) * 0.44 * 0.79),
+						(int) (image.getHeight(null) * 0.44 * 0.79), Image.SCALE_SMOOTH));
+			}
+			else {
+				// Original JPGs
+				// Image image = ImageIO.read(new
+				// File("src/FieldImages/cardBack-s.jpg").toURI().toURL());
+				// Image image = ImageIO.read((imageFile.toURI()).toURL());
+				// ImageIcon img = new ImageIcon(image);
+				
+				img = new ImageIcon(image.getScaledInstance(
+						(int) (image.getWidth(null) * 0.44),
+						(int) (image.getHeight(null) * 0.44), Image.SCALE_SMOOTH));
+			}
 
 			imageLabel.setIcon(img);
 		} catch (MalformedURLException e) {
@@ -454,7 +463,15 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 			// System.out.println(getImageResource());
 			Image image = ImageIO.read(getClass().getResourceAsStream(
 					getImageResource()));
-			ImageIcon img = new ImageIcon(image);
+			ImageIcon img;
+			if (getImageResource().contains(".gif")) {
+				img = new ImageIcon(image.getScaledInstance(
+						(int) (image.getWidth(null) * 0.79),
+						(int) (image.getHeight(null) * 0.79), Image.SCALE_SMOOTH));
+			}
+			else {
+				img = new ImageIcon(image);
+			}
 			imagePane.add(new JLabel(img));
 		} catch (MalformedURLException e) {
 			e.printStackTrace();
