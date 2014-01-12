@@ -238,4 +238,10 @@ public class Random_Zone extends FieldElement {
 		return thisCard.size() > 0 ? thisCard.get(thisCard.size() - 1) : null;
 	}
 
+	@Override
+	public Card removeCard(Card nothing) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }

@@ -655,6 +655,10 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 		dupCount--;
 	}
 
+	public boolean meetsRequirement(String uuid) {
+		return uniqueID.toString().equalsIgnoreCase(uuid);
+	}
+	
 	/**
 	 * Check to see if the card meets the requirements given
 	 * 

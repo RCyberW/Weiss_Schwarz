@@ -36,7 +36,7 @@ public class Back_Row extends FieldElement {
 	public void setCard(Card c) {
 		if (c != null) {
 			c.setCurrentState(State.STAND);
-			removeCard();
+			removeCard(null);
 		}
 		backCard = c;
 		repaint();
@@ -50,7 +50,7 @@ public class Back_Row extends FieldElement {
 		return backCard;
 	}
 
-	public Card removeCard() {
+	public Card removeCard(Card nothing) {
 		Card c = backCard;
 		backCard = null;
 		return c;
@@ -152,7 +152,7 @@ public class Back_Row extends FieldElement {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				associatedPlayer.getField().getDefenderWaitingRoom().setCard(backCard);
-				removeCard();
+				removeCard(null);
 				associatedPlayer.getField().repaintElements();
 			}
 		});
@@ -163,7 +163,7 @@ public class Back_Row extends FieldElement {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				associatedPlayer.getHand().setCard(backCard);
-				removeCard();
+				removeCard(null);
 				associatedPlayer.getField().repaintElements();
 			}
 		});
@@ -174,7 +174,7 @@ public class Back_Row extends FieldElement {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				associatedPlayer.getField().getDefenderDeckZone().setCard(backCard);
-				removeCard();
+				removeCard(null);
 				associatedPlayer.getField().repaintElements();
 			}
 		});
@@ -185,7 +185,7 @@ public class Back_Row extends FieldElement {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				associatedPlayer.getField().getDefenderDeckZone().setBotCard(backCard);
-				removeCard();
+				removeCard(null);
 				associatedPlayer.getField().repaintElements();
 			}
 		});
@@ -196,7 +196,7 @@ public class Back_Row extends FieldElement {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				associatedPlayer.getField().getDefenderMemoryZone().setCard(backCard);
-				removeCard();
+				removeCard(null);
 				associatedPlayer.getField().repaintElements();
 			}
 		});
@@ -207,7 +207,7 @@ public class Back_Row extends FieldElement {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				associatedPlayer.getField().getDefenderStockZone().setCard(backCard);
-				removeCard();
+				removeCard(null);
 				associatedPlayer.getField().repaintElements();
 			}
 		});
@@ -218,7 +218,7 @@ public class Back_Row extends FieldElement {
 			@Override
 			public void actionPerformed(ActionEvent e) {
 				associatedPlayer.getField().getDefenderClockZone().setCard(backCard);
-				removeCard();
+				removeCard(null);
 				associatedPlayer.getField().repaintElements();
 			}
 		});

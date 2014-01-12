@@ -40,7 +40,7 @@ public class Memory_Zone extends FieldElement {
 		return memoryZone;
 	}
 
-	public Card removeCard() {
+	public Card removeCard(Card nothing) {
 		if (!containCards())
 			return null;
 		Card c = memoryZone.remove(memoryZone.size() - 1);

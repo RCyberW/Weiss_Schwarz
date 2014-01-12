@@ -552,4 +552,15 @@ public class MainField extends Canvas implements Serializable, MouseListener,
 		associatedPlayer.f.toFront();
 		associatedPlayer.f.repaint();
 	}
+	
+	public FieldElement findZone(FieldElement f) {
+		
+		for (FieldElement ele : elements) {
+			if (ele.getZoneName().equals(f.getZoneName())) {
+				return ele;
+			}
+		}
+		
+		return null;
+	}
 }

@@ -589,4 +589,8 @@ public class Player implements Serializable {
 		return playerID;
 	}
 
+	public Deck getCurrentDeck() {
+		return currentDeck;
+	}
+
 }
