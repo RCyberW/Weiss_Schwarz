@@ -53,7 +53,7 @@ public class Hand extends FieldElement {
 		return handCards;
 	}
 
-	public Card playCard(Card c) {
+	public Card removeCard(Card c) {
 		if (handCards.remove(c))
 			return c;
 		return null;
@@ -386,7 +386,7 @@ class PreGameDisplay extends DisplayList {
 			public void actionPerformed(ActionEvent e) {
 				for (Card card : showList) {
 					thisPlayer.getField().getDefenderWaitingRoom().setCard(card);
-					thisPlayer.getHand().playCard(card);
+					thisPlayer.getHand().removeCard(card);
 					thisPlayer.getField().getDefenderDeckZone().drawCard();
 					System.out.println("POPPING " + card.getCardName() + "["
 						+ card.getUniqueID() + "]");

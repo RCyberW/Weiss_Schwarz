@@ -146,17 +146,21 @@ public class Deck_Zone extends FieldElement {
 		popmenu.show(e.getComponent(), e.getX(), e.getY());
 	}
 
-	private void stockTop() {
+	public void stockTop() {
 		Card card = showCard();
 		deckZone.remove(deckZone.size() - 1);
 		associatedPlayer.getField().getDefenderStockZone().setCard(card);
 	}
 
-	private void resolutionCard() {
-		System.out.println(showCard());
+	public void resolutionCard() {
 		Card card = showCard();
 		deckZone.remove(deckZone.size() - 1);
 		associatedPlayer.getField().getDefenderRandomZone().setCard(card);
+	}
+	
+	public void stockCard(Card c) {
+		deckZone.remove(c);
+		associatedPlayer.getField().getDefenderStockZone().setCard(c);
 	}
 
 	@Override

@@ -35,7 +35,7 @@ public class Climax_Zone extends FieldElement {
 		return climaxCard;
 	}
 
-	public Card removeCard() {
+	public Card removeCard(Card nothing) {
 		Card c = climaxCard;
 		climaxCard = null;
 		return c;
@@ -93,7 +93,7 @@ public class Climax_Zone extends FieldElement {
 		if (e.getButton() == MouseEvent.BUTTON3) {
 			associatedPlayer.getField().getDefenderWaitingRoom()
 			   .setCard(climaxCard);
-			removeCard();
+			removeCard(null);
 		}
 	}
 

@@ -15,7 +15,7 @@ import javax.imageio.ImageIO;
 import CardAssociation.Card;
 import Game.Player;
 
-abstract class FieldElement extends Component implements MouseListener {
+public abstract class FieldElement extends Component implements MouseListener {
 
 	/**
 	 * Click instructions: MISSING - check top - check top place top/bottom -
@@ -250,6 +250,8 @@ abstract class FieldElement extends Component implements MouseListener {
 	}
 
 	public abstract void setCard(Card selectedCard);
+	
+	public abstract Card removeCard(Card nothing);
 
 	public abstract Card showCard();
 
@@ -277,6 +279,10 @@ abstract class FieldElement extends Component implements MouseListener {
 			return 1;
 		else
 			return 0;
+	}
+	
+	public String getZoneName() {
+		return zoneName;
 	}
 
 }

@@ -335,7 +335,7 @@ public class Game extends JPanel implements MouseListener, MouseMotionListener {
 		// removing climax card from climax zone into waiting room
 		Card climaxCard = defendingField.getDefenderClimaxZone().showCard();
 		if (climaxCard != null) {
-			defendingField.getDefenderClimaxZone().removeCard();
+			defendingField.getDefenderClimaxZone().removeCard(null);
 			defendingField.getDefenderWaitingRoom().setCard(climaxCard);
 		}
 	}

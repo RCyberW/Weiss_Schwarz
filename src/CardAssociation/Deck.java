@@ -158,7 +158,8 @@ public class Deck {
 	public boolean removeCard(Card card) {
 		// check to see if the card exists in the deck
 		if (cards.contains(card)) {
-
+			// remove the clone of the card and decrement
+			// the card count on the reference card
 			int x = 0;
 			for (; x < cardWrapper.size(); x++) {
 				if (cardWrapper.get(x).containsCard(card)) {
@@ -166,6 +167,7 @@ public class Deck {
 				}
 			}
 
+			// update the statistic of the deck
 			onlineUpdateStatistics(card, false);
 			cards.remove(card);
 			card.removeCount();
@@ -182,6 +184,8 @@ public class Deck {
 			}
 			System.out.println(card.getCardName() + " has " + card.getCardCount()
 				+ " copies");
+			// remove the unique reference if there is
+			// no more of this card
 			if (card.getCardCount() == 0) {
 				unique.remove(card);
 			}
@@ -198,15 +202,7 @@ public class Deck {
 	public ArrayList<Card> getUnique() {
 		return unique;
 	}
-
-	// public void setCardsRemain(int cardsRemain) {
-	// this.cardsRemain = cardsRemain;
-	// }
-	//
-	// public int getCardsRemain() {
-	// return cardsRemain;
-	// }
-
+	
 	// set the deck name
 	public void setDeckName(String deckName) {
 		this.deckName = deckName;
@@ -346,6 +342,25 @@ public class Deck {
 	public ArrayList<Card> getPlayingDeck() {
 		Collections.shuffle(shuffledCards);
 		return shuffledCards;
+	}
+	
+	/**
+	 * Look for a specific card in the deck
+	 * 
+	 * @param uuid
+	 * @return 
+	 */
+	public Card findCard(String uuid) {
+		Card resultCard = null;
+		
+		for (Card card : cards) {
+			if (card.meetsRequirement(uuid)) {
+				resultCard = card;
+				break;
+			}
+		}
+		
+		return resultCard;
 	}
 
 	// Update stats

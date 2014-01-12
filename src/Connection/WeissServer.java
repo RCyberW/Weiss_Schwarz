@@ -21,6 +21,11 @@ public class WeissServer extends Thread {
 		// serverSocket.setSoTimeout(10000);
 	}
 
+	// host Server A host Server B
+	// Client A connects to Server B
+	// Client B connects to Server A
+	
+	
 	public void run() {
 		while (true) {
 			try {
