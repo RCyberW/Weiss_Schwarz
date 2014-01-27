@@ -766,12 +766,13 @@ public class Card implements Serializable, MouseListener, MouseMotionListener,
 			for (int i = 0; i < parts.length; i++) {
 				isMet = isMet
 						&& (trait1.toLowerCase().contains(
-								parts[i].toLowerCase())
-								|| trait2.toLowerCase().contains(
-										parts[i].toLowerCase())
-								|| trait1_e.toLowerCase().contains(
-										parts[i].toLowerCase()) || trait2_e
-								.toLowerCase().contains(parts[i].toLowerCase()));
+								parts[i].toLowerCase()) || 
+							trait2.toLowerCase().contains(
+								parts[i].toLowerCase()) || 
+							trait1_e.toLowerCase().contains(
+								parts[i].toLowerCase()) || 
+							trait2_e.toLowerCase().contains(
+									parts[i].toLowerCase()));
 			}
 
 		}
