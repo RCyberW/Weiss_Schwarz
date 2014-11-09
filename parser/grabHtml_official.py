@@ -5,7 +5,7 @@ import sys
 
 def main(firstCard):
     nextCard = firstCard
-
+	
     while nextCard != '':
         cardURL = 'http://ws-tcg.com/jsp/cardlist?cardno='+nextCard
         print cardURL

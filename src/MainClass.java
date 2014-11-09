@@ -17,8 +17,9 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
-import CardAssociation.Card;
-import CardAssociation.Deck;
+
+import deckComponents.Card;
+import deckComponents.Deck;
 
 public class MainClass {
 
